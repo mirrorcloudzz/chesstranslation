@@ -1,0 +1,190 @@
+{
+  "pdf_page": 85,
+  "printed_page": 85,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        781.6,
+        119.8,
+        1009.5,
+        169.7
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        1498.3,
+        121.0,
+        1552.3,
+        167.2
+      ],
+      "text": "85",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        534.2,
+        369.3,
+        568.5,
+        401.7
+      ],
+      "text": "W",
+      "confidence": 0.9279
+    },
+    {
+      "bbox": [
+        220.5,
+        862.0,
+        1551.0,
+        920.6
+      ],
+      "text": "was 15 d2 c6 (after 15...h4 16 Wh5 f3 White can happily reply 17 e4) 16",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        224.2,
+        913.2,
+        1306.0,
+        968.0
+      ],
+      "text": "b4! xb4 17 xb4 d5 18 ae1 and White has the advantage'.",
+      "confidence": 0.9671
+    },
+    {
+      "bbox": [
+        267.1,
+        969.3,
+        509.7,
+        1010.5
+      ],
+      "text": "15...c6 16 c5?",
+      "confidence": 0.9744
+    },
+    {
+      "bbox": [
+        267.1,
+        1019.2,
+        1190.8,
+        1064.1
+      ],
+      "text": "A further mistake; 16 c3 would have been preferable.",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        268.3,
+        1069.1,
+        639.5,
+        1110.3
+      ],
+      "text": "16...b8 17 b6 d5!",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        263.4,
+        1120.2,
+        1547.4,
+        1171.4
+      ],
+      "text": "Now all Black's pieces come into play except the rook, and this Alekhine logi-",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        221.8,
+        1170.1,
+        858.8,
+        1218.8
+      ],
+      "text": "cally gives up, for he does not need it.",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        265.9,
+        1215.0,
+        583.2,
+        1268.7
+      ],
+      "text": "18 ②xa8 h4 (D)",
+      "confidence": 0.9325
+    },
+    {
+      "bbox": [
+        684.9,
+        1353.5,
+        802.5,
+        1400.9
+      ],
+      "text": "皇",
+      "confidence": 0.7511
+    },
+    {
+      "bbox": [
+        532.9,
+        1427.1,
+        564.8,
+        1459.6
+      ],
+      "text": "W",
+      "confidence": 0.8515
+    },
+    {
+      "bbox": [
+        264.6,
+        1924.9,
+        396.9,
+        1968.5
+      ],
+      "text": "19 Wc3",
+      "confidence": 0.9464
+    },
+    {
+      "bbox": [
+        258.5,
+        1973.5,
+        1548.6,
+        2032.1
+      ],
+      "text": "If 19 Wh5 then 19...g6 20 Wh6 Qg4 threatening both 21...Qxe2 and",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        216.9,
+        2018.4,
+        394.5,
+        2073.3
+      ],
+      "text": "21...f52.",
+      "confidence": 0.9121
+    },
+    {
+      "bbox": [
+        300.2,
+        2133.2,
+        1547.4,
+        2184.3
+      ],
+      "text": "Vukovic's line loses a piece after 17...a5 18 &d3 a4 19 c4 d5, so the move ac-",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        298.9,
+        2184.3,
+        784.1,
+        2231.7
+      ],
+      "text": "tually played is probably best.",
+      "confidence": 0.9921
+    }
+  ]
+}

@@ -1,0 +1,842 @@
+               《国际象棋中局计划》
+            计划 - 一般原则 - 具体构想
+                 英文 OCR 校正稿 + 中文翻译校对稿
+
+
+
+     文档性质     初译校对稿，非最终出版版本
+
+
+     内容范围     原书印刷页 9 至第 17 页右栏；止于 3: Dynamics 之前
+
+
+     棋谱规范     中文译文统一采用现代 SAN：O-O、1-0、0-1，并规范回合号与黑方省略号
+
+
+     术语延续     development of pieces 译为“出子”；realisation of the advantage 译为“兑现优
+              势”；concrete idea 暂译“具体构想”
+
+
+     版本日期     2026-09-23
+
+
+
+
+建议重点核对：“具体构想”的标题译法；三盘例局中对计划、目标和构想的区分；棋手姓名译法；以及所有实战与分析变例的棋
+谱。
+
+
+
+
+                                     1
+ 《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+2 具体构想（Concrete Ideas）
+一般论述
+
+
+                       经校正的英文 OCR                                                        中文译文
+
+CI-1                                                                      CI-1
+The most purposeful, the most well-founded and therefore having           最有目的性、根据最充分，因而最有可能成功实现的计划，都是
+the most chances of being successfully realised, are plans at the
+                                                                          以具体构想为基础的。
+basis of which lie concrete ideas.
+
+With concrete ideas one should take into account those ideas in           所谓具体构想，是指棋手的思考既包括从实际局面因素中产生的
+which the thoughts of a chessplayer embrace both special-purpose          明确目标，也包括实现这些目标的途径；后者能使目标得到尽可
+objectives, arising out of real positional considerations, and ways to
+                                                                          能具体的展开。
+achieve them, since the latter provides the greatest possible detailing
+of them.
+                                                                          但是，如果选定的目标不正确，或者实现目标的道路模糊不清，
+If, however, the objective chosen is incorrect or the way to              这个构想就不具备具体性，几乎注定会失败。国际象棋文献把这
+achieving it shrouded in a haze, then the idea does not prove to be
+                                                                          种情况称为“追逐影子”，并非没有道理。
+concrete and almost certainly will be doomed to failure. Not without
+reason, in chess literature, in such cases one talks of "chasing after
+shadows".
+
+
+CI-2                                                                      CI-2
+It is necessary to distinguish between strategical and tactical ideas.    必须区分战略构想与战术构想。
+
+Strategy - this is the plan as a whole; tactics - separate operations,
+leading to its fulfilment. If, graphically, a strategical plan is         战略是作为整体的计划；战术则是实现计划的一个个具体行动。
+represented in the form of a chain, then tactical ideas make up its       形象地说，如果把战略计划看成一条链，那么战术构想就是组成
+links. Tactical ideas are the means of realising a strategical idea.      这条链的各个环节。战术构想是实现战略构想的手段。
+
+A concrete strategical idea represents the main overall task in a
+given stage of the struggle. It is based on the created positional        具体的战略构想，是某一斗争阶段的主要总体任务。它以已经形
+situation ensuing from it and allows a rough mapping out of a path        成的局面为基础，又从这一局面出发，使棋手能够大致勾勒出解
+to solve the problems with which one is confronted.                       决当前问题的道路。
+
+An incorrect choice of the objective should be regarded as a
+strategical mistake, as also are moves which are in conflict with the     目标选择错误，应视为战略错误；与预定计划相冲突的着法同样
+projected plan. A tactical mistake is an error in calculation, which      如此。战术错误则是计算失误，即漏算了对手的应着，从而使具
+overlooks the opponent's reply, all of which makes difficult or           体战略构想难以实现，甚至完全无法实现。
+absolutely impossible the carrying out of a concrete strategical idea.
+
+                       经校正的英文 OCR                                                        中文译文
+
+CI-3                                                                      CI-3
+There will be positions in the process of the struggle where it is very   在斗争过程中，有些局面很难找到实际目标，因而也很难形成具
+difficult to think of a real objective and, consequently, to work out a
+                                                                          体构想。这时只能满足于对局面因素作一般评价，并把具体思考
+concrete idea. In such cases one has to be content with a general
+appraisal of considerations, directing concrete thoughts in the main      主要用于预防对手的威胁；计划的明确目标尚未显现，斗争也还
+to a prevention of the opponent's threats, while special-purpose          没有进入具体构想的轨道。
+objects of the plan have not come to light and the struggle has not
+joined the rails of concrete ideas.
+                                                                          有时兵链被锁定，棋局不得不转为时间较长的子力调动。在这种
+Sometimes, in a locked pawn chain, the game through necessity             情况下，需要确定的只是一种大致的行动方式，而这或许比构思
+assumes the form of more or less lengthy piece manoeuvres. In such        一个计划还难。目标十分模糊，甚至根本不存在；着法要么带有
+cases the question arises of an approximate form of action, which         等待性质，要么只有局部的战术动机。
+perhaps is more difficult than even considering a plan. The objective
+is very hazy or in general absent, while the moves assume either a
+waiting character or have only a narrow tactical motivation.              当思考没有具体对象时，也就不可能产生具体构想；棋局往往在“
+
+
+
+
+                                                                           2
+ 《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                      经校正的英文 OCR                                                               中文译文
+
+                                                                         保持均势”的口号下进行，最终以和棋告终。从创造性角度看，这
+The process of play under conditions where there is no concrete          种过程通常趣味不大，双方的构想也显得平淡无色。
+object for thought (and consequently there cannot be concrete
+ideas), often proceeds under the slogan of equilibrium and ends in a
+drawn outcome. Creatively this process will usually be of little         下面从上述计划与具体构想的角度分析一盘棋。
+interest, with the ideas of the two sides being colourless.
+
+We examine, in the light of the above-mentioned planned side and
+concrete ideas, the following game.
+
+
+
+
+例局一：克拉曼 - 斯梅斯洛夫
+                      经校正的英文 OCR                                                               中文译文
+
+CI-4                                                                     CI-4
+Queen's Indian Defence                                                   后翼印度防御
+White: K. Klaman
+Black: V. Smyslov
+(15th USSR Championship 1947)                                            白方：K. 克拉曼
+                                                                         黑方：V. 斯梅斯洛夫
+1 d4 Nf6 2 Nf3 b6                                                        第15届苏联锦标赛，1947年
+
+Into this move goes a great planning idea, consisting of the creation
+of strong piece pressure on the central d5 and e4 squares, and, if       1. d4 Nf6 2. Nf3 b6
+White does not duly counteract this, then also of the occupation of
+the e4 square by the knight with a subsequent consolidation of it by     这一着包含着宏大的计划构想：在中心的d5格和e4格形成强大的
+... f5. This sort of set-up, met sometimes in the Dutch Defence,
+                                                                         子力压力；如果白方不能及时反制，黑方还要以马占据e4格，再
+promises Black good attacking prospects on the king's flank.
+                                                                         用……f5加以巩固。这种阵形有时也见于荷兰防御，能给黑方在王
+From the modest opening move with the pawn on the queen's flank,         翼带来良好的进攻前景。
+right up to mate of the opponent's king - this is the true range of a
+creative concrete idea!
+                                                                         从后翼一次低调的兵着，一直延伸到将死对方的王：这才是具体
+3 Nc3                                                                    创造性构想真正的跨度！
+
+White's plan consists of organising counter-pressure on the e4           3. Nc3
+square and preparing the move e4. Pawns standing side by side on
+e4 and d4, in chess theory are called the pawn centre. We will in due
+course give particular attention to this important positional element.   白方的计划是在e4格组织反压力，并准备推进e4。并列于e4和d4
+For the present, however, we note that the pawn centre is one of the     的两个兵，在国际象棋理论中称为兵中心。以后我们还会专门讨
+most powerful forces in the struggle for the central squares and in      论这一重要的局面要素。这里只需指出，兵中心是争夺中心格最
+the majority of cases one can look upon it as a positional
+                                                                         强有力的力量之一；在多数情况下，可以把建立兵中心视为一项
+achievement. Therefore the threat of constructing a pawn centre
+usually evokes an appropriate counter-action from the opposite side.
+                                                                         局面成就。因此，建立兵中心的威胁通常会引起对手相应的反制。
+
+
+3 ... Bb7 4 Bg5
+                                                                         3... Bb7 4. Bg5
+A difficult and tense moment has been reached already on the 4th
+move.
+                                                                         棋局在第4回合便进入了困难而紧张的时刻。
+
+                      经校正的英文 OCR                                                               中文译文
+
+CI-5                                                                     CI-5
+White is ready to carry out his threat (Bxf6 and e4). Black is in a      白方已经准备实施自己的威胁：Bxf6，随后推进e4。黑方必须决
+thoughtful mood, whether to prevent this and, if so, in what way. A
+
+
+
+
+                                                                          3
+  《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                                     中文译文
+
+good method of contending with a pawn centre is by an immediate            定是否阻止这一计划，以及怎样阻止。对抗兵中心的一种好办法
+attack on a central pawn, in the present position - 4 ... c5. If White,    ，是立即攻击一个中心兵；在当前局面中，就是4... c5。如果白方
+in reply to this, exchanges pawns or plays 5 e3, then Black's
+                                                                           随即兑兵或走5. e3，黑方的问题便得到解决。
+problem turns out to be solved.
+
+However, White also has at his disposal another possibility - 5 d5 or      不过，白方还有5. d5，或者先走5. Bxf6 gxf6（或5... exf6），然后
+a preliminary 5 Bxf6 gxf6 (exf6) and once again 6 d5, severely             仍然6. d5，严重限制黑方后翼子力。看来，正是这些考虑使黑方
+constraining the enemy pieces on the queen's flank. Apparently,
+                                                                           决定以机械方式阻止白方e兵推进到e4。
+these considerations lead Black to thinking about the need to
+mechanically slow down the advance of the White king's pawn to
+e4.                                                                        4... d5?
+
+4 ... d5?
+                                                                           这着棋虽然也阻止了兵中心的形成，却是严重的战略错误，因为
+Though this move also prevents the formation of the pawn centre, it        它与黑方第2、3回合所采取的计划路线相冲突。黑方b7象变得不
+is nevertheless a serious strategical mistake. The fact is that it is in   活跃，后翼子力总体上也与王翼隔绝。此外，……d5还放弃了对
+conflict with the planned line, which Black intended with his 2nd          e5 格的控制，使白马能够侵入e5。
+and 3rd moves. Black's bishop on b7 becomes inactive and in
+general the forces of his queen's flank turn out to be cut off from the
+king's side. In addition to this, it allows an invasion of the enemy       白方现在有了一个具体计划：对黑王易位后的阵地发动几乎不可
+knight on e5, since with the move ... d5 he loses control of this          阻挡的进攻。以下实战表明，白方实现这一计划是何等轻松自如。
+square.
+
+White now has at his disposal a concrete plan, a virtually irresistible
+attack on the opponent's castled position. The immediate course of         5. e3 e6 6. Ne5 Be7 7. Bb5+ c6 8. Bd3 c5 9. O-O
+the game shows how easily and freely White realises his plan.
+                                                                           如果9. Bb5+ Kf8，鉴于黑方有……c4的威胁，白象将陷入危险。
+5 e3 e6 6 Ne5 Be7 7 Bb5+ c6 8 Bd3 c5 9 0-0
+
+On 9 Bb5+ follows 9 ... Kf8 and, in view of the threat ... c4, the
+                                                                           9... O-O?
+White bishop is in danger.
+                                                                           正好走进白方的进攻。黑方应走……a6，控制b5格，然后设法用
+9 ... 0-0?                                                                 ……Nbd7或……Nc6兑换白方位于中心的马。黑方没有制定具体的
+                                                                           防守计划，只是在例行出子，显然没有意识到局面中的全部危险。
+Straight into White's attack! He should play ... a6, in order to secure
+the b5 square, and then try to exchange the opponent's centralised
+knight by ... Nbd7 or ... Nc6. Black has not drawn up a concrete plan
+of defence and makes routine moves, apparently unaware of all the          10. Qf3 Nc6? 11. Qh3 g6?
+dangers in his position.
+
+10 Qf3 Nc6? 11 Qh3 g6?
+
+                       经校正的英文 OCR                                                                     中文译文
+
+CI-6                                                                       CI-6
+Near the end; furthermore a tactical oversight, admittedly in a            败局已近；而且在困难局面中，黑方又出现了战术疏忽。正确的
+difficult position. After the correct 11 ... Nxe5 12 dxe5 Ne4 13 Bxe4
+                                                                           11... Nxe5 12. dxe5 Ne4 13. Bxe4 dxe4 14. Rad1 Qe8之后，白方虽
+dxe4 14 Rad1 Qe8, White has an indisputable advantage but it is
+still a long way for him to victory.                                       有无可争议的优势，但离胜利仍然很远。
+
+12 Ba6!                                                                    12. Ba6!
+
+A witty and surprising idea, leading to the win of the exchange: 12
+... Qc8 13 Nxc6 Qxc6 14 Bxb7 Qxb7 15 Qh4 Kg7 16 Bh6+ [matters              这是一个机敏而出人意料的构想，可以赢得质量。12... Qc8也无济
+are not changed by 12 ... Bxa6 13 Nxc6 Qe8 14 Nxe7+ Qxe7 15                于事：13. Nxc6 Qxc6 14. Bxb7 Qxb7 15. Qh4 Kg7 16. Bh6+。12...
+Qh4 Kg7 16 Bh6+].                                                          Bxa6同样不能改变局势：13. Nxc6 Qe8 14. Nxe7+ Qxe7 15. Qh4
+                                                                           Kg7 16. Bh6+。
+However, it must be emphasised that White's idea rested upon the
+weakening of Black's king's flank by the move ... g6, hence it is in
+
+
+
+                                                                             4
+ 《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                      经校正的英文 OCR                                                                     中文译文
+
+itself quite logical. It completes, as it were, White's whole plan of     不过必须强调，白方的构想建立在黑方走……g6、削弱王翼这一事
+attack.                                                                   实之上，因此其本身完全合乎逻辑。可以说，这个构想完成了白
+                                                                          方的整个进攻计划。
+
+
+
+
+例局二：尤多维奇 - 克拉曼
+                      经校正的英文 OCR                                                                     中文译文
+
+CI-7                                                                      CI-7
+Indian Defence                                                            印度防御
+White: M. Yudovich
+Black: K. Klaman
+(15th USSR Championship 1947)                                             白方：M. 尤多维奇
+                                                                          黑方：K. 克拉曼
+1 d4 Nf6 2 Nf3 d6                                                         第15届苏联锦标赛，1947年
+
+The immediate aim in this opening system is the advance ... e5,
+reinforced with the knight from the d7 square, the bishop from g7,        1. d4 Nf6 2. Nf3 d6
+and sometimes also the rook from e8.
+                                                                          这一开局体系的直接目标是推进……e5，并由d7马、g7象，有时还
+3 Bf4 Bg4 4 e3 Nbd7 5 Be2 e6?
+                                                                          由e8车来支援。
+Black's trouble begins with this move. He surprisingly refrains from
+realising his plan, which would guarantee him (for example, after 5       3. Bf4 Bg4 4. e3 Nbd7 5. Be2 e6?
+... Bxf3 6 Bxf3 e5 7 Bg5 c6, followed by ... Be7 and ... 0-0) a quite
+satisfactory position and begins to confine himself to purely
+                                                                          黑方的麻烦从这一着开始。他出人意料地放弃了执行原定计划；
+"trench" warfare waiting tactics. In the meantime, White, of course,
+mobilises all his army, preparing a general offensive in the centre.      例如5... Bxf3 6. Bxf3 e5 7. Bg5 c6，随后……Be7和……O-O，本可保
+                                                                          证黑方获得相当令人满意的局面。黑方却转而采用纯粹的“堑壕战”
+6 h3 Bh5                                                                  等待策略。与此同时，白方自然调动全部兵力，准备在中心发动
+                                                                          总攻。
+Even now it was necessary to go back to the indicated plan. The
+retreat of the bishop is absolutely pointless.
+                                                                          6. h3 Bh5
+7 0-0 Be7 8 c4 0-0
+                                                                          即使此时，黑方仍应回到上述计划。象的退却毫无目的。
+Black has obtained a cramped position; one cannot see good
+prospects of action for the majority of his pieces - both rooks, queen,
+bishop on h5. But nevertheless, if henceforth he based his play on a      7. O-O Be7 8. c4 O-O
+concrete idea, it would not be easy for the opponent to realise his
+plan of attack.                                                           黑方的局面已经拥挤，大部分子力（双车、后以及h5象）都看不
+                                                                          出良好的行动前景。尽管如此，如果黑方此后能够围绕一个具体
+9 Nc3 Ne8?
+                                                                          构想组织行棋，白方要实现进攻计划也并不容易。
+This retreat lacks concrete purpose and worsens even more the
+arrangement of Black's pieces. Black cannot well solve the problems       9. Nc3 Ne8?
+confronting him without the advance ... e5. His following play must
+include preparation for this pawn move.
+                                                                          这一退马缺乏具体目的，使黑方子力的配置进一步恶化。黑方若
+                                                                          不推进……e5，就无法妥善解决当前问题；接下来的行棋必须包括
+                                                                          对这一兵着的准备。
+
+
+
+
+                                                                           5
+  《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                      经校正的英文 OCR                                                                      中文译文
+
+CI-8                                                                      CI-8
+Admittedly, after 9 ... Re8 10 Qd2 Bf8 11 Rad1 e5, White obtains          诚然，9... Re8 10. Qd2 Bf8 11. Rad1 e5之后，白方可用12. dxe5
+the advantage by 12 dxe5 dxe5 13 Nxe5! Nxe5 14 Qxd8 Raxd8 15
+                                                                          dxe5 13. Nxe5! Nxe5 14. Qxd8 Raxd8 15. Rxd8 Rxd8 16. Bxh5
+Rxd8 Rxd8 16 Bxh5 Nxh5 17 Bxe5, but the continuation 9 ... Bxf3
+10 Bxf3 e5 11 Bh2 c6 and only then ... Re8 and ... Bf8 secures Black      Nxh5 17. Bxe5取得优势；但9... Bxf3 10. Bxf3 e5 11. Bh2 c6，然后
+good chances of resistance.                                               再走……Re8和……Bf8，能使黑方获得良好的抵抗机会。
+
+10 Qd2 f6 11 Rad1 Bf7
+                                                                          10. Qd2 f6 11. Rad1 Bf7
+Was Black intending to play 11 ... e5 now? This would be a tactical
+mistake in view of 12 dxe5 fxe5 13 Nxe5! Bxe2 14 Nxd7 Bxf1 15             黑方是否打算现在走……e5？这将是一个战术错误，因为12. dxe5
+Qd5+ Kh8 16 Nxf8 Bxc4 17 Ng6+ hxg6 18 Qxc4 with a great                   fxe5 13. Nxe5! Bxe2 14. Nxd7 Bxf1 15. Qd5+ Kh8 16. Nxf8 Bxc4 17.
+positional advantage for White.
+                                                                          Ng6+ hxg6 18. Qxc4，白方拥有巨大的局面优势。
+12 Bh2 c6 13 e4 Kh8?
+                                                                          12. Bh2 c6 13. e4 Kh8?
+Both now and on the following moves he should play ... e5. The
+well-fortified pawn in the centre would have allowed Black to
+                                                                          此时以及随后几回合，黑方都应该走……e5。中心得到牢固支撑的
+construct a plan of defence. Instead of this, he waits passively for
+the opponent's attack. He is not kept waiting long.                       兵本可使黑方建立防守计划；实战中他却消极等待对手的进攻，
+                                                                          而这一进攻很快便到来了。
+14 Rfe1 g6? 15 Bf1 Ng7? 16 c5!
+                                                                          14. Rfe1 g6? 15. Bf1 Ng7? 16. c5!
+The beginning of a concrete plan, the aim of which is a pawn
+offensive on the queen's flank.
+                                                                          一个具体计划由此开始，其目标是在后翼发动兵攻。
+
+                      经校正的英文 OCR                                                                      中文译文
+
+CI-9                                                                      CI-9
+16 ... d5                                                                 16... d5
+
+16 ... Qc7 is bad in view of 17 e5! fxe5 18 cxd6 Qxd6 [18 ... Bxd6
+leads to the loss of a piece after 19 dxe5] 19 Nxe5 Nxe5 20 Bxe5          16... Qc7也不好，因为17. e5! fxe5 18. cxd6 Qxd6；若18... Bxd6，
+Qd8 21 Ne4, and White obtains a strong attack in connection with          则19. dxe5赢子；接着19. Nxe5 Nxe5 20. Bxe5 Qd8 21. Ne4，白方
+the threats of Qh6 and Bc4.                                               借助Qh6和Bc4的威胁发动强攻。
+
+17 exd5 exd5 18 b4
+                                                                          17. exd5 exd5 18. b4
+The White bishop on h2 rakes the whole board and, in particular, the
+important c7 and b8 squares on the queen's flank. With support from       白方h2象斜贯全盘，尤其控制后翼的重要格c7和b8。在这只象的
+this bishop, the pawn offensive proves to be very threatening, the
+                                                                          支持下，兵攻极具威力；况且黑方子力仍像此前一样行动受限。
+more so in that the enemy pieces, as before, are hampered in their
+movements.
+                                                                          18... b5
+18 ... b5
+
+                                                                          否则白方走b5，以有利方式打开b线。
+Otherwise, after b5, White opens the b-file with advantage.
+
+19 a4                                                                     19. a4
+
+White's idea is clear and concrete - to open the a-file, occupy it with
+                                                                          白方的构想清楚而具体：打开a线，以重子占据该线并侵入对方阵
+heavy pieces and invade the opponent's camp.
+                                                                          地。
+19 ... a6 20 axb5 axb5 21 Ra1 Re8 22 Ra2
+                                                                          19... a6 20. axb5 axb5 21. Ra1 Re8 22. Ra2
+A typical tactical method for occupying an open line. A prerequisite
+for this has been created by the fact that White controls greater
+space on the queen's flank.
+                                                                          这是占领开放线的典型战术手段。白方在后翼控制较大空间，为
+
+
+
+                                                                           6
+ 《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                      经校正的英文 OCR                                                                   中文译文
+
+                                                                        这一手段创造了前提。
+
+22 ... Qc8 23 Rea1 Qb7 24 Qb2 Ne6 25 Ra3 Nc7 26 Ra5! Rxa5
+                                                                        22... Qc8 23. Rea1 Qb7 24. Qb2 Ne6 25. Ra3 Nc7 26. Ra5! Rxa5
+White threatened to win a piece (Bxc7), therefore the exchange is
+forced.                                                                 白方威胁以Bxc7赢子，因此黑方被迫交换。
+
+
+CI-10                                                                   CI-10
+27 Rxa5 Na6 28 Qa3 Nab8 29 Ra7 Qc8                                      27. Rxa5 Na6 28. Qa3 Nab8 29. Ra7 Qc8
+
+The objective has been achieved. The stage approaches for
+realisation of the advantage.                                           目标已经实现，现在进入兑现优势的阶段。
+
+30 Nxb5                                                                 30. Nxb5
+
+This sacrifice is not the only way to victory. 30 Rc7 Qd8 31 Qa7 is
+also sufficient.                                                        这一牺牲并不是唯一的取胜方式，30. Rc7 Qd8 31. Qa7同样足够。
+
+30 ... cxb5 31 Bxb5 Kg7 32 Bxb8 Nxb8 33 Bxe8 Qxe8 34 b5 Bf8 35
+Qe3 Qc8 36 Qf4
+                                                                        30... cxb5 31. Bxb5 Kg7 32. Bxb8 Nxb8 33. Bxe8 Qxe8 34. b5 Bf8
+White threatens both Ne5, and Ra8 and Qc7.                              35. Qe3 Qc8 36. Qf4
+
+1:0                                                                     白方同时威胁Ne5以及Ra8、Qc7。
+
+A just punishment for his planless play.
+                                                                        1-0
+
+
+                                                                        这是黑方无计划行棋所受到的恰当惩罚。
+
+
+
+
+例局三：邦达列夫斯基 - 鲍特维尼克
+                      经校正的英文 OCR                                                                   中文译文
+
+CI-11                                                                   CI-11
+Queen's Gambit                                                          后翼弃兵
+White: I. Bondarevsky
+Black: M. Botvinnik
+(Match-tournament for absolute champion of USSR 1941)                   白方：I. 邦达列夫斯基
+                                                                        黑方：M. 鲍特维尼克
+1 d4 d5 2 Nf3 c6                                                        苏联绝对冠军赛，1941年
+
+Here, already on the 2nd move, begins the planning of the game. On
+3 c4, Black could take the pawn and defend it later by ... b5. The      1. d4 d5 2. Nf3 c6
+move 3 Bf4 would allow Black to create pressure on the weakened
+b2 point, by playing ... Qb6.                                           棋局的计划工作早在第2回合便已开始。若白方走3. c4，黑方可以
+                                                                        吃兵，并在以后以……b5加以保护；若白方走3. Bf4，黑方则可用
+3 e3
+                                                                        ……Qb6向薄弱的b2点施压。
+Usually one of White's tasks in the opening is to create difficulties
+for the opponent in the development of his pieces. In particular, in    3. e3
+many variations of the Queen's Gambit, Black has quite a lot of
+trouble deploying his forces on the queen's flank.
+                                                                        开局中，白方的任务之一通常是给对手出子制造困难。特别是在
+However, in the present game, White not only does not pretend to        后翼弃兵的许多变例中，黑方要调动后翼子力会遇到不少麻烦。
+
+
+
+
+                                                                         7
+  《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                                      中文译文
+
+hamper the opponent, but also limits the activity of his own pieces
+on the queen's flank. This allows Black to realise a purposeful plan        然而在本局中，白方不仅不打算妨碍对手，反而还限制了自己后
+of play without difficulty.
+                                                                            翼子力的活跃程度，使黑方得以毫无困难地实施一套目的明确的
+White's plan is as modest as can be: he will play c4, Nc3, Be2 [or          行棋计划。
+Bd3], 0-0, b3 and Bb2, and only then decide what he can extract
+from such an arrangement of pieces. Such a self-denial of the               白方的计划可谓极其保守：他准备走c4、Nc3、Be2（或Bd3）、
+initiative cannot be recommended. Both 3 c4 and 3 Bf4 would have
+                                                                            O-O、b3和Bb2，然后才决定能从这种子力配置中得到什么。如
+prevented Black from feeling as carefree as he does in the game.
+                                                                            此主动放弃先手并不可取。无论3. c4还是3. Bf4，都不会让黑方像
+                                                                            实战中这样无忧无虑。
+
+
+CI-12                                                                       CI-12
+3 ... Bg4 4 c4 e6 5 Nc3                                                     3... Bg4 4. c4 e6 5. Nc3
+
+On 5 Qb3, possible is 5 ... Qb6, and it is hard for White to think of a
+concrete actual plan.                                                       如果5. Qb3 Qb6，白方很难找到切实具体的计划。
+
+5 ... Nd7 6 Bd3                                                             5... Nd7 6. Bd3
+
+In three moves White retreats the bishop to e2. If he is not planning
+to play the move e4 [and that's the way it seems] then the move must        三回合后白象又退到e2。如果白方并不准备推进e4（看来确实如
+be seen as tactical carelessness.                                           此），那么这着象棋只能视为战术上的漫不经心。
+
+6 ... Ngf6 7 0-0 Be7 8 b3 0-0 9 Bb2
+                                                                            6... Ngf6 7. O-O Be7 8. b3 O-O 9. Bb2
+Both sides have completed their initial arrangement of forces in
+accordance with the intended plans. The middlegame struggle is              双方都按照预定计划完成了最初的子力配置。中局斗争从黑方走
+begun with Black's move - this undoubtedly is an achievement for            棋开始，这无疑是黑方的一项成就。对白方不利的还有：在当前
+him. Also telling against White is the fact that his queen's knight, in
+                                                                            局面中，后翼马放在d2要比c3更好。
+the present position, would be better deployed not on c3, but on d2.
+
+The main criticism that can be levelled against him is that, in             对白方最主要的批评是：他在开局制定出子计划时，第一，没有
+drawing up a plan of development in the opening, he firstly does not        使其与基本战略计划形成足够具体的协调；第二，也没有充分考
+sufficiently concretely co-ordinate it with the basic strategical plan
+                                                                            虑开局中的战术细节。Bd3和Nc3都是例行着法。由于白方开局计
+and secondly he does not give due consideration to the tactical
+niceties of the opening. The moves Bd3, Nc3 were made routinely,            划的目标过于模糊，这个计划本身也就不够具体；在这种情况下
+since the objective in White's opening plan was too vague and dim,          ，白象究竟应放在e2还是d3、白马应放在c3还是d2，都很难作出
+his plan turns out to be not very concrete. In this case it was difficult   最佳选择。
+to decide where best to post the bishop - on e2 or d3, the knight - on
+c3 or d2.
+
+                       经校正的英文 OCR                                                                      中文译文
+
+CI-13                                                                       CI-13
+9 ... e5                                                                    9... e5
+
+A pawn move, leading to exchanges and hence to an opening of the
+position, which serves as an inevitable introduction to a piece             这个兵着将导致兑换，继而打开局面；它通常是子力交锋、甚至
+skirmish, and sometimes also to a general battle; it can provoke a          全面战斗不可避免的前奏，也可能使棋局骤然尖锐起来。
+sharpening of the game.
+
+                                                                            黑方作出这一决定，既与鲍特维尼克的棋风有关，或许也包含竞
+Black's decision is prompted by the nature of Botvinnik's style and
+possibly also considerations of a sporting character.                       技方面的考虑。
+
+Another concrete plan here was to play for occupation of the e4             此处另一个具体计划，是争取占据e4格，并由此在中心和王翼获
+square and the associated gain of space in the centre and on the
+                                                                            取空间。该计划的起点是9... Bb4；若10. a3，则10... Bxc3 11. Bxc3
+king's flank. The starting point of this plan would be the move 9 ...
+                                                                            Ne4 12. Be1 f5。
+
+
+
+                                                                              8
+ 《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                      经校正的英文 OCR                                                                       中文译文
+
+Bb4 and if 10 a3, then 10 ... Bxc3 11 Bxc3 Ne4 12 Be1 f5.
+                                                                          10. Be2
+10 Be2
+
+White declines to accept the challenge, but the move in the game is       白方拒绝接受挑战。不过，实战这一着不仅是退子，也是一套精
+not only a retreat but also the beginning of a fine, very concrete plan   妙而非常具体的反击计划的开端。
+of counterattack.
+
+                                                                          黑方此时没有比把e兵推进到e4更好的选择。若10... exd4 11.
+The fact is that Black has nothing better now than to advance his
+e-pawn to e4. The variation 10 ... exd4 11 Nxd4 provokes an               Nxd4 ，白方将促成白格象的交换，并为马取得f5侵入格；而10...
+exchange of the white-squared bishops and hands over to White a           e4之 后，白方则产生了以f3危险破局的具体构想。
+square of invasion for the knight on f5. After 10 ... e4, however,
+there arises the concrete idea of the dangerous break f3.
+                                                                          这不是唯一的计划。白方也可以缓和中心局势：10. cxd5 exd4 11.
+This is not the only plan. Also possible is a relaxing of the situation   exd4 Nxd5 12. Nxd5 cxd5；但在这一变例中，f3马受到牵制，b2
+in the centre: 10 cxd5 exd4 11 exd4 Nxd5 12 Nxd5 cxd5, but in this        象又很被动，因此很难形成具体计划。
+case the pin on the knight f3 and the passive position of the bishop
+b2 makes a concrete plan of play difficult.
+
+
+CI-14                                                                     CI-14
+However, White did not fancy the sharp struggle produced on the           白方也不愿进入10. dxe5 Nxe5 11. Nxd5所造成的尖锐斗争。若11.
+way by 10 dxe5 Nxe5 11 Nxd5 (after 11 Be2 Nxf3+ 12 Bxf3 Bxf3
+                                                                          Be2 Nxf3+ 12. Bxf3 Bxf3 13. Qxf3 dxc4 14. Rad1 Qc8，随着局面简
+13 Qxf3 dxc4 14 Rad1 Qc8, Black's extra pawn on the queen's flank
+can imperceptibly prove to be a planned advantage the more the            化，黑方后翼多出的一兵可能逐渐成为决定性的计划优势。另有
+game is simplified) 11 ... Nxf3+ 12 gxf3 Bh3 13 Nxe7+ Qxe7 14             11... Nxf3+ 12. gxf3 Bh3 13. Nxe7+ Qxe7 14. Kh1!；若14. Re1 Ne4
+Kh1! (14 Re1 Ne4 15 f4 Rad8 16 Qe2 Rxd3 17 Qxd3 Qe6, and                  15. f4 Rad8 16. Qe2 Rxd3 17. Qxd3 Qe6，黑方获胜；接着14...
+Black wins) 14 ... Bxf1 15 Qxf1, since this entails a certain amount
+                                                                          Bxf1 15. Qxf1。白方认为这一变化带有一定风险。
+of risk.
+
+10 ... e4 11 Nd2 Bxe2 12 Qxe2 Bb4!                                        10... e4 11. Nd2 Bxe2 12. Qxe2 Bb4!
+
+The attention of both opponents is riveted to the e4 point, for the
+                                                                          双方的注意力都集中在e4格，围绕该格控制权的决定性斗争由此
+control of which begins a decisive struggle. With his last move
+Black endeavours not only to exchange the knight c3, but also, by         开始。黑方最后一着不仅企图兑换c3马，还准备腾出e线，使重子
+clearing the e-file, to allow his heavy pieces establish                  能够与e4格建立联系。
+communication with this point.
+
+                                                                          13. a3?
+13 a3?
+
+A loss of an important tempo in the struggle for the e4 square.           在争夺e4格的过程中，这一着浪费了重要的一步棋。
+
+Admittedly, the break 13 f3 has no strength in view of 13 ... Bxc3 14
+                                                                          诚然，13. f3不能奏效，因为13... Bxc3 14. Bxc3 Re8仍控制e4格；
+Bxc3 Re8, retaining control over the e4 square, while in the event of
+15 fxe4 Nxe4 - he has created on it a good base for his pieces.           若15. fxe4 Nxe4，黑方便在e4格为自己的子力建立了良好据点。
+
+
+                      经校正的英文 OCR                                                                       中文译文
+
+CI-15                                                                     CI-15
+However, White has at his disposal another plan consisting of a           不过，白方还有另一套计划：在王翼发动兵攻；如果黑方交换e4
+pawn attack on the king's flank, and a pawn break in the centre if
+                                                                          兵，再从中心破局。具体着法是13. f4，把选择交给黑方：是走
+Black exchanges the e4 pawn. The question is about the move 13 f4,
+giving Black a choice: whether to take the pawn 13 ... exf3 14 gxf3       13... exf3 14. gxf3 Bxc3 15. Bxc3 Re8 16. Rae1 Nh5 17. Qg2 Qh4，
+Bxc3 15 Bxc3 Re8 16 Rae1 Nh5 17 Qg2 Qh4 with a very sharp and             进入极其尖锐而难以评价的局面；还是走13... Re8 14. g4 Kh8 15.
+difficult to evaluate situation, or to take up a defensive position by    g5 Ng8 16. Qg4 Nf8 17. f5 Qd7，转入防守。
+13 ... Re8 14 g4 Kh8 15 g5 Ng8 16 Qg4 Nf8 17 f5 Qd7.
+
+13 ... Bxc3 14 Bxc3 Re8 15 f3                                             13... Bxc3 14. Bxc3 Re8 15. f3
+
+A consistent continuation of the plan, thought out on the 10th move.
+
+
+
+                                                                           9
+  《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                                     中文译文
+
+Now 15 f4 would oblige Black to play 15 ... exf3, but he should not        白方连贯地执行了第10回合构思的计划。此时15. f4会迫使黑方走
+be afraid of this. On 16 gxf3 follows 16 ... Nh5 with the threat ...       15... exf3，但白方不必害怕这一变化。若16. gxf3，则16... Nh5，
+Nf4 and ... Qg5+. White's e3 pawn is very weak. Therefore he needs
+                                                                           威胁……Nf4和……Qg5+；白方e3兵也非常薄弱。因此白方需要走
+to take on f3 with the queen, but then 16 ... Qe7 17 Rfe1 (17 Rae1
+Qxa3) 17 ... Ne4 and Black has an indisputable advantage.                  16. Qxf3用后吃兵，但此时16... Qe7 17. Rfe1（若17. Rae1 Qxa3）
+                                                                           17... Ne4，黑方拥有无可争议的优势。
+In reply to the move in the game, Black could also choose 15 ...
+exf3, which was the most energetic way of exploiting White's
+                                                                           面对实战着法，黑方也可以选择15... exf3；这是利用白方第13回
+strategical mistake on the 13th move.
+                                                                           合战略错误最有力的手段。
+15 ... Nf8? 16 Rf2?
+                                                                           15... Nf8? 16. Rf2?
+
+
+CI-16                                                                      CI-16
+It was still not too late to choose the other plan (the other objective)   白方仍来得及改换另一套计划，也就是改变目标，不再理会e4兵。
+and leave the e4 pawn in peace. By playing 16 f4, and if 16 ... Qd7,
+                                                                           若走16. f4，黑方16... Qd7后再走17. f5，白方可以争取主动。
+then 17 f5, White could count on an initiative.
+
+16 ... Qd7 17 Raf1?                                                        16... Qd7 17. Raf1?
+
+Once again consistent, but not taking sufficient account of the
+                                                                           白方再次前后一致，却没有充分考虑对手的反击。白方追求的目
+opponent's counter-play. The objective which White pursues is
+unattainable and his plan does not prove to be concrete. More hopes        标无法实现，因此其计划不具备具体性。仍然是17. f4 Qf5 18. h3
+were promised by the self-same move 17 f4 Qf5 18 h3 h5 19 Kh2 h4           h5 19. Kh2 h4 20. Rg1更有希望，随后准备打开g线。
+20 Rg1 with a subsequent opening of the g-file.
+
+                                                                           17... exf3
+17 ... exf3
+
+At last! Not possible now is 18 gxf3 Ng6, and if 19 Qd3, then 19 ...       终于走了！现在不能18. gxf3 Ng6；若19. Qd3，则19... Qe6赢得e3
+Qe6 winning the e3 pawn.                                                   兵。
+
+18 Rxf3 Re6
+                                                                           18. Rxf3 Re6
+Black's concrete intention is triumphant. The e4 point is in his
+hands, the e3 pawn is weak and subject to attack on the e-file. All        黑方的具体意图取得成功。e4格已被黑方控制，e3兵薄弱并受到e
+Black's pieces take part in the attack, whereas the enemy bishop and
+                                                                           线上的攻击；黑方全部子力都参加进攻，而白方的象和马却无所
+knight are inactive.
+                                                                           作为。
+19 Qd3 Rae8 20 Nb1 Ng6 21 Be1?
+                                                                           19. Qd3 Rae8 20. Nb1 Ng6 21. Be1?
+A tactical oversight, which, just like other such mistakes, is a
+consequence of a strategically difficult position. However, White
+cannot save the game. After 21 Bd2 Ne4, unsatisfactory are both 22
+                                                                           这是战术疏忽；与其他同类错误一样，它也是战略困难局面的结
+Rxf7 Qxf7 23 Rxf7 Kxf7 and 22 Nc3 dxc4 23 bxc4 Nxd2 24 Qxd2                果。不过白方已经无法挽救棋局。21. Bd2 Ne4之后，无论22.
+Ne5 winning two pawns.                                                     Rxf7 Qxf7 23. Rxf7 Kxf7，还是22. Nc3 dxc4 23. bxc4 Nxd2 24.
+                                                                           Qxd2 Ne5，白方都不满意；后一变化中黑方赢得两兵。
+
+                       经校正的英文 OCR                                                                     中文译文
+
+CI-17                                                                      CI-17
+21 ... dxc4 22 Qxc4                                                        21... dxc4 22. Qxc4
+
+If 22 bxc4 Ne5 and White loses the exchange. It is possible he
+overlooked this fact when making his previous move.                        若22. bxc4 Ne5，白方将丢掉质量。他可能在走上一着时漏算了这
+                                                                           一点。
+22 ... Rxe3 23 Rxe3 Rxe3
+
+                                                                           22... Rxe3 23. Rxe3 Rxe3
+The last period of the struggle is approaching - the realisation of the
+
+
+
+                                                                            10
+ 《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                      经校正的英文 OCR                                                                     中文译文
+
+advantage which has been achieved. Black has an extra pawn and a
+strong position - this will be quite sufficient to quickly conclude the   斗争即将进入最后阶段：兑现已经取得的优势。黑方多一兵，局
+game.
+                                                                          面又很强，这足以迅速结束棋局。
+24 Bf2 Nd5! 25 Nd2
+                                                                          24. Bf2 Nd5! 25. Nd2
+Or 25 Bxe3 Nxe3 26 Qd3 Nxf1 27 Kxf1 Nf4 28 Qe4 Ne6 winning a
+second pawn.
+                                                                          若25. Bxe3 Nxe3 26. Qd3 Nxf1 27. Kxf1 Nf4 28. Qe4 Ne6，黑方再
+25 ... Ngf4 26 h3 Rc3 27 Qa4 Ne2+ 28 Kh2 Rxh3+ 0:1                        赢一兵。
+
+After 29 gxh3 Ndf4 White gets mated.                                      25... Ngf4 26. h3 Rc3 27. Qa4 Ne2+ 28. Kh2 Rxh3+ 0-1
+
+This game, like the two previous ones, is a good example of the
+triumph of concrete ideas over an unrealistic appraisal of a position.    若29. gxh3 Ndf4，白方将被将死。
+
+
+                                                                          与前两盘棋一样，本局很好地说明了：具体构想如何战胜对局面
+                                                                          不切实际的评价。
+
+
+
+
+                                                                           11
+《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+附录：原扫描页
+以下图像保留原书棋盘图、版面和旧式记谱，用于核对 OCR、棋谱与译文。
+
+
+
+
+                             12
+《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                           原书印刷页 9
+
+
+
+
+                             13
+《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                           原书印刷页 10
+
+
+
+
+                              14
+《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                           原书印刷页 11
+
+
+
+
+                              15
+《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                           原书印刷页 12
+
+
+
+
+                              16
+《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                           原书印刷页 13
+
+
+
+
+                              17
+《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                           原书印刷页 14
+
+
+
+
+                              18
+《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                           原书印刷页 15
+
+
+
+
+                              19
+《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                           原书印刷页 16
+
+
+
+
+                              20
+《国际象棋中局计划》｜计划 - 具体构想｜校对稿
+
+
+
+
+                           原书印刷页 17
+
+
+
+
+                              21
+

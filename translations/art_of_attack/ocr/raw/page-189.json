@@ -1,0 +1,170 @@
+{
+  "pdf_page": 189,
+  "printed_page": 189,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        405.0,
+        129.0,
+        1355.0,
+        169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ovo",
+      "bbox": [
+        1071.0,
+        311.0,
+        1118.0,
+        335.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in front of the queen. The reader should note the mobility of Black' s heavy pieces,",
+      "bbox": [
+        212.0,
+        880.0,
+        1530.0,
+        920.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which allows such rapid and useful regroupings to be made. In the course of the",
+      "bbox": [
+        212.0,
+        931.0,
+        1531.0,
+        969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "game and its variations up to this point two pairs of corresponding strong squares",
+      "bbox": [
+        212.0,
+        982.0,
+        1530.0,
+        1021.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for Black stand out, namely, g6 and h6 for the rook, and g3 and g7 for the queen.",
+      "bbox": [
+        212.0,
+        1032.0,
+        1506.0,
+        1071.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 c4 xg6 15 Vd2 xg3!",
+      "bbox": [
+        258.0,
+        1076.0,
+        662.0,
+        1119.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After all the different formations on the squares described, here is yet another:",
+      "bbox": [
+        256.0,
+        1132.0,
+        1528.0,
+        1171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the rook now tries out the square g3 and threatens ...Xh3+.",
+      "bbox": [
+        211.0,
+        1179.0,
+        1184.0,
+        1220.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 0-1",
+      "bbox": [
+        258.0,
+        1231.0,
+        545.0,
+        1261.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 16 #gl, Black had planned to play 16...d4! 17 exd4 e3 18 Vc2 Xh3, and",
+      "bbox": [
+        256.0,
+        1277.0,
+        1530.0,
+        1321.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White is helpless against 19...Vg3.",
+      "bbox": [
+        210.0,
+        1327.0,
+        791.0,
+        1372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Alekhine won the Brilliancy Prize for this game. How light those heavy pieces",
+      "bbox": [
+        255.0,
+        1383.0,
+        1529.0,
+        1425.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "were in his hands!",
+      "bbox": [
+        210.0,
+        1435.0,
+        510.0,
+        1464.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After these examples, which are typical of the style of the two world champi-",
+      "bbox": [
+        255.0,
+        1535.0,
+        1528.0,
+        1576.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ons, here is a little light entertainment.",
+      "bbox": [
+        210.0,
+        1586.0,
+        846.0,
+        1624.0
+      ],
+      "confidence": null
+    }
+  ]
+}

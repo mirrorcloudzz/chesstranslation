@@ -1,0 +1,150 @@
+{
+  "pdf_page": 320,
+  "printed_page": 320,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "320",
+      "bbox": [
+        221.0,
+        134.0,
+        284.0,
+        165.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        647.0,
+        133.0,
+        1141.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "point in this position, since if, for example, 6 Äe3, Black plays 6...g6 7 Vxg6+",
+      "bbox": [
+        218.0,
+        880.0,
+        1537.0,
+        925.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg7, when White is still a long way from his goal. The fact that it is both possible",
+      "bbox": [
+        218.0,
+        931.0,
+        1536.0,
+        976.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and good to devote a whole tempo to blocking the g-pawn is a result of Black's",
+      "bbox": [
+        219.0,
+        987.0,
+        1537.0,
+        1025.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "inability to organize an effective defence. He cannot move his queen or rook to",
+      "bbox": [
+        218.0,
+        1037.0,
+        1536.0,
+        1076.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "e7 on account of Vh7+ and Vh8#, while 6...Q)e7 is answered by 7 Vf7+ fol-",
+      "bbox": [
+        218.0,
+        1081.0,
+        1535.0,
+        1125.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lowed by 8 Äe3.",
+      "bbox": [
+        218.0,
+        1133.0,
+        489.0,
+        1174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The game ended 6...Vd7 7 Äe3 1-0, Black having no reply to 8 Xf3 and 9",
+      "bbox": [
+        262.0,
+        1181.0,
+        1536.0,
+        1226.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from the game Steinitz-Lasker, London 1899. Black began",
+      "bbox": [
+        259.0,
+        1944.0,
+        1533.0,
+        1986.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with a double sacrifice.",
+      "bbox": [
+        215.0,
+        1994.0,
+        599.0,
+        2025.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Qxg2! 2 exg2 Axh3+ 3",
+      "bbox": [
+        262.0,
+        2040.0,
+        728.0,
+        2084.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White cannot accept the second sacrifice; if 3 #xh3, then 3...Vh5+ 4",
+      "bbox": [
+        259.0,
+        2093.0,
+        1444.0,
+        2135.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg4+ 5 Vh3+ 6 •gl Vg3+ 7 Äe4 8 Ag5 Äde8!, etc.",
+      "bbox": [
+        214.0,
+        2140.0,
+        1286.0,
+        2186.0
+      ],
+      "confidence": null
+    }
+  ]
+}

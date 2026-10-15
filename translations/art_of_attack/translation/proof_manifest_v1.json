@@ -1,0 +1,32 @@
+[
+  {
+    "section": "front_preface",
+    "title": "开篇材料与编者序",
+    "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\output\\pdf\\art_of_attack_front_preface_bilingual_proof_v1.pdf",
+    "desktop_filename": "00_开篇材料与编者序_中英对照分段校样_v1.pdf",
+    "pages": 3,
+    "segments": 18,
+    "figures": 0,
+    "missing_segments": []
+  },
+  {
+    "section": "introduction",
+    "title": "导言",
+    "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\output\\pdf\\art_of_attack_introduction_bilingual_proof_v1.pdf",
+    "desktop_filename": "01_导言_中英对照分段校样_v1.pdf",
+    "pages": 10,
+    "segments": 46,
+    "figures": 4,
+    "missing_segments": []
+  },
+  {
+    "section": "ch01",
+    "title": "第一章：攻击尚未易位的王",
+    "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\output\\pdf\\art_of_attack_ch01_bilingual_proof_v1.pdf",
+    "desktop_filename": "02_第一章_攻击尚未易位的王_中英对照分段校样_v1.pdf",
+    "pages": 19,
+    "segments": 160,
+    "figures": 14,
+    "missing_segments": []
+  }
+]

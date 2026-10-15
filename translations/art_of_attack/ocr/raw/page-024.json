@@ -1,0 +1,200 @@
+{
+  "pdf_page": 24,
+  "printed_page": 24,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        323.4,
+        126.0,
+        377.3,
+        172.2
+      ],
+      "text": "24",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        754.7,
+        128.5,
+        1254.5,
+        174.6
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9824
+    },
+    {
+      "bbox": [
+        661.6,
+        383.0,
+        691.0,
+        410.4
+      ],
+      "text": "W",
+      "confidence": 0.9246
+    },
+    {
+      "bbox": [
+        322.2,
+        877.0,
+        1647.8,
+        929.4
+      ],
+      "text": "the position of Black's dark-squared bishop and queen helps White to gain some",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        321.0,
+        929.4,
+        601.5,
+        975.5
+      ],
+      "text": "important tempi.",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        363.9,
+        973.0,
+        1649.0,
+        1027.9
+      ],
+      "text": "2...e7 3 Qxf4 Wh4 4 2f3 Wh1+ 5 f2 Wxa1 6 e5+ e8 7 Wh5+ g6 8",
+      "confidence": 0.9137
+    },
+    {
+      "bbox": [
+        321.0,
+        1024.2,
+        1138.2,
+        1072.8
+      ],
+      "text": "xc7+ f8 9 wh6+ g8 10 ②e8 f8 11 2f6#",
+      "confidence": 0.9002
+    },
+    {
+      "bbox": [
+        1013.2,
+        1165.1,
+        1048.7,
+        1206.3
+      ],
+      "text": "真",
+      "confidence": 0.5556
+    },
+    {
+      "bbox": [
+        656.7,
+        1236.3,
+        677.5,
+        1263.7
+      ],
+      "text": "B",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        360.2,
+        1731.5,
+        1644.1,
+        1787.6
+      ],
+      "text": "The continuation in this position, which arose in the game Asgeirsson-Raud,",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        314.9,
+        1782.6,
+        1645.4,
+        1837.5
+      ],
+      "text": "Munich OL 1936, is an example of an attack by Black on White's weak square at",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        314.9,
+        1836.3,
+        368.8,
+        1875.0
+      ],
+      "text": "f2.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        361.4,
+        1882.4,
+        882.1,
+        1929.9
+      ],
+      "text": "1...xf2! 2 xf2 g4+ 3 e1",
+      "confidence": 0.9131
+    },
+    {
+      "bbox": [
+        356.5,
+        1931.1,
+        1644.1,
+        1991.0
+      ],
+      "text": "If 3 g3, then Black follows up the attack with 3...Wc7+, and White's king is",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        313.6,
+        1987.2,
+        530.5,
+        2030.9
+      ],
+      "text": "too exposed.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        355.3,
+        2029.6,
+        1640.5,
+        2092.0
+      ],
+      "text": "3...xe3 4 Wd2 d4 5 d1 xg2+ 6 *f2 ②h4 7 f1 Qh3 8 g1 ad8 9 g3",
+      "confidence": 0.9068
+    },
+    {
+      "bbox": [
+        314.9,
+        2083.3,
+        1640.5,
+        2136.9
+      ],
+      "text": "d3 10 xd3 xf3 11 xf3 Wh4+ 12 g3 xd3 13 Wxd3 Wf4+ 14 Wf3 Wd2+",
+      "confidence": 0.9669
+    },
+    {
+      "bbox": [
+        314.9,
+        2138.2,
+        616.2,
+        2179.3
+      ],
+      "text": "15 g1 e1+ 0-1",
+      "confidence": 0.9017
+    },
+    {
+      "bbox": [
+        360.2,
+        2188.1,
+        759.6,
+        2230.5
+      ],
+      "text": "Black mates next move.",
+      "confidence": 0.9801
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "pdf_page": 10,
+  "printed_page": 10,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        177.6,
+        434.1,
+        1459.1,
+        485.3
+      ],
+      "text": "      n s      ",
+      "confidence": 0.5318
+    },
+    {
+      "bbox": [
+        953.2,
+        489.0,
+        1503.2,
+        536.4
+      ],
+      "text": "#PM 9 tx7 tp o Aeme",
+      "confidence": 0.518
+    },
+    {
+      "bbox": [
+        176.4,
+        528.9,
+        1504.5,
+        597.5
+      ],
+      "text": "o   h (# 5  +M z  \"   #  ",
+      "confidence": 0.5026
+    },
+    {
+      "bbox": [
+        341.8,
+        638.7,
+        1502.0,
+        689.9
+      ],
+      "text": "     s      ",
+      "confidence": 0.579
+    },
+    {
+      "bbox": [
+        508.4,
+        785.9,
+        1460.4,
+        842.0
+      ],
+      "text": " s g dxa u sn sos  e s",
+      "confidence": 0.575
+    },
+    {
+      "bbox": [
+        378.6,
+        1091.5,
+        1499.6,
+        1142.7
+      ],
+      "text": " u e , n     t  ",
+      "confidence": 0.5713
+    },
+    {
+      "bbox": [
+        172.7,
+        1344.8,
+        1499.6,
+        1394.7
+      ],
+      "text": "     s '     s ( ",
+      "confidence": 0.6316
+    },
+    {
+      "bbox": [
+        171.5,
+        1439.6,
+        1499.6,
+        1499.5
+      ],
+      "text": "- tn e  sh i m ss   m o s si ans  n",
+      "confidence": 0.5229
+    },
+    {
+      "bbox": [
+        722.8,
+        1524.4,
+        1497.1,
+        1593.0
+      ],
+      "text": "uod-geoo pue renbs bue",
+      "confidence": 0.5295
+    },
+    {
+      "bbox": [
+        1434.6,
+        1655.4,
+        1498.3,
+        1692.8
+      ],
+      "text": "iau",
+      "confidence": 0.6176
+    },
+    {
+      "bbox": [
+        171.5,
+        1691.6,
+        1499.6,
+        1751.5
+      ],
+      "text": "uu e se umou si snoo puquo ssa jo ns au 'sn s nuauoddo s",
+      "confidence": 0.555
+    },
+    {
+      "bbox": [
+        171.5,
+        1796.4,
+        1455.5,
+        1850.0
+      ],
+      "text": "      s    s   ",
+      "confidence": 0.5886
+    },
+    {
+      "bbox": [
+        167.8,
+        1946.1,
+        1499.6,
+        2004.7
+      ],
+      "text": "ou st 3 7 91 m ' nd e si 9m 7 I s 'sun !",
+      "confidence": 0.5184
+    },
+    {
+      "bbox": [
+        170.3,
+        2047.1,
+        1495.9,
+        2098.3
+      ],
+      "text": "        (    t ",
+      "confidence": 0.6483
+    },
+    {
+      "bbox": [
+        564.8,
+        2297.9,
+        1065.9,
+        2349.0
+      ],
+      "text": "  o o  s",
+      "confidence": 0.7506
+    },
+    {
+      "bbox": [
+        1445.7,
+        2307.8,
+        1494.7,
+        2350.3
+      ],
+      "text": "01",
+      "confidence": 0.8863
+    }
+  ]
+}

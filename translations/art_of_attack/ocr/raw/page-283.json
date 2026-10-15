@@ -1,0 +1,400 @@
+{
+  "pdf_page": 283,
+  "printed_page": 283,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        451.0,
+        120.0,
+        1348.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "283",
+      "bbox": [
+        1486.0,
+        119.0,
+        1547.0,
+        150.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the lack of communication between the white rooks as the main cause of White' s",
+      "bbox": [
+        232.0,
+        267.0,
+        1550.0,
+        305.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "misfortune.",
+      "bbox": [
+        232.0,
+        326.0,
+        419.0,
+        355.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Defence by a central thrust",
+      "bbox": [
+        235.0,
+        427.0,
+        917.0,
+        480.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Attacks on the castled king in which the situation in the centre does not play a",
+      "bbox": [
+        234.0,
+        518.0,
+        1554.0,
+        561.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "greater or lesser part are extremely rare, and as a rule it is precisely the soundness",
+      "bbox": [
+        235.0,
+        568.0,
+        1553.0,
+        616.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of the attacker's central formation which provides the basis for his attack. If this",
+      "bbox": [
+        235.0,
+        618.0,
+        1553.0,
+        661.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "formation is not sound enough, the defender may use indirect defence against it",
+      "bbox": [
+        235.0,
+        670.0,
+        1555.0,
+        712.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in the first instance, aimed against the central formation's most vulnerable point.",
+      "bbox": [
+        235.0,
+        720.0,
+        1539.0,
+        763.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Why is it that the centre is quite so important and sensitive in the particular",
+      "bbox": [
+        280.0,
+        770.0,
+        1556.0,
+        816.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "case of an attack on the castled king? Because this kind of attack is one of the",
+      "bbox": [
+        236.0,
+        820.0,
+        1555.0,
+        862.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "most complex and many-sided operations in chess, demanding the maximum",
+      "bbox": [
+        236.0,
+        870.0,
+        1555.0,
+        916.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "collaboration of the pieces and a control over all possible consequences right up",
+      "bbox": [
+        236.0,
+        921.0,
+        1556.0,
+        965.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to the endgame. The centre is the most versatile area on the chessboard; it pro-",
+      "bbox": [
+        237.0,
+        971.0,
+        1555.0,
+        1017.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vides the best conditions for the full co-operation of the pieces — the basis on",
+      "bbox": [
+        238.0,
+        1022.0,
+        1555.0,
+        1063.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which positional play is founded and a prerequisite for a favourable endgame.",
+      "bbox": [
+        238.0,
+        1073.0,
+        1555.0,
+        1118.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Many-sidedness is the common property belonging to a sound attack on the cas-",
+      "bbox": [
+        237.0,
+        1123.0,
+        1555.0,
+        1168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tled king and to the centre, and this accounts for their mutual interdependence.",
+      "bbox": [
+        238.0,
+        1174.0,
+        1555.0,
+        1218.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Correct defence must also be many-sided — this we have seen in the last series of",
+      "bbox": [
+        238.0,
+        1223.0,
+        1561.0,
+        1265.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "examples — and so each 'little crack in the centre' is more important to the de-",
+      "bbox": [
+        238.0,
+        1274.0,
+        1556.0,
+        1320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fence than a variety of other weaknesses on the attacker's side.",
+      "bbox": [
+        239.0,
+        1327.0,
+        1278.0,
+        1368.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In some of the examples so far we have seen the centre acting as the basis of an",
+      "bbox": [
+        284.0,
+        1375.0,
+        1557.0,
+        1419.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "attack, while in others the defender has employed indirect defence based on de-",
+      "bbox": [
+        239.0,
+        1426.0,
+        1557.0,
+        1467.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "stroying the attacker's centre by sacrificing a piece. We have noticed particularly",
+      "bbox": [
+        240.0,
+        1476.0,
+        1558.0,
+        1521.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the case where the defender strives to centralize his pieces — giving a position",
+      "bbox": [
+        239.0,
+        1527.0,
+        1558.0,
+        1567.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which as a rule makes possible a combination of direct defence and the indirect",
+      "bbox": [
+        240.0,
+        1577.0,
+        1560.0,
+        1620.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "form on the other flank. It still remains for us to look at the case of defence by",
+      "bbox": [
+        241.0,
+        1628.0,
+        1559.0,
+        1666.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "means of a pawn thrust against the attacker's central formation.",
+      "bbox": [
+        241.0,
+        1680.0,
+        1290.0,
+        1722.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Before we pass on to examples, we must be clear that we are concerned here",
+      "bbox": [
+        286.0,
+        1729.0,
+        1560.0,
+        1773.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with a central thrust of a particular kind. For why should such a thrust be signifi-",
+      "bbox": [
+        241.0,
+        1781.0,
+        1559.0,
+        1823.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cant just at the critical phase of the attack? Why did the player not employ it ear-",
+      "bbox": [
+        241.0,
+        1831.0,
+        1559.0,
+        1875.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lier? The point is precisely that we are dealing here with cases where in fact the",
+      "bbox": [
+        242.0,
+        1881.0,
+        1561.0,
+        1925.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "central thrust is not useful before the crisis, because the attacker has good replies",
+      "bbox": [
+        242.0,
+        1932.0,
+        1560.0,
+        1973.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to it. Only when he has increased his commitments and deployed his pieces for",
+      "bbox": [
+        242.0,
+        1982.0,
+        1562.0,
+        2025.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the attack does the moment for a thrust in the centre arise; and very often this oc-",
+      "bbox": [
+        242.0,
+        2032.0,
+        1561.0,
+        2071.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "curs at a precise, given moment, not a move earlier or later.",
+      "bbox": [
+        242.0,
+        2085.0,
+        1224.0,
+        2127.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The following famous game provides a good example of a defensive thrust in",
+      "bbox": [
+        288.0,
+        2134.0,
+        1562.0,
+        2176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the centre.",
+      "bbox": [
+        243.0,
+        2191.0,
+        413.0,
+        2220.0
+      ],
+      "confidence": null
+    }
+  ]
+}

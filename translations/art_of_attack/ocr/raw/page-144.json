@@ -1,0 +1,300 @@
+{
+  "pdf_page": 144,
+  "printed_page": 144,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        254.8,
+        119.8,
+        330.8,
+        165.9
+      ],
+      "text": "144",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        684.9,
+        121.0,
+        1184.7,
+        169.7
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.964
+    },
+    {
+      "bbox": [
+        300.2,
+        267.0,
+        1195.7,
+        316.9
+      ],
+      "text": "If 1...Wxc6, then 2 xf8+ xf8 3 d7 and White wins.",
+      "confidence": 0.9593
+    },
+    {
+      "bbox": [
+        300.2,
+        320.6,
+        496.2,
+        361.8
+      ],
+      "text": "2 Wb6 f8",
+      "confidence": 0.929
+    },
+    {
+      "bbox": [
+        297.7,
+        368.0,
+        1579.2,
+        425.4
+      ],
+      "text": "This loses at once, but Black could not have lasted long in any case, e.g.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        253.6,
+        419.2,
+        1580.4,
+        469.1
+      ],
+      "text": "2...Wc8 3 d7 Wa8 (or 3...xd7 4 We6+) 4 We6+ h8 5 Be1 h6 (or 5...g6 6 Wf6+",
+      "confidence": 0.9638
+    },
+    {
+      "bbox": [
+        257.3,
+        466.6,
+        1582.9,
+        525.2
+      ],
+      "text": "g8 7 Wxd8+ Wxd8 8 e8+) 6 Wg6 g8 7 h3 (preparing an escape hole in order",
+      "confidence": 0.9736
+    },
+    {
+      "bbox": [
+        252.4,
+        516.5,
+        1265.6,
+        571.3
+      ],
+      "text": "to threaten Ee8) 7...Wd8 8 Wf7 $h7 9 e8 and White wins.",
+      "confidence": 0.9625
+    },
+    {
+      "bbox": [
+        298.9,
+        571.3,
+        678.7,
+        616.3
+      ],
+      "text": "3 d7 f1+ 4 Wg1! 1-0",
+      "confidence": 0.9727
+    },
+    {
+      "bbox": [
+        300.2,
+        620.0,
+        1303.6,
+        669.9
+      ],
+      "text": "Since after 4...xg1+ 5 xg1 Black cannot halt the d-pawn.",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        590.5,
+        825.8,
+        623.6,
+        859.5
+      ],
+      "text": "W",
+      "confidence": 0.9184
+    },
+    {
+      "bbox": [
+        296.5,
+        1324.8,
+        1576.8,
+        1376.0
+      ],
+      "text": "This position is from the game Alekhine-E. Cohn, Stockholm 1912. White, to",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        249.9,
+        1376.0,
+        1578.0,
+        1428.4
+      ],
+      "text": "move, must try to retain his extra pawn. A 'realistic' tournament player would",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        249.9,
+        1424.6,
+        1578.0,
+        1478.3
+      ],
+      "text": "quietly play 1 fe1 c5 2 df3 and if 2...xc2, then 3 c1, or if 2...f6, then 3 exf6",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        248.7,
+        1473.3,
+        1576.8,
+        1533.2
+      ],
+      "text": "xe1+ 4 xe1, etc. However, this seemed too limp a solution to the young",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        249.9,
+        1526.9,
+        1574.3,
+        1580.6
+      ],
+      "text": "Alekhine, who wanted to keep Black's knight in its corner at h6 a little longer; in",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        248.7,
+        1580.6,
+        1579.2,
+        1628.0
+      ],
+      "text": "a typically ‘'incisive' way he defended the pawn on e5 indirectly, or rather 'sold it",
+      "confidence": 0.971
+    },
+    {
+      "bbox": [
+        247.5,
+        1629.2,
+        1498.3,
+        1679.1
+      ],
+      "text": "for the back rank', and this is in fact as good a method as that given above.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        292.8,
+        1679.1,
+        566.0,
+        1720.3
+      ],
+      "text": "1 c4 Kxe5 2 c5!",
+      "confidence": 0.9434
+    },
+    {
+      "bbox": [
+        291.6,
+        1729.0,
+        1250.9,
+        1776.4
+      ],
+      "text": "A little more spice; if 2...xc5, then 3 de6 wins a rook.",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        294.0,
+        1780.2,
+        442.3,
+        1818.8
+      ],
+      "text": "2...a6?",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        289.1,
+        1827.6,
+        1575.5,
+        1882.4
+      ],
+      "text": "He could have put up more resistance by 2..f6, for 3 f5 does not achieve",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        248.7,
+        1877.5,
+        1576.8,
+        1933.6
+      ],
+      "text": "much because of 3...f8. Correct would be 3 gf3!, against which Black must",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        247.5,
+        1929.9,
+        1578.0,
+        1984.7
+      ],
+      "text": "play 3...e8, but not 3...xc5? on account of 4 f5!, when White wins the ex-",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        245.0,
+        1977.3,
+        670.2,
+        2032.1
+      ],
+      "text": "change at the very least'.",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        291.6,
+        2029.6,
+        449.6,
+        2075.8
+      ],
+      "text": "3 de6?",
+      "confidence": 0.9462
+    },
+    {
+      "bbox": [
+        291.6,
+        2084.5,
+        1573.1,
+        2134.4
+      ],
+      "text": "This only leads to a small material advantage, whereas he could have won con-",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        246.3,
+        2129.4,
+        1575.5,
+        2189.3
+      ],
+      "text": "vincingly by 3 b5!, which is equally effective in stopping Black's rook from",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        246.3,
+        2185.6,
+        1575.5,
+        2234.2
+      ],
+      "text": "returning to the back rank (with the help of xc7) but at the same time does not",
+      "confidence": 0.9803
+    }
+  ]
+}

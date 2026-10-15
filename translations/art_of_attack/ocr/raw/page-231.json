@@ -1,0 +1,330 @@
+{
+  "pdf_page": 231,
+  "printed_page": 231,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "9",
+      "bbox": [
+        236.0,
+        304.0,
+        278.0,
+        366.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The attack on the fianchettoed",
+      "bbox": [
+        327.0,
+        301.0,
+        1525.0,
+        365.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and queenside castling",
+      "bbox": [
+        330.0,
+        403.0,
+        1222.0,
+        481.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "positions",
+      "bbox": [
+        332.0,
+        504.0,
+        686.0,
+        582.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Up till now we have, on the whole, based our examination of the various aspects",
+      "bbox": [
+        237.0,
+        737.0,
+        1555.0,
+        776.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of attacking play on the ordinary kingside castling position. The fianchettoed and",
+      "bbox": [
+        236.0,
+        787.0,
+        1555.0,
+        826.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queenside castling positions present certain special characteristics, which affect",
+      "bbox": [
+        236.0,
+        838.0,
+        1556.0,
+        877.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the particular forms of attack used against these types of position.",
+      "bbox": [
+        236.0,
+        888.0,
+        1325.0,
+        927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The attack on the fianchettoed king position",
+      "bbox": [
+        235.0,
+        994.0,
+        1360.0,
+        1046.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The term 'fianchetto' (from the Italian, meaning 'little flank') denotes a bishop",
+      "bbox": [
+        236.0,
+        1090.0,
+        1555.0,
+        1129.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "being developed on the flank (on g2, b2, g7 or b7), and if a player castles behind",
+      "bbox": [
+        236.0,
+        1140.0,
+        1556.0,
+        1179.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "such a fianchetto formation, we talk of a fianchettoed king position.",
+      "bbox": [
+        237.0,
+        1191.0,
+        1361.0,
+        1229.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Castled positions of this kind have their own particular good and bad sides;",
+      "bbox": [
+        281.0,
+        1241.0,
+        1554.0,
+        1280.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "these will be examined on the basis of Black's kingside fianchetto position,",
+      "bbox": [
+        236.0,
+        1292.0,
+        1554.0,
+        1330.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which occurs in the Dragon Variation of the Sicilian, and the King's Indian and",
+      "bbox": [
+        236.0,
+        1342.0,
+        1555.0,
+        1380.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Grünfeld defences.",
+      "bbox": [
+        236.0,
+        1392.0,
+        549.0,
+        1422.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The good aspect of the position is, above all, its considerable capacity to resist",
+      "bbox": [
+        280.0,
+        1442.0,
+        1556.0,
+        1481.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "attack along the diagonal bl -h7, thanks to the pawn formation, f7, g6, and h7; nor",
+      "bbox": [
+        236.0,
+        1493.0,
+        1556.0,
+        1531.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "are the squares f6 and h6 too weak, for they are covered by the bishop on g7. The",
+      "bbox": [
+        236.0,
+        1543.0,
+        1555.0,
+        1583.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishop is also well concealed against attacks and possibilities of exchange, while",
+      "bbox": [
+        236.0,
+        1594.0,
+        1555.0,
+        1633.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in many cases the defence is assisted by its ability to cover not only the squares f6",
+      "bbox": [
+        236.0,
+        1645.0,
+        1555.0,
+        1684.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and h6 but also the possible mating square h8. Finally, the fianchettoed position",
+      "bbox": [
+        236.0,
+        1695.0,
+        1555.0,
+        1734.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is also suited for those operations in which the g-pawn disappears, as in the fol-",
+      "bbox": [
+        236.0,
+        1745.0,
+        1554.0,
+        1785.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lowing well-known manoeuvre: Black plays ...f5, and then, on White's reply",
+      "bbox": [
+        236.0,
+        1796.0,
+        1555.0,
+        1836.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "exf5 he coolly continues ...gxf5, with the aim of strengthening his position in the",
+      "bbox": [
+        235.0,
+        1846.0,
+        1556.0,
+        1886.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Without the bishop on g7 such play would be risky because of the open-",
+      "bbox": [
+        357.0,
+        1897.0,
+        1554.0,
+        1937.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing of the g-file, but it often succeeds with the fianchettoed bishop, since the",
+      "bbox": [
+        236.0,
+        1948.0,
+        1556.0,
+        1988.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishop defends Black's king on the g-file about as well as a pawn does.",
+      "bbox": [
+        236.0,
+        1999.0,
+        1418.0,
+        2038.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The weak aspect of the fianchettoed position lies in the fact that the position of",
+      "bbox": [
+        281.0,
+        2049.0,
+        1558.0,
+        2089.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the g-pawn at g6 simplifies the attacker's task in opening up the h-file by the ad-",
+      "bbox": [
+        236.0,
+        2099.0,
+        1555.0,
+        2139.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vance of his h-pawn; there is also a danger that the fianchettoed bishop may be",
+      "bbox": [
+        236.0,
+        2150.0,
+        1556.0,
+        2189.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "exchanged either for its opposite number or some other enemy unit. Without the",
+      "bbox": [
+        236.0,
+        2200.0,
+        1556.0,
+        2239.0
+      ],
+      "confidence": null
+    }
+  ]
+}

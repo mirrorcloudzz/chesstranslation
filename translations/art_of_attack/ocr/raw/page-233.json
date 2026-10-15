@@ -1,0 +1,150 @@
+{
+  "pdf_page": 233,
+  "printed_page": 233,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The attack on the fianchettoed and queenside castling positions 233",
+      "bbox": [
+        345.0,
+        139.0,
+        1551.0,
+        180.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...Vh4 5 öfl Af2+ 6 xxn Vxf2+ 7 Vb2 0-1",
+      "bbox": [
+        279.0,
+        885.0,
+        1158.0,
+        922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "For White loses either his rook or his queen.",
+      "bbox": [
+        279.0,
+        942.0,
+        1014.0,
+        979.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Where there is a fianchettoed king position there is naturally no opportunity to",
+      "bbox": [
+        279.0,
+        1042.0,
+        1554.0,
+        1080.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sacrifice the bishop on h7; moreover, many other forms of sacrifice, typical",
+      "bbox": [
+        235.0,
+        1092.0,
+        1554.0,
+        1131.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "enough in the case of normal castling, are out of the question against the specific",
+      "bbox": [
+        234.0,
+        1142.0,
+        1554.0,
+        1182.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "structure of the fianchetto. A form of sacrifice which can be designated as char-",
+      "bbox": [
+        235.0,
+        1193.0,
+        1553.0,
+        1232.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "acteristic in the case of a fianchettoed king position is that of the knight on f5. An",
+      "bbox": [
+        235.0,
+        1244.0,
+        1554.0,
+        1282.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "example of such a sacrifice is provided by the next diagram.",
+      "bbox": [
+        234.0,
+        1295.0,
+        1231.0,
+        1333.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position arose in the game Alexander-Pachman, Hilversum 1947. Against",
+      "bbox": [
+        280.0,
+        2003.0,
+        1556.0,
+        2041.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's fianchettoed king position White has a knight aggressively placed at g5,",
+      "bbox": [
+        235.0,
+        2053.0,
+        1554.0,
+        2092.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a 'little avalanche' of pawns on g4 and h4, a rook on gl and his queen covering",
+      "bbox": [
+        235.0,
+        2103.0,
+        1555.0,
+        2142.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "some useful squares. Nevertheless, to 'unlock' Black's solid position a sacrifice",
+      "bbox": [
+        236.0,
+        2153.0,
+        1555.0,
+        2192.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is necessary.",
+      "bbox": [
+        235.0,
+        2204.0,
+        439.0,
+        2242.0
+      ],
+      "confidence": null
+    }
+  ]
+}

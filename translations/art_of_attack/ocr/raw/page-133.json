@@ -1,0 +1,300 @@
+{
+  "pdf_page": 133,
+  "printed_page": 133,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        645.6,
+        128.5,
+        1151.6,
+        173.4
+      ],
+      "text": "The classic bishop sacrifice",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        1481.2,
+        124.7,
+        1557.2,
+        170.9
+      ],
+      "text": "133",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        226.7,
+        269.5,
+        1549.8,
+        319.4
+      ],
+      "text": "a flaw in this, in that Black can embark upon 21...Wxf7 22 xf7+ g8 23 xd8,",
+      "confidence": 0.9725
+    },
+    {
+      "bbox": [
+        227.9,
+        316.9,
+        1553.5,
+        374.2
+      ],
+      "text": "obtaining excellent compensation for the exchange, e.g. 23...d7 24 b4 a4 25",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        231.6,
+        370.5,
+        1555.9,
+        416.7
+      ],
+      "text": "b7 c6 26 c5 (or 26 a5) 26...xf3 27 gxf3 d3 28 b1 c3 and Black wins",
+      "confidence": 0.9673
+    },
+    {
+      "bbox": [
+        227.9,
+        419.2,
+        1559.6,
+        470.3
+      ],
+      "text": "the c1-bishop at the very least. This scotches the idea of 21 f3?; a better move,",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        227.9,
+        469.1,
+        1558.4,
+        521.4
+      ],
+      "text": "therefore, is 21 Wg6, though after 21..g8 22 f3 We7 23 h3 f8 (otherwise",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        229.1,
+        522.7,
+        1557.2,
+        570.1
+      ],
+      "text": "24 h8+!) White only has a draw by 24 h7+ g8 25 g5, etc. If he plays for a",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        226.7,
+        568.9,
+        1557.2,
+        622.5
+      ],
+      "text": "material advantage with 24 h8+? Qxh8 25 h7+ Wxh7 26 Wxh7, then",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        230.3,
+        621.2,
+        1555.9,
+        671.1
+      ],
+      "text": "26...&g7 brings his attack to a standstill, after which Black's threats make them-",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        229.1,
+        674.9,
+        412.9,
+        719.8
+      ],
+      "text": "selves felt.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        273.2,
+        722.3,
+        1549.8,
+        769.7
+      ],
+      "text": "These variations, however, do not comprise a full coverage of 17...g8; in-",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        231.6,
+        775.9,
+        1440.8,
+        817.1
+      ],
+      "text": "stead of 20 f4 White has a better move, i.e. 20 f4!. Here is an analysis:",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        274.4,
+        820.8,
+        744.9,
+        869.5
+      ],
+      "text": "1) 20...d7 21 xe6 wins.",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        274.4,
+        875.7,
+        975.2,
+        920.6
+      ],
+      "text": "2) 20...d3 21 Wg6! picks up the knight.",
+      "confidence": 0.9695
+    },
+    {
+      "bbox": [
+        274.4,
+        924.4,
+        844.1,
+        971.8
+      ],
+      "text": "3) 20...Wb7 fails against 21 c7.",
+      "confidence": 0.9801
+    },
+    {
+      "bbox": [
+        272.0,
+        971.8,
+        1544.9,
+        1024.2
+      ],
+      "text": "4) 20...e5 21 xe5 Wh6 22 we7! 皇e6 23 Qxg7+ Wxg7 24 Wxc5 winning.",
+      "confidence": 0.9363
+    },
+    {
+      "bbox": [
+        275.7,
+        1026.7,
+        1554.7,
+        1071.6
+      ],
+      "text": "5) 20...Ia7 21 Wg6 g8 22 e5 Wb7 (the queen must defend the bishop on",
+      "confidence": 0.9646
+    },
+    {
+      "bbox": [
+        229.1,
+        1072.8,
+        1558.4,
+        1124.0
+      ],
+      "text": "g7, since otherwise White plays 23 Wh7+ followed by Ωxg7+ and Wh8+) 23",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        230.3,
+        1122.7,
+        1557.2,
+        1172.6
+      ],
+      "text": "ac1 a6 24 xc8! Wxc8 (or 24...xc8 25 d6! and there is no defence against",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        230.3,
+        1175.1,
+        1536.3,
+        1221.3
+      ],
+      "text": "26 h7#) 25 Wh7+ f8 26 皇xg7+ xg7 27 h8+ g8 28 f6+ and 29 f7#.",
+      "confidence": 0.9481
+    },
+    {
+      "bbox": [
+        279.3,
+        1232.5,
+        1554.7,
+        1269.9
+      ],
+      "text": "As can be seen, a considerable analytical effort was needed to overcome a de-",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        230.3,
+        1279.9,
+        1553.5,
+        1322.3
+      ],
+      "text": "fence built round the fianchetto, and more will be said about this in a separate",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        231.6,
+        1332.3,
+        366.3,
+        1374.7
+      ],
+      "text": "chapter.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        274.4,
+        1374.7,
+        664.0,
+        1428.4
+      ],
+      "text": "18 g4 f5 19 g3 (D)",
+      "confidence": 0.9614
+    },
+    {
+      "bbox": [
+        539.1,
+        1585.5,
+        564.8,
+        1618.0
+      ],
+      "text": "B",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        279.3,
+        2090.8,
+        1557.2,
+        2131.9
+      ],
+      "text": "A critical stage of the game. It is now evident that the position of his bishop at",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        232.8,
+        2138.2,
+        1557.2,
+        2183.1
+      ],
+      "text": "g7 is an embarrassment to Black, since there is an immediate threat of Zxe6+",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        232.8,
+        2189.3,
+        798.8,
+        2233.0
+      ],
+      "text": "with a double attack on g7 and f8.",
+      "confidence": 0.9947
+    }
+  ]
+}

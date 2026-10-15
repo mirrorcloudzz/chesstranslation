@@ -1,0 +1,200 @@
+{
+  "pdf_page": 45,
+  "printed_page": 45,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        406.7,
+        122.3,
+        1427.3,
+        169.7
+      ],
+      "text": "The attack on the king that has lost the right to castle",
+      "confidence": 0.9697
+    },
+    {
+      "bbox": [
+        1520.4,
+        123.5,
+        1570.6,
+        164.7
+      ],
+      "text": "45",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        649.3,
+        305.6,
+        687.3,
+        343.1
+      ],
+      "text": "二",
+      "confidence": 0.7717
+    },
+    {
+      "bbox": [
+        557.4,
+        379.2,
+        577.0,
+        407.9
+      ],
+      "text": "B",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        245.0,
+        869.5,
+        1573.1,
+        919.4
+      ],
+      "text": "xc3 and considers that White retains the advantage. However, after 12...Wd4+",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        245.0,
+        921.9,
+        1573.1,
+        970.5
+      ],
+      "text": "13 *d2 f6! 14 Wc2 (if he stops 14...e4+ by 14 c3, then 14...c5!)",
+      "confidence": 0.9555
+    },
+    {
+      "bbox": [
+        245.0,
+        973.0,
+        1573.1,
+        1019.2
+      ],
+      "text": "14...0-0-0 15 f3 Wf2+ 16 d1 g4 Black has excellent chances based on ...e4",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        247.5,
+        1025.4,
+        465.6,
+        1067.8
+      ],
+      "text": "and ...e3+.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        291.6,
+        1069.1,
+        945.8,
+        1117.7
+      ],
+      "text": "10 ±xa4 c5+ 11 b4 a5+ 12 xc5",
+      "confidence": 0.9558
+    },
+    {
+      "bbox": [
+        285.5,
+        1116.5,
+        1574.3,
+        1175.1
+      ],
+      "text": "If 12 c3? then 12...d4+ 13 *c4 b6 14 *d5 f6 15 c6 d8, and the mating",
+      "confidence": 0.9765
+    },
+    {
+      "bbox": [
+        241.4,
+        1165.1,
+        532.9,
+        1232.5
+      ],
+      "text": "net is complete².",
+      "confidence": 0.959
+    },
+    {
+      "bbox": [
+        286.7,
+        1220.0,
+        920.1,
+        1273.7
+      ],
+      "text": "12...e7 13 b5+ d8 14 c6! (D)",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        290.4,
+        1279.9,
+        557.4,
+        1326.1
+      ],
+      "text": "The only reply!",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        558.7,
+        1487.0,
+        580.7,
+        1516.9
+      ],
+      "text": "B",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        325.9,
+        2040.9,
+        1574.3,
+        2090.8
+      ],
+      "text": "In his book Draw!, Wolfgang Heidenfeld offered some rather convincing",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        329.6,
+        2090.8,
+        1244.7,
+        2135.7
+      ],
+      "text": "analysis to prove that White could have won by 11 b5!.",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        251.2,
+        2148.2,
+        270.8,
+        2175.6
+      ],
+      "text": "2",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        327.1,
+        2139.4,
+        1573.1,
+        2186.8
+      ],
+      "text": "Heidenfeld pointed out that this line can be improved by 14 Wf3 Qe6+ 15 Wd5",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        329.6,
+        2188.1,
+        1037.7,
+        2233.0
+      ],
+      "text": "e7 16 Wxe6 fxe6 with an unclear position.",
+      "confidence": 0.984
+    }
+  ]
+}

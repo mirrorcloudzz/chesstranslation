@@ -1,0 +1,270 @@
+{
+  "pdf_page": 310,
+  "printed_page": 310,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "310",
+      "bbox": [
+        238.0,
+        140.0,
+        301.0,
+        170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 Ve2 axe5?",
+      "bbox": [
+        282.0,
+        283.0,
+        512.0,
+        318.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        663.0,
+        140.0,
+        1157.0,
+        179.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's position is too weak for this method of defence; it allows White to get",
+      "bbox": [
+        282.0,
+        339.0,
+        1554.0,
+        378.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "his rooks into active play via dl and d4. He should have preferred 3...Qf8, al-",
+      "bbox": [
+        236.0,
+        385.0,
+        1551.0,
+        428.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "though even then White would have retained the advantage.",
+      "bbox": [
+        237.0,
+        440.0,
+        1223.0,
+        478.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4 dxe5 Qh7 5 Vh5 Qf8 6 Äcdl vc7 7 Axh6!",
+      "bbox": [
+        281.0,
+        484.0,
+        1061.0,
+        520.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Since Black abandoned the centre, the preconditions for a successful attack on",
+      "bbox": [
+        282.0,
+        540.0,
+        1552.0,
+        578.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "his king have increased with every move. Now the situation is even ripe for a sac-",
+      "bbox": [
+        236.0,
+        590.0,
+        1551.0,
+        629.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rifice.",
+      "bbox": [
+        235.0,
+        640.0,
+        329.0,
+        669.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7...gxh6 8 Äd4 f5 9 exf6 Axf6 10 Äg4+ Ag7 11 Vxh6 Xad8 (D)",
+      "bbox": [
+        280.0,
+        685.0,
+        1374.0,
+        728.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White would have faced a harder task after 11...Äe7 12 Qe2 e5, since he could",
+      "bbox": [
+        280.0,
+        735.0,
+        1551.0,
+        775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not then have played 13 Qg3 because of 13...Vc6, forcing the exchange of",
+      "bbox": [
+        235.0,
+        785.0,
+        1555.0,
+        830.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queens. White would have had to play 13 Af5 Vc6 14 Vg5.",
+      "bbox": [
+        235.0,
+        836.0,
+        1234.0,
+        880.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 e5",
+      "bbox": [
+        279.0,
+        1545.0,
+        451.0,
+        1575.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 12...Äd7, then the manoeuvre Qg3-h5-f6+ is decisive.",
+      "bbox": [
+        277.0,
+        1593.0,
+        1213.0,
+        1637.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13 14",
+      "bbox": [
+        278.0,
+        1646.0,
+        535.0,
+        1677.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14...Ve7 would not have worked because of 15 Äxg7+!, but 14...e4 would",
+      "bbox": [
+        280.0,
+        1692.0,
+        1548.0,
+        1739.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have offered a little more resistance.",
+      "bbox": [
+        230.0,
+        1748.0,
+        829.0,
+        1779.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 Qf5 Qg616 Vh5 Vf7 17 h4! Af818 Qh6+ Axh619 vxh6 Vh7 20 Vg5",
+      "bbox": [
+        277.0,
+        1792.0,
+        1547.0,
+        1841.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21 Axd3 cxd3 22 Vf5+ 1-0",
+      "bbox": [
+        314.0,
+        1843.0,
+        781.0,
+        1879.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Old and modern styles in building up an attack on",
+      "bbox": [
+        231.0,
+        1954.0,
+        1497.0,
+        2010.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the king",
+      "bbox": [
+        228.0,
+        2018.0,
+        432.0,
+        2071.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The following three games reflect the differences of two periods and three indi-",
+      "bbox": [
+        228.0,
+        2102.0,
+        1545.0,
+        2144.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vidual styles in preparing and conducting attacks on the king. The first is a sam-",
+      "bbox": [
+        229.0,
+        2152.0,
+        1545.0,
+        2194.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ple of old-time brilliance, showing the unfolding of an overwhelming attack",
+      "bbox": [
+        227.0,
+        2201.0,
+        1547.0,
+        2246.0
+      ],
+      "confidence": null
+    }
+  ]
+}

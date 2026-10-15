@@ -1,0 +1,800 @@
+{
+  "pdf_page": 352,
+  "printed_page": 352,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "352",
+      "bbox": [
+        330.0,
+        110.0,
+        392.0,
+        141.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        756.0,
+        118.0,
+        1250.0,
+        160.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "P. Schmidt — Richter 158",
+      "bbox": [
+        326.0,
+        257.0,
+        718.0,
+        291.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Schroeder — Capablanca 341",
+      "bbox": [
+        326.0,
+        303.0,
+        773.0,
+        343.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Schulder — Boden 76",
+      "bbox": [
+        325.0,
+        349.0,
+        654.0,
+        382.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Schulz — Luprecht 195",
+      "bbox": [
+        324.0,
+        396.0,
+        679.0,
+        436.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Schwarz — Blackburne 253",
+      "bbox": [
+        323.0,
+        443.0,
+        744.0,
+        478.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Shumov — Jaenisch 194",
+      "bbox": [
+        322.0,
+        490.0,
+        693.0,
+        524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Smyslov — Florian 34",
+      "bbox": [
+        321.0,
+        537.0,
+        660.0,
+        573.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Soldatenkov — Lasker and Taubenhaus 99",
+      "bbox": [
+        321.0,
+        582.0,
+        945.0,
+        621.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "St Brie - Legall 77",
+      "bbox": [
+        320.0,
+        629.0,
+        616.0,
+        668.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ståhlberg — Alekhine 321",
+      "bbox": [
+        319.0,
+        675.0,
+        718.0,
+        714.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Steinitz — von Bardeleben 19, Golmayo",
+      "bbox": [
+        318.0,
+        723.0,
+        939.0,
+        769.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "167, Lasker 320, Marco 223,",
+      "bbox": [
+        353.0,
+        770.0,
+        805.0,
+        811.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "L. Paulsen 191",
+      "bbox": [
+        350.0,
+        817.0,
+        582.0,
+        849.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Stoltz — Flohr 152, Guimard 178",
+      "bbox": [
+        315.0,
+        863.0,
+        827.0,
+        900.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Supico — Alekhine 185",
+      "bbox": [
+        314.0,
+        910.0,
+        673.0,
+        946.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Szabo — Alexander 177, Kotov 90, van",
+      "bbox": [
+        313.0,
+        956.0,
+        921.0,
+        998.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Scheltinga 104, Szilagyi 232",
+      "bbox": [
+        347.0,
+        1004.0,
+        798.0,
+        1047.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Szigeti — Toth 159",
+      "bbox": [
+        311.0,
+        1050.0,
+        598.0,
+        1087.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Szilagyi — Szabo 232",
+      "bbox": [
+        310.0,
+        1096.0,
+        642.0,
+        1134.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Takacs — Yates 307",
+      "bbox": [
+        308.0,
+        1143.0,
+        609.0,
+        1177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Tarrasch — Alekhine 202, Nimzowitsch",
+      "bbox": [
+        307.0,
+        1190.0,
+        923.0,
+        1230.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "198, Pillsbury 258, Schlechter 213",
+      "bbox": [
+        345.0,
+        1238.0,
+        884.0,
+        1277.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Tartakower - colle 192, Euwe 37,",
+      "bbox": [
+        305.0,
+        1284.0,
+        842.0,
+        1327.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Index of Openings",
+      "bbox": [
+        305.0,
+        1400.0,
+        868.0,
+        1473.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Blumenfeld Counter-Gambit 202",
+      "bbox": [
+        300.0,
+        1520.0,
+        821.0,
+        1558.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Caro-Kann Defence 78, 1 16",
+      "bbox": [
+        299.0,
+        1567.0,
+        743.0,
+        1607.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Colle System 139, 346",
+      "bbox": [
+        298.0,
+        1613.0,
+        656.0,
+        1651.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Danish Gambit 99",
+      "bbox": [
+        296.0,
+        1660.0,
+        584.0,
+        1693.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "English Opening 15",
+      "bbox": [
+        295.0,
+        1707.0,
+        609.0,
+        1748.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Evans Gambit 29",
+      "bbox": [
+        294.0,
+        1754.0,
+        566.0,
+        1787.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "French Defence 36, 170",
+      "bbox": [
+        293.0,
+        1801.0,
+        673.0,
+        1839.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Giuoco Piano 19, 55, 63, 92",
+      "bbox": [
+        293.0,
+        1847.0,
+        735.0,
+        1888.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Grunfeld Defence 34",
+      "bbox": [
+        292.0,
+        1894.0,
+        624.0,
+        1928.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "King's Gambit Accepted 49",
+      "bbox": [
+        292.0,
+        1941.0,
+        731.0,
+        1984.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "King's Gambit Declined 16",
+      "bbox": [
+        290.0,
+        1988.0,
+        724.0,
+        2025.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Nimzo-Indian Defence 256, 344",
+      "bbox": [
+        288.0,
+        2035.0,
+        798.0,
+        2077.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Petroff Defence 46, 243",
+      "bbox": [
+        288.0,
+        2082.0,
+        663.0,
+        2121.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Philidor Defence 77, 271",
+      "bbox": [
+        286.0,
+        2129.0,
+        679.0,
+        2168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Queen's Gambit Declined 153, 289, 337",
+      "bbox": [
+        286.0,
+        2175.0,
+        907.0,
+        2219.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Lundin 180, Réti 78",
+      "bbox": [
+        1050.0,
+        270.0,
+        1366.0,
+        306.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Taubenhaus — Janowski and",
+      "bbox": [
+        1014.0,
+        316.0,
+        1453.0,
+        351.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Soldatenkov 99",
+      "bbox": [
+        1049.0,
+        363.0,
+        1292.0,
+        395.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Teichmann — Rubinstein 215,",
+      "bbox": [
+        1012.0,
+        409.0,
+        1475.0,
+        450.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Schlechter 319",
+      "bbox": [
+        1047.0,
+        457.0,
+        1280.0,
+        488.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Tenner — Field 83",
+      "bbox": [
+        1010.0,
+        503.0,
+        1286.0,
+        536.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Tolush — Kotov 220, Renter 176",
+      "bbox": [
+        1009.0,
+        550.0,
+        1516.0,
+        587.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Toth — Szigeti 159",
+      "bbox": [
+        1008.0,
+        596.0,
+        1296.0,
+        634.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "K. Treybal - H. wolf 265",
+      "bbox": [
+        1008.0,
+        642.0,
+        1410.0,
+        680.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Tylor — Koltanowski 96",
+      "bbox": [
+        1006.0,
+        689.0,
+        1379.0,
+        725.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ufimtsev — Boleslavsky 83",
+      "bbox": [
+        1006.0,
+        736.0,
+        1429.0,
+        779.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vajda — Vukovié166",
+      "bbox": [
+        1005.0,
+        783.0,
+        1323.0,
+        819.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Varein - NN 23",
+      "bbox": [
+        1004.0,
+        830.0,
+        1250.0,
+        862.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vidmar — Yates 326",
+      "bbox": [
+        1003.0,
+        876.0,
+        1315.0,
+        909.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vukovié — Endzelins 105, Vajda 166",
+      "bbox": [
+        1002.0,
+        923.0,
+        1578.0,
+        968.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vygodchikov — Alekhine 84",
+      "bbox": [
+        1001.0,
+        970.0,
+        1448.0,
+        1006.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Weenink — Alekhine 212, 300",
+      "bbox": [
+        1000.0,
+        1017.0,
+        1472.0,
+        1057.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "H. Weiss - König 218",
+      "bbox": [
+        998.0,
+        1064.0,
+        1345.0,
+        1105.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Winter — Capablanca 186, Keres 23",
+      "bbox": [
+        998.0,
+        1111.0,
+        1558.0,
+        1151.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "H. Wolf - Pillsbury 31 1, K. Treybal",
+      "bbox": [
+        997.0,
+        1158.0,
+        1563.0,
+        1204.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "265, Réti 25",
+      "bbox": [
+        1032.0,
+        1205.0,
+        1223.0,
+        1238.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Yates - Marco 271, Takacs 307,",
+      "bbox": [
+        996.0,
+        1251.0,
+        1499.0,
+        1294.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vidmar 326",
+      "bbox": [
+        1029.0,
+        1299.0,
+        1215.0,
+        1330.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Orthodox Defence 25, 86, 135, 215,",
+      "bbox": [
+        1029.0,
+        1535.0,
+        1598.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "258, 311, 316, 341",
+      "bbox": [
+        1024.0,
+        1582.0,
+        1314.0,
+        1619.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Semi-Slav Defence 131",
+      "bbox": [
+        1027.0,
+        1629.0,
+        1396.0,
+        1665.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Semi-Tarrasch Defence 204",
+      "bbox": [
+        1026.0,
+        1676.0,
+        1465.0,
+        1712.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Tarrasch Defence 198",
+      "bbox": [
+        1024.0,
+        1723.0,
+        1368.0,
+        1758.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Queen's Pawn Game 218",
+      "bbox": [
+        984.0,
+        1768.0,
+        1382.0,
+        1805.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ruy Lopez 77, 84",
+      "bbox": [
+        983.0,
+        1816.0,
+        1264.0,
+        1854.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sicilian Defence",
+      "bbox": [
+        983.0,
+        1863.0,
+        1242.0,
+        1896.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...Qf6 23, 26",
+      "bbox": [
+        1021.0,
+        1906.0,
+        1244.0,
+        1946.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Closed Variation 28",
+      "bbox": [
+        1019.0,
+        1957.0,
+        1331.0,
+        1992.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Dragon Variation 284, 313",
+      "bbox": [
+        1018.0,
+        2004.0,
+        1438.0,
+        2044.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Scheveningen Variation 220",
+      "bbox": [
+        1018.0,
+        2051.0,
+        1462.0,
+        2091.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Najdorf Variation 22",
+      "bbox": [
+        1017.0,
+        2098.0,
+        1343.0,
+        2134.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sokolsky Opening 199",
+      "bbox": [
+        977.0,
+        2144.0,
+        1336.0,
+        2186.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vienna Game 38, 43",
+      "bbox": [
+        975.0,
+        2190.0,
+        1297.0,
+        2228.0
+      ],
+      "confidence": null
+    }
+  ]
+}

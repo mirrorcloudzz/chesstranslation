@@ -1,0 +1,160 @@
+{
+  "pdf_page": 211,
+  "printed_page": 211,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        415.0,
+        125.0,
+        1365.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...Vc7 (D)",
+      "bbox": [
+        268.0,
+        268.0,
+        480.0,
+        310.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "211",
+      "bbox": [
+        1478.0,
+        128.0,
+        1537.0,
+        159.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In the event of 16...Qb4 Yudovich gave the following combination: 17 Axb4",
+      "bbox": [
+        266.0,
+        319.0,
+        1540.0,
+        363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxb4 18 Xg4 Vc5 19 Axh7+ •xh7 20 Xh4+ ég8 21 Vh5 Axg5+ 22 Vxg5 f6",
+      "bbox": [
+        221.0,
+        368.0,
+        1541.0,
+        414.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23 Vxg7+! exg7 24 Zgl+ and mates.",
+      "bbox": [
+        222.0,
+        418.0,
+        860.0,
+        461.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17 xg4",
+      "bbox": [
+        265.0,
+        1123.0,
+        384.0,
+        1164.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Keres does not carry his attack to its logical conclusion, i.e. by the sacrifice 17",
+      "bbox": [
+        264.0,
+        1177.0,
+        1536.0,
+        1218.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axh7+ #xh7 18 Vh5+ 19 f4 threatening Äg4-h4. This attacking position",
+      "bbox": [
+        217.0,
+        1221.0,
+        1537.0,
+        1270.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is strong enough to guarantee victory, although it still demands precise play. In-",
+      "bbox": [
+        217.0,
+        1277.0,
+        1536.0,
+        1321.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "stead of 19 f4, Horowitz gives the weaker continuation 19 Äg3 Vxe5 20 Xh3 and",
+      "bbox": [
+        217.0,
+        1327.0,
+        1536.0,
+        1370.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "shows that 20...f6 then parries White's attack.",
+      "bbox": [
+        217.0,
+        1378.0,
+        972.0,
+        1418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After the text move Black should have played 17...f5 18 gxf6 Axf6, where-",
+      "bbox": [
+        261.0,
+        1429.0,
+        1534.0,
+        1472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "upon White would have been left with only a slight advantage.",
+      "bbox": [
+        215.0,
+        1479.0,
+        1254.0,
+        1522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17...g6? 18 Xh4 Ad6 (D)",
+      "bbox": [
+        263.0,
+        1526.0,
+        689.0,
+        1568.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "pdf_page": 164,
+  "printed_page": 164,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "164",
+      "bbox": [
+        280.0,
+        125.0,
+        339.0,
+        156.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        703.0,
+        128.0,
+        1198.0,
+        168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "two other methods of exploiting the formation of rook and pawn — one is to sim-",
+      "bbox": [
+        274.0,
+        276.0,
+        1593.0,
+        319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ply advance the pawn, the other involves switching the rook on to another file",
+      "bbox": [
+        274.0,
+        326.0,
+        1594.0,
+        369.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(e.g. with rook on hl and pawns at h4 and g2, moving the rook to h3 and then to",
+      "bbox": [
+        275.0,
+        377.0,
+        1594.0,
+        419.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "g3).",
+      "bbox": [
+        274.0,
+        426.0,
+        335.0,
+        464.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Here are a few examples of these ideas.",
+      "bbox": [
+        319.0,
+        477.0,
+        972.0,
+        516.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this position we see a formation in which preparations have already been",
+      "bbox": [
+        313.0,
+        1180.0,
+        1587.0,
+        1226.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "made for the opening of the h-file after the capture of the knight at g5. It is true",
+      "bbox": [
+        267.0,
+        1230.0,
+        1587.0,
+        1277.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "that White, to move, currently has no very sharp threats, but he reckons correctly",
+      "bbox": [
+        267.0,
+        1281.0,
+        1586.0,
+        1329.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "that he can quickly strengthen his position; in the meantime, he puts his trust in",
+      "bbox": [
+        267.0,
+        1331.0,
+        1585.0,
+        1377.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the efficacy of hxg5 if Black takes the knight.",
+      "bbox": [
+        266.0,
+        1381.0,
+        1020.0,
+        1425.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 c3 hxg5?",
+      "bbox": [
+        313.0,
+        1432.0,
+        495.0,
+        1470.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "We shall examine this weak move in order to get to know the various typical",
+      "bbox": [
+        310.0,
+        1483.0,
+        1584.0,
+        1532.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "combinations which occur when the h-file is opened in such circumstances. Cor-",
+      "bbox": [
+        264.0,
+        1534.0,
+        1583.0,
+        1577.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rect was 1...a5 ! , stopping b4. White would then probably play 2 g4 to exclude the",
+      "bbox": [
+        264.0,
+        1585.0,
+        1584.0,
+        1630.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "possibility of ...Qf6-h5-g3. Thus, the game could go on for a few more moves",
+      "bbox": [
+        263.0,
+        1630.0,
+        1583.0,
+        1679.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with the knight on g5 en prise, until the critical moment came to decide on the ex-",
+      "bbox": [
+        264.0,
+        1684.0,
+        1582.0,
+        1725.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "act significance of the knight's position: either White's attack would break",
+      "bbox": [
+        263.0,
+        1735.0,
+        1583.0,
+        1777.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "through, or Black would take the knight without any ill-effects to himself, or",
+      "bbox": [
+        263.0,
+        1785.0,
+        1583.0,
+        1831.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "thirdly White might simply withdraw the knight from g5.",
+      "bbox": [
+        262.0,
+        1835.0,
+        1212.0,
+        1882.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 hxg5 Qxd5 3 Axd5 Ae6",
+      "bbox": [
+        307.0,
+        1882.0,
+        761.0,
+        1925.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 3...g6, then 4 #e2! (a characteristically quiet move by the king to unite the",
+      "bbox": [
+        306.0,
+        1935.0,
+        1581.0,
+        1986.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "heavy pieces on the back rank) 4...#g7 5 Xh7+! •xh7 6 Vhl+ 7 Vh6 Qe7",
+      "bbox": [
+        260.0,
+        1987.0,
+        1580.0,
+        2031.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 Ad2 Qxd5 9 Zhl followed by mate.",
+      "bbox": [
+        261.0,
+        2033.0,
+        900.0,
+        2080.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This seems to provide the most resistance. If 4...g6, then 5 f5 Axd5 6 f6 Ae6 7",
+      "bbox": [
+        304.0,
+        2139.0,
+        1578.0,
+        2184.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vf3 and White can easily organize a mating attack.",
+      "bbox": [
+        258.0,
+        2183.0,
+        1113.0,
+        2233.0
+      ],
+      "confidence": null
+    }
+  ]
+}

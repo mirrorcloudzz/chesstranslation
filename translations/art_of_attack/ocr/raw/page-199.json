@@ -1,0 +1,250 @@
+{
+  "pdf_page": 199,
+  "printed_page": 199,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        432.0,
+        134.0,
+        1381.0,
+        175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "199",
+      "bbox": [
+        1498.0,
+        134.0,
+        1556.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22...Äfe8 23 Vhl+ 24 en •xn 25 d5 f5 26 vc3 Vg2+ 27 Äxe4+",
+      "bbox": [
+        284.0,
+        276.0,
+        1557.0,
+        320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "28 fxe4 f4+ 29 30 31 Xe8+ 0-1",
+      "bbox": [
+        239.0,
+        329.0,
+        1242.0,
+        364.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "For if 32 Éd7, then 32...Ab5#.",
+      "bbox": [
+        284.0,
+        379.0,
+        797.0,
+        418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Alekhine - Drewitt",
+      "bbox": [
+        716.0,
+        481.0,
+        1077.0,
+        513.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Portsmouth, 1923",
+      "bbox": [
+        750.0,
+        533.0,
+        1043.0,
+        567.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sokolsky Opening",
+      "bbox": [
+        745.0,
+        583.0,
+        1049.0,
+        621.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Qf3 d5 2 b4 e6 3 Ab2 Qf6 4 a3 c5 5 bxc5 Axc5 6 e3 0-0 7 c4 8 d4 Ab6 9",
+      "bbox": [
+        241.0,
+        679.0,
+        1557.0,
+        714.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qbd2 ve7 10 Ad3 Xd8 110-0 Adi 12 Qe5! Ae8 13 U Xac8 14 Qd7 15",
+      "bbox": [
+        239.0,
+        728.0,
+        1557.0,
+        764.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qxc6 Äxc6 16 c5 Qxc5 17 dxc5 Axc5 18 Xf3 Axa3? 19 Äxc6 Axc6 (D)",
+      "bbox": [
+        239.0,
+        779.0,
+        1481.0,
+        820.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20 Axh7+!",
+      "bbox": [
+        283.0,
+        1486.0,
+        469.0,
+        1520.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The beginning of a well-prepared combination involving two bishop sacrifices.",
+      "bbox": [
+        282.0,
+        1541.0,
+        1539.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20...#xh7 21 Xh3+ 22 Axg7 1-0.",
+      "bbox": [
+        283.0,
+        1586.0,
+        937.0,
+        1629.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 22...Éxg7, then 23 Vg4+ and mate, while after 22...f6 23 Ah6 24",
+      "bbox": [
+        295.0,
+        1636.0,
+        1556.0,
+        1680.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vh5+ Black's king cannot extricate itself from the mating net.",
+      "bbox": [
+        237.0,
+        1686.0,
+        1274.0,
+        1731.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The pawns in the attack on the castled king",
+      "bbox": [
+        237.0,
+        1798.0,
+        1344.0,
+        1851.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "These examples of destructive sacrifices have shown us a procedure for dealing",
+      "bbox": [
+        237.0,
+        1894.0,
+        1556.0,
+        1934.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with the opponent's pawns, and now we shall examine the part played by the at-",
+      "bbox": [
+        237.0,
+        1945.0,
+        1555.0,
+        1984.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tacker's pawns in the attack on the castled king. The part is a very varied one, re-",
+      "bbox": [
+        237.0,
+        1995.0,
+        1556.0,
+        2035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "flecting, as it does, the rich possibilities inherent in the pawn's movements. The",
+      "bbox": [
+        237.0,
+        2046.0,
+        1557.0,
+        2086.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawns are, above all, the pieces which cost one the least to sacrifice in one's ef-",
+      "bbox": [
+        237.0,
+        2097.0,
+        1556.0,
+        2135.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "forts to weaken the enemy position; they are also excellent at harrying one's op-",
+      "bbox": [
+        237.0,
+        2147.0,
+        1556.0,
+        2187.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ponent's pieces as well as helping to support one's own on focal-points or strong",
+      "bbox": [
+        236.0,
+        2198.0,
+        1556.0,
+        2238.0
+      ],
+      "confidence": null
+    }
+  ]
+}

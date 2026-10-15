@@ -1,0 +1,300 @@
+{
+  "pdf_page": 154,
+  "printed_page": 154,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        310.0,
+        116.0,
+        385.9,
+        162.2
+      ],
+      "text": "154",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        738.8,
+        119.8,
+        1239.8,
+        169.7
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        307.5,
+        263.2,
+        1635.6,
+        321.8
+      ],
+      "text": "its file by playing ..&g4 and ...xf3, after which the danger of the thrust g5 is",
+      "confidence": 0.948
+    },
+    {
+      "bbox": [
+        312.4,
+        320.6,
+        448.4,
+        358.0
+      ],
+      "text": "averted.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        356.5,
+        364.3,
+        939.7,
+        415.4
+      ],
+      "text": "11...g4! 12 h3 xf3 13 gxf3 (D)",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        640.7,
+        572.6,
+        667.7,
+        605.0
+      ],
+      "text": "B",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        349.2,
+        1070.3,
+        1627.0,
+        1126.5
+      ],
+      "text": "Admittedly, White now has an open g-file, but Black is not weak on this file,",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        302.6,
+        1121.5,
+        1627.0,
+        1176.4
+      ],
+      "text": "since the g7-square is excellently covered. Here the g-file is of less value than the",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        302.6,
+        1171.4,
+        1627.0,
+        1226.3
+      ],
+      "text": "possibility of g4-g5, which White enjoyed before the exchange on f3. If Black's",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        300.2,
+        1220.0,
+        1627.0,
+        1277.4
+      ],
+      "text": "pieces had been differently arranged, the opening of the g-file might have been a",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        300.2,
+        1271.2,
+        1624.5,
+        1327.3
+      ],
+      "text": "good thing, but as it is Black's weakness is at h6, not g7; the result is that the",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        300.2,
+        1322.3,
+        1624.5,
+        1376.0
+      ],
+      "text": "opening of the file has considerably blunted White's potential attack on the",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        300.2,
+        1371.0,
+        1625.8,
+        1428.4
+      ],
+      "text": "kingside. This instructive point should be remembered, since similar positions",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        298.9,
+        1422.1,
+        687.3,
+        1469.5
+      ],
+      "text": "often occur in practice.",
+      "confidence": 0.9735
+    },
+    {
+      "bbox": [
+        341.8,
+        1472.0,
+        486.4,
+        1514.4
+      ],
+      "text": "13...a5?",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        341.8,
+        1524.4,
+        1616.0,
+        1578.1
+      ],
+      "text": "The great Akiba is dozing at this point, and is not far from falling into an infe-",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        297.7,
+        1574.3,
+        1623.3,
+        1630.5
+      ],
+      "text": "rior position. The move 13...a5? did not appeal to Grunfeld or Becker, the consci--",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        296.5,
+        1624.2,
+        1624.5,
+        1681.6
+      ],
+      "text": "entious authors of the tournament book, though they missed the essential point of",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        292.8,
+        1667.9,
+        1383.2,
+        1734.0
+      ],
+      "text": "the situation and recommended 13...d7, which is equally weak.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        338.1,
+        1726.5,
+        1614.7,
+        1782.6
+      ],
+      "text": "The position can be briefly summed up as follows: gxf3 has undoubtedly",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        295.3,
+        1775.2,
+        1619.6,
+        1835.0
+      ],
+      "text": "blunted the direct attack on the castled king, but it has given an added sharpness",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        291.6,
+        1825.1,
+        1616.0,
+        1886.2
+      ],
+      "text": "to the central position, where White threatens e4-e5 (naturally, after strengthen-",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        290.4,
+        1871.2,
+        1617.2,
+        1939.8
+      ],
+      "text": "ing d4 by means of e2 and perhaps Qf5). If White manages to play e5, a turn-",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        292.8,
+        1928.6,
+        1618.4,
+        1986.0
+      ],
+      "text": "ing-point in the situation is reached and White, on the basis of his power in the",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        291.6,
+        1977.3,
+        1618.4,
+        2035.9
+      ],
+      "text": "centre and his expulsion of the bishop from f6, obtains a strong attack, in which",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        292.8,
+        2028.4,
+        1616.0,
+        2088.3
+      ],
+      "text": "the open g-file also comes in very useful. Turning-points of this kind can be very",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        290.4,
+        2079.5,
+        480.3,
+        2122.0
+      ],
+      "text": "instructive.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        334.5,
+        2128.2,
+        1617.2,
+        2189.3
+      ],
+      "text": "There still remains the question what Black ought to have played in order to",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        287.9,
+        2175.6,
+        1616.0,
+        2243.0
+      ],
+      "text": "prevent or hinder White's central advance. The answer is given by the following",
+      "confidence": 0.9891
+    }
+  ]
+}

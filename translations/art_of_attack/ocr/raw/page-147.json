@@ -1,0 +1,290 @@
+{
+  "pdf_page": 147,
+  "printed_page": 147,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        351.6,
+        131.0,
+        1558.4,
+        180.9
+      ],
+      "text": "Ranks, files and diagonals in the attack on the castled king 147",
+      "confidence": 0.9783
+    },
+    {
+      "bbox": [
+        545.2,
+        385.5,
+        578.3,
+        417.9
+      ],
+      "text": "W",
+      "confidence": 0.906
+    },
+    {
+      "bbox": [
+        283.0,
+        885.7,
+        1559.6,
+        926.9
+      ],
+      "text": "Flohr, when he was White in this position from a simultaneous display played",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        236.5,
+        935.6,
+        863.7,
+        979.3
+      ],
+      "text": "in Leningrad during 1933, continued:",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        279.3,
+        985.5,
+        410.4,
+        1027.9
+      ],
+      "text": "1 xe5",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        279.3,
+        1035.4,
+        899.3,
+        1081.6
+      ],
+      "text": "and left his opponent to think it over.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        280.6,
+        1085.3,
+        425.1,
+        1127.7
+      ],
+      "text": "I...Wf2+",
+      "confidence": 0.8675
+    },
+    {
+      "bbox": [
+        281.8,
+        1136.5,
+        1559.6,
+        1178.9
+      ],
+      "text": "Both Flohr and the commentators thought that Black, in making this move,",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        235.2,
+        1182.6,
+        1563.3,
+        1231.3
+      ],
+      "text": "had fallen into a trap, but in fact he has nothing better. For example, if 1...&e6,",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        238.9,
+        1235.0,
+        1568.2,
+        1279.9
+      ],
+      "text": "then 2 We1 ae8 (or 2...f5 3 e7) 3 b5 d7 4 h6! (not 4 f3 because of",
+      "confidence": 0.9576
+    },
+    {
+      "bbox": [
+        237.7,
+        1284.9,
+        1562.1,
+        1333.6
+      ],
+      "text": "4...Wxh5) 4...xb5 (if 4..g6, White wins with 5 f3) 5 xg7+ Wxg7 6 hxg7",
+      "confidence": 0.9644
+    },
+    {
+      "bbox": [
+        237.7,
+        1336.1,
+        1015.6,
+        1378.5
+      ],
+      "text": "f1+ 7 Wxf1 xf1 8 xe8+ and White wins'.",
+      "confidence": 0.9393
+    },
+    {
+      "bbox": [
+        280.6,
+        1387.2,
+        536.6,
+        1428.4
+      ],
+      "text": "2 h2 Wxf1?!",
+      "confidence": 0.9442
+    },
+    {
+      "bbox": [
+        281.8,
+        1440.8,
+        1562.1,
+        1484.5
+      ],
+      "text": "This is a comparative mistake only, since Black's game is now lost in any case.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        238.9,
+        1489.5,
+        976.4,
+        1531.9
+      ],
+      "text": "2...Wf4 would have offered more resistance.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        279.3,
+        1535.6,
+        532.9,
+        1580.6
+      ],
+      "text": "3 Wxd5+ h8",
+      "confidence": 0.9622
+    },
+    {
+      "bbox": [
+        281.8,
+        1589.3,
+        847.8,
+        1634.2
+      ],
+      "text": "If 3...Wf7, White wins by 4 e7!.",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        280.6,
+        1639.2,
+        408.0,
+        1681.6
+      ],
+      "text": "4 μf3?",
+      "confidence": 0.9474
+    },
+    {
+      "bbox": [
+        283.0,
+        1694.1,
+        1560.8,
+        1731.5
+      ],
+      "text": "This was intended to be the decisive stroke, but in fact it is a mistake. White",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        240.1,
+        1741.5,
+        1563.3,
+        1786.4
+      ],
+      "text": "would easily have won by 4 h6, and if 4...g6, then 5 f3; alternatively, if 4...gxh6",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        241.4,
+        1796.4,
+        1565.7,
+        1833.8
+      ],
+      "text": "then 5 e8, after which mate is unavoidable. This variation shows the correct",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        236.5,
+        1842.5,
+        1567.0,
+        1889.9
+      ],
+      "text": "way to exploit the weakness on the back rank, while 4 f3? was inadequate as",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        237.7,
+        1894.9,
+        1565.7,
+        1941.1
+      ],
+      "text": "Black had the reply 4...&e6!, when by returning the extra piece he could have got",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        237.7,
+        1946.1,
+        1564.5,
+        1988.5
+      ],
+      "text": "rid of the weakness on his back rank with tempo and reached a drawn position.",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        237.7,
+        1994.7,
+        1568.2,
+        2043.4
+      ],
+      "text": "As it was, however, he played 4..xf3?, and everything was immediately put",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        321.0,
+        2103.3,
+        1564.5,
+        2145.7
+      ],
+      "text": "In this line 4...Wf6! favours Black after 5 xg7+ h8 or 5 hxg7 xe5, so White",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        318.5,
+        2148.2,
+        1565.7,
+        2196.8
+      ],
+      "text": "should prefer 3 h6 g6 4 ge3 d4 (4...d7 5 f3) 5 f3 Wd7 6 xf8+ xf8 7",
+      "confidence": 0.9562
+    },
+    {
+      "bbox": [
+        322.2,
+        2200.6,
+        561.1,
+        2243.0
+      ],
+      "text": "b5 and wins.",
+      "confidence": 0.9989
+    }
+  ]
+}

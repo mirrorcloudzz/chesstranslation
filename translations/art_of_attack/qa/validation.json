@@ -1,0 +1,128 @@
+{
+  "ocr_pages": 352,
+  "missing_pages": [],
+  "figures": 332,
+  "invalid_crop_dimensions": [],
+  "partial_boards": 17,
+  "review_lines": 4420,
+  "excluded_lines": 878,
+  "sections": [
+    {
+      "section": "front",
+      "expected_pages": 2,
+      "ocr_pages": 2,
+      "figures": 0
+    },
+    {
+      "section": "contents",
+      "expected_pages": 1,
+      "ocr_pages": 1,
+      "figures": 0
+    },
+    {
+      "section": "symbols",
+      "expected_pages": 1,
+      "ocr_pages": 1,
+      "figures": 0
+    },
+    {
+      "section": "preface",
+      "expected_pages": 1,
+      "ocr_pages": 1,
+      "figures": 0
+    },
+    {
+      "section": "introduction",
+      "expected_pages": 8,
+      "ocr_pages": 8,
+      "figures": 4
+    },
+    {
+      "section": "ch01",
+      "expected_pages": 14,
+      "ocr_pages": 14,
+      "figures": 14
+    },
+    {
+      "section": "ch02",
+      "expected_pages": 23,
+      "ocr_pages": 23,
+      "figures": 25
+    },
+    {
+      "section": "ch03",
+      "expected_pages": 15,
+      "ocr_pages": 15,
+      "figures": 8
+    },
+    {
+      "section": "ch04",
+      "expected_pages": 14,
+      "ocr_pages": 14,
+      "figures": 31
+    },
+    {
+      "section": "ch05",
+      "expected_pages": 41,
+      "ocr_pages": 41,
+      "figures": 44
+    },
+    {
+      "section": "ch06",
+      "expected_pages": 21,
+      "ocr_pages": 21,
+      "figures": 20
+    },
+    {
+      "section": "ch07",
+      "expected_pages": 41,
+      "ocr_pages": 41,
+      "figures": 41
+    },
+    {
+      "section": "ch08",
+      "expected_pages": 48,
+      "ocr_pages": 48,
+      "figures": 49
+    },
+    {
+      "section": "ch09",
+      "expected_pages": 16,
+      "ocr_pages": 16,
+      "figures": 13
+    },
+    {
+      "section": "ch10",
+      "expected_pages": 46,
+      "ocr_pages": 46,
+      "figures": 36
+    },
+    {
+      "section": "ch11",
+      "expected_pages": 41,
+      "ocr_pages": 41,
+      "figures": 36
+    },
+    {
+      "section": "ch12",
+      "expected_pages": 16,
+      "ocr_pages": 16,
+      "figures": 11
+    },
+    {
+      "section": "players",
+      "expected_pages": 3,
+      "ocr_pages": 3,
+      "figures": 0
+    },
+    {
+      "section": "openings",
+      "expected_pages": 1,
+      "ocr_pages": 1,
+      "figures": 0
+    }
+  ],
+  "source_sha256": "888016578278b4b822afbf47600c601b61c4d9958dab0fdbc89280ded83d511a",
+  "text_status": "not_manually_proofread",
+  "figure_review": "All source-page contact sheets and all crop contact sheets visually inspected; exceptional partial boards manually added."
+}

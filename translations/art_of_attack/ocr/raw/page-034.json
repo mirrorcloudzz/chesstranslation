@@ -1,0 +1,280 @@
+{
+  "pdf_page": 34,
+  "printed_page": 34,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        295.3,
+        122.3,
+        349.2,
+        167.2
+      ],
+      "text": "34",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        725.3,
+        124.7,
+        1226.4,
+        170.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        295.3,
+        273.2,
+        1622.1,
+        321.8
+      ],
+      "text": "to finish off the pursuit by cornering the king and forcing it into a mating posi-",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        296.5,
+        325.6,
+        1624.5,
+        369.3
+      ],
+      "text": "tion. In practice players struggle to find a balance between these two maxims and",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        298.9,
+        376.7,
+        1058.5,
+        417.9
+      ],
+      "text": "on their correct choice success itself depends.",
+      "confidence": 0.9767
+    },
+    {
+      "bbox": [
+        339.4,
+        424.1,
+        1624.5,
+        469.1
+      ],
+      "text": "Now that the problem is clear, it will be examined in a series of practical",
+      "confidence": 0.9757
+    },
+    {
+      "bbox": [
+        301.4,
+        479.0,
+        1622.1,
+        516.5
+      ],
+      "text": "examples. Smyslov-Florian and Belavenets-Chistiakov are cases where the",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        296.5,
+        523.9,
+        1622.1,
+        572.6
+      ],
+      "text": "building of a mating net takes precedence over the pursuit of the king. In Tarta-",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        294.0,
+        568.9,
+        1619.6,
+        627.5
+      ],
+      "text": "kower-Euwe, however, we shall see the opposite, with Euwe hunting his oppo-",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        295.3,
+        626.2,
+        1623.3,
+        673.6
+      ],
+      "text": "nent's king without giving it a moment's respite. In the game Chigorin-Caro we",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        292.8,
+        673.6,
+        1627.0,
+        726.0
+      ],
+      "text": "have an illustration of when a king's pursuit should be halted and its retreat cut",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        296.5,
+        728.5,
+        1623.3,
+        773.4
+      ],
+      "text": "off, or, conversely, what happens if an opportunity to ‘fix' the king is lost and it",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        295.3,
+        777.2,
+        1302.3,
+        823.3
+      ],
+      "text": "reaches a position of safety, as in fact occurred in this game.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        782.9,
+        874.5,
+        1134.5,
+        924.4
+      ],
+      "text": "Smyslov - Florian",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        697.1,
+        929.4,
+        1219.0,
+        970.5
+      ],
+      "text": "Moscow-BudapestMatch1949",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        807.4,
+        979.3,
+        1108.8,
+        1019.2
+      ],
+      "text": "Grinfeld Defence",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        295.3,
+        1075.3,
+        1620.9,
+        1122.7
+      ],
+      "text": "1 d4 f6 2 c4 g6 3 c3 d5 4 ②f3 g7 5 Wb3 dxc4 6 Wxc4 0-0 7 e4 a6 8 e2",
+      "confidence": 0.9308
+    },
+    {
+      "bbox": [
+        296.5,
+        1129.0,
+        1619.6,
+        1171.4
+      ],
+      "text": "c5 9 d5 e6 10 0-0 exd5 11 exd5 Wa5 12 a3 f5 13 Wh4 fe8 14 h6 e4 15",
+      "confidence": 0.9731
+    },
+    {
+      "bbox": [
+        295.3,
+        1175.1,
+        574.6,
+        1226.3
+      ],
+      "text": "皇xg7 xg7 (D)",
+      "confidence": 0.9244
+    },
+    {
+      "bbox": [
+        630.9,
+        1386.0,
+        660.4,
+        1414.6
+      ],
+      "text": "W",
+      "confidence": 0.9408
+    },
+    {
+      "bbox": [
+        335.7,
+        1881.2,
+        487.6,
+        1932.3
+      ],
+      "text": "16 g5!",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        336.9,
+        1936.1,
+        1619.6,
+        1987.2
+      ],
+      "text": "White offers a piece in order to keep up the tempo of the attack. Black should",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        289.1,
+        1983.5,
+        1620.9,
+        2037.1
+      ],
+      "text": "now have played 16...xg5, for after 17 Wxg5 his position would only have been",
+      "confidence": 0.9757
+    },
+    {
+      "bbox": [
+        292.8,
+        2037.1,
+        1225.1,
+        2087.0
+      ],
+      "text": "slightly inferior. Instead, he became greedy and replied:",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        334.5,
+        2084.5,
+        938.5,
+        2130.7
+      ],
+      "text": "16...xc3 17 Wxh7+ f6 18 bxc3!",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        335.7,
+        2138.2,
+        1613.5,
+        2188.1
+      ],
+      "text": "White does not hurry with his action against the displaced king, but calmly",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        290.4,
+        2188.1,
+        1454.2,
+        2239.2
+      ],
+      "text": "takes the knight and waits for the mating network to develop of itself.",
+      "confidence": 0.9949
+    }
+  ]
+}

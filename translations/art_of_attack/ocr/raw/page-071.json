@@ -1,0 +1,220 @@
+{
+  "pdf_page": 71,
+  "printed_page": 71,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        744.9,
+        131.0,
+        1036.5,
+        177.1
+      ],
+      "text": "Matingpatterns",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        1494.7,
+        127.2,
+        1541.2,
+        168.4
+      ],
+      "text": "71",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        529.3,
+        384.2,
+        555.0,
+        415.4
+      ],
+      "text": "B",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        263.4,
+        625.0,
+        1548.6,
+        674.9
+      ],
+      "text": "In the case of mating patterns with rook and bishop one should first of all get",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        220.5,
+        676.1,
+        1547.4,
+        723.5
+      ],
+      "text": "to know the above position. It is Black's move and he must try to parry g5#; this",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        219.3,
+        724.8,
+        1548.6,
+        775.9
+      ],
+      "text": "cannot be achieved by 1...h6, because of 2 xh6, which leaves him with no way",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        221.8,
+        778.4,
+        1547.4,
+        823.3
+      ],
+      "text": "out. So 1..#c8 2 #g5+ f8 3 #g7!, and now too mate is unavoidable, for Black",
+      "confidence": 0.9719
+    },
+    {
+      "bbox": [
+        219.3,
+        828.3,
+        1548.6,
+        874.5
+      ],
+      "text": "is unable to free the square d7 in time to provide the king with an escape square.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        219.3,
+        874.5,
+        1548.6,
+        926.9
+      ],
+      "text": "If he did not have, for instance, the pawn on c6, he could play 3...&c6 4 xh7",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        224.2,
+        930.6,
+        1544.9,
+        971.8
+      ],
+      "text": "$e8 and then 5 h8+ could be met by 5...$d7. One could replace Black's bishop",
+      "confidence": 0.9726
+    },
+    {
+      "bbox": [
+        224.2,
+        979.3,
+        1546.1,
+        1025.4
+      ],
+      "text": "and c6-pawn by a white pawn on c6 and a black one on c7; mate would still be",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        221.8,
+        1021.7,
+        454.5,
+        1076.6
+      ],
+      "text": "unavoidable'.",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        532.9,
+        1235.0,
+        566.0,
+        1266.2
+      ],
+      "text": "W",
+      "confidence": 0.8829
+    },
+    {
+      "bbox": [
+        742.4,
+        1721.5,
+        1003.4,
+        1770.2
+      ],
+      "text": "Morphy's Mate",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        267.1,
+        1836.3,
+        1549.8,
+        1883.7
+      ],
+      "text": "The pattern of this mate with rook and bishop becomes clear in its final",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        225.4,
+        1896.2,
+        325.9,
+        1936.1
+      ],
+      "text": "stage.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        265.9,
+        1936.1,
+        868.6,
+        1984.7
+      ],
+      "text": "1 Wxf6 gxf6 2 g1+ h8 3 xf6#.",
+      "confidence": 0.9381
+    },
+    {
+      "bbox": [
+        302.6,
+        2047.1,
+        1548.6,
+        2095.8
+      ],
+      "text": "In the diagram position, Black can avoid mate by 1...a8 2 g5+ *f8 3 g7",
+      "confidence": 0.9732
+    },
+    {
+      "bbox": [
+        306.3,
+        2098.3,
+        1547.4,
+        2143.2
+      ],
+      "text": "a4 4 xh7 g4. It is true to say that this defence is not often available in prac-",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        306.3,
+        2148.2,
+        1546.1,
+        2186.8
+      ],
+      "text": "tical situations, but it is worth bearing in mind the idea of 'defending from be-",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        306.3,
+        2195.6,
+        885.8,
+        2234.2
+      ],
+      "text": "hind' because it is often overlooked.",
+      "confidence": 0.992
+    }
+  ]
+}

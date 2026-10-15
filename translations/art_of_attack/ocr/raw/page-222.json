@@ -1,0 +1,170 @@
+{
+  "pdf_page": 222,
+  "printed_page": 222,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "222",
+      "bbox": [
+        249.0,
+        121.0,
+        313.0,
+        152.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        676.0,
+        124.0,
+        1170.0,
+        165.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Oxc6 27 Axc6 Xa7 28 Äd7, when White picks up another pawn and makes his",
+      "bbox": [
+        241.0,
+        866.0,
+        1559.0,
+        919.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "task easy) 24 Axe4 Äfd8 25 Vh5 26 Vxh7 with a decisive attack.",
+      "bbox": [
+        240.0,
+        919.0,
+        1419.0,
+        963.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Also interesting is 22...Zad8 23 Qd4 Xxd4, when 24 Vxd4 is not very effec-",
+      "bbox": [
+        284.0,
+        972.0,
+        1557.0,
+        1021.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tive because of 24...#xg7, and White does no more than win back the sacrificed",
+      "bbox": [
+        239.0,
+        1020.0,
+        1557.0,
+        1065.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "material. However, if 23...Äxd4, White has the fine reply 24 Vg4!, which pre-",
+      "bbox": [
+        238.0,
+        1073.0,
+        1556.0,
+        1123.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vents 24...Éxg7 and creates the threat of 25 Qxe6 followed by 26 g6!. No answer",
+      "bbox": [
+        238.0,
+        1119.0,
+        1557.0,
+        1172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to this has been found for Black.",
+      "bbox": [
+        237.0,
+        1174.0,
+        774.0,
+        1208.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Aware, therefore, of the force of Qd4 Black first of all takes the knight on e2",
+      "bbox": [
+        281.0,
+        1224.0,
+        1555.0,
+        1274.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and then accepts the sacrifice.",
+      "bbox": [
+        236.0,
+        1275.0,
+        730.0,
+        1315.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23 vxe2 24 Axe4 Qd5 25 Vh5 Äfd8",
+      "bbox": [
+        280.0,
+        1320.0,
+        1025.0,
+        1362.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 25...Äf7 then 26 g6 hxg6 27 Vxg6+ 28 Xgl and White wins.",
+      "bbox": [
+        280.0,
+        1372.0,
+        1415.0,
+        1422.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "26 Ac5 27 gxf6+ (D)",
+      "bbox": [
+        279.0,
+        1422.0,
+        798.0,
+        1467.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "28 Äxg8+! #xg8 29 Axh7+",
+      "bbox": [
+        270.0,
+        2128.0,
+        744.0,
+        2172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 29...Vxh7 then 30 f 7+! is decisive.",
+      "bbox": [
+        269.0,
+        2177.0,
+        888.0,
+        2218.0
+      ],
+      "confidence": null
+    }
+  ]
+}

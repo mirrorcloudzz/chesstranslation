@@ -1,0 +1,380 @@
+{
+  "pdf_page": 153,
+  "printed_page": 153,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        344.3,
+        129.7,
+        1546.1,
+        170.9
+      ],
+      "text": "Ranks, files and diagonals in the attack on the castled king 153",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        224.2,
+        274.4,
+        1548.6,
+        321.8
+      ],
+      "text": "than a rank, and it is useful because being placed on an open file is 'the best way",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        224.2,
+        325.6,
+        686.1,
+        370.5
+      ],
+      "text": "for a rook to be employed'.",
+      "confidence": 0.9604
+    },
+    {
+      "bbox": [
+        269.5,
+        376.7,
+        1546.1,
+        421.6
+      ],
+      "text": "There are four ways of establishing a rook (or queen) on an open (or half-",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        225.4,
+        426.6,
+        403.1,
+        470.3
+      ],
+      "text": "open) file:",
+      "confidence": 0.947
+    },
+    {
+      "bbox": [
+        268.3,
+        471.5,
+        1549.8,
+        522.7
+      ],
+      "text": "1) the file is already open from one end to the other or to an opposing piece",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        226.7,
+        527.7,
+        1197.0,
+        568.9
+      ],
+      "text": "and all that is needed is for the rook to be brought on to it.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        269.5,
+        575.1,
+        1551.0,
+        623.7
+      ],
+      "text": "2) the rook is posted in front of one of its own pawns (e.g. the king's rook is",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        225.4,
+        625.0,
+        1231.3,
+        669.9
+      ],
+      "text": "manoeuvred via el and e3 to h3 in front of the pawn on h2).",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        270.8,
+        672.4,
+        1525.3,
+        722.3
+      ],
+      "text": "3) the pawn in front of the rook advances and is sacrificed to open up the file.",
+      "confidence": 0.9733
+    },
+    {
+      "bbox": [
+        268.3,
+        726.0,
+        1407.7,
+        772.2
+      ],
+      "text": "4) the pawn in front of the rook leaves the file by making a capture.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        270.8,
+        827.1,
+        1549.8,
+        869.5
+      ],
+      "text": "The further operations of the rooks on the file are similar to those which take",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        226.7,
+        875.7,
+        1546.1,
+        924.4
+      ],
+      "text": "place when control is assumed of any line (constructing outposts, clearing, cap-",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        226.7,
+        929.4,
+        981.3,
+        971.8
+      ],
+      "text": "turing pieces, squares, and focal-points, etc.).",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        272.0,
+        980.5,
+        1547.4,
+        1021.7
+      ],
+      "text": "As a first general example of the part played by the files in an attack on the cas-",
+      "confidence": 0.9829
+    },
+    {
+      "bbox": [
+        229.1,
+        1030.4,
+        1172.5,
+        1071.6
+      ],
+      "text": "tled king, let us examine a famous game of Rubinstein's.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        673.8,
+        1127.7,
+        1102.6,
+        1168.9
+      ],
+      "text": "P. Johner - Rubinstein",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        700.8,
+        1177.6,
+        1075.7,
+        1226.3
+      ],
+      "text": "Teplitz-Schonau, 1922",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        676.3,
+        1231.3,
+        1105.1,
+        1272.4
+      ],
+      "text": "Queen's Gambit Declined",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        227.9,
+        1329.8,
+        655.5,
+        1367.2
+      ],
+      "text": "1 d4 d5 2 c4 e6 3 2f3 a6",
+      "confidence": 0.9661
+    },
+    {
+      "bbox": [
+        270.8,
+        1382.2,
+        1549.8,
+        1423.4
+      ],
+      "text": "Modern theory does not rate this move very highly. White obtains a sound and",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        227.9,
+        1432.1,
+        844.1,
+        1477.0
+      ],
+      "text": "useful position by exchanging on d5.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        268.3,
+        1478.3,
+        1339.1,
+        1523.2
+      ],
+      "text": "4 cxd5 exd5 5 c3 2f6 6 g5 e7 7 e3 0-0 8 皇d3 c6 9 xf6",
+      "confidence": 0.9462
+    },
+    {
+      "bbox": [
+        268.3,
+        1530.7,
+        1551.0,
+        1579.3
+      ],
+      "text": "The normal and objectively best course for White here is to prepare a so-called",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        226.7,
+        1581.8,
+        1552.3,
+        1628.0
+      ],
+      "text": "minority attack, e.g. after castling kingside and playing abl he advances his",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        226.7,
+        1634.2,
+        1552.3,
+        1675.4
+      ],
+      "text": "pawns to b4 and a4, continuing with b5 and bxc6 in order to weaken Black's",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        224.2,
+        1684.1,
+        1552.3,
+        1729.0
+      ],
+      "text": "pawn formation. Another way is to play on Black's weaknesses at c5 and b6 after",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        224.2,
+        1734.0,
+        1548.6,
+        1780.2
+      ],
+      "text": "exchanging the dark-squared bishops. Johner, a player with an incisive style,",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        224.2,
+        1783.9,
+        1549.8,
+        1830.1
+      ],
+      "text": "does not fancy these positional schemes and chooses a third way: castling on the",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        225.4,
+        1835.0,
+        1548.6,
+        1883.7
+      ],
+      "text": "opposite side and making an attack on the castled king, which is not a bad plan,",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        224.2,
+        1884.9,
+        759.6,
+        1931.1
+      ],
+      "text": "but allows Black equal chances.",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        268.3,
+        1932.3,
+        557.4,
+        1976.0
+      ],
+      "text": "9...Ωxf6 10 Wc2",
+      "confidence": 0.9486
+    },
+    {
+      "bbox": [
+        268.3,
+        1984.7,
+        1552.3,
+        2034.6
+      ],
+      "text": "After eliminating Black's knight at f6, White induces a weakening of Black's",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        227.9,
+        2038.4,
+        498.6,
+        2080.8
+      ],
+      "text": "castled position.",
+      "confidence": 0.9721
+    },
+    {
+      "bbox": [
+        272.0,
+        2089.5,
+        544.0,
+        2127.0
+      ],
+      "text": "10...h6 11 0-0-0",
+      "confidence": 0.9495
+    },
+    {
+      "bbox": [
+        269.5,
+        2136.9,
+        1546.1,
+        2183.1
+      ],
+      "text": "First 11 h3 would have been better, and only then 0-0-0, with the further plan",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        226.7,
+        2186.8,
+        1548.6,
+        2235.5
+      ],
+      "text": "of dg1, g4, h4 etc. The text move permits Black to divert White's g-pawn from",
+      "confidence": 0.9844
+    }
+  ]
+}

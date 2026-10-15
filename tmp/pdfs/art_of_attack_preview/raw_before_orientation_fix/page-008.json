@@ -1,0 +1,150 @@
+{
+  "pdf_page": 8,
+  "printed_page": 8,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        127.4,
+        279.4,
+        1415.0,
+        349.3
+      ],
+      "text": " rn  o n      e   ",
+      "confidence": 0.5475
+    },
+    {
+      "bbox": [
+        659.1,
+        341.8,
+        1415.0,
+        396.7
+      ],
+      "text": "S       s s",
+      "confidence": 0.5126
+    },
+    {
+      "bbox": [
+        1154.1,
+        400.4,
+        1455.5,
+        441.6
+      ],
+      "text": "pua ayi un Sunmu",
+      "confidence": 0.5972
+    },
+    {
+      "bbox": [
+        123.7,
+        432.9,
+        1456.7,
+        497.7
+      ],
+      "text": "fo uiao si ay sn luoi sp 'jpiainu fo nunoun aqniapisuos n uaaa isaaun uno",
+      "confidence": 0.6115
+    },
+    {
+      "bbox": [
+        122.5,
+        582.6,
+        1459.1,
+        653.7
+      ],
+      "text": "     e    d    ",
+      "confidence": 0.6905
+    },
+    {
+      "bbox": [
+        121.3,
+        734.8,
+        1412.6,
+        804.6
+      ],
+      "text": "Z m a end uoee sy an ue iqnop ou m m '\" ",
+      "confidence": 0.5562
+    },
+    {
+      "bbox": [
+        123.7,
+        833.3,
+        1454.2,
+        906.9
+      ],
+      "text": "  a g n  e ss y s  sssa   ps",
+      "confidence": 0.5628
+    },
+    {
+      "bbox": [
+        117.6,
+        882.0,
+        1454.2,
+        960.6
+      ],
+      "text": "n re n a lm d  sa  oi e s m y",
+      "confidence": 0.5278
+    },
+    {
+      "bbox": [
+        121.3,
+        986.8,
+        1406.5,
+        1057.9
+      ],
+      "text": "- nd s s yi u uo ye ue ino suo 'si I sd a",
+      "confidence": 0.5363
+    },
+    {
+      "bbox": [
+        1073.2,
+        1529.4,
+        1107.5,
+        1564.3
+      ],
+      "text": "M",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        113.9,
+        1843.8,
+        1440.8,
+        1909.9
+      ],
+      "text": "-u dn suiail kq 8?a 'aoud unao p in inanyi siyi ffo aanis uno nuauoddo siy ing",
+      "confidence": 0.6627
+    },
+    {
+      "bbox": [
+        115.2,
+        1894.9,
+        1397.9,
+        1961.0
+      ],
+      "text": "usy s nuauoddo sty oi inanyi ioaup p uipuo saop Koai uojon s, aakeid y (7",
+      "confidence": 0.6087
+    },
+    {
+      "bbox": [
+        507.2,
+        2301.6,
+        1009.5,
+        2354.0
+      ],
+      "text": "  on o  s",
+      "confidence": 0.5838
+    },
+    {
+      "bbox": [
+        1412.6,
+        2319.1,
+        1437.1,
+        2355.2
+      ],
+      "text": "8",
+      "confidence": 0.9997
+    }
+  ]
+}

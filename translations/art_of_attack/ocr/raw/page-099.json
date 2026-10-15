@@ -1,0 +1,280 @@
+{
+  "pdf_page": 99,
+  "printed_page": 99,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        748.6,
+        129.7,
+        974.0,
+        172.2
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        1464.0,
+        126.0,
+        1516.7,
+        172.2
+      ],
+      "text": "99",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        232.8,
+        273.2,
+        1515.5,
+        319.4
+      ],
+      "text": "This position occurred in the game Najdorf-Ivkov from the last round of the",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        187.4,
+        326.8,
+        762.0,
+        366.8
+      ],
+      "text": "tournament at Mar del Plata 1955.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        234.0,
+        378.0,
+        1514.3,
+        419.2
+      ],
+      "text": "Black, to move, correctly decided to sacrifice his knight on f2, obtaining two",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        185.0,
+        425.4,
+        1205.5,
+        474.0
+      ],
+      "text": "pawns and a powerful attack against the exposed white king:",
+      "confidence": 0.9777
+    },
+    {
+      "bbox": [
+        234.0,
+        474.0,
+        1052.4,
+        519.0
+      ],
+      "text": "16...xf2! 17 xf2 xe4 18 b2 c5 19 g1!",
+      "confidence": 0.9638
+    },
+    {
+      "bbox": [
+        234.0,
+        526.4,
+        1516.7,
+        568.9
+      ],
+      "text": "White finds the best defence and withdraws his king to h1. If White had tried",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        187.4,
+        573.8,
+        1516.7,
+        622.5
+      ],
+      "text": "to retain his material advantage with 19 f3?, the answer would have been",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        188.7,
+        623.7,
+        1476.3,
+        669.9
+      ],
+      "text": "19...e6 20 ②c2 g5+ 21 g3 xb2 22 xb2 Wc5! with a decisive attack.",
+      "confidence": 0.9743
+    },
+    {
+      "bbox": [
+        235.2,
+        674.9,
+        922.5,
+        718.5
+      ],
+      "text": "19...2e6 20 h1 xd4 21 xd4 xd4!",
+      "confidence": 0.9498
+    },
+    {
+      "bbox": [
+        231.6,
+        723.5,
+        1513.1,
+        769.7
+      ],
+      "text": "Not 21..xe1?22 Wxe1 xd4 because of23 We8+ g7 24 We3! c5 25 We7+",
+      "confidence": 0.9698
+    },
+    {
+      "bbox": [
+        196.0,
+        779.7,
+        1280.3,
+        820.8
+      ],
+      "text": "$g8 26 xd4 cxd4 27 c5 followed by 28 c4+ and White wins.",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        236.5,
+        829.6,
+        776.7,
+        867.0
+      ],
+      "text": "22 xd4 Wxd4 23 Wxd4 xd4",
+      "confidence": 0.9742
+    },
+    {
+      "bbox": [
+        235.2,
+        880.7,
+        1513.1,
+        918.1
+      ],
+      "text": "Black has re-established the material balance and is rather the better placed;",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        192.3,
+        930.6,
+        1515.5,
+        968.0
+      ],
+      "text": "after a few more moves he settled for a draw, since that was all he needed for first",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        187.4,
+        981.8,
+        295.3,
+        1026.7
+      ],
+      "text": "place.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        334.5,
+        1079.1,
+        1369.7,
+        1120.2
+      ],
+      "text": "Janowski and Soldatenkov - Lasker and Taubenhaus",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        584.4,
+        1134.0,
+        1122.2,
+        1171.4
+      ],
+      "text": "Consultation Game, Paris, 1909",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        722.8,
+        1183.9,
+        981.3,
+        1221.3
+      ],
+      "text": "Danish Gambit",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        188.7,
+        1279.9,
+        1135.7,
+        1322.3
+      ],
+      "text": "1 e4 e5 2 d4 exd4 3 c3 dxc3 4 c4 cxb2 5 Ωxb2 f6?!",
+      "confidence": 0.9554
+    },
+    {
+      "bbox": [
+        232.8,
+        1329.8,
+        1494.7,
+        1376.0
+      ],
+      "text": "Better is 5...d5 6 xd5 f6 and if7 xf7+ then 7...xf7 8 Wxd8 b4+, etc.",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        232.8,
+        1377.2,
+        918.9,
+        1427.1
+      ],
+      "text": "6 e5 皇b4+ 7 c3 We7 8 e2 ②e4? (D)",
+      "confidence": 0.915
+    },
+    {
+      "bbox": [
+        501.1,
+        1590.5,
+        531.7,
+        1618.0
+      ],
+      "text": "W",
+      "confidence": 0.907
+    },
+    {
+      "bbox": [
+        232.8,
+        2090.8,
+        1513.1,
+        2135.7
+      ],
+      "text": "This leads to the exchange of the only two minor pieces Black has developed,",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        191.1,
+        2141.9,
+        1518.0,
+        2186.8
+      ],
+      "text": "which inevitably adds to White's advantage in development. 8...g4 was worth",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        187.4,
+        2188.1,
+        1491.0,
+        2240.5
+      ],
+      "text": "considering, and even 8...Wxe5 would have been better than the move played.",
+      "confidence": 0.9917
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "pdf_page": 309,
+  "printed_page": 309,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        488.0,
+        139.0,
+        1308.0,
+        182.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "309",
+      "bbox": [
+        1484.0,
+        138.0,
+        1546.0,
+        169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If Black meets the threat of 14 Xh3 by 13...e5, his king would not have found",
+      "bbox": [
+        275.0,
+        285.0,
+        1548.0,
+        325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "refuge on d6. After the text move, Black hopes to meet 14 Vh6 by 14...#f7,",
+      "bbox": [
+        229.0,
+        330.0,
+        1547.0,
+        379.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "heading for e8, but Yates now finds a new point at which to trouble him!",
+      "bbox": [
+        230.0,
+        385.0,
+        1432.0,
+        429.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 b4! Axb4 15 Äh3! 1-0",
+      "bbox": [
+        278.0,
+        436.0,
+        711.0,
+        470.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 15...#f7, then 16 Vxb4, and Black is either mated or loses his queen.",
+      "bbox": [
+        277.0,
+        484.0,
+        1471.0,
+        525.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Of the cases where the opponent himself creates a precondition for an attack",
+      "bbox": [
+        277.0,
+        586.0,
+        1551.0,
+        628.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on the castled king the most important is that which involves the release of ten-",
+      "bbox": [
+        232.0,
+        635.0,
+        1550.0,
+        679.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sion in the centre. The next diagram provides a good example.",
+      "bbox": [
+        233.0,
+        687.0,
+        1265.0,
+        728.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from the game Euwe-Maroczy, Zandvoort 1936. It is Black's",
+      "bbox": [
+        280.0,
+        1393.0,
+        1554.0,
+        1435.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "move.",
+      "bbox": [
+        235.0,
+        1457.0,
+        333.0,
+        1477.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This releases the tension in the centre and so creates the one precondition",
+      "bbox": [
+        281.0,
+        1545.0,
+        1555.0,
+        1583.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which White still lacked before he could embark on an attack against the enemy",
+      "bbox": [
+        237.0,
+        1596.0,
+        1555.0,
+        1635.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king. Maroczy, a great expert on defence, is playing here under the influence of",
+      "bbox": [
+        237.0,
+        1646.0,
+        1563.0,
+        1688.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the thinking of the old school, which paid insufficient attention to the problems of",
+      "bbox": [
+        237.0,
+        1697.0,
+        1559.0,
+        1737.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the centre. In the Orthodox Defence to the Queen's Gambit, resolving the central",
+      "bbox": [
+        237.0,
+        1748.0,
+        1556.0,
+        1786.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tension by ...c4 generally gives White a powerful attack on the king, for a coun-",
+      "bbox": [
+        237.0,
+        1799.0,
+        1555.0,
+        1839.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "terattack based on a pawn majority on the wing is much slower than that which",
+      "bbox": [
+        237.0,
+        1849.0,
+        1556.0,
+        1890.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "takes place in the centre.",
+      "bbox": [
+        237.0,
+        1903.0,
+        644.0,
+        1941.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The thematic move for Black here would be l...Vb6, but that entails the dan-",
+      "bbox": [
+        282.0,
+        1946.0,
+        1556.0,
+        1986.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ger of his knight being diverted from the defence of the square h7; e.g., 2 Oxd7",
+      "bbox": [
+        238.0,
+        1996.0,
+        1556.0,
+        2043.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mxd7 3 dxc5 oxc5 4 Abl, threatening Vc2. Sounder, therefore, is 1...Äc8.",
+      "bbox": [
+        238.0,
+        2048.0,
+        1495.0,
+        2092.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 Abl xe8",
+      "bbox": [
+        283.0,
+        2101.0,
+        471.0,
+        2135.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 2...öd5 3 Q)xd5 exd5 4 Vc2 hf6 5 Qg4 Xe8 6 Ae5 Black's position",
+      "bbox": [
+        283.0,
+        2148.0,
+        1557.0,
+        2191.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "would be most uncomfortable.",
+      "bbox": [
+        238.0,
+        2205.0,
+        744.0,
+        2235.0
+      ],
+      "confidence": null
+    }
+  ]
+}

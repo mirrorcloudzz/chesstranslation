@@ -1,0 +1,300 @@
+{
+  "pdf_page": 109,
+  "printed_page": 109,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        792.7,
+        131.0,
+        1018.1,
+        173.4
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        1486.1,
+        123.5,
+        1560.8,
+        170.9
+      ],
+      "text": "109",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        232.8,
+        273.2,
+        1560.8,
+        326.8
+      ],
+      "text": "focal-points permanently, while the others are used for manoeuvring purposes. It",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        234.0,
+        326.8,
+        1560.8,
+        371.7
+      ],
+      "text": "should be noted that control over a network of squares is also an important factor",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        234.0,
+        376.7,
+        1558.4,
+        425.4
+      ],
+      "text": "in positional play, but in attacks on the castled king it is particularly effective.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        231.6,
+        425.4,
+        1563.3,
+        475.3
+      ],
+      "text": "The reason for this is a positional one, since control over a network is often of a",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        234.0,
+        475.3,
+        1562.1,
+        523.9
+      ],
+      "text": "fairly permanent nature. The most essential precondition is to 'clear' the network",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        235.2,
+        527.7,
+        1560.8,
+        573.8
+      ],
+      "text": "not only of the influence of the opponent's bishop (either by eliminating it or",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        236.5,
+        575.1,
+        1558.4,
+        626.2
+      ],
+      "text": "driving it away) but also of possible resistance from the opponent's pawns at im-",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        237.7,
+        631.2,
+        730.2,
+        674.9
+      ],
+      "text": "portant points in the network.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        280.6,
+        677.4,
+        1557.2,
+        722.3
+      ],
+      "text": "When the attacker has 'cleared' the network and fixed the position, the attack-",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        236.5,
+        726.0,
+        1563.3,
+        778.4
+      ],
+      "text": "ing operation proper follows; the squares which are candidate focal-points can",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        238.9,
+        779.7,
+        1562.1,
+        825.8
+      ],
+      "text": "easily be determined, while the other squares in the network may serve as sec-",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        240.1,
+        829.6,
+        1558.4,
+        877.0
+      ],
+      "text": "ondary focal-points or else as strong squares for the attacker to post his pieces on.",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        548.9,
+        1037.9,
+        570.9,
+        1067.8
+      ],
+      "text": "B",
+      "confidence": 0.9574
+    },
+    {
+      "bbox": [
+        281.8,
+        1534.4,
+        1564.5,
+        1581.8
+      ],
+      "text": "In the above diagram the network of dark squares is already 'cleared' and cov-",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        242.6,
+        1586.8,
+        1569.4,
+        1630.5
+      ],
+      "text": "ered by White's bishop, which is firmly installed at f6. The network consists of",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        238.9,
+        1636.7,
+        1565.7,
+        1684.1
+      ],
+      "text": "the squares f6, g7 and h8, and also the connected squares f8 and h6. The squares",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        240.1,
+        1686.6,
+        1567.0,
+        1734.0
+      ],
+      "text": "g7 and h8 are candidates as focal-points, f6 is a strong square for the attacker's",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        237.7,
+        1736.5,
+        1565.7,
+        1785.1
+      ],
+      "text": "pieces while f8 and h6 can serve as secondary focal-points or strong squares. All",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        238.9,
+        1788.9,
+        1564.5,
+        1831.3
+      ],
+      "text": "this concentration of white power encircles the unfortunate black king, which",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        237.7,
+        1838.8,
+        1565.7,
+        1886.2
+      ],
+      "text": "has no real prospect of extricating itself from the net and escaping to the",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        240.1,
+        1887.4,
+        1568.2,
+        1938.6
+      ],
+      "text": "queenside, since e7 is also controlled by White. Black does not even have a",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        240.1,
+        1941.1,
+        1565.7,
+        1984.7
+      ],
+      "text": "dark-squared bishop to provide resistance on the network, and because of the",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        241.4,
+        1991.0,
+        1567.0,
+        2035.9
+      ],
+      "text": "blocked position in the centre he cannot undertake a counterattack; he is confined",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        237.7,
+        2040.9,
+        1567.0,
+        2088.3
+      ],
+      "text": "to defending himself. The only minor piece he has left is a knight, but this piece",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        240.1,
+        2092.0,
+        1535.1,
+        2136.9
+      ],
+      "text": "can in fact exercise considerable defensive influence in positions of this kind.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        284.2,
+        2143.2,
+        1567.0,
+        2185.6
+      ],
+      "text": "If White's domination is based on a dark-square network, Black still has one",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        242.6,
+        2191.8,
+        1567.0,
+        2240.5
+      ],
+      "text": "thing on which he can logically rely - the solid structure of his position on the",
+      "confidence": 0.9888
+    }
+  ]
+}

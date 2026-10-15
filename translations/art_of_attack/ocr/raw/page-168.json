@@ -1,0 +1,310 @@
+{
+  "pdf_page": 168,
+  "printed_page": 168,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "168",
+      "bbox": [
+        281.0,
+        119.0,
+        339.0,
+        151.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        704.0,
+        121.0,
+        1199.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Steinitz rejected the idea of the sacrifice because on the twelfth move he had",
+      "bbox": [
+        318.0,
+        872.0,
+        1591.0,
+        912.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "reckoned only on 12 Oxe6? Va5 13 oxf8+ Oxf8 14 Vxd5 Ae6, which would",
+      "bbox": [
+        271.0,
+        919.0,
+        1591.0,
+        964.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "indeed have been favourable for Black.",
+      "bbox": [
+        271.0,
+        973.0,
+        918.0,
+        1006.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9...f6",
+      "bbox": [
+        316.0,
+        1023.0,
+        401.0,
+        1054.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White would have had a harder task after 9...h6, although even then he could",
+      "bbox": [
+        315.0,
+        1074.0,
+        1590.0,
+        1118.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have gained the advantage by 10 Qg5. Given that this is a typical continuation,",
+      "bbox": [
+        270.0,
+        1122.0,
+        1588.0,
+        1169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "let us examine a few variations:",
+      "bbox": [
+        270.0,
+        1174.0,
+        792.0,
+        1206.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l) IO...hxg5 II Ah7+! *xh7 12 Vh5+ ég8 13 hxg5 f5 14 g6 and mate.",
+      "bbox": [
+        318.0,
+        1221.0,
+        1532.0,
+        1270.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) IO...ödxe5 11 fxe5 12 Ah7+ 13 Af4 Qg6 14 Ad2 and White",
+      "bbox": [
+        315.0,
+        1270.0,
+        1589.0,
+        1320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is the better placed .",
+      "bbox": [
+        269.0,
+        1325.0,
+        603.0,
+        1365.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) IO...Qb4 11 Ah7+ 12 Vh5 Ve7 13 Ad2f5 (if 13...Äe8 then 14 Ag6",
+      "bbox": [
+        314.0,
+        1371.0,
+        1588.0,
+        1425.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "while against 13...Qc6 or other such moves White plays 14 0-0-0) 14 Vg6",
+      "bbox": [
+        268.0,
+        1424.0,
+        1588.0,
+        1476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qxc2+ (also in White's favour is 14...Ve8 15 Oxe6, etc.) 15 Édl oxal 16 Ag8!",
+      "bbox": [
+        267.0,
+        1472.0,
+        1584.0,
+        1526.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "followed by mate with the queen on h7 .",
+      "bbox": [
+        267.0,
+        1528.0,
+        937.0,
+        1569.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        270.0,
+        1652.0,
+        281.0,
+        1681.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2",
+      "bbox": [
+        264.0,
+        1897.0,
+        282.0,
+        1926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This contention seems highly dubious. After 13...Qc4, attacking b2 and threat-",
+      "bbox": [
+        348.0,
+        1654.0,
+        1585.0,
+        1698.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ening 14...e5, White is clearly worse. Black has two central pawns for the piece,",
+      "bbox": [
+        348.0,
+        1703.0,
+        1584.0,
+        1748.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's king is trapped in the centre and his pieces are hopelessly tangled up on",
+      "bbox": [
+        348.0,
+        1751.0,
+        1585.0,
+        1797.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the kingside. Therefore White should prefer 12 0B, with a double-edged posi-",
+      "bbox": [
+        347.0,
+        1799.0,
+        1584.0,
+        1846.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion.",
+      "bbox": [
+        347.0,
+        1848.0,
+        415.0,
+        1877.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "There is also a fair degree of wishful thinking in this line, for example after",
+      "bbox": [
+        346.0,
+        1899.0,
+        1586.0,
+        1945.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14...Ve8 15 Oxe6 Qxc2+ 16 (16 Vxe6!) 16...Vxg6 17 Axg6 mal",
+      "bbox": [
+        350.0,
+        1942.0,
+        1580.0,
+        1994.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the queens are exchanged and White is a whole rook down. He can regain the",
+      "bbox": [
+        346.0,
+        1996.0,
+        1584.0,
+        2042.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "exchange easily enough, but rounding up the al -knight is far from easy — the as-",
+      "bbox": [
+        345.0,
+        2045.0,
+        1583.0,
+        2090.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sessment must be that Black is better. All these lines illustrate the point that",
+      "bbox": [
+        346.0,
+        2095.0,
+        1584.0,
+        2139.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vukovié himself makes: launching an attack without first completing your de-",
+      "bbox": [
+        345.0,
+        2140.0,
+        1582.0,
+        2187.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "velopment is a risky business.",
+      "bbox": [
+        345.0,
+        2189.0,
+        815.0,
+        2227.0
+      ],
+      "confidence": null
+    }
+  ]
+}

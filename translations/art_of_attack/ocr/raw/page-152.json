@@ -1,0 +1,260 @@
+{
+  "pdf_page": 152,
+  "printed_page": 152,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        276.9,
+        107.3,
+        355.3,
+        153.4
+      ],
+      "text": "152",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        708.1,
+        114.8,
+        1208.0,
+        165.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        324.7,
+        257.0,
+        983.8,
+        308.1
+      ],
+      "text": "3...xf2 4 g4 We6 5 g3 xh2! 6 Wf3",
+      "confidence": 0.9621
+    },
+    {
+      "bbox": [
+        321.0,
+        306.9,
+        1601.3,
+        368.0
+      ],
+      "text": "If 6 &xh2, then 6...Wxg4+ 7 h1 Wh3 and White is mated, for he cannot de-",
+      "confidence": 0.9739
+    },
+    {
+      "bbox": [
+        275.7,
+        358.0,
+        1148.0,
+        415.4
+      ],
+      "text": "fend both the focal-points g2 and h2 with his queen.",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        322.2,
+        409.2,
+        1601.3,
+        467.8
+      ],
+      "text": "6...#g2+ 7 Wxg2 xg2+ 8 xg2 Wxg4 and Black won as a result of his mate-",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        274.4,
+        457.8,
+        535.4,
+        509.0
+      ],
+      "text": "rial superiority.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        319.8,
+        558.9,
+        1596.4,
+        621.2
+      ],
+      "text": "The last example in this group is meant to take the reader away from the usual",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        273.2,
+        616.3,
+        405.5,
+        654.9
+      ],
+      "text": "pattern.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        606.4,
+        815.9,
+        639.5,
+        849.5
+      ],
+      "text": "W",
+      "confidence": 0.909
+    },
+    {
+      "bbox": [
+        306.3,
+        1312.3,
+        1586.6,
+        1376.0
+      ],
+      "text": "In this position from the game Flohr-Stoltz, Warsaw 1935, White has some",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        259.7,
+        1364.7,
+        1586.6,
+        1424.6
+      ],
+      "text": "pressure on the seventh rank but lacks reinforcements. Thus after 1 &c4 f8 2",
+      "confidence": 0.9811
+    },
+    {
+      "bbox": [
+        259.7,
+        1408.4,
+        1585.3,
+        1482.0
+      ],
+      "text": "a6 Black has the reply 2...&b8!', and the position resolves itself into an ending",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        261.0,
+        1464.5,
+        1586.6,
+        1529.4
+      ],
+      "text": "with bishops of opposite colours. This is not enough for White, and he sees that a",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        259.7,
+        1515.7,
+        1473.8,
+        1575.6
+      ],
+      "text": "successful invasion is possible on the sixth, rather than the seventh, rank.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        303.8,
+        1563.1,
+        770.6,
+        1611.7
+      ],
+      "text": "1 皇xf7! xf7 2 a6! d6",
+      "confidence": 0.9056
+    },
+    {
+      "bbox": [
+        300.2,
+        1613.0,
+        1585.3,
+        1682.9
+      ],
+      "text": "Otherwise Black cannot stop the mating attack starting with Wxg6+. If",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        257.3,
+        1662.9,
+        1580.4,
+        1731.5
+      ],
+      "text": "2...Wg8, then 3 Wd7+ mates, while 2...b6 is weaker than the text move on ac-",
+      "confidence": 0.9774
+    },
+    {
+      "bbox": [
+        252.4,
+        1709.0,
+        1581.7,
+        1783.9
+      ],
+      "text": "count of 3 Wxb6 Wxb6 4 cxb6 b8 5 xa5 and White goes on to win Black's e-",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        252.4,
+        1771.4,
+        357.7,
+        1812.6
+      ],
+      "text": "pawn.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        296.5,
+        1815.1,
+        1167.6,
+        1872.5
+      ],
+      "text": "3 Wd5+ g7 4 μxd6 We8 5 μe6 xc5 6 Wb7+ 1-0",
+      "confidence": 0.9508
+    },
+    {
+      "bbox": [
+        249.9,
+        1916.1,
+        1548.6,
+        2005.9
+      ],
+      "text": "The role of the files in the attack on the castled king",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        249.9,
+        2015.9,
+        1574.3,
+        2089.5
+      ],
+      "text": "Of all the long-range actions, the most important in attacking the castled king is",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        247.5,
+        2069.6,
+        1575.5,
+        2136.9
+      ],
+      "text": "the vertical one on the open file. It is important because it is easier to 'clear' a file",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        330.8,
+        2171.9,
+        1355.0,
+        2240.5
+      ],
+      "text": "Although 2 Wb7, and only then 3 a6, wins a piece for nothing.",
+      "confidence": 0.9951
+    }
+  ]
+}

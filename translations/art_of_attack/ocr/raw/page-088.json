@@ -1,0 +1,270 @@
+{
+  "pdf_page": 88,
+  "printed_page": 88,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        220.5,
+        121.0,
+        274.4,
+        165.9
+      ],
+      "text": "88",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        650.6,
+        124.7,
+        1150.4,
+        169.7
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        268.3,
+        269.5,
+        1546.1,
+        315.6
+      ],
+      "text": "White threatened 22 d6; if 21...Wb5, then 22 e7+ g7 23 Wxb5 cxb5 24",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        223.0,
+        319.4,
+        638.3,
+        365.5
+      ],
+      "text": "c7 is in White's favour.",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        267.1,
+        369.3,
+        607.7,
+        417.9
+      ],
+      "text": "22 ②d6 g7 23 e4!",
+      "confidence": 0.918
+    },
+    {
+      "bbox": [
+        269.5,
+        426.6,
+        1548.6,
+        467.8
+      ],
+      "text": "A strong move, which not only prepares e5 but also clears the third rank so that",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        223.0,
+        471.5,
+        867.4,
+        521.4
+      ],
+      "text": "White can bring a rook into the attack.",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        267.1,
+        521.4,
+        492.5,
+        568.9
+      ],
+      "text": "23...g8 (D)",
+      "confidence": 0.9823
+    },
+    {
+      "bbox": [
+        263.4,
+        571.3,
+        1543.7,
+        620.0
+      ],
+      "text": "This hastens the end, but 23...e8 was just as inadequate in view of 24 Zf5+",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        221.8,
+        618.8,
+        585.6,
+        669.9
+      ],
+      "text": "followed by 25 We7'.",
+      "confidence": 0.9689
+    },
+    {
+      "bbox": [
+        559.9,
+        828.3,
+        594.2,
+        860.8
+      ],
+      "text": "W",
+      "confidence": 0.9142
+    },
+    {
+      "bbox": [
+        259.7,
+        1322.3,
+        452.1,
+        1367.2
+      ],
+      "text": "24 d3! f6",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        258.5,
+        1374.7,
+        1541.2,
+        1428.4
+      ],
+      "text": "If 24...h6, there follows the other variation of Alekhine's elegant combination:",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        213.2,
+        1415.9,
+        1537.6,
+        1485.7
+      ],
+      "text": "25 f5+ @h7 26 xh6 f6 (or 26...xh6 27 h3) 27 f5! fxg5 28 h3+ mating.",
+      "confidence": 0.9582
+    },
+    {
+      "bbox": [
+        257.3,
+        1473.3,
+        746.1,
+        1528.2
+      ],
+      "text": "25 f5+ +h8 26 Wxg6! 1-0",
+      "confidence": 0.949
+    },
+    {
+      "bbox": [
+        261.0,
+        1529.4,
+        1112.4,
+        1578.1
+      ],
+      "text": "Since 26...hxg6 is answered by 27 h3+ and mate.",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        258.5,
+        1580.6,
+        1541.2,
+        1633.0
+      ],
+      "text": "A pointed end to a game which contained some typical manoeuvres in the",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        214.4,
+        1630.5,
+        1143.1,
+        1681.6
+      ],
+      "text": "struggle by the queen and knight for the focal-point g7.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        254.8,
+        1679.1,
+        1536.3,
+        1737.7
+      ],
+      "text": "Further examples of play against the focal-point g7 are contained in the chap-",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        213.2,
+        1731.5,
+        702.0,
+        1776.4
+      ],
+      "text": "ter on fianchettoed positions.",
+      "confidence": 0.9783
+    },
+    {
+      "bbox": [
+        214.4,
+        1837.5,
+        677.5,
+        1896.2
+      ],
+      "text": "The focal-point h7",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        211.9,
+        1929.9,
+        1538.8,
+        1991.0
+      ],
+      "text": "While the attacker cannot easily target g7, the square h7 is often exposed to dan-",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        210.7,
+        1987.2,
+        1536.3,
+        2035.9
+      ],
+      "text": "ger even in the opening stages of a game, although attacks based on h7 as a fo-",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        213.2,
+        2035.9,
+        1540.0,
+        2089.5
+      ],
+      "text": "cal-point are generally not so dangerous as those aimed at g7. This important",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        213.2,
+        2089.5,
+        1536.3,
+        2134.4
+      ],
+      "text": "point has already been noted, together with the reason for it, i.e. the fact that the",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        290.4,
+        2188.1,
+        1128.4,
+        2241.7
+      ],
+      "text": "24 Zxb7, winning a piece, is even more convincing.",
+      "confidence": 0.9741
+    }
+  ]
+}

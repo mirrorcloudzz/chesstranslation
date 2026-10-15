@@ -1,0 +1,300 @@
+{
+  "pdf_page": 188,
+  "printed_page": 188,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "188",
+      "bbox": [
+        276.0,
+        125.0,
+        334.0,
+        156.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        698.0,
+        127.0,
+        1193.0,
+        168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4 Vg7 5 Vd4 Aa6! 6 xn Vg3! 7 xc2 Axfl 8 xxn xac8",
+      "bbox": [
+        315.0,
+        270.0,
+        1382.0,
+        316.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "By threatening to break through at c4, Black gains a tempo for doubling rooks.",
+      "bbox": [
+        315.0,
+        325.0,
+        1587.0,
+        371.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Alekhine now uses his heavy pieces to force home the final attack.",
+      "bbox": [
+        269.0,
+        375.0,
+        1374.0,
+        416.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9 b3 xc7 10 xe2 xcg7 11 Zf4 xg6! (D)",
+      "bbox": [
+        314.0,
+        421.0,
+        988.0,
+        466.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "0b",
+      "bbox": [
+        1157.0,
+        565.0,
+        1203.0,
+        589.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black threatens ...Xh6, ...Äxh3+ and ...Vgl#. If White plays 12 Äfl, the plan",
+      "bbox": [
+        308.0,
+        1127.0,
+        1582.0,
+        1178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of 12...Äh6 followed by sacrificing at h3 is again in order, for the rook on f1 is",
+      "bbox": [
+        263.0,
+        1175.0,
+        1581.0,
+        1222.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "unprotected; moreover, if it is moved (e.g. to al) then 13...Äxh3+ still succeeds",
+      "bbox": [
+        262.0,
+        1230.0,
+        1580.0,
+        1273.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "because the queen can follow up with a decisive check at f3.",
+      "bbox": [
+        262.0,
+        1279.0,
+        1262.0,
+        1322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In his book, My Best Games of Chess 1924-1937, Alekhine mentions another",
+      "bbox": [
+        307.0,
+        1330.0,
+        1581.0,
+        1372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "reply, 12 Vd l, and claims that 12...Xh6 leads to an original zugzwang position;",
+      "bbox": [
+        260.0,
+        1375.0,
+        1578.0,
+        1430.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "this is not correct (because Black has the strong threat of 13...Vg7 14 Vd4",
+      "bbox": [
+        260.0,
+        1431.0,
+        1578.0,
+        1480.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xxh3+, etc.), but it is true inasmuch as White's rooks cannot move; they provide",
+      "bbox": [
+        259.0,
+        1477.0,
+        1578.0,
+        1531.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a perfect illustration of 'the rook's clumsiness'.",
+      "bbox": [
+        259.0,
+        1532.0,
+        1042.0,
+        1569.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 12 Vdl Xh6 White would have to play 13 Val (not 13 c4 because of",
+      "bbox": [
+        303.0,
+        1577.0,
+        1581.0,
+        1627.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13...d4 !), in which case the strongest reply is 13...a6! (creating another threat, i.e.",
+      "bbox": [
+        262.0,
+        1632.0,
+        1576.0,
+        1680.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...b5-b4 followed by ...d4; if 13...Vg7, then 14 c4 is possible). Now White's front",
+      "bbox": [
+        259.0,
+        1682.0,
+        1577.0,
+        1729.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "e-pawn is lost, but he can still offer some resistance by 14 Äfl. Black, however,",
+      "bbox": [
+        257.0,
+        1734.0,
+        1575.0,
+        1782.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "must not take the e-pawn while White's queen is on al; he does better with",
+      "bbox": [
+        256.0,
+        1786.0,
+        1576.0,
+        1830.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14...b5 15 axb5 axb5, after which one can speak of a type of zugzwang position,",
+      "bbox": [
+        260.0,
+        1835.0,
+        1574.0,
+        1886.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "since White cannot prevent the situation of his pawn on e5 from deteriorating",
+      "bbox": [
+        256.0,
+        1886.0,
+        1575.0,
+        1938.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "still further. If 16 b4 (or 16 Vdl or 16 Vel), Black takes the pawn on e5, after",
+      "bbox": [
+        255.0,
+        1934.0,
+        1575.0,
+        1985.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which he should win.",
+      "bbox": [
+        254.0,
+        1986.0,
+        607.0,
+        2018.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In the actual game White gave up a pawn in a different way and lost as follows:",
+      "bbox": [
+        299.0,
+        2036.0,
+        1569.0,
+        2085.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 Vb4?! Xh6 13 h4 Vg7! (D)",
+      "bbox": [
+        301.0,
+        2082.0,
+        825.0,
+        2129.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Stronger than the prosaic 13...Xxh4+. The black queen retires and at the same",
+      "bbox": [
+        299.0,
+        2137.0,
+        1573.0,
+        2184.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "time creates the threat of ...Xg6, a typical case of a tripled formation with a rook",
+      "bbox": [
+        253.0,
+        2188.0,
+        1573.0,
+        2235.0
+      ],
+      "confidence": null
+    }
+  ]
+}

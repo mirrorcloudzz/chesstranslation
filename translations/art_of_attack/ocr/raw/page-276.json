@@ -1,0 +1,290 @@
+{
+  "pdf_page": 276,
+  "printed_page": 276,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "276",
+      "bbox": [
+        244.0,
+        134.0,
+        307.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        670.0,
+        134.0,
+        1164.0,
+        174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now White threatens 6 Axh7 and 7 Ag6+ followed by mate with the queen at",
+      "bbox": [
+        287.0,
+        883.0,
+        1562.0,
+        927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "h8, but Black is a knight up at this stage, so the possibility of defence by giving",
+      "bbox": [
+        242.0,
+        938.0,
+        1560.0,
+        977.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "back material arises. As a result of this increase in his resources, Black's defence",
+      "bbox": [
+        242.0,
+        988.0,
+        1560.0,
+        1023.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "turns suddenly from direct to indirect, only in the end to return again, after the",
+      "bbox": [
+        242.0,
+        1039.0,
+        1560.0,
+        1078.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'detour' , to direct defence.",
+      "bbox": [
+        245.0,
+        1089.0,
+        681.0,
+        1123.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...Vd2! 6 g3",
+      "bbox": [
+        287.0,
+        1133.0,
+        514.0,
+        1176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 6 Äg3, then 6...Ädg8; anything else is answered by the same manoeuvre as",
+      "bbox": [
+        287.0,
+        1185.0,
+        1560.0,
+        1228.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "now follows.",
+      "bbox": [
+        242.0,
+        1239.0,
+        453.0,
+        1269.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...Axe3 7 Axh7 Axf4! 8 Vh5",
+      "bbox": [
+        286.0,
+        1285.0,
+        812.0,
+        1320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 8 Vxf4 Vxf4 9 Af5+ eg8 10 gxf4 Qd4 11 Ad3 c5, when Black stands",
+      "bbox": [
+        286.0,
+        1334.0,
+        1560.0,
+        1380.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "better.",
+      "bbox": [
+        241.0,
+        1391.0,
+        339.0,
+        1421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8...Ah6 9 Af5 axe5 10 Vxh6+ Vxh6 11 Äxh6+ ég8 and Black has a win-",
+      "bbox": [
+        286.0,
+        1437.0,
+        1558.0,
+        1482.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        495.0,
+        1482.0,
+        502.0,
+        1501.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ning advantage .",
+      "bbox": [
+        241.0,
+        1493.0,
+        513.0,
+        1531.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this example too we observe how a successful defence is flexible and unites",
+      "bbox": [
+        285.0,
+        1593.0,
+        1559.0,
+        1631.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a diversity of elements. Direct and indirect defence alternate, the attacker's",
+      "bbox": [
+        240.0,
+        1643.0,
+        1558.0,
+        1681.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Although Vukovié is correct with his general principles, the above example is",
+      "bbox": [
+        244.0,
+        1766.0,
+        1559.0,
+        1807.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "hardly a convincing demonstration; whatever Black plays, he cannot hope to",
+      "bbox": [
+        322.0,
+        1816.0,
+        1559.0,
+        1857.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "defend the position with most of his pieces stuck far away on the queenside. Af-",
+      "bbox": [
+        322.0,
+        1864.0,
+        1558.0,
+        1904.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ter l...Éh8 White can play 2 f5! Qxe5 3 Qh5 Äg8 4 fxg6 fxg6 5 Vg5! Q)d7 6",
+      "bbox": [
+        322.0,
+        1908.0,
+        1558.0,
+        1953.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with a decisive attack, for example 6...Vc3 7 Ädl Xdf8 8 Äxd7 Vxd3 9",
+      "bbox": [
+        395.0,
+        1958.0,
+        1558.0,
+        2000.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ve5+ and mates. Moreover, even one of Vukovié's own lines favours White:",
+      "bbox": [
+        321.0,
+        2004.0,
+        1556.0,
+        2044.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "after 2 Qh5 Xg8 3 Qf6 Xg7 4 Xf3 Vc3 5 Xdl Ae7 White need not allow the",
+      "bbox": [
+        322.0,
+        2053.0,
+        1558.0,
+        2096.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "capture on f6 but can simply play 6 Vh4! threatening 7 Xh3. Black has nothing",
+      "bbox": [
+        321.0,
+        2103.0,
+        1558.0,
+        2147.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "better than 6...h5 7 Vg5 Axf6 8 exf6 Xh7 9 f5 Ve5, but after 10 h4! he is clearly",
+      "bbox": [
+        321.0,
+        2150.0,
+        1557.0,
+        2195.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in serious trouble as his rook on h7 is totally out of play.",
+      "bbox": [
+        321.0,
+        2203.0,
+        1212.0,
+        2241.0
+      ],
+      "confidence": null
+    }
+  ]
+}

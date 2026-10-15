@@ -1,0 +1,256 @@
+Introduction
+
+
+[PDF page 6]
+Introduction
+Action is the essential basis on which the game of chess is founded and any ac-
+tion which contains a threat - i.e. attack in its widest sense -- stands out as a prom-
+inent feature of the game. To the outside observer, a chess game is dominated by
+the conflict between the two players. The ultimate aim of each player is, as a rule,
+the mating of the opponent's king, and an action with this aim, whether it is direct
+or indirect, is called an attack (in a narrower sense of the word) or a mating at-
+tack; that is the subject of this book.
+Being the most important action in chess and the central element of the game
+in ancient times, attack appears at all stages of the game's development and in
+various forms of perfection. Moreover, it can be said that the reforms which have
+been made in the rules of chess have always been in the direction of increasing
+and stimulating the opportunities for attack.
+The great reform of c. 1485, which created modern European chess, was par-
+ticularly responsible for opening up new opportunities for attack and ushered in a
+period of rich development in chess technique. For three centuries of chess his-
+tory, attack predominated over defence in the practice of the great players, and
+mastery at that time meant skill in conducting an attack. Only with Philidor did
+the first positional ideas appear, and with them more mature defensive strategies;
+these were to find in Steinitz a century later a legislator of genius.
+During the classic era of chess from Morphy to Steinitz and on to Lasker the
+value placed on attack gradually decreased, for with greater positional under-
+standing the foundations were also provided for the perfection of defensive
+technique. This, however, was followed by a new period in which Capablanca,
+and particularly Alekhine, perfected the technique of attack, above all that of the
+attack on the castled position, founded on exact positional play. With Alekhine
+the aggressive and dynamic style of play reached a zenith; in the period which
+followed the tide again turned away gradually from the risks of the direct attack
+in search of new paths. The main reason for this is not to be found in any weak-
+ness inherent in the attacking style, but in the simple fact that, given the condi-
+tions of present-day tournaments, it is more profitable and advantageous to make
+a study of openings. Now, it must be understood that the present theory of open-
+ings represents a detailed development of Nimzowitsch's ideas concerning the
+central squares. There are still many gaps to be filled and there is a wealth of op-
+portunity for innovation; as a result, great masters are inclined to concern
+
+[PDF page 7]
+themselves intensively with openings and to opt for a 'safety-first’ style. When
+this source of opening innovations begins to dry up, the problem of attack will
+present itself once more. The time may even come when the principles on which
+Alekhine built up his attacks will be completely understood, and those ideas
+which in the case of Alekhine had the appearance of a spark of genius will take
+on the more approachable aspect of attacking technique. It will be more conve-
+nient to discuss these questions at the end of the book. At this point it should be
+enough to point out that there exists an extremely large group of chess players,
+who are no longer beginners nor, on the other hand, masters or point-hunters, but
+players who aim primarily at deriving an aesthetic satisfaction from the game.
+For such players an attacking game is more attractive than positional technique
+and they will continue to attack regardless of risk, for their stormy contests are
+not going to be noted down in theoretical textbooks. So why should such play-
+ers not become acquainted with the general principles of attack and why should
+they not perfect themselves in that style of chess with which they are most at
+home?
+Various kinds of attack
+We have said that we shall deal with attack in its narrower, or proper, sense,
+where it involves a direct or indirect threat to the opponent's king. Attacks of this
+kind can be distinguished according to the following categories.
+1) The main action is not in fact an attack on the king, but there is the possibil-
+ity of such an attack latent in the position; some threat or other is being nurtured,
+Or else the attack is concealed in at least one variation.
+Let us take the following position as an example (D):
+[AA-p007-fig01]
+
+[PDF page 8]
+Here White makes the normal positional move 1 d4, which obviously does not
+represent an attack against the black king; but in one variation it contains the ele-
+ments of mate. That is, if Black is careless, and plays for example 1...&b7?, there
+then follows 2 dxc5, and Black has lost a pawn, since 2..xc5? is answered by 3
+Wd4, attacking the knight and also threatening mate on g7.
+2) A player's action really does contain a direct threat to his opponent's king,
+but his opponent can stave off this threat at a certain price, e.g. by giving up ma-
+terial or spoiling his position.
+The vast majority of attacks in fact fall into this very wide category. A simple
+example is given by this position:
+[AA-p008-fig01]
+White plays 1 g5, carrying out an attack on h7. Black has three practical al-
+ternatives 1..g6, 1...f6, and 1..f8. If 1...g6, then 2 e4 with the threat of
+Dd6, which gains a tempo; however, White's main plan will be a further attack
+based on the weaknesses on the dark squares in the region of the king arising
+from the move ...g6.
+If 1...f6, White will no doubt again continue his attacking play, e.g. with 2
+&f4, preparing for Qe5. However, on 1...f8, attacking play does not promise
+success, and White will be content with a positional alternative, playing 2 e4.
+Then Black cannot really prevent 3 c5, after which the knight will have a
+strong position on c5 and the black bishop will be poorly placed on b7.
+3) The attacker carries out an uncompromising mating attack, in which he
+can invest even a considerable amount of material, as long as he is certain of
+mating in the end.
+This is the third and highest degree of attack.
+We can categorize attack in another way if we take castling into account. Thus
+we have:
+
+[PDF page 9]
+1) Attack before castling, i.e. against a king which has not yet castled, and
+2) Attack against the castled king.
+Attack can also be divided on the basis of so-called mating patterns; of focal-
+points; of basic formations of pieces, files, ranks, and diagonals; of basic sacri-
+fices; as well as by the stage which the attack has reached. These divisions ac-
+cording to the spatial, material, and temporal aspects of an attack will help us
+arrange the material so as to reveal the part played by each factor.
+The basic pattern of mate
+For mate to be obtained, the king must be deprived of nine squares if it is in the
+middle of the board, six squares if it is on the edge, or four if it is in the corner.
+Some of these squares may be blocked by the king's own supporting pieces, but
+the rest must be taken by the attacker through the agency of his own pieces or
+pawns. If all the squares surrounding the king are taken from it -- some through
+being blocked, others by being ‘in check' - and if the square on which the king
+stands is also in check and without means of defence, then the king is check-
+mated. This is well known, and it seems rather banal to start out from this basic
+pattern or anatomy of mate; but in fact certain elementary rules can be formu-
+lated only on this basis.
+In the next position Black, to move, is unable to avoid mate in 4 different vari-
+ations.
+[AA-p009-fig01]
+He is threatened by 2 g7# (first mating pattern). If he plays 1..f6, there fol-
+lows 2 g7# (second mating pattern); moving the knight leads to 2 We6# (third
+mating pattern); while if 1...gxf5, we get 2 g7+ e4 3 Wxd4# (fourth mating
+pattern).
+
+[PDF page 10]
+The final or mating position is called the mating pattern, and this term is espe-
+cially useful when such a pattern is worth remembering. A mating pattern can be
+typical (i.e. one which frequently occurs) or atypical. We call a mate (or mating
+pattern) pure if none of the squares concerned is covered by two or more attack-
+ing units. Thus 1...e2 2 We6 is a pure mate, whereas 1...f6 2 &g7 is not,
+though it would be if we were to remove the bishop on f5. Pure mates are valued
+in chess problems, but in practical play they are unimportant.
+In the mating patterns which we have seen, some of the black king's flight
+squares have been blocked by its own pieces, while the rest have been covered by
+the opponent's forces. The sum of these combined factors is known as a mating
+net.
+Mating square and focal-point
+The mating square is that on which the king stands when it is mated, and the mat-
+ing focal-point is that from which an opponent's piece (other than a king, knight
+or pawn) mates the king at close quarters. Thus in the above diagram, after
+1...e2 the focal-point is e6, since it is from there that the queen mates at close
+quarters. Similarly, after 1...gxf5 2 &g7+ e4 the queen mates at close quarters
+from d4, and that square is then the focal-point. However, if Black plays, for in-
+stance, 1...c3 and is answered by 2 &g7#, then we are dealing with a bishop at-
+tacking from a distance, and here the term ‘focal-point' is not used.
+To carry out a mating attack successfully it is always useful to survey the pos-
+sible mating patterns, to prepare a mating net accordingly, and to concentrate on
+the focal-point. In this connection it is in many cases important to clear the fo-
+cal-point, that is to deprive any opposing pieces of their control over a square
+which would be convenient as a focal-point.
+The following diagram shows us an example of this (D):
+White, to move, observes correctly that the square d4 is a potential focal-point
+and that his queen could mate from there, if it were not for its being controlled by
+Black's knight and bishop. So he clears the focal-point d4 as follows:
+1 xe2 (eliminating the knight) 1..dxe2 (if 1..d5, then 2 f4#; if 1...Wc1
+then 2 Wd4#, or if 1..f4, then 2 Wd4+ f5 3 Wf6#) 2 f4+ (forcing the bishop
+away from d4) 2...xf4 3 Wd4#.
+Many readers will object that the patterns of mating attack shown here are so
+obvious, indeed banal, that they need not even have been mentioned. However, I
+think it is useful to strengthen just this simple kind of knowledge, since in fact
+there are many mistakes made precisely in this field. Here are a few instances of
+mistakes concerning mating patterns.
+
+[PDF page 11]
+[AA-p011-fig01]
+. The attacker fails to perceive that he can neither stop his opponent from mov-
+ing his king nor drive him into a mating net, but still plays for mate. Such a
+course of action is naturally futile, and though it may possibly produce perpet-
+ual check, it cannot produce mate.
+ The attacker plays on the basis of typical mating patterns, overlooking the pos-
+sibility of an ‘atypical' one in a particular continuation.
+The player sees all the possible mating patterns based on one focal-point, but
+fails to realize that all this is cancelled out when the king moves, and that what
+matters then are new mating patterns, for which he has not made preparations.
+The player decides on a course of action based on a certain focal-point, with-
+out realizing that he cannot provide cover for it or even clear it of the influence
+of his opponent's pieces. Mistakes made in the selection of a focal-point will
+be found even in the games of the masters.
+So it is useful to get to know the general pattern and structure of mating; less
+experienced players are especially recommended to study games to see whether
+a player has made a mistake with regard to the pattern and, if so, where he has
+made it.
+The art of the mating attack
+We must now make some finer distinctions, and put a series of questions which
+arise out of the basic conceptions of a mating attack, and which at the same time
+also touch on the most difficult departments of the art of chess today.
+How does a mating attack relate to the other operations which take place in a
+game of chess?
+How much is a mating attack conditioned by the actual position on the chess-
+board, and how much by the skill of the attacker?
+
+[PDF page 12]
+Where does the risk attached to a mating attack lie?
+About which points are the minds of players today still unclear with respect to
+carrying out a mating attack?
+The relationship between these questions can be easily perceived, although
+they are posed separately. A separate reply, however, cannot be given to each,
+and an attempt must be made to answer them collectively.
+Mate is the final aim and crowning achievement of the contest and the mating
+attack is the ultimate operation in relation to all the rest, which are only contribu-
+tory. Consequently, the mating attack demands more preconditions than other
+operations. There exist a number of definite preconditions for a mating attack,
+and these combine to require a considerable degree of superiority on the part of
+the attacker. In the case where he has abundant superiority, great knowledge and
+ability on the part of the attacker are not necessary, but if his superiority just bor-
+ders on what would justify a correct attack, then the maximum skill is also re-
+quired in carrying out the attack. The Romantics knew little, but they had great
+confidence in themselves; the first small increase in knowledge diverted their
+style from its course. The new formula, still accepted today, is: carry out a series
+of preliminary operations, which require only a smaller degree of advantage, and
+then you will attain the abundant superiority which facilitates a mating attack.
+However the consequence of this is that there has been a failure to exploit the art
+of attack to the full and masters have been over-inclined to see a risk in an attack.
+It is still not clear what the minimum preconditions are, or what kind of advan-
+tage is necessary, for a mating attack. It may be a question, for example, of a sin-
+gle moment in a game which never returns. Another still unresolved question is
+that of a player's skill in weighing up the obligations which he has undertaken
+when preparing for an attack. The order of his preparatory moves is extraordi-
+narily important. The only really simple thing is the principle itself - that moves
+entailing fewer obligations should be carried out before those which are more
+strongly binding. Putting this principle into practice, however, demands great
+skill of a kind which is very rare - it was fully possessed by Capablanca and
+Alekhine, but by few others.
+A few more words should be said about the kind of superiority which is neces-
+sary before a mating attack can be undertaken. We are interested in the case
+where the advantage is not one of material but of position and time. The attacker
+is, as a rule, stronger in the area where the attack takes place by virtue of his ma-
+terial preponderance there, but his superiority in this respect must be consider-
+able. Even a simple pattern with the queen mating from the focal-point needs at
+least one other piece to cover the focal-point, which already means an advantage
+of two pieces against a lone king. For such pieces to be brought into the attack,
+
+[PDF page 13]
+together with any further attacking pieces which may be necessary, one must
+also have a temporal advantage, that is, the ability to carry out a series of attack-
+ing moves without one's opponent being able to organize either a direct defence
+or a sufficiently strong counterattack. A temporal advantage of this kind is usu-
+ally based on the attacker's positional advantage, i.e. by the comparative lack of
+mobility of his opponent's pieces for defensive purposes. The attacker often does
+not possess such outstanding overall superiority at the commencement of his at-
+tack, but it may manifest itself later as a consequence of the immobility of some
+of the defending pieces or through a particular attacking combination. The skill
+of perceiving the right moment to launch one's attack in fact consists of making a
+correct assessment of possibilities such as these.
+All these points go to show that the correct launching of an attack is the cru-
+cial difficulty which has caused so many masters to turn away from the attacking
+style. They would rather try to obtain something through positional technique,
+where the downside is nothing worse than a draw; all too often this is exactly
+what they do achieve. Still, if advancement in the art of attack is neglected, if op-
+portunities for a perfectly feasible attack are passed by, how are games going to
+be won when technique comes up against technique? Without exploring the art
+of attack more deeply, there can be no further advance in chess. Attack is an es-
+sential component of the game of chess; it is a spark which smoulders in every
+corner and only the player who knows how to keep it alive and make it burst into
+flame at the right moment has reached the heights of true mastery. Lasker once
+acutely observed that if there is ever any possibility of an attack one must carry it
+Out, since otherwise one's advantage will evaporate.

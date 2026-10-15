@@ -1,0 +1,260 @@
+{
+  "pdf_page": 26,
+  "printed_page": 26,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        325.9,
+        121.0,
+        379.8,
+        167.2
+      ],
+      "text": "26",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        755.9,
+        122.3,
+        1258.2,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9702
+    },
+    {
+      "bbox": [
+        370.0,
+        265.7,
+        1647.8,
+        323.1
+      ],
+      "text": "If 19 Wb1 then 19...xf1 20 xf1 (or 20 xf1 Wxc5) 20...g6 and Black ac-",
+      "confidence": 0.9688
+    },
+    {
+      "bbox": [
+        328.3,
+        321.8,
+        1161.4,
+        370.5
+      ],
+      "text": "quires both a material and a positional advantage!",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        371.2,
+        366.8,
+        1215.3,
+        420.4
+      ],
+      "text": "19...xf1 20 b1 xh2 21 b6 ef3+! 22 gxf3",
+      "confidence": 0.9641
+    },
+    {
+      "bbox": [
+        370.0,
+        416.7,
+        1010.7,
+        471.5
+      ],
+      "text": "If 22 h1 then 22...g4! is strongest.",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        372.4,
+        470.3,
+        1649.0,
+        517.7
+      ],
+      "text": "22...Wg5+ 23 xh2 xe2+ 24 xe2 We5+ 25 g3 Wxb2+ 26 c2 Wxb1 27",
+      "confidence": 0.9686
+    },
+    {
+      "bbox": [
+        324.7,
+        516.5,
+        1529.0,
+        571.3
+      ],
+      "text": "e2 e6 28 f4 g6 29 a8 h5 30 c7 h4 31 2h1 Wd3 32 f2 f5 0-1",
+      "confidence": 0.9562
+    },
+    {
+      "bbox": [
+        368.8,
+        621.2,
+        1650.3,
+        673.6
+      ],
+      "text": "To conclude the present chapter, the following game of Rubinstein's will serve",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        324.7,
+        673.6,
+        1495.9,
+        719.8
+      ],
+      "text": "to demonstrate a few more features connected with the f7/f2 sacrifice:",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        803.7,
+        773.4,
+        1166.3,
+        817.1
+      ],
+      "text": "Euwe - Rubinstein",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        840.4,
+        825.8,
+        1132.0,
+        872.0
+      ],
+      "text": "The Hague, 1921",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        775.5,
+        877.0,
+        1194.5,
+        918.1
+      ],
+      "text": "Sicilian Defence, 2...f6",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        323.4,
+        973.0,
+        900.5,
+        1015.4
+      ],
+      "text": "1 e4 c5 2 2f3 f6 3 e5 2d5 4 d4",
+      "confidence": 0.9309
+    },
+    {
+      "bbox": [
+        367.5,
+        1024.2,
+        638.3,
+        1066.6
+      ],
+      "text": "Better is 4 c3.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        366.3,
+        1071.6,
+        801.2,
+        1116.5
+      ],
+      "text": "4...cxd4 5 Wxd4 e6 6 c4?",
+      "confidence": 0.9668
+    },
+    {
+      "bbox": [
+        365.1,
+        1121.5,
+        901.7,
+        1168.9
+      ],
+      "text": "A weak move; 6 Qc4 is correct.",
+      "confidence": 0.9761
+    },
+    {
+      "bbox": [
+        363.9,
+        1170.1,
+        1067.1,
+        1221.3
+      ],
+      "text": "6...2c6 7 Wd1 2de7! 8 d2 2g6 9 We2",
+      "confidence": 0.9214
+    },
+    {
+      "bbox": [
+        365.1,
+        1220.0,
+        1644.1,
+        1281.2
+      ],
+      "text": "After 9 Qc3 Wc7 White must also move his queen to e2, thereby blocking his",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        319.8,
+        1272.4,
+        447.2,
+        1323.6
+      ],
+      "text": "bishop.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        362.6,
+        1321.1,
+        758.4,
+        1371.0
+      ],
+      "text": "9...Wc7 10 c3 b6 (D)",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        362.6,
+        1377.2,
+        1647.8,
+        1430.9
+      ],
+      "text": "By developing his own pieces calmly, Black is making the best possible use of",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        318.5,
+        1425.9,
+        1642.9,
+        1482.0
+      ],
+      "text": "the difficulties experienced by White, who now cannot even fianchetto, e.g. 11",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        317.3,
+        1473.3,
+        817.2,
+        1526.9
+      ],
+      "text": "g3? b7 12 g2 cxe5, etc.",
+      "confidence": 0.9703
+    },
+    {
+      "bbox": [
+        651.8,
+        1685.3,
+        686.1,
+        1719.0
+      ],
+      "text": "W",
+      "confidence": 0.8988
+    }
+  ]
+}

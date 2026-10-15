@@ -1,0 +1,390 @@
+{
+  "pdf_page": 49,
+  "printed_page": 49,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        392.0,
+        118.5,
+        1407.7,
+        159.7
+      ],
+      "text": "The attack on the king that has lost the right to castle",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        1502.0,
+        113.5,
+        1554.7,
+        159.7
+      ],
+      "text": "49",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        272.0,
+        263.2,
+        1553.5,
+        305.6
+      ],
+      "text": "Fortune smiled on him earlier, but now he loses the game which he could have",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        232.8,
+        310.6,
+        1553.5,
+        356.8
+      ],
+      "text": "won, e.g. 36 xd6+ cxd6 37 Wg8+ e7 (if 37...c7 or 37...d7, then 38 Wf7+",
+      "confidence": 0.9737
+    },
+    {
+      "bbox": [
+        230.3,
+        361.8,
+        1557.2,
+        406.7
+      ],
+      "text": "c6 39 b5#) 38 Wxg7+ e8 (or 38...e6 39 f6+ d5 40 Wf7+! mating next",
+      "confidence": 0.9762
+    },
+    {
+      "bbox": [
+        227.9,
+        409.2,
+        1554.7,
+        459.1
+      ],
+      "text": "move) 39 Wg6+ e7 (if 39...+d7 then 40 Wf7+ d8 41 b6+ c7 42 Wxc7+",
+      "confidence": 0.9532
+    },
+    {
+      "bbox": [
+        230.3,
+        462.8,
+        1554.7,
+        507.7
+      ],
+      "text": "e8 43 Wd8+ f7 44 f6+ g8 45 wg6+ +f8 46 Wxd6+, etc.) 40 wf6+ e8",
+      "confidence": 0.9307
+    },
+    {
+      "bbox": [
+        227.9,
+        512.7,
+        970.3,
+        556.4
+      ],
+      "text": "41 We6+ d8 42 b6+ #c7 43 Wxd6+ etc.",
+      "confidence": 0.9545
+    },
+    {
+      "bbox": [
+        275.7,
+        565.1,
+        547.6,
+        606.3
+      ],
+      "text": "36...Wc6! 37 b5",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        268.3,
+        610.0,
+        1553.5,
+        656.2
+      ],
+      "text": "If 37 Wf8+ then 37...We8 38 xd6+ cxd6 39 Wxd6+ Wd7 40 b6+ $e8 41",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        230.3,
+        661.2,
+        1298.7,
+        712.3
+      ],
+      "text": "Wxh2 We7+ and Black captures the bishop by further checking.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        274.4,
+        712.3,
+        764.5,
+        756.0
+      ],
+      "text": "37...Wd7 38 μxd6 Wxd6 0-1",
+      "confidence": 0.9509
+    },
+    {
+      "bbox": [
+        274.4,
+        766.0,
+        1554.7,
+        809.6
+      ],
+      "text": "Barnes played a number of games against Morphy; with his distinctive posi-",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        229.1,
+        815.9,
+        1555.9,
+        862.0
+      ],
+      "text": "tional style, he was the most successful of all the British masters against that",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        229.1,
+        869.5,
+        568.5,
+        913.2
+      ],
+      "text": "combinative genius.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        274.4,
+        968.0,
+        1555.9,
+        1010.5
+      ],
+      "text": "Now comes the third and last example from the collection of curiosities -- the",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        230.3,
+        1015.4,
+        1559.6,
+        1066.6
+      ],
+      "text": "game between Michelet and Kieseritzky, in which the hunted white king is not",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        229.1,
+        1067.8,
+        1555.9,
+        1114.0
+      ],
+      "text": "only saved but goes on actively to participate in the attack on his black colleague.",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        230.3,
+        1119.0,
+        1557.2,
+        1162.7
+      ],
+      "text": "The key to this success is the confinement of Black's queen in a most unusual",
+      "confidence": 0.9799
+    },
+    {
+      "bbox": [
+        236.5,
+        1171.4,
+        350.4,
+        1215.0
+      ],
+      "text": "'cage'.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        678.7,
+        1266.2,
+        1103.9,
+        1312.3
+      ],
+      "text": "Michelet - Kieseritzky",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        793.9,
+        1321.1,
+        992.4,
+        1362.2
+      ],
+      "text": "Paris, 1845",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        684.9,
+        1369.7,
+        1100.2,
+        1418.4
+      ],
+      "text": "King's Gambit Accepted",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        229.1,
+        1469.5,
+        967.9,
+        1514.4
+      ],
+      "text": "1 e4 e5 2 f4 exf4 3 f3 g5 4 c4 g4 5 e5",
+      "confidence": 0.9574
+    },
+    {
+      "bbox": [
+        272.0,
+        1519.4,
+        1307.2,
+        1570.6
+      ],
+      "text": "Today the Muzio Gambit 5 0-0 is considered more promising.",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        275.7,
+        1569.3,
+        596.6,
+        1613.0
+      ],
+      "text": "5...Wh4+ 6 f1 f3",
+      "confidence": 0.9566
+    },
+    {
+      "bbox": [
+        276.9,
+        1626.7,
+        1331.7,
+        1664.1
+      ],
+      "text": "The so-called Cochrane Gambit, which is favourable for Black.",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        273.2,
+        1667.9,
+        640.7,
+        1719.0
+      ],
+      "text": "7 d4 2f6 8 2c3 臭g7",
+      "confidence": 0.8708
+    },
+    {
+      "bbox": [
+        274.4,
+        1725.3,
+        650.6,
+        1768.9
+      ],
+      "text": "8...fxg2+ is also good.",
+      "confidence": 0.9618
+    },
+    {
+      "bbox": [
+        273.2,
+        1771.4,
+        1344.0,
+        1820.1
+      ],
+      "text": "9 g3 Wh3+ 10 f2 d6 11 ②xf7 f8 12 g5 Wg2+ 13 e3 (D)",
+      "confidence": 0.9428
+    },
+    {
+      "bbox": [
+        276.9,
+        1822.6,
+        455.8,
+        1865.0
+      ],
+      "text": "13...h6?",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        273.2,
+        1873.7,
+        1554.7,
+        1922.4
+      ],
+      "text": "An unsound idea, since White can obviously counter it by d3, after which",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        232.8,
+        1927.4,
+        1422.4,
+        1971.0
+      ],
+      "text": "the bishop will have done nothing but lose control of the long diagonal.",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        275.7,
+        1974.8,
+        1418.7,
+        2022.2
+      ],
+      "text": "13...c6 was correct, and if 14 a3 then 14...e7 threatening 15...h6.",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        275.7,
+        2024.7,
+        980.1,
+        2072.1
+      ],
+      "text": "14 d3 c6 15 a3 Ωxg5 16 Ωxg5 xe4",
+      "confidence": 0.9519
+    },
+    {
+      "bbox": [
+        275.7,
+        2080.8,
+        1558.4,
+        2122.0
+      ],
+      "text": "This sacrifice is incorrect, but Black's position was already inferior as a result",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        231.6,
+        2128.2,
+        1359.9,
+        2175.6
+      ],
+      "text": "of his mistake on the 13th move. White's king is quite happy on d3.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        276.9,
+        2176.9,
+        1324.4,
+        2219.3
+      ],
+      "text": "17 We1 f5 18 xe4 f2 19 We3 d7 20 d5 ae8 21 af1!",
+      "confidence": 0.9666
+    }
+  ]
+}

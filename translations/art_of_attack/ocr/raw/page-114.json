@@ -1,0 +1,300 @@
+{
+  "pdf_page": 114,
+  "printed_page": 114,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        221.8,
+        118.5,
+        296.5,
+        164.7
+      ],
+      "text": "114",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        650.6,
+        122.3,
+        1149.2,
+        169.7
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        221.8,
+        263.2,
+        1548.6,
+        321.8
+      ],
+      "text": "Wxh7+ xh7 14 hxg6+ $xg6 15 h5 and mate) 12 hxg6 fxg6 13 xh7 xh7 14",
+      "confidence": 0.9727
+    },
+    {
+      "bbox": [
+        223.0,
+        315.6,
+        1547.4,
+        374.2
+      ],
+      "text": "Wxg6+ g7 15 Qxg7 Wxg7 16 We8+ and White wins. Black could, it is true,",
+      "confidence": 0.9686
+    },
+    {
+      "bbox": [
+        221.8,
+        370.5,
+        1549.8,
+        417.9
+      ],
+      "text": "play 11...b2, in which case the above combination would not work; however, it",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        223.0,
+        420.4,
+        873.5,
+        465.3
+      ],
+      "text": "would not stop the manoeuvre h4-f4.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        265.9,
+        467.8,
+        681.2,
+        512.7
+      ],
+      "text": "9 Wg5 b3 10 e1 c7",
+      "confidence": 0.9165
+    },
+    {
+      "bbox": [
+        268.3,
+        522.7,
+        975.2,
+        566.4
+      ],
+      "text": "Clearly, 10...h6 is bad because of 11 hxg6.",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        267.1,
+        570.1,
+        1221.5,
+        615.0
+      ],
+      "text": "11 g2 aa7 12 eh1 ab7 13 h4! d7 14 μf4 dc7",
+      "confidence": 0.9466
+    },
+    {
+      "bbox": [
+        263.4,
+        621.2,
+        1546.1,
+        672.4
+      ],
+      "text": "Black is unable to parry the combination which White has prepared. If White",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        219.3,
+        671.1,
+        1543.7,
+        721.0
+      ],
+      "text": "had previously made an incorrect exchange on g6, ...We8 would now be the an-",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        216.9,
+        723.5,
+        1544.9,
+        770.9
+      ],
+      "text": "swer to everything; in the present position this move would be answered by 15",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        218.1,
+        766.0,
+        1544.9,
+        825.8
+      ],
+      "text": "Wh6 Wf8 16 Wxh7+ xh7 17 hxg6+ xg6 18 g4+ f5 19 h5+ xg4 20",
+      "confidence": 0.951
+    },
+    {
+      "bbox": [
+        219.3,
+        822.1,
+        327.1,
+        867.0
+      ],
+      "text": "g5#.",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        261.0,
+        867.0,
+        1542.5,
+        926.9
+      ],
+      "text": "15 hxg6 fxg6 16 Wxg6+! hxg6 17 h8+ f7 18 d8+ and White finally",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        219.3,
+        926.9,
+        313.6,
+        965.5
+      ],
+      "text": "wins.",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        259.7,
+        971.8,
+        1542.5,
+        1027.9
+      ],
+      "text": "It is well worth remembering this analysis, especially the method of delaying",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        216.9,
+        1024.2,
+        1541.2,
+        1076.6
+      ],
+      "text": "the attack with the h-pawn is and how the winning position is prepared by a cal-",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        216.9,
+        1071.6,
+        1542.5,
+        1129.0
+      ],
+      "text": "culated deployment of the pieces. The reader will be reminded of this extremely",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        218.1,
+        1126.5,
+        1542.5,
+        1172.6
+      ],
+      "text": "important practical technique in the section on the role of the rook files in the at-",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        215.6,
+        1171.4,
+        623.6,
+        1222.5
+      ],
+      "text": "tack on the castled king.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        261.0,
+        1225.0,
+        1542.5,
+        1276.2
+      ],
+      "text": "As for the part played by the network of weak squares in attacks on the castled",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        216.9,
+        1274.9,
+        1541.2,
+        1329.8
+      ],
+      "text": "king, one more diagram and one interesting master game will be given as exam-",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        214.4,
+        1328.6,
+        300.2,
+        1373.5
+      ],
+      "text": "ples.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        550.1,
+        1531.9,
+        584.4,
+        1564.3
+      ],
+      "text": "W",
+      "confidence": 0.9165
+    },
+    {
+      "bbox": [
+        254.8,
+        2029.6,
+        1537.6,
+        2089.5
+      ],
+      "text": "This position is from the game Euwe-Flohr, Amsterdam 1939. White's bishop",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        209.5,
+        2083.3,
+        1538.8,
+        2138.2
+      ],
+      "text": "has reached the square f6, but the network is still guarded by the opponent's",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        211.9,
+        2134.4,
+        1536.3,
+        2188.1
+      ],
+      "text": "dark-squared bishop, which is preparing to effect a delayed fianchetto by ..&g7.",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        207.0,
+        2183.1,
+        1063.4,
+        2234.2
+      ],
+      "text": "For this reason forceful play by White is indicated.",
+      "confidence": 0.9881
+    }
+  ]
+}

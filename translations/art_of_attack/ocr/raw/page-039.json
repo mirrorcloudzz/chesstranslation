@@ -1,0 +1,300 @@
+{
+  "pdf_page": 39,
+  "printed_page": 39,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        398.2,
+        124.7,
+        1419.9,
+        173.4
+      ],
+      "text": "The attack on the king that has lost the right to castle",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        1506.9,
+        128.5,
+        1564.5,
+        173.4
+      ],
+      "text": "39",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        280.6,
+        270.7,
+        1564.5,
+        325.6
+      ],
+      "text": "The king, having lost the right to castle, takes the first step on its long journey,",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        238.9,
+        324.3,
+        790.2,
+        368.0
+      ],
+      "text": "which is to end on the square al!",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        283.0,
+        374.2,
+        1532.7,
+        415.4
+      ],
+      "text": "7...xc3 8 bxc3 g4+ 9 f3 dxe4 10 Wd4 h5! 11 e3 xf3 12 b5+",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        280.6,
+        424.1,
+        1567.0,
+        471.5
+      ],
+      "text": "A risky move, first played by Steinitz against Blackburne in 1876. Correct",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        235.2,
+        475.3,
+        1563.3,
+        520.2
+      ],
+      "text": "here is 12 gxf3 on which Black can get a draw with 12...We1+ 13 f4 Wh4+, etc.",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        236.5,
+        525.2,
+        1558.4,
+        572.6
+      ],
+      "text": "Chigorin, in playing 12 Qb5+, avoids this possibility, for a draw was naturally",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        234.0,
+        571.3,
+        518.2,
+        623.7
+      ],
+      "text": "not to his liking.",
+      "confidence": 0.9663
+    },
+    {
+      "bbox": [
+        280.6,
+        623.7,
+        605.2,
+        672.4
+      ],
+      "text": "12...c6 13 gxf3 (D)",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        637.1,
+        757.2,
+        681.2,
+        799.6
+      ],
+      "text": "宣",
+      "confidence": 0.8019
+    },
+    {
+      "bbox": [
+        544.0,
+        832.1,
+        568.5,
+        862.0
+      ],
+      "text": "B",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        279.3,
+        1328.6,
+        477.8,
+        1369.7
+      ],
+      "text": "13...Wh6+!",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        276.9,
+        1381.0,
+        1559.6,
+        1428.4
+      ],
+      "text": "The co-creator of the Caro-Kann Defence departs from the theory of his time",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        231.6,
+        1428.4,
+        1557.2,
+        1482.0
+      ],
+      "text": "and hits on the very best move. The theoreticians of the day rejected it, probably",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        231.6,
+        1480.8,
+        1560.8,
+        1530.7
+      ],
+      "text": "because Caro lost the game, and noted in their books that Black obtains the ad-",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        234.0,
+        1531.9,
+        1560.8,
+        1578.1
+      ],
+      "text": "vantage by continuing 13...cxb5 14 Wxe4 Wxe4+ 15 xe4 0-0 16 e3 d7.",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        232.8,
+        1583.1,
+        1558.4,
+        1630.5
+      ],
+      "text": "However, it seems that these old masters either examined this position by feeble",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        231.6,
+        1628.0,
+        1559.6,
+        1687.8
+      ],
+      "text": "gas-light or else they supposed that White would now have to succumb by play-",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        227.9,
+        1676.6,
+        1560.8,
+        1737.7
+      ],
+      "text": "ing 17 ad1?xe5 18 xe5 fe8+ 19 f4 g5+. However, by modern reckoning",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        231.6,
+        1732.7,
+        1559.6,
+        1785.1
+      ],
+      "text": "White would have the better game, if he were to play consistently for a central",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        226.7,
+        1782.6,
+        1560.8,
+        1835.0
+      ],
+      "text": "position with 17 Qd4. In view of the threat of 18 ab1 a6 19 a4, Black's best re-",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        229.1,
+        1831.3,
+        1559.6,
+        1891.2
+      ],
+      "text": "ply is 17...a6; then there follows 18 hg1 with the intention of weakening",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        230.3,
+        1886.2,
+        949.5,
+        1933.6
+      ],
+      "text": "Black's position on the long dark diagonal.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        278.1,
+        1936.1,
+        430.0,
+        1978.5
+      ],
+      "text": "14 xe4",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        273.2,
+        1982.2,
+        1558.4,
+        2038.4
+      ],
+      "text": "Chigorin takes a further risk; 14 e2 would have been good enough for a draw",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        227.9,
+        2034.6,
+        1558.4,
+        2084.5
+      ],
+      "text": "after 14...Wh3 (not 14...exf3+ on account of 15 f2 Wh3 16 fl!) 15 d1 exf3+",
+      "confidence": 0.9742
+    },
+    {
+      "bbox": [
+        308.7,
+        2143.2,
+        1555.9,
+        2190.6
+      ],
+      "text": "4 fxe5 usually transposes to the game continuation after 4...xe4 5 d3 Qb4.",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        312.4,
+        2190.6,
+        1505.7,
+        2244.2
+      ],
+      "text": "White has other possibilities at move 5, but none gives him any advantage.",
+      "confidence": 0.9941
+    }
+  ]
+}

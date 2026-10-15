@@ -1,0 +1,290 @@
+{
+  "pdf_page": 317,
+  "printed_page": 317,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        473.0,
+        132.0,
+        1294.0,
+        175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 Vd3 15 Qg3 exd4 16 Ac2!",
+      "bbox": [
+        262.0,
+        276.0,
+        862.0,
+        320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "317",
+      "bbox": [
+        1471.0,
+        132.0,
+        1532.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "An intermediate move, the purpose of which is to provoke the weakening",
+      "bbox": [
+        260.0,
+        330.0,
+        1535.0,
+        370.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...g6.",
+      "bbox": [
+        217.0,
+        384.0,
+        295.0,
+        422.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...Qf6 17 e4! g6",
+      "bbox": [
+        263.0,
+        428.0,
+        570.0,
+        470.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Owing to the threat of 18 e5, Black cannot avoid this weakness; if 17...Qbd7",
+      "bbox": [
+        261.0,
+        474.0,
+        1534.0,
+        521.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then 18 Qf5 is strong.",
+      "bbox": [
+        216.0,
+        528.0,
+        581.0,
+        570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18 Vxd4 Ae6 19 h4?",
+      "bbox": [
+        264.0,
+        579.0,
+        624.0,
+        613.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Up to here White has built up a series of preconditions for an attack on the en-",
+      "bbox": [
+        262.0,
+        630.0,
+        1535.0,
+        673.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "emy king without making any moves which commit him to it. Now, without any",
+      "bbox": [
+        217.0,
+        681.0,
+        1536.0,
+        724.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "real need, he goes in for such a move. Black's position is not yet ready to be taken",
+      "bbox": [
+        216.0,
+        731.0,
+        1536.0,
+        773.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by storm, so h4 is still premature. According to the scheme which we have",
+      "bbox": [
+        218.0,
+        782.0,
+        1537.0,
+        824.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "worked out, now would be the time to complete the preconditions for the attack",
+      "bbox": [
+        218.0,
+        832.0,
+        1538.0,
+        872.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "without incurring any positional commitments. White's queen is not yet secure",
+      "bbox": [
+        218.0,
+        883.0,
+        1537.0,
+        924.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in its possession of the long dark diagonal in view of the possibility of ...Xad8",
+      "bbox": [
+        218.0,
+        930.0,
+        1537.0,
+        975.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "followed later by ...Qa4, and accordingly, priority should have been given to re-",
+      "bbox": [
+        219.0,
+        980.0,
+        1537.0,
+        1024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "straining such counterplay, e.g. by 19 b3 Äad8 20 Vc3. Then after 20...Xac8, in-",
+      "bbox": [
+        219.0,
+        1029.0,
+        1537.0,
+        1075.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tending ...c5, Black's plan would be frustrated by 21 Va5.",
+      "bbox": [
+        219.0,
+        1079.0,
+        1181.0,
+        1125.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Moreover, h4 is unsuitable in that it makes it more difficult to carry out the the-",
+      "bbox": [
+        264.0,
+        1135.0,
+        1537.0,
+        1172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "matic move f4 (because of the hole left on g4). However, White's position is",
+      "bbox": [
+        219.0,
+        1185.0,
+        1538.0,
+        1223.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "strong enough to stand even h4 though it entails the expenditure of greater effort",
+      "bbox": [
+        220.0,
+        1235.0,
+        1540.0,
+        1276.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "than otherwise would have been necessary.",
+      "bbox": [
+        219.0,
+        1288.0,
+        930.0,
+        1325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...Äad8 20 Vc3 #h7?",
+      "bbox": [
+        267.0,
+        1332.0,
+        676.0,
+        1368.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After this White's pawn on h4 acquires a function. A better plan would have",
+      "bbox": [
+        264.0,
+        1386.0,
+        1539.0,
+        1427.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "been either to double rooks on the d-file by 20...Zd7 or to contest control of d4 by",
+      "bbox": [
+        220.0,
+        1435.0,
+        1539.0,
+        1477.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20...c5.",
+      "bbox": [
+        220.0,
+        1490.0,
+        338.0,
+        1520.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21 Xfel Qbd7 22 Abl Äfe8 (D)",
+      "bbox": [
+        265.0,
+        1535.0,
+        813.0,
+        1576.0
+      ],
+      "confidence": null
+    }
+  ]
+}

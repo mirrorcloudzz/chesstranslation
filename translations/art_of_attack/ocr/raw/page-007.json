@@ -1,0 +1,290 @@
+{
+  "pdf_page": 7,
+  "printed_page": 7,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        795.1,
+        124.7,
+        1018.1,
+        167.2
+      ],
+      "text": "Introduction",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        236.5,
+        270.7,
+        1560.8,
+        320.6
+      ],
+      "text": "themselves intensively with openings and to opt for a 'safety-first’ style. When",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        234.0,
+        320.6,
+        1563.3,
+        373.0
+      ],
+      "text": "this source of opening innovations begins to dry up, the problem of attack will",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        235.2,
+        373.0,
+        1559.6,
+        420.4
+      ],
+      "text": "present itself once more. The time may even come when the principles on which",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        236.5,
+        424.1,
+        1560.8,
+        469.1
+      ],
+      "text": "Alekhine built up his attacks will be completely understood, and those ideas",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        237.7,
+        476.5,
+        1560.8,
+        517.7
+      ],
+      "text": "which in the case of Alekhine had the appearance of a spark of genius will take",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        236.5,
+        522.7,
+        1563.3,
+        571.3
+      ],
+      "text": "on the more approachable aspect of attacking technique. It will be more conve-",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        236.5,
+        575.1,
+        1560.8,
+        617.5
+      ],
+      "text": "nient to discuss these questions at the end of the book. At this point it should be",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        237.7,
+        623.7,
+        1564.5,
+        672.4
+      ],
+      "text": "enough to point out that there exists an extremely large group of chess players,",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        237.7,
+        673.6,
+        1564.5,
+        722.3
+      ],
+      "text": "who are no longer beginners nor, on the other hand, masters or point-hunters, but",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        236.5,
+        723.5,
+        1563.3,
+        772.2
+      ],
+      "text": "players who aim primarily at deriving an aesthetic satisfaction from the game.",
+      "confidence": 0.9793
+    },
+    {
+      "bbox": [
+        235.2,
+        774.7,
+        1560.8,
+        822.1
+      ],
+      "text": "For such players an attacking game is more attractive than positional technique",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        238.9,
+        827.1,
+        1563.3,
+        870.7
+      ],
+      "text": "and they will continue to attack regardless of risk, for their stormy contests are",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        235.2,
+        870.7,
+        1564.5,
+        928.1
+      ],
+      "text": "not going to be noted down in theoretical textbooks. So why should such play-",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        236.5,
+        925.6,
+        1562.1,
+        973.0
+      ],
+      "text": "ers not become acquainted with the general principles of attack and why should",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        237.7,
+        978.0,
+        1565.7,
+        1022.9
+      ],
+      "text": "they not perfect themselves in that style of chess with which they are most at",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        235.2,
+        1030.4,
+        354.1,
+        1069.1
+      ],
+      "text": "home?",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        236.5,
+        1134.0,
+        822.1,
+        1186.4
+      ],
+      "text": "Various kinds of attack",
+      "confidence": 0.9656
+    },
+    {
+      "bbox": [
+        237.7,
+        1225.0,
+        1564.5,
+        1274.9
+      ],
+      "text": "We have said that we shall deal with attack in its narrower, or proper, sense,",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        240.1,
+        1281.2,
+        1562.1,
+        1322.3
+      ],
+      "text": "where it involves a direct or indirect threat to the opponent's king. Attacks of this",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        235.2,
+        1328.6,
+        1303.6,
+        1373.5
+      ],
+      "text": "kind can be distinguished according to the following categories.",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        283.0,
+        1377.2,
+        1560.8,
+        1425.9
+      ],
+      "text": "1) The main action is not in fact an attack on the king, but there is the possibil-",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        237.7,
+        1430.9,
+        1563.3,
+        1477.0
+      ],
+      "text": "ity of such an attack latent in the position; some threat or other is being nurtured,",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        240.1,
+        1485.7,
+        1145.5,
+        1523.2
+      ],
+      "text": "Or else the attack is concealed in at least one variation.",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        278.1,
+        1530.7,
+        1171.2,
+        1578.1
+      ],
+      "text": "Let us take the following position as an example (D):",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        626.0,
+        1654.2,
+        900.5,
+        1717.8
+      ],
+      "text": "皇当",
+      "confidence": 0.5093
+    },
+    {
+      "bbox": [
+        547.6,
+        1739.0,
+        580.7,
+        1772.7
+      ],
+      "text": "W",
+      "confidence": 0.8795
+    },
+    {
+      "bbox": [
+        964.2,
+        2141.9,
+        1009.5,
+        2171.9
+      ],
+      "text": "口",
+      "confidence": 0.8623
+    }
+  ]
+}

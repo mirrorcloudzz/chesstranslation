@@ -1,0 +1,290 @@
+{
+  "pdf_page": 275,
+  "printed_page": 275,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        436.0,
+        137.0,
+        1333.0,
+        178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 26 Xxa8 Ag3 27 h3 Axf4.",
+      "bbox": [
+        261.0,
+        281.0,
+        758.0,
+        324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "275",
+      "bbox": [
+        1472.0,
+        136.0,
+        1532.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "26...#f8 27 Xxf7+ #xf7 28 dxc6+ 29 Oe6+ 30 bxc6 0-1",
+      "bbox": [
+        261.0,
+        329.0,
+        1494.0,
+        367.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This game won the Second Brilliancy Prize.",
+      "bbox": [
+        261.0,
+        386.0,
+        991.0,
+        426.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this position Black is to move and must discover a defence against White's",
+      "bbox": [
+        264.0,
+        1091.0,
+        1538.0,
+        1131.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "two threats of Qh5 and Q)f5. It is fairly easy to reach the conclusion that there is",
+      "bbox": [
+        219.0,
+        1137.0,
+        1538.0,
+        1180.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not a large choice; only two moves are worth considering — l...f5 and l...#h8.",
+      "bbox": [
+        219.0,
+        1187.0,
+        1537.0,
+        1231.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The first appears more natural than the second, but in fact only the second pro-",
+      "bbox": [
+        218.0,
+        1242.0,
+        1538.0,
+        1282.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vides an adequate defence. If l...f5?, White replies 2 Axf5 ! , after which 2...Xxf5",
+      "bbox": [
+        220.0,
+        1288.0,
+        1536.0,
+        1332.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "does not work because of 3 Oxf5 gxf5 4 Vg5+ 7 5 Vf6+ (or 5...#g8 6",
+      "bbox": [
+        219.0,
+        1337.0,
+        1539.0,
+        1381.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xf3) 6 e6, and Black loses; nor is 2..gxf5 satisfactory, e.g. 3 Qh5 Äd7 4 e6,",
+      "bbox": [
+        219.0,
+        1388.0,
+        1538.0,
+        1432.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "when the rook is lost, since if 4...Xe7, then 5 Äf3 is decisive: the one course re-",
+      "bbox": [
+        219.0,
+        1441.0,
+        1538.0,
+        1480.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "maining, therefore, is to decline the sacrifice by 2...Qe7, but then White plays 3",
+      "bbox": [
+        219.0,
+        1490.0,
+        1538.0,
+        1535.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ad3, threatening f5 as well as Qh5,",
+      "bbox": [
+        219.0,
+        1541.0,
+        818.0,
+        1585.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l...f5? is weak because it 'opens up the position', with the result that White's",
+      "bbox": [
+        269.0,
+        1597.0,
+        1539.0,
+        1635.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queen becomes even more effective and is always creating new threats. On the",
+      "bbox": [
+        219.0,
+        1647.0,
+        1539.0,
+        1686.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "other hand, l...#h8, which is also primarily a form of direct defence, should en-",
+      "bbox": [
+        220.0,
+        1694.0,
+        1539.0,
+        1736.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "able Black, provided he can survive the immediate pressure, to make good his",
+      "bbox": [
+        220.0,
+        1749.0,
+        1539.0,
+        1787.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "material advantage and territorial superiority on the queenside. Let us now exam-",
+      "bbox": [
+        220.0,
+        1799.0,
+        1539.0,
+        1837.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ine this second move.",
+      "bbox": [
+        220.0,
+        1850.0,
+        576.0,
+        1879.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...#h8! 2 Qf5",
+      "bbox": [
+        267.0,
+        1895.0,
+        522.0,
+        1930.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 2 Qh5 Äg8 3 Qf6 (otherwise 3...Af8 3...Xg7 4 Zf3 Black can just de-",
+      "bbox": [
+        265.0,
+        1946.0,
+        1539.0,
+        1989.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fend himself in time by 4...Vc3 5 Ädl Ae7 and if 6 Äh3, then 6...Axf6.",
+      "bbox": [
+        220.0,
+        1995.0,
+        1419.0,
+        2039.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...Äg8 3 Xf3 gxf5",
+      "bbox": [
+        265.0,
+        2049.0,
+        581.0,
+        2090.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Forced, since even 3...Af8 does not prevent White from sacrificing his queen",
+      "bbox": [
+        265.0,
+        2098.0,
+        1540.0,
+        2140.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on h7 and mating with the rook on the h-flle.",
+      "bbox": [
+        220.0,
+        2153.0,
+        963.0,
+        2192.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4 Äh3 Äg7 5 Axf5 (D)",
+      "bbox": [
+        265.0,
+        2200.0,
+        652.0,
+        2242.0
+      ],
+      "confidence": null
+    }
+  ]
+}

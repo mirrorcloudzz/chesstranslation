@@ -1,0 +1,95 @@
+PDF 76 / PRINTED 74
+
+postpone the fall of the f6 point
+only by three moves.
+34 ... h6 35 h4 g5 36 f4! gxh4 37
+Nxf6
+And so the invasion takes place,
+after which the second stage of the
+plan can be considered completed.
+concluding
+The third,
+stage,
+will consist of the realisation of the
+which
+been
+advantage
+achieved by the invasion of the
+knight on f6. The position of the
+Black king is utterly ruined and his
+main forces find themselves on the
+other flank and unable to get over
+in time to the defence.
+In the 
+meanwhile, White's
+threats are already impending.
+Now 38 Nh5+ Kf7 39 Qf6+ and
+Rb8+ is threatened.
+37 ... Rf7 38 g5
+Now the g-file is opened and the
+rook is introduced into the attack.
+38 ... Bc6 39 Rg1 Qa3 40
+gxh6+ Kxh6 41 Rh2! Bxe4
+The sacrifice of a piece is the
+only defence against mate (if 41 ...
+Qf3+, then 42 Qg2). White's
+positional advantage  increases to
+material gain. The agony does not
+last long.
+42 Nxe4 Qf3+ 43 Qg2 Qxg2+
+44 Rhxg2 Rxf4 45 Rg6+ Kh7
+46 Nf6+ 1:0
+Spanish
+Game
+White: Y.Vilner
+Black: P.Romanovsky
+(3rd USSR Championship 1924)
+1 e4 e5 2 Nf3 Nc6 3 Bb5 d6 4
+d4 Bd7 5 Nc3 Nge7
+74
+
+Steinitz played this sometimes,
+though Black, with this move,
+delays the development of the
+king's flank by one tempo. Besides
+this, the knight does not have such
+a range of activity from e7 (parti-
+cularly in the struggle for the
+centre), as from f6.
+For all that, what attracted Stei-
+nitz to this move? The idea of it
+consists of the attempt to conso-
+lidate the e5 point after ... Ng6,
+which, on 5 ... Nf6 6 0-0 Be7 7
+Rel is deprived of pawn support
+and Black has to exchange ...
+exd4. For quite a long time, theo-
+retical authorities, including also
+Steinitz, treated this exchange as a
+surrender of the centre. The move
+5 ... Nge7 was one of Steinitz's
+numerous experiments.
+6 Bg5
+Chigorin
+1played
+this against
+Steinitz in the 11th game of the
+return match in 1892. Lasker, in
+match encounters
+several
+with
+Steinitz, continued 6 Bc4 with the
+threat Ng5. Vilner's opponent in
+the present game (he is the author
+of this book) intended, on 6 Bc4,
+to0 put Chigorin's recommendation
+to the test and reply 6 ... Na5.
+6 ... h6
+Steinitz played here 6 ... f6 7
+Be3 Ng6. In the present game,
+Black, without going into analysis
+of concrete variations, feared, after
+6 ... f6, letting the opponent have
+the open a2-g8 diagonal, on which
+the bishop might be consolidated
+after 7 Be3 Ng6 8 a3!? However, in

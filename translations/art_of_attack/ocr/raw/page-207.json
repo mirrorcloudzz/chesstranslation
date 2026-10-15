@@ -1,0 +1,300 @@
+{
+  "pdf_page": 207,
+  "printed_page": 207,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        416.0,
+        124.0,
+        1365.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "207",
+      "bbox": [
+        1478.0,
+        124.0,
+        1540.0,
+        155.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the e-file and the a2-g8 diagonal are opened up. An instructive way of using a",
+      "bbox": [
+        223.0,
+        271.0,
+        1543.0,
+        311.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "flexible centre!",
+      "bbox": [
+        224.0,
+        324.0,
+        472.0,
+        353.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...exd5",
+      "bbox": [
+        269.0,
+        374.0,
+        422.0,
+        403.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...e5 will not do because of 22 mg5 h6 (otherwise 23 axh7) 23 d6!.",
+      "bbox": [
+        269.0,
+        416.0,
+        1439.0,
+        460.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22 e5 (D)",
+      "bbox": [
+        269.0,
+        474.0,
+        426.0,
+        511.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "XL ' &",
+      "bbox": [
+        752.0,
+        593.0,
+        1066.0,
+        653.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22...Qd7?",
+      "bbox": [
+        270.0,
+        1173.0,
+        441.0,
+        1207.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A mistake, after which White's initiative takes on new force. A draw could",
+      "bbox": [
+        270.0,
+        1227.0,
+        1543.0,
+        1262.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have been salvaged by 22...Qe4! 23 e6 fxe6 24 Xxe4 dxe4 25 Axe6+! #h8! 26",
+      "bbox": [
+        224.0,
+        1273.0,
+        1543.0,
+        1316.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Q)g5 h6 (26...g6 is weaker on account of 27 Af7 h5 28 Axg6 when White has an",
+      "bbox": [
+        224.0,
+        1323.0,
+        1543.0,
+        1367.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "extremely promising attack) 27 Q)f7+ 28 Og5+ 29 hf7+ with perpet-",
+      "bbox": [
+        224.0,
+        1373.0,
+        1542.0,
+        1418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ual check. If, instead of 25...#h8, Black plays 25...#f8?, the situation turns in",
+      "bbox": [
+        224.0,
+        1424.0,
+        1543.0,
+        1468.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's favour, e.g. 26 Vxh7! Vc3 (if 26...Vf4, then 27 Qh4 is decisive, while",
+      "bbox": [
+        223.0,
+        1474.0,
+        1543.0,
+        1518.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "26...Ée7 is no use because of 27 Axc8) 27 Vg8+ 28 Vf7+ Éd6 29 Axc8",
+      "bbox": [
+        224.0,
+        1525.0,
+        1542.0,
+        1568.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axc8 (if 29...exf3, then 30 Ve7+ is decisive; 29...Vxc8 fails against 30 Xdl+",
+      "bbox": [
+        223.0,
+        1575.0,
+        1544.0,
+        1619.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Éc5 31 Ve7+, while if 29...Äxc8, then 30 Ädl+ Éc6 31 Ve6+ Éc5 32 Vd6+",
+      "bbox": [
+        224.0,
+        1626.0,
+        1544.0,
+        1666.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and 33 Qd2+) 30 Äxe4!, when White has a decisive attack.",
+      "bbox": [
+        224.0,
+        1677.0,
+        1208.0,
+        1718.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Keres in his commentary continues 22...Qe4! 23 e6 fxe6 24 Äxe4 dxe4, but",
+      "bbox": [
+        270.0,
+        1727.0,
+        1544.0,
+        1771.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "instead of going on with 25 Axe6+!, he gives 25 Qg5?, which is weaker, since",
+      "bbox": [
+        224.0,
+        1778.0,
+        1543.0,
+        1822.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "strangely enough the knight is better placed on f3 than g5 when Black's king",
+      "bbox": [
+        225.0,
+        1834.0,
+        1543.0,
+        1873.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "goes to f8. The critical line then is 25...Vc3! 26 Axe6+ #f8! 27 Vf4+ Ée7 28",
+      "bbox": [
+        224.0,
+        1879.0,
+        1542.0,
+        1923.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vf7+ Éd6 29 Vf4+, whereupon Black need not settle for a draw by perpetual",
+      "bbox": [
+        223.0,
+        1929.0,
+        1543.0,
+        1974.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "check with 29...#e7, for he has instead 29...#c5! 30 Xcl 31 Axc8 e3! 32",
+      "bbox": [
+        223.0,
+        1980.0,
+        1542.0,
+        2020.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxe3+ Vxe3 33 fxe3 Xxc8 34 Xxc8 Axc8 and his b-pawn costs the knight its",
+      "bbox": [
+        223.0,
+        2030.0,
+        1542.0,
+        2075.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "head. An interesting reversal, with Black's king being saved by White's weak-",
+      "bbox": [
+        223.0,
+        2087.0,
+        1541.0,
+        2125.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ness on the back rank!",
+      "bbox": [
+        224.0,
+        2137.0,
+        591.0,
+        2167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23 hg5?! (D)",
+      "bbox": [
+        269.0,
+        2182.0,
+        500.0,
+        2225.0
+      ],
+      "confidence": null
+    }
+  ]
+}

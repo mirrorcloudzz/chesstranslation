@@ -1,0 +1,160 @@
+{
+  "pdf_page": 297,
+  "printed_page": 297,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        488.0,
+        126.0,
+        1308.0,
+        171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "297",
+      "bbox": [
+        1484.0,
+        125.0,
+        1546.0,
+        156.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position arose in the game Alekhine-Gilg, Semmering 1926. It is White's",
+      "bbox": [
+        278.0,
+        876.0,
+        1552.0,
+        922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "move, and he decided on an attack, although the preconditions were only par-",
+      "bbox": [
+        234.0,
+        927.0,
+        1552.0,
+        969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tially fulfilled. Black's king position is weakened and some of White's pieces are",
+      "bbox": [
+        234.0,
+        978.0,
+        1554.0,
+        1022.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "well placed, but there is as yet no communication between his rooks. Meanwhile,",
+      "bbox": [
+        235.0,
+        1027.0,
+        1552.0,
+        1073.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "it is of decisive importance that Black is able to launch a counterattack based on",
+      "bbox": [
+        235.0,
+        1078.0,
+        1554.0,
+        1121.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "his control of d4 and the exposed position of the white king; the general instabil-",
+      "bbox": [
+        235.0,
+        1128.0,
+        1553.0,
+        1171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ity in the centre is also to Black's advantage. We shall see how Alekhine's attack",
+      "bbox": [
+        235.0,
+        1179.0,
+        1556.0,
+        1223.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "came to grief in this position.",
+      "bbox": [
+        235.0,
+        1233.0,
+        720.0,
+        1273.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Seeing that the preconditions for an attack have not been fulfilled, this addi-",
+      "bbox": [
+        282.0,
+        1331.0,
+        1554.0,
+        1375.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tional commitment by White turns against him. The correct move, objectively",
+      "bbox": [
+        237.0,
+        1381.0,
+        1555.0,
+        1424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "speaking, was 1 Ae3, which would have led to approximate equality but not to an",
+      "bbox": [
+        237.0,
+        1432.0,
+        1555.0,
+        1476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "attack on the king.",
+      "bbox": [
+        237.0,
+        1487.0,
+        541.0,
+        1525.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Qf6 2 Qxf6+ Vxf6 3 f5 Qd4 4 g5 mxf3+ 5 Vxf3 hxg5 6 h4 ze8! 7",
+      "bbox": [
+        284.0,
+        1528.0,
+        1467.0,
+        1573.0
+      ],
+      "confidence": null
+    }
+  ]
+}

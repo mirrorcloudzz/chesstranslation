@@ -1,0 +1,100 @@
+PDF 86 / PRINTED 84
+
+Bg5, Rfd1, a4 (if necessary to
+ b5)and
+possibly
+prevent
+further, h3, so as not to allow the
+Ng4 after Be3 and to
+e...
+move
+prevent the pin ... Bg4. However
+it is necessary to decide in which
+moves  should   be
+order
+those
+made.
+To reply to this question one
+probably
+concretely
+state
+must
+what plan Black must choose to
+ the rooks to the d8 square
+bring
+and neutralise the opponent's play
+on the d-file. In order to develop
+his queen's flank, Black has to free
+his queen's knight from defence of
+the e5 pawn.
+The most convenient way is to
+defend the e5 pawn again with the
+queen from c7; incidentally, with
+the move ... Qc7, Black frees the
+d8 square for the rooks. Thus 8
+Qe2 c6 9 a4 Qc7 10 h3 Nc5 11
+Rfd1 a5 12 Bg5 Be6 13 Rd2 Rad8.
+It is not hard to convince oneself
+that White does not succeed in
+the d-file. Conse-
+controlling
+quently, the exchange 7 dxe5 does
+not achieve its objective and is a
+link in a mistaken plan.
+8 Bg5 c6 9 a4 Qc7 10 Qe2 Nc5
+11 Nel
+Convinced that the entrance of
+the rooks on the d-file leads to only
+White, apparently,
+exchanges,
+does not want to take the road to a
+draw
+(which,
+prospective
+however, he himself created with
+his 7th move) and changes plan.
+He is prepared to concede the
+d-file, reckoning on preventing the
+84
+
+invasion of the Black rooks with
+the covering knight on d3, and
+intends to prepare an attack him-
+self on the centre by f4 and a
+subsequent opening of the f-file.
+11 ... Ne6 12 Be3 Nd4 13 Qd1
+13 Bxd4 exd4 is less attractive,
+and the second knight has to
+retreat to the first rank.
+13 ... Rd8
+Black accepts the gift of the
+open d-file. His plan will consist of
+three stages: doubling rooks on this
+file and removing the knight d3;
+invasion of the opponent's terri-
+tory; realisation of the advantage
+achieved.
+He will need over 30 moves to
+fulfil this plan, since the first part
+takes 10 moves, the second - 6,
+and the third - 20. It turns out that
+the process of realisation can be
+very protracted and complicated.
+In the previous game it only took a
+few moves, since the opponent was
+subjected to a rout even during the
+process of invasion; here, however,
+as we will see, White retains consi-
+derable  resources  for   resistance
+even after the invasion of the
+rooks.
+14 Nd3 Be6 15 Bxe6 Nxe6 16
+Qe1 Rd7 17 f3
+This advance bears witness to
+the fact that White has finally
+decided to switch to defence; now
+Black realises  his plan  without
+hindrance. Clearly it was necessary
+to continue with the consistent 17
+f4, on which Alekhine was intend-
+ing to reply 17 ... Ng4 and if 18 f5

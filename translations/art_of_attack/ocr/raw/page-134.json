@@ -1,0 +1,300 @@
+{
+  "pdf_page": 134,
+  "printed_page": 134,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        252.4,
+        116.0,
+        329.6,
+        162.2
+      ],
+      "text": "134",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        683.6,
+        117.3,
+        1184.7,
+        165.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9679
+    },
+    {
+      "bbox": [
+        297.7,
+        264.5,
+        1581.7,
+        313.1
+      ],
+      "text": "In the actual game Black played 19...f6, but that move, like 19...f6, does",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        254.8,
+        315.6,
+        1580.4,
+        361.8
+      ],
+      "text": "not cause White as much difficulty as 19...f7!, as the following variations",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        256.1,
+        370.5,
+        359.0,
+        405.4
+      ],
+      "text": "show:",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        298.9,
+        410.4,
+        1584.1,
+        467.8
+      ],
+      "text": "1)19...f6 20 xe6+ f7 21 xf8 xf8 22 Wg6 e4! (Black's strongest",
+      "confidence": 0.9698
+    },
+    {
+      "bbox": [
+        253.6,
+        466.6,
+        1581.7,
+        512.7
+      ],
+      "text": "defence; White cannot now play 23 f3 because of 23...d3+ 24 h1 d2 and Black",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        254.8,
+        519.0,
+        1580.4,
+        560.1
+      ],
+      "text": "has at least equal chances') 23 h6+ e7 24 f3 d3+ 25 h1 f2+ 26 xf2 Wxf2",
+      "confidence": 0.9709
+    },
+    {
+      "bbox": [
+        253.6,
+        561.4,
+        1546.1,
+        616.3
+      ],
+      "text": "27 Wh7+ e6 28 Wg8+ e5 29 We8+ d4 30 Wc6, with advantage to White.",
+      "confidence": 0.9648
+    },
+    {
+      "bbox": [
+        296.5,
+        615.0,
+        1584.1,
+        669.9
+      ],
+      "text": "2) 19...f7! (this move was suggested by Kovaliev, who considered that it",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        253.6,
+        669.9,
+        1576.8,
+        713.6
+      ],
+      "text": "saved Black's game, but his analysis did not take into account the important in--",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        256.1,
+        721.0,
+        947.0,
+        758.5
+      ],
+      "text": "termediate move 20 b4!) 20 b4! and now:",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        296.5,
+        764.7,
+        1576.8,
+        814.6
+      ],
+      "text": "2a) 20...d7 21 xe6+ h7 (or 21...f6 22 c7! and White wins) 22 e1",
+      "confidence": 0.9707
+    },
+    {
+      "bbox": [
+        253.6,
+        814.6,
+        1578.0,
+        867.0
+      ],
+      "text": "②f6 23 g5+ g8 24 ②xf7 xf7 25 e7+ xe7 26 Wxg7+ e6 27 g5 and",
+      "confidence": 0.9545
+    },
+    {
+      "bbox": [
+        253.6,
+        869.5,
+        851.5,
+        913.2
+      ],
+      "text": "White's attack cannot be withstood.",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        296.5,
+        919.4,
+        1576.8,
+        964.3
+      ],
+      "text": "2b) 20...②a4 21 h4! e5 22 h5+ f6 23 e1 e7 24 f4 exf4 25 h7+ f7",
+      "confidence": 0.9552
+    },
+    {
+      "bbox": [
+        252.4,
+        968.0,
+        1578.0,
+        1019.2
+      ],
+      "text": "26 xe7+ xe7 27 Wxg7+. White's attack is extremely strong and the advance",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        253.6,
+        1021.7,
+        1576.8,
+        1067.8
+      ],
+      "text": "of his h-pawn must be decisive. This analysis does not exhaust the position en-",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        252.4,
+        1070.3,
+        1135.7,
+        1115.2
+      ],
+      "text": "tirely but it does illustrate White's excellent chances.",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        295.3,
+        1114.0,
+        660.4,
+        1165.1
+      ],
+      "text": "19...f6 20 臭f4! (D)",
+      "confidence": 0.9052
+    },
+    {
+      "bbox": [
+        586.8,
+        1324.8,
+        616.2,
+        1361.0
+      ],
+      "text": "B",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        291.6,
+        1825.1,
+        1573.1,
+        1878.7
+      ],
+      "text": "Keres had already analysed 16 Qxh7+ and its consequences before this game",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        245.0,
+        1871.2,
+        1575.5,
+        1933.6
+      ],
+      "text": "took place. At this point he gave the continuation 20 Wh4? on which Black plays",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        328.3,
+        1987.2,
+        1576.8,
+        2038.4
+      ],
+      "text": "This is a considerable exaggeration. After 25 fxe4 dxc1 W 26 axc 1 White has a",
+      "confidence": 0.97
+    },
+    {
+      "bbox": [
+        329.6,
+        2039.6,
+        1571.9,
+        2087.0
+      ],
+      "text": "material advantage and a strong attack -- indeed this line seems clearer than 23",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        325.9,
+        2080.8,
+        447.2,
+        2130.7
+      ],
+      "text": "Qh6+.",
+      "confidence": 0.9342
+    },
+    {
+      "bbox": [
+        245.0,
+        2135.7,
+        274.4,
+        2171.9
+      ],
+      "text": "2",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        328.3,
+        2134.4,
+        1573.1,
+        2184.3
+      ],
+      "text": "27...$d6 is a much better defence. After 28 f8+ e6 29 Wg8+ e5 White is",
+      "confidence": 0.9717
+    },
+    {
+      "bbox": [
+        328.3,
+        2184.3,
+        1351.3,
+        2230.5
+      ],
+      "text": "deprived of the check on e8 and so the position remains unclear.",
+      "confidence": 0.9924
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "pdf_page": 167,
+  "printed_page": 167,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        345.5,
+        119.8,
+        1551.0,
+        167.2
+      ],
+      "text": "Ranks, files and diagonals in the attack on the castled king 167",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        536.6,
+        373.0,
+        562.3,
+        405.4
+      ],
+      "text": "B",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        273.2,
+        867.0,
+        862.5,
+        915.7
+      ],
+      "text": "Or 5...xg2 6 Wxh5 g6 7 g3, etc.",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        272.0,
+        918.1,
+        606.4,
+        968.0
+      ],
+      "text": "6 g4 2g7 7 h5 &f6",
+      "confidence": 0.934
+    },
+    {
+      "bbox": [
+        272.0,
+        973.0,
+        1553.5,
+        1017.9
+      ],
+      "text": "Black gives up a second pawn, but he can do nothing to save his position. After",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        226.7,
+        1020.4,
+        1553.5,
+        1067.8
+      ],
+      "text": "8 hxg6 xe5 9 gxf7+ xf7 10 dxe5 Wa5 White played 11 e4 and won in ten",
+      "confidence": 0.9731
+    },
+    {
+      "bbox": [
+        224.2,
+        1070.3,
+        1549.8,
+        1121.5
+      ],
+      "text": "more moves, but the finish might have been even more abrupt with 11 Qxg7",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        227.9,
+        1120.2,
+        744.9,
+        1168.9
+      ],
+      "text": "xg7 12 g5 followed by Wh5.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        223.0,
+        1216.3,
+        1424.8,
+        1287.4
+      ],
+      "text": "The h-file in connection with the classic bishop",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        226.7,
+        1288.6,
+        439.8,
+        1339.8
+      ],
+      "text": "sacrifice",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        225.4,
+        1373.5,
+        1549.8,
+        1420.9
+      ],
+      "text": "The analysis of the classic bishop sacrifice, to which we devoted particular atten-",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        223.0,
+        1425.9,
+        1551.0,
+        1470.8
+      ],
+      "text": "tion in an earlier chapter, must now be supplemented by cases where such a sacri-",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        221.8,
+        1474.5,
+        1553.5,
+        1523.2
+      ],
+      "text": "fice is combined with an attack along the h-file. This arises when White has a",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        220.5,
+        1525.7,
+        1549.8,
+        1575.6
+      ],
+      "text": "rook on h1 and pawn on h4, the pawn acting as a support for the knight on g5. We",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        223.0,
+        1574.3,
+        1519.2,
+        1626.7
+      ],
+      "text": "shall examine two examples from master chess in which the h-file is opened up.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        267.1,
+        1674.1,
+        1551.0,
+        1730.3
+      ],
+      "text": "The following position comes from the game Steinitz-Golmayo, Havana",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        226.7,
+        1730.3,
+        770.6,
+        1767.7
+      ],
+      "text": "1888, and arose after the moves:",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        267.1,
+        1775.2,
+        1547.4,
+        1822.6
+      ],
+      "text": "1 e4 e6 2 d4 d5 3 c3 f6 4 e5 fd7 5 f4 c5 6 dxc5 xc5 7 f3 0-0 8 d3",
+      "confidence": 0.9547
+    },
+    {
+      "bbox": [
+        223.0,
+        1823.8,
+        396.9,
+        1875.0
+      ],
+      "text": "c6?(D)",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        265.9,
+        1876.2,
+        742.4,
+        1929.9
+      ],
+      "text": "Steinitz at this point played:",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        265.9,
+        1929.9,
+        351.6,
+        1971.0
+      ],
+      "text": "9 h4",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        267.1,
+        1977.3,
+        1546.1,
+        2028.4
+      ],
+      "text": "White could have played immediately 9 Qxh7+ xh7 10 g5+ g6 11",
+      "confidence": 0.9753
+    },
+    {
+      "bbox": [
+        223.0,
+        2024.7,
+        1551.0,
+        2082.0
+      ],
+      "text": "Wd3+ f5 and then 12 Wg3 We8 (against other queen moves, 13 Wh4 is decisive)",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        221.8,
+        2075.8,
+        1428.5,
+        2130.7
+      ],
+      "text": "13 xe6+ f7 14 c7 Wd8 15 xa8 when White has the upper hand.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        224.2,
+        2190.6,
+        245.0,
+        2216.8
+      ],
+      "text": "1",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        302.6,
+        2185.6,
+        1275.4,
+        2230.5
+      ],
+      "text": "In this line 14 xg7! g8 15 xe8 xg3 16 e6+ is decisive.",
+      "confidence": 0.9644
+    }
+  ]
+}

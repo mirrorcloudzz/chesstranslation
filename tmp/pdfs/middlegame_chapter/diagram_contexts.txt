@@ -1,0 +1,696 @@
+===== page-009-diagram-1.png | PDF 9 / PRINTED 7 | box 166,263,641,726 =====
+[ABOVE]    67.2 idea of a plan, we look at two
+[ABOVE]   118.2 elementary positions from the end-
+[ABOVE]   178.5 game.
+[BELOW]   768.6 White to move.
+[BELOW]   815.0 His position is better since he
+[BELOW]   867.1 will easily win the h4 pawn. Is this
+[BELOW]   918.1 sufficient for victory? Indeed, it is
+[BELOW]   968.0 sufficient, but only if White cor-
+===== page-009-diagram-2.png | PDF 9 / PRINTED 7 | box 916,1237,1390,1700 =====
+[ABOVE]   614.4 Black's does to a1 (this operation
+[ABOVE]   666.6 requires 10 moves - Kd5, Kc4,
+[ABOVE]   715.3 Kb5, Kxa5, Kb4 and five moves
+[ABOVE]   767.4 with the pawn). There remains the
+[ABOVE]   815.0 second plan.
+[ABOVE]   866.0 1 ... Kf6 2 Kg4 Kg6 3 Kxh4 Kh6
+[ABOVE]   919.3 4 Kg4 Kg6 5 Kf4 Kh5 6 Ke4
+[ABOVE]   963.4 Kh4 7 Kd5 Kxh3 8 Kc5 Kg4 9
+[ABOVE]  1014.4 Kb6 Kf5 10 Kxa6 Ke6 11 Kb7,
+[ABOVE]  1065.4 and the unhindered pawn reaches
+[ABOVE]  1116.4 the queening square.
+[BELOW]  1763.3 In this example, White's posi-
+[BELOW]  1814.3 tion looks even more favourable.
+[BELOW]  1861.8 He already has an extra f
+[BELOW]  1869.9 passed
+[BELOW]  1912.8 pawn and the plan of play seems
+===== page-013-diagram-1.png | PDF 13 / PRINTED 11 | box 177,92,651,555 =====
+[BELOW]   607.5 White is ready to carry out his
+[BELOW]   656.1 threat (Bxf6 and e4). Black is in a
+[BELOW]   706.0 thoughful mood, whether to pre-
+[BELOW]   759.3 vent this and, if so, in what way. A
+[BELOW]   804.5 good method of contending with a
+===== page-013-diagram-2.png | PDF 13 / PRINTED 11 | box 920,1610,1394,2072 =====
+[ABOVE]  1009.7 Straight into White's attack! He
+[ABOVE]  1059.6 should play ... a6, in order to
+[ABOVE]  1103.6 secure the b5 square, and then try
+[ABOVE]  1159.3 to exchange the opponent's cen-
+[ABOVE]  1208.0 tralised knight by ... Nbd7 or ..
+[ABOVE]  1249.7 Nc6. Black has not drawn up a
+[ABOVE]  1307.7 plan of defence
+[ABOVE]  1312.3  and
+[ABOVE]  1314.6 concrete 
+[ABOVE]  1356.4 makes routine moves, apparently
+[ABOVE]  1405.0 unaware of all the dangers in his
+[ABOVE]  1460.7 position.
+[ABOVE]  1504.7 10 Qf3 Nc6? 11 Qh3 g6?
+[DIAGRAM]  1969.6 3
+===== page-015-diagram-1.png | PDF 15 / PRINTED 13 | box 168,1554,644,2017 =====
+[ABOVE]   913.5 Ng6+ hxg6 18 Qxc4 with a great
+[ABOVE]   961.0 positional advantage for White.
+[ABOVE]  1017.8 12 Bh2 c6 13 e4 Kh8?
+[ABOVE]  1059.6 Both now and on the following
+[ABOVE]  1116.4 moves he should play ... e5. The
+[ABOVE]  1166.2 well-fortified pawn in the centre
+[ABOVE]  1213.8 would have allowed Black to cons-
+[ABOVE]  1264.8 truct a plan of defence. Instead of
+[ABOVE]  1313.5 this, he waits passively for the
+[ABOVE]  1361.0 opponent's attack. He is not kept
+[ABOVE]  1417.8 waiting long.
+[ABOVE]  1461.8 14 Rfe1 g6? 15 Bf1 Ng7?
+[DIAGRAM]  1857.2 玖
+[DIAGRAM]  1909.3 玖
+[BELOW]  2063.5 16 c5!
+===== page-016-diagram-1.png | PDF 16 / PRINTED 14 | box 164,206,643,668 =====
+[ABOVE]    67.2 27 Rxa5 Na6 28 Qa3 Nab8 29
+[ABOVE]   115.9 Ra7 Qc8
+[BELOW]   714.1 has
+[BELOW]   715.3 objective
+[BELOW]   716.4 The
+[BELOW]   717.6 been
+[BELOW]   761.6 achieved. The stage approaches for
+[BELOW]   808.0 realisation of the advantage.
+[BELOW]   864.8 30 Nxb5
+[BELOW]   908.9 This sacrifice is not the only way
+===== page-017-diagram-1.png | PDF 17 / PRINTED 15 | box 160,151,638,612 =====
+[ABOVE]    61.4 9 Bb2
+[DIAGRAM]   163.5 .
+[BELOW]   657.3 Both sides have completed their
+[BELOW]   710.6 initial  arrangement of  forces  in
+[BELOW]   755.8 with the intended
+[BELOW]   762.8 accordance
+[BELOW]   811.5 plans. The middlegame struggle is
+[BELOW]   855.5 begun with Black's move - this
+===== page-018-diagram-1.png | PDF 18 / PRINTED 16 | box 164,966,642,1430 =====
+[ABOVE]   322.3 Qc8, Black's extra pawn on the
+[ABOVE]   373.3 queen's flank
+[ABOVE]   376.8 imperceptibly
+[ABOVE]   380.2 can
+[ABOVE]   423.1 prove to be a planned advantage
+[ABOVE]   473.0 the more the game is simplified) 11
+[ABOVE]   522.8 ... Nxf3+ 12 gxf3 Bh3 13 Nxe7+
+[ABOVE]   573.8 Qxe7 14 Kh1! (14 Re1 Ne4 15 f4
+[ABOVE]   623.7 Rad8 16 Qe2 Rxd3 17 Qxd3 Qe6,
+[ABOVE]   672.4 and Black wins) 14 ... Bxfl 15
+[ABOVE]   724.5 Qxfl, since this entails a certain
+[ABOVE]   772.1 amount of risk.
+[ABOVE]   823.1 10 ... e4 11 Nd2 Bxe2 12 Qxe2
+[ABOVE]   874.1 Bb4!
+[BELOW]  1464.2 The attention of both oppo-
+[BELOW]  1518.6 nents is riveted to the e4 point, for
+[BELOW]  1567.3 the  control of  which begins a
+[BELOW]  1620.7 decisive struggle. With his last
+[BELOW]  1667.0 move Black endeavours not only to
+===== page-019-diagram-1.png | PDF 19 / PRINTED 17 | box 166,1607,641,2071 =====
+[ABOVE]   962.2 gxf3 Ng6, and if 19 Qd3, then 19
+[ABOVE]  1014.4 Qe6 winning the e3 pawn.
+[ABOVE]  1063.1 18 Rxf3 Re6
+[ABOVE]  1112.9 Black's concrete
+[ABOVE]  1119.9 intention  is
+[ABOVE]  1167.4 triumphant. The e4 point is in his
+[ABOVE]  1212.6 hands, the e3 pawn is weak and
+[ABOVE]  1261.3 subject to attack on the e-file. All
+[ABOVE]  1312.3 s pieces take part in the
+[ABOVE]  1314.6 Black's
+[ABOVE]  1359.8 attack, whereas the enemy bishop
+[ABOVE]  1414.3 and knight are inactive.
+[ABOVE]  1459.5 19 Qd3 Rae8 20 Nb1 Ng6 21
+[ABOVE]  1515.2 Bel?
+[DIAGRAM]  1908.2 只
+[DIAGRAM]  1908.2 际
+[DIAGRAM]  1968.4 只
+===== page-022-diagram-1.png | PDF 22 / PRINTED 20 | box 175,1446,650,1907 =====
+[ABOVE]   808.0 obtaining excellent chances in the
+[ABOVE]   863.7 centre by ... c5 (or ... Ne4). On
+[ABOVE]   908.9 the other hand, an immediate 8 ..
+[ABOVE]   955.2 c5 makes it easier for White to
+[ABOVE]  1008.6 plan his game. After 8 ... c5 9
+[ABOVE]  1060.7 cxd5 Nxd5 10 Nxd5 exd5 11 dxc5
+[ABOVE]  1109.4 Nxc5 12 0-0, the real weakness of
+[ABOVE]  1159.3 the d5 pawn and the presence of a
+[ABOVE]  1210.3 piece base in the centre - the d4
+[ABOVE]  1257.8 square, gives him a premise for
+[ABOVE]  1314.6 seizing the initiative.
+[ABOVE]  1359.8 9.0-0
+[BELOW]  1954.5 White  overlooks  the  tactical
+[BELOW]  2005.5 possibility, which arises after this
+[BELOW]  2056.6 move, for the opponent to com-
+===== page-024-diagram-1.png | PDF 24 / PRINTED 22 | box 898,96,1372,560 =====
+[BELOW]   617.9 because of 23 Nd5), but he should
+[BELOW]   668.9 try to confuse the struggle by 22 ...
+[BELOW]   717.6 Ne8 23 f4 f6 24 Nd5 Qb7 25 Bb3
+[BELOW]   766.3 Kh8.
+===== page-025-diagram-1.png | PDF 25 / PRINTED 23 | box 897,112,1370,576 =====
+[BELOW]   620.2 The opening can be considered
+[BELOW]   672.4 over, but, as usual in the Orthodox
+[BELOW]   719.9 variation of the Queen's Gambit,
+[BELOW]   770.9 Black still has to solve the problem
+[BELOW]   819.6 of developing the queen's flank,
+===== page-026-diagram-1.png | PDF 26 / PRINTED 24 | box 170,1554,644,2016 =====
+[ABOVE]   912.3 which all the minor pieces and the
+[ABOVE]   962.2 queen participate, is the enemy
+[ABOVE]  1014.4 king. The variation 15 ... Nxa4?
+[ABOVE]  1064.2 16 Ne4 Nd5 17 Bxe7 Nxe7 18
+[ABOVE]  1110.6 Ne5, and if 18 ... Nf5 then 19 Qg4
+[ABOVE]  1160.4 Nxd4 20 Nf6+ Kh8 21 Qg6! bears
+[ABOVE]  1214.9 witness to the dangers of this
+[ABOVE]  1260.1 attack.
+[ABOVE]  1313.5 15 ... Bd7 16 Ne5
+[ABOVE]  1362.1 Threatening a direct attack on
+[ABOVE]  1410.8 the h7 point - 17 Bxf6 and 18 Qe4.
+[ABOVE]  1463.0 16 ... Rfd8 17 f4 Be8
+[DIAGRAM]  1794.6 玖
+[BELOW]  2058.9 The struggle for the initiative
+===== page-027-diagram-1.png | PDF 27 / PRINTED 25 | box 168,504,640,968 =====
+[ABOVE]    68.4 nesses (for example, the d4 pawn)
+[ABOVE]   118.2 begin to make themselves even
+[ABOVE]   168.1 more strongly felt.
+[ABOVE]   220.3 However, it was too tempting
+[ABOVE]   265.5 for Black to reap the fruits of his
+[ABOVE]   318.8 dynamic play.
+[ABOVE]   366.3 19 Bxf6 Bxf6 20 Nxf6+ gxf6 21
+[ABOVE]   416.2 Ne4
+[BELOW]  1016.7 21 ... Rad8?
+[BELOW]  1065.4 All in the same spirit of exploit-
+[BELOW]  1115.2 ing, as energetically as possible,
+[BELOW]  1162.8 achieved.  This
+[BELOW]  1168.5 the
+[BELOW]  1168.5 advantage
+[BELOW]  1214.9 under-estimation of the opponent's
+===== page-027-diagram-2.png | PDF 27 / PRINTED 25 | box 908,858,1380,1322 =====
+[ABOVE]   220.3 least: 28 Nf6+ Kf8 29 Nh7+.
+[ABOVE]   269.0 Judging by the future course of
+[ABOVE]   320.0 events, it was necessary for Black
+[ABOVE]   368.6 to be satisfied with this result.
+[ABOVE]   419.7 23 ... Ke7 24 f5!
+[ABOVE]   466.0 Such is the dynamic play of
+[ABOVE]   514.7 Alekhine. This move, undoubt-
+[ABOVE]   566.9 edly seen beforehand, creates new
+[ABOVE]   616.7 threats and indirectly defends the
+[ABOVE]   664.3 bishop, since on 24 ... Rxd3 fol-
+[ABOVE]   715.3 lows 25 f6+ and then Qxd3+.
+[ABOVE]   765.1 24 ... R8d6
+[BELOW]  1364.5 Black renews the threat of .
+[BELOW]  1414.3 Rxd3 and opens a refuge for the
+[BELOW]  1466.5 king on d8, but he does not foresee
+[BELOW]  1514.0 the tactical blow of his inventive
+[BELOW]  1565.0 opponent. However, it is already
+===== page-028-diagram-1.png | PDF 28 / PRINTED 26 | box 902,200,1374,664 =====
+[ABOVE]    66.1 look at the following simple posi-
+[ABOVE]   124.0 tion.
+[DIAGRAM]   440.5 只
+[BELOW]   713.0 Both sides' bishops and queens
+[BELOW]   765.1 operate harmoniously, but if, for
+[BELOW]   813.8 Black, this harmony, having as its
+[BELOW]   861.3 object the position of the enemy
+[BELOW]   913.5 king, is to a large extent effective,
+===== page-029-diagram-1.png | PDF 29 / PRINTED 27 | box 176,1608,649,2070 =====
+[ABOVE]   966.8 deepening of dyna-
+[ABOVE]   969.2 the concrete
+[ABOVE]  1019.0 that will
+[ABOVE]  1020.2 mics in the position, t
+[ABOVE]  1065.4 determine not only the direction of
+[ABOVE]  1115.2 the harmonious operation of the
+[ABOVE]  1165.1 pieces, but also a constructive form
+[ABOVE]  1216.1 of harmony. Hence it follows that
+[ABOVE]  1262.4 harmony in operations of forces
+[ABOVE]  1318.1 depends both on a real plan and on
+[ABOVE]  1365.6 the features of the position under
+[ABOVE]  1416.6 review in a dynamic struggle. From
+[ABOVE]  1466.5 this point of view we look at three
+[ABOVE]  1511.7 endings.
+[DIAGRAM]  1911.6 只
+[DIAGRAM]  1962.7 只
+===== page-031-diagram-1.png | PDF 31 / PRINTED 29 | box 910,212,1385,673 =====
+[ABOVE]    67.2 29 ... Bh3 30 Qf3 Qe7 31 Kf1
+[ABOVE]   120.6 Bg4 32 Qd3 Re8 33 Qd2
+[BELOW]   716.4 33 ... f3!
+[BELOW]   765.1 The pawn is included in the
+[BELOW]   815.0 general “concert"! 34 ... Qxe1+!
+[BELOW]   864.8 35 Qxe1 fxg2+ is threatened.
+[BELOW]   914.7 34 Nxf3 Qxa3 35 Qd1
+===== page-031-diagram-2.png | PDF 31 / PRINTED 29 | box 170,708,644,1172 =====
+[ABOVE]    64.9 asked and difficult question as to
+[ABOVE]   118.2 whether, and to what extent, ma-
+[ABOVE]   170.4 terial loss (for example, loss of a
+[ABOVE]   216.8 pawn) upsets the harmony in the
+[ABOVE]   269.0 operation of the opponent's pieces.
+[ABOVE]   315.3 Here is what happened when, in
+[ABOVE]   364.0 the following position, taken from
+[ABOVE]   417.3 the game Suetin-Antoshin (/2-
+[ABOVE]   462.6 final, 22nd USSR Championship
+[ABOVE]   515.9 1954). White willingly discon-
+[ABOVE]   568.0 nects his forces in pursuit of ma-
+[ABOVE]   612.1 terial “goods".
+[BELOW]  1211.4 White has an advantage which
+[BELOW]  1263.6 is sufficient for victory. However,
+[BELOW]  1314.6 instead of the correct 27 Qe3, he is
+[BELOW]  1363.3 tempted by the win of a pawn - 27
+[BELOW]  1412.0 Nxb6, after which his rook loses
+===== page-032-diagram-1.png | PDF 32 / PRINTED 30 | box 164,1364,641,1828 =====
+[ABOVE]   721.1 (14th game, return match 1937)
+[ABOVE]   770.9 1 d4 Nf6 2 c4 e6 3 g3 d5 4 Nf3
+[ABOVE]   820.8 dxc4 5 Qa4+ Nbd7 6 Qxc4 c5 7
+[ABOVE]   870.6 Bg2 Nb6 8 Qd3 cxd4 9 0-0 Be7
+[ABOVE]   921.6 10 Nxd4 0-0 11 Nc3 e5 12 Nf5
+[ABOVE]   970.3 Bb4 13 Qc2 Bxc3 14 bxc3 Bxf5
+[ABOVE]  1020.2 In the event of an immediate 14
+[ABOVE]  1070.0 Qc7 White obtains excellent
+[ABOVE]  1119.9 prospects by  continuing 15  Rd1
+[ABOVE]  1170.9 and then Bg5. All the same Black
+[ABOVE]  1217.2 would have to take the knight.
+[ABOVE]  1267.1 15 Qxf5 Qc7
+[DIAGRAM]  1718.0 8
+[BELOW]  1867.6 The development of the pieces
+[BELOW]  1914.0 is completed, both White and
+[BELOW]  1966.1 Black have arranged their pieces
+[BELOW]  2016.0 harmoniously. The question is to
+[BELOW]  2060.0 what extent will this harmony
+===== page-036-diagram-1.png | PDF 36 / PRINTED 34 | box 230,1601,650,2062 =====
+[ABOVE]   955.2 e trouble and in any
+[ABOVE]   969.2 case
+[ABOVE]  1105.9 His real plan should be based on
+===== page-038-diagram-1.png | PDF 38 / PRINTED 36 | box 901,254,1376,718 =====
+[ABOVE]    64.9 the other.
+[ABOVE]   114.8 We illustrate
+[ABOVE]   115.9 this
+[ABOVE]   120.6 statement
+[ABOVE]   164.6 with an example.
+[DIAGRAM]   495.0 只
+[DIAGRAM]   601.7 &
+[BELOW]   760.5 The d5 square is a strong point
+[BELOW]   810.3 for White and a weak one for
+[BELOW]   861.3 Black. The White knight establ-
+[BELOW]   912.3 ished here cannot be driven off or
+[BELOW]   962.2 exchanged by a piece of equal
+===== page-039-diagram-1.png | PDF 39 / PRINTED 37 | box 168,1618,646,2080 =====
+[ABOVE]  1012.0 drive away or eliminate by an
+[ABOVE]  1063.1 exchange, threatens to take up a
+[ABOVE]  1114.1 position on d5.
+[ABOVE]  1162.8 A weak square is, at the same
+[ABOVE]  1216.1  point, but the con-
+[ABOVE]  1218.4 time, a weak
+[ABOVE]  1263.6 cept “weak point" applies not only
+[ABOVE]  1318.1 to a weak
+[ABOVE]  1319.3 K square.
+[ABOVE]  1363.3 A weak point is also a pawn
+[ABOVE]  1410.8 which is threatened with attack by
+[ABOVE]  1461.8 enemy pieces and which is very
+[ABOVE]  1512.9 difficult to defend.
+===== page-040-diagram-1.png | PDF 40 / PRINTED 38 | box 167,1607,644,2068 =====
+[ABOVE]   962.2 opponent's camp, it becomes parti-
+[ABOVE]  1014.4 cularly strong. Not for nothing do
+[ABOVE]  1065.4 we give such a piece the graphic
+[ABOVE]  1112.9 name “eternal" knight.
+[ABOVE]  1163.9 We will look at a few examples
+[ABOVE]  1213.8 in which the “eternal" knight de-
+[ABOVE]  1263.6 cides the outcome of the struggle.
+[ABOVE]  1311.1 The  following position 
+[ABOVE]  1326.2 arose
+[ABOVE]  1361.0 after the move 18 Qe3 in the game
+[ABOVE]  1412.0 Izmailov-Kasparyan, played in
+[ABOVE]  1461.8 the semi-final of the 7th USSR
+[ABOVE]  1512.9 Championship (1931).
+[DIAGRAM]  1905.8 M
+[DIAGRAM]  1908.2 玖
+[DIAGRAM]  1969.6 只
+===== page-041-diagram-1.png | PDF 41 / PRINTED 39 | box 161,112,639,575 =====
+[BELOW]   612.1 dangerous attack. White has to go
+[BELOW]   661.9 in for further exchanges.
+[BELOW]   715.3 38 Rh1 Rxh1 39 Kxh1 Kf5 40
+[BELOW]   767.4 Rg2 Kxf4 41 Rxg6 Ke5 42
+[BELOW]   815.0 Rg5+ Ke4 43 Rh5 Ra8 44 Kg1
+===== page-042-diagram-1.png | PDF 42 / PRINTED 40 | box 170,1104,646,1568 =====
+[ABOVE]   463.7 ... c6 to defend the d5 square, but
+[ABOVE]   513.6 this severely weakens the d6 point;
+[ABOVE]   563.4 the move ... g6, to defend the f5
+[ABOVE]   612.1 square, leads to the creation of new
+[ABOVE]   666.6 weaknesses in the castled position.
+[ABOVE]   715.3 From this point of view, Black's
+[ABOVE]   761.6 last move is inaccurate. The
+[ABOVE]   815.0 exchange of bishop for knight en-
+[ABOVE]   864.8 ters into White's plan and it would
+[ABOVE]   911.2 be useful to forestall it by 13 ...
+[ABOVE]   965.7 h6.
+[ABOVE]  1010.9 14 Bg5
+[DIAGRAM]  1463.0 玖
+[BELOW]  1610.2 White  consistently  carries  out
+[BELOW]  1658.9 his line. True, he does not yet
+[BELOW]  1713.4 threaten to take the knight, but
+[BELOW]  1762.1 r15Rad1 the threat
+[BELOW]  1765.6 after
+[BELOW]  1770.2 of
+[BELOW]  1810.8 exchange becomes unpleasant.
+===== page-043-diagram-1.png | PDF 43 / PRINTED 41 | box 155,118,630,580 =====
+[DIAGRAM]   482.3 +
+[BELOW]   609.8 White  has  successfully
+[BELOW]   622.5 com-
+[BELOW]   664.3 pleted the first part of his plan; he
+[BELOW]   713.0 “eternal" knight in the
+[BELOW]   716.4 has  an
+[BELOW]   760.5 centre. This advantage is quite
+[BELOW]   810.3 sufficient for victory.
+===== page-043-diagram-2.png | PDF 43 / PRINTED 41 | box 900,704,1372,1168 =====
+[ABOVE]    67.2 30 Qb2 Kg8 31 f4 Bd8 32 Nf6+
+[ABOVE]   117.1 Abeautiful 
+[ABOVE]   119.4 conclusion!
+[ABOVE]   121.7 Of
+[ABOVE]   166.9 course Re7 or Ne7+ are also
+[ABOVE]   215.6 sufficient.
+[ABOVE]   265.5 32 ... Bxf6 33 Qxf6 d5 34 cxd5
+[ABOVE]   317.6 1:0
+[ABOVE]   366.3 On 34 ... Rb6 follows 35 Re8+.
+[ABOVE]   463.7 In the 16th game of the world
+[ABOVE]   515.9 championship match Bronstein-
+[ABOVE]   562.2 Botvinnik (1951), the following
+[ABOVE]   613.3 position was reached:
+[BELOW]  1211.4 Without going into the concrete
+[BELOW]  1260.1 aim of Black's last move, 46 ..
+[BELOW]  1312.3 Qe8, Bronstein played
+[BELOW]  1362.1 47 Qd3?
+[BELOW]  1410.8 There followed
+===== page-044-diagram-1.png | PDF 44 / PRINTED 42 | box 910,905,1383,1368 =====
+[ABOVE]   264.3 then 55 ... Qg7, and White is in
+[ABOVE]   318.8 zugzwang. 56 Qb6 is not possible in
+[ABOVE]   366.3 view of 56 ... Ra8, while, upon the
+[ABOVE]   416.2 retreat of the queen 
+[ABOVE]   422.0 along the
+[ABOVE]   463.7 a-file, follows ...
+[ABOVE]   470.7 Qg4.
+[ABOVE]   514.7 55 .. Qg7 56 Qf3 Kh6 57 Kg2
+[ABOVE]   565.7 Ra8 and Black won.
+[ABOVE]   661.9 The struggle was concluded with
+[ABOVE]   714.1 the “eternal" knight in the game
+[ABOVE]   767.4 Terpugov-Bronstein,
+[ABOVE]   769.8 (19th
+[ABOVE]   813.8 USSR Championship 1951):
+[BELOW]  1413.2 30 Rb2 Ndc5 31 Nxc5 Qxc5 32
+[BELOW]  1463.0 f6
+[BELOW]  1514.0 Not only a useless move, in so
+[BELOW]  1563.9 far as the raid Qh6 is repulsed by
+[BELOW]  1613.7 the reply ... Qf8, but also a serious
+===== page-044-diagram-2.png | PDF 44 / PRINTED 42 | box 167,1628,640,2092 =====
+[ABOVE]  1010.9 With support from the. “eternal"
+[ABOVE]  1065.4 knight, it will then not be difficult
+[ABOVE]  1115.2 to deliver the concluding blow.
+[ABOVE]  1165.1 51 Kg2 Qd8 52 Kf1 Qf6 53 Rd3
+[ABOVE]  1213.8 h5 54 h4
+[ABOVE]  1264.8 Of course, he cannot allow the
+[ABOVE]  1313.5 move ... h4.
+[ABOVE]  1359.8 54 ... Rg8
+[ABOVE]  1412.0 Having in mind, after ...
+[ABOVE]  1419.0 Qg7,
+[ABOVE]  1465.3 by  keeping 
+[ABOVE]  1466.5  the d4 pawn under
+[ABOVE]  1511.7 attack, to create the threat of
+[ABOVE]  1567.3 invasion via g4.
+===== page-045-diagram-1.png | PDF 45 / PRINTED 43 | box 901,256,1375,718 =====
+[ABOVE]    69.6 42 h5 g5 43 Qf2 Nd4
+[ABOVE]   119.4 The knight which every chess-
+[ABOVE]   163.5 player “dreams" about.
+[BELOW]   764.0 44 Rd2 Kg8
+[BELOW]   813.8 Black wants, after 45 ... Rxa6
+[BELOW]   867.1 46 Rxa6, to take on a6 with the
+[BELOW]   912.3 rook, which at the present mo-
+[BELOW]   965.7 ment would not have been possible
+===== page-046-diagram-1.png | PDF 46 / PRINTED 44 | box 171,206,643,670 =====
+[ABOVE]    68.4 We also begin with just such an
+[ABOVE]   121.7 example.
+[BELOW]   710.6 The clash Pillsbury- Chigorin
+[BELOW]   765.1 (Vienna 1898) arrived at this posi-
+[BELOW]   815.0 tion. White's knight has settled
+[BELOW]   864.8 down on  t
+[BELOW]   869.5 the
+[BELOW]   869.5 weak
+[BELOW]   869.5 b6 s
+[BELOW]   872.9 square.
+[BELOW]   914.7 Under its cover, he intends a plan
+===== page-046-diagram-2.png | PDF 46 / PRINTED 44 | box 911,1259,1384,1722 =====
+[ABOVE]   616.7 diagram we must once again em-
+[ABOVE]   666.6 phasise the powerful role of the
+[ABOVE]   715.3 knight on b6, which is probably
+[ABOVE]   764.0 quite sufficient for victory. Only
+[ABOVE]   811.5 instead of 29 Ra3 it was necessary
+[ABOVE]   863.7 to play 29 Qe5 and if 29 ... Qa7,
+[ABOVE]   917.0 then 30 Rb3, consolidating the
+[ABOVE]   963.4 piece base of the knight.
+[ABOVE]  1065.4  the following
+[ABOVE]  1070.0 In
+[ABOVE]  1070.0 instructive
+[ABOVE]  1115.2 example, both knights carry out a
+[ABOVE]  1166.2 devastating raid on the 6th rank.
+[BELOW]  1760.9 Before us is a position from the
+[BELOW]  1810.8 game Romanovsky-Smorodsky
+[BELOW]  1864.1 (3rd USSR Championship 1924).
+[BELOW]  1910.5 White is carrying out an offensive.
+[BELOW]  1960.3 His pawn group has already broken
+===== page-047-diagram-1.png | PDF 47 / PRINTED 45 | box 900,508,1372,971 =====
+[ABOVE]    66.1 36 ... Ke8 37 Nb6 Rc7 38 Nac4
+[ABOVE]   117.1 Bd7 39 Nd6+ Ke7
+[ABOVE]   166.9 The objective is achieved. The
+[ABOVE]   215.6 White cavalry keeps the whole
+[ABOVE]   271.3 y in a vice - a good
+[ABOVE]   275.9 enemy army
+[ABOVE]   315.3 example of how the strength is
+[ABOVE]   366.3 increased of a knight entering into
+[ABOVE]   416.2 the enemy camp on weak squares.
+[BELOW]  1012.0 40 Nb5!
+[BELOW]  1065.4 In this way White wins at least
+[BELOW]  1110.6 the exchange, in view of the threat
+[BELOW]  1163.9 d6+, and maintains the initiative.
+[BELOW]  1210.3 Further  resistance by  Black is
+===== page-049-diagram-1.png | PDF 49 / PRINTED 47 | box 900,808,1374,1270 =====
+[ABOVE]   170.4 could successfully defend himself,
+[ABOVE]   219.1 reserving the advance f5 for a
+[ABOVE]   272.4 convenient moment.
+[ABOVE]   314.2 19 ... Rfe8 20 Bf4 Be5 21 Bg4
+[ABOVE]   367.5 Nb3 22 fxg6 hxg6 23 Rb1 Bxc3
+[ABOVE]   420.8 24 bxc3 Qc5+ 25 e3
+[ABOVE]   469.5 Of course, not Kg2 or Khl, on
+[ABOVE]   513.6 which follows the capture of the d5
+[ABOVE]   562.2 pawn with check, but now the d3
+[ABOVE]   613.3 square is weakened and Black im-
+[ABOVE]   666.6 mediately exploits this.
+[ABOVE]   718.8 25 ... Ne5 26 Bf3 Nd3!
+[DIAGRAM]  1054.9 只
+[BELOW]  1311.1 He need not hurry with the
+[BELOW]  1361.0 capture of the pawn. The knights,
+[BELOW]  1414.3 supported  by
+[BELOW]  1416.6 y the c4 pawn, are
+[BELOW]  1464.2 picturesquely perched on d3 and
+[BELOW]  1511.7 b3. This elegant picture repeats
+===== page-050-diagram-1.png | PDF 50 / PRINTED 48 | box 909,1552,1384,2013 =====
+[ABOVE]   911.2 square, which Lasker does not fail
+[ABOVE]   966.8 to energetically exploit.
+[ABOVE]  1016.7 25 exd5? Be3+ 26 Kf1 cxd5 27
+[ABOVE]  1066.5 Rd3
+[ABOVE]  1114.1 White under-estimates the role
+[ABOVE]  1167.4 of the bishop on e3. Also now he
+[ABOVE]  1214.9 should continue 27 Nf5 d4 28
+[ABOVE]  1262.4 Nxe3 dxe3 29 Re2, submitting to a
+[ABOVE]  1312.3 cramped, but far from hopeless
+[ABOVE]  1366.8 position.
+[ABOVE]  1413.2 27 ... Qe6 28 Re2 f5 29 Nh1 f4
+[ABOVE]  1461.8 30 Rd1 d4
+[DIAGRAM]  1905.8 只
+[BELOW]  2061.2 The power of the bishop is now
+===== page-050-diagram-2.png | PDF 50 / PRINTED 48 | box 171,1608,646,2070 =====
+[ABOVE]   966.8 of the match for the world cham-
+[ABOVE]  1013.2 pionship between Em.Lasker and
+[ABOVE]  1067.7 Tarrasch (1908) serves as a classic
+[ABOVE]  1116.4 example of this plan. Lasker, with
+[ABOVE]  1163.9 the Black pieces, played the open-
+[ABOVE]  1216.1 ing poorly, lost a pawn and his
+[ABOVE]  1264.8 defeat seemed  inevitable. From
+[ABOVE]  1316.9 then on, however, thanks to indif-
+[ABOVE]  1366.8 ferent play by the opponent, he
+[ABOVE]  1415.5 succeeded in starting up a counter-
+[ABOVE]  1465.3 struggle in the centre around the
+[ABOVE]  1516.3 isolated White pawn on e4.
+[DIAGRAM]  1966.1 只
+===== page-051-diagram-1.png | PDF 51 / PRINTED 49 | box 150,1104,625,1567 =====
+[ABOVE]   464.9 34 .. Qxh2 35 Kd1 Qg1+ 36
+[ABOVE]   512.4 Ne1
+[ABOVE]   562.2 Or 36 Re1 Qxg2.
+[ABOVE]   613.3 36 ... Rge5 37 Qc6 R5e6 38
+[ABOVE]   661.9 Qxc7 R8e7 39 Qd8+ Kg7 40 a4
+[ABOVE]   713.0 f3 41 gxf3 Bg5 0:1
+[ABOVE]   760.5 After 42 Rxe6 Rxe6 43 Qa5 Bh4
+[ABOVE]   810.3 White suffers serious material loss.
+[ABOVE]   910.0 The following position arose in
+[ABOVE]   958.7 the
+[ABOVE]   962.2 Alekhine-Mikenas
+[ABOVE]   968.0 game
+[ABOVE]  1012.0 from the 5th Olympiad (1933):
+[DIAGRAM]  1461.8 只
+[BELOW]  1607.9 Black has a weak d6 square, to
+[BELOW]  1656.6 which the enemy bishop is clearly
+[BELOW]  1707.6 heading. Mikenas, however, ig-
+[BELOW]  1759.8 noring the threat, continued
+[BELOW]  1808.5 12 ... a6
+===== page-052-diagram-1.png | PDF 52 / PRINTED 50 | box 154,100,632,564 =====
+[BELOW]   614.4 and queen soon occupy the c-file,
+[BELOW]   659.6 which serves as a road of invasion
+[BELOW]   714.1 into the enemy camp. All these
+[BELOW]   764.0 achievements are to a considerable
+===== page-054-diagram-1.png | PDF 54 / PRINTED 52 | box 908,898,1383,1359 =====
+[ABOVE]   258.5 of harmonious  activity  of  these
+[ABOVE]   313.0 pieces. As an example might serve
+[ABOVE]   357.1 the  following
+[ABOVE]   360.5   variation  of the
+[ABOVE]   410.4 Vienna Game: 1 e4 e5 2 Nc3 Nf6
+[ABOVE]   460.2 3 Bc4 Nxe4 4 Qh5 (The first
+[ABOVE]   510.1 blow against the f7 point from two
+[ABOVE]   562.2 directions) 4 ... Nd6 5 Bb3 Nc6 6
+[ABOVE]   609.8 Nb5 g6 7 Qf3 (The second com-
+[ABOVE]   656.1 binational blow on the f7 point;
+[ABOVE]   708.3 this time the queen operates on the
+[ABOVE]   758.2 file) 7 ... f5 8 Qd5 (Doubling on
+[ABOVE]   808.0 the a2-g8 diagonal)
+[DIAGRAM]  1254.3 只
+[BELOW]  1403.9 As is well-known, Black must
+[BELOW]  1458.4 sacrifice the exchange by 8 ... Qe7
+[BELOW]  1507.1 in order to repulse the energetic
+[BELOW]  1555.7 attack on the f7 point. Admittedly
+[BELOW]  1606.8 experience  shows  that
+===== page-055-diagram-1.png | PDF 55 / PRINTED 53 | box 156,869,632,1332 =====
+[ABOVE]   221.4 d5. The correct reply is 7 ... Qd7,
+[ABOVE]   273.6 which allows him to maintain good
+[ABOVE]   323.4 defensive resources.
+[ABOVE]   372.1 In the middlegame, the attack of
+[ABOVE]   419.7 the bishop and queen on the long
+[ABOVE]   470.7 diagonal, with the aim of creating
+[ABOVE]   521.7 mating threats to the opponent's
+[ABOVE]   573.8 king, is the most effective expres-
+[ABOVE]   622.5 sion of harmony in the operation
+[ABOVE]   670.1 of the diagonal pieces. We look at
+[ABOVE]   722.2 several instructive illustrations on
+[ABOVE]   772.1 this theme.
+[BELOW]  1366.8 This is a position from the game
+[BELOW]  1421.3 Alekhine-Tartakover
+[BELOW]  1421.3 (Pistyan
+[BELOW]  1464.2 1922). As far back as 10 moves
+[BELOW]  1512.9 ago, Black organised 
+[BELOW]  1518.6 dangerous
+[BELOW]  1569.7 long
+[BELOW]  1570.8 diagonal
+[BELOW]  1573.1  the
+[BELOW]  1576.6 pressure  on 
+===== page-055-diagram-2.png | PDF 55 / PRINTED 53 | box 902,1364,1376,1828 =====
+[ABOVE]   718.8 himself to the loss of a pawn after
+[ABOVE]   772.1 33 f3 Bxf3.
+[ABOVE]   817.3 Alekhine continued
+[ABOVE]   870.6 31 h3
+[ABOVE]   919.3 A little trap is contained in this
+[ABOVE]   972.6 move: 0n 31 ... Qxh3; 32 Qxc6!
+[ABOVE]  1021.3 wins. If, however, 31 ... Qg5, then
+[ABOVE]  1067.7 32 Qe3 f4 33 Qe5 allows him to
+[ABOVE]  1122.2 a  stubborn resistance.
+[ABOVE]  1130.3 dn nd
+[ABOVE]  1169.7 However, Tartakover had prepared
+[ABOVE]  1219.6 a convincing reply.
+[ABOVE]  1269.4 31 ... Qf3
+[BELOW]  1866.4 The attack on the g2 point is
+[BELOW]  1918.6 irresistible. On 32 Re3 follows
+[BELOW]  1970.8 mate in 3 moves: 32 ... Rxg2+ 33
+[BELOW]  2016.0 Kh1 Rg1+ 34 Kxg1 Qxh1 mate.
+[BELOW]  2065.8 This  variation brilliantly reflects
+===== page-056-diagram-1.png | PDF 56 / PRINTED 54 | box 914,208,1388,670 =====
+[ABOVE]    60.3 the g2 point.
+[ABOVE]   107.8 33 Nxf3 Nxf3+ 34 gxf3
+[BELOW]   708.3 34 ... Rg4+!
+[BELOW]   757.0 An apotheosis of the devastating
+[BELOW]   810.3 action of the diagonal forces. In
+[BELOW]   860.2 the event of 35 Kf2, ... Qxf3+ and
+[BELOW]   908.9 ... Re4+ mates. However, mate is
+===== page-056-diagram-2.png | PDF 56 / PRINTED 54 | box 164,907,640,1370 =====
+[ABOVE]   263.2 castled position. Therefore White
+[ABOVE]   309.5 resigned.
+[ABOVE]   406.9 The idea of attacking the king's
+[ABOVE]   456.8 position by the method of doubling
+[ABOVE]   510.1 on the long diagonal with the
+[ABOVE]   557.6 queen and bishop firmly
+[ABOVE]   563.4 I entered
+[ABOVE]   609.8 into creative praxis in the second
+[ABOVE]   655.0 half of the 19th century. Also
+[ABOVE]   709.5 Chigorin was a champion of it.
+[ABOVE]   755.8  In a number of his games we find
+[ABOVE]   808.0 attacks built on this foundation.
+[BELOW]  1403.9 Black's last move
+[BELOW]  1406.2 (the
+[BELOW]  1419.0 game
+[BELOW]  1456.0 Schmidt-Chigorin,
+[BELOW]  1458.4 Petersburg
+[BELOW]  1504.7 1877) was 25 ... Qd5. The struggle
+[BELOW]  1556.9 developed like this:
+[BELOW]  1607.9 26 Rd1 g5! 27 fxg5 f4 28 c4
+===== page-057-diagram-1.png | PDF 57 / PRINTED 55 | box 906,708,1383,1173 =====
+[ABOVE]    67.2 Qa5 Qb6 27 Qe1
+[ABOVE]   119.4 Of
+[ABOVE]   122.9  exchange of
+[ABOVE]   124.0 course
+[ABOVE]   124.0 the
+[ABOVE]   168.1 s  would  improve
+[ABOVE]   169.3 Black's
+[ABOVE]   179.7 queens
+[ABOVE]   217.9 pawn structure, by making it more
+[ABOVE]   267.8 Nevertheless,
+[ABOVE]   269.0 White
+[ABOVE]   272.4 compact.
+[ABOVE]   315.3 should go in for this as the “lesser
+[ABOVE]   361.7 evil'.
+[ABOVE]   413.9 27 ... Rg6 28 c4 Rg4 29 Bc1
+[ABOVE]   469.5 Qc6 30 Rg1 Rh8 31 Rb2 Qf3 32
+[ABOVE]   515.9 Nf2
+[ABOVE]   565.7 Clearly 32 Qe2 will not do, in
+[ABOVE]   609.8 view of 32 ... Rxg3.
+[BELOW]  1209.1 32 ... g5! 33 Nxg4
+[BELOW]  1263.6 The preliminary 33 fxg5 led to
+[BELOW]  1314.6 Very
+[BELOW]  1323.9  worse consequences.
+[BELOW]  1326.2 even
+[BELOW]  1361.0 beautiful, for example, is this
+[BELOW]  1412.0 variation: 33 fxg5 f4 34 Nxg4 hxg4
+===== page-057-diagram-2.png | PDF 57 / PRINTED 55 | box 165,1550,640,2014 =====
+[ABOVE]   915.8 18 Kh2 0-0-0 19 h4 Bc6 20 Nf3
+[ABOVE]   964.5 Bb7!
+[ABOVE]  1013.2 The positional manoeuvre of the
+[ABOVE]  1065.4 bishop conceals the idea of attack
+[ABOVE]  1115.2 on the long diagonal.
+[ABOVE]  1162.8 21 Qd2 d4 22 Ne1 Qe8 23 Nd3
+[ABOVE]  1213.8 Qc6
+[ABOVE]  1263.6 The doubling is achieved. The
+[ABOVE]  1312.3 powerful position of the bishop and
+[ABOVE]  1362.1 queen serves as a basis for the
+[ABOVE]  1412.0 decisive attack, which is develop-
+[ABOVE]  1467.6 ing move by move.
+[BELOW]  2062.3 24 Rf2 Rdg8 25 Raf1 Rh6 26
+===== page-059-diagram-1.png | PDF 59 / PRINTED 57 | box 892,90,1366,553 =====
+[BELOW]   612.1 of invasion, play a considerably
+[BELOW]   659.6 more significant role than open
+[BELOW]   710.6 diagonals in the processes of the
+[BELOW]   761.6 chess struggle. Files are arteries on
+===== page-060-diagram-1.png | PDF 60 / PRINTED 58 | box 904,1164,1376,1628 =====
+[ABOVE]   515.9 44 .. Rxb2 45 g5 hxg5 46 hxg5
+[ABOVE]   570.4 Rcc2
+[ABOVE]   615.6 Rooks doubled along the rank
+[ABOVE]   668.9 are a frequent and dangerous con-
+[ABOVE]   717.6 sequence of an invasion of heavy
+[ABOVE]   764.0 pieces down the file. We give
+[ABOVE]   816.1 consideration to the rook “storm"
+[ABOVE]   866.0 on the 7th (2nd)
+[ABOVE]   868.3 rank in the
+[ABOVE]   919.3 whereas
+[ABOVE]   921.6 corresponding  C
+[ABOVE]   923.9 chapter,  v
+[ABOVE]   965.7 we confine ourselves to a
+[ABOVE]   969.2 here
+[ABOVE]  1016.7 diagram
+[ABOVE]  1016.7 g  this  colourful
+[ABOVE]  1020.2 depicting
+[ABOVE]  1074.6 position.
+[BELOW]  1662.4 In the present case we deal with
+[BELOW]  1714.6 the “ready-made" open line where
+[BELOW]  1762.1 the Black rooks have already con-
+[BELOW]  1808.5 centrated their strength for a jump
+[BELOW]  1866.4 inside the enemy fortress. In order

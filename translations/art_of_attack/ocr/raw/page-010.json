@@ -1,0 +1,400 @@
+{
+  "pdf_page": 10,
+  "printed_page": 10,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        230.3,
+        128.5,
+        280.6,
+        170.9
+      ],
+      "text": "10",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        659.1,
+        129.7,
+        1159.0,
+        175.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9753
+    },
+    {
+      "bbox": [
+        274.4,
+        275.7,
+        1553.5,
+        328.1
+      ],
+      "text": "The final or mating position is called the mating pattern, and this term is espe-",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        230.3,
+        329.3,
+        1553.5,
+        375.5
+      ],
+      "text": "cially useful when such a pattern is worth remembering. A mating pattern can be",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        229.1,
+        379.2,
+        1554.7,
+        429.1
+      ],
+      "text": "typical (i.e. one which frequently occurs) or atypical. We call a mate (or mating",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        229.1,
+        429.1,
+        1553.5,
+        476.5
+      ],
+      "text": "pattern) pure if none of the squares concerned is covered by two or more attack-",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        226.7,
+        474.0,
+        1557.2,
+        528.9
+      ],
+      "text": "ing units. Thus 1...e2 2 We6 is a pure mate, whereas 1...f6 2 &g7 is not,",
+      "confidence": 0.9613
+    },
+    {
+      "bbox": [
+        226.7,
+        527.7,
+        1555.9,
+        576.3
+      ],
+      "text": "though it would be if we were to remove the bishop on f5. Pure mates are valued",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        227.9,
+        577.6,
+        1248.4,
+        627.5
+      ],
+      "text": "in chess problems, but in practical play they are unimportant.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        269.5,
+        627.5,
+        1554.7,
+        678.6
+      ],
+      "text": "In the mating patterns which we have seen, some of the black king's flight",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        229.1,
+        678.6,
+        1552.3,
+        729.8
+      ],
+      "text": "squares have been blocked by its own pieces, while the rest have been covered by",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        227.9,
+        726.0,
+        1554.7,
+        783.4
+      ],
+      "text": "the opponent's forces. The sum of these combined factors is known as a mating",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        226.7,
+        787.2,
+        291.6,
+        824.6
+      ],
+      "text": "net.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        231.6,
+        887.0,
+        1000.9,
+        944.3
+      ],
+      "text": "Mating square and focal-point",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        226.7,
+        980.5,
+        1554.7,
+        1031.7
+      ],
+      "text": "The mating square is that on which the king stands when it is mated, and the mat-",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        226.7,
+        1032.9,
+        1553.5,
+        1082.8
+      ],
+      "text": "ing focal-point is that from which an opponent's piece (other than a king, knight",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        227.9,
+        1082.8,
+        1552.3,
+        1132.7
+      ],
+      "text": "or pawn) mates the king at close quarters. Thus in the above diagram, after",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        229.1,
+        1129.0,
+        1554.7,
+        1183.9
+      ],
+      "text": "1...e2 the focal-point is e6, since it is from there that the queen mates at close",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        224.2,
+        1180.1,
+        1553.5,
+        1235.0
+      ],
+      "text": "quarters. Similarly, after 1...gxf5 2 &g7+ e4 the queen mates at close quarters",
+      "confidence": 0.9751
+    },
+    {
+      "bbox": [
+        224.2,
+        1230.0,
+        1551.0,
+        1286.2
+      ],
+      "text": "from d4, and that square is then the focal-point. However, if Black plays, for in-",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        224.2,
+        1281.2,
+        1549.8,
+        1334.8
+      ],
+      "text": "stance, 1...c3 and is answered by 2 &g7#, then we are dealing with a bishop at-",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        226.7,
+        1334.8,
+        1350.1,
+        1382.2
+      ],
+      "text": "tacking from a distance, and here the term ‘focal-point' is not used.",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        268.3,
+        1384.7,
+        1549.8,
+        1438.3
+      ],
+      "text": "To carry out a mating attack successfully it is always useful to survey the pos-",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        223.0,
+        1433.4,
+        1552.3,
+        1492.0
+      ],
+      "text": "sible mating patterns, to prepare a mating net accordingly, and to concentrate on",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        225.4,
+        1485.7,
+        1547.4,
+        1536.9
+      ],
+      "text": "the focal-point. In this connection it is in many cases important to clear the fo-",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        224.2,
+        1536.9,
+        1549.8,
+        1589.3
+      ],
+      "text": "cal-point, that is to deprive any opposing pieces of their control over a square",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        225.4,
+        1585.5,
+        960.5,
+        1633.0
+      ],
+      "text": "which would be convenient as a focal-point.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        268.3,
+        1635.4,
+        1214.1,
+        1687.8
+      ],
+      "text": "The following diagram shows us an example of this (D):",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        269.5,
+        1689.1,
+        1548.6,
+        1737.7
+      ],
+      "text": "White, to move, observes correctly that the square d4 is a potential focal-point",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        224.2,
+        1736.5,
+        1544.9,
+        1790.1
+      ],
+      "text": "and that his queen could mate from there, if it were not for its being controlled by",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        224.2,
+        1788.9,
+        1382.0,
+        1837.5
+      ],
+      "text": "Black's knight and bishop. So he clears the focal-point d4 as follows:",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        263.4,
+        1835.0,
+        1548.6,
+        1891.2
+      ],
+      "text": "1 xe2 (eliminating the knight) 1..dxe2 (if 1..d5, then 2 f4#; if 1...Wc1",
+      "confidence": 0.9455
+    },
+    {
+      "bbox": [
+        220.5,
+        1880.0,
+        1549.8,
+        1948.6
+      ],
+      "text": "then 2 Wd4#, or if 1..f4, then 2 Wd4+ f5 3 Wf6#) 2 f4+ (forcing the bishop",
+      "confidence": 0.9635
+    },
+    {
+      "bbox": [
+        225.4,
+        1942.3,
+        774.3,
+        1983.5
+      ],
+      "text": "away from d4) 2...xf4 3 Wd4#.",
+      "confidence": 0.9209
+    },
+    {
+      "bbox": [
+        265.9,
+        1991.0,
+        1549.8,
+        2044.6
+      ],
+      "text": "Many readers will object that the patterns of mating attack shown here are so",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        224.2,
+        2042.1,
+        1551.0,
+        2092.0
+      ],
+      "text": "obvious, indeed banal, that they need not even have been mentioned. However, I",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        223.0,
+        2093.3,
+        1551.0,
+        2143.2
+      ],
+      "text": "think it is useful to strengthen just this simple kind of knowledge, since in fact",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        223.0,
+        2143.2,
+        1551.0,
+        2191.8
+      ],
+      "text": "there are many mistakes made precisely in this field. Here are a few instances of",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        223.0,
+        2193.1,
+        846.6,
+        2241.7
+      ],
+      "text": "mistakes concerning mating patterns.",
+      "confidence": 0.9782
+    }
+  ]
+}

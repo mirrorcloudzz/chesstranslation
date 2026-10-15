@@ -1,0 +1,280 @@
+{
+  "pdf_page": 316,
+  "printed_page": 316,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "316",
+      "bbox": [
+        234.0,
+        128.0,
+        297.0,
+        159.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        660.0,
+        131.0,
+        1154.0,
+        171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23...Axd4 24 Xxd4 Vf6 25 xcdl",
+      "bbox": [
+        277.0,
+        273.0,
+        839.0,
+        310.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25 Vd3 would have posed Black a more difficult, though still soluble, task.",
+      "bbox": [
+        277.0,
+        322.0,
+        1548.0,
+        373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25...Vh4? is not good because of 26 Vg3 axh2+ 27 #xf2 when Black can only",
+      "bbox": [
+        232.0,
+        372.0,
+        1549.0,
+        426.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "obtain perpetual check with his knight. Instead, Black would have to play",
+      "bbox": [
+        231.0,
+        428.0,
+        1548.0,
+        476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25...Xe8 26 d6 Vh4 (not 26...Äe3? on account of 27 Zd5) 27 Äe4 mxh2+ 28",
+      "bbox": [
+        231.0,
+        474.0,
+        1547.0,
+        521.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "f5 29 Vc4+ 30 xe7 xxe7+ 31 dxe7+ Vxe7+ 32 Qg4+ picking",
+      "bbox": [
+        315.0,
+        524.0,
+        1547.0,
+        577.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "up the rook.",
+      "bbox": [
+        229.0,
+        579.0,
+        425.0,
+        616.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25...Vh4 26 Vd3 27 Äe4 f5 28 xe6 Qxh2+ 29 Vxf4 0-1",
+      "bbox": [
+        274.0,
+        624.0,
+        1394.0,
+        667.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 30 Xfl, then 30...Xad8 31 Xxn Xxe6+ 32 dxe6 Vg4+ wins.",
+      "bbox": [
+        273.0,
+        676.0,
+        1315.0,
+        724.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Capablanca - Kan",
+      "bbox": [
+        713.0,
+        780.0,
+        1055.0,
+        820.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Moscow, 1935",
+      "bbox": [
+        764.0,
+        834.0,
+        1003.0,
+        868.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Queen's Gambit Declined, Orthodox Defence",
+      "bbox": [
+        505.0,
+        881.0,
+        1264.0,
+        919.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 d4 Qf6 2 c4 e6 3 Qc3 d5 4 Qf3 Qbd7 5 Ag5 Ae7 6 e3 0-0 7 c6 8 Ad3",
+      "bbox": [
+        227.0,
+        975.0,
+        1543.0,
+        1024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "dxc4 9 Axc4 Qd5 10 Vxe7 11 0-0 Q5b6?",
+      "bbox": [
+        224.0,
+        1026.0,
+        1047.0,
+        1067.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The main line of this variation is 11...Qxc3 12 Äxc3 e5. Moving the knight to",
+      "bbox": [
+        268.0,
+        1081.0,
+        1541.0,
+        1130.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "b6 is not good, since it neglects to give proper consideration to the central",
+      "bbox": [
+        223.0,
+        1131.0,
+        1541.0,
+        1176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "squares; the result is that White's knights can now become very active there.",
+      "bbox": [
+        223.0,
+        1182.0,
+        1489.0,
+        1228.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 Ab3 13 Qe4!",
+      "bbox": [
+        269.0,
+        1227.0,
+        595.0,
+        1263.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A strong move, which poses Black a difficult task After 13...exd4 14 Vxd4 he",
+      "bbox": [
+        266.0,
+        1282.0,
+        1538.0,
+        1324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "would find himself hard pressed for a satisfactory continuation.",
+      "bbox": [
+        221.0,
+        1332.0,
+        1270.0,
+        1377.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13...h6? (D)",
+      "bbox": [
+        267.0,
+        1381.0,
+        468.0,
+        1420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Creating an unnecessary weakness. Worth considering was the immediate",
+      "bbox": [
+        264.0,
+        1432.0,
+        1537.0,
+        1481.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13...#h8, preparing ...f5. White could then employ the following simplifying",
+      "bbox": [
+        223.0,
+        1478.0,
+        1537.0,
+        1536.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "manoeuvre, probably his most promising course in this position: 14 dxe5 Oxe5",
+      "bbox": [
+        218.0,
+        1537.0,
+        1535.0,
+        1582.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 Qxe5 Vxe5 16 Vd6 Qd7 17 Vxe5 Qxe5 18 Qd6.",
+      "bbox": [
+        222.0,
+        1579.0,
+        1109.0,
+        1623.0
+      ],
+      "confidence": null
+    }
+  ]
+}

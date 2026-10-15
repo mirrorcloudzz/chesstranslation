@@ -1,0 +1,410 @@
+{
+  "pdf_page": 269,
+  "printed_page": 269,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        467.0,
+        131.0,
+        1365.0,
+        175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "269",
+      "bbox": [
+        1503.0,
+        130.0,
+        1566.0,
+        161.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "trouble picking up the rook on h5) 13...Xxh2+ 14 #xh2 (or 14 Xxh2 Vxe4+ fol-",
+      "bbox": [
+        248.0,
+        272.0,
+        1567.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lowed by ...Qh4) 14...Ve5+ 15 •gl Äg3+ 16 (16 Qxg3 Vxg3+ 17",
+      "bbox": [
+        249.0,
+        323.0,
+        1478.0,
+        372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg4 followed by ...Vxe4+, ...c4, etc.) 16...Xf3+ 17 egl (or 17 ég2 Xxf5 18",
+      "bbox": [
+        248.0,
+        374.0,
+        1567.0,
+        423.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "exf5 Ve2+ 19 Xn hf4+) 17...Äxfl+ 18 exfl Vf4+ and White loses either his",
+      "bbox": [
+        249.0,
+        425.0,
+        1568.0,
+        469.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rook or his knight.",
+      "bbox": [
+        249.0,
+        485.0,
+        554.0,
+        522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The second line given by the same commentators aims to show that 8...Äxb3 !",
+      "bbox": [
+        295.0,
+        526.0,
+        1566.0,
+        572.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cannot be answered by 9 Vcl because of 9...Qg4 10 Axf8 Äbb2 1 1 Ag7 Xxg2+",
+      "bbox": [
+        250.0,
+        575.0,
+        1570.0,
+        622.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 Xxh2+ 13 Xxh2 Äxh2+ 14 egl Va2 and Black wins. But if White, in-",
+      "bbox": [
+        255.0,
+        627.0,
+        1569.0,
+        671.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "stead of 1 1 Ag7?, plays I I Vxb2! Äxb2 12 Ag7 then Black loses. Correct after 9",
+      "bbox": [
+        252.0,
+        678.0,
+        1570.0,
+        724.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vcl is at once 9...Xbb2 whereupon IO Axf8 does not work because of 10...Äxg2+",
+      "bbox": [
+        251.0,
+        727.0,
+        1571.0,
+        772.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "II Qg41",
+      "bbox": [
+        256.0,
+        781.0,
+        478.0,
+        825.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now here is my analysis. First of all, let me explain why 9 Axf8? g5! IO Vc l,",
+      "bbox": [
+        297.0,
+        875.0,
+        1570.0,
+        924.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not mentioned by the commentators, does not work. Black replies IO...gxh4 and",
+      "bbox": [
+        253.0,
+        932.0,
+        1572.0,
+        975.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then 11 Vh6 is useless on account of II...Vg4 while II Vg5+ fails against",
+      "bbox": [
+        253.0,
+        977.0,
+        1573.0,
+        1022.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11...#xf8 12 hf5 Äbb2! when White's attack is halted — he cannot get any fur-",
+      "bbox": [
+        257.0,
+        1032.0,
+        1571.0,
+        1072.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ther than Vh6+ and mg7+ because of the threat of mate that faces him on g2 and",
+      "bbox": [
+        253.0,
+        1083.0,
+        1573.0,
+        1126.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "h2. A third possibility is 11 Qf5 Xbb2! 12 Qe7+ Vxe7 13 Vg5+ (if 13 Vxb2",
+      "bbox": [
+        253.0,
+        1129.0,
+        1573.0,
+        1177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then 13...Ve6) 13...#xf8 14 fxe7+ when it can be seen that White has",
+      "bbox": [
+        254.0,
+        1184.0,
+        1573.0,
+        1225.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "achieved nothing. In return for his rooks Black will win the queen and the pawns",
+      "bbox": [
+        254.0,
+        1236.0,
+        1573.0,
+        1277.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on g2 and e7, thus obtaining an advantage in the ending.",
+      "bbox": [
+        254.0,
+        1287.0,
+        1189.0,
+        1328.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The above diagram is a hard nut to crack, and the way to attempt it is as fol-",
+      "bbox": [
+        299.0,
+        1336.0,
+        1573.0,
+        1378.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lows: 9 Vcl! Xbb2! IO Vxb2! Xxb2 II Axf8 g5 12 Äh5 Qg6 13 Ag7. Now",
+      "bbox": [
+        255.0,
+        1382.0,
+        1574.0,
+        1426.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White has the same position as in the first line above but with a tempo less and a",
+      "bbox": [
+        254.0,
+        1438.0,
+        1575.0,
+        1479.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rook more. He wins in the following variations:",
+      "bbox": [
+        254.0,
+        1490.0,
+        1042.0,
+        1529.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1) 13...c4 14 hf5 Äxg2+ (otherwise me7+ wins) 15 #xg21 Vxe4+ 16",
+      "bbox": [
+        304.0,
+        1529.0,
+        1487.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ve5+ 17 g4+ (if 17...Vc3+ the king escapes from the checks on gl) 18",
+      "bbox": [
+        255.0,
+        1586.0,
+        1490.0,
+        1631.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19 v b6+ 20 Xn ! Vt)l+ 21 •g 2 22 # g 3 23 • x g4",
+      "bbox": [
+        378.0,
+        1635.0,
+        1575.0,
+        1680.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vdl+ (or 23...Qe5+ 24 Qf3+ 25 *h6) 24 Xf3! Qe5+ 25 Qxf3+ 26",
+      "bbox": [
+        256.0,
+        1686.0,
+        1576.0,
+        1730.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vd2+ 27 Q)e3 Vd4+ 28 #xf3 and White wins.",
+      "bbox": [
+        336.0,
+        1738.0,
+        1120.0,
+        1774.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) 13...Vg4 14 Xh6 Äb8 (parrying the threat of Xxg6) 15 Xel Äe8 16 Qf5",
+      "bbox": [
+        302.0,
+        1787.0,
+        1575.0,
+        1833.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xxe4 (otherwise Äxg6) 17 Qe7+ Äxe7 18 fxe7 Qxe7 19 Af6 and White wins.",
+      "bbox": [
+        256.0,
+        1838.0,
+        1567.0,
+        1883.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) 13...Xb8 14 hf5 Xe8 (if 14...Vxe4, then a round of checks by the knight —",
+      "bbox": [
+        303.0,
+        1889.0,
+        1577.0,
+        1933.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qh6+, Oxf7+, hh6+, Qf5+ — and finally f 7+ leads to the win of the queen) 15",
+      "bbox": [
+        257.0,
+        1941.0,
+        1575.0,
+        1983.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qh6+ 16 nxf7+ 17 Ve5 18 h4 (or 18...Äf8 19 f7+",
+      "bbox": [
+        257.0,
+        1990.0,
+        1469.0,
+        2031.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20 Äh7#) 19 Xh6 20 f7+ 21 Äxg6+ 22 f8V and again White",
+      "bbox": [
+        258.0,
+        2039.0,
+        1578.0,
+        2084.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "wins.",
+      "bbox": [
+        258.0,
+        2099.0,
+        342.0,
+        2128.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 ! wins straight away.",
+      "bbox": [
+        345.0,
+        2203.0,
+        789.0,
+        2239.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        262.0,
+        2203.0,
+        273.0,
+        2231.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "pdf_page": 111,
+  "printed_page": 111,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        789.0,
+        117.3,
+        1019.3,
+        170.9
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        1484.9,
+        119.8,
+        1559.6,
+        165.9
+      ],
+      "text": "111",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        275.7,
+        267.0,
+        437.4,
+        314.4
+      ],
+      "text": "6 g4 μg8",
+      "confidence": 0.9319
+    },
+    {
+      "bbox": [
+        276.9,
+        315.6,
+        675.1,
+        359.3
+      ],
+      "text": "Or 6...h6 7 xh5, etc.",
+      "confidence": 0.9741
+    },
+    {
+      "bbox": [
+        274.4,
+        366.8,
+        646.9,
+        414.2
+      ],
+      "text": "7 gxf5 gxf5 8 αxh5#.",
+      "confidence": 0.9665
+    },
+    {
+      "bbox": [
+        278.1,
+        422.9,
+        1476.3,
+        460.3
+      ],
+      "text": "In this example it is the resistance on the light squares that is overcome.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        232.8,
+        512.7,
+        428.8,
+        561.4
+      ],
+      "text": "C) 1...We8",
+      "confidence": 0.9087
+    },
+    {
+      "bbox": [
+        275.7,
+        567.6,
+        989.9,
+        613.8
+      ],
+      "text": "Black's queen is hoping to defend from f8.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        274.4,
+        612.5,
+        1557.2,
+        663.7
+      ],
+      "text": "2 αe3 Wf8 3 h3 h6 4 Wd2 h7 5 g5 h5 6 We2 e7 7 Bxh5+! gxh5 8",
+      "confidence": 0.9423
+    },
+    {
+      "bbox": [
+        234.0,
+        664.9,
+        1557.2,
+        714.8
+      ],
+      "text": "Wxh5+ g8 9 f6 g6 10 e1, and Black has no answer to the threat of e3-h3",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        231.6,
+        718.5,
+        725.3,
+        763.5
+      ],
+      "text": "followed by Wh8+ and mate.",
+      "confidence": 0.9774
+    },
+    {
+      "bbox": [
+        275.7,
+        769.7,
+        1167.6,
+        815.9
+      ],
+      "text": "This is an important mating pattern in such positions.",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        235.2,
+        868.2,
+        634.6,
+        909.4
+      ],
+      "text": "D) 1...2e7 2 Wd2 We8",
+      "confidence": 0.9228
+    },
+    {
+      "bbox": [
+        275.7,
+        914.4,
+        1549.8,
+        968.0
+      ],
+      "text": "Or 2...2f5 3 g4 g7 4 Wh6 e8 5 e3, threatening both 6 h3 and 6 Wxh7+.",
+      "confidence": 0.9749
+    },
+    {
+      "bbox": [
+        276.9,
+        969.3,
+        659.1,
+        1010.5
+      ],
+      "text": "3 e3 Wf8 4 h3 c7",
+      "confidence": 0.9619
+    },
+    {
+      "bbox": [
+        278.1,
+        1024.2,
+        977.7,
+        1065.3
+      ],
+      "text": "This position can also arise in variation C.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        278.1,
+        1072.8,
+        568.5,
+        1114.0
+      ],
+      "text": "5 Wg5 b5 6 Wh4",
+      "confidence": 0.9683
+    },
+    {
+      "bbox": [
+        275.7,
+        1120.2,
+        1038.9,
+        1167.6
+      ],
+      "text": "White may also play 6 g4, 7 h6, and 8 Wh4.",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        275.7,
+        1168.9,
+        1465.3,
+        1217.5
+      ],
+      "text": "6..h5 7 Wg5 h7 8 xh5+! gxh5 9 Wxh5+ Wh6 10 Wxf7+ and mate.",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        275.7,
+        1221.3,
+        923.8,
+        1268.7
+      ],
+      "text": "Yet another instructive mating pattern!",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        229.1,
+        1317.3,
+        419.0,
+        1367.2
+      ],
+      "text": "E) 1...f8",
+      "confidence": 0.9763
+    },
+    {
+      "bbox": [
+        273.2,
+        1372.2,
+        1073.2,
+        1419.6
+      ],
+      "text": "The black king tries to slip out of the net via e8.",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        272.0,
+        1417.1,
+        753.5,
+        1470.8
+      ],
+      "text": "2 d2 e8 3 Wh6 e7 (D)",
+      "confidence": 0.9678
+    },
+    {
+      "bbox": [
+        272.0,
+        1470.8,
+        1554.7,
+        1521.9
+      ],
+      "text": "Or 3...d8 4 Wxh7 Wa4 5 Wg8+ $d7 6 Wf8 with a decisive attack on the new",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        227.9,
+        1525.7,
+        518.2,
+        1570.6
+      ],
+      "text": "focal-point at e7.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        539.1,
+        1734.0,
+        572.1,
+        1766.4
+      ],
+      "text": "W",
+      "confidence": 0.9372
+    }
+  ]
+}

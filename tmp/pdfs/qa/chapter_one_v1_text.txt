@@ -1,0 +1,698 @@
+                  《国际象棋中局计划》
+            第一章：威廉·斯坦尼茨的两场胜局
+
+                   英文 OCR 校正稿 + 中文翻译校对稿
+
+
+
+     文档性质      初译校对稿，非最终出版版本
+
+
+     内容范围      原书印刷页 60–67
+
+
+     段落编号      CH1-1 至 CH1-10；左右栏按编号严格对应
+
+
+     棋谱规范      中英文棋谱均采用现代 SAN；黑方单独棋步使用省略号；结果使用 1-0 / 0-1
+
+
+     术语延续      出子、先手、动象 / 动后 / 动马 / 动车、子力、得子 / 失子、弃子、冲起、
+               过渡着等沿用既定规范
+
+
+     版本日期      2026-09-24
+
+
+
+
+重点核对两盘斯坦尼茨—拉斯克例局、全部分析变化，以及“稳固中心后发动侧翼进攻”和“以最少力量取得最大成果”等核心表述。
+
+
+
+
+                               1
+  《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+第一章：威廉·斯坦尼茨的两场胜局
+                        经校正的英文 OCR                                                                    中文译文
+
+CH1-1                                                                            CH1-1
+Two victories of Wilhelm Steinitz                                                威廉·斯坦尼茨的两场胜局
+The main points of his creativity and technique
+                                                                                 其创作与技术的主要特点
+In the present chapter, we present two games which brilliantly reflect the
+chess views of Steinitz—the first strategist-theoretician of the chess           本章将介绍两盘对局，它们鲜明地反映了斯坦尼茨——国际象棋斗争
+struggle. However, we will deliberately illustrate the strategy of Steinitz,
+                                                                                 的第一位战略理论家——的国际象棋观。不过，我们有意不从他的理
+not on the basis of his theoretical reflections, which unfortunately
+sometimes bear a doctrinaire character, but on the basis of his practice, in     论论述入手来说明其战略；那些论述有时难免带有教条色彩。我们将
+the hope that the enormous creative canvas of the great master's chess           依据他的实战，希望这位伟大棋手广阔而富创造性的思想画卷，能促
+thoughts will prompt the reader once more to go deeply into the essence          使读者再次深入理解制定计划这一过程的实质与细节，而本书后续各
+and details of the process of planning, to the investigation of which the
+                                                                                 章正是对此展开研究。
+following chapters of this book are devoted.
+
+In both cases, Steinitz's opponent was Emanuel Lasker.                           两盘棋中，斯坦尼茨的对手都是伊曼纽尔·拉斯克。
+
+                        经校正的英文 OCR                                                                    中文译文
+
+CH1-2                                                                            CH1-2
+Spanish Game                                                                     西班牙开局
+White: W. Steinitz
+Black: Em. Lasker                                                                白方：W. 斯坦尼茨
+(2nd match game, 1894)                                                           黑方：Em. 拉斯克
+                                                                                 （1894年对抗赛第2局）
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3
+
+Already this modest opening move hides within itself the seed of a great         1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3
+strategic plan, which is consistently and clearly realised both in the present
+game and in a number of other chess productions by Steinitz. Its essence         这步看似朴素的开局棋步，已经蕴含着一个宏大战略计划的种子。斯
+lies in the creation of a firm centre by consolidating the e4-pawn and, on
+                                                                                 坦尼茨在本局以及其他不少作品中，都一以贯之、清晰明确地实现了
+this basis, organising an energetic attack on the king's flank. For these
+objectives the queen's knight makes its way along the route                      这个计划。其核心是巩固e4兵，建立稳固中心，再以此为基础对王翼
+Nd2-c4(f1)-e3-f5—a manoeuvre which Steinitz worked out and                       发动有力进攻。为实现这一目标，后翼马沿Nd2-c4（或f1）-e3-f5的
+introduced into widespread practice. Together with this, he sheltered the        路线长途跋涉；这一调动正是斯坦尼茨研究并引入广泛实战的。同时
+king on the queen's flank, though in some cases, as in the present game, it
+                                                                                 ，他通常把王安置在后翼；但在某些对局中——本局便是一例——王
+remains in the centre.
+                                                                                 会留在中心。
+Thus, these opening moves illustrate a definite purposefulness in Steinitz's
+thinking, extending far beyond the bounds of the opening stage. Here             因此，这几步开局棋步体现了斯坦尼茨思考中明确的目的性，而且眼
+Steinitz elucidated two important creative principles which also guide
+                                                                                 光远远超出了开局阶段。他在这里阐明了两条至今仍指导着现代棋手
+present-day masters: a flank attack must be prepared by gaining control of,
+or firmly consolidating, the centre; the basic middlegame plan should            的重要创作原则：发动侧翼进攻之前，必须先控制或牢固地巩固中心
+already be laid down in the opening.                                             ；中局的基本计划在开局阶段就应开始布局。
+
+4... d6 5. c3 Bd7
+                                                                                 4... d6 5. c3 Bd7
+
+By unpinning the knight and then developing the king's bishop on g7,
+Lasker apparently strives to create as much pressure as possible on the          拉斯克先解除对马的牵制，随后准备把王翼象出到g7；显然，他想尽
+d4-point. However, Steinitz does not intend to start a battle in the centre,     量增大对d4点的压力。然而，斯坦尼茨并不打算在中心开战，所以拉
+and therefore the arrangement of forces intended by Lasker proves                斯克所构想的子力配置显得不够积极。
+insufficiently active.
+
+Meanwhile, four years later, in the match game Gunsberg–Chigorin, an             不过四年后，在冈斯贝格—齐果林的一盘对局中，黑方展示了一套颇
+interesting plan of defence was demonstrated for Black, consisting of a          有意思的防守计划：迅速准备中心冲兵……d5。
+very rapid preparation of the central advance ...d5.
+
+                                                                                 6. Ba4
+6. Ba4
+
+
+
+
+                                                                                  2
+  《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                        经校正的英文 OCR                                                                   中文译文
+
+                                                                                象将转移到b3参与王翼进攻，或者转移到c2以巩固中心。
+The bishop is transferred to b3 for an attack on the king's flank, or to c2
+with the aim of consolidating the centre.
+                                                                                6... g6 7. Nbd2 Bg7 8. Nc4 O-O 9. Ne3 Ne7 10. Bb3
+6... g6 7. Nbd2 Bg7 8. Nc4 O-O 9. Ne3 Ne7 10. Bb3                               c6
+c6
+                                                                                黑方还得再花几个先手准备……d5，以此启动中心行动。这便让斯坦尼
+Black has to spend a few more tempi preparing ...d5, which serves as an
+                                                                                茨能够立即亮出自己的“底牌”。
+introduction to operations in the centre. This immediately allows Steinitz
+to show his “cards”.
+
+
+CH1-3                                                                           CH1-3
+11. h4!                                                                         11. h4!
+
+This tactical method—the rook's pawn making very rapid contact with the
+opponent's advanced knight's pawn, thereby opening an attacking line            这种战术手法——车前兵迅速逼近对方已经冲起的马前兵，从而打开
+against the king—is likewise one of the modern methods of operation.            进攻王城的线路——同样也是现代实战中的常用方法之一。
+
+Beginning with this move, Steinitz sets about realising the basic part of his
+                                                                                从这步开始，斯坦尼茨着手实现计划的核心部分：直接进攻黑方易位
+plan: a direct attack on Black's castled position.
+                                                                                后的王城。
+11... Qc7 12. Ng5
+                                                                                11... Qc7 12. Ng5
+White threatens, after 13. h5 Nxh5, to sacrifice the exchange with 14.
+Rxh5.
+                                                                                白方威胁在13. h5 Nxh5后以14. Rxh5弃半子。
+12... d5
+                                                                                12... d5
+Lasker likewise had the reply 12... h6 within his sights, but rejected it
+in view of 13. g4 hxg5 14. hxg5 Nh7 15. Nf5 gxf5 16.
+gxf5 Nxf5 17. Qh5, etc. However, Black could defend successfully                拉斯克也考虑过12... h6，但由于13. g4 hxg5 14. hxg5 Nh7
+by 17... Nh6 18. gxh6 Bf6 19. Bg5! Qd8! (if the knight or                       15. Nf5 gxf5 16. gxf5 Nxf5 17. Qh5等变化而将其放弃。不
+bishop takes on g5, then 20. Qg6+, with unavoidable mate on g7) 20.             过，黑方其实可以用17... Nh6 18. gxh6 Bf6 19. Bg5! Qd8!
+Rg1 Kh8.
+                                                                                成功防守（若马或象吃g5，则20. Qg6+，随后在g7不可避免地将杀）
+
+To be fair, one should add that after 12... h6 White could continue the         20. Rg1 Kh8。
+attack by 13. Qf3. After 13... hxg5 14. hxg5 Nh7 (or 14...
+Nh5) an intricate position arises, requiring great inventiveness and lofty      公平地说，12... h6之后白方还可以用13. Qf3继续进攻。13...
+technique in conducting both attack and defence. In any case, neither
+                                                                                hxg5 14. hxg5 Nh7（或14... Nh5）后形成极其复杂的局面，攻
+Lasker nor Steinitz could have envisaged all the numerous variations over
+the board.
+                                                                                守双方都需要高度的创造力和精湛技术。无论如何，无论拉斯克还是
+                                                                                斯坦尼茨，都不可能在实战中预见所有繁多的变化。
+In the first period of his chess career, Lasker avoided those continuations
+where it was impossible to control events. Steinitz, however, was much          职业生涯早期的拉斯克，往往回避那些无法控制事态发展的后续手段。
+more willing to take risks, particularly when by doing so he could to some
+                                                                                斯坦尼茨却更愿意冒险，尤其是当他能够通过风险在某种程度上阐明
+extent demonstrate his positional principles.
+                                                                                自己的局面原则时。
+The whole question of how far one may take risks on the basis of a general
+evaluation of the position remains unresolved from Steinitz's time to the       究竟能在多大程度上依据对局面的总体判断去冒险，这个问题从斯坦
+present day.
+                                                                                尼茨时代至今仍未得到解决。
+
+                        经校正的英文 OCR                                                                   中文译文
+
+CH1-4                                                                           CH1-4
+13. f3! Rad8 14. g4! dxe4                                                       13. f3! Rad8 14. g4! dxe4
+
+Now 14... h6 no longer creates serious complications for White, in
+view of 15. Qe2 hxg5 16. hxg5 Nh7 (or 16... Ne8 17.                             现在14... h6已无法给白方制造严重困难，因为有15. Qe2 hxg5
+Qh2 f6 18. exd5 cxd5 19. Nxd5 Nxd5 20. Bxd5+ Rf7                                16. hxg5 Nh7（或16... Ne8 17. Qh2 f6 18. exd5 cxd5
+21. Qh7+ Kf8 22. Qxg6 Bc6 23. Qxf7+ Qxf7 24. Bxf7                               19. Nxd5 Nxd5 20. Bxd5+ Rf7 21. Qh7+ Kf8 22. Qxg6
+Kxf7 25. Ke2, and White has a rook and three pawns for a bishop and
+                                                                                Bc6 23. Qxf7+ Qxf7 24. Bxf7 Kxf7 25. Ke2，白方以车和
+knight) 17. Nf5 gxf5 18. Qh2 Re8 19. Qxh7+ Kf8 20.
+                                                                                三兵对黑方象马）17. Nf5 gxf5 18. Qh2 Re8 19. Qxh7+
+
+
+
+                                                                                 3
+  《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                         经校正的英文 OCR                                                                   中文译文
+
+gxf5, and White has an irresistible attack.                                     Kf8 20. gxf5，白方的进攻势不可挡。
+
+15. fxe4 h6
+                                                                                15. fxe4 h6
+All the same, Lasker has to resort to this move. Besides a direct attack by
+Qf3 or h5, White threatened to castle queenside after Qe2 and Bd2 and           拉斯克终究不得不走这一步。白方除了以Qf3或h5直接进攻外，还威胁
+introduce the queen's rook into the battle. Yet Lasker's chosen way does        在Qe2、Bd2之后进行后翼易位，并让后翼车投入战斗。然而拉斯克所
+not achieve its aim, while the position of the black king proves
+                                                                                选的道路未能达到目的，黑王的位置反而受到了破坏。
+compromised.
+
+The opponent would have faced greater difficulties after 15... Qc8,             15... Qc8会给对手制造更大困难：第三次攻击g4兵；若16. Rg1，
+attacking the g4-pawn for a third time, and if 16. Rg1, then only now           此时才走16... h6。为维持进攻，白方将不得不弃掉两匹马：17.
+16... h6. To support the attack, White would have had to sacrifice both
+                                                                                Qf3 hxg5 18. hxg5 Nh7 19. Nf5! gxf5 20. gxf5 Nxf5
+knights: 17. Qf3 hxg5 18. hxg5 Nh7 19. Nf5! gxf5 20.
+gxf5 Nxf5 21. exf5 Bxf5 22. g6 Nf6 23. gxf7+ Rxf7                               21. exf5 Bxf5 22. g6 Nf6 23. gxf7+ Rxf7（23... Kh8
+(worse is 23... Kh8 24. Qg3) 24. Bh6 Ne8 (24... Be6 is                          24. Qg3更差）24. Bh6 Ne8（24... Be6不行，因为有25.
+impossible because of 25. Rxg7+ Rxg7 26. Qxf6) 25. Bxf7+                        Rxg7+ Rxg7 26. Qxf6）25. Bxf7+ Kxf7 26. Qh5+ Kg8
+Kxf7 26. Qh5+ Kg8 27. O-O-O. With the threat of an exchange
+                                                                                27. O-O-O。白方既威胁在g7弃半子，也准备走Rg5或Rdf1，形成危
+sacrifice on g7, as well as Rg5 or Rdf1, White creates a dangerous attack.
+                                                                                险进攻。
+16. Qf3! Be8
+                                                                                16. Qf3! Be8
+The knight, as before, cannot be taken, since after 16... hxg5 17.
+hxg5 Nh7 18. Nf5! gxf5 19. Qh3 Re8 20. Qxh7+ Kf8
+21. gxf5, Black might as well resign.                                           和此前一样，黑方不能吃马，因为16... hxg5 17. hxg5 Nh7
+                                                                                18. Nf5! gxf5 19. Qh3 Re8 20. Qxh7+ Kf8 21. gxf5后，
+17. Bc2 Nd7 18. Nh3                                                             黑方已经可以认输。
+
+A judicious retreat, which nevertheless also contains an idea for the
+further development of the attack.
+                                                                                17. Bc2 Nd7 18. Nh3
+
+
+18... Nc5 19. Nf2                                                               这是一次审慎的退马，其中也蕴含着进一步发展进攻的构想。
+
+White's last move, consolidating the d3-point, testifies to Steinitz's strict
+                                                                                18... Nc5 19. Nf2
+adherence to the principle he formulated: a flank attack can succeed only
+with a firm centre.
+                                                                                白方上一步巩固了d3点，证明斯坦尼茨严格遵守自己提出的原则：只
+The range of activity assigned to the white pieces in this plan is              有中心稳固，侧翼进攻才可能成功。
+interesting. Only three moves ago, the bishop on b3 and the knight on g5
+were spearheaded against f7. Now they switch completely to a defensive
+function. Great flexibility in manoeuvring the pieces was a characteristic      这一计划中，白方各子的活动范围很值得注意。仅仅三步以前，b3象
+trait of Steinitz's play. At the same time, it cannot escape notice that        和g5马还共同指向f7点；现在它们却完全转而承担防守任务。子力调
+Steinitz retains an attacking position on the king's flank and, as further      动富有极大的灵活性，是斯坦尼茨行棋的一项典型特征。同时不难看
+events prove, even decides to launch an attack without mobilising his
+                                                                                出，他仍在王翼保持进攻态势；后来的进程表明，他甚至决定不动员
+reserves on the queen's flank. After Lasker's next move, he simply refrains
+from bringing these reserves into the battle.                                   后翼预备力量便发动进攻。拉斯克的下一步棋之后，他索性不再让这
+                                                                                些预备力量参战。
+
+                         经校正的英文 OCR                                                                   中文译文
+
+CH1-5                                                                           CH1-5
+19... b5                                                                        19... b5
+
+A very cunning idea, aimed at creating a counterattack in the centre and on
+the queen's flank, and counting on the natural 20. Bd2. In that case there      这是一个十分狡猾的构想，意在中心和后翼制造反击，并预期白方自
+would follow 20... b4 21. cxb4 (or 21. O-O-O bxc3 22.                           然地走20. Bd2。届时可续走20... b4 21. cxb4（或21.
+bxc3 Rb8, with initiative on the queen's flank) 21... Ne6! 22.                  O-O-O bxc3 22. bxc3 Rb8，黑方在后翼取得主动）21...
+Bc3 c5 23. bxc5 Nc6!, or 23. b5 Nd4, completely refuting
+                                                                                Ne6! 22. Bc3 c5 23. bxc5 Nc6!，或者23. b5 Nd4，彻底驳
+White's plan. Steinitz unravels Lasker's idea and immediately hurls
+himself into an attack founded on a bold and beautiful knight sacrifice.        倒白方的计划。斯坦尼茨识破了拉斯克的构想，随即扑向进攻；这次
+                                                                                进攻以一次大胆而漂亮的弃马为基础。
+20. g5 h5 21. Nf5! gxf5
+
+                                                                                20. g5 h5 21. Nf5! gxf5
+
+
+
+                                                                                 4
+  《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                         经校正的英文 OCR                                                                      中文译文
+
+
+Now Black has to take the knight, since passive defence offers no hope at        现在黑方不得不吃马，因为消极防守已毫无希望。除了接受弃子，黑
+all. Apart from accepting the sacrifice, the only active possibility was
+                                                                                 方唯一的积极手段是21... f6，但这一步也不成立：22. Nxg7
+21... f6, but this reply is impossible: 22. Nxg7 Kxg7 (22...
+fxg5 23. Nxe8) 23. gxf6+ Rxf6 24. Bh6+ Kf7 25. Qe3,                              Kxg7（22... fxg5 23. Nxe8）23. gxf6+ Rxf6 24. Bh6+
+and Black's position is bad.                                                     Kf7 25. Qe3，黑方局面恶劣。
+
+22. exf5 f6 23. g6 Nxg6
+                                                                                 22. exf5 f6 23. g6 Nxg6
+Obviously forced, in view of the threat Qxh5. As a result of the first
+“bloodshed”, Black has gained a pawn. But an open g-file has appeared on         鉴于白方威胁Qxh5，这显然是被迫的。第一轮“流血”过后，黑方得到
+the board, and White will control it. The g-file is a direct path leading to     了一兵；但棋盘上出现了白方将要控制的开放g线。g线是一条直通黑
+the king's own “palace”. It is precisely this circumstance that is especially
+                                                                                 王“宫殿”的道路，这正是黑方最危险的处境所在。
+threatening for Black.
+
+24. fxg6 Bxg6 25. Rg1                                                            24. fxg6 Bxg6 25. Rg1
+
+How is Black to defend? A retreat of the bishop is met by 26. Bh6; after
+                                                                                 黑方现在怎样防守？象一退，白方便走26. Bh6；若25... Kh7，则
+25... Kh7, there is 26. Rxg6, followed by d4+. If, for example,
+25... Qf7, then 26. Qg3 Bh7 27. Bh6 Rd7 (27... Ne6 28.                           26. Rxg6，随后d4+。例如25... Qf7，则26. Qg3 Bh7 27.
+Bb3) 28. Bxg7 Qxg7 29. Qh2 Bg6 30. d4, with material gain.                       Bh6 Rd7（27... Ne6 28. Bb3）28. Bxg7 Qxg7 29. Qh2
+                                                                                 Bg6 30. d4，白方获得子力。
+25... e4
+
+An interesting attempt to save the position was 25... Bxd3!—a move               25... e4
+to which Chigorin drew attention in his day. After 26. Bxd3 Rxd3!
+27. Nxd3 e4 28. Qxh5 Nxd3+, Black has good chances of at least                   试图挽救局面的一个有趣办法是25... Bxd3!——齐果林当年曾指出
+a draw. If White answers 25... Bxd3 with 26. Bh6, then 26...
+                                                                                 这步棋。若26. Bxd3 Rxd3! 27. Nxd3 e4 28. Qxh5 Nxd3+
+Rf7 27. Bxg7 Rxg7 28. O-O-O Bxc2, and White cannot extract
+anything from the exposed position of the black king.
+                                                                                 ， 黑方至少有很好的和棋机会。如果白方以26. Bh6回应25...
+                                                                                 Bxd3 ，则26... Rf7 27. Bxg7 Rxg7 28. O-O-O Bxc2，白方
+After missing this possibility, whose existence testifies to the complexity      也无法 从黑王暴露的位置中取得实际收益。
+of the struggle, Lasker suffers material loss, after which the game largely
+enters a technical phase.
+                                                                                 拉斯克错过了这个机会；这个机会本身也说明战局极其复杂。此后黑
+                                                                                 方遭受子力损失，对局在很大程度上转入技术阶段。
+
+                         经校正的英文 OCR                                                                      中文译文
+
+CH1-6                                                                            CH1-6
+26. dxe4 Kh7                                                                     26. dxe4 Kh7
+
+Or 26... Qf7 27. b4 Ne6 28. Bb3 Rfe8 29. Nh3, with the
+knight invading on f4.                                                           或者26... Qf7 27. b4 Ne6 28. Bb3 Rfe8 29. Nh3，白马将
+                                                                                 侵入f4。
+27. Rxg6! Kxg6 28. Qf5+ Kf7 29. Qxh5+ Kg8 30. Qxc5
+
+                                                                                 27. Rxg6! Kxg6 28. Qf5+ Kf7 29. Qxh5+ Kg8 30. Qxc5
+White not only has a bishop, knight and pawn for the rook—which in
+itself is sufficient for victory—but also creates direct threats. His two
+bishops operate very powerfully. The crushing 31. Bb3+ is now                    白方以象、马和一兵对黑车，这本身已经足以取胜；此外，他还制造
+threatened.                                                                      了直接威胁。双象威力极大，眼下威胁致命的31. Bb3+。
+
+30... Qe5 31. Be3 a6 32. a4
+                                                                                 30... Qe5 31. Be3 a6 32. a4
+Bringing the queenside reserves into the battle immediately decides the
+game.                                                                            后翼预备力量一投入战斗，对局便立即结束。
+
+32... Rfe8 33. axb5 axb5 34. Qxe5 Rxe5 35. Ra6
+                                                                                 32... Rfe8 33. axb5 axb5 34. Qxe5 Rxe5 35. Ra6
+Invasion! Curiously, the energetic introduction of the rook on a6 is its first
+and last action in this game. One move only! The rook paralyses the              侵入！有趣的是，车强有力地进入a6，竟是它在本局中的第一次、也
+opponent's forces and thereby proves a powerful support for the
+                                                                                 是最后一次行动。只走一步！这辆车瘫痪了对方子力，从而有力支援
+concluding attack by White's minor pieces. It is also interesting that the
+                                                                                 了白方轻子最后的进攻。同样值得注意的是，王翼车总共也只走了两
+
+
+
+                                                                                  5
+  《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                        经校正的英文 OCR                                                                 中文译文
+
+king's rook makes only two moves in all: Rg1xg6.                              步：Rg1xg6。
+
+Minimum strength, maximum achievement! This is the principle of
+                                                                              以最少的力量取得最大的成果！斯坦尼茨在理论著作中一再谈到这一
+economy which Steinitz repeatedly discussed in his theoretical works and
+demonstrated many times in his own games.                                     节约原则，也在自己的对局中多次亲自示范。
+
+35... Rc8 36. Ng4 Re7 37. Bc5 Ree8 38. Ne3 Bf8 39.                            35... Rc8 36. Ng4 Re7 37. Bc5 Ree8 38. Ne3 Bf8 39.
+Bd4 Kf7 40. h5 Be7 41. Bb3+ Kf8 42. Nf5
+                                                                              Bd4 Kf7 40. h5 Be7 41. Bb3+ Kf8 42. Nf5
+In conclusion the “eternal knight” appears on the scene. Under its cover,
+and with the assistance of the excellently placed bishop, a free path opens   最后，“铁马”登场了。在它的掩护下，加上位置绝佳的象相助，h兵通
+for the h-pawn to the cherished h8-square. Therefore, 1-0.                    往梦寐以求的h8格之路已经畅通。因此黑方认输，1-0。
+
+                        经校正的英文 OCR                                                                 中文译文
+
+CH1-7                                                                         CH1-7
+Queen's Gambit                                                                后翼弃兵
+White: W. Steinitz
+Black: Em. Lasker                                                             白方：W. 斯坦尼茨
+(St Petersburg, 1895/96)                                                      黑方：Em. 拉斯克
+                                                                              （圣彼得堡，1895/96年）
+1. d4
+
+Steinitz inflicted a great many defeats on his contemporaries with this       1. d4
+opening. This was of course not due to the first move itself, but to the
+well-composed, purposeful plans which Steinitz persistently and logically     斯坦尼茨曾用这个开局击败许多同时代棋手。当然，决定胜负的并非
+carried out in this opening.
+                                                                              第一步本身，而是他在这一开局中始终坚持、合乎逻辑地贯彻那些构
+1... d5 2. c4 e6 3. Nc3 Nf6 4. Bf4                                            思周密、目的明确的计划。
+
+Steinitz also played 4. Bg5 here—a move he employed as far back as            1... d5 2. c4 e6 3. Nc3 Nf6 4. Bf4
+1873 at the international tournament in Vienna against Anderssen.
+
+4... Be7                                                                      斯坦尼茨在这里也下过4. Bg5；早在1873年维也纳国际大赛对安德森
+                                                                              的比赛中，他就采用过这步棋。
+A colourless reply which ignores the opponent's plan and allows White, as
+in the previous game, to create a firm centre and then launch an energetic
+                                                                              4... Be7
+attack on the flank.
+
+Meanwhile, Black had at least two active replies to Steinitz's plan: an       这是一种平淡无奇的应对，没有理会对手的计划；与上一局一样，它
+immediate ...c5, undermining White's influence over e5, and the               让白方得以建立稳固中心，随后在侧翼发动有力进攻。
+well-known attack on c3 by ...c6, ...Qa5 and ...Bb4. The latter appears in
+opening theory under the name of the Cambridge Springs system and
+gains still more force with the bishop on f4 instead of g5.
+                                                                              其实，黑方至少有两种积极回应斯坦尼茨计划的办法：立即冲起……c5
+                                                                              ，削弱白方对e5点的控制；或者用……c6、……Qa5和……Bb4攻击c3点。
+5. e3 O-O 6. c5!                                                              这种打法在开局理论中称为剑桥泉体系；当白象位于f4而非g5时，黑
+                                                                              方的攻击还会更有力。
+White's plan, based on 4. Bf4, becomes quite distinct. He prevents the
+counterattack ...c5 and establishes a solid formation in the centre.
+                                                                              5. e3 O-O 6. c5!
+In advancing the pawn to c5, Steinitz had to weigh carefully the
+opponent's undermining moves ...b6 and ...e5. He was probably convinced       白方以4. Bf4为基础的计划至此已经十分清楚：阻止……c5反击，并
+by the variation 6... b6 7. b4 a5 8. a3, when Black cannot
+                                                                              在中心建立牢固阵形。
+loosen the advanced post on c5.
+
+6... Ne4                                                                      斯坦尼茨把兵冲到c5时，必须仔细权衡对手以……b6或……e5冲兵突破
+                                                                              的可能。他大概已经确信变化6... b6 7. b4 a5 8. a3对白方有
+Black threatens, after 7. Nf3 or 7. Bd3, to exchange on c3 and then
+                                                                              利，因为黑方无法动摇c5前哨。
+begin undermining by ...b6. If White exchanges on e4 himself, Black
+prevents the development of White's knight on f3 and thereby weakens his
+pressure on e5. Yet Lasker's reasoning is not particularly far-sighted.       6... Ne4
+Black's pawn, transferred to e4, becomes the object of the f3 break.
+
+
+
+
+                                                                               6
+  《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                        经校正的英文 OCR                                                               中文译文
+
+Besides this, c4 is freed for the white bishop, where it takes up a        黑方威胁在7. Nf3或7. Bd3后于c3交换，继而以……b6冲兵突破。若
+convenient attacking position.                                             白方主动在e4交换，黑方便阻止白马出到f3，从而减轻白方对e5点的
+                                                                           压力。然而拉斯克的考虑并不够深远：黑兵转移到e4后，会成为f3冲
+Black should concentrate his attention on the central e5-point. For this
+purpose it was necessary to play 6... c6, preparing to develop the         兵突破的目标；此外，c4格也让给了白象，使它得以占据适合进攻的
+queen's knight on d7 (if at once 6... Nbd7, then 7. Nb5 forces the         位置。
+other knight to retreat to e8). The game might develop as follows: 6...
+c6 7. Nf3 Nbd7 8. Bd3 Nh5, and then, according to
+                                                                           黑方本应把注意力集中在中心e5点上。为此有必要走6... c6，准备
+circumstances, ...f5 or ...Nxf4.
+                                                                           把后翼马出到d7（若立即6... Nbd7，7. Nb5会迫使另一匹马退到
+                                                                           e8）。对局可能这样发展：6... c6 7. Nf3 Nbd7 8. Bd3 Nh5
+                                                                           ，随后视情况走……f5或……Nxf4。
+
+
+CH1-8                                                                      CH1-8
+7. Nxe4 dxe4 8. Qc2 f5 9. Bc4 Nc6 10. a3                                   7. Nxe4 dxe4 8. Qc2 f5 9. Bc4 Nc6 10. a3
+
+Alongside the purposeful execution of the main line of his plan, White
+displays healthy foresight. Black threatened to neutralise the dangerous   在有目的地贯彻计划主线的同时，白方也表现出稳健的预见性。黑方
+bishop with ...Na5, to which White can now reply 11. Ba2.                  威胁用……Na5化解这枚危险象；如今白方可以用11. Ba2回应。
+
+10... Bf6 11. O-O-O Kh8
+                                                                           10... Bf6 11. O-O-O Kh8
+This and the following move prepare the advance ...e5. Only in this way
+can Black do something against the f3 break.                               这一步和下一步都在准备冲起……e5。只有这样，黑方才能应对f3冲兵
+                                                                           突破。
+12. f3 Qe7!
+
+Very cleverly played, setting White a serious problem. After 13. fxe4      12. f3 Qe7!
+follows 13... e5, and if 14. d5, then 14... exf4 15. dxc6
+Qxc5, when Black already has the initiative.                               下得十分巧妙，给白方出了一道难题。13. fxe4后有13... e5；若
+                                                                           14. d5，则14... exf4 15. dxc6 Qxc5，黑方已经取得主动权。
+13. Bg3
+
+So that after 13... e5 White can reply 14. d5 Na5 15. Ba2.
+                                                                           13. Bg3
+13... f4
+
+This advance looks promising. Thus, if 14. Bxf4, then 14... e5             这样，13... e5后白方可以走14. d5 Na5 15. Ba2。
+15. dxe5 Nxe5 16. Qxe4 Bf5! 17. Qxf5 Nxc4, with a
+winning attack. However, Steinitz has prepared a surprise for his          13... f4
+opponent.
+
+14. Qxe4!
+                                                                           这次冲兵看起来很有希望。例如，若14. Bxf4，则14... e5 15.
+                                                                           dxe5 Nxe5 16. Qxe4 Bf5! 17. Qxf5 Nxc4，黑方获得胜势进
+A beautiful sacrifice which Black is forced to accept. White gets two      攻。不过，斯坦尼茨已经为对手准备了一个惊喜。
+pawns for the bishop, retains control of the centre by virtue of his
+inviolable, solid eight-pawn chain and, most importantly, obtains a very
+                                                                           14. Qxe4!
+dangerous attack on the opponent's king in connection with the open
+h-file.
+                                                                           漂亮的弃子，黑方不得不接受。白方用一象换得两兵；完整坚固的八
+14... fxg3 15. hxg3                                                        兵链使他仍然控制着中心，而最重要的是，开放的h线使他能够对敌王
+                                                                           发起极其危险的进攻。
+
+
+                                                                           14... fxg3 15. hxg3
+
+                        经校正的英文 OCR                                                               中文译文
+
+CH1-9                                                                      CH1-9
+15... g6                                                                   15... g6
+
+For defensive reasons, Black decides to give up another pawn. Indeed,
+after 15... h6 there follows 16. Bd3, or 16. f4 Bd7 17. Nf3                出于防守需要，黑方决定再弃一兵。事实上，15... h6后有16.
+
+
+
+                                                                            7
+  《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                        经校正的英文 OCR                                                                    中文译文
+
+and then g4. Also unsatisfactory is 15... g5. In this case Steinitz, in his     Bd3，或者16. f4 Bd7 17. Nf3，接着g4。15... g5同样不能令
+own words, intended 16. f4 g4 17. Ne2 Bd7 18. Qc2,                              人满意。斯坦尼茨本人说，他准备在这种情况下走16. f4 g4 17.
+threatening e4-e5. Doubling the rooks on the h-file would also be
+                                                                                Ne2 Bd7 18. Qc2，威胁e4-e5，同时还准备在h线上叠车。
+threatened.
+
+16. Qxg6 Bd7                                                                    16. Qxg6 Bd7
+
+16... e5 is bad because of d5-d6.
+                                                                                16... e5不好，因为有d5-d6。
+17. f4 Rf7 18. g4 Rg7 19. Qh6 Rxg4 20. Bd3 Rg7 21.
+Nf3 Qf7 22. g4 Rag8                                                             17. f4 Rf7 18. g4 Rg7 19. Qh6 Rxg4 20. Bd3 Rg7 21.
+                                                                                Nf3 Qf7 22. g4 Rag8
+Black could not take the pawn, since after 23. Qxh7+ he loses the
+bishop on d7.
+                                                                                黑方不能吃兵，因为23. Qxh7+后会丢掉d7象。
+23. g5 Bd8 24. Rh2!
+                                                                                23. g5 Bd8 24. Rh2!
+This is considerably stronger than winning the exchange by 24. g6. The
+threat Rdh1 is irresistible.
+                                                                                这比用24. g6赢得半子强得多。Rdh1的威胁无可抵挡。
+24... Rg6 25. Qh5 R6g7 26. Rdh1 Qxh5 27. Rxh5 Rf8
+28. Rxh7+ Rxh7                                                                  24... Rg6 25. Qh5 R6g7 26. Rdh1 Qxh5 27. Rxh5 Rf8
+                                                                                28. Rxh7+ Rxh7
+Or 28... Kg8 29. Rxg7+ Kxg7 30. Rxh7+, and the bishop on
+d7 is lost.
+                                                                                或者28... Kg8 29. Rxg7+ Kxg7 30. Rxh7+，黑方将丢掉d7象。
+29. Rxh7+ Kg8 30. Rxd7 Rf7 31. Bc4! 1-0
+
+In view of the loss of a fourth pawn after 31... Rxd7 32. Bxe6+
+Rf7 33. g6.
+                                                                                29. Rxh7+ Kg8 30. Rxd7 Rf7 31. Bc4! 1-0
+
+
+The whole game might serve as an example of a concrete plan and the             因为31... Rxd7 32. Bxe6+ Rf7 33. g6后，黑方将丢掉第四个
+harmony of active forces in the attack on h7.                                   兵。
+
+
+                                                                                整盘棋堪称具体计划以及进攻h7点时各子和谐配合的范例。
+
+
+CH1-10                                                                          CH1-10
+Both games are distinguished by clear, purposeful thinking. In them,            两盘棋都具有思路清晰、目的明确的特点；斯坦尼茨的行棋本身已经
+Steinitz's play speaks for itself. Nevertheless, in concluding this opening
+                                                                                说明了一切。不过，在结束这篇开篇章节之前，我们仍想提醒读者：
+chapter, we wish to recall the skill with which Steinitz handled the pawns
+and how economically he expended the energy of his pieces.                      斯坦尼茨运兵技巧高超，使用子力也极其节约。
+
+Minimum effort with maximum achievement! Repeating this creative                以最少的力量取得最大的成果！在制定对局计划时重温斯坦尼茨这句
+slogan of Steinitz when planning a game, one may say that, despite the
+                                                                                创作口号，我们可以说，尽管时代不断变迁，它至今仍书写在国际象
+passage of time, it remains inscribed on the creative banner of chess art
+even today.                                                                     棋艺术的创作旗帜上。
+
+Steinitz's handbook The Modern Chess Instructor gives us an interesting         斯坦尼茨的著作《现代国际象棋教练》对兵有过一段颇有意思的论述
+statement about pawns:
+                                                                                ：
+“The skilful handling of pawns constitutes one of the most important
+methods of activity in the chess struggle. The loss of a pawn is fatal in the   “善于运兵，是国际象棋斗争最重要的行动方法之一。失去一兵在大多
+majority of cases if it is not compensated by a strong—and in any case          数情况下都足以致命，除非己方子力的配置强大，而且无论如何都优
+better than the opponent's—arrangement of pieces. Not only weak pawns,
+                                                                                于对手，足以作出补偿。不仅弱兵会时常导致失败；敌方棋子可以占
+but also weak squares on which enemy pieces can be placed, frequently
+entail defeat. Only the ability to handle the pawns can avert such              据的弱格，同样会造成败局。只有善于运兵，才能避免让对手获得这
+favourable positional features for the opponent.”                               种有利的局面因素。”
+
+There is no need to discuss this thought, which is so thoroughly in keeping
+                                                                                这段思想与我们这个时代如此契合，已无须再作讨论。
+with our own times.
+
+
+
+
+                                                                                 8
+《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+附录：原扫描页
+以下扫描页保留原书棋盘图、版面和旧式记谱，用于核对 OCR、棋谱与译文。
+
+
+
+
+                              9
+《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                          原书印刷页 60
+
+
+
+
+                              10
+《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                          原书印刷页 61
+
+
+
+
+                              11
+《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                          原书印刷页 62
+
+
+
+
+                              12
+《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                          原书印刷页 63
+
+
+
+
+                              13
+《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                          原书印刷页 64
+
+
+
+
+                              14
+《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                          原书印刷页 65
+
+
+
+
+                              15
+《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                          原书印刷页 66
+
+
+
+
+                              16
+《国际象棋中局计划》｜第一章｜斯坦尼茨的两场胜局｜中英文对照校对稿
+
+
+
+
+                          原书印刷页 67
+
+
+
+
+                              17
+

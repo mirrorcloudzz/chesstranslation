@@ -1,0 +1,1497 @@
+[
+  {
+    "chapter": 8,
+    "page": 217,
+    "side": "full",
+    "kind": "title",
+    "text": "The Two Bishops",
+    "zh": "双象",
+    "segment_id": "CH8-1"
+  },
+  {
+    "page": 217,
+    "side": "left",
+    "kind": "body",
+    "text": "It is generally well-known that the relative strength of the pieces is a variable value which can both increase or decrease depending on the arrangement of other pieces and the dynamics of the position.",
+    "chapter": 8,
+    "segment_id": "CH8-2",
+    "zh": "众所周知，棋子的相对强度是一个可变值，它可以根据其他棋子的排列和位置的动态而增加或减少。"
+  },
+  {
+    "page": 217,
+    "side": "left",
+    "kind": "body",
+    "text": "The rook and bishop on open lines, the knight established on a weak square - all these factors increase the power of piece activity. The \"eternal\" knight is such a threatening force that, for the most part, it is equivalent to an extra exchange for the opponent. The unfailing question of amateurs as to which is the stronger - knight or bishop, is met by the stereotyped reply: in one position the bishop is stronger, in another - the knight. It all depends s on what pawn material is on the board, what is its structure and what positions, in the first instance, the pieces, comparative in strength, are occupying. It goes without saying, the position of the other pieces must likewise be taken into account.",
+    "chapter": 8,
+    "segment_id": "CH8-3",
+    "zh": "开放线路上的车和象，建立在弱格上的马 - 所有这些因素都增加了子力活动的能力。“永恒”马是一种具有如此威胁性的力量，在很大程度上，它相当于给对手额外的交换。业余爱好者总是会问马或象哪个更强，但得到了刻板的回答：在一个位置上象更强，在另一个位置上 - 马。这一切都取决于板上的兵材料、其结构是什么以及首先，相对强度的棋子占据什么位置。不言而喻，另一个棋子的位置也必须同样考虑在内。"
+  },
+  {
+    "page": 217,
+    "side": "left",
+    "kind": "body",
+    "text": "Among those pieces whose strength increases appreciably depending on the features of the position and the harmony of activity, the two bishops have attracted particular attention since the beginning of the century.",
+    "chapter": 8,
+    "segment_id": "CH8-4",
+    "zh": "在这些棋子中，其力量根据位置特征和活动的和谐程度而明显增加，双象自本世纪初以来特别受到关注。"
+  },
+  {
+    "page": 217,
+    "side": "right",
+    "kind": "body",
+    "text": "In a number of games, according to the positional conditions, the two bishops were able to show themselves as a threatening force, exceeding the power of two other minor pieces and sometimes even a rook and minor piece.",
+    "chapter": 8,
+    "segment_id": "CH8-5",
+    "zh": "在多场对局中，根据位置条件，双象能够展现出自己的威胁力量，超过另外两个轻子，有时甚至超过车和轻子。"
+  },
+  {
+    "page": 217,
+    "side": "right",
+    "kind": "body",
+    "text": "Steinitz, the founder-teacher of positional play, seemed to be carried away with the effectiveness of the harmonious activity of the two bishops and called this \"the advantage of the two bishops\". The two bishops figure here, as also in many other evaluations, as an abstract positional factor, embodying one aspect of the advantage.",
+    "chapter": 8,
+    "segment_id": "CH8-6",
+    "zh": "局面型下法的创始人兼教师斯坦尼茨似乎对双象和谐活动的有效性着迷，并称其为“双象的优势”。这里的双象数字，以及许多其他评估中的一样，作为一个抽象的位置因素，体现了优势的一个方面。"
+  },
+  {
+    "page": 217,
+    "side": "right",
+    "kind": "body",
+    "text": "The first to come out decisively against this view was Chigorin. He expounded his views on this question very thoroughly in polemics with Em.Lasker, when the world champion's book Common Sense in Chess was published in 1896. Lasker gave this bold name to a collection of twelve lectures which he had given before an audience of London chessplayers. There is no place here to assess the merits and demerits of this work which, though pretentious, undoubtedly deserves attention. However, we recall it solely in connection with one position, on account of which arose a dispute between Chigorin and Lasker on the question which interests us about the two bishops.",
+    "chapter": 8,
+    "page_end": 218,
+    "segment_id": "CH8-7",
+    "zh": "第一个坚决反对这种观点的是齐果林。当世界冠军的书《国际象棋常识》于 1896 年出版时，他在与拉斯克的争论中非常彻底地阐述了他对这个问题的看法。 拉斯克为他在伦敦棋手观众面前发表的十二个演讲集起了这个大胆的名字。这里没有地方评估这部作品的优点和缺点，尽管它自命不凡，但无疑值得关注。然而，我们只记得它与一个立场有关，由于该立场，齐果林和拉斯克之间就我们对双象感兴趣的问题产生了争议。"
+  },
+  {
+    "page": 218,
+    "side": "left",
+    "kind": "body",
+    "text": "In the fourth lecture, Lasker chose as the subject of his talk, the opening theme - the Evans Gambit. In particular, he presented the following variation: 1 e4 e5 2 Nf3",
+    "chapter": 8,
+    "segment_id": "CH8-8",
+    "zh": "在第四堂课中，拉斯克选择了开场主题——埃文斯策略作为演讲主题。他特别提出了以下变体： 1 e4 e5 2 Nf3"
+  },
+  {
+    "page": 218,
+    "side": "left",
+    "kind": "moves",
+    "text": "Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. O-O Bb6 8. dxe5 dxe5 9 Qb3. Qf6 10. Bd5 Nge7 11. Bg5 Qg6 12. Bxe7 Kxe7 13. Bxc6 Qxc6 14 Nxe5. Qe6 15. Qa3+.",
+    "chapter": 8,
+    "page_end": 218,
+    "segment_id": "CH8-9",
+    "zh": "Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. O-O Bb6 8. dxe5 dxe5 9 Qb3. Qf6 10. Bd5 Nge7 11. Bg5 Qg6 12. Bxe7 Kxe7 13. Bxc6 Qxc6 14 Nxe5. Qe6 15. Qa3+."
+  },
+  {
+    "page": 218,
+    "side": "left",
+    "kind": "body",
+    "text": "Lasker estimated this position, after the possible replies 15 ... Kf6 or 15 5 ... c5, in Black's favour, since he has, in his own words, two bishops, excellent development of forces and a strong position.",
+    "chapter": 8,
+    "segment_id": "CH8-10",
+    "zh": "拉斯克在可能的答复 15。。。 Kf6 或 15 5。。。 c5 后估计了这个位置，对黑方有利，因为用他自己的话说，他拥有双象出色的力量发展和强大的地位。"
+  },
+  {
+    "page": 218,
+    "side": "left",
+    "kind": "body",
+    "text": "We give Chigorin's objection to this assessment which appeared on 30January 1897 in the（ chess column of the newspaper Novoe Vremya: \"By indicating the two bishops, Herr Lasker naturally gives the understanding that the two bishops are superior in strength to the two knights. Consequently, taking into account also the excellent development of forces and the \"strong\" position, the Black player has a significant advantage over the opponent and every chance of victory. However, the assessment of the position, made by Herr Lasker, in my opinion is totally subjective eand hardly proves to be correct in practice. He e not only does not confirm this, even if only with a superficial analysis of the position, but also explains nothing to the amateur who is interested more in the question: in what way can the two bishops show their \"strength\" over two knights in the present position, and what role will they play?",
+    "chapter": 8,
+    "page_end": 218,
+    "segment_id": "CH8-11",
+    "zh": "我们对齐果林对这一评估的反对意见发表在1897年1月30日《Novoe Vremya》报纸的国际象棋专栏中：“通过指出双象，拉斯克先生自然地给出了这样的理解：双象在力量上优于两个马。因此，还考虑到力量的出色发展在“强”位置上，黑方对对手有显着的优势，并且有获胜的机会。然而，在我看来，Herr 拉斯克对位置的评估完全是主观的，并且在实践中很难证明是正确的。他不仅没有证实这一点，即使只是对位置进行了肤浅的分析，而且也没有向那些对双象更感兴趣的问题解释什么。在目前的位置上有超过两个马的“力量”，他们将扮演什么角色？"
+  },
+  {
+    "page": 218,
+    "side": "right",
+    "kind": "body",
+    "text": "It is interesting that the position reached in Herr Lasker's variation can also be obtained in the practical game. Therefore, being personally y interested in it, I endeavoured to investigate it. But my analysis led to a completely opposite conclusion, i.e. that all the advantages in the position are to be found on White's side. It would hardly be a mistake to say that detailed analysis and practice will prove that Black's position is even irreparable.",
+    "chapter": 8,
+    "segment_id": "CH8-12",
+    "zh": "有趣的是，Herr 拉斯克的变体所达到的位置也可以在实际对局中获得。因此，出于个人的兴趣，我努力进行调查。但我的分析却得出了完全相反的结论，即局面上的所有优势都在白方这边。可以说，经过详细的分析和实践，黑方的局面甚至是不可挽回的。"
+  },
+  {
+    "page": 218,
+    "side": "right",
+    "kind": "body",
+    "text": "Here are some variations. Herr Lasker considers that Black, by playing ... Kf6 or ... c5 on the 15th move, will have all the advantages about which he spoke. Upon the move of the king to f6, White, of course, retreats the knight to f3... On 16 ... g6, White replies 17 c4 with a double threat",
+    "chapter": 8,
+    "segment_id": "CH8-13",
+    "zh": "这里有一些变化。拉斯克先生认为，黑方通过在第 15 步下棋。。。 Kf6 或。。。 c5，将拥有他所说的所有优势。当王移动到f6时，白方当然将马撤退到f3。。。在16。。。g6上，白方以双重威胁回复17c4"
+  },
+  {
+    "page": 218,
+    "side": "right",
+    "kind": "moves",
+    "text": "(c5 and Qb2+). On 16 ... Rd8,",
+    "chapter": 8,
+    "segment_id": "CH8-14",
+    "zh": "（c5 和 Qb2+）。16 日。。。 Rd8，"
+  },
+  {
+    "page": 218,
+    "side": "right",
+    "kind": "body",
+    "text": "White also replies 17 c4 with the same threat, or 17 Nbd2 (17 .. Rd3 18 Qb2). After the moves 16",
+    "chapter": 8,
+    "segment_id": "CH8-15",
+    "zh": "白方还以相同的威胁回复 17 c4，或 17 Nbd2 (17。。 Rd3 18 Qb2)。动作16后"
+  },
+  {
+    "page": 218,
+    "side": "right",
+    "kind": "moves",
+    "text": ".. Bd7 17. Nbd2 Bc6 18. Nd4 the",
+    "chapter": 8,
+    "segment_id": "CH8-16",
+    "zh": "。。 Bd7 17. Nbd2 Bc6 18. Nd4"
+  },
+  {
+    "page": 218,
+    "side": "right",
+    "kind": "body",
+    "text": "\"advantage of the two bishops' disappears. However, the position of the Black king allows White to launch a direct attack on it.",
+    "chapter": 8,
+    "segment_id": "CH8-17",
+    "zh": "“双象”的优势消失了。然而，黑方王的位置允许白方对其发起直接攻击。"
+  },
+  {
+    "page": 218,
+    "side": "right",
+    "kind": "body",
+    "text": "I looked in more detail at the position after the move 15 ... c5: In this position White plays 16 f4! and, after the moves c4 and Nc3, the knight will occupy a really strong position on d5, Black can only eliminate this knight by capturing it with a piece of higher value.",
+    "chapter": 8,
+    "page_end": 219,
+    "segment_id": "CH8-18",
+    "zh": "我更详细地查看了第 15 步之后的位置。。。 c5：在这个位置上，白方下 16 f4!，并且在 c4 和 Nc3 之后，马将在 d5 上占据一个非常强大的位置，黑方只能通过用棋子具有更高的价值。"
+  },
+  {
+    "page": 219,
+    "side": "left",
+    "kind": "moves",
+    "text": "16. f4",
+    "chapter": 8,
+    "segment_id": "CH8-19",
+    "zh": "16. f4"
+  },
+  {
+    "page": 219,
+    "side": "left",
+    "kind": "body",
+    "text": "I did not find any good moves through which Black could have unravelled his forces. After 16 .. f617 Nf3 followed by f5,c4 (which Black could only temporarily prevent by retreating with the queen to f7), Nc3-d5, White will undoubtedly find himself in the better position. Upon the move 16 ... Bd7, however, White could immediately deprive Black of that strength, which Herr Lasker sees it as; but it is better for White, in my opinion, to carry out his plan by playing c4, Nc3, etc. On other moves for Black: with the king, queen or one of the pawns, White almost invariably fulfils his plan, as also upon the move 16 .. Rd8, the consequences of which I mainly looked at...",
+    "chapter": 8,
+    "segment_id": "CH8-20",
+    "zh": "我没有找到任何好的棋法可以让黑方瓦解他的兵力。在 16。。 f617 Nf3 之后是 f5、c4（黑方只能通过后撤退到 f7 来阻止先手）、Nc3-d5，白方无疑会发现自己处于更好的位置。然而，在第 16 步。。。 Bd7 上，白方可以立即剥夺黑方的力量，正如 Herr 拉斯克所认为的那样；但在我看来，白方最好通过下 c4、Nc3 等来执行他的计划。在黑方的其他步中：使用王、后或兵之一，白方几乎总是会实现他的计划，同样在步 16。。 Rd8 上，其后果我主要是看。。。"
+  },
+  {
+    "page": 219,
+    "side": "left",
+    "kind": "moves",
+    "text": "16 ... Rd8 17. c4",
+    "chapter": 8,
+    "segment_id": "CH8-21",
+    "zh": "16 ... Rd8 17. c4"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "body",
+    "text": "As I have already said, White could obtain an excellent position after the moves Nf3 and f5 or Nd2 etc., but I want to present variations in which the strength of the knight on the d5 square becomes clear by visual demonstration.",
+    "chapter": 8,
+    "segment_id": "CH8-22",
+    "zh": "正如我已经说过的，白方在Nf3和f5或Nd2等走法之后可以获得一个极好的位置，但我想呈现一些变化，其中马在d5格上的强度通过视觉演示变得清晰。"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "moves",
+    "text": "17 ... f6 18. Nc3 fxe5 19. Nd5+",
+    "chapter": 8,
+    "segment_id": "CH8-23",
+    "zh": "17 ... f6 18. Nc3 fxe5 19. Nd5+"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "body",
+    "text": "Kf8",
+    "chapter": 8,
+    "segment_id": "CH8-24",
+    "zh": "Kf8"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "body",
+    "text": "Black, obviously, does not save the game with a sacrifice of the rook for the knight: 19 ... Rxd5 20 exd5 Q-? 21 fxe5, followed by e6.",
+    "chapter": 8,
+    "segment_id": "CH8-25",
+    "zh": "显然，黑方不会用车的弃子保存对局马： 19。。。 Rxd5 20 exd5 Q-？21 fxe5，然后是 e6。"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "body",
+    "text": "Upon the retreat of the king to e8, follows 20 Rab1! Bd7 (20 .. Rb8 21 Rxb6!; however White also threatens this after the next move)",
+    "chapter": 8,
+    "segment_id": "CH8-26",
+    "zh": "当王撤退到 e8 时，接下来是 20 Rab1! Bd7（20。。 Rb8 21 Rxb6!；然而白方在下一步行动后也会威胁这一点）"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "moves",
+    "text": "21. Qg3 Qg6 22. Qh4 Qf7 or 22 ...",
+    "chapter": 8,
+    "segment_id": "CH8-27",
+    "zh": "21. Qg3 Qg6 22. Qh4 Qf7 or 22 ..."
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "body",
+    "text": "Kf8 23 fxe5 and White wins the queen.",
+    "chapter": 8,
+    "segment_id": "CH8-28",
+    "zh": "Kf8 23 fxe5，白方赢得后。"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "moves",
+    "text": "20. Rab1!",
+    "chapter": 8,
+    "segment_id": "CH8-29",
+    "zh": "20. Rab1!"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "body",
+    "text": "White provokes the move Rb8 or ... Bd7, in order to deprive Black of the possibility of taking the knight with the rook at a certain moment; for example, 20",
+    "chapter": 8,
+    "segment_id": "CH8-30",
+    "zh": "白方挑起走棋Rb8或……Bd7，以剥夺黑方在某一时刻用车吃马的可能性；例如，20"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "moves",
+    "text": ".. Rb8 21. f5 Qh6 (21 ... Qd6 22 f6. g6 23. Qe3 and wins) 22. f6 Rxd5 23. exd5 gxf6 24. Rxb6 axb6 25. Qa7 (25 ... Qe3+ 26. Kh1 Qe2 27. Rc1",
+    "chapter": 8,
+    "page_end": 219,
+    "segment_id": "CH8-31",
+    "zh": "。。 Rb8 21. f5 Qh6 (21。。。 Qd6 22 f6。g6 23. Qe3 并获胜) 22. f6 Rxd5 23. exd5 gxf624. Rxb6 axb6 25. Qa7 (25。。。 Qe3+ 26. Kh1 Qe2 27. Rc1"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "body",
+    "text": "Qd2 28 Rg1) and White must win.",
+    "chapter": 8,
+    "segment_id": "CH8-32",
+    "zh": "Qd2 28 Rg1) 且白方必胜。"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "moves",
+    "text": "20 ... Bd7 21. f5 Qh6",
+    "chapter": 8,
+    "segment_id": "CH8-33",
+    "zh": "20 ... Bd7 21. f5 Qh6"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "body",
+    "text": "In all probability, White could continue 22 f6 with success, but the attack with the move 22 Rb3 is more effective.",
+    "chapter": 8,
+    "segment_id": "CH8-34",
+    "zh": "白方很可能会成功继续 22f6，但 22Rb3 棋的攻击更为有效。"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "moves",
+    "text": "22. Rb3",
+    "chapter": 8,
+    "segment_id": "CH8-35",
+    "zh": "22. Rb3"
+  },
+  {
+    "page": 219,
+    "side": "right",
+    "kind": "body",
+    "text": "The following variations point to the lack of a defence for Black. From these it becomes clear that both bishops cannot take an active role in the defence of the king against the attack of only one knight:",
+    "chapter": 8,
+    "page_end": 220,
+    "segment_id": "CH8-36",
+    "zh": "以下变化表明黑方缺乏防守。由此可见，两个象不能在防御王中发挥积极作用，以抵御仅一个马的攻击："
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "moves",
+    "text": "(a) 22 ... Kg8 23. Rh3 Qg5 24 Rg3. Qh6 25. f6 g6 26. Qc3 Be6 (if 26 ... Qh5, then 27. f7+ Kh8 - or 27 ... Kf8 28. Nf6 Qh6 29. Qxe5 Bc6 30. Rh3 and wins - 28. Nf6 Qh6 29. Nxd7 Rxd7 30. Qxe5+ and",
+    "chapter": 8,
+    "page_end": 220,
+    "segment_id": "CH8-37",
+    "zh": "(a) 22。。。 Kg8 23. Rh3 Qg5 24 Rg3。Qh6 25. f6 g6 26. Qc3 Be6（如果 26。。。 Qh5，则 27. f7+ Kh8 - 或 27。。。 Kf8 28. Nf6 Qh629. Qxe5 Bc6 30. Rh3 并获胜 - 28. Nf6 Qh6 29. Nxd7 Rxd7 30. Qxe5+ 且"
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "body",
+    "text": "mate in two moves) 27 f7+ Bxf7",
+    "chapter": 8,
+    "segment_id": "CH8-38",
+    "zh": "二步杀) 27 f7+ Bxf7"
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "moves",
+    "text": "28. Ne7+ or 28. f6 Kf8 29. Rgf3 or",
+    "chapter": 8,
+    "segment_id": "CH8-39",
+    "zh": "28. Ne7+ or 28. f6 Kf8 29. Rgf3 or"
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "body",
+    "text": "h3, and White must win.",
+    "chapter": 8,
+    "segment_id": "CH8-40",
+    "zh": "h3，白方必胜。"
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "moves",
+    "text": "(b) 22 ... Qd2 23. Rd3 Qe2 (or",
+    "chapter": 8,
+    "segment_id": "CH8-41",
+    "zh": "(b) 22 ... Qd2 23. Rd3 Qe2 (or"
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "body",
+    "text": "23 ... Qa5 24 Qc1, threatening f6",
+    "chapter": 8,
+    "segment_id": "CH8-42",
+    "zh": "23。。。 Qa5 24 Qc1，威胁 f6"
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "moves",
+    "text": "or Ra3) 24. f6 g6 25. Qc1 Qh5 26 Nxb6. axb6 27. Qd2 Ke8 28. Rd1 -",
+    "chapter": 8,
+    "page_end": 220,
+    "segment_id": "CH8-43",
+    "zh": "or Ra3) 24. f6 g6 25. Qc1 Qh5 26 Nxb6. axb6 27. Qd2 Ke8 28. Rd1 -"
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "body",
+    "text": "and wins.",
+    "chapter": 8,
+    "segment_id": "CH8-44",
+    "zh": "并获胜。"
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "body",
+    "text": "Those variations, of course, do not exhaust all the means defence. Black could have put up more resistance by not making the",
+    "chapter": 8,
+    "segment_id": "CH8-45",
+    "zh": "当然，这些变化并没有用尽所有防御手段。黑方本可以通过不让棋来进行更多的抵抗"
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "moves",
+    "text": "move of the f7 pawn to f6, but in",
+    "chapter": 8,
+    "segment_id": "CH8-46",
+    "zh": "将 f7 兵移动到 f6，但在"
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "body",
+    "text": "this case White's knights would have taken up dominating positions on d5 and e5. However, after the exchange of the bishop for the knight d5, the central passed pawn, supported by the other, becomes very significant. Thus, an advantage in this or that game does not in fact lie in the two bishops or knights, but in the positions they occupy or which they could l occupy in relation to other pieces\" (bold type ours).",
+    "chapter": 8,
+    "segment_id": "CH8-47",
+    "zh": "在这种情况下，白方的马将在 d5 和 e5 上占据主导地位。然而，在将象交换为马d5之后，中央通兵在另一个的支持下变得非常重要。因此，这个或那个对局的优势实际上并不在于双象或马，而是在于他们占据的位置或他们相对于其他棋子”可以占据的位置（我们的粗体字）。"
+  },
+  {
+    "page": 220,
+    "side": "left",
+    "kind": "body",
+    "text": "Chigorin's point of view, confirmed by quite convincing analysis, is clear: \"the advantage of the two bishops\" does not exist without regard to the position.",
+    "chapter": 8,
+    "segment_id": "CH8-48",
+    "zh": "齐果林的观点经过相当令人信服的分析证实，是明确的：“双象的优势在不考虑位置的情况下并不存在。"
+  },
+  {
+    "page": 220,
+    "side": "right",
+    "kind": "body",
+    "text": "It should be added that in practice also \"bishop-worshippers\" not infrequently deviate from their own principles. Lasker himself, many times and invariably with success, employed the exchange variation of the Spanish Game in which White lets the opponent have the \"advantage of the two bishops\" from the first opening moves. And though his opponents also included such noutstanding players as s Tarrasch, Janowski, Capablanca and others, the first two of whom were also well-known \"specialists with the two bishops\", even they could not utilise this force to offset Lasker's extra pawn on the king's flank.",
+    "chapter": 8,
+    "segment_id": "CH8-49",
+    "zh": "应该补充的是，在实践中，“象崇拜者”也经常偏离自己的原则。拉斯克他自己多次使用了西班牙开局的兑换变例并且总是成功，其中怀特让对手从第一个开局就拥有了“双象的优势”。而他的对手虽然也有s塔拉什、雅诺夫斯基、卡帕布兰卡等优秀选手，其中前两位也是众所周知的“双象专家”，但他们却无法利用这股力量抵消拉斯克在王翼上额外的兵。"
+  },
+  {
+    "page": 220,
+    "side": "right",
+    "kind": "body",
+    "text": "All the same, side-by-side with adherents of Chigorin's view, there are still quite a few prominent players who adopt the standpoint of Steinitz and Lasker and consider that two bishops against two other minor pieces is in itself a positional advantage.",
+    "chapter": 8,
+    "segment_id": "CH8-50",
+    "zh": "尽管如此，与齐果林观点的拥护者并列，仍有相当多的知名玩家采取斯坦尼茨和拉斯克的立场，并认为双象对抗另外两个轻子本身就是一种地位优势。"
+  },
+  {
+    "page": 220,
+    "side": "right",
+    "kind": "body",
+    "text": "We have already pointed out that the basis for the birth of the \"theory\" about the advantage of the two b bishops lies in positions where the joint activity of the two bishops displays a power which considerably exceeds the fighting capacity of two other minor pieces. But, you know, besides such positions there are many others in which two bishops are powerless against bishop and knight or even two knights - this is the first thing. And, secondly, an unprejudiced examination of positions where the power of the bishops increases disproportionately to the harmony of their activity shows that this does not spring from some magical force, as if inherent in the two bishops, but from a favourable combination of a number of positional factors. We turn to a few such examples.",
+    "chapter": 8,
+    "page_end": 221,
+    "segment_id": "CH8-51",
+    "zh": "我们已经指出，关于两个b象优势的“理论”诞生的基础在于双象的联合活动所表现出的力量大大超过了另外两个轻子的战斗力。但是，你知道，除了这些位置之外，还有许多其他位置双象对象和马甚至两个马无能为力 - 这是第一件事。其次，对象的权力与其活动的和谐性不成比例地增加的位置进行不带偏见的审查表明，这并不是来自某种神奇的力量，就好像双象固有的那样，而是来自许多位置因素的有利组合。我们来看几个这样的例子。"
+  },
+  {
+    "page": 221,
+    "side": "left",
+    "kind": "body",
+    "text": "This position was reached in the clash Bogolyubov-Janowski, New York 1924.",
+    "chapter": 8,
+    "segment_id": "CH8-52",
+    "zh": "这一立场是在 1924 年纽约的冲突波戈留波夫-雅诺夫斯基中达成的。"
+  },
+  {
+    "page": 221,
+    "side": "left",
+    "kind": "moves",
+    "text": "19. Qf3 Ne5!",
+    "chapter": 8,
+    "segment_id": "CH8-53",
+    "zh": "19. Qf3 Ne5!"
+  },
+  {
+    "page": 221,
+    "side": "left",
+    "kind": "body",
+    "text": "Giving up a pawn. Not without interest is Alekhine's remark apropos this move: \"The sacrifice of a pawn to obtain two bishops against the opponent's bishop and knight is one of the favourite tactical devices of Janowski.\" This sacrifice is undoubtedly prompted by a more concrete motive than Janowski's desire to handle the two bishops.",
+    "chapter": 8,
+    "segment_id": "CH8-54",
+    "zh": "放弃兵。阿廖欣对这一举动的评论并非没有兴趣：“兵的弃子对抗对手的象和马获得双象是雅诺夫斯基最喜欢的战术手段之一。”这个弃子无疑是由比雅诺夫斯基处理双象的愿望更具体的动机促成的。"
+  },
+  {
+    "page": 221,
+    "side": "left",
+    "kind": "moves",
+    "text": "20. Bxh7+",
+    "chapter": 8,
+    "segment_id": "CH8-55",
+    "zh": "20. Bxh7+"
+  },
+  {
+    "page": 221,
+    "side": "left",
+    "kind": "body",
+    "text": "There are few who would reject the win of this pawn, the more so that it somewhat loosens the position of the enemy king. However,",
+    "chapter": 8,
+    "segment_id": "CH8-56",
+    "zh": "很少有人会拒绝这个兵的胜利，更何况它在一定程度上放松了敌人王的阵地。然而，"
+  },
+  {
+    "page": 221,
+    "side": "right",
+    "kind": "body",
+    "text": "White had no other choice, since there is nowhere to comfortably retreat the queen - it has only just come from e2, Qh5 leads to the loss of a piece in view of ... f5, while after Qh3, Ng6 the queen is doing nothing.",
+    "chapter": 8,
+    "segment_id": "CH8-57",
+    "zh": "白方别无选择，因为没有地方可以舒服地撤退后——它刚刚从e2、Qh5出来，导致失去棋子，因为……f5，而在Qh3、Ng6之后，后什么也不做。"
+  },
+  {
+    "page": 221,
+    "side": "right",
+    "kind": "moves",
+    "text": "20...1 Kxh7 21. Qh5 Kg8 22 Qxe5. Bf6 23. Qh5 Ba4 24. Re1",
+    "chapter": 8,
+    "page_end": 221,
+    "segment_id": "CH8-58",
+    "zh": "20...1 Kxh7 21. Qh5 Kg8 22 Qxe5. Bf6 23. Qh5 Ba4 24. Re1"
+  },
+  {
+    "page": 221,
+    "side": "right",
+    "kind": "body",
+    "text": "The exchange of rooks would make it easier for Black to achieve victory - 24 Rxc8 Rxc8 25 Rc1",
+    "chapter": 8,
+    "segment_id": "CH8-59",
+    "zh": "交换车将使黑方更容易取得胜利 - 24 Rxc8 Rxc8 25 Rc1"
+  },
+  {
+    "page": 221,
+    "side": "right",
+    "kind": "moves",
+    "text": "Rxc1+ 26. Bxc1 e5 27. Nf5 Qc6 28 Bd2. Qc2 29. Be1 Qb1. 24... Qd6 25. h3 Bc2 26. Qf3",
+    "chapter": 8,
+    "page_end": 221,
+    "segment_id": "CH8-60",
+    "zh": "Rxc1+ 26. Bxc1 e5 27. Nf5 Qc6 28 Bd2. Qc2 29. Be1 Qb1. 24... Qd6 25. h3 Bc2 26. Qf3"
+  },
+  {
+    "page": 221,
+    "side": "right",
+    "kind": "body",
+    "text": "Black dominates the whitesquared territory of the board. This is the reason why Janowski sacrificed the pawn.",
+    "chapter": 8,
+    "segment_id": "CH8-61",
+    "zh": "黑方占据了棋盘的白方区域。这就是雅诺夫斯基弃子选择兵的原因。"
+  },
+  {
+    "page": 221,
+    "side": "right",
+    "kind": "moves",
+    "text": "27. Qe2 Ba4 28. Qf3",
+    "chapter": 8,
+    "segment_id": "CH8-62",
+    "zh": "27. Qe2 Ba4 28. Qf3"
+  },
+  {
+    "page": 221,
+    "side": "right",
+    "kind": "body",
+    "text": "Bad is 28 Nf3 (on which, possibly, White calculated earlier), because of 28 ... Rxc1 29 Rxcl Bd1 winning the bishop b2. By returning with the queen to f3, White tacitly offers a draw, but his offer clearly meets with no response.",
+    "chapter": 8,
+    "segment_id": "CH8-63",
+    "zh": "坏的是 28 Nf3（可能是白方之前计算的），因为 28。。。 Rxc1 29 Rxcl Bd1 赢得了象 b2。通过返回后到f3，白方默认提出和局，但他的提议显然没有得到回应。"
+  },
+  {
+    "page": 221,
+    "side": "right",
+    "kind": "moves",
+    "text": "28 ... Rc4 29. Ba1 Rdc8 30. Rb1",
+    "chapter": 8,
+    "segment_id": "CH8-64",
+    "zh": "28 ... Rc4 29. Ba1 Rdc8 30. Rb1"
+  },
+  {
+    "page": 221,
+    "side": "right",
+    "kind": "body",
+    "text": "It is now clear that Bogolyubov's trouble arises from the impossibility of defending the white squares. His pawns are placed on black squares, while the white-squared bishop is exchanged.",
+    "chapter": 8,
+    "page_end": 222,
+    "segment_id": "CH8-65",
+    "zh": "现在很明显，波戈留波夫的麻烦源于无法保卫白方格。他的兵被放置在黑方格上，而白方方块象被交换。"
+  },
+  {
+    "page": 222,
+    "side": "left",
+    "kind": "moves",
+    "text": "30 ... e5",
+    "chapter": 8,
+    "segment_id": "CH8-66",
+    "zh": "30 ... e5"
+  },
+  {
+    "page": 222,
+    "side": "left",
+    "kind": "body",
+    "text": "Alekhine rightly pointed out that this move is premature. White could now reply 31 Qg3 and, on 31",
+    "chapter": 8,
+    "segment_id": "CH8-67",
+    "zh": "阿廖欣正确地指出此举为时过早。白方现在可以回复 31 Qg3，并且在 31"
+  },
+  {
+    "page": 222,
+    "side": "left",
+    "kind": "body",
+    "text": "Qd7 32 Nf3, after which the struggle e is complicated. It is interesting that the consideration about the strength of the two bishops - you see Black still has them - has no place here.",
+    "chapter": 8,
+    "segment_id": "CH8-68",
+    "zh": "Qd7 32 Nf3，此后斗争e变得复杂。有趣的是，关于双象强度的考虑 - 你看黑方仍然有它们 - 这里没有地方。"
+  },
+  {
+    "page": 222,
+    "side": "left",
+    "kind": "moves",
+    "text": "31. Ne2? Bc2 32. Rbc1 Be4 33 Qg4. Bb7",
+    "chapter": 8,
+    "page_end": 222,
+    "segment_id": "CH8-69",
+    "zh": "31. Ne2? Bc2 32. Rbc1 Be4 33 Qg4. Bb7"
+  },
+  {
+    "page": 222,
+    "side": "left",
+    "kind": "body",
+    "text": "The white-squared bishop works remarkably well. Its stroll on the squares s e8-a4-c2-a4-c2-e4-b7 has caused the opponent quite a lot of trouble. In the end it takes up a threatening position on the long diagonal, with the intention of delivering at the right moment a decisive blow to the enemy king. However, the bishop, and not the bishops. \"The advantage of the two bishops\" is not what it is here.",
+    "chapter": 8,
+    "segment_id": "CH8-70",
+    "zh": "白方块象效果非常好。它在格上的e8-a4-c2-a4-c2-e4-b7给对手带来了很大的麻烦。最终它在长对角线上占据了一个威胁位置，意图在正确的时刻对敌人给予决定性的打击王。但是，是象，而不是象。“双象”的优点并不在这里。"
+  },
+  {
+    "page": 222,
+    "side": "left",
+    "kind": "moves",
+    "text": "34. Rxc4 Rxc4 35. f4",
+    "chapter": 8,
+    "segment_id": "CH8-71",
+    "zh": "34. Rxc4 Rxc4 35. f4"
+  },
+  {
+    "page": 222,
+    "side": "left",
+    "kind": "body",
+    "text": "Now a \"hole\" on e4 is also created, but there was no way out.",
+    "chapter": 8,
+    "segment_id": "CH8-72",
+    "zh": "现在e4上也产生了一个“洞”，但没有出路。"
+  },
+  {
+    "page": 222,
+    "side": "left",
+    "kind": "moves",
+    "text": "Bad also is 35. Qh5 g6 or 35. Qf5 Be4, or 35. Qg3 Bh4 36. Qh2 f6. 35 ... Qd2 36. Qg3 Re4",
+    "chapter": 8,
+    "page_end": 222,
+    "segment_id": "CH8-73",
+    "zh": "坏的还有 35. Qh5 g6 或 35. Qf5 Be4 或 35. Qg3 Bh4 36. Qh2 f6。35。。。 Qd2 36. Qg3 Re4"
+  },
+  {
+    "page": 222,
+    "side": "left",
+    "kind": "body",
+    "text": "Already it was possible to win a piece, by continuing 36 ... exf4 37 Nxf4 Rcl.",
+    "chapter": 8,
+    "segment_id": "CH8-74",
+    "zh": "通过继续 36。。。 exf4 37 Nxf4 Rcl，已经有可能赢得棋子。"
+  },
+  {
+    "page": 222,
+    "side": "left",
+    "kind": "moves",
+    "text": "37. Bc3 Qd5 38. Bxe5 Rxe3 39 Qg4. Bxe5",
+    "chapter": 8,
+    "page_end": 222,
+    "segment_id": "CH8-75",
+    "zh": "37. Bc3 Qd5 38. Bxe5 Rxe3 39 Qg4. Bxe5"
+  },
+  {
+    "page": 222,
+    "side": "right",
+    "kind": "body",
+    "text": "The bishop has stood the whole game on f6, as a matter of fact without causing White serious trouble, and finally is exchanged. The whole thing depends on one bishop, and not two.",
+    "chapter": 8,
+    "segment_id": "CH8-76",
+    "zh": "象整盘都站在f6上，事实上并没有给白方造成严重的麻烦，最终被交换。整个事情取决于一个象，而不是两个。"
+  },
+  {
+    "page": 222,
+    "side": "right",
+    "kind": "moves",
+    "text": "40. fxe5 Rxe5 41. Kh2",
+    "chapter": 8,
+    "segment_id": "CH8-77",
+    "zh": "40. fxe5 Rxe5 41. Kh2"
+  },
+  {
+    "page": 222,
+    "side": "right",
+    "kind": "body",
+    "text": "So as, 0n 41 ... Rg5, to reply 42 Nf4.",
+    "chapter": 8,
+    "segment_id": "CH8-78",
+    "zh": "例如，0n 41。。。 Rg5，回复42 Nf4。"
+  },
+  {
+    "page": 222,
+    "side": "right",
+    "kind": "moves",
+    "text": "41 ... Qd2 42. Qg3 f6 43. h4 Bd5 44. Qf2 Bc4 0-1",
+    "chapter": 8,
+    "page_end": 222,
+    "segment_id": "CH8-79",
+    "zh": "41 ... Qd2 42. Qg3 f6 43. h4 Bd5 44. Qf2 Bc4 0-1"
+  },
+  {
+    "page": 222,
+    "side": "right",
+    "kind": "body",
+    "text": "The white-squared bishop in fact performed above its rating but the black-squared bishop hardly so! Admittedly, it somewhat cramped the manoeuvres of the White pieces, in particular the knight d4, but its struggle in no way exceeded the norm and was even below it.",
+    "chapter": 8,
+    "segment_id": "CH8-80",
+    "zh": "事实上，白方象的表现高于其额定值，但黑方象几乎没有如此！诚然，它多少束缚了白棋子的运子，特别是马d4，但它的斗争丝毫没有超出标准，甚至低于标准。"
+  },
+  {
+    "page": 222,
+    "side": "right",
+    "kind": "body",
+    "text": "The next of our examples is a moment from the game Kotov- Kashdan, USSR-USA radio match 1945.",
+    "chapter": 8,
+    "segment_id": "CH8-81",
+    "zh": "我们的下一个示例是对局科托夫 - Kashdan，1945 年苏联-美国无线电对局中的一个时刻。"
+  },
+  {
+    "page": 222,
+    "side": "right",
+    "kind": "body",
+    "text": "White's bishops are well placed and undoubtedly better than the opponent's bishops. However, nobody would dream of maintaining that he has the advantage of the two bishops. But why? Because in fact Black also has the two bishops.",
+    "chapter": 8,
+    "segment_id": "CH8-82",
+    "zh": "白方的象位置很好，毫无疑问比对手的象更好。然而，没有人会梦想坚持认为他拥有双象的优势。但为什么？因为事实上黑方也有双象。"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "body",
+    "text": "It means that one can speak about the \"advantage of the two bishops' only when they operate against pieces other than the same two bishops. There is little logic in this.",
+    "chapter": 8,
+    "segment_id": "CH8-83",
+    "zh": "这意味着只有当他们与棋子而不是双象进行操作时，才能谈论“双象的优势”。这几乎没有逻辑。"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "body",
+    "text": "The position shown in the diagram is a repeat. It occurred for the first time in the game Capablanca-Flohr, played in the Semmering g tournament 1937.",
+    "chapter": 8,
+    "page_end": 223,
+    "segment_id": "CH8-84",
+    "zh": "图中所示的位置是重复的。它第一次出现在 1937 年塞默灵 g 锦标赛的卡帕布兰卡-弗洛尔对局中。"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "moves",
+    "text": "17 ... h5",
+    "chapter": 8,
+    "segment_id": "CH8-85",
+    "zh": "17 ... h5"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "body",
+    "text": "Against Capablanca, Flohr had played 17 ...e6.",
+    "chapter": 8,
+    "segment_id": "CH8-86",
+    "zh": "对阵卡帕布兰卡，弗洛尔打了 17 场。。。e6。"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "moves",
+    "text": "18. h3 Nh7 19. Bh2 Ng5 20. Bd1 c5 21. Bb3 Nxc3 22. bxc3 b6",
+    "chapter": 8,
+    "page_end": 223,
+    "segment_id": "CH8-87",
+    "zh": "18. h3 Nh7 19. Bh2 Ng5 20. Bd1 c5 21. Bb3 Nxc3 22. bxc3 b6"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "body",
+    "text": "Only in this way is it possible to develop the bishop. Useless is 22",
+    "chapter": 8,
+    "segment_id": "CH8-88",
+    "zh": "只有这样，才有可能开发出象。无用的是22"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "body",
+    "text": ". Ne4 (with the threats of .",
+    "chapter": 8,
+    "segment_id": "CH8-89",
+    "zh": "。Ne4（带有。"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "moves",
+    "text": "Nxc3 and ... Nd2) in view of 23",
+    "chapter": 8,
+    "segment_id": "CH8-90",
+    "zh": "Nxc3 和。。。 Nd2) 鉴于 23"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "body",
+    "text": "Rfc1, and White only strengthens his position on the queen's flank, whereas the knight is insecurely placed on e4.",
+    "chapter": 8,
+    "segment_id": "CH8-91",
+    "zh": "Rfc1，白方只是加强了他在后翼上的位置，而马则不安全地放置在e4上。"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "moves",
+    "text": "23. Nc6 Rd7 24. f3 Ba6",
+    "chapter": 8,
+    "segment_id": "CH8-92",
+    "zh": "23. Nc6 Rd7 24. f3 Ba6"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "body",
+    "text": "24 ... Bb7 is better, and only after 25 Ne5 Bxe5 26 Bxe5 Ba6, but also in this case White retains an unquestionable advantage by playing 27 Rfc1. He has a superiority in the centre and a compact pawn chain; also very well placed is his black-squared bishop, which has a great range of activity.",
+    "chapter": 8,
+    "segment_id": "CH8-93",
+    "zh": "24。。。 Bb7 更好，并且只有在 25 Ne5 Bxe5 26 Bxe5 Ba6 之后，但在这种情况下，白方通过下 27 Rfc1 保留了毫无疑问的优势。他具有中锋优势，结构紧凑兵链；同样位置很好的是他的黑方方块象，它具有很大的活动范围。"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "moves",
+    "text": "25. Nb8 Rxb8",
+    "chapter": 8,
+    "segment_id": "CH8-94",
+    "zh": "25. Nb8 Rxb8"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "body",
+    "text": "Necessary; bad is 25 ... Bxf1 26",
+    "chapter": 8,
+    "segment_id": "CH8-95",
+    "zh": "必要的；坏的是 25。。。 Bxf1 26"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "moves",
+    "text": "Nxd7. Rd8 27. Nxb6 Bxg2 28. Kxg2 axb6 29. Bc7. 26. Bxb8 Bxf1 27. Kxf1 Ne6?",
+    "chapter": 8,
+    "page_end": 223,
+    "segment_id": "CH8-96",
+    "zh": "Nxd7. Rd8 27. Nxb6 Bxg2 28. Kxg2 axb6 29. Bc7. 26. Bxb8 Bxf1 27. Kxf1 Ne6?"
+  },
+  {
+    "page": 223,
+    "side": "left",
+    "kind": "body",
+    "text": "In this position, White's two bishops actually operate perfectly well, crossing the centre and supporting the advance of the centre pawns. But is this a consequence of the notorious \"advantage of the two bishops\"? No and once again no. Essentially the strength of the latter depends on the bad positions of the enemy pieces. Instead of the poor move of the knight, Black should continue 27 ... e6, intending ...F Bf8, while he could have tried to introduce the knight into",
+    "chapter": 8,
+    "page_end": 223,
+    "segment_id": "CH8-97",
+    "zh": "在这个位置上，白方的双象实际上运作得很好，穿过中心并支持中心兵的前进。但这是臭名昭著的“双象优势”的结果吗？不，再一次不。后者的强度本质上取决于敌人的不利位置棋子。黑方不应选择马的糟糕举动，而应继续 27。。。 e6，意图。。。F Bf8，同时他本可以尝试将马引入"
+  },
+  {
+    "page": 223,
+    "side": "right",
+    "kind": "moves",
+    "text": "the game by ... Nh7-f6. 28. Rb1 cxd4",
+    "chapter": 8,
+    "page_end": 223,
+    "segment_id": "CH8-98",
+    "zh": "对局由。。。 Nh7-f6进行。28. Rb1 cxd4"
+  },
+  {
+    "page": 223,
+    "side": "right",
+    "kind": "body",
+    "text": "Sooner or later White forces this exchange, by threatening to open the b-file; Black's position is unsatisfactory.",
+    "chapter": 8,
+    "segment_id": "CH8-99",
+    "zh": "白方迟早会通过威胁打开 b线来强制进行这种交换；黑方的局面并不令人满意。"
+  },
+  {
+    "page": 223,
+    "side": "right",
+    "kind": "moves",
+    "text": "29. cxd4 Rb7 30. Bg3 b5 31. Rc1 a5 32. Rc8+ Kh7 33. Ke2 a4 34 Bxe6. fxe6 35. Rb8",
+    "chapter": 8,
+    "page_end": 223,
+    "segment_id": "CH8-100",
+    "zh": "29. cxd4 Rb7 30. Bg3 b5 31. Rc1 a5 32. Rc8+ Kh7 33. Ke2 a4 34 Bxe6. fxe6 35. Rb8"
+  },
+  {
+    "page": 223,
+    "side": "right",
+    "kind": "body",
+    "text": "And so, Black's defeat is provoked not by White's two bishops, which, incidentally, are already gone from the board, but the terrible position of his own bishop on g7.",
+    "chapter": 8,
+    "segment_id": "CH8-101",
+    "zh": "因此，黑方的失败不是由白方的双象引起的，顺便说一句，白方的双象已经从棋盘上消失了，而是由他自己的象在g7上的可怕位置引起的。"
+  },
+  {
+    "page": 223,
+    "side": "right",
+    "kind": "moves",
+    "text": "35 ... Rxb8 36. Bxb8 b4",
+    "chapter": 8,
+    "segment_id": "CH8-102",
+    "zh": "35 ... Rxb8 36. Bxb8 b4"
+  },
+  {
+    "page": 223,
+    "side": "right",
+    "kind": "body",
+    "text": "Even threatening to win after ... b3.",
+    "chapter": 8,
+    "segment_id": "CH8-103",
+    "zh": "甚至威胁要在……b3之后获胜。"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "moves",
+    "text": "37. Kd3 Bh6 38. f4 g5 39. g4 hxg4 40. hxg4 gxf4 41. exf4 1-0",
+    "chapter": 8,
+    "page_end": 224,
+    "segment_id": "CH8-104",
+    "zh": "37. Kd3 Bh6 38. f4 g5 39. g4 hxg4 40. hxg4 gxf4 41. exf4 1-0"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "heading",
+    "text": "Queen's Pawn Opening",
+    "chapter": 8,
+    "segment_id": "CH8-105",
+    "zh": "后兵开局"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "metadata",
+    "text": "White: S.Alapin",
+    "chapter": 8,
+    "segment_id": "CH8-106",
+    "zh": "白方：S.阿拉平"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "metadata",
+    "text": "Black: A.Burn",
+    "chapter": 8,
+    "segment_id": "CH8-107",
+    "zh": "黑方：A.伯恩"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "metadata",
+    "text": "(Carlsbad 1911)",
+    "chapter": 8,
+    "segment_id": "CH8-108",
+    "zh": "（卡尔斯巴德1911）"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. d4 d5 2. c3 e6 3. Bf4 c5 4. e3 Nc6 5. Nd2 Nf6 6. Bd3 Qb6 7",
+    "chapter": 8,
+    "page_end": 224,
+    "segment_id": "CH8-109",
+    "zh": "1. d4 d5 2. c3 e6 3. Bf4 c5 4. e3 Nc6 5. Nd2 Nf6 6. Bd3 Qb6 7"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "body",
+    "text": "Rb1 Apparently the \"wisest\" answer to the question.",
+    "chapter": 8,
+    "page_end": 224,
+    "segment_id": "CH8-110",
+    "zh": "Rb1 显然是这个问题的“最明智”的答案。"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "body",
+    "text": "Let us try to go deeply into the train of White's thoughts. The pawn, of course, needs to be defended. On 7 Qc1 or 7 Qc2, the White queen later, after ... Bd7 and ... Rc8, falls under the influence of the enemy rooks.",
+    "chapter": 8,
+    "segment_id": "CH8-111",
+    "zh": "让我们尝试深入探讨怀特的思路。当然，兵需要被捍卫。在 7 Qc1 或 7 Qc2，白方后之后，在。。。 Bd7 和。。。 Rc8 之后，受到敌人车的影响。"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "body",
+    "text": "There remains to look at 7 Qb3. Generally speaking, this move is possible, but White will have to put up with his opponent's small but clear initiative on the queen's flank, namely 7 ... c4 8 Qxb6 axb6 9 Be2 b5 followed by ... b4. The traditional retort to this, by e4, is not very effective in the present situation. Black's flank play develops more quickly. Besides this, the advance of the White e-pawn lacks a clear purpose.",
+    "chapter": 8,
+    "segment_id": "CH8-112",
+    "zh": "还有待观察 7 Qb3。一般来说，这步棋是可能的，但白方必须忍受对手在后翼上的小而清晰的主动权，即7。。。 c4 8 Qxb6 axb6 9 Be2 b5，然后是。。。 b4。e4对此的传统反驳在目前情况下并不是很有效。黑方的侧翼进攻发展得更快。除此之外，白e-兵的推进缺乏明确的目的。"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "body",
+    "text": "This is why White plays 7 Rb1, since in his plan the queen is destined for another purpose - on the king's flank, where it will support active operations.",
+    "chapter": 8,
+    "segment_id": "CH8-113",
+    "zh": "这就是白方下 7 Rb1 的原因，因为在他的计划中，后注定有另一个目的 - 在王翼上，它将支持主动操作。"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "moves",
+    "text": "7 ... Bd7 8. Bg3",
+    "chapter": 8,
+    "segment_id": "CH8-114",
+    "zh": "7 ... Bd7 8. Bg3"
+  },
+  {
+    "page": 224,
+    "side": "left",
+    "kind": "body",
+    "text": "An artificial idea has occurred to Alapin - to construct a \"Stonewall\" which even in its usual form is vulnerable but here it is entirely unjustified.",
+    "chapter": 8,
+    "page_end": 224,
+    "segment_id": "CH8-115",
+    "zh": "阿拉平产生了一个人为的想法 - 建造一个“石墙”，即使在其通常的形式下也是脆弱的，但在这里它是完全不合理的。"
+  },
+  {
+    "page": 224,
+    "side": "right",
+    "kind": "body",
+    "text": "White has everything ready for an invasion of the e5 point, which finds itself under pressure by the bishop. Therefore \"without further ado\" he should continue 8 Ngf3",
+    "chapter": 8,
+    "segment_id": "CH8-116",
+    "zh": "白方已经做好了入侵e5点的一切准备，该点发现自己受到了象的压力。因此，“言归正传”，他应该继续 8 Ngf3"
+  },
+  {
+    "page": 224,
+    "side": "right",
+    "kind": "moves",
+    "text": "Be7 9. O-O O-O 10. Ne5.",
+    "chapter": 8,
+    "segment_id": "CH8-117",
+    "zh": "Be7 9. O-O O-O 10. Ne5."
+  },
+  {
+    "page": 224,
+    "side": "right",
+    "kind": "body",
+    "text": "However, Black is excellently developed, and the invasion of the knight still does not promise White a serious initiative. He himself is to blame for this, since he has played the opening modestly and allowed the opponent to harmoniously and purposefully develop all his forces. In this light, the plan chosen by him merits even more censure.",
+    "chapter": 8,
+    "segment_id": "CH8-118",
+    "zh": "然而，黑方发展得非常出色，并且马的入侵仍然没有给白方带来严重的主动权。他自己也难辞其咎，因为他在开局时表现得很谦虚，让对手和谐地、有目的地发展了他的所有力量。如此看来，他所选择的方案就更值得诟病了。"
+  },
+  {
+    "page": 224,
+    "side": "right",
+    "kind": "moves",
+    "text": "8... Be7 9. f4 O-O 10. Bf2",
+    "chapter": 8,
+    "segment_id": "CH8-119",
+    "zh": "8... Be7 9. f4 O-O 10. Bf2"
+  },
+  {
+    "page": 224,
+    "side": "right",
+    "kind": "body",
+    "text": "On 10 Nf3 possible is 10 ... Ng4",
+    "chapter": 8,
+    "segment_id": "CH8-120",
+    "zh": "在 10 Nf3 上可能是 10。。。 Ng4"
+  },
+  {
+    "page": 224,
+    "side": "right",
+    "kind": "moves",
+    "text": "11. Qe2 (11. Ng5 Bxg5 or 11 ... f5)",
+    "chapter": 8,
+    "segment_id": "CH8-121",
+    "zh": "11. Qe2 (11. Ng5 Bxg5 or 11 ... f5)"
+  },
+  {
+    "page": 224,
+    "side": "right",
+    "kind": "body",
+    "text": "11 ... f5, followed by ... Nf6-e4.",
+    "chapter": 8,
+    "segment_id": "CH8-122",
+    "zh": "11。。。 f5，然后是。。。 Nf6-e4。"
+  },
+  {
+    "page": 224,
+    "side": "right",
+    "kind": "moves",
+    "text": "10 ... Rac8 11. Qf3 Rfd8",
+    "chapter": 8,
+    "segment_id": "CH8-123",
+    "zh": "10 ... Rac8 11. Qf3 Rfd8"
+  },
+  {
+    "page": 224,
+    "side": "right",
+    "kind": "body",
+    "text": "Black has developed his army in classical style. However, White counters this with an antiharmonious \"half-development\" of pieces. The king's knight is even deprived of future possibilities in the centre, the bishop is undefended, there is a weakness on e3 all these things do not bode well for White. On top of all this - his king is also still in the centre!",
+    "chapter": 8,
+    "page_end": 225,
+    "segment_id": "CH8-124",
+    "zh": "布莱克以古典风格发展了他的军队。然而，怀特用棋子的反和谐“半发展”来反驳这一点。王的马甚至被剥夺了中心未来的可能性，象不设防，e3有弱点，所有这些对白方来说都不是好兆头。最重要的是 - 他的王也仍然在中心！"
+  },
+  {
+    "page": 225,
+    "side": "left",
+    "kind": "moves",
+    "text": "12. Ne2 Bd6 13. Bh4 Be7 14. Bf2 Bd6 15. Bh4 Be7 16. Bf2 Bd6 17",
+    "chapter": 8,
+    "page_end": 225,
+    "segment_id": "CH8-125",
+    "zh": "12. Ne2 Bd6 13. Bh4 Be7 14. Bf2 Bd6 15. Bh4 Be7 16. Bf2 Bd6 17"
+  },
+  {
+    "page": 225,
+    "side": "left",
+    "kind": "body",
+    "text": "Unbelievable but true! Alapin avoids the draw and dreams of an attack on the king's flank.",
+    "chapter": 8,
+    "segment_id": "CH8-126",
+    "zh": "难以置信但真实！阿拉平避免了对王翼的攻击的平局和梦想。"
+  },
+  {
+    "page": 225,
+    "side": "left",
+    "kind": "moves",
+    "text": "17 ... Re8 18. g4?",
+    "chapter": 8,
+    "segment_id": "CH8-127",
+    "zh": "17 ... Re8 18. g4?"
+  },
+  {
+    "page": 225,
+    "side": "left",
+    "kind": "body",
+    "text": "In the ignorance of bliss! By playing 18 Bc2 or 18 Bh4, White could prepare for Black's intended attack in the centre and avoid its catastrophic consequences.",
+    "chapter": 8,
+    "segment_id": "CH8-128",
+    "zh": "在对幸福的无知中！通过下 18 Bc2 或 18 Bh4，白方可以为黑方在中心的预期攻击做好准备，并避免其灾难性后果。"
+  },
+  {
+    "page": 225,
+    "side": "left",
+    "kind": "moves",
+    "text": "18 ... e5! 19. dxe5",
+    "chapter": 8,
+    "segment_id": "CH8-129",
+    "zh": "18 ... e5! 19. dxe5"
+  },
+  {
+    "page": 225,
+    "side": "left",
+    "kind": "body",
+    "text": "19 g5 is unsatisfactory at once in",
+    "chapter": 8,
+    "segment_id": "CH8-130",
+    "zh": "19 g5 立即不满意"
+  },
+  {
+    "page": 225,
+    "side": "left",
+    "kind": "moves",
+    "text": "view of 19 ... e4 20. Qg2! Nh5 21 Bc2. cxd4 22. cxd4 Nb4. 19 ... Rxe5!",
+    "chapter": 8,
+    "page_end": 225,
+    "segment_id": "CH8-131",
+    "zh": "19。。。 e4 20. Qg2! Nh5 21 Bc2 的视图。cxd4 22. cxd4 Nb4。19。。。 Rxe5!"
+  },
+  {
+    "page": 225,
+    "side": "left",
+    "kind": "body",
+    "text": "Just so, whereas 19 ...Bxe5 leads to the loss of a piece after 20 g5.",
+    "chapter": 8,
+    "segment_id": "CH8-132",
+    "zh": "正是如此，而 19。。。Bxe5 会导致在 20 g5 之后丢失棋子。"
+  },
+  {
+    "page": 225,
+    "side": "left",
+    "kind": "moves",
+    "text": "20. g5 Ne8 21. fxe5?",
+    "chapter": 8,
+    "segment_id": "CH8-133",
+    "zh": "20. g5 Ne8 21. fxe5?"
+  },
+  {
+    "page": 225,
+    "side": "left",
+    "kind": "body",
+    "text": "For the exchange, Black obtains a strong, but that is not to say victorious, attack. White conducts the game too optimistically. It was best to refuse the \"Greek gift\" and play 21 e4!, threatening to capture a whole rook. If 21 ... dxe4, then 22 Bxe4 Re7 23 O-O and things are not really so bad for White.",
+    "chapter": 8,
+    "page_end": 225,
+    "segment_id": "CH8-134",
+    "zh": "在交换过程中，黑方获得了强大的但并不是胜利的进攻。白方对对局的指挥过于乐观。最好拒绝“希腊礼物”并玩21 e4!，威胁要占领整个车。如果 21。。。 dxe4，则 22 Bxe4 Re7 23 O-O 对于白方来说事情并没有那么糟糕。"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "moves",
+    "text": "21... Nxe5 22. Bxh7+ Kxh7 23 Qh5+ Kg8",
+    "chapter": 8,
+    "page_end": 225,
+    "segment_id": "CH8-135",
+    "zh": "21... Nxe5 22. Bxh7+ Kxh7 23 Qh5+ Kg8"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "body",
+    "text": "Black threatens ... Bf5.",
+    "chapter": 8,
+    "segment_id": "CH8-136",
+    "zh": "黑方威胁。。。Bf5。"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "moves",
+    "text": "24. Nf4",
+    "chapter": 8,
+    "segment_id": "CH8-137",
+    "zh": "24. Nf4"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "body",
+    "text": "Possibly, 24 Ng3 3was rather more logical, but in this case ... Nd3+ retains a dangerous initiative. White is the exchange ahead, but the ranks of his army are in disarray, his king exposed - this is more than enough to compensate Black for the sacrificed material.",
+    "chapter": 8,
+    "segment_id": "CH8-138",
+    "zh": "可能 24 Ng3 3 更符合逻辑，但在这种情况下。。。 Nd3+ 保留了危险的主动权。白方是前方的交锋，但他的军队横线混乱，他的王暴露——这足以补偿黑方的弃子d材料。"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "moves",
+    "text": "24 ... Bf5 25. Qd1",
+    "chapter": 8,
+    "segment_id": "CH8-139",
+    "zh": "24 ... Bf5 25. Qd1"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "body",
+    "text": "Fatal is 25 Nxd5 Qa6, with the threats of ... Bxbl and ... Nd3+. Black's white-squared bishop is his main attacking force, and White is prepared to give up his inactive rook for it.",
+    "chapter": 8,
+    "segment_id": "CH8-140",
+    "zh": "致命的是 25 Nxd5 Qa6，威胁为。。。 Bxbl 和。。。 Nd3+。黑方的白方象是他的主攻击力量，白方准备为此放弃他的不活跃车。"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "moves",
+    "text": "25 ... Nd3+!",
+    "chapter": 8,
+    "segment_id": "CH8-141",
+    "zh": "25 ... Nd3+!"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "body",
+    "text": "Incisively played and brilliantly illustrating the relative strength of the pieces. Burn will not exchange his priceless bishop for the opponent's queen's rook.",
+    "chapter": 8,
+    "segment_id": "CH8-142",
+    "zh": "演奏精辟，精彩地诠释了棋子的相对实力。伯恩不会用自己无价的象来交换对手的后的车。"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "moves",
+    "text": "26. Nxd3 Bxd3 27. Nf3 c4",
+    "chapter": 8,
+    "segment_id": "CH8-143",
+    "zh": "26. Nxd3 Bxd3 27. Nf3 c4"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "body",
+    "text": "Now a good post for the White knight on d4 has appeared, but he cannot exploit this while Black's white-squared bishop has become firmly established \"for ever\" on the h7-b1 diagonal.",
+    "chapter": 8,
+    "segment_id": "CH8-144",
+    "zh": "现在，白方马在 d4 上的一个好帖子已经出现，但当黑方的白方象已经在 h7-b1 对角线上“永远”牢固确立时，他无法利用这一点。"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "moves",
+    "text": "28. Nd4 Be7 29. Qg4 Nd6 30 Bg3. Rd8 31. Bxd6",
+    "chapter": 8,
+    "page_end": 225,
+    "segment_id": "CH8-145",
+    "zh": "28. Nd4 Be7 29. Qg4 Nd6 30 Bg3. Rd8 31. Bxd6"
+  },
+  {
+    "page": 225,
+    "side": "right",
+    "kind": "body",
+    "text": "A forced exchange - the rook cannot leave the b1 square in view of ... Qxb2, while in the event of 31 Kd2 or Kf2 follows ... Ne4+. But now the opponent's blacksquared bishop becomes very strong.",
+    "chapter": 8,
+    "page_end": 226,
+    "segment_id": "CH8-146",
+    "zh": "强制交换 - 鉴于。。。 Qxb2，车不能离开 b1 格，而在 31 Kd2 或 Kf2 的情况下，紧随。。。 Ne4+。但现在对手的黑方象变得非常强。"
+  },
+  {
+    "page": 226,
+    "side": "left",
+    "kind": "moves",
+    "text": "31 ... Bxd6",
+    "chapter": 8,
+    "segment_id": "CH8-147",
+    "zh": "31 ... Bxd6"
+  },
+  {
+    "page": 226,
+    "side": "left",
+    "kind": "body",
+    "text": "Thinking over the situation which has arisen, we turn",
+    "chapter": 8,
+    "segment_id": "CH8-148",
+    "zh": "考虑到所出现的情况，我们转而"
+  },
+  {
+    "page": 226,
+    "side": "left",
+    "kind": "body",
+    "text": "1our attention to the position of the White knight. It has settled on a piece-base, secure from pawn attacks by the opponent, on a square located in the centre of the board.",
+    "chapter": 8,
+    "segment_id": "CH8-149",
+    "zh": "1我们注意白方马的位置。它已定居在位于棋盘中央的格的棋子基地，免受对手兵的攻击。"
+  },
+  {
+    "page": 226,
+    "side": "left",
+    "kind": "body",
+    "text": "With abstract reasoning, one could say that the White knight occupies a splendid position. But the only question worth asking is what concrete benefit can be derived in the present position from his \"splendid\" knight, which there and then turns out to be almost none v whatsoever, apart from the fact that it cuts off the Black queen from the e3 square.",
+    "chapter": 8,
+    "page_end": 226,
+    "segment_id": "CH8-150",
+    "zh": "从抽象的推理来看，可以说白马占据了辉煌的位置。但唯一值得问的问题是，在目前的情况下，他的“辉煌”马能带来什么具体的好处，除了它切断了黑方后与e3格的事实之外，几乎没有任何好处。"
+  },
+  {
+    "page": 226,
+    "side": "left",
+    "kind": "body",
+    "text": "We cannot but recall the words of gold of Chigorin about the fact that the strength of a piece is determined not by its location (static!) but its concrete prospects of action (dynamic!).",
+    "chapter": 8,
+    "segment_id": "CH8-151",
+    "zh": "我们不能不回想起齐果林的黄金言论，即棋子的强度不是由其位置（静态！）决定的，而是由其具体行动前景（动态！）决定的。"
+  },
+  {
+    "page": 226,
+    "side": "right",
+    "kind": "body",
+    "text": "White's only dynamic chance, which he also tries, consists of the advance of the h-pawn, but the miserable position of his pieces, and particularly the king, dooms this plan to failure.",
+    "chapter": 8,
+    "segment_id": "CH8-152",
+    "zh": "白方唯一的动态机会（他也尝试过）包括冲兵，但他的棋子，特别是王的悲惨位置，注定了这个计划的失败。"
+  },
+  {
+    "page": 226,
+    "side": "right",
+    "kind": "moves",
+    "text": "32. Kd2 Bc5 33. h4 Re8 34. h5 f5!",
+    "chapter": 8,
+    "segment_id": "CH8-153",
+    "zh": "32. Kd2 Bc5 33. h4 Re8 34. h5 f5!"
+  },
+  {
+    "page": 226,
+    "side": "right",
+    "kind": "body",
+    "text": "An attack prepared by the two previous moves. 35 Nxf5 is not possible in view of 35 ... Bxe3+ and ... Bxb1.",
+    "chapter": 8,
+    "segment_id": "CH8-154",
+    "zh": "前两招所准备的攻击。鉴于 35。。。 Bxe3+ 和。。。 Bxb1，35 Nxf5 是不可能的。"
+  },
+  {
+    "page": 226,
+    "side": "right",
+    "kind": "moves",
+    "text": "35. Qf4?",
+    "chapter": 8,
+    "segment_id": "CH8-155",
+    "zh": "35. Qf4?"
+  },
+  {
+    "page": 226,
+    "side": "right",
+    "kind": "body",
+    "text": "Undoubtedly better is 35 gxf6",
+    "chapter": 8,
+    "segment_id": "CH8-156",
+    "zh": "毫无疑问更好的是 35 gxf6"
+  },
+  {
+    "page": 226,
+    "side": "right",
+    "kind": "moves",
+    "text": "Qxf6 36. Qg3 and, if 36 ... Bd6,",
+    "chapter": 8,
+    "segment_id": "CH8-157",
+    "zh": "Qxf6 36. Qg3 并且，如果 36。。。 Bd6，"
+  },
+  {
+    "page": 226,
+    "side": "right",
+    "kind": "body",
+    "text": "then 37 Qf3 and White, by giving back the exchange, could make it difficult for the opponent to carry out a decisive attack. But now the denouement is fast approaching, since Black, with the help of the f-pawn, forcibly removes the last cover of the White king - the e3 pawn.",
+    "chapter": 8,
+    "segment_id": "CH8-158",
+    "zh": "那么37Qf3和白方，通过回击交换，可以使对手难以进行决定性的攻击。但现在结局已经临近，黑方在f-兵的帮助下，强行拆掉了白方王最后的掩护——e3兵。"
+  },
+  {
+    "page": 226,
+    "side": "right",
+    "kind": "moves",
+    "text": "35 ... Bd6 36. Qf2 f4! 37. exf4 Re4 38. Rh4 Bxb1 39. Kc1 Bd3 40. b4 cxb3 41. axb3 Qa5 0-1",
+    "chapter": 8,
+    "page_end": 226,
+    "segment_id": "CH8-159",
+    "zh": "35 ... Bd6 36. Qf2 f4! 37. exf4 Re4 38. Rh4 Bxb1 39. Kc1 Bd3 40. b4 cxb3 41. axb3 Qa5 0-1"
+  },
+  {
+    "page": 226,
+    "side": "right",
+    "kind": "body",
+    "text": "Can it be said that Black gained victory due to the \"advantage of the two bishops\"? Of course not! White lost as a consequence of the many positional weaknesses in his game and the exposed position of his king, stuck in the centre. One can say with confidence that if it were not the opponent's bishop, but his knight, which was placed on d3, then likewise White would not have saved the game.",
+    "chapter": 8,
+    "segment_id": "CH8-160",
+    "zh": "难道说黑方是凭借“双象的优势”取得了胜利吗？当然不是！白方由于其棋局中的许多位置弱点以及他的王暴露的位置（卡在中间）而输掉了对局。可以肯定地说，如果不是对手的象，而是他的马，放在d3上，那么同样白方也无法挽救对局。"
+  },
+  {
+    "page": 226,
+    "side": "right",
+    "kind": "body",
+    "text": "Thus to the question whether, in evaluating a position, the factor of the presence of the two bishops for one of the opponents should be taken into account as a particular aspect of the advantage, the right reply, in our view, will be - no, it should not.",
+    "chapter": 8,
+    "page_end": 227,
+    "segment_id": "CH8-161",
+    "zh": "因此，对于在评估一个位置时，是否应该将其中一个对手的双象的存在因素作为优势的一个特定方面考虑在内的问题，在我们看来，正确的答案是——不，不应该。"
+  },
+  {
+    "page": 227,
+    "side": "left",
+    "kind": "body",
+    "text": "This particular aspect of the advantage does not exist, as does not exist the advantage of the \"two knights\", \"\"two rooks\" etc. Just as the exploitation of a weak square by the knight, the intensification of activity by the bishops is based on a complex of weak squares or other weaknesses of the position, on the features of a given concrete position as a whole.",
+    "chapter": 8,
+    "page_end": 227,
+    "segment_id": "CH8-162",
+    "zh": "这一特定方面的优势并不存在，就像不存在“两个马”、““两个车”等优势一样。正如马对弱格的利用一样，象的活动强化是基于弱格的复合体或该职位的其他弱点，基于给出整体的具体位置。"
+  }
+]

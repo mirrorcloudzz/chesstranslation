@@ -1,0 +1,123 @@
+                《国际象棋中局计划》
+               B：格子 - 4：若干结论
+
+                   英文 OCR 校正稿 + 中文翻译校对稿
+
+
+
+    文档性质      初译校对稿，非最终出版版本
+
+
+    内容范围      原书印刷页 51-52
+
+
+    棋谱规范      中文译文采用现代 SAN；黑方单独着法使用省略号；结果使用 1-0 / 0-1
+
+
+    术语延续      tempo 译为“先手”；动象 / 动后 / 动马 / 动车；material 按棋理语境译为“子
+              力”
+
+
+    版本日期      2026-09-24
+
+
+
+
+重点核对结构性弱格、局面性原因、据点和象的侧翼出子等概念表述。
+
+
+
+
+                                1
+ 《国际象棋中局计划》｜格子 - 若干结论｜校对稿
+
+
+
+
+B：格子 - 4：若干结论
+                       经校正的英文 OCR                                                        中文译文
+
+SC-1                                                                      SC-1
+In summing up everything that has been said about weak squares, we        总结前面对弱格的全部论述，首先可以得出结论：弱格是一种局面
+may first of all conclude that they are positional elements capable of
+                                                                          要素，能够显著增强棋子的力量——首先是象或马——有时甚至足
+considerably increasing the strength of pieces - in the first place the
+bishop or knight - sometimes to an extent sufficient to decide the        以决定一盘棋的结果。
+outcome of the game.
+                                                                          这一结论直接引出了子力相对价值的问题。评价一枚棋子的力量，
+This conclusion brings us directly to the question of the relative
+                                                                          应以它在具体局面中所承担的作用为依据。
+strength of the pieces, which should be assessed according to the role
+they fulfil in a given concrete position.
+                                                                          另一个结论涉及格子变弱的原因。这些原因可以分为两类：（一）
+Another conclusion concerns the causes of weakened squares, which         结构性原因；（二）局面性原因。
+can be divided into two categories: (i) structural and (ii) positional.
+
+                                                                          结构性原因由兵形决定。无法受到兵攻击的格子，可以视为结构性
+The structural cause is determined by the position of the pawns. A
+square which cannot be attacked by pawns may be considered                弱格。不过必须再次强调：这种格子的弱点只是潜在的。只有当对
+structurally weak. It must once again be emphasised, however, that the    手在局面上能够把该格作为己方子力的据点时，它才会成为真正的
+weakness of such a square is only potential. It becomes a real            弱点。
+weakness only when the opponent has the positional possibility of
+exploiting the square as a base for his pieces.
+                                                                          如果本方缺少能够控制该弱格同色格子的象，或者缺少能够有力防
+The absence of a bishop operating on squares of the same colour as the    守该格的马，这同样应归入结构性原因；因为无论哪一种情况，本
+weakened square, or of a knight which powerfully defends that square,     身都不足以决定一个格子实际上是否薄弱。
+must likewise be regarded as a structural cause, since neither
+circumstance in itself determines the actual weakness of a square.
+
+
+SC-2                                                                      SC-2
+With the development of a bishop on the flank - for example, on g2 for    当象从侧翼出子——例如白象走到g2——时，经常会形成
+White - the pawn structure e3-f2-g3-h2 frequently arises, in which the
+                                                                          e3-f2-g3-h2兵形，其中f3和h3格在结构上有所削弱。然而，这丝毫
+f3 and h3 squares are structurally weakened. Yet this circumstance in
+no way prevents contemporary opening theory from recommending the         不妨碍现代开局理论在大量开局中推荐象的侧翼出子。
+fianchetto of the bishop in a great many openings.
+                                                                          由此可见，不应仅仅因为存在结构性弱点就心生畏惧，否则我们会
+It is therefore clear that structural weaknesses as such should not be
+                                                                          使自己无法实施许多积极计划。不过，在机动战中，如果某种结构
+feared; otherwise we deprive ourselves of the possibility of carrying
+out many active plans. Nevertheless, in manoeuvring play it is useful     性弱点既没有明确目的，也缺乏充分依据，就仍应尽量避免造成这
+to avoid even structural weaknesses when they are not properly            种弱点。
+motivated and well founded.
+
+
+
+
+                                                                           2
+《国际象棋中局计划》｜格子 - 若干结论｜校对稿
+
+
+
+
+附录：原扫描页
+以下扫描页保留原书棋盘图、版面和旧式记谱，用于核对 OCR、棋谱与译文。相邻小节共用的边界页会在两份校样中重复收录。
+
+
+
+
+                            3
+《国际象棋中局计划》｜格子 - 若干结论｜校对稿
+
+
+
+
+                           原书印刷页 51
+
+
+
+
+                              4
+《国际象棋中局计划》｜格子 - 若干结论｜校对稿
+
+
+
+
+                           原书印刷页 52
+
+
+
+
+                              5
+

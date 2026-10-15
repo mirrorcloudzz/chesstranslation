@@ -1,0 +1,512 @@
+The attack on the king as an integral part of the game
+
+
+[PDF page 334]
+12 The attack on the king as an
+integral part of the game
+We have examined the various aspects of the attack on the castled king and have
+covered each topic on the basis of present-day knowledge of the art of chess. This
+material has been presented with all the difficulties and deficiencies of a pioneer,
+but with the joy of a discoverer who has seen in new knowledge a confirmation of
+his faith in the values of chess and his own general theory of the game. The atten-
+tive reader who has battled his way with the writer from chapter to chapter will
+have observed the steady widening of the problem of the attack on the king; we
+began with the basic techniques of combination and have progressed to the kind
+of understanding which characterizes mastery of the game. The logical path we
+have taken has justified its call for a high degree of effort in return for new knowl-
+edge; its purpose is to show us the significance of the attack on the castled king in
+the full context of a game of chess. From our examination of the defence against
+a kingside attack and of the phases of such an attack, it has become clear that a
+correct attack is conditioned by the situation on all parts of the board and also by
+all that has happened in the earlier course of the game. An attack on the king is
+not some strange, exceptional, and daring operation like a grand slam in bridge.
+It is an action which is both logical and necessary; an action on which a player
+decides at a certain stage of the game; sometimes, indeed, he must decide on it, if
+his opponent is not to obtain an advantage or if the position is not to fizzle out
+into a draw.
+Lasker observed long ago that every action is essentially a diversion, a transi-
+tion from equality to some spatial or temporal commitment. An attack on the
+king demands a very large diversion both in terms of the number of pieces in-
+volved and of the degree of commitment arising out of any pawn moves it entails.
+A considerable diversion of this kind also logically needs a considerable number
+of preconditions, as well as a knowledge of how these conditions are interrelated.
+It follows, therefore, that the attack on the castled king is an extremely difficult
+operation, which is based on a perfect mastery of all the forms of chess tech-
+nique. Even in the early stages of the opening the first seeds of the preconditions
+for an attack on the king are already being sown, and the tense struggle for the
+central squares is tightly bound up with the successful outcome of the attack or
+defence. The characteristic features of a position, the weaknesses on both sides,
+
+[PDF page 335]
+and the elements that affect the endgame — all these accumulate and become in-
+tertwined in such a way that at a certain moment they impel the player to decide
+on the final objective of his play. This is the moment of crisis in the drama of the
+games of great masters, when it has to be decided whether it is best to continue
+promoting the preconditions for an attack on the king or to seek a favourable end-
+ing. The decision is not easy, for both courses demand not only technique but the
+ability to weld all the elements involved into a whole; moreover, we are still in
+the dark about many of the laws governing this process. Chess skill at the present
+time comprises a mastery of combinative techniques and the possession of ma-
+ture positional judgement, while the science of the game has cleared up the prob-
+lem of the in the majority of openings. However, we are still a long, long
+way from a thorough knowledge of the laws governing the methods of integrat-
+ing all the elements into a strategic whole. And where there is insufficient knowl-
+edge one proceeds 'by feel' , or in other words, one takes risks. The endgame and
+the attack on the king are two areas about which our knowledge is incomplete,
+but they are also two directions in which chess can be further explored and
+through which the ancient game can be raised to a still higher level.
+We have said that there still exist areas in the art of chess where our knowledge
+is incomplete, and many of our readers may ask whether there are not at least
+some signposts pointing to where new knowledge might be found. The very at-
+tentive reader may also recall that mention was made in the Introduction of
+Alekhine's and Capablanca's understanding of the attack on the king and that a
+discussion on this subject was promised at the end of the book. Indeed, this is the
+right place for such a discussion, since the most difficult and arcane matters
+should be dealt with at the end, after everything else has been elucidated.
+The discoveries of Alekhine and Capablanca
+It is a slightly strange thesis that one should go back to the period before the Sec-
+ond World War and look for the culmination of the art of the attack on the king in
+the play of Alekhine and Capablanca. For have not Botvinnik and Smyslov,
+Keres and Bronstein, Reshevsky and Gligorié in their rich creativity in the field
+of chess discovered all that Alekhine and Capablanca knew and also gone on to
+add something else? It is indeed true that they have proceeded further in many re-
+spects, and perhaps even in their knowledge about the attack on the king they are
+the equals of the great masters of the past; in their actual games, however, they
+have not so far put it into practice to the full. If we delve into the whole of chess
+literature looking for games which serve to illuminate the logical integration of
+the attack on the castled king and the game in its entirety, then those of Alekhine
+
+[PDF page 336]
+and Capablanca remain the unsurpassed models; side by side with them may be
+placed a few of the games of Rubinstein, Keres, and Bronstein, though we shall
+find scarcely any new discoveries in them; the whole period from Alekhine's
+death to the present day has not been particularly fruitful in the sphere of the at-
+tack on the king. So one is justified in going back to Alekhine and Capablanca as
+the first to discover knowledge which to this day has been neither refuted nor su-
+perseded.
+As far as these actual discoveries by Alekhine and Capablanca are concerned,
+it can be said that they did not take the form of some new principle but rather de-
+pended on a new way of thinking, which proceeded subjectively and therefore in
+a manner which cannot be expressed or comprehended on a theoretical basis; by
+these methods they discovered moves which fulfil the chief principle of the at-
+tack on the castled king, namely, obtaining the maximum preconditions for an at-
+tack with the minimum of commitment.
+This principle in itself is a simple one and can be easily remembered, but play-
+ing in accordance with it is extremely difficult. Here two grades of values must
+be clearly distinguished: the one based on the value of the individual precondi-
+tions and the other on that of the successive commitments undertaken. This must
+then be resolved into a precisely ordered series of moves, while one must also be
+ready at any moment to convert the attack into some other thematic course of ac-
+tion — all of which requires considerable mastery.
+From a close study of the games of Alekhine and Capablanca one can con-
+clude that they did indeed use a perfected method of thinking in the sense men-
+tioned above; only, in the case of Alekhine this thinking was more analytical and
+logical, while with Capablanca it was more artistically intuitive. However, the re-
+sults of this thinking, that is, the actual moves, do not appear to differ greatly to
+the outside observer. However, Alekhine's discoveries can be somewhat more
+precisely defined than Capablanca's; Alekhine's output was more abundant, he
+'lived chess' more deeply, and he was a more passionate analyser of his own
+games. A particular characteristic of his commentaries is the frequent use of the
+idea of commitment (just as with Lasker we get the idea of compensation, with
+Steinitz that of the balance of the position, and with Nimzowitsch that of central-
+ization). One could say that of all masters Alekhine had the most refined sense of
+the degree of commitment, even though his temperament sometimes led him to
+be too eager.
+When Alekhine, with apparent nonchalance, played, for instance, h4 against the
+French Defence, this appeared to his contemporaries to be 'the pretentiousness
+of genius' , but a closer analysis today reveals that behind such moves there lay a
+great deal of mental calculation and hard logic, and that this move h4 belongs
+
+[PDF page 337]
+exactly when it was played; a move earlier it would have been weak and on the
+next it would be too late!
+Further illustration of all these points will be better obtained by the reader
+from the actual games which follow.
+Alekhine - Asztalos
+Kecskemet, 1927
+Queen's Gambit Declined
+1 Qf3 Qf6 2 c4 e6 3 d4 d5 4 Ag5 h6
+A little experiment in the opening — and a dangerous one when Alekhine is on
+the other side of the board. The spatial advantage now obtained by White is
+worth more than Black's two bishops.
+5 Vxf6 6 c6 7 Vb3 Qd7
+Having started experimenting, Black ought to have gone on in like manner,
+e.g. 7...Vf5 8 e3 Qd7 9 Adl Vg6, by which he would have put more difficulties
+in the way of White's plan to gain space in the centre.
+8 e4 dxe4 9 Vf4 10 Ad3 Ae7 11 0-0 0-0 12 Xfel Äd8 13 Xadl Vc7
+Black cannot complete his development as long as his queen remains on f4,
+for example 13...Qf6 14 ae5! Xxd4 15 Qxf6+ Axf6 16 g3 Vg5 17 Of-3 Vc5 18
+Q)xd4 Axd4 19 Ah7+ followed by Vd3+ and Vxd4.
+14 Qg3 Of8 15 vc3 (D)
+A useful move, which is intended, among other things, as a preparation for an
+eventual Qh5, thereby provoking, by virtue of the threat of d5, a weakness in
+Black's king position. Black parries this with ...a5 and further moves on the
+queenside. We shall see at what cost!
+[AA-p337-fig01]
+
+[PDF page 338]
+15...a5 16 a3 a4
+Now 17 Qh5 can be met by 17...Va5. However, as a result of Black's advance
+of the a-pawn, his pawn structure on the queenside has lost its flexibility, which in
+its turn makes it easier for White to favourably resolve the tension in the cenfre.
+17 Va5 18 Vcl Adi 19
+This threatens Qc4-b6 and thus induces Black to play ...b5, which leads to a
+blocked position on the queenside and restricts his counterplay in the event of
+White's launching an attack on the kingside.
+19...b5 20 Ae4 (D)
+[AA-p338-fig01]
+A series of preconditions for an attack on the king has been created: the weak-
+ness represented by the black pawn at h6; the aggressive placing of White's
+pieces; his control of the centre; and Black's limited resources on the queenside.
+White, however, is not in a hurry to attack, for he sees that he can use his pressure
+on c6 to improve the deployment of his own pieces and, at the same time, to con-
+strict his opponent's.
+20...Vc7 21 Vc3 Ae8 22 Ze2!
+White is thinking of the square b4.
+22...Äa6 23
+Against the threatening line-up of white knight at b4 and queen at f3 Black has
+only two expedients, namely, the direct weakening of his king position by ...f6 or
+an indirect weakening in the form of the exchange of his knight, which defends
+the square h7. Black decided on the latter course.
+24 Qxd7 Xxd7 25 Qd3 Äd8 26 Af8
+Black is sure that the enduring pressure on the diagonal against h7 will oblige
+him to play ...g6. Logically, therefore, he decides upon a delayed fianchetto as
+the best means of putting up some resistance.
+
+[PDF page 339]
+The first move which really commits the attacker; the situation is also ready
+for it. It is directed against the future weakness on g6.
+27...Äaa8 28 Abl 115
+He does not like the idea of 29 Vc2 g6 30 h5.
+29 Vf3 g6 30 g4 hxg4 31 Vxg4 Ag7 32 Aa2!
+Before proceeding any further, White prevents ...f5, which Black cannot pre-
+pare by 32...Ve7 on account of 33 mxg6 and 34 Äxe6.
+32..."33 Ac4!
+White prefers to avoid 33 axb4 a3 which would allow Black to obtain counter-
+33...bxa3 34 bxa3 Va5 35 ve4 Vc7 36 Vf4 Xab8 37 h5
+This must come sooner or later.
+37...gxh5 38 •hl Xb7 39 Ve7 40 Zxg7+!
+White cannot count on success without this sacrifice to eliminate the fian-
+chettoed bishop, Black's main line of defence.
+40...#xg7 41 xgl+ 42 axf7'.? (D)
+[AA-p339-fig01]
+1-0
+Having played so excellently and — as regards the method of preparing the at-
+tack on the king — so instructively, Alekhine concludes the game with a sacrifice
+that is not fully correct! I say 'concludes', because Asztalos took fright and re-
+signed when he could well have played on. The continuation which Alekhine had
+in mind and which he expounded in the tournament book contained a loophole
+giving a draw, and even against White's best play Black would have had drawing
+chances. Let us first look at Alekhine's line.
+
+[PDF page 340]
+42...Vxf7 43 Ad3+ vg6 44 Axg6+
+If 44 Vg3, Black replies 44...Xg7, while 44 Vf3 can be met by 44...Xd5.
+Thirdly, 44 vg5 VXd3 45 vg8+ 46 Vh84- v h 7 47 Vf8+ ! 48 Xxg7
+Äxg7 49 Vf6+ Ag6 50 Vxd8 Ae4+ probably results in a draw.
+44...Axg6 45 Xxg6?
+So far this is Alekhine's analysis. However, 45 Vf6! Xg8 46 Vxe6 is stronger
+1
+and does indeed win, though White still has a hard task ahead .
+45...Éxg6 46 Ve4+ ég7 47 Ve5+
+Here Alekhine concludes his analysis with the remark that Black 'after a few
+further checks, would inevitably lose one of his rooks.' In fact, he loses after all
+moves except 47...#g6 followed by keeping the king on g6 or g 7. After 48
+Vxe6+ 49 Vxc6 Äbl+! 50 ég2 Xxd4 51 Vc7+ ég6 the checks cease,
+whereupon Black's rooks begin to deploy themselves for play against the king or
+the c-pawn. One cannot see how White can win; the position is very likely drawn.
+Alekhine unintentionally bluffed the unfortunate Asztalos and the jury, who on
+the basis of his analysis awarded him the Brilliancy Prize.
+We must now point out what is objectively the strongest move and the continu-
+ation by which White wins. Thus (instead of 42 Oxf7!?) he should have pro-
+ceeded as follows:
+42 Vg3 Vf8 (D)
+Forced; if 42...f5, then 43 Vg8+ followed by Vh8+ and Vf6+ is decisive,
+while if 42...Vf6, then 43 Ad3+ wins.
+[AA-p340-fig01]
+1
+A distinct exaggeration. White has queen and pawn against rook and bishop,
+Black's remaining pawns are all weak and White has a passed f-pawn — I
+wouldn't expect many technical problems here!
+
+[PDF page 341]
+43 Vh4! f6
+Both 43...Äd5 44 hg4 and 43...Ädb8 44 Vf6 Xb3 45 Axe6 also win for
+White.
+44 Ad3+ 45 Ag6! Äh7
+Or 45...fxe5 46 Vxh5+ ég7 47 Axe8+ and 48 Vg5#.
+46 Axh7 exh7
+After 46...fxe5 47 Vxd8 Vf3+ 48 Xg2 Black has one more check before
+White mates him.
+47 Ag6
+Or 47...#h8 48 oxf6 Af7 49 Qxh5 and White wins.
+48 Qxf6+ ég7 49 mxh5+
+and Black loses his bishop with check.
+Capablanca — Schroeder
+New York, 1916
+Queen's Gambit Declined, Orthodox Defence
+1 d4 d5 2 Qf3 e6 3 c4 Qf6 4 Qbd7 5 Ag5 Ae7 6 e3 0-0 7 xci a6 8 Vc2
+This is better than either 8 c5 or 8 a3, which Capablanca played in a number of
+games of his 1928 match against Alekhine, but best of all is 8 cxd5.
+8...xe8 9 Ad3 dxc4 10 Axc4 b5 11 Ad3 Abi?
+At this point Black cannot spare the time to continue preparing ...c5; he should
+have played it at once.
+12 a4! (D)
+[AA-p341-fig01]
+In order to entice the b-pawn to b4, which is useful for further play against the
+square c5.
+
+[PDF page 342]
+12...b4 13 Axf6
+This exchange is advantageous in two respects; first, for its 'clearance' of the
+square c5 and secondly, because it eliminates the possibility of a defence later on
+by ...Qf8.
+13...Qxf6 14 Q)e4 Qxe4 15 Axe4 Axe4 16 Vxe4 c5
+Sink or swim, Black must play this, for otherwise Vc6 follows, fixing the
+backward c-pawn.
+17 dxc5 Vas 18 b3 Axc5 19 (D)
+[AA-p342-fig01]
+Can it be that White is justified in switching to an attack on the king after prep-
+arations which were clearly directed at the c-file? How does this fit in with our
+thesis on the need to fulfil a series of preconditions before opening an attack on
+the king? In fact, there is no contradiction; the preconditions are present, but they
+have arisen in a different way from those in the Alekhine-Asztalos game.
+It is true that the preconditions for the attack on the castled king in this game
+have come about suddenly and somewhat incidentally; at the same time, this has
+occurred quite legitimately. The main point is that White's play, starting with 12
+a4, serves two purposes: it maintains the pressure on the c-file and simulta-
+neously improves the preconditions for an attack on the king. As a result of 12 a4
+b4 and 18 b3 the position on the queenside became blocked, and this has reduced
+Black's prospects of counterplay, while 17 dxc5 resolved the tension in the cen-
+tre.
+Furthermore, 13 Axf6, 15 Axe4, and 16 Vxe4 represent, in effect, a far-
+reaching elimination of Black's defending pieces; in the same way, the struggle
+revolving around the pawns on the c-file has forced Black (in 17...Va5 and
+18...Axc5) to displace two pieces which are important for the defence of his king
+position. This is without doubt a full set of preconditions, built up with true
+
+[PDF page 343]
+Capablanca virtuosity and elan. Now White's knight, a sort of 'equus ex ma-
+china', stirs up a whirlwind attack on the king, against which there is hardly an
+adequate defence.
+19...h6?
+Although Black has no really sound reply at his disposal, 19...f5 was the lesser
+evil. Then White does not gain much by 20 Ve5 Ab6 while if 20 Vb7, Black
+plays 20...Vb6, and after 21 Vf7+ 22 Vh5 h6 White's attack stops, for ex-
+ample, 23 h4? Axe3! 24 Vg6 is not sound, since after 24...hxg5 25 hxg5+ ég8
+White cannot give perpetual check, while 26 Xh7 is weak on account of
+26...Vd4. The best line is 20 Vc4 Xac8! 21 axe6 Ab6 22 Vxc8 Äxc8 23 Äxc8+
+Éf7 24 Qg5+ 25 Qf3 Vd5 26 0-0 Ad8 followed by ...Af6 with some
+chances of a draw . This continuation would have been relatively the best way
+out for Black.
+Better than the text move but worse perhaps than 19...f5 is 19...g6. An analysis
+of this move, which, though it may emanate from Capablanca, needs to be cor-
+rected, runs as follows: 19...g6 20 Vf3 Äf8 (everything else is weaker; 20...Xa7
+in particular, does not work on account of 21 Vc6) 21 Vh3 h5 22 oxe6? fxe6 23
+Vxe6+ 24 Vd7+ 25 Vc6; now the analysis continues with 25 .Xac8?,
+missing the fact that Black can win by 25...Axe3! 26 fxe3 Vf52 27 Vf3 (forced)
+27...Vd3 28 Ve2 Vxb3, obtaining an attack and, before long, a material advan-
+tage as well. This analysis can be improved by playing, instead of 21 Vh3, 21
+Vf6 (threatening either 22 Äc4 and 23 Oxh7 or at once 22 Oxh7) 21...Äae8 (if
+21...h6 then 22 öxe6 wins, while 21...Äac8 is not good because of 22 Äc43) 22
+Ve5 Ab6 23 Vxa5 Axa5 24 Äc8 25 ae4, when White has much the better
+ending, for example if 25...Zfd8, then 26 Qc5 Xc6 27 07 Xxcl 28 Xxcl Ad5
+29 e4.
+20 Vh7+ 21 Vh8+ 22 Vxg7 hxg5 23 Vxg5+ Éd6 24 (D)
+Two pawns, the exposed position of the black king, Black's commitments at
+c5, and White's rooks on the c- and d-files — all this is obviously more than suffi-
+cient compensation for the sacrificed knight. Capablanca also particularly
+After 27 Xc6+ Af6 28 Qd4 1 see no real chances for a draw; White has two
+1
+rooks and a pawn for the queen, and Black's king is exposed. One line is
+28...#h5 29 Xc4 Axd4 30 Xdl, followed by Ädxd4.
+This allows a defence by 27 Vc2, but Black can improve by 26...Vg5!, which
+2
+does indeed win for Black.
+After 21...Xac8 22 Äc4 Black can defend by 22...Xc7!, for example 23 Qxh7
+3
+Ae7 or 23 Xh4 Ae7. Thus it is hard to demonstrate an advantage for White after
+
+[PDF page 344]
+[AA-p344-fig01]
+stresses Black's inability to stop the advance of the h-pawn while White is tying
+him down on the queenside.
+24...Xac8 25 xc4 26 Xhcl 27 h4 f5
+Capablanca had reckoned on the following transition into a won ending:
+27...xc7 28 h5 Äec8 29 h6 Ad6 30 Vxa5+ 31 xxc7 xxc7 32 Äxc7 Axc7
+33 f4 Ad8 34 g4 Af6 35 g5 Ah8 36 e4 37 f5 followed by g6-g7.
+28 Vg7 xe7 29 ve5 xc6
+This loses at once, but 29...Äec7 has no future either in view of 30 h5.
+30 Xxc5 1-0
+For, if 30...Äxc5 then 31 Vd6+ is decisive.
+Capablanca's virtuosity in integrating all the features of the position into a co-
+herent whole is worthy of close attention.
+Alekhine - Kmoch
+San Remo, 1930
+Nimzo-Indian Defence
+1 d4 Qf6 2 c4 e6 3 Ab4 4 Ad2
+One of the most harmless continuations.
+4...O-0 5 e3 d5 6 hf3 c5 7 a3 Axc3 8 Axc3 9 10 xxc3 cxd4
+11 exd4 Qc6 12 Ae2
+If 12 c5 then Black can immediately play 12...e5.
+12...dxc4 13 Axc4 Vf6
+White has not achieved very much in the opening. In view of the reduction in
+material his spatial advantage offers no more than approximate compensation for
+the isolated pawn.
+14 0-0 Xd8 15 Zd3 Ad7 16 zel
+
+[PDF page 345]
+By 16 Vd2 White could have prepared to obtain clear equality by d5. How-
+ever, he does not like the idea of a draw.
+16...Ae8 17 Vd2 18 Qg5
+As this threatens 19 axe6 fxe6 20 Xxe6, Black does not have time for
+18...Ac6 or 18...Qf5.
+18...Qd5 19 Xf3 Ve7 20 xg3 h6 (D)
+[AA-p345-fig01]
+White has proceeded cautiously and prepared the ground for Vd3, with the
+aim of provoking a weakening of the enemy king position in the shape of ...g6.
+For this reason Kmoch prefers to go in for ...h6, which weakens him less. White
+can only obtain results by attacking the king, for Black is the better placed for the
+endgame.
+21 Qf3
+If 21 Qe4 Black can reply 21...Vh4.
+21...Vf6 22 xe4 Qe7
+Parrying the threat of Xeg4.
+23 Qf5 24 Xd3
+White has managed to weaken the enemy king position, but he still lacks the
+preconditions for a real attack. A little regrouping is therefore needed, and above
+all the square d4 must be safeguarded. If 24 Xf3 then 24...Ac6 25 mxc6 bxc6 is
+quite good for Black. Of the minor pieces the knights are more valuable than the
+bishops, from the point of view of both the attacker and his opponent.
+24...Xac8 25 h3 Qd6?
+Up to this point the author of The Art of Defence has defended correctly and
+preserved equality. Now, however, he goes astray in playing to exchange off his
+important knight, which is the main defender of his king position. Correct was
+25...Ac6.
+
+[PDF page 346]
+26 Xf4 27 Qxc4 Vg5 28 Äg3 Vd5 29 vc6 30 Vcl 31 Vb4
+vc7 32 d5! (D)
+[AA-p346-fig01]
+Apparently, Black has manoeuvred himself into a new defensive position, one
+which also affords the possibility of his inconveniencing White's queen further
+by ...a5. The only weak side of his manoeuvre is that it does not give sufficient at-
+tention to centralization. As a result, the alleged pawn weakling on d4 is trans-
+formed — ironically — into an aggressor, punishing Black for his neglect of the
+central squares.
+32...a5
+After 32...exd5 33 Vd4 g6 (or 33...g5) 34 Qf5 Black would quickly come to
+grief; equally bad is 32...e5 33 Xfg4 g6 34 Qf5.
+33 ve4 Xd6 34 ve5 g6 35 Vh5!
+If 35 Xc4? Black could bring the attack to a halt by 35...Xc6!.
+35...Xxd5
+Or 35...#h7 36 Qg4! gxh5 37 Qf6+ and mates.
+36 Oxd5 exd5 37 Vxh6 ve5 38 Äh4 Vg7 1-0
+Colle - Capablanca
+Carlsbad, 1929
+Colle System
+1 d4 Qf6 2 Qf3 b6 3 e3 Abi 4 hbd2 e6 5 Ad3 c5 6 0-0 7 c3
+The formation with pawns on c3, d4, and e3, bishop on d3, and knights on d2
+and f3 characterizes the Colle System. White's plan is to force e3-e4 and
+then exchange his d2-knight for Black's f6-knight on this same square; he
+thereby creates some of the preconditions for an attack on the king without
+
+[PDF page 347]
+entailing any commitments. The Colle System, however, lacks positional depth
+and, consequently, Black does not have any great anxiety as regards the
+7...Ae7 8 e4 cxd4
+Capablanca's treatment of the opening, adopting a Queen's Indian set-up, is
+both sound and also suitable for avoiding lines which equalize out to a draw.
+White's strong point in the centre is now eliminated, for he must recapture the
+pawn with his knight, otherwise 9 cxd4 Qb4 10 Abl Aa6 leaves Black with the
+better game.
+9 Oxd4 0-0 10 Ve2
+First 10 mxc6 would have been sounder.
+10...Qe5 11 Ac2 Vc8 12 f4
+Preparation for an attack on the king, but also a weakening of the gl-a7 diago-
+nal.
+12...Aa6 13 Vdl
+Obviously not 13...Axf1 ? on account of 14 fxe5. Moving the bishop to a6 had
+other points: on the one hand, to drive the white queen back and, on the other, to
+induce White to play Äf3, whereby he undertakes a commitment to attack before
+the preconditions for a successful attack have matured.
+14 Äf3
+Against 14 e5 Black has 14...Qd5 after which 15 Axh7+ does not work (be-
+cause of 15...#xh7 16 Vh5+ ég8 17 Xf3 f5 18 Äh3 mxf4) while, given a free
+move, Black can consolidate his defences by playing 15...f5.
+In the event of other, slower methods of attack Black has a sound defensive
+plan based on the effective use of the diagonals for his bishops and a centralized
+knight on d5. This will be seen in the further course of the game.
+In view of the restricted range of activity of White's dark-squared bishop, this
+weakness is negligible. It is important for Black to exclude short-term dangers on
+the kingside, since he needs time to increase his pressure on the central squares.
+15 02b3 Qxd4 16 mxd4 Abi 17 Ve2 Ac5 18 Xh3 Vc6!
+Black forces e5 in order to gain the d5-square for his knight and open up the
+diagonal.
+19 e5 Qd5 (D)
+20 VD?!
+Up to this point Colle's play has been a little pretentious but not really incor-
+rect, for his commitments have not been decisive ones. Still, he should now have
+admitted that it was pointless to continue playing for an attack and striven, by
+paying careful attention to the central squares, to keep the game within the well-
+known 'margin of a draw'; for example, 20 Ae3 Axd4 21 cxd4 Xac8 22 Ab3!
+
+[PDF page 348]
+[AA-p348-fig01]
+when Black, after 22...Qxe3 23 Xxe3 clearly has nothing either in the centre or
+on the c-file; nor does 22...b5 or the like offer anything very much. (In Golom-
+bek's book Capablanca 's Hundred Best Games of Chess, instead of 22 Ab3 ! ,
+the erroneous 22 Xcl? is given; then Black does indeed get the upper hand by
+22...Qxe3 23 Xxe3 Vc4.)
+20...Axd4?!
+Satisfied with the centralization he has achieved, Black too now becomes
+rather presumptuous and opens up the c-file prematurely. 20...f5 followed by a
+quiet positional plan based on ...b5-b4 was probably best. In that event simplifi-
+cation by 21 Oxc6 Axf2+ 22 #xf2 Axc6 would give Black the better ending,
+while if 21 Ae3, then 21...Axd4 22 cxd4 Qb4 would be perfectly agreeable.
+The move suggested, 20...f5, signifies that Black is satisfied with a small ad-
+vantage, whereas Capablanca's idea aspires to dynamic play on the c- and f-files.
+However, the preconditions for this are insufficient, for counterattacks too de-
+mand preconditions and entail commitments just as attacks on the king do. The
+laws which determine the connection between the two types of action dictate the
+form, timing, and tempo of the counterattack in accordance with the state of the
+attack. Thus, the degree to which the attacking units have been diverted condi-
+tions the extent and force of the counterattack. In this case, therefore, direct de-
+fence by 20...f5 would have been better than 20...Axd4.
+21 cxd4 Zac8
+The immediate 21...f6 did not work on account of 22 Vh4 Äf7 23 Axg6.
+22 Adi!
+Other moves by the bishop are defeated by 22...Vxcl+. 22 Vh4 is also inade-
+quate; for example, 22...Qf6! 23 Xg3 Vxc2 24 Ae3 (to prevent ...Vdl+) 24...Qe4
+25 Xh3 h5 and Black wins.
+22...f6! (D)
+
+[PDF page 349]
+[AA-p349-fig01]
+This much-praised move of Capablanca's is very economical in that it both at-
+tacks and defends in equal measure; it is probably Black's best, now that he has
+embarked on 20...Axd4. It is also true that an attack generally collapses when the
+pawns in front of the king begin to 'bite' , but in this case the question is no longer
+one of attack but of the overall state of the position. Black has in fact awoken pos-
+sibilities for White on the c-file, and in the event of the game being opened up
+White's two bishops could come into their own.
+23 Vh4?
+This gains a tempo for Af3 but neglects the development of his c I-bishop and
+al-rook. The correct move was 23 Ad2!. Capablanca's intention in that case was
+23...hxf4!? 24 Axf4 fxe5 25 Af3 e4 but the combination has a flaw: White does
+not play 26 Ae2? (when 26...e3! wins) but 26 Vh4!, and Black finds himself in
+difficulties. Moreover, 23 Ad2! cannot be met by 23...fxe5, e.g. 24 Xcl Vb5
+(24...Vxcl would not succeed against correct play by White) 25 Xxc8 Axc8 26
+Vh4, whereupon 26...Äf7 27 Vd8+ leads to a draw, 26...h5 is not good due to 27
+Vg5, while the complications following 26...Qf6 27 fxe5 Aa6 28 XB seem full of
+uncertainty. Against 23 Ad2! Black would probably have to play 23...d6 24 Äcl
+Vd7, when 25 Äxc8 Axc8 26 Xf3 results in a complex struggle in which White's
+dark-squared bishop derives pleasure from every exchange on e5. This repre-
+sents an analytical proof of the assertions made in the note to the twentieth move.
+23...Äf7 24 Af3 Vc4
+Since 25 Vf2 does not work (because of 25...Vxc1+) White is now lost.
+25 Ae3 Qxe3 26 Axb7 Qf5 27 Vel 28 Ae4 Vxd4+ 29 fxe5 30
+Axf5 exf5 31 fxe5 Xe7 32 Xe3 Vxb2 33 e6 dxe6 34 Äxe6 0-1
+This game is very instructive for the purpose of studying the complex connec-
+tion between attack and indirect defence; the decisive points illustrating this
+were shown in their correct light only by a thorough revision of the commentary.

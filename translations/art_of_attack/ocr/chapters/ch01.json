@@ -1,0 +1,4856 @@
+{
+  "section": {
+    "id": "ch01",
+    "title": "The attack against the uncastled king",
+    "pdf_start": 14,
+    "pdf_end": 27,
+    "print_start": 14,
+    "print_end": 27
+  },
+  "status": "OCR_preparation_not_proofread",
+  "pages": [
+    {
+      "pdf_page": 14,
+      "source_image": "source_pages/page-014.png",
+      "lines": [
+        {
+          "bbox": [
+            274.4,
+            283.2,
+            1241.1,
+            373.0
+          ],
+          "text": "1 The attack against the",
+          "confidence": 0.963,
+          "id": "AA-p014-l001",
+          "pdf_page": 14,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            361.4,
+            379.2,
+            937.2,
+            479.0
+          ],
+          "text": "uncastled king",
+          "confidence": 0.99,
+          "id": "AA-p014-l002",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            269.5,
+            617.5,
+            1597.6,
+            673.6
+          ],
+          "text": "Making a mating attack on a king which had not yet castled was one of the joys of",
+          "confidence": 0.9829,
+          "id": "AA-p014-l003",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            268.3,
+            668.6,
+            1592.7,
+            723.5
+          ],
+          "text": "chess players in the past. These days the victim of such an attack is usually some-",
+          "confidence": 0.9946,
+          "id": "AA-p014-l004",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            268.3,
+            719.8,
+            1593.9,
+            773.4
+          ],
+          "text": "one playing a master in a simultaneous display who has failed to castle at the",
+          "confidence": 0.9941,
+          "id": "AA-p014-l005",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            268.3,
+            770.9,
+            447.2,
+            813.4
+          ],
+          "text": "right time.",
+          "confidence": 0.9926,
+          "id": "AA-p014-l006",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            312.4,
+            820.8,
+            1593.9,
+            874.5
+          ],
+          "text": "The initial position of the king before it castles contains two main weaknesses.",
+          "confidence": 0.9922,
+          "id": "AA-p014-l007",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            268.3,
+            870.7,
+            1589.0,
+            924.4
+          ],
+          "text": "One is that it is exposed if the e-file is opened up; the second is that the square f7",
+          "confidence": 0.9823,
+          "id": "AA-p014-l008",
+          "pdf_page": 14,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            264.6,
+            920.6,
+            1589.0,
+            975.5
+          ],
+          "text": "in Black's position (f2 is the corresponding weak point for White) is vulnerable,",
+          "confidence": 0.9791,
+          "id": "AA-p014-l009",
+          "pdf_page": 14,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            264.6,
+            968.0,
+            1586.6,
+            1029.2
+          ],
+          "text": "since it is covered by the king alone. It is therefore natural that the vast majority",
+          "confidence": 0.9876,
+          "id": "AA-p014-l010",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            264.6,
+            1021.7,
+            1337.9,
+            1072.8
+          ],
+          "text": "of attacks on an uncastled king exploit one of these weaknesses.",
+          "confidence": 0.9886,
+          "id": "AA-p014-l011",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            262.2,
+            1125.2,
+            931.1,
+            1188.8
+          ],
+          "text": "The attack along the e-file",
+          "confidence": 0.9988,
+          "id": "AA-p014-l012",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            262.2,
+            1220.0,
+            1586.6,
+            1276.2
+          ],
+          "text": "The first and most fundamental condition for an attack along the e-file is that the",
+          "confidence": 0.9906,
+          "id": "AA-p014-l013",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            261.0,
+            1271.2,
+            1587.8,
+            1329.8
+          ],
+          "text": "opponent's king should be on that file, and that for some reason it is impossible",
+          "confidence": 0.997,
+          "id": "AA-p014-l014",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            261.0,
+            1321.1,
+            1584.1,
+            1381.0
+          ],
+          "text": "or difficult for it to move away. If all the adjacent squares are occupied by the",
+          "confidence": 0.9926,
+          "id": "AA-p014-l015",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            262.2,
+            1372.2,
+            1582.9,
+            1432.1
+          ],
+          "text": "king's own pieces or controlled by the opponent's, its escape is absolutely impos-",
+          "confidence": 0.9944,
+          "id": "AA-p014-l016",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            257.3,
+            1423.4,
+            1585.3,
+            1483.3
+          ],
+          "text": "sible. However, if the player is simpiy being prevented from castling, but other",
+          "confidence": 0.9959,
+          "id": "AA-p014-l017",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            259.7,
+            1474.5,
+            1585.3,
+            1531.9
+          ],
+          "text": "squares are not covered, the movement of the king is only relatively restricted; in",
+          "confidence": 0.9945,
+          "id": "AA-p014-l018",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            259.7,
+            1523.2,
+            1582.9,
+            1583.1
+          ],
+          "text": "other words, it can move at the cost of losing the right to castle. Castling can also",
+          "confidence": 0.9834,
+          "id": "AA-p014-l019",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            258.5,
+            1574.3,
+            1584.1,
+            1633.0
+          ],
+          "text": "be thwarted indirectly: for instance, if the king has to guard one of the pieces",
+          "confidence": 0.9791,
+          "id": "AA-p014-l020",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            258.5,
+            1624.2,
+            1086.7,
+            1679.1
+          ],
+          "text": "which is protecting it (e.g. on e7 in Black's case).",
+          "confidence": 0.992,
+          "id": "AA-p014-l021",
+          "pdf_page": 14,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            301.4,
+            1675.4,
+            1581.7,
+            1732.7
+          ],
+          "text": "The second condition for an attack of this kind depends on the attacker's own",
+          "confidence": 0.9926,
+          "id": "AA-p014-l022",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            257.3,
+            1725.3,
+            1578.0,
+            1783.9
+          ],
+          "text": "circumstances. First of all, the e-file should be open, or it should at any rate be in",
+          "confidence": 0.9831,
+          "id": "AA-p014-l023",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            256.1,
+            1776.4,
+            1580.4,
+            1835.0
+          ],
+          "text": "the attacker's power to open it; the attacker should also either have a piece which",
+          "confidence": 0.995,
+          "id": "AA-p014-l024",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            256.1,
+            1827.6,
+            1579.2,
+            1886.2
+          ],
+          "text": "can control a file (a rook or queen) on the file or be able quickly to post one on it.",
+          "confidence": 0.9906,
+          "id": "AA-p014-l025",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            253.6,
+            1876.2,
+            1581.7,
+            1937.3
+          ],
+          "text": "Besides this, he usually needs to strengthen his pressure on the e-file, for instance",
+          "confidence": 0.9927,
+          "id": "AA-p014-l026",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            254.8,
+            1928.6,
+            1580.4,
+            1989.7
+          ],
+          "text": "by doubling rooks or by attacking one of his opponent's pieces which is on the",
+          "confidence": 0.9902,
+          "id": "AA-p014-l027",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            254.8,
+            1979.8,
+            720.4,
+            2029.6
+          ],
+          "text": "file and protecting the king.",
+          "confidence": 0.9716,
+          "id": "AA-p014-l028",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            295.3,
+            2029.6,
+            1578.0,
+            2089.5
+          ],
+          "text": "From these necessary conditions it transpires that in an attack along the e-file",
+          "confidence": 0.9898,
+          "id": "AA-p014-l029",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            253.6,
+            2078.3,
+            1574.3,
+            2138.2
+          ],
+          "text": "there tends to be a chain of defence, and the attack is carried out against the cen-",
+          "confidence": 0.9845,
+          "id": "AA-p014-l030",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            252.4,
+            2129.4,
+            1578.0,
+            2191.8
+          ],
+          "text": "tral unit of the chain, that is, the piece protecting the king. If this piece is on the",
+          "confidence": 0.9907,
+          "id": "AA-p014-l031",
+          "pdf_page": 14,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            252.4,
+            2180.6,
+            1576.8,
+            2240.5
+          ],
+          "text": "square directly in front of the king (e7 or e2), the attacker may be able to mate by",
+          "confidence": 0.989,
+          "id": "AA-p014-l032",
+          "pdf_page": 14,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": []
+    },
+    {
+      "pdf_page": 15,
+      "source_image": "source_pages/page-015.png",
+      "lines": [
+        {
+          "bbox": [
+            238.9,
+            265.7,
+            1563.3,
+            320.6
+          ],
+          "text": "capturing it with his queen (or rook), i.e. by making the square into the focal-",
+          "confidence": 0.9944,
+          "id": "AA-p015-l003",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            236.5,
+            328.1,
+            335.7,
+            370.5
+          ],
+          "text": "point.",
+          "confidence": 0.9988,
+          "id": "AA-p015-l004",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            283.0,
+            368.0,
+            1562.1,
+            416.7
+          ],
+          "text": "An attack on the e-file tends to occur most frequently at an early stage of the",
+          "confidence": 0.9879,
+          "id": "AA-p015-l005",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            236.5,
+            411.7,
+            1567.0,
+            472.8
+          ],
+          "text": "game. The following miniature is an example of how rapidly this kind of attack",
+          "confidence": 0.9974,
+          "id": "AA-p015-l006",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            237.7,
+            471.5,
+            888.2,
+            520.2
+          ],
+          "text": "may develop after an opening mistake:",
+          "confidence": 0.9789,
+          "id": "AA-p015-l007",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            713.0,
+            566.4,
+            1090.4,
+            610.0
+          ],
+          "text": "Meesen - H. Muller",
+          "confidence": 0.9971,
+          "id": "AA-p015-l008",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            643.2,
+            618.8,
+            1162.7,
+            664.9
+          ],
+          "text": "Correspondence Game, 1928/9",
+          "confidence": 0.9989,
+          "id": "AA-p015-l009",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            758.4,
+            672.4,
+            1042.6,
+            718.5
+          ],
+          "text": "English Opening",
+          "confidence": 0.998,
+          "id": "AA-p015-l010",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            240.1,
+            766.0,
+            1536.3,
+            817.1
+          ],
+          "text": "1 c4 e5 2 c3 f63 f3 c6 4 d4 exd4 5 xd4 b4 6 ②xc6 bxc67 g3? We7",
+          "confidence": 0.8957,
+          "id": "AA-p015-l011",
+          "pdf_page": 15,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            285.5,
+            819.6,
+            1567.0,
+            870.7
+          ],
+          "text": "A good move, which counters White's plan (g2 and 0-0) by attacking along",
+          "confidence": 0.987,
+          "id": "AA-p015-l012",
+          "pdf_page": 15,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            240.1,
+            869.5,
+            1569.4,
+            920.6
+          ],
+          "text": "the e-file. If White were now to play 8 e3, such an attack would admittedly not",
+          "confidence": 0.9907,
+          "id": "AA-p015-l013",
+          "pdf_page": 15,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            241.4,
+            925.6,
+            1112.4,
+            968.0
+          ],
+          "text": "follow, but he would still be weakening his position.",
+          "confidence": 0.9945,
+          "id": "AA-p015-l014",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            971.8,
+            907.8,
+            1020.4
+          ],
+          "text": "8 g2 a6 9 Wd3 d5 10 b3 d4! (D)",
+          "confidence": 0.9834,
+          "id": "AA-p015-l015",
+          "pdf_page": 15,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            287.9,
+            1675.4,
+            1568.2,
+            1725.3
+          ],
+          "text": "An interesting move; Black abandons his attack on the e-file for the time be-",
+          "confidence": 0.9833,
+          "id": "AA-p015-l017",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            245.0,
+            1727.8,
+            1569.4,
+            1777.7
+          ],
+          "text": "ing, transferring his pressure to the weakened diagonal a5-e1. If White now takes",
+          "confidence": 0.9881,
+          "id": "AA-p015-l018",
+          "pdf_page": 15,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            243.8,
+            1777.7,
+            1570.6,
+            1827.6
+          ],
+          "text": "the c6-pawn and then the a8-rook, Black can win a piece by ...&xc3+ and",
+          "confidence": 0.9628,
+          "id": "AA-p015-l019",
+          "pdf_page": 15,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            247.5,
+            1832.5,
+            388.4,
+            1876.2
+          ],
+          "text": "...xal.",
+          "confidence": 0.8886,
+          "id": "AA-p015-l020",
+          "pdf_page": 15,
+          "review_flags": [
+            "low_confidence"
+          ]
+        },
+        {
+          "bbox": [
+            291.6,
+            1883.7,
+            531.7,
+            1924.9
+          ],
+          "text": "11 Wxd4 μd8",
+          "confidence": 0.9004,
+          "id": "AA-p015-l021",
+          "pdf_page": 15,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            287.9,
+            1932.3,
+            1201.9,
+            1981.0
+          ],
+          "text": "Forcing the queen to give up the defence of the knight.",
+          "confidence": 0.9826,
+          "id": "AA-p015-l022",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            291.6,
+            1986.0,
+            874.8,
+            2023.4
+          ],
+          "text": "12 xc6+ f8 13 d5 xd5! 0-1",
+          "confidence": 0.9614,
+          "id": "AA-p015-l023",
+          "pdf_page": 15,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            287.9,
+            2028.4,
+            1569.4,
+            2082.0
+          ],
+          "text": "White resigns, since 14 cxd5 is followed by 14...Wxe2#. Play returns to the e-",
+          "confidence": 0.9832,
+          "id": "AA-p015-l024",
+          "pdf_page": 15,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            246.3,
+            2087.0,
+            768.2,
+            2130.7
+          ],
+          "text": "file at the final point of victory.",
+          "confidence": 0.9634,
+          "id": "AA-p015-l025",
+          "pdf_page": 15,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            291.6,
+            2181.8,
+            1574.3,
+            2230.5
+          ],
+          "text": "With an attack along the e-file, the main difficulty can often be the actual",
+          "confidence": 0.9803,
+          "id": "AA-p015-l026",
+          "pdf_page": 15,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p015-fig01"
+      ]
+    },
+    {
+      "pdf_page": 16,
+      "source_image": "source_pages/page-016.png",
+      "lines": [
+        {
+          "bbox": [
+            272.0,
+            265.7,
+            1597.6,
+            316.9
+          ],
+          "text": "opening up of the file, especially if everything else has already been achieved, as,",
+          "confidence": 0.9928,
+          "id": "AA-p016-l003",
+          "pdf_page": 16,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            270.8,
+            314.4,
+            876.0,
+            364.3
+          ],
+          "text": "for example, in the following game:",
+          "confidence": 0.9985,
+          "id": "AA-p016-l004",
+          "pdf_page": 16,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            779.2,
+            412.9,
+            1087.9,
+            467.8
+          ],
+          "text": "Chigorin - Burn",
+          "confidence": 0.9822,
+          "id": "AA-p016-l005",
+          "pdf_page": 16,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            819.6,
+            469.1,
+            1047.5,
+            510.2
+          ],
+          "text": "Ostend, 1906",
+          "confidence": 0.9582,
+          "id": "AA-p016-l006",
+          "pdf_page": 16,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            727.7,
+            516.5,
+            1138.2,
+            565.1
+          ],
+          "text": "King's Gambit Declined",
+          "confidence": 0.9973,
+          "id": "AA-p016-l007",
+          "pdf_page": 16,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            265.9,
+            611.3,
+            1597.6,
+            663.7
+          ],
+          "text": "1 e4 e5 2 f4 c5 3 f3 d6 4 皇c4 2f6 5 c3 0-0 6 d3 2c6 7 We2 e8 8 f5 d5 9",
+          "confidence": 0.9295,
+          "id": "AA-p016-l008",
+          "pdf_page": 16,
+          "review_flags": [
+            "unexpected_CJK_likely_figurine_error",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            265.9,
+            659.9,
+            425.1,
+            712.3
+          ],
+          "text": "b3 (D)",
+          "confidence": 0.9959,
+          "id": "AA-p016-l009",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            306.3,
+            1367.2,
+            1587.8,
+            1425.9
+          ],
+          "text": "This position contains the three elements already referred to (king on e1,",
+          "confidence": 0.9985,
+          "id": "AA-p016-l011",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            259.7,
+            1418.4,
+            1589.0,
+            1478.3
+          ],
+          "text": "queen on e2 and the black rook on e8), and it is only a question of opening up the",
+          "confidence": 0.9821,
+          "id": "AA-p016-l012",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            261.0,
+            1470.8,
+            1484.9,
+            1524.4
+          ],
+          "text": "e-file. This aim can be promoted by the sacrifice of Black's bishop on f5:",
+          "confidence": 0.9861,
+          "id": "AA-p016-l013",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            305.1,
+            1519.4,
+            471.7,
+            1561.8
+          ],
+          "text": "9...xf5!",
+          "confidence": 0.991,
+          "id": "AA-p016-l014",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            302.6,
+            1561.8,
+            1591.5,
+            1635.4
+          ],
+          "text": "After 10 exf5 e4, the important point is that White cannot avoid opening up",
+          "confidence": 0.9922,
+          "id": "AA-p016-l015",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            259.7,
+            1620.5,
+            1591.5,
+            1679.1
+          ],
+          "text": "the e-file since removing his knight would be followed by 11...exd3. But if Black",
+          "confidence": 0.9934,
+          "id": "AA-p016-l016",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            258.5,
+            1670.4,
+            1589.0,
+            1726.5
+          ],
+          "text": "had played more weakly with 9...dxe4? 10 dxe4 Qxf5 11 exf5 e4, he would have",
+          "confidence": 0.9854,
+          "id": "AA-p016-l017",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            254.8,
+            1721.5,
+            1587.8,
+            1780.2
+          ],
+          "text": "lost the chance of playing ..exd3, and White could have moved his knight and",
+          "confidence": 0.9921,
+          "id": "AA-p016-l018",
+          "pdf_page": 16,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            258.5,
+            1775.2,
+            731.4,
+            1821.3
+          ],
+          "text": "avoided opening up the file.",
+          "confidence": 0.9935,
+          "id": "AA-p016-l019",
+          "pdf_page": 16,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            301.4,
+            1823.8,
+            1582.9,
+            1878.7
+          ],
+          "text": "The play after 10..e4 is no longer of interest; White could still try 11 d1",
+          "confidence": 0.9741,
+          "id": "AA-p016-l020",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            257.3,
+            1871.2,
+            1587.8,
+            1929.9
+          ],
+          "text": "exf3 12 Wxf3, after which 12...e5 followed by 13...g4 or 13...d4 would lead",
+          "confidence": 0.9807,
+          "id": "AA-p016-l021",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            256.1,
+            1927.4,
+            770.6,
+            1972.3
+          ],
+          "text": "to a great advantage for Black.",
+          "confidence": 0.9915,
+          "id": "AA-p016-l022",
+          "pdf_page": 16,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            298.9,
+            1972.3,
+            1584.1,
+            2033.4
+          ],
+          "text": "In the game itself, White declined the sacrifice by 10 g5, but lost quickly:",
+          "confidence": 0.9785,
+          "id": "AA-p016-l023",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            257.3,
+            2022.2,
+            1214.1,
+            2073.3
+          ],
+          "text": "10...dxe4 11 dxe4 xe4 12 Wc4 Wd5 13 Wb5 f2+ 0-1",
+          "confidence": 0.9805,
+          "id": "AA-p016-l024",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            298.9,
+            2124.5,
+            1582.9,
+            2183.1
+          ],
+          "text": "If the e-file is already open and the last defender is a piece on e2 (or e7 for",
+          "confidence": 0.9906,
+          "id": "AA-p016-l025",
+          "pdf_page": 16,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            254.8,
+            2174.4,
+            1582.9,
+            2234.2
+          ],
+          "text": "Black) then the operation often takes the form of a systematic attempt to",
+          "confidence": 0.9942,
+          "id": "AA-p016-l026",
+          "pdf_page": 16,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p016-fig01"
+      ]
+    },
+    {
+      "pdf_page": 17,
+      "source_image": "source_pages/page-017.png",
+      "lines": [
+        {
+          "bbox": [
+            224.2,
+            264.5,
+            1547.4,
+            308.1
+          ],
+          "text": "undermine the defence of the critical square, thus making e2 into a focal-point.",
+          "confidence": 0.9991,
+          "id": "AA-p017-l003",
+          "pdf_page": 17,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            313.1,
+            1341.5,
+            360.5
+          ],
+          "text": "The following diagram gives an example of this kind of operation:",
+          "confidence": 0.996,
+          "id": "AA-p017-l004",
+          "pdf_page": 17,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            273.2,
+            1015.4,
+            1259.4,
+            1062.9
+          ],
+          "text": "This position is from the game Hansen-Lundin, Oslo 1928.",
+          "confidence": 0.9996,
+          "id": "AA-p017-l006",
+          "pdf_page": 17,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            275.7,
+            1069.1,
+            817.2,
+            1106.5
+          ],
+          "text": "1...xd4! 2 xd4 xd4 3 cxd4",
+          "confidence": 0.9681,
+          "id": "AA-p017-l007",
+          "pdf_page": 17,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            272.0,
+            1114.0,
+            1226.4,
+            1161.4
+          ],
+          "text": "Alternatives were 3 0-0-0 xe2+ and 3 d1 Wxe2+, etc.",
+          "confidence": 0.9662,
+          "id": "AA-p017-l008",
+          "pdf_page": 17,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            273.2,
+            1167.6,
+            412.9,
+            1210.1
+          ],
+          "text": "3...b4",
+          "confidence": 0.9826,
+          "id": "AA-p017-l009",
+          "pdf_page": 17,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            269.5,
+            1216.3,
+            1555.9,
+            1263.7
+          ],
+          "text": "To avoid mate White now had to consent to the loss of his queen by 4 f2, but",
+          "confidence": 0.9934,
+          "id": "AA-p017-l010",
+          "pdf_page": 17,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            1260.0,
+            1557.2,
+            1316.1
+          ],
+          "text": "he resigned after 4...xd2 5 xg4+ f5 6 xd2 fxg4 7 he1 Wxd4+ 8 e3",
+          "confidence": 0.963,
+          "id": "AA-p017-l011",
+          "pdf_page": 17,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            229.1,
+            1316.1,
+            626.0,
+            1359.8
+          ],
+          "text": "Wxb2+ 9 ±f1 e8 0-1.",
+          "confidence": 0.9223,
+          "id": "AA-p017-l012",
+          "pdf_page": 17,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            273.2,
+            2024.7,
+            1562.1,
+            2075.8
+          ],
+          "text": "This position supplies a convenient example of the method of play against a",
+          "confidence": 0.994,
+          "id": "AA-p017-l014",
+          "pdf_page": 17,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            230.3,
+            2079.5,
+            656.7,
+            2124.5
+          ],
+          "text": "piece protecting the king.",
+          "confidence": 0.984,
+          "id": "AA-p017-l015",
+          "pdf_page": 17,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            274.4,
+            2128.2,
+            1558.4,
+            2171.9
+          ],
+          "text": "White, to move, must discover the correct way to increase his pressure against",
+          "confidence": 0.998,
+          "id": "AA-p017-l016",
+          "pdf_page": 17,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            229.1,
+            2174.4,
+            1557.2,
+            2224.3
+          ],
+          "text": "the bishop on e7. He would not achieve enough by 1 We2 f8 2 Qxe7+ xe7 3",
+          "confidence": 0.9819,
+          "id": "AA-p017-l017",
+          "pdf_page": 17,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p017-fig01",
+        "AA-p017-fig02"
+      ]
+    },
+    {
+      "pdf_page": 18,
+      "source_image": "source_pages/page-018.png",
+      "lines": [
+        {
+          "bbox": [
+            294.0,
+            264.5,
+            1613.5,
+            323.1
+          ],
+          "text": "g5 f5, and Black has defended himself successfully. 1 Ke2 would similarly",
+          "confidence": 0.9878,
+          "id": "AA-p018-l003",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            291.6,
+            314.4,
+            1618.4,
+            370.5
+          ],
+          "text": "be useless, while if 1 xe7+ xe7 2 f6 (or 2 We2 f6 and then ...f8), Black",
+          "confidence": 0.991,
+          "id": "AA-p018-l004",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            290.4,
+            365.5,
+            1617.2,
+            424.1
+          ],
+          "text": "would still be able to maintain the balance by playing 2...d7 (3 We2 c6, etc.).",
+          "confidence": 0.9879,
+          "id": "AA-p018-l005",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            292.8,
+            417.9,
+            791.4,
+            466.6
+          ],
+          "text": "White's only correct move is:",
+          "confidence": 0.9976,
+          "id": "AA-p018-l006",
+          "pdf_page": 18,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            330.8,
+            464.1,
+            458.2,
+            510.2
+          ],
+          "text": "1 f6!",
+          "confidence": 0.9723,
+          "id": "AA-p018-l007",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            332.0,
+            517.7,
+            1612.3,
+            573.8
+          ],
+          "text": "In this way White not only prevents Black from castling but also stops him",
+          "confidence": 0.9693,
+          "id": "AA-p018-l008",
+          "pdf_page": 18,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            287.9,
+            567.6,
+            735.1,
+            617.5
+          ],
+          "text": "from countering with ...f6.",
+          "confidence": 0.9608,
+          "id": "AA-p018-l009",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            328.3,
+            613.8,
+            1613.5,
+            674.9
+          ],
+          "text": "1...0-0 would be answered by 2 xe7 xe7 3 We2! e8 4 Wd2 h7 5 g5+",
+          "confidence": 0.9821,
+          "id": "AA-p018-l010",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            290.4,
+            666.2,
+            1244.7,
+            721.0
+          ],
+          "text": "g8 6 e6! fxe6 7 Wh6 f5 8 Wxg6+, and White wins.",
+          "confidence": 0.991,
+          "id": "AA-p018-l011",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            333.2,
+            717.3,
+            627.3,
+            762.2
+          ],
+          "text": "1...f8 2 xe7+!",
+          "confidence": 0.9617,
+          "id": "AA-p018-l012",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            330.8,
+            769.7,
+            1611.1,
+            825.8
+          ],
+          "text": "A rook sacrifice of this type is often necessary if an attack along the e-file is to",
+          "confidence": 0.9891,
+          "id": "AA-p018-l013",
+          "pdf_page": 18,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            285.5,
+            819.6,
+            1612.3,
+            875.7
+          ],
+          "text": "be forced home. It is essentially a question of freeing the square e1 for the second",
+          "confidence": 0.9826,
+          "id": "AA-p018-l014",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            284.2,
+            868.2,
+            1611.1,
+            928.1
+          ],
+          "text": "rook, while the first, in being sacrificed, eliminates one of the pieces defending",
+          "confidence": 0.9959,
+          "id": "AA-p018-l015",
+          "pdf_page": 18,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            283.0,
+            909.4,
+            359.0,
+            961.8
+          ],
+          "text": "e7'.",
+          "confidence": 0.9009,
+          "id": "AA-p018-l016",
+          "pdf_page": 18,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            330.8,
+            966.8,
+            688.5,
+            1011.7
+          ],
+          "text": "2...xe7 3 We2 Wd7",
+          "confidence": 0.9751,
+          "id": "AA-p018-l017",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            327.1,
+            1016.7,
+            1609.8,
+            1074.1
+          ],
+          "text": "If 3...d7, then 4 e1 e8 5 Wb5+ c8 6 Wc4 d5 7 We2 d7 8 e5+, and",
+          "confidence": 0.97,
+          "id": "AA-p018-l018",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            285.5,
+            1070.3,
+            490.1,
+            1115.2
+          ],
+          "text": "White wins.",
+          "confidence": 0.9918,
+          "id": "AA-p018-l019",
+          "pdf_page": 18,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            328.3,
+            1119.0,
+            1146.7,
+            1171.4
+          ],
+          "text": "4 e1 We6 5 Wb5+ c6 6 Wxb7, and White wins.",
+          "confidence": 0.9839,
+          "id": "AA-p018-l020",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            329.6,
+            1221.3,
+            1606.2,
+            1279.9
+          ],
+          "text": "White's play in the following position (Ravinsky-Panov, Moscow 1943) is an",
+          "confidence": 0.988,
+          "id": "AA-p018-l021",
+          "pdf_page": 18,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            1274.9,
+            1309.7,
+            1324.8
+          ],
+          "text": "excellent example of a well-conducted attack along the e-file.",
+          "confidence": 0.9918,
+          "id": "AA-p018-l022",
+          "pdf_page": 18,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            338.1,
+            2085.8,
+            1597.6,
+            2145.7
+          ],
+          "text": " 2 Wd3! is even more convincing. Black can only prevent the deadly 3 xe7+",
+          "confidence": 0.9919,
+          "id": "AA-p018-l025",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            276.9,
+            2093.3,
+            306.3,
+            2119.5
+          ],
+          "text": "1",
+          "confidence": 0.9974,
+          "id": "AA-p018-l024",
+          "pdf_page": 18,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            357.7,
+            2134.4,
+            1595.1,
+            2194.3
+          ],
+          "text": "xe7 4 e1 by 2...d7, but after 3 Wb5+ his position collapses immediately.",
+          "confidence": 0.9868,
+          "id": "AA-p018-l026",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            352.8,
+            2181.8,
+            1578.0,
+            2241.7
+          ],
+          "text": "In Vukovic's main line, 4..0-0-0 5 Qxe7 de8 would enable Black to fight on.",
+          "confidence": 0.975,
+          "id": "AA-p018-l027",
+          "pdf_page": 18,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p018-fig01"
+      ]
+    },
+    {
+      "pdf_page": 19,
+      "source_image": "source_pages/page-019.png",
+      "lines": [
+        {
+          "bbox": [
+            267.1,
+            275.7,
+            985.0,
+            313.1
+          ],
+          "text": "1 xd7! ②xd7 2 xe6 fxe6 3 Wxe6+ e7",
+          "confidence": 0.9362,
+          "id": "AA-p019-l003",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            261.0,
+            321.8,
+            1544.9,
+            369.3
+          ],
+          "text": "If 3...d8, then 4 g5+ c7 5 Wc6+ b8 6 f4+ c7 7 xc7+ Wxc7 8",
+          "confidence": 0.9557,
+          "id": "AA-p019-l004",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            218.1,
+            370.5,
+            330.8,
+            421.6
+          ],
+          "text": "Wa8#.",
+          "confidence": 0.9713,
+          "id": "AA-p019-l005",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            263.4,
+            422.9,
+            655.5,
+            466.6
+          ],
+          "text": "4 e1 Wc5 5 b4! f8?",
+          "confidence": 0.9655,
+          "id": "AA-p019-l006",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            262.2,
+            472.8,
+            1544.9,
+            519.0
+          ],
+          "text": "Better would have been 5...Wxb4 6 g5 Wxe1+ 7 Wxe1 f6, when Black has",
+          "confidence": 0.9701,
+          "id": "AA-p019-l007",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            223.0,
+            530.2,
+            1426.1,
+            567.6
+          ],
+          "text": "excellent drawing chances. After the text move he loses in all variations.",
+          "confidence": 0.9941,
+          "id": "AA-p019-l008",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            263.4,
+            577.6,
+            392.0,
+            621.2
+          ],
+          "text": "6 g4!",
+          "confidence": 0.9416,
+          "id": "AA-p019-l009",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            265.9,
+            630.0,
+            1043.8,
+            671.1
+          ],
+          "text": "Avoiding exchanges and keeping an eye on c8.",
+          "confidence": 0.9905,
+          "id": "AA-p019-l010",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            264.6,
+            677.4,
+            567.2,
+            718.5
+          ],
+          "text": "6...Wc3 7 xe7+!",
+          "confidence": 0.9644,
+          "id": "AA-p019-l011",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            267.1,
+            731.0,
+            753.5,
+            768.4
+          ],
+          "text": "A new and decisive sacrifice.",
+          "confidence": 0.994,
+          "id": "AA-p019-l012",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            262.2,
+            772.2,
+            1543.7,
+            820.8
+          ],
+          "text": "7..xe7 8 Qg5+ d6 9 Wd1+ c7 10 Qf4+ b6 11 Wd6+ *a7 12 We7+",
+          "confidence": 0.9453,
+          "id": "AA-p019-l013",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            221.8,
+            828.3,
+            454.5,
+            869.5
+          ],
+          "text": "c7 13 xc7",
+          "confidence": 0.9517,
+          "id": "AA-p019-l014",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            264.6,
+            873.2,
+            1537.6,
+            924.4
+          ],
+          "text": "Simpler, of course, would have been 13 Qe3+ b8 14 Wd8+ c8 15 Wb6#.",
+          "confidence": 0.979,
+          "id": "AA-p019-l015",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            265.9,
+            926.9,
+            1130.8,
+            968.0
+          ],
+          "text": "13...Wa1+ 14 f1 g6 15 Wc5+ b7 16 a5 f8",
+          "confidence": 0.9765,
+          "id": "AA-p019-l016",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            265.9,
+            978.0,
+            1388.1,
+            1019.2
+          ],
+          "text": "Or 16...c8 17 Wb6+ a8 18 xa6+ b8 19 c7+ and 20 xa1.",
+          "confidence": 0.9727,
+          "id": "AA-p019-l017",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            264.6,
+            1025.4,
+            493.7,
+            1071.6
+          ],
+          "text": "17 Wb6+ 1-0",
+          "confidence": 0.9817,
+          "id": "AA-p019-l018",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            263.4,
+            1075.3,
+            1368.5,
+            1124.0
+          ],
+          "text": "If 17...a8, then 18 Wc6+ b8 19 Qc7+, mating in a few moves.",
+          "confidence": 0.9611,
+          "id": "AA-p019-l019",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            267.1,
+            1182.6,
+            1543.7,
+            1223.8
+          ],
+          "text": "The following brilliancy by Steinitz is an example of a game in which White",
+          "confidence": 0.9831,
+          "id": "AA-p019-l020",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            223.0,
+            1232.5,
+            1543.7,
+            1274.9
+          ],
+          "text": "plays consistently to build up pressure on the e-file and finally makes his decisive",
+          "confidence": 0.9803,
+          "id": "AA-p019-l021",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            219.3,
+            1283.7,
+            548.9,
+            1324.8
+          ],
+          "text": "breakthrough there.",
+          "confidence": 0.9929,
+          "id": "AA-p019-l022",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            629.7,
+            1381.0,
+            1132.0,
+            1423.4
+          ],
+          "text": "Steinitz - von Bardeleben",
+          "confidence": 0.9958,
+          "id": "AA-p019-l023",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            754.7,
+            1434.6,
+            1009.5,
+            1477.0
+          ],
+          "text": "Hastings, 1895",
+          "confidence": 0.9991,
+          "id": "AA-p019-l024",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            764.5,
+            1482.0,
+            997.3,
+            1526.9
+          ],
+          "text": "Giuoco Piano",
+          "confidence": 0.9983,
+          "id": "AA-p019-l025",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            218.1,
+            1580.6,
+            1503.2,
+            1626.7
+          ],
+          "text": "1 e4 e5 2 f3 c6 3 &c4 皇c5 4 c3 2f6 5 d4 exd4 6 cxd4 b4+ 7 c3 d5",
+          "confidence": 0.9302,
+          "id": "AA-p019-l026",
+          "pdf_page": 19,
+          "review_flags": [
+            "unexpected_CJK_likely_figurine_error",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            263.4,
+            1633.0,
+            1141.8,
+            1679.1
+          ],
+          "text": "Nowadays one would play 7...xe4, which is better.",
+          "confidence": 0.9963,
+          "id": "AA-p019-l027",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            263.4,
+            1685.3,
+            1085.5,
+            1726.5
+          ],
+          "text": "8 exd5 xd5 9 0-0 Ωe6 10 Qg5 Ωe7? 11 臭xd5",
+          "confidence": 0.9116,
+          "id": "AA-p019-l028",
+          "pdf_page": 19,
+          "review_flags": [
+            "low_confidence",
+            "unexpected_CJK_likely_figurine_error",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            263.4,
+            1734.0,
+            1542.5,
+            1783.9
+          ],
+          "text": "White now carries out a series of exchanges to keep up the pressure along the",
+          "confidence": 0.9933,
+          "id": "AA-p019-l029",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            220.5,
+            1783.9,
+            865.0,
+            1833.8
+          ],
+          "text": "e-file and prevent Black from castling.",
+          "confidence": 0.995,
+          "id": "AA-p019-l030",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            265.9,
+            1836.3,
+            1159.0,
+            1877.5
+          ],
+          "text": "11...xd5 12 xd5 Wxd5 13 xe7 xe7 14 e1 f6",
+          "confidence": 0.9834,
+          "id": "AA-p019-l031",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            262.2,
+            1886.2,
+            1548.6,
+            1934.8
+          ],
+          "text": "Black realizes that he cannot succeed in castling, since if 14...Wd7, White will",
+          "confidence": 0.9761,
+          "id": "AA-p019-l032",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            221.8,
+            1941.1,
+            1546.1,
+            1982.2
+          ],
+          "text": "increase his pressure on e7 by 15 We2. In playing 14..f6, Black aims at 'artificial",
+          "confidence": 0.9717,
+          "id": "AA-p019-l033",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            218.1,
+            1987.2,
+            1547.4,
+            2034.6
+          ],
+          "text": "castling' by means of ...f7 followed by ...he8 and ...g8; the move also limits",
+          "confidence": 0.9749,
+          "id": "AA-p019-l034",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            221.8,
+            2043.4,
+            1543.7,
+            2080.8
+          ],
+          "text": "the activity of White's knight. However, these are all excuses made in a situation",
+          "confidence": 0.9905,
+          "id": "AA-p019-l035",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            220.5,
+            2090.8,
+            1415.0,
+            2134.4
+          ],
+          "text": "which is already unhealthy for Black as a result of his weak 10th move.",
+          "confidence": 0.9764,
+          "id": "AA-p019-l036",
+          "pdf_page": 19,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            262.2,
+            2133.2,
+            708.1,
+            2185.6
+          ],
+          "text": "15 We2 Wd7 16 ac1 (D)",
+          "confidence": 0.9677,
+          "id": "AA-p019-l037",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            264.6,
+            2189.3,
+            403.1,
+            2231.7
+          ],
+          "text": "16...c6?",
+          "confidence": 0.953,
+          "id": "AA-p019-l038",
+          "pdf_page": 19,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": []
+    },
+    {
+      "pdf_page": 20,
+      "source_image": "source_pages/page-020.png",
+      "lines": [
+        {
+          "bbox": [
+            351.6,
+            874.5,
+            1635.6,
+            929.4
+          ],
+          "text": "Better would have been 16...d8; the text move does not prevent d4-d5,",
+          "confidence": 0.9814,
+          "id": "AA-p020-l004",
+          "pdf_page": 20,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            308.7,
+            928.1,
+            1422.4,
+            979.3
+          ],
+          "text": "which White now plays with the aim of clearing d4 for his knight'.",
+          "confidence": 0.9836,
+          "id": "AA-p020-l005",
+          "pdf_page": 20,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            351.6,
+            975.5,
+            1401.6,
+            1029.2
+          ],
+          "text": "17 d5! cxd5 18 d4 f7 19 ②e6 hc8 20 Wg4 g6 21 g5+!",
+          "confidence": 0.9664,
+          "id": "AA-p020-l006",
+          "pdf_page": 20,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            351.6,
+            1027.9,
+            1628.2,
+            1084.1
+          ],
+          "text": "The beginning of a great combination, one of the finest in 19th-century chess.",
+          "confidence": 0.9929,
+          "id": "AA-p020-l007",
+          "pdf_page": 20,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            305.1,
+            1079.1,
+            1339.1,
+            1132.7
+          ],
+          "text": "The black king now has to go back on to the dangerous e-file.",
+          "confidence": 0.9781,
+          "id": "AA-p020-l008",
+          "pdf_page": 20,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            350.4,
+            1125.2,
+            573.4,
+            1177.6
+          ],
+          "text": "21...e8 (D)",
+          "confidence": 0.9476,
+          "id": "AA-p020-l009",
+          "pdf_page": 20,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            347.9,
+            1835.0,
+            612.6,
+            1877.5
+          ],
+          "text": "22 xe7+! f8",
+          "confidence": 0.9571,
+          "id": "AA-p020-l011",
+          "pdf_page": 20,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            345.5,
+            1886.2,
+            1630.7,
+            1937.3
+          ],
+          "text": "White's sacrificial assault on e7 crowns his attack on the e-file. As a result of",
+          "confidence": 0.9864,
+          "id": "AA-p020-l012",
+          "pdf_page": 20,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            300.2,
+            1936.1,
+            1629.4,
+            1989.7
+          ],
+          "text": "his weakness on that file, Black consented to weaken his position elsewhere, as",
+          "confidence": 0.9908,
+          "id": "AA-p020-l013",
+          "pdf_page": 20,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            297.7,
+            1983.5,
+            1627.0,
+            2044.6
+          ],
+          "text": "frequently happens once a basic defect has appeared. If he were to play",
+          "confidence": 0.9909,
+          "id": "AA-p020-l014",
+          "pdf_page": 20,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            297.7,
+            2033.4,
+            1625.8,
+            2088.3
+          ],
+          "text": "22...xe7, then 23 e1+ d6 24 Wb4+ c7 (or 24...c5 25 e6+) 25 e6+",
+          "confidence": 0.9541,
+          "id": "AA-p020-l015",
+          "pdf_page": 20,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            382.2,
+            2143.2,
+            1624.5,
+            2195.6
+          ],
+          "text": "According to contemporary analysis, Black could have equalised by 16...f7,",
+          "confidence": 0.9976,
+          "id": "AA-p020-l016",
+          "pdf_page": 20,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            379.8,
+            2193.1,
+            1397.9,
+            2241.7
+          ],
+          "text": "but White could have gained the advantage earlier by 16 ad1!.",
+          "confidence": 0.9903,
+          "id": "AA-p020-l017",
+          "pdf_page": 20,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p020-fig01",
+        "AA-p020-fig02"
+      ]
+    },
+    {
+      "pdf_page": 21,
+      "source_image": "source_pages/page-021.png",
+      "lines": [
+        {
+          "bbox": [
+            218.1,
+            278.2,
+            1541.2,
+            328.1
+          ],
+          "text": "b8 26 Wf4+ wins, so Black decides to decline the sacrifice, hoping to exploit",
+          "confidence": 0.9872,
+          "id": "AA-p021-l003",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            216.9,
+            335.6,
+            1085.5,
+            376.7
+          ],
+          "text": "the fact that he is himself threatening to mate on c1.",
+          "confidence": 0.9929,
+          "id": "AA-p021-l004",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            258.5,
+            376.7,
+            498.6,
+            427.9
+          ],
+          "text": "23 f7+ 由g8",
+          "confidence": 0.8669,
+          "id": "AA-p021-l005",
+          "pdf_page": 21,
+          "review_flags": [
+            "low_confidence",
+            "unexpected_CJK_likely_figurine_error",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            261.0,
+            431.6,
+            1121.0,
+            474.0
+          ],
+          "text": "23...Wxf7 would, of course, be followed by xc8+.",
+          "confidence": 0.9947,
+          "id": "AA-p021-l006",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            259.7,
+            481.5,
+            431.2,
+            527.7
+          ],
+          "text": "24 μg7+!",
+          "confidence": 0.9795,
+          "id": "AA-p021-l007",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            261.0,
+            533.9,
+            1538.8,
+            575.1
+          ],
+          "text": "Black cannot get rid of this impudent rook, since if 24...xg7, then 25",
+          "confidence": 0.9895,
+          "id": "AA-p021-l008",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            219.3,
+            581.3,
+            896.8,
+            623.7
+          ],
+          "text": "Wxd7+, 0r if 24...wxg7, then 25 xc8+.",
+          "confidence": 0.9623,
+          "id": "AA-p021-l009",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            262.2,
+            630.0,
+            665.3,
+            673.6
+          ],
+          "text": "24...h8 25 μxh7+ 1-0",
+          "confidence": 0.951,
+          "id": "AA-p021-l010",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            259.7,
+            681.1,
+            1540.0,
+            731.0
+          ],
+          "text": "At this point Steinitz's opponent left the tournament hall and never reap-",
+          "confidence": 0.9916,
+          "id": "AA-p021-l011",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            215.6,
+            729.8,
+            1541.2,
+            782.2
+          ],
+          "text": "peared. By these offensive means he hoped to deprive Steinitz of 'a piece of im-",
+          "confidence": 0.9924,
+          "id": "AA-p021-l012",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            218.1,
+            784.7,
+            1424.8,
+            827.1
+          ],
+          "text": "mortality', but the textbooks have noted White's intentions all the same:",
+          "confidence": 0.9946,
+          "id": "AA-p021-l013",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            261.0,
+            825.8,
+            1541.2,
+            879.5
+          ],
+          "text": "25...g8 26 g7+ h8 27 Wh4+ xg7 28 wh7+ f8 29 Wh8+ e7 30",
+          "confidence": 0.9506,
+          "id": "AA-p021-l014",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            219.3,
+            878.2,
+            1511.8,
+            930.6
+          ],
+          "text": "曾g7+ e8 31 g8+ e7 32 f7+ d8 33 f8+ e8 34 ②f7+ d7 35 d6#",
+          "confidence": 0.892,
+          "id": "AA-p021-l015",
+          "pdf_page": 21,
+          "review_flags": [
+            "low_confidence",
+            "unexpected_CJK_likely_figurine_error",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            216.9,
+            989.3,
+            912.7,
+            1046.6
+          ],
+          "text": "The attack on the square f7",
+          "confidence": 0.9997,
+          "id": "AA-p021-l016",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            216.9,
+            1086.6,
+            1538.8,
+            1129.0
+          ],
+          "text": "Black's weakest square on the board before castling is f7 (f2 for White). Even in",
+          "confidence": 0.9905,
+          "id": "AA-p021-l017",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            219.3,
+            1137.7,
+            1540.0,
+            1182.6
+          ],
+          "text": "the opening stages, threats of a sacrificial assault on f7 (or f2) are common; they",
+          "confidence": 0.9992,
+          "id": "AA-p021-l018",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            221.8,
+            1190.1,
+            1538.8,
+            1227.5
+          ],
+          "text": "are usually connected with an attack on the king or even with the idea of mate, in",
+          "confidence": 0.9881,
+          "id": "AA-p021-l019",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            216.9,
+            1236.3,
+            1318.3,
+            1282.4
+          ],
+          "text": "which case the square becomes the focal-point of a mating attack.",
+          "confidence": 0.9993,
+          "id": "AA-p021-l020",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            257.3,
+            1286.2,
+            1542.5,
+            1332.3
+          ],
+          "text": "Later on, after castling kingside, the rook protects this vulnerable square and",
+          "confidence": 0.9976,
+          "id": "AA-p021-l021",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            216.9,
+            1342.3,
+            1540.0,
+            1379.7
+          ],
+          "text": "its weakness is greatly diminished, while after castling queenside the weakness",
+          "confidence": 0.994,
+          "id": "AA-p021-l022",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            218.1,
+            1389.7,
+            1106.3,
+            1432.1
+          ],
+          "text": "of the square has no connection with a mating attack.",
+          "confidence": 0.9994,
+          "id": "AA-p021-l023",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            258.5,
+            1437.1,
+            1538.8,
+            1487.0
+          ],
+          "text": "The most straightforward examples of assaults on f7 are to be seen at the be-",
+          "confidence": 0.9872,
+          "id": "AA-p021-l024",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            218.1,
+            1492.0,
+            1541.2,
+            1536.9
+          ],
+          "text": "ginning of certain open games, especially in the Petroff Defence and the Philidor",
+          "confidence": 0.9972,
+          "id": "AA-p021-l025",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            213.2,
+            1539.4,
+            1107.5,
+            1586.8
+          ],
+          "text": "Defence. We shall examine one example of this kind:",
+          "confidence": 0.99,
+          "id": "AA-p021-l026",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            258.5,
+            1588.0,
+            779.2,
+            1630.5
+          ],
+          "text": "1 e4 e5 2 f3 d6 3 c4 e7?",
+          "confidence": 0.9442,
+          "id": "AA-p021-l027",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            257.3,
+            1639.2,
+            1541.2,
+            1689.1
+          ],
+          "text": "Let us allow Black to play this bad move so as to reach a typical crisis over the",
+          "confidence": 0.9834,
+          "id": "AA-p021-l028",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            216.9,
+            1689.1,
+            759.6,
+            1737.7
+          ],
+          "text": "square f7 as quickly as possible.",
+          "confidence": 0.9869,
+          "id": "AA-p021-l029",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            259.7,
+            1739.0,
+            779.2,
+            1782.6
+          ],
+          "text": "4 g5 d5 5 exd5 xd5 6 Wf3",
+          "confidence": 0.9612,
+          "id": "AA-p021-l030",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            259.7,
+            1790.1,
+            556.2,
+            1835.0
+          ],
+          "text": "6 d4 is also good.",
+          "confidence": 0.9955,
+          "id": "AA-p021-l031",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            263.4,
+            1841.3,
+            417.8,
+            1886.2
+          ],
+          "text": "6...Wxg5",
+          "confidence": 0.879,
+          "id": "AA-p021-l032",
+          "pdf_page": 21,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            261.0,
+            1888.7,
+            1516.7,
+            1941.1
+          ],
+          "text": "After 6...e6 7 xe6 fxe6 8 Wh5+ Black loses a pawn and the right to castle.",
+          "confidence": 0.9674,
+          "id": "AA-p021-l033",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            257.3,
+            1942.3,
+            400.6,
+            1984.7
+          ],
+          "text": "7 Ωxd5",
+          "confidence": 0.8873,
+          "id": "AA-p021-l034",
+          "pdf_page": 21,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            259.7,
+            1993.5,
+            1537.6,
+            2038.4
+          ],
+          "text": "and Black loses at least a pawn. If 7...f5, then 8 xb7 e4 9 Wb3 Wxg2 10 f1",
+          "confidence": 0.9409,
+          "id": "AA-p021-l035",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            216.9,
+            2043.4,
+            493.7,
+            2088.3
+          ],
+          "text": "and White wins.",
+          "confidence": 0.9977,
+          "id": "AA-p021-l036",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            261.0,
+            2146.9,
+            1541.2,
+            2189.3
+          ],
+          "text": "Naturally, various attacks can be made on the uncastled king other than via the",
+          "confidence": 0.9908,
+          "id": "AA-p021-l037",
+          "pdf_page": 21,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            218.1,
+            2196.8,
+            1541.2,
+            2240.5
+          ],
+          "text": "e-file or f7; these are only two of the commonest and most typical methods. The",
+          "confidence": 0.9955,
+          "id": "AA-p021-l038",
+          "pdf_page": 21,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": []
+    },
+    {
+      "pdf_page": 22,
+      "source_image": "source_pages/page-022.png",
+      "lines": [
+        {
+          "bbox": [
+            310.0,
+            278.2,
+            1631.9,
+            330.6
+          ],
+          "text": "following example shows how a threat along the e-file can be indirectly com-",
+          "confidence": 0.9934,
+          "id": "AA-p022-l003",
+          "pdf_page": 22,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            311.2,
+            330.6,
+            1097.7,
+            374.2
+          ],
+          "text": "bined with pre-castling attacks of another kind.",
+          "confidence": 0.9898,
+          "id": "AA-p022-l004",
+          "pdf_page": 22,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            834.3,
+            427.9,
+            1107.5,
+            472.8
+          ],
+          "text": "Keres - Kotov",
+          "confidence": 0.987,
+          "id": "AA-p022-l005",
+          "pdf_page": 22,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            814.7,
+            480.3,
+            1127.1,
+            525.2
+          ],
+          "text": "Budapest Ct, 1950",
+          "confidence": 0.9995,
+          "id": "AA-p022-l006",
+          "pdf_page": 22,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            835.5,
+            530.2,
+            1108.8,
+            575.1
+          ],
+          "text": "Sicilian Najdorf",
+          "confidence": 0.9816,
+          "id": "AA-p022-l007",
+          "pdf_page": 22,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            307.5,
+            623.7,
+            1631.9,
+            677.4
+          ],
+          "text": "1 e4 c5 2 2f3 d6 3 d4 cxd4 4 xd4 ②f6 5 2c3 a6 6 e2 Wc7 7 g5 ②bd7 8",
+          "confidence": 0.9464,
+          "id": "AA-p022-l008",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            307.5,
+            673.6,
+            713.0,
+            726.0
+          ],
+          "text": "0-0 e6 9 h5 Wc4? (D)",
+          "confidence": 0.9494,
+          "id": "AA-p022-l009",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            345.5,
+            1383.5,
+            1624.5,
+            1434.6
+          ],
+          "text": "Here White carried out the following Sicilian trick, the kind of thing at which",
+          "confidence": 0.9892,
+          "id": "AA-p022-l011",
+          "pdf_page": 22,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            302.6,
+            1434.6,
+            642.0,
+            1479.5
+          ],
+          "text": "Keres was a master:",
+          "confidence": 0.9741,
+          "id": "AA-p022-l012",
+          "pdf_page": 22,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            346.7,
+            1480.8,
+            763.3,
+            1525.7
+          ],
+          "text": "10 2xe6! Wxe6 11 2d5",
+          "confidence": 0.9097,
+          "id": "AA-p022-l013",
+          "pdf_page": 22,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            343.0,
+            1531.9,
+            1630.7,
+            1588.0
+          ],
+          "text": "Black now went on to parry the threat of c7+ with 11...d8?, and after 12",
+          "confidence": 0.9853,
+          "id": "AA-p022-l014",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            302.6,
+            1579.3,
+            1627.0,
+            1639.2
+          ],
+          "text": "g4 We5 13 f4 Wxe4 14 Qxd7 xd7 15 xf6 he found himself in a hopeless",
+          "confidence": 0.9683,
+          "id": "AA-p022-l015",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            300.2,
+            1636.7,
+            450.9,
+            1679.1
+          ],
+          "text": "position.",
+          "confidence": 0.9672,
+          "id": "AA-p022-l016",
+          "pdf_page": 22,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            343.0,
+            1682.9,
+            1627.0,
+            1739.0
+          ],
+          "text": "An alternative was to let the e-file be opened up by 11...xd5 12 exd5 Wf5 13",
+          "confidence": 0.9868,
+          "id": "AA-p022-l017",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            298.9,
+            1731.5,
+            1625.8,
+            1793.9
+          ],
+          "text": "e1+ e5 14 f4, which would perhaps have been less unpleasant for Black, e.g.",
+          "confidence": 0.9985,
+          "id": "AA-p022-l018",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            300.2,
+            1785.1,
+            1625.8,
+            1841.3
+          ],
+          "text": "14...g6 15 fxe5 (15 g4 is weaker on account of 15...Wxg5 16 fxg5 g7, etc.)",
+          "confidence": 0.9907,
+          "id": "AA-p022-l019",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            296.5,
+            1830.1,
+            735.1,
+            1888.7
+          ],
+          "text": "15...dxe5 16 We2 f6, etc'.",
+          "confidence": 0.9864,
+          "id": "AA-p022-l020",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            343.0,
+            1938.6,
+            1622.1,
+            1991.0
+          ],
+          "text": "A few further examples will show different aspects of the attack against the",
+          "confidence": 0.9892,
+          "id": "AA-p022-l021",
+          "pdf_page": 22,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            300.2,
+            1991.0,
+            474.1,
+            2033.4
+          ],
+          "text": "square f7:",
+          "confidence": 0.9996,
+          "id": "AA-p022-l022",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            378.6,
+            2094.5,
+            1625.8,
+            2151.9
+          ],
+          "text": "Indeed, after 16 We2 the reply 16...Wxg5 just leaves Black a piece up. Keres",
+          "confidence": 0.9867,
+          "id": "AA-p022-l023",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            381.0,
+            2145.7,
+            1623.3,
+            2194.3
+          ],
+          "text": "himself gave the continuation 13 We1+ (instead of 13 e1+) 13...e5 14 f4 h6",
+          "confidence": 0.9804,
+          "id": "AA-p022-l024",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            382.2,
+            2191.8,
+            1422.4,
+            2245.5
+          ],
+          "text": "15 fxe5 Wxg5 16 exd6+ as leading t0 a winning attack for White.",
+          "confidence": 0.9777,
+          "id": "AA-p022-l025",
+          "pdf_page": 22,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p022-fig01"
+      ]
+    },
+    {
+      "pdf_page": 23,
+      "source_image": "source_pages/page-023.png",
+      "lines": [
+        {
+          "bbox": [
+            744.9,
+            275.7,
+            1037.7,
+            320.6
+          ],
+          "text": "Keres - Winter",
+          "confidence": 0.9523,
+          "id": "AA-p023-l003",
+          "pdf_page": 23,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            742.4,
+            331.8,
+            1041.4,
+            369.3
+          ],
+          "text": "Warsaw OL, 1935",
+          "confidence": 0.9514,
+          "id": "AA-p023-l004",
+          "pdf_page": 23,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            751.0,
+            376.7,
+            1027.9,
+            421.6
+          ],
+          "text": "Sicilian, 2...f6",
+          "confidence": 0.9245,
+          "id": "AA-p023-l005",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            226.7,
+            474.0,
+            1552.3,
+            522.7
+          ],
+          "text": "1 e4 c5 2 f3 f6 3 e5 d5 4 2c3 e6 5 ②xd5 exd5 6 d4 d6 7 g5 Wa5+ 8 c3",
+          "confidence": 0.9472,
+          "id": "AA-p023-l006",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            229.1,
+            523.9,
+            1288.8,
+            575.1
+          ],
+          "text": "cxd4 9 d3 dxc3 10 0-0 cxb2 11 b1 dxe5 12 xe5 d6 (D)",
+          "confidence": 0.9807,
+          "id": "AA-p023-l007",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            270.8,
+            1232.5,
+            1465.3,
+            1281.2
+          ],
+          "text": "In this position White decided the game by sacrificing his knight on f7:",
+          "confidence": 0.9979,
+          "id": "AA-p023-l010",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            272.0,
+            1281.2,
+            710.6,
+            1324.8
+          ],
+          "text": "13 2xf7! xf7 14 Wh5+",
+          "confidence": 0.9373,
+          "id": "AA-p023-l011",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            270.8,
+            1333.6,
+            1548.6,
+            1383.5
+          ],
+          "text": "A sacrificial assault on f7 must as a rule be followed up by aggressive action,",
+          "confidence": 0.9918,
+          "id": "AA-p023-l012",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            1383.5,
+            1548.6,
+            1434.6
+          ],
+          "text": "so as not to allow Black time to consolidate (e.g. with an artificial castling by",
+          "confidence": 0.9864,
+          "id": "AA-p023-l013",
+          "pdf_page": 23,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            223.0,
+            1432.1,
+            1552.3,
+            1487.0
+          ],
+          "text": "means of ...f8 and ...g8). The advantage of the capture is twofold: the king, in",
+          "confidence": 0.9761,
+          "id": "AA-p023-l014",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            227.9,
+            1492.0,
+            1549.8,
+            1529.4
+          ],
+          "text": "moving to f7, loses the right to castle and is exposed still further; at the same",
+          "confidence": 0.9915,
+          "id": "AA-p023-l015",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            1536.9,
+            1548.6,
+            1585.5
+          ],
+          "text": "time, a weakness appears on the diagonal h5-e8. Such features should be quickly",
+          "confidence": 0.9948,
+          "id": "AA-p023-l016",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            1586.8,
+            1529.0,
+            1635.4
+          ],
+          "text": "and energetically exploited, since they are on the whole of a transitory nature.",
+          "confidence": 0.9952,
+          "id": "AA-p023-l017",
+          "pdf_page": 23,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            272.0,
+            1637.9,
+            390.8,
+            1681.6
+          ],
+          "text": "14...g6",
+          "confidence": 0.997,
+          "id": "AA-p023-l018",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            267.1,
+            1682.9,
+            1554.7,
+            1734.0
+          ],
+          "text": "If 14...*f8, then 15 fe1 d7 16 Wf3+ g8 17 e7 xe7 18 xe7, etc. Or if",
+          "confidence": 0.9382,
+          "id": "AA-p023-l019",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            226.7,
+            1732.7,
+            1118.6,
+            1785.1
+          ],
+          "text": "14...e6, then 15 f5+! xf5 16 d2+ is strongest.",
+          "confidence": 0.9857,
+          "id": "AA-p023-l020",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            270.8,
+            1786.4,
+            1505.7,
+            1833.8
+          ],
+          "text": "15 xg6+ hxg6 16 Wxh8 f5 17 fe1 Qe4 18 xe4! dxe4 19 Wf6+ 1-0",
+          "confidence": 0.9592,
+          "id": "AA-p023-l021",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            268.3,
+            1835.0,
+            1551.0,
+            1887.4
+          ],
+          "text": "Since if 19...g8 (or 19...e8 20 We6+ f8 21 h6#) then 20 Wxg6+ f8",
+          "confidence": 0.9707,
+          "id": "AA-p023-l022",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            1886.2,
+            1045.0,
+            1937.3
+          ],
+          "text": "21 Wxd6+, followed by further checks and mate.",
+          "confidence": 0.9981,
+          "id": "AA-p023-l023",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            267.1,
+            1988.5,
+            1551.0,
+            2040.9
+          ],
+          "text": "The position on the following page is from the game Varein-NN. Here White",
+          "confidence": 0.994,
+          "id": "AA-p023-l024",
+          "pdf_page": 23,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            225.4,
+            2043.4,
+            871.1,
+            2085.8
+          ],
+          "text": "carried out the following combination:",
+          "confidence": 0.9962,
+          "id": "AA-p023-l025",
+          "pdf_page": 23,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            268.3,
+            2088.3,
+            665.3,
+            2133.2
+          ],
+          "text": "1 .xf7+ xf7 2 ②d5!",
+          "confidence": 0.9277,
+          "id": "AA-p023-l026",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            267.1,
+            2141.9,
+            1549.8,
+            2191.8
+          ],
+          "text": "This double attack on Black's b4-bishop and f4-pawn promotes a further at-",
+          "confidence": 0.9832,
+          "id": "AA-p023-l027",
+          "pdf_page": 23,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            223.0,
+            2193.1,
+            1548.6,
+            2244.2
+          ],
+          "text": "tack on the exposed king by means of a rapid deployment of the queen's bishop;",
+          "confidence": 0.9849,
+          "id": "AA-p023-l028",
+          "pdf_page": 23,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p023-fig01"
+      ]
+    },
+    {
+      "pdf_page": 24,
+      "source_image": "source_pages/page-024.png",
+      "lines": [
+        {
+          "bbox": [
+            322.2,
+            877.0,
+            1647.8,
+            929.4
+          ],
+          "text": "the position of Black's dark-squared bishop and queen helps White to gain some",
+          "confidence": 0.9951,
+          "id": "AA-p024-l004",
+          "pdf_page": 24,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            321.0,
+            929.4,
+            601.5,
+            975.5
+          ],
+          "text": "important tempi.",
+          "confidence": 0.9845,
+          "id": "AA-p024-l005",
+          "pdf_page": 24,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            363.9,
+            973.0,
+            1649.0,
+            1027.9
+          ],
+          "text": "2...e7 3 Qxf4 Wh4 4 2f3 Wh1+ 5 f2 Wxa1 6 e5+ e8 7 Wh5+ g6 8",
+          "confidence": 0.9137,
+          "id": "AA-p024-l006",
+          "pdf_page": 24,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            321.0,
+            1024.2,
+            1138.2,
+            1072.8
+          ],
+          "text": "xc7+ f8 9 wh6+ g8 10 ②e8 f8 11 2f6#",
+          "confidence": 0.9002,
+          "id": "AA-p024-l007",
+          "pdf_page": 24,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            360.2,
+            1731.5,
+            1644.1,
+            1787.6
+          ],
+          "text": "The continuation in this position, which arose in the game Asgeirsson-Raud,",
+          "confidence": 0.9924,
+          "id": "AA-p024-l010",
+          "pdf_page": 24,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            314.9,
+            1782.6,
+            1645.4,
+            1837.5
+          ],
+          "text": "Munich OL 1936, is an example of an attack by Black on White's weak square at",
+          "confidence": 0.9948,
+          "id": "AA-p024-l011",
+          "pdf_page": 24,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            314.9,
+            1836.3,
+            368.8,
+            1875.0
+          ],
+          "text": "f2.",
+          "confidence": 0.9982,
+          "id": "AA-p024-l012",
+          "pdf_page": 24,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            361.4,
+            1882.4,
+            882.1,
+            1929.9
+          ],
+          "text": "1...xf2! 2 xf2 g4+ 3 e1",
+          "confidence": 0.9131,
+          "id": "AA-p024-l013",
+          "pdf_page": 24,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            356.5,
+            1931.1,
+            1644.1,
+            1991.0
+          ],
+          "text": "If 3 g3, then Black follows up the attack with 3...Wc7+, and White's king is",
+          "confidence": 0.99,
+          "id": "AA-p024-l014",
+          "pdf_page": 24,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            313.6,
+            1987.2,
+            530.5,
+            2030.9
+          ],
+          "text": "too exposed.",
+          "confidence": 0.9929,
+          "id": "AA-p024-l015",
+          "pdf_page": 24,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            355.3,
+            2029.6,
+            1640.5,
+            2092.0
+          ],
+          "text": "3...xe3 4 Wd2 d4 5 d1 xg2+ 6 *f2 ②h4 7 f1 Qh3 8 g1 ad8 9 g3",
+          "confidence": 0.9068,
+          "id": "AA-p024-l016",
+          "pdf_page": 24,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            314.9,
+            2083.3,
+            1640.5,
+            2136.9
+          ],
+          "text": "d3 10 xd3 xf3 11 xf3 Wh4+ 12 g3 xd3 13 Wxd3 Wf4+ 14 Wf3 Wd2+",
+          "confidence": 0.9669,
+          "id": "AA-p024-l017",
+          "pdf_page": 24,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            314.9,
+            2138.2,
+            616.2,
+            2179.3
+          ],
+          "text": "15 g1 e1+ 0-1",
+          "confidence": 0.9017,
+          "id": "AA-p024-l018",
+          "pdf_page": 24,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            360.2,
+            2188.1,
+            759.6,
+            2230.5
+          ],
+          "text": "Black mates next move.",
+          "confidence": 0.9801,
+          "id": "AA-p024-l019",
+          "pdf_page": 24,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p024-fig01",
+        "AA-p024-fig02"
+      ]
+    },
+    {
+      "pdf_page": 25,
+      "source_image": "source_pages/page-025.png",
+      "lines": [
+        {
+          "bbox": [
+            272.0,
+            272.0,
+            1553.5,
+            314.4
+          ],
+          "text": "A similar assault on f2 by two knights from e5 and g4 earned Black the First",
+          "confidence": 0.9846,
+          "id": "AA-p025-l003",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            227.9,
+            320.6,
+            880.9,
+            369.3
+          ],
+          "text": "Brilliancy Prize in the following game:",
+          "confidence": 0.9966,
+          "id": "AA-p025-l004",
+          "pdf_page": 25,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            753.5,
+            420.4,
+            1023.0,
+            461.6
+          ],
+          "text": "Réti - H. Wolf",
+          "confidence": 0.9434,
+          "id": "AA-p025-l005",
+          "pdf_page": 25,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            700.8,
+            471.5,
+            1075.7,
+            516.5
+          ],
+          "text": "Teplitz-Schonau, 1922",
+          "confidence": 0.9932,
+          "id": "AA-p025-l006",
+          "pdf_page": 25,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            506.0,
+            521.4,
+            1271.7,
+            568.9
+          ],
+          "text": "Queen's Gambit Declined, Orthodox Defence",
+          "confidence": 0.9838,
+          "id": "AA-p025-l007",
+          "pdf_page": 25,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            224.2,
+            618.8,
+            1552.3,
+            667.4
+          ],
+          "text": "1 d4 d5 2 c4 e6 3 c3 f6 4 g5 臭e7 5 e3 0-0 6 f3 bd7 7 c1 c6 8 Wc2 a6",
+          "confidence": 0.9393,
+          "id": "AA-p025-l008",
+          "pdf_page": 25,
+          "review_flags": [
+            "unexpected_CJK_likely_figurine_error",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            225.4,
+            674.9,
+            338.1,
+            714.8
+          ],
+          "text": "9 c5?!",
+          "confidence": 0.9974,
+          "id": "AA-p025-l009",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            270.8,
+            724.8,
+            1549.8,
+            769.7
+          ],
+          "text": "Here this method of blocking the position is unsound because of Black's cen-",
+          "confidence": 0.9975,
+          "id": "AA-p025-l010",
+          "pdf_page": 25,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            226.7,
+            774.7,
+            1321.9,
+            817.1
+          ],
+          "text": "tral advance with ...e5. Nowadays one would play 9 a3 or 9 cxd5.",
+          "confidence": 0.997,
+          "id": "AA-p025-l011",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            269.5,
+            822.1,
+            1100.2,
+            867.0
+          ],
+          "text": "9...e5! 10 dxe5 g4 11 xe7 Wxe7 12 2a4 e8",
+          "confidence": 0.9705,
+          "id": "AA-p025-l012",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            273.2,
+            877.0,
+            1092.8,
+            918.1
+          ],
+          "text": "The pawn on e5 will not escape Black's clutches.",
+          "confidence": 0.9872,
+          "id": "AA-p025-l013",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            270.8,
+            920.6,
+            967.9,
+            969.3
+          ],
+          "text": "13 d3 h6 14 2d4 dxe5 15 b6? (D)",
+          "confidence": 0.9642,
+          "id": "AA-p025-l014",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            270.8,
+            1633.0,
+            1551.0,
+            1671.6
+          ],
+          "text": "A mistake which allows Black to strike at f2. White should have castled,",
+          "confidence": 0.9938,
+          "id": "AA-p025-l017",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            227.9,
+            1681.6,
+            1321.9,
+            1725.3
+          ],
+          "text": "though even his position would still have been somewhat inferior.",
+          "confidence": 0.992,
+          "id": "AA-p025-l018",
+          "pdf_page": 25,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            269.5,
+            1729.0,
+            621.1,
+            1772.7
+          ],
+          "text": "15...2xf2! 16 h7+",
+          "confidence": 0.9129,
+          "id": "AA-p025-l019",
+          "pdf_page": 25,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            270.8,
+            1782.6,
+            1551.0,
+            1823.8
+          ],
+          "text": "The critical continuation here is 16 xf2 g4+ 17 e1 (17 g3 would allow",
+          "confidence": 0.9862,
+          "id": "AA-p025-l020",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            230.3,
+            1831.3,
+            1552.3,
+            1876.2
+          ],
+          "text": "17...We5+ 18 h4 Wg5+ etc.) 17...Wxe3+ 18 ②e2 f5! 19 xf5 Wf2+ 20 d2",
+          "confidence": 0.9281,
+          "id": "AA-p025-l021",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            225.4,
+            1880.0,
+            890.7,
+            1927.4
+          ],
+          "text": "xe2+ 21 c3 Wxc5+ and Black wins.",
+          "confidence": 0.9882,
+          "id": "AA-p025-l022",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            272.0,
+            1934.8,
+            547.6,
+            1972.3
+          ],
+          "text": "16...h8 17 0-0",
+          "confidence": 0.9682,
+          "id": "AA-p025-l023",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            267.1,
+            1979.8,
+            1554.7,
+            2030.9
+          ],
+          "text": "Now 17 xf2 would be even weaker, e.g. 17...g4+ 18 e1 Wxe3+ 19 e2",
+          "confidence": 0.9791,
+          "id": "AA-p025-l024",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            226.7,
+            2029.6,
+            1557.2,
+            2085.8
+          ],
+          "text": "Wf2+, etc. White therefore attempts to save himself by castling, reckoning that",
+          "confidence": 0.9852,
+          "id": "AA-p025-l025",
+          "pdf_page": 25,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            225.4,
+            2085.8,
+            1552.3,
+            2130.7
+          ],
+          "text": "Black will lose not only his knight but also his rook. However, Black has calcu-",
+          "confidence": 0.998,
+          "id": "AA-p025-l026",
+          "pdf_page": 25,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            225.4,
+            2136.9,
+            447.2,
+            2178.1
+          ],
+          "text": "lated further:",
+          "confidence": 0.9946,
+          "id": "AA-p025-l027",
+          "pdf_page": 25,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            273.2,
+            2181.8,
+            847.8,
+            2229.2
+          ],
+          "text": "17...fg4 18 xa8 xe3 19 We2",
+          "confidence": 0.9426,
+          "id": "AA-p025-l028",
+          "pdf_page": 25,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p025-fig01"
+      ]
+    },
+    {
+      "pdf_page": 26,
+      "source_image": "source_pages/page-026.png",
+      "lines": [
+        {
+          "bbox": [
+            370.0,
+            265.7,
+            1647.8,
+            323.1
+          ],
+          "text": "If 19 Wb1 then 19...xf1 20 xf1 (or 20 xf1 Wxc5) 20...g6 and Black ac-",
+          "confidence": 0.9688,
+          "id": "AA-p026-l003",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            328.3,
+            321.8,
+            1161.4,
+            370.5
+          ],
+          "text": "quires both a material and a positional advantage!",
+          "confidence": 0.9927,
+          "id": "AA-p026-l004",
+          "pdf_page": 26,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            371.2,
+            366.8,
+            1215.3,
+            420.4
+          ],
+          "text": "19...xf1 20 b1 xh2 21 b6 ef3+! 22 gxf3",
+          "confidence": 0.9641,
+          "id": "AA-p026-l005",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            370.0,
+            416.7,
+            1010.7,
+            471.5
+          ],
+          "text": "If 22 h1 then 22...g4! is strongest.",
+          "confidence": 0.9798,
+          "id": "AA-p026-l006",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            372.4,
+            470.3,
+            1649.0,
+            517.7
+          ],
+          "text": "22...Wg5+ 23 xh2 xe2+ 24 xe2 We5+ 25 g3 Wxb2+ 26 c2 Wxb1 27",
+          "confidence": 0.9686,
+          "id": "AA-p026-l007",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            324.7,
+            516.5,
+            1529.0,
+            571.3
+          ],
+          "text": "e2 e6 28 f4 g6 29 a8 h5 30 c7 h4 31 2h1 Wd3 32 f2 f5 0-1",
+          "confidence": 0.9562,
+          "id": "AA-p026-l008",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            368.8,
+            621.2,
+            1650.3,
+            673.6
+          ],
+          "text": "To conclude the present chapter, the following game of Rubinstein's will serve",
+          "confidence": 0.9987,
+          "id": "AA-p026-l009",
+          "pdf_page": 26,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            324.7,
+            673.6,
+            1495.9,
+            719.8
+          ],
+          "text": "to demonstrate a few more features connected with the f7/f2 sacrifice:",
+          "confidence": 0.9917,
+          "id": "AA-p026-l010",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            803.7,
+            773.4,
+            1166.3,
+            817.1
+          ],
+          "text": "Euwe - Rubinstein",
+          "confidence": 0.9964,
+          "id": "AA-p026-l011",
+          "pdf_page": 26,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            840.4,
+            825.8,
+            1132.0,
+            872.0
+          ],
+          "text": "The Hague, 1921",
+          "confidence": 0.9971,
+          "id": "AA-p026-l012",
+          "pdf_page": 26,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            775.5,
+            877.0,
+            1194.5,
+            918.1
+          ],
+          "text": "Sicilian Defence, 2...f6",
+          "confidence": 0.9945,
+          "id": "AA-p026-l013",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            323.4,
+            973.0,
+            900.5,
+            1015.4
+          ],
+          "text": "1 e4 c5 2 2f3 f6 3 e5 2d5 4 d4",
+          "confidence": 0.9309,
+          "id": "AA-p026-l014",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            367.5,
+            1024.2,
+            638.3,
+            1066.6
+          ],
+          "text": "Better is 4 c3.",
+          "confidence": 0.9966,
+          "id": "AA-p026-l015",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            366.3,
+            1071.6,
+            801.2,
+            1116.5
+          ],
+          "text": "4...cxd4 5 Wxd4 e6 6 c4?",
+          "confidence": 0.9668,
+          "id": "AA-p026-l016",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            365.1,
+            1121.5,
+            901.7,
+            1168.9
+          ],
+          "text": "A weak move; 6 Qc4 is correct.",
+          "confidence": 0.9761,
+          "id": "AA-p026-l017",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            363.9,
+            1170.1,
+            1067.1,
+            1221.3
+          ],
+          "text": "6...2c6 7 Wd1 2de7! 8 d2 2g6 9 We2",
+          "confidence": 0.9214,
+          "id": "AA-p026-l018",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            365.1,
+            1220.0,
+            1644.1,
+            1281.2
+          ],
+          "text": "After 9 Qc3 Wc7 White must also move his queen to e2, thereby blocking his",
+          "confidence": 0.9819,
+          "id": "AA-p026-l019",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            319.8,
+            1272.4,
+            447.2,
+            1323.6
+          ],
+          "text": "bishop.",
+          "confidence": 0.9999,
+          "id": "AA-p026-l020",
+          "pdf_page": 26,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            362.6,
+            1321.1,
+            758.4,
+            1371.0
+          ],
+          "text": "9...Wc7 10 c3 b6 (D)",
+          "confidence": 0.9786,
+          "id": "AA-p026-l021",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            362.6,
+            1377.2,
+            1647.8,
+            1430.9
+          ],
+          "text": "By developing his own pieces calmly, Black is making the best possible use of",
+          "confidence": 0.9923,
+          "id": "AA-p026-l022",
+          "pdf_page": 26,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            318.5,
+            1425.9,
+            1642.9,
+            1482.0
+          ],
+          "text": "the difficulties experienced by White, who now cannot even fianchetto, e.g. 11",
+          "confidence": 0.9895,
+          "id": "AA-p026-l023",
+          "pdf_page": 26,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            317.3,
+            1473.3,
+            817.2,
+            1526.9
+          ],
+          "text": "g3? b7 12 g2 cxe5, etc.",
+          "confidence": 0.9703,
+          "id": "AA-p026-l024",
+          "pdf_page": 26,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p026-fig01"
+      ]
+    },
+    {
+      "pdf_page": 27,
+      "source_image": "source_pages/page-027.png",
+      "lines": [
+        {
+          "bbox": [
+            256.1,
+            269.5,
+            682.4,
+            313.1
+          ],
+          "text": "11 h4 d6! 12 exd6 xd6",
+          "confidence": 0.9985,
+          "id": "AA-p027-l003",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            254.8,
+            316.9,
+            1537.6,
+            368.0
+          ],
+          "text": "Black is now both better developed and more powerful in the centre. White's",
+          "confidence": 0.9891,
+          "id": "AA-p027-l004",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            210.7,
+            366.8,
+            1450.6,
+            416.7
+          ],
+          "text": "troubles would only be further increased after 13 Qxg7 g8 14 Qc3 f4.",
+          "confidence": 0.9706,
+          "id": "AA-p027-l005",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            256.1,
+            417.9,
+            1042.6,
+            464.1
+          ],
+          "text": "13 bd2 2f4 14 We3 c5 15 We4 f5 16 Wc2",
+          "confidence": 0.9621,
+          "id": "AA-p027-l006",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            257.3,
+            467.8,
+            1537.6,
+            519.0
+          ],
+          "text": "The queen's sixth move - not a good augury, as H. Kmoch remarks in his com-",
+          "confidence": 0.9804,
+          "id": "AA-p027-l007",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            214.4,
+            531.4,
+            361.4,
+            570.1
+          ],
+          "text": "mentary.",
+          "confidence": 0.9998,
+          "id": "AA-p027-l008",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            257.3,
+            572.6,
+            689.8,
+            617.5
+          ],
+          "text": "16...0-0 17 g3 g6 18 h5",
+          "confidence": 0.9777,
+          "id": "AA-p027-l009",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            257.3,
+            621.2,
+            1535.1,
+            666.2
+          ],
+          "text": "Because of White's weakness in the centre, the pursuit of this knight ends in",
+          "confidence": 0.9981,
+          "id": "AA-p027-l010",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            214.4,
+            678.6,
+            504.8,
+            716.1
+          ],
+          "text": "its centralization.",
+          "confidence": 0.9998,
+          "id": "AA-p027-l011",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            259.7,
+            723.5,
+            872.3,
+            768.4
+          ],
+          "text": "18...ge5 19 xe5 xe5 20 b4 (D)",
+          "confidence": 0.9704,
+          "id": "AA-p027-l012",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            259.7,
+            1427.1,
+            1541.2,
+            1470.8
+          ],
+          "text": "White cannot castle queenside because of the bishop's attack on f2, so he tries",
+          "confidence": 0.9775,
+          "id": "AA-p027-l014",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            214.4,
+            1473.3,
+            1542.5,
+            1528.2
+          ],
+          "text": "to employ power tactics. However, the use of force from a weaker position usu-",
+          "confidence": 0.9983,
+          "id": "AA-p027-l015",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            219.3,
+            1526.9,
+            1543.7,
+            1576.8
+          ],
+          "text": "ally prompts a still more forceful reply from one's opponent. Rubinstein, natu-",
+          "confidence": 0.9915,
+          "id": "AA-p027-l016",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            218.1,
+            1579.3,
+            1540.0,
+            1624.2
+          ],
+          "text": "rally, does not withdraw his bishop, but captures on f2. In exchange for a piece he",
+          "confidence": 0.9977,
+          "id": "AA-p027-l017",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            214.4,
+            1624.2,
+            1544.9,
+            1680.4
+          ],
+          "text": "gets two pawns and an attack, which is more than sufficient in this position, see-",
+          "confidence": 0.9869,
+          "id": "AA-p027-l018",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            216.9,
+            1680.4,
+            1488.5,
+            1725.3
+          ],
+          "text": "ing that he is the better developed and that the extra pawns are in the centre.",
+          "confidence": 0.9928,
+          "id": "AA-p027-l019",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            261.0,
+            1730.3,
+            872.3,
+            1772.7
+          ],
+          "text": "20...xf2+! 21 xf2 g4+ 22 e2",
+          "confidence": 0.9578,
+          "id": "AA-p027-l020",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            258.5,
+            1776.4,
+            1543.7,
+            1830.1
+          ],
+          "text": "The king cannot go to el or g1 because of 22...Wxg3+, while 22 g2 allows",
+          "confidence": 0.9772,
+          "id": "AA-p027-l021",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review",
+            "possible_file_square_1_l_confusion"
+          ]
+        },
+        {
+          "bbox": [
+            220.5,
+            1833.8,
+            405.5,
+            1872.5
+          ],
+          "text": "22...e3+.",
+          "confidence": 0.998,
+          "id": "AA-p027-l022",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            262.2,
+            1877.5,
+            1085.5,
+            1927.4
+          ],
+          "text": "22...Wxg3 23 d4 b7 24 μh3 Wd6 25 Wc3 e5",
+          "confidence": 0.956,
+          "id": "AA-p027-l023",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            263.4,
+            1933.6,
+            1542.5,
+            1976.0
+          ],
+          "text": "White has averted the direct mating attack, but now Black's centralized pawns",
+          "confidence": 0.9966,
+          "id": "AA-p027-l024",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            218.1,
+            1984.7,
+            1368.5,
+            2027.2
+          ],
+          "text": "come into their own. In such positions they are as valuable as pieces.",
+          "confidence": 0.9986,
+          "id": "AA-p027-l025",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            261.0,
+            2027.2,
+            1547.4,
+            2078.3
+          ],
+          "text": "26 g1 f4 27 c5 Wh6 28 e1 e4 29 h4 Wg5 30 Wh3 e3! 31 xe3 fxe3 32",
+          "confidence": 0.9701,
+          "id": "AA-p027-l026",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            220.5,
+            2082.0,
+            692.2,
+            2125.7
+          ],
+          "text": "c4+ h8 33 2f1 Wf6 0-1",
+          "confidence": 0.9377,
+          "id": "AA-p027-l027",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            261.0,
+            2134.4,
+            1544.9,
+            2178.1
+          ],
+          "text": "In the tumult of battle it is the point at which the white king's original wound",
+          "confidence": 0.9882,
+          "id": "AA-p027-l028",
+          "pdf_page": 27,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            221.8,
+            2189.3,
+            948.3,
+            2226.8
+          ],
+          "text": "was inflicted, i.e. f2, that is finally decisive.",
+          "confidence": 0.993,
+          "id": "AA-p027-l029",
+          "pdf_page": 27,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p027-fig01"
+      ]
+    }
+  ]
+}

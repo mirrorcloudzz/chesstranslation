@@ -1,0 +1,140 @@
+{
+  "pdf_page": 75,
+  "printed_page": 75,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        747.3,
+        127.2,
+        1042.6,
+        178.4
+      ],
+      "text": "Matingpatterns",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        1498.3,
+        124.7,
+        1551.0,
+        170.9
+      ],
+      "text": "75",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        534.2,
+        381.7,
+        568.5,
+        415.4
+      ],
+      "text": "W",
+      "confidence": 0.928
+    },
+    {
+      "bbox": [
+        779.2,
+        612.5,
+        970.3,
+        654.9
+      ],
+      "text": "Pawn Mate",
+      "confidence": 0.9705
+    },
+    {
+      "bbox": [
+        268.3,
+        722.3,
+        1552.3,
+        774.7
+      ],
+      "text": "1 g6 g8 2 g7#. On 1 g6 g8 2 Wxh7+ *f8 we get yet another mating pattern",
+      "confidence": 0.9743
+    },
+    {
+      "bbox": [
+        226.7,
+        775.9,
+        1046.3,
+        824.6
+      ],
+      "text": "with 3 g7+ f7 4 g8w# (mate with two queens).",
+      "confidence": 0.9732
+    },
+    {
+      "bbox": [
+        535.4,
+        985.5,
+        569.7,
+        1016.7
+      ],
+      "text": "W",
+      "confidence": 0.9448
+    },
+    {
+      "bbox": [
+        274.4,
+        1278.7,
+        1092.8,
+        1323.6
+      ],
+      "text": "1 ②xf7+ *g8 2 h6#. Or 1 g6+ g8 2 ②e7#",
+      "confidence": 0.9259
+    },
+    {
+      "bbox": [
+        536.6,
+        1489.5,
+        570.9,
+        1523.2
+      ],
+      "text": "W",
+      "confidence": 0.9164
+    },
+    {
+      "bbox": [
+        680.0,
+        1976.0,
+        1069.5,
+        2020.9
+      ],
+      "text": "MatewithTwoBishops",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        274.4,
+        2089.5,
+        770.6,
+        2127.0
+      ],
+      "text": "1 皇e6 d4 2 h2 and 3 e5#.",
+      "confidence": 0.9248
+    },
+    {
+      "bbox": [
+        272.0,
+        2140.7,
+        1552.3,
+        2181.8
+      ],
+      "text": "This could also be called Rubinstein's mate, after the famous game Rotlewi-",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        226.7,
+        2189.3,
+        1522.9,
+        2231.7
+      ],
+      "text": "Rubinstein, in which mate with two bishops was the basic motif of the attack.",
+      "confidence": 0.996
+    }
+  ]
+}

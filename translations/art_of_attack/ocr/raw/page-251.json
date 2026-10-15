@@ -1,0 +1,280 @@
+{
+  "pdf_page": 251,
+  "printed_page": 251,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        454.0,
+        132.0,
+        1352.0,
+        174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "251",
+      "bbox": [
+        1491.0,
+        132.0,
+        1550.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It is Black's move; he has to think how to supplement the direct defence of his",
+      "bbox": [
+        280.0,
+        280.0,
+        1555.0,
+        319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king position, especially in view of White's threat of 1 Qh2 followed by 2 f4 and",
+      "bbox": [
+        234.0,
+        325.0,
+        1555.0,
+        371.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 f5. Black plays:",
+      "bbox": [
+        236.0,
+        383.0,
+        524.0,
+        421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l...Qd8 2 Qh2 f6",
+      "bbox": [
+        280.0,
+        427.0,
+        569.0,
+        462.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now 3 f4 can be met by 3...Qf7. Moreover, he can also answer most other",
+      "bbox": [
+        280.0,
+        476.0,
+        1557.0,
+        520.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "moves by 3...Qf7, setting up a distinctive position with a 'double knight fian-",
+      "bbox": [
+        235.0,
+        527.0,
+        1554.0,
+        570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "chetto'.",
+      "bbox": [
+        235.0,
+        583.0,
+        357.0,
+        613.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position offers very strong resistance against all kinds of attack, and the",
+      "bbox": [
+        280.0,
+        631.0,
+        1556.0,
+        671.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "reason for this lies in the over-protection of the squares f5, g5, and h5, at which",
+      "bbox": [
+        235.0,
+        681.0,
+        1556.0,
+        721.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "points White might have been able to execute a breakthrough. These squares are",
+      "bbox": [
+        235.0,
+        732.0,
+        1556.0,
+        773.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "now covered both by Black's pawns and his knights, an example of 'prophylactic",
+      "bbox": [
+        236.0,
+        782.0,
+        1556.0,
+        822.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "over-protection' , to use Nimzowitsch's phrase.",
+      "bbox": [
+        236.0,
+        834.0,
+        1009.0,
+        873.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The over-protection which Black achieves by transferring his knight to f 7 is in",
+      "bbox": [
+        280.0,
+        883.0,
+        1556.0,
+        923.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "this case neither a passive nor an uneconomical means of defence. It is not diffi-",
+      "bbox": [
+        236.0,
+        934.0,
+        1555.0,
+        973.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cult to establish that Black's knight on b7 has no better position anywhere than",
+      "bbox": [
+        236.0,
+        985.0,
+        1556.0,
+        1023.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on f7 (if ...c4, for example, White plays b4 and does not allow ...Qc5); it is better",
+      "bbox": [
+        237.0,
+        1029.0,
+        1557.0,
+        1074.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to use the knight for defence, freeing Black's other pieces for later queenside ac-",
+      "bbox": [
+        237.0,
+        1086.0,
+        1556.0,
+        1124.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tivity. In some cases over-protection can mean economical direct defence; on the",
+      "bbox": [
+        237.0,
+        1136.0,
+        1556.0,
+        1175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "other hand, depending on the position, it may be superfluous.",
+      "bbox": [
+        237.0,
+        1186.0,
+        1254.0,
+        1225.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Defence by blockade",
+      "bbox": [
+        239.0,
+        1293.0,
+        760.0,
+        1344.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A blocked pawn formation means a general reduction in the number of actions",
+      "bbox": [
+        236.0,
+        1389.0,
+        1556.0,
+        1428.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "possible in any position, and as a result blockade is often the weapon employed",
+      "bbox": [
+        236.0,
+        1440.0,
+        1556.0,
+        1478.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by the weaker side. A means of defence which stands out as particularly impor-",
+      "bbox": [
+        237.0,
+        1490.0,
+        1556.0,
+        1529.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tant is the blockade of the pawns in front of the king.",
+      "bbox": [
+        237.0,
+        1540.0,
+        1114.0,
+        1579.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "XX",
+      "bbox": [
+        632.0,
+        1660.0,
+        753.0,
+        1717.0
+      ],
+      "confidence": null
+    }
+  ]
+}

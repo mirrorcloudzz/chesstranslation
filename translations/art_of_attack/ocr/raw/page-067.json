@@ -1,0 +1,200 @@
+{
+  "pdf_page": 67,
+  "printed_page": 67,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        735.1,
+        126.0,
+        1031.6,
+        177.1
+      ],
+      "text": "Matingpatterns",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        1491.0,
+        127.2,
+        1535.1,
+        164.7
+      ],
+      "text": "67",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        254.8,
+        270.7,
+        1538.8,
+        318.1
+      ],
+      "text": "In this position there are again two possible mates, depending on how Black",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        211.9,
+        328.1,
+        338.1,
+        371.7
+      ],
+      "text": "replies.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        254.8,
+        371.7,
+        1537.6,
+        416.7
+      ],
+      "text": "If 1 f6+ h8, then 2 h7# (the so-called Arab mate, because it is recorded",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        209.5,
+        419.2,
+        1541.2,
+        471.5
+      ],
+      "text": "in Arabic manuscripts of the ninth century). If 1 f6+ f8, then there follows 2",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        211.9,
+        474.0,
+        1096.5,
+        522.7
+      ],
+      "text": "μf7#, a mating pattern which is worth remembering.",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        523.1,
+        682.4,
+        547.6,
+        713.6
+      ],
+      "text": "B",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        259.7,
+        925.6,
+        1537.6,
+        970.5
+      ],
+      "text": "Another mate which should be known is this one with two knights, but if there",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        214.4,
+        976.8,
+        1163.9,
+        1024.2
+      ],
+      "text": "are no other pieces on the board then it cannot be forced.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        216.9,
+        1085.3,
+        1057.3,
+        1142.7
+      ],
+      "text": "Typical mates with enemy pieces",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        523.1,
+        1286.2,
+        550.1,
+        1318.6
+      ],
+      "text": "B",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        261.0,
+        1534.4,
+        1538.8,
+        1575.6
+      ],
+      "text": "The so-called back-row mate by the rook (or queen) is one of the most typical",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        216.9,
+        1590.5,
+        488.8,
+        1628.0
+      ],
+      "text": "mating patterns.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        525.6,
+        1791.4,
+        550.1,
+        1821.3
+      ],
+      "text": "B",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        262.2,
+        2038.4,
+        1542.5,
+        2083.3
+      ],
+      "text": "Of the fairly large number of typical mates with queen and pawn this one is",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        218.1,
+        2089.5,
+        1540.0,
+        2133.2
+      ],
+      "text": "given first. Black is to move; he cannot escape mate, since he is threatened by 1",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        216.9,
+        2136.9,
+        1544.9,
+        2185.6
+      ],
+      "text": "Wh6 and 2 Wg7#. If he plays 1...h7, then 2 Wh4+ and 3 Wh6, etc. If Black had",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        211.9,
+        2185.6,
+        1246.0,
+        2238.0
+      ],
+      "text": "a pawn on h7 he would have the defence 1...h8 2 Wh6 g8.",
+      "confidence": 0.9913
+    }
+  ]
+}

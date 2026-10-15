@@ -1,0 +1,360 @@
+{
+  "pdf_page": 6,
+  "printed_page": 6,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        352.8,
+        285.7,
+        834.3,
+        358.0
+      ],
+      "text": "Introduction",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        347.9,
+        514.0,
+        1669.9,
+        567.6
+      ],
+      "text": "Action is the essential basis on which the game of chess is founded and any ac-",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        345.5,
+        565.1,
+        1666.2,
+        618.8
+      ],
+      "text": "tion which contains a threat - i.e. attack in its widest sense -- stands out as a prom-",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        345.5,
+        616.3,
+        1668.6,
+        668.6
+      ],
+      "text": "inent feature of the game. To the outside observer, a chess game is dominated by",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        344.3,
+        666.2,
+        1669.9,
+        719.8
+      ],
+      "text": "the conflict between the two players. The ultimate aim of each player is, as a rule,",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        343.0,
+        717.3,
+        1674.8,
+        772.2
+      ],
+      "text": "the mating of the opponent's king, and an action with this aim, whether it is direct",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        345.5,
+        767.2,
+        1669.9,
+        822.1
+      ],
+      "text": "or indirect, is called an attack (in a narrower sense of the word) or a mating at-",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        344.3,
+        820.8,
+        945.8,
+        863.3
+      ],
+      "text": "tack; that is the subject of this book.",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        388.4,
+        867.0,
+        1669.9,
+        921.9
+      ],
+      "text": "Being the most important action in chess and the central element of the game",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        343.0,
+        920.6,
+        1667.4,
+        970.5
+      ],
+      "text": "in ancient times, attack appears at all stages of the game's development and in",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        343.0,
+        969.3,
+        1669.9,
+        1020.4
+      ],
+      "text": "various forms of perfection. Moreover, it can be said that the reforms which have",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        341.8,
+        1014.2,
+        1669.9,
+        1075.3
+      ],
+      "text": "been made in the rules of chess have always been in the direction of increasing",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        341.8,
+        1070.3,
+        1073.2,
+        1117.7
+      ],
+      "text": "and stimulating the opportunities for attack.",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        383.5,
+        1119.0,
+        1666.2,
+        1173.9
+      ],
+      "text": "The great reform of c. 1485, which created modern European chess, was par-",
+      "confidence": 0.9772
+    },
+    {
+      "bbox": [
+        340.6,
+        1167.6,
+        1671.1,
+        1228.8
+      ],
+      "text": "ticularly responsible for opening up new opportunities for attack and ushered in a",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        340.6,
+        1222.5,
+        1667.4,
+        1272.4
+      ],
+      "text": "period of rich development in chess technique. For three centuries of chess his-",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        340.6,
+        1269.9,
+        1668.6,
+        1327.3
+      ],
+      "text": "tory, attack predominated over defence in the practice of the great players, and",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        339.4,
+        1321.1,
+        1667.4,
+        1376.0
+      ],
+      "text": "mastery at that time meant skill in conducting an attack. Only with Philidor did",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        339.4,
+        1369.7,
+        1667.4,
+        1429.6
+      ],
+      "text": "the first positional ideas appear, and with them more mature defensive strategies;",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        338.1,
+        1420.9,
+        1439.5,
+        1474.5
+      ],
+      "text": "these were to find in Steinitz a century later a legislator of genius.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        381.0,
+        1472.0,
+        1666.2,
+        1528.2
+      ],
+      "text": "During the classic era of chess from Morphy to Steinitz and on to Lasker the",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        339.4,
+        1523.2,
+        1661.3,
+        1576.8
+      ],
+      "text": "value placed on attack gradually decreased, for with greater positional under-",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        338.1,
+        1574.3,
+        1663.7,
+        1626.7
+      ],
+      "text": "standing the foundations were also provided for the perfection of defensive",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        336.9,
+        1623.0,
+        1663.7,
+        1679.1
+      ],
+      "text": "technique. This, however, was followed by a new period in which Capablanca,",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        338.1,
+        1674.1,
+        1663.7,
+        1730.3
+      ],
+      "text": "and particularly Alekhine, perfected the technique of attack, above all that of the",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        336.9,
+        1726.5,
+        1662.5,
+        1778.9
+      ],
+      "text": "attack on the castled position, founded on exact positional play. With Alekhine",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        334.5,
+        1775.2,
+        1662.5,
+        1831.3
+      ],
+      "text": "the aggressive and dynamic style of play reached a zenith; in the period which",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        333.2,
+        1825.1,
+        1665.0,
+        1882.4
+      ],
+      "text": "followed the tide again turned away gradually from the risks of the direct attack",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        333.2,
+        1876.2,
+        1657.6,
+        1932.3
+      ],
+      "text": "in search of new paths. The main reason for this is not to be found in any weak-",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        334.5,
+        1928.6,
+        1660.1,
+        1982.2
+      ],
+      "text": "ness inherent in the attacking style, but in the simple fact that, given the condi-",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        335.7,
+        1978.5,
+        1658.8,
+        2032.1
+      ],
+      "text": "tions of present-day tournaments, it is more profitable and advantageous to make",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        334.5,
+        2028.4,
+        1660.1,
+        2084.5
+      ],
+      "text": "a study of openings. Now, it must be understood that the present theory of open-",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        333.2,
+        2078.3,
+        1658.8,
+        2134.4
+      ],
+      "text": "ings represents a detailed development of Nimzowitsch's ideas concerning the",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        333.2,
+        2128.2,
+        1657.6,
+        2185.6
+      ],
+      "text": "central squares. There are still many gaps to be filled and there is a wealth of op-",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        328.3,
+        2178.1,
+        1660.1,
+        2235.5
+      ],
+      "text": "portunity for innovation; as a result, great masters are inclined to concern",
+      "confidence": 0.9919
+    }
+  ]
+}

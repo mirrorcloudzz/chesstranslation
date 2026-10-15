@@ -1,0 +1,200 @@
+{
+  "pdf_page": 2,
+  "printed_page": null,
+  "width": 800,
+  "height": 1188,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        53.0,
+        418.0,
+        320.0,
+        628.0
+      ],
+      "text": "art",
+      "confidence": 0.7725
+    },
+    {
+      "bbox": [
+        253.0,
+        443.0,
+        399.0,
+        560.0
+      ],
+      "text": "nf",
+      "confidence": 0.6279
+    },
+    {
+      "bbox": [
+        75.0,
+        528.0,
+        490.0,
+        755.0
+      ],
+      "text": "altach",
+      "confidence": 0.7724
+    },
+    {
+      "bbox": [
+        112.0,
+        754.0,
+        434.0,
+        772.0
+      ],
+      "text": "Oneofthefinestchessbookseverwritten,",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        113.0,
+        780.0,
+        432.0,
+        795.0
+      ],
+      "text": "theArtofAttackhasbeentranscribedinto",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        112.0,
+        801.0,
+        439.0,
+        821.0
+      ],
+      "text": "algebraicnotationforthefirsttime.In this",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        112.0,
+        826.0,
+        456.0,
+        845.0
+      ],
+      "text": "revised edition ofthegreatclassic,the author",
+      "confidence": 0.9531
+    },
+    {
+      "bbox": [
+        112.0,
+        850.0,
+        434.0,
+        869.0
+      ],
+      "text": "expoundsboththebasicprinciplesand the",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        112.0,
+        874.0,
+        429.0,
+        894.0
+      ],
+      "text": "mostcomplexforms of attackon theking.",
+      "confidence": 0.9564
+    },
+    {
+      "bbox": [
+        112.0,
+        899.0,
+        431.0,
+        918.0
+      ],
+      "text": "Astudyof thismasterpiecewilladdpower",
+      "confidence": 0.9811
+    },
+    {
+      "bbox": [
+        112.0,
+        923.0,
+        442.0,
+        942.0
+      ],
+      "text": "andbrilliancetoanychessenthusiast'splay",
+      "confidence": 0.9824
+    },
+    {
+      "bbox": [
+        516.0,
+        982.0,
+        589.0,
+        1002.0
+      ],
+      "text": "16.99",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        649.0,
+        980.0,
+        722.0,
+        1003.0
+      ],
+      "text": "$24.95",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        126.0,
+        1016.0,
+        447.0,
+        1047.0
+      ],
+      "text": "EVERYMAN CHESS",
+      "confidence": 0.9529
+    },
+    {
+      "bbox": [
+        537.0,
+        1009.0,
+        712.0,
+        1026.0
+      ],
+      "text": "ISBN1-85744-400-0",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        112.0,
+        1087.0,
+        314.0,
+        1103.0
+      ],
+      "text": "www.everymanchess.com",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        112.0,
+        1108.0,
+        461.0,
+        1127.0
+      ],
+      "text": "publishedin theUKbyGloucesterPublishersplc",
+      "confidence": 0.9758
+    },
+    {
+      "bbox": [
+        536.0,
+        1122.0,
+        706.0,
+        1142.0
+      ],
+      "text": "781857444001",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        112.0,
+        1132.0,
+        456.0,
+        1150.0
+      ],
+      "text": "distributed in theUSbythe GlobePequotPress",
+      "confidence": 0.9528
+    }
+  ]
+}

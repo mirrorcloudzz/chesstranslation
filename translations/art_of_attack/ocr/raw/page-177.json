@@ -1,0 +1,250 @@
+{
+  "pdf_page": 177,
+  "printed_page": 177,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Ranks, files and diagonals in the attack on the castled king 177",
+      "bbox": [
+        360.0,
+        126.0,
+        1562.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "prepared by advancing his h-pawn to h5 is also decisive against other moves) IO",
+      "bbox": [
+        243.0,
+        274.0,
+        1564.0,
+        314.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xd6 Xxd6 II Xxd6 Vxd6 12 Axf6+ Vxf6 13 Vxf6+ Äg7 14 h6 and White",
+      "bbox": [
+        244.0,
+        318.0,
+        1564.0,
+        362.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mates.",
+      "bbox": [
+        244.0,
+        381.0,
+        347.0,
+        405.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...Ve6 5 Vg5 Xc6 6 Xxb7 and White won in due course.",
+      "bbox": [
+        289.0,
+        420.0,
+        1254.0,
+        463.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "An important point is that, in addition to 'clearing' one's opponent's pieces",
+      "bbox": [
+        290.0,
+        526.0,
+        1563.0,
+        564.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "from a diagonal, cases also occur where one's own pieces prevent it being",
+      "bbox": [
+        245.0,
+        575.0,
+        1564.0,
+        615.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "opened. It is extremely difficult to resuscitate a diagonal on which one has a",
+      "bbox": [
+        245.0,
+        626.0,
+        1565.0,
+        665.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "blocked pawn of one's own. Structurally, it is a similar problem to that of opening",
+      "bbox": [
+        245.0,
+        676.0,
+        1564.0,
+        716.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a file where a pawn blocks the path of a rook, and it is usually solved in the same",
+      "bbox": [
+        245.0,
+        726.0,
+        1564.0,
+        766.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "way, i.e. by sacrificing a piece on a square controlled by the pawn. Here is an ex-",
+      "bbox": [
+        245.0,
+        777.0,
+        1563.0,
+        817.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position occurred in the game Alexander-Szabo, Hilversum 1947. White",
+      "bbox": [
+        289.0,
+        1534.0,
+        1564.0,
+        1572.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pitched his knight into f6 with check so as to bring the long diagonal back to",
+      "bbox": [
+        244.0,
+        1584.0,
+        1564.0,
+        1623.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 hf6+! gxf6",
+      "bbox": [
+        291.0,
+        1679.0,
+        514.0,
+        1723.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        908.0,
+        1725.0,
+        915.0,
+        1743.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If l...#h8, then 2 Vh4 is very strong .",
+      "bbox": [
+        289.0,
+        1730.0,
+        926.0,
+        1774.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 Vg3+ 3 exf6 Axf6 4 Qe5!",
+      "bbox": [
+        289.0,
+        1780.0,
+        855.0,
+        1824.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White threatens 5 Zxf6, 5 mxf7+ and indeed 5 Vh4 (5...Axh4 6 oxf7+ and 7",
+      "bbox": [
+        288.0,
+        1831.0,
+        1563.0,
+        1874.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qh6#. Black no longer has any defence.",
+      "bbox": [
+        244.0,
+        1882.0,
+        911.0,
+        1926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...Axe5 5 Axe5+ f6 6 Xxf6 1-0",
+      "bbox": [
+        288.0,
+        1933.0,
+        834.0,
+        1969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Since if 6...Äxf6, 7 Afl is decisive.",
+      "bbox": [
+        290.0,
+        1985.0,
+        871.0,
+        2024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The 'clearing' of the long diagonal was a victory for the bishop.",
+      "bbox": [
+        288.0,
+        2039.0,
+        1349.0,
+        2079.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 2 Vh4 allows the defence 2...Vxd3. Instead, 2 Ve4 is correct, when 2...gxf6 3",
+      "bbox": [
+        248.0,
+        2139.0,
+        1562.0,
+        2183.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "exf6 followed by Zg5 forces mate.",
+      "bbox": [
+        326.0,
+        2188.0,
+        880.0,
+        2230.0
+      ],
+      "confidence": null
+    }
+  ]
+}

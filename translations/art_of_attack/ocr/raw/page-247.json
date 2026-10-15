@@ -1,0 +1,350 @@
+{
+  "pdf_page": 247,
+  "printed_page": 247,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "10",
+      "bbox": [
+        249.0,
+        315.0,
+        331.0,
+        376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Defending against the attack",
+      "bbox": [
+        384.0,
+        313.0,
+        1508.0,
+        393.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on the castled king",
+      "bbox": [
+        382.0,
+        414.0,
+        1117.0,
+        493.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In presenting, up to here, the various aspects of the attack on the castled king we",
+      "bbox": [
+        242.0,
+        698.0,
+        1560.0,
+        738.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have looked at the operation from the attacker's point of view. However, it is also",
+      "bbox": [
+        242.0,
+        749.0,
+        1560.0,
+        788.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "true that the defence against such an attack has its own principles and particular",
+      "bbox": [
+        242.0,
+        800.0,
+        1561.0,
+        840.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "characteristics, and it is therefore fitting that we should also try to discuss this de-",
+      "bbox": [
+        241.0,
+        850.0,
+        1559.0,
+        889.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fence systematically.",
+      "bbox": [
+        242.0,
+        900.0,
+        584.0,
+        938.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Chess literature tends for the most part to talk of active and passive defence as",
+      "bbox": [
+        286.0,
+        950.0,
+        1559.0,
+        989.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "being the two main types of defence. Steinitz also introduced the term 'self-",
+      "bbox": [
+        241.0,
+        1000.0,
+        1558.0,
+        1039.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "defence', and H. Kmoch (in his work The Art of Defence) speaks of 'automatic",
+      "bbox": [
+        241.0,
+        1050.0,
+        1559.0,
+        1091.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "defence'. Although it is now fairly well established, this division is not really the",
+      "bbox": [
+        241.0,
+        1100.0,
+        1559.0,
+        1141.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "happiest one for teaching purposes; moreover, when it is a question of defence",
+      "bbox": [
+        241.0,
+        1151.0,
+        1559.0,
+        1191.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "against an attack on the castled king, it is an imprecise one.",
+      "bbox": [
+        241.0,
+        1201.0,
+        1222.0,
+        1241.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I think it better to talk of direct and indirect defence of the castled position, in",
+      "bbox": [
+        286.0,
+        1252.0,
+        1559.0,
+        1293.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which case the direct defence is predominantly 'passive' and the indirect always",
+      "bbox": [
+        241.0,
+        1302.0,
+        1558.0,
+        1344.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'active'. The difference between these kinds of defence is usually clearly",
+      "bbox": [
+        244.0,
+        1353.0,
+        1558.0,
+        1395.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "marked, since the former involves the defence of the actual castling area or the",
+      "bbox": [
+        240.0,
+        1404.0,
+        1558.0,
+        1445.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "removal of one's opponent's aggressive pieces, while in the latter case it is a",
+      "bbox": [
+        239.0,
+        1454.0,
+        1559.0,
+        1495.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "question of actions further away from the castled position, which the defender",
+      "bbox": [
+        239.0,
+        1505.0,
+        1559.0,
+        1546.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "uses to keep the attacker so busy that he fails to pursue his attack to its conclu-",
+      "bbox": [
+        239.0,
+        1555.0,
+        1557.0,
+        1596.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sion.",
+      "bbox": [
+        240.0,
+        1605.0,
+        315.0,
+        1634.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In actual play direct defensive moves usually occur in conjunction with those",
+      "bbox": [
+        284.0,
+        1656.0,
+        1557.0,
+        1697.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of an indirect kind, and the main rule is that direct defence should be economical",
+      "bbox": [
+        239.0,
+        1706.0,
+        1559.0,
+        1741.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and that indirect should be executed at the right moment. Economy in direct de-",
+      "bbox": [
+        239.0,
+        1757.0,
+        1556.0,
+        1799.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fence consists of not making superfluous moves and not employing an unneces-",
+      "bbox": [
+        238.0,
+        1807.0,
+        1556.0,
+        1850.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sarily large number of pieces in defence. The right moment for indirect defence",
+      "bbox": [
+        239.0,
+        1858.0,
+        1557.0,
+        1900.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is fairly difficult to gauge, since it is normally determined by two interacting fac-",
+      "bbox": [
+        238.0,
+        1909.0,
+        1556.0,
+        1953.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tors; on the one hand, when direct defence has reached the limits that necessary",
+      "bbox": [
+        238.0,
+        1961.0,
+        1557.0,
+        2004.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "economy allows, and on the other, when the attacker has really made a move",
+      "bbox": [
+        237.0,
+        2011.0,
+        1556.0,
+        2053.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which commits him fairly strongly, i.e. he has staked his money on the success of",
+      "bbox": [
+        237.0,
+        2060.0,
+        1560.0,
+        2103.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the attack.",
+      "bbox": [
+        237.0,
+        2110.0,
+        405.0,
+        2140.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "First, we shall set out clearly the various elements which go to make up each",
+      "bbox": [
+        281.0,
+        2161.0,
+        1556.0,
+        2204.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "type of defence.",
+      "bbox": [
+        237.0,
+        2211.0,
+        501.0,
+        2249.0
+      ],
+      "confidence": null
+    }
+  ]
+}

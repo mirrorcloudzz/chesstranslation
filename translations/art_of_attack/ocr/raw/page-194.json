@@ -1,0 +1,170 @@
+{
+  "pdf_page": 194,
+  "printed_page": 194,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "194",
+      "bbox": [
+        256.0,
+        121.0,
+        316.0,
+        152.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        680.0,
+        122.0,
+        1175.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "AEA",
+      "bbox": [
+        1006.0,
+        361.0,
+        1178.0,
+        418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position arose in the game Shumov-Jaenisch, St. Petersburg 1849. Black,",
+      "bbox": [
+        292.0,
+        872.0,
+        1566.0,
+        916.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to move, concluded the game as follows:",
+      "bbox": [
+        248.0,
+        923.0,
+        922.0,
+        963.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l...Äxg2+ 2 •xg2 Vg6+ 3 Ad5+ 4 f3 Axf3+ 5 Äxf3 Vgl#",
+      "bbox": [
+        292.0,
+        969.0,
+        1380.0,
+        1017.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "We shall now go on to look at cases of successive sacrifices, whereby two of",
+      "bbox": [
+        291.0,
+        1074.0,
+        1569.0,
+        1119.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the pawns in front of the castled king are eliminated. It is often easy to spot sacri-",
+      "bbox": [
+        246.0,
+        1124.0,
+        1564.0,
+        1169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fices of this kind if the position is looked at in the light of our thematic criterion:",
+      "bbox": [
+        246.0,
+        1174.0,
+        1563.0,
+        1217.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "what would the situation be if the pawns were not there? Let us take the next dia-",
+      "bbox": [
+        246.0,
+        1224.0,
+        1564.0,
+        1266.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gram, for example.",
+      "bbox": [
+        245.0,
+        1276.0,
+        558.0,
+        1315.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this position, from the game Keller-Rohaczek, Vienna 1937, it is White's",
+      "bbox": [
+        284.0,
+        1982.0,
+        1559.0,
+        2026.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "move, and he has an easy task if he imagines Black's position without the pawns",
+      "bbox": [
+        238.0,
+        2033.0,
+        1559.0,
+        2081.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on h7 and g7 and realizes that White then mates with his queen on h5 and rook on",
+      "bbox": [
+        238.0,
+        2083.0,
+        1558.0,
+        2128.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gl. The operation is then extremely simple.",
+      "bbox": [
+        238.0,
+        2133.0,
+        957.0,
+        2176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Axh7 #xh7 2 Vh5+ ég8 3 Xxg7+ •xg7 4 Ägl+ and mates.",
+      "bbox": [
+        285.0,
+        2179.0,
+        1347.0,
+        2228.0
+      ],
+      "confidence": null
+    }
+  ]
+}

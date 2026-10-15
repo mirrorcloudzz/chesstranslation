@@ -1,0 +1,280 @@
+{
+  "pdf_page": 229,
+  "printed_page": 229,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        416.0,
+        133.0,
+        1366.0,
+        174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "229",
+      "bbox": [
+        1479.0,
+        133.0,
+        1542.0,
+        165.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "where an attack using the pawns is correct. One tiny change in the position and",
+      "bbox": [
+        224.0,
+        884.0,
+        1544.0,
+        923.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "already the choice between attacking with pieces or with pawns has swung in fa-",
+      "bbox": [
+        225.0,
+        934.0,
+        1543.0,
+        974.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vour of the pawns. Such is the sensitivity of the attack on the castled king, and it",
+      "bbox": [
+        225.0,
+        985.0,
+        1545.0,
+        1024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is now clear how difficult it is to create any more definite rule on this point! Still,",
+      "bbox": [
+        225.0,
+        1035.0,
+        1543.0,
+        1073.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I shall attempt to conclude the chapter with a series of tips — which will naturally",
+      "bbox": [
+        225.0,
+        1086.0,
+        1544.0,
+        1125.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "apply only generally.",
+      "bbox": [
+        225.0,
+        1137.0,
+        574.0,
+        1176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ten Practical Tips",
+      "bbox": [
+        224.0,
+        1243.0,
+        663.0,
+        1294.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l) It is an essential condition for any attack on the castled king that the oppo-",
+      "bbox": [
+        274.0,
+        1338.0,
+        1544.0,
+        1377.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "nent should not be able to counterattack in the centre or on the other side of the",
+      "bbox": [
+        225.0,
+        1389.0,
+        1545.0,
+        1419.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "board, or rather that his counterattack should not be dangerous and not develop",
+      "bbox": [
+        225.0,
+        1439.0,
+        1544.0,
+        1478.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fully before the attack on the castled king. An attack using pawns usually pro-",
+      "bbox": [
+        224.0,
+        1490.0,
+        1543.0,
+        1529.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gresses more slowly than one with pieces, since it often contains moves without",
+      "bbox": [
+        225.0,
+        1541.0,
+        1546.0,
+        1579.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "any immediate threat. So, before embarking on a pawn attack, one should beware",
+      "bbox": [
+        225.0,
+        1591.0,
+        1544.0,
+        1630.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "particularly of the possibility of a counterattack by one's opponent.",
+      "bbox": [
+        224.0,
+        1642.0,
+        1339.0,
+        1680.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) A central pawn blockade prevents or limits counterattacks and so makes a",
+      "bbox": [
+        270.0,
+        1692.0,
+        1546.0,
+        1730.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawn attack on the castled king easier.",
+      "bbox": [
+        224.0,
+        1743.0,
+        860.0,
+        1780.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) One should always examine whether a promising attack can be made by",
+      "bbox": [
+        271.0,
+        1792.0,
+        1545.0,
+        1832.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the pieces alone, and if it can, the pawns should be left 'at home'.",
+      "bbox": [
+        224.0,
+        1843.0,
+        1313.0,
+        1881.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4) As a rule, it is difficult for pawn assaults to succeed against unweakened",
+      "bbox": [
+        269.0,
+        1894.0,
+        1546.0,
+        1933.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "castled positions, since the possibilities of blockade are very great. A prelimi-",
+      "bbox": [
+        224.0,
+        1945.0,
+        1543.0,
+        1984.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "nary action by the pieces is necessary to produce a weakening of the castled posi-",
+      "bbox": [
+        225.0,
+        1996.0,
+        1544.0,
+        2035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion or to remove the possibility of a later blockade when the pawns advance.",
+      "bbox": [
+        224.0,
+        2046.0,
+        1509.0,
+        2085.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5) Every blockade in the castling area radically changes the character of the",
+      "bbox": [
+        270.0,
+        2097.0,
+        1545.0,
+        2135.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position, for it affects the activity of individual pieces and the whole nature of the",
+      "bbox": [
+        224.0,
+        2147.0,
+        1544.0,
+        2186.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "play which follows.",
+      "bbox": [
+        224.0,
+        2198.0,
+        551.0,
+        2236.0
+      ],
+      "confidence": null
+    }
+  ]
+}

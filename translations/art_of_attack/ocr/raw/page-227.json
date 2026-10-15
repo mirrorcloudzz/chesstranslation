@@ -1,0 +1,300 @@
+{
+  "pdf_page": 227,
+  "printed_page": 227,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        404.0,
+        136.0,
+        1355.0,
+        177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "227",
+      "bbox": [
+        1468.0,
+        136.0,
+        1529.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the c-file is deferred; at the same time, he over-protects the e5-square as a pre-",
+      "bbox": [
+        211.0,
+        283.0,
+        1530.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "caution against any desperate sacrifices.",
+      "bbox": [
+        211.0,
+        335.0,
+        875.0,
+        374.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11...Ab7 12 Xh4 Aa613 Ve3 Ab514 a4 15 xc3 xee816 Vel! xac8 17",
+      "bbox": [
+        259.0,
+        378.0,
+        1531.0,
+        417.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xch3 Äc2 18 f4 (D)",
+      "bbox": [
+        211.0,
+        434.0,
+        546.0,
+        473.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "0b",
+      "bbox": [
+        1006.0,
+        570.0,
+        1051.0,
+        594.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Only now, when his rooks are ready for the lethal blow on the h-file, can White",
+      "bbox": [
+        258.0,
+        1140.0,
+        1531.0,
+        1178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "touch his pawns.",
+      "bbox": [
+        212.0,
+        1191.0,
+        487.0,
+        1229.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18...Äec8 19 Äh6 Ad3 20 Vh4 Äcl+ 21 Ét2 Xfl+ 22 and Black cannot",
+      "bbox": [
+        259.0,
+        1235.0,
+        1533.0,
+        1271.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "prevent mate by Äh8+.",
+      "bbox": [
+        211.0,
+        1288.0,
+        592.0,
+        1329.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In comparing these two variations, the reader cannot but recognize the essen-",
+      "bbox": [
+        258.0,
+        1342.0,
+        1531.0,
+        1380.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tial feature of the position that condemns 1 f4? to failure but brings victory to the",
+      "bbox": [
+        212.0,
+        1392.0,
+        1532.0,
+        1431.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "attack carried out by the pieces. The move f4 obstructs both the diagonal for the",
+      "bbox": [
+        212.0,
+        1443.0,
+        1531.0,
+        1482.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishop on cl and the f-file for the rooks, and so limits the possibilities of action",
+      "bbox": [
+        212.0,
+        1494.0,
+        1531.0,
+        1533.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "along the very two lines on which Black is weak. His weakness on the f-file can be",
+      "bbox": [
+        212.0,
+        1545.0,
+        1532.0,
+        1583.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "seen at a glance, and it is not difficult to deduce (on examining the diagrammed",
+      "bbox": [
+        213.0,
+        1596.0,
+        1532.0,
+        1634.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position) that he will also be weak on the dark squares, since he will be unable to",
+      "bbox": [
+        211.0,
+        1646.0,
+        1532.0,
+        1685.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "postpone ...g6 for long. After f4 White is left with only his domination of the h-",
+      "bbox": [
+        211.0,
+        1696.0,
+        1531.0,
+        1735.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "file, whereas if he does not play it, he also has the f-file and a line of action for his",
+      "bbox": [
+        212.0,
+        1746.0,
+        1531.0,
+        1785.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishop, and it is the combination of all these factors that gives him victory.",
+      "bbox": [
+        212.0,
+        1797.0,
+        1451.0,
+        1836.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "We shall now vary the position of the pawns in front of White 's king in the",
+      "bbox": [
+        256.0,
+        1847.0,
+        1532.0,
+        1886.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "above diagram, so as to train our eyes to be keener in spotting the various finesses",
+      "bbox": [
+        212.0,
+        1898.0,
+        1531.0,
+        1937.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "contained in this kind of position.",
+      "bbox": [
+        211.0,
+        1949.0,
+        769.0,
+        1987.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "First let us suppose that White's f-pawn is already on f4 (instead of f2) and",
+      "bbox": [
+        257.0,
+        1999.0,
+        1532.0,
+        2038.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "that it is White to move. Now, of course, 1 Xf3 will win at once, but if this possi-",
+      "bbox": [
+        212.0,
+        2047.0,
+        1531.0,
+        2089.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bility is excluded, e.g. by White's having his h-pawn on h3, what then? Even so,",
+      "bbox": [
+        212.0,
+        2100.0,
+        1531.0,
+        2139.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White wins — by 1 f5! exf5 (otherwise f6 is decisive) 2 Äxf5, and Black has no",
+      "bbox": [
+        211.0,
+        2148.0,
+        1532.0,
+        2189.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "answer to the two threats of 3 Xf4 and 3 Vh5+ ég8 followed by either 4 Of 7 or",
+      "bbox": [
+        212.0,
+        2196.0,
+        1533.0,
+        2240.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "pdf_page": 128,
+  "printed_page": 128,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        306.3,
+        109.8,
+        382.2,
+        155.9
+      ],
+      "text": "128",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        735.1,
+        114.8,
+        1237.4,
+        165.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        306.3,
+        258.2,
+        1631.9,
+        315.6
+      ],
+      "text": "7..e7 8 ②g6+ fxg6 9 Wxg7+ f7 10 2xf7 Wb6 11 d6+ $d8 12 xe8 xe8",
+      "confidence": 0.8896
+    },
+    {
+      "bbox": [
+        307.5,
+        308.1,
+        515.8,
+        356.8
+      ],
+      "text": "13 e3, etc.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        349.2,
+        359.3,
+        634.6,
+        407.9
+      ],
+      "text": "3 Wg4 f5 4 Wh4",
+      "confidence": 0.9583
+    },
+    {
+      "bbox": [
+        347.9,
+        411.7,
+        1628.2,
+        467.8
+      ],
+      "text": "The absence of Black's queen from d8 makes this move possible. Black is now",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        307.5,
+        462.8,
+        1629.4,
+        516.5
+      ],
+      "text": "obliged to sacrifice in return, since otherwise White will decide the issue with 5",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        306.3,
+        509.0,
+        782.9,
+        560.1
+      ],
+      "text": "Wh7+ and an eventual mate.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        349.2,
+        558.9,
+        1368.5,
+        615.0
+      ],
+      "text": "4...xe5 5 dxe5 Wxe5 6 df3 Wc7 7 ae1 and White wins.",
+      "confidence": 0.9712
+    },
+    {
+      "bbox": [
+        635.8,
+        769.7,
+        670.2,
+        802.1
+      ],
+      "text": "W",
+      "confidence": 0.9054
+    },
+    {
+      "bbox": [
+        340.6,
+        1264.9,
+        1620.9,
+        1326.1
+      ],
+      "text": "This position differs fundamentally from those considered so far and touches",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        294.0,
+        1319.8,
+        1157.8,
+        1368.5
+      ],
+      "text": "on some new aspects of the sacrificial combination.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        335.7,
+        1363.5,
+        841.7,
+        1418.4
+      ],
+      "text": "1 xh7+ xh7 2 g5+ g6",
+      "confidence": 0.9398
+    },
+    {
+      "bbox": [
+        334.5,
+        1413.4,
+        1620.9,
+        1478.3
+      ],
+      "text": "If 2...h6, both 3 xf7+ and 3 Wg4 f5 4 ce4 lead to victory. Instead of",
+      "confidence": 0.9765
+    },
+    {
+      "bbox": [
+        292.8,
+        1467.0,
+        1617.2,
+        1531.9
+      ],
+      "text": "the dark-squared bishop White has the knight on c3 as an active supporting piece,",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        295.3,
+        1519.4,
+        1614.7,
+        1578.1
+      ],
+      "text": "which proves its value in numerous variations. Consider, for example, 2...g8 3",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        291.6,
+        1563.1,
+        1465.3,
+        1628.0
+      ],
+      "text": "Wh5 Wd3, where the fact that White has the move 4 ce4 is decisive.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        334.5,
+        1618.0,
+        612.6,
+        1665.4
+      ],
+      "text": "3 Wg4 f5 4 exf6",
+      "confidence": 0.9019
+    },
+    {
+      "bbox": [
+        330.8,
+        1666.6,
+        981.3,
+        1726.5
+      ],
+      "text": "4 Wg3 is not so strong in this position.",
+      "confidence": 0.9704
+    },
+    {
+      "bbox": [
+        334.5,
+        1720.3,
+        482.7,
+        1762.7
+      ],
+      "text": "4...xf6",
+      "confidence": 0.9262
+    },
+    {
+      "bbox": [
+        330.8,
+        1772.7,
+        1616.0,
+        1832.5
+      ],
+      "text": "An obviously important point here and in similar positions is that Black loses",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        285.5,
+        1820.1,
+        921.3,
+        1872.5
+      ],
+      "text": "his queen after 4...gxf6 5 xe6+, etc.",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        328.3,
+        1862.5,
+        1590.2,
+        1938.6
+      ],
+      "text": "5 ce4+ e5 6f4+ d5 7 Wd1+ *c68 ac1+ *b5 9 c5+ mating quickly.",
+      "confidence": 0.9291
+    },
+    {
+      "bbox": [
+        285.5,
+        1977.3,
+        1167.6,
+        2039.6
+      ],
+      "text": "The variation with ...h6 is critical",
+      "confidence": 0.9599
+    },
+    {
+      "bbox": [
+        283.0,
+        2070.8,
+        1612.3,
+        2138.2
+      ],
+      "text": "This continuation is usually difficult for the attacker if he does not have a second",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        283.0,
+        2123.2,
+        1612.3,
+        2186.8
+      ],
+      "text": "bishop and has his h-pawn at h4, and is consequently without the possibility of",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        286.7,
+        2170.6,
+        561.1,
+        2224.3
+      ],
+      "text": "Wg4 and Wh4+.",
+      "confidence": 0.9968
+    }
+  ]
+}

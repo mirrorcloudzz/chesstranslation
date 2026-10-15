@@ -1,0 +1,210 @@
+{
+  "pdf_page": 62,
+  "printed_page": 62,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        362.6,
+        122.3,
+        411.6,
+        164.7
+      ],
+      "text": "62",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        789.0,
+        122.3,
+        1291.3,
+        173.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        694.7,
+        376.7,
+        720.4,
+        407.9
+      ],
+      "text": "B",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        401.8,
+        870.7,
+        841.7,
+        919.4
+      ],
+      "text": "3...h6 4 b5 g8 5 We2?",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        400.6,
+        923.1,
+        1682.1,
+        974.3
+      ],
+      "text": "A further mistake. White should at once have played 5 bxc6 xc6 6 Wd5 Wd7",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        354.1,
+        971.8,
+        1683.3,
+        1027.9
+      ],
+      "text": "7 &a3, when Black, pinned down at c6 and g8, would have had to refrain from",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        356.5,
+        1026.7,
+        1428.5,
+        1074.1
+      ],
+      "text": "going straight ahead with ...g4 and consolidate his position first.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        398.2,
+        1075.3,
+        876.0,
+        1124.0
+      ],
+      "text": "5...g4 6 fxg4 hxg4 7 xg4?",
+      "confidence": 0.9565
+    },
+    {
+      "bbox": [
+        396.9,
+        1125.2,
+        1680.9,
+        1178.9
+      ],
+      "text": "Poor defensive technique! After 7 h1 Black would have had a difficult task,",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        354.1,
+        1176.4,
+        1608.6,
+        1227.5
+      ],
+      "text": "for 7...gxh3 would not do any good because of 8 Wh5+ followed by Wxh3.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        398.2,
+        1220.0,
+        1321.9,
+        1281.2
+      ],
+      "text": "7...xg4 8 hxg4 xg4 9 bxc6 xc6 10 d5 d8 (D)",
+      "confidence": 0.9735
+    },
+    {
+      "bbox": [
+        776.7,
+        1354.8,
+        823.3,
+        1408.4
+      ],
+      "text": "宣",
+      "confidence": 0.8826
+    },
+    {
+      "bbox": [
+        688.5,
+        1433.4,
+        724.1,
+        1467.0
+      ],
+      "text": "W",
+      "confidence": 0.8458
+    },
+    {
+      "bbox": [
+        1049.9,
+        1639.2,
+        1085.5,
+        1671.6
+      ],
+      "text": "3",
+      "confidence": 0.7788
+    },
+    {
+      "bbox": [
+        393.3,
+        1931.1,
+        512.1,
+        1974.8
+      ],
+      "text": "11 c4?",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        390.8,
+        1981.0,
+        1676.0,
+        2042.1
+      ],
+      "text": "White could have put up more resistance by 11 μa3. No real advantage would",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        346.7,
+        2030.9,
+        1673.5,
+        2090.8
+      ],
+      "text": "come of 11 Wc4 because of 11...d7. Naturally, 11 c4? is very weak and quite",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        345.5,
+        2085.8,
+        1673.5,
+        2140.7
+      ],
+      "text": "inappropriate, since it does nothing to help the defence and only obstructs the di-",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        346.7,
+        2135.7,
+        809.8,
+        2184.3
+      ],
+      "text": "agonal for the white queen.",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        390.8,
+        2181.8,
+        1041.4,
+        2230.5
+      ],
+      "text": "11...a7 12 f2 h7 13 Wd1? Wh6?!",
+      "confidence": 0.9653
+    }
+  ]
+}

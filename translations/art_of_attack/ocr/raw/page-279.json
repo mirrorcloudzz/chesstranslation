@@ -1,0 +1,290 @@
+{
+  "pdf_page": 279,
+  "printed_page": 279,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        459.0,
+        127.0,
+        1356.0,
+        169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "279",
+      "bbox": [
+        1494.0,
+        126.0,
+        1557.0,
+        157.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Admittedly, this forces f 3, which shuts the long diagonal to White's queen, but",
+      "bbox": [
+        285.0,
+        274.0,
+        1559.0,
+        315.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on the other hand, it undertakes an attacking obligation for which there is insuffi-",
+      "bbox": [
+        241.0,
+        324.0,
+        1557.0,
+        363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cientjustification. The point is that Black is obliged to obtain some concrete ad-",
+      "bbox": [
+        240.0,
+        374.0,
+        1558.0,
+        417.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vantage before his pawn at h5 becomes an anxiety and he is forced to strengthen",
+      "bbox": [
+        241.0,
+        424.0,
+        1559.0,
+        467.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's position by exchanging it on g4. After this mistake White is the better",
+      "bbox": [
+        240.0,
+        475.0,
+        1560.0,
+        517.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "placed and should in the end make his presence felt on the queenside.",
+      "bbox": [
+        241.0,
+        525.0,
+        1395.0,
+        568.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 f3 Qa5 (D)",
+      "bbox": [
+        288.0,
+        574.0,
+        529.0,
+        615.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 #112",
+      "bbox": [
+        291.0,
+        1278.0,
+        418.0,
+        1312.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Though this does not mar White's position much, it would have been stronger",
+      "bbox": [
+        288.0,
+        1332.0,
+        1562.0,
+        1371.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to have played 16 Xb5 ! hc4 17 Vf2!, when Black's discomfort over the h-pawn",
+      "bbox": [
+        243.0,
+        1377.0,
+        1561.0,
+        1422.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is revealed in various ways. Thus, 17...Vxf2+ 18 Xxn hxg4 19 fxg4 leaves two",
+      "bbox": [
+        243.0,
+        1427.0,
+        1561.0,
+        1472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawns en prise, one of which will obviously fall, while if 17...Vxh3, then 18",
+      "bbox": [
+        243.0,
+        1477.0,
+        1560.0,
+        1524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qg5 Vg3+ (or 18...Äxg5 19 Xxg5 hxg4 20 Vh2 Vxh2+ 21 •xh2 Qe31 22 Xbl",
+      "bbox": [
+        243.0,
+        1523.0,
+        1558.0,
+        1574.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gxf3 23 •gl is good for White) 19 Vxg3 fxg3 20 gxh5 a6 21 hxg6 axb5 22 Xel",
+      "bbox": [
+        244.0,
+        1580.0,
+        1558.0,
+        1625.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and White is the better placed.",
+      "bbox": [
+        244.0,
+        1636.0,
+        746.0,
+        1675.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This line, wherein the union of direct and indirect defence is especially close,",
+      "bbox": [
+        288.0,
+        1686.0,
+        1560.0,
+        1723.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "would have been a much better way of handling the position than the passive one",
+      "bbox": [
+        244.0,
+        1736.0,
+        1561.0,
+        1775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "actually chosen.",
+      "bbox": [
+        244.0,
+        1788.0,
+        508.0,
+        1826.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...Qc4 17 xgl?",
+      "bbox": [
+        291.0,
+        1833.0,
+        588.0,
+        1876.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The decisive error. He should have played 17 VD; then 17...Ve7 (17...Vxf2+",
+      "bbox": [
+        288.0,
+        1882.0,
+        1562.0,
+        1927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "eventually loses a pawn) 18 gxh5 Äh6 19 Agl Xxh5 20 Xxb7! Äxh3+ (or",
+      "bbox": [
+        243.0,
+        1935.0,
+        1562.0,
+        1978.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20...Vxb7 21 hf6+) 21 •xh3 Vxb7 22 Vh4 leaves the advantage with White.",
+      "bbox": [
+        244.0,
+        1984.0,
+        1554.0,
+        2027.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...Qd2! leads to a rook and pawn ending which is winning for Black. White",
+      "bbox": [
+        327.0,
+        2094.0,
+        1562.0,
+        2135.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        247.0,
+        2099.0,
+        259.0,
+        2127.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "can improve earlier in this variation, but only to the extent of holding the bal-",
+      "bbox": [
+        326.0,
+        2146.0,
+        1560.0,
+        2183.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ance. It is therefore doubtful if 16 Äb5 was any stronger than the move played.",
+      "bbox": [
+        327.0,
+        2191.0,
+        1529.0,
+        2230.0
+      ],
+      "confidence": null
+    }
+  ]
+}

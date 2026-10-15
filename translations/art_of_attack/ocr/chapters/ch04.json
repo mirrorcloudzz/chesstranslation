@@ -1,0 +1,2544 @@
+{
+  "section": {
+    "id": "ch04",
+    "title": "Mating patterns",
+    "pdf_start": 66,
+    "pdf_end": 79,
+    "print_start": 66,
+    "print_end": 79
+  },
+  "status": "OCR_preparation_not_proofread",
+  "pages": [
+    {
+      "pdf_page": 66,
+      "source_image": "source_pages/page-066.png",
+      "lines": [
+        {
+          "bbox": [
+            314.9,
+            284.4,
+            1046.3,
+            379.2
+          ],
+          "text": "4 Mating patterns",
+          "confidence": 0.9736,
+          "id": "AA-p066-l001",
+          "pdf_page": 66,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            318.5,
+            515.2,
+            1641.7,
+            581.3
+          ],
+          "text": "Spatial relationships in a mating attack can be observed by examining mating",
+          "confidence": 0.9958,
+          "id": "AA-p066-l002",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            314.9,
+            570.1,
+            1638.0,
+            626.2
+          ],
+          "text": "patterns, focal-points, and the roles played by the ranks, files, and diagonals. In",
+          "confidence": 0.995,
+          "id": "AA-p066-l003",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            316.1,
+            618.8,
+            1638.0,
+            677.4
+          ],
+          "text": "this chapter we shall be concerned with mating patterns. This choice has a practi-",
+          "confidence": 0.9926,
+          "id": "AA-p066-l004",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            317.3,
+            669.9,
+            1640.5,
+            728.5
+          ],
+          "text": "cal justification in that mating patterns can be more easily remembered than the",
+          "confidence": 0.9865,
+          "id": "AA-p066-l005",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            314.9,
+            717.3,
+            1641.7,
+            782.2
+          ],
+          "text": "ways leading up to mate. For this reason mating patterns, even though they occur",
+          "confidence": 0.9858,
+          "id": "AA-p066-l006",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            316.1,
+            769.7,
+            1640.5,
+            832.1
+          ],
+          "text": "only at the very end of a mating attack, are fundamental for practical purposes",
+          "confidence": 0.9963,
+          "id": "AA-p066-l007",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            310.0,
+            814.6,
+            1638.0,
+            885.7
+          ],
+          "text": "because of the excellent mnemonic assistance which they provide to the player.",
+          "confidence": 0.9845,
+          "id": "AA-p066-l008",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            355.3,
+            870.7,
+            1638.0,
+            933.1
+          ],
+          "text": "Our first concern is for the most common mating patterns; these hardly ever",
+          "confidence": 0.9863,
+          "id": "AA-p066-l009",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            311.2,
+            918.1,
+            1638.0,
+            983.0
+          ],
+          "text": "occur in the middle of the board, but they are very frequent in the castling area,",
+          "confidence": 0.9965,
+          "id": "AA-p066-l010",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            306.3,
+            969.3,
+            1190.8,
+            1027.9
+          ],
+          "text": "i.e. near the king's position on the edge of the board.",
+          "confidence": 0.9878,
+          "id": "AA-p066-l011",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            311.2,
+            1075.3,
+            1241.1,
+            1145.2
+          ],
+          "text": "Typical mates without enemy pieces",
+          "confidence": 0.9918,
+          "id": "AA-p066-l012",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            306.3,
+            1168.9,
+            1636.8,
+            1235.0
+          ],
+          "text": "There are a very large number of typical mates of this kind and most of them are",
+          "confidence": 0.9916,
+          "id": "AA-p066-l013",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            307.5,
+            1221.3,
+            1634.3,
+            1284.9
+          ],
+          "text": "elementary, so we shall consider only a few examples. (For the sake of greater",
+          "confidence": 0.9885,
+          "id": "AA-p066-l014",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            306.3,
+            1271.2,
+            1234.9,
+            1329.8
+          ],
+          "text": "clarity the diagrams are shown without the white king.)",
+          "confidence": 0.9939,
+          "id": "AA-p066-l015",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            347.9,
+            1322.3,
+            1631.9,
+            1386.0
+          ],
+          "text": "In the first position White, to move, has a choice between two typical mates:",
+          "confidence": 0.9925,
+          "id": "AA-p066-l016",
+          "pdf_page": 66,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            347.9,
+            1776.4,
+            999.7,
+            1826.3
+          ],
+          "text": "1) 1 g6+ gg8 2 Wh7+ f8 3 Wf7#.",
+          "confidence": 0.9254,
+          "id": "AA-p066-l018",
+          "pdf_page": 66,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            344.3,
+            1827.6,
+            760.8,
+            1876.2
+          ],
+          "text": "2) 1 f5+ g8 2 e6#.",
+          "confidence": 0.9712,
+          "id": "AA-p066-l019",
+          "pdf_page": 66,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p066-fig01",
+        "AA-p066-fig02"
+      ]
+    },
+    {
+      "pdf_page": 67,
+      "source_image": "source_pages/page-067.png",
+      "lines": [
+        {
+          "bbox": [
+            254.8,
+            270.7,
+            1538.8,
+            318.1
+          ],
+          "text": "In this position there are again two possible mates, depending on how Black",
+          "confidence": 0.9909,
+          "id": "AA-p067-l003",
+          "pdf_page": 67,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            211.9,
+            328.1,
+            338.1,
+            371.7
+          ],
+          "text": "replies.",
+          "confidence": 0.9994,
+          "id": "AA-p067-l004",
+          "pdf_page": 67,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            254.8,
+            371.7,
+            1537.6,
+            416.7
+          ],
+          "text": "If 1 f6+ h8, then 2 h7# (the so-called Arab mate, because it is recorded",
+          "confidence": 0.981,
+          "id": "AA-p067-l005",
+          "pdf_page": 67,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            209.5,
+            419.2,
+            1541.2,
+            471.5
+          ],
+          "text": "in Arabic manuscripts of the ninth century). If 1 f6+ f8, then there follows 2",
+          "confidence": 0.9791,
+          "id": "AA-p067-l006",
+          "pdf_page": 67,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            211.9,
+            474.0,
+            1096.5,
+            522.7
+          ],
+          "text": "μf7#, a mating pattern which is worth remembering.",
+          "confidence": 0.9865,
+          "id": "AA-p067-l007",
+          "pdf_page": 67,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            259.7,
+            925.6,
+            1537.6,
+            970.5
+          ],
+          "text": "Another mate which should be known is this one with two knights, but if there",
+          "confidence": 0.9954,
+          "id": "AA-p067-l009",
+          "pdf_page": 67,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            214.4,
+            976.8,
+            1163.9,
+            1024.2
+          ],
+          "text": "are no other pieces on the board then it cannot be forced.",
+          "confidence": 0.9954,
+          "id": "AA-p067-l010",
+          "pdf_page": 67,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            216.9,
+            1085.3,
+            1057.3,
+            1142.7
+          ],
+          "text": "Typical mates with enemy pieces",
+          "confidence": 0.9979,
+          "id": "AA-p067-l011",
+          "pdf_page": 67,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            261.0,
+            1534.4,
+            1538.8,
+            1575.6
+          ],
+          "text": "The so-called back-row mate by the rook (or queen) is one of the most typical",
+          "confidence": 0.9943,
+          "id": "AA-p067-l013",
+          "pdf_page": 67,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            216.9,
+            1590.5,
+            488.8,
+            1628.0
+          ],
+          "text": "mating patterns.",
+          "confidence": 0.9974,
+          "id": "AA-p067-l014",
+          "pdf_page": 67,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            262.2,
+            2038.4,
+            1542.5,
+            2083.3
+          ],
+          "text": "Of the fairly large number of typical mates with queen and pawn this one is",
+          "confidence": 0.9819,
+          "id": "AA-p067-l016",
+          "pdf_page": 67,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            218.1,
+            2089.5,
+            1540.0,
+            2133.2
+          ],
+          "text": "given first. Black is to move; he cannot escape mate, since he is threatened by 1",
+          "confidence": 0.9913,
+          "id": "AA-p067-l017",
+          "pdf_page": 67,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            216.9,
+            2136.9,
+            1544.9,
+            2185.6
+          ],
+          "text": "Wh6 and 2 Wg7#. If he plays 1...h7, then 2 Wh4+ and 3 Wh6, etc. If Black had",
+          "confidence": 0.9844,
+          "id": "AA-p067-l018",
+          "pdf_page": 67,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            211.9,
+            2185.6,
+            1246.0,
+            2238.0
+          ],
+          "text": "a pawn on h7 he would have the defence 1...h8 2 Wh6 g8.",
+          "confidence": 0.9913,
+          "id": "AA-p067-l019",
+          "pdf_page": 67,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p067-fig01",
+        "AA-p067-fig02",
+        "AA-p067-fig03"
+      ]
+    },
+    {
+      "pdf_page": 68,
+      "source_image": "source_pages/page-068.png",
+      "lines": [
+        {
+          "bbox": [
+            746.1,
+            863.3,
+            1027.9,
+            906.9
+          ],
+          "text": "Damiano'sMate",
+          "confidence": 0.9887,
+          "id": "AA-p068-l004",
+          "pdf_page": 68,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            254.8,
+            973.0,
+            1536.3,
+            1027.9
+          ],
+          "text": "This is a position from the book (1512) by Damiano, a Portuguese apothecary,",
+          "confidence": 0.9923,
+          "id": "AA-p068-l005",
+          "pdf_page": 68,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            210.7,
+            1026.7,
+            1537.6,
+            1071.6
+          ],
+          "text": "one of the first authors in the literature of European chess. White mates in five",
+          "confidence": 0.9979,
+          "id": "AA-p068-l006",
+          "pdf_page": 68,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            211.9,
+            1084.1,
+            335.7,
+            1117.7
+          ],
+          "text": "moves.",
+          "confidence": 0.9977,
+          "id": "AA-p068-l007",
+          "pdf_page": 68,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            252.4,
+            1122.7,
+            1363.6,
+            1171.4
+          ],
+          "text": "1 h8+ xh8 2 h1+ g8 3 h8+ xh8 4 Wh1+ g8 5 Wh7#.",
+          "confidence": 0.9582,
+          "id": "AA-p068-l008",
+          "pdf_page": 68,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            254.8,
+            1176.4,
+            1536.3,
+            1225.0
+          ],
+          "text": "The rook sacrifices were naturally introduced to make the essential point",
+          "confidence": 0.9824,
+          "id": "AA-p068-l009",
+          "pdf_page": 68,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            209.5,
+            1226.3,
+            1166.3,
+            1276.2
+          ],
+          "text": "clear: the queen must reach the h-file with gain of tempo.",
+          "confidence": 0.9939,
+          "id": "AA-p068-l010",
+          "pdf_page": 68,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            253.6,
+            1326.1,
+            1533.9,
+            1379.7
+          ],
+          "text": "The pattern of Damiano's mate can be seen more clearly in the following ex-",
+          "confidence": 0.9961,
+          "id": "AA-p068-l011",
+          "pdf_page": 68,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            208.3,
+            1378.5,
+            343.0,
+            1428.4
+          ],
+          "text": "amples.",
+          "confidence": 0.9999,
+          "id": "AA-p068-l012",
+          "pdf_page": 68,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            253.6,
+            1830.1,
+            833.1,
+            1873.7
+          ],
+          "text": "1 Wh5 Qe7 2 Wh7+ f8 3 Wh8#.",
+          "confidence": 0.909,
+          "id": "AA-p068-l014",
+          "pdf_page": 68,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            248.7,
+            1882.4,
+            1535.1,
+            1934.8
+          ],
+          "text": "In this case a bishop has been placed on f8 and also a pawn on d6, with the re-",
+          "confidence": 0.989,
+          "id": "AA-p068-l015",
+          "pdf_page": 68,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            207.0,
+            1934.8,
+            1536.3,
+            1986.0
+          ],
+          "text": "sult that the bishop can only move to e7, where it blocks the king's escape. The",
+          "confidence": 0.9921,
+          "id": "AA-p068-l016",
+          "pdf_page": 68,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            204.6,
+            1984.7,
+            1537.6,
+            2039.6
+          ],
+          "text": "general theme of Damiano's mate, the pattern of which is characterized by a",
+          "confidence": 0.9894,
+          "id": "AA-p068-l017",
+          "pdf_page": 68,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            207.0,
+            2035.9,
+            1535.1,
+            2088.3
+          ],
+          "text": "black pawn on g7 and a white pawn or bishop on g6, can be subjected to numer-",
+          "confidence": 0.9856,
+          "id": "AA-p068-l018",
+          "pdf_page": 68,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            207.0,
+            2087.0,
+            458.2,
+            2128.2
+          ],
+          "text": "ous variations.",
+          "confidence": 0.9816,
+          "id": "AA-p068-l019",
+          "pdf_page": 68,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            248.7,
+            2134.4,
+            1532.7,
+            2188.1
+          ],
+          "text": "The following diagram serves as a memory aid for mates with queen and rook:",
+          "confidence": 0.9944,
+          "id": "AA-p068-l020",
+          "pdf_page": 68,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            204.6,
+            2183.1,
+            1537.6,
+            2238.0
+          ],
+          "text": "Black, to move, cannot avoid mate; if he plays 1...g7, then 2 Wh6+ and 3 Wh7#",
+          "confidence": 0.9833,
+          "id": "AA-p068-l021",
+          "pdf_page": 68,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p068-fig01",
+        "AA-p068-fig02"
+      ]
+    },
+    {
+      "pdf_page": 69,
+      "source_image": "source_pages/page-069.png",
+      "lines": [
+        {
+          "bbox": [
+            227.9,
+            872.0,
+            1552.3,
+            920.6
+          ],
+          "text": "or 3 Wh8#, while if 1...f6, then 2 Wh7#. If Black has another pawn on g7 he can",
+          "confidence": 0.981,
+          "id": "AA-p069-l004",
+          "pdf_page": 69,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            226.7,
+            925.6,
+            1552.3,
+            970.5
+          ],
+          "text": "save himself from immediate mate by 1...f6, while if he has one on g6 he can ex-",
+          "confidence": 0.9841,
+          "id": "AA-p069-l005",
+          "pdf_page": 69,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            230.3,
+            979.3,
+            672.6,
+            1020.4
+          ],
+          "text": "tricate himseif by 1...g7.",
+          "confidence": 0.9822,
+          "id": "AA-p069-l006",
+          "pdf_page": 69,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            270.8,
+            1424.6,
+            1482.4,
+            1478.3
+          ],
+          "text": "Of the mates with queen and bishop this position is worth remembering.",
+          "confidence": 0.9843,
+          "id": "AA-p069-l008",
+          "pdf_page": 69,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            270.8,
+            1479.5,
+            1555.9,
+            1525.7
+          ],
+          "text": "Black cannot save himself from mate, but if he plays 1...g6, White does not re-",
+          "confidence": 0.9849,
+          "id": "AA-p069-l009",
+          "pdf_page": 69,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            229.1,
+            1530.7,
+            1554.7,
+            1578.1
+          ],
+          "text": "ply 2 &xg6+ (which is answered by 2...g7, and Black's king slips away) but 2",
+          "confidence": 0.9812,
+          "id": "AA-p069-l010",
+          "pdf_page": 69,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            229.1,
+            1579.3,
+            1110.0,
+            1629.2
+          ],
+          "text": "Wh6, in which case there is no remedy against mate.",
+          "confidence": 0.9716,
+          "id": "AA-p069-l011",
+          "pdf_page": 69,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            742.4,
+            2025.9,
+            1015.6,
+            2063.3
+          ],
+          "text": "SmotheredMate",
+          "confidence": 0.9915,
+          "id": "AA-p069-l013",
+          "pdf_page": 69,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            272.0,
+            2136.9,
+            1555.9,
+            2181.8
+          ],
+          "text": "The smothered mate with queen and knight is a celebrated one: 1 f7+ g8 2",
+          "confidence": 0.9879,
+          "id": "AA-p069-l014",
+          "pdf_page": 69,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            229.1,
+            2184.3,
+            1407.7,
+            2230.5
+          ],
+          "text": "h6+ h8 (or 2...f8 3 Wf7#) 3 Wg8+! xg8 (or 3...xg8) 4 f7#.",
+          "confidence": 0.9603,
+          "id": "AA-p069-l015",
+          "pdf_page": 69,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p069-fig01",
+        "AA-p069-fig02",
+        "AA-p069-fig03"
+      ]
+    },
+    {
+      "pdf_page": 70,
+      "source_image": "source_pages/page-070.png",
+      "lines": [
+        {
+          "bbox": [
+            349.2,
+            622.5,
+            1631.9,
+            673.6
+          ],
+          "text": "This position falls into category of typical mates, and it is useful to know the",
+          "confidence": 0.9815,
+          "id": "AA-p070-l004",
+          "pdf_page": 70,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            301.4,
+            672.4,
+            1630.7,
+            726.0
+          ],
+          "text": "mating patterns which arise if Black tries to parry the threat of Wh7#, e.g. with",
+          "confidence": 0.9808,
+          "id": "AA-p070-l005",
+          "pdf_page": 70,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            305.1,
+            722.3,
+            1625.8,
+            774.7
+          ],
+          "text": "1...αb8. If there is a black pawn on e7 or if the square is otherwise occupied by",
+          "confidence": 0.975,
+          "id": "AA-p070-l006",
+          "pdf_page": 70,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            301.4,
+            769.7,
+            1634.3,
+            825.8
+          ],
+          "text": "Black, then there follows 2 Wh7+ f8 3 Wh8#; if this is not so, mate can be",
+          "confidence": 0.983,
+          "id": "AA-p070-l007",
+          "pdf_page": 70,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            303.8,
+            824.6,
+            1340.3,
+            872.0
+          ],
+          "text": "achieved, for example, by 2 Wxf7+ h8 3 e6 g8 4 Wh5#.",
+          "confidence": 0.9947,
+          "id": "AA-p070-l008",
+          "pdf_page": 70,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            345.5,
+            1274.9,
+            1627.0,
+            1333.6
+          ],
+          "text": "Of the various attacking positions with queen and knight this scheme is also",
+          "confidence": 0.9939,
+          "id": "AA-p070-l010",
+          "pdf_page": 70,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            300.2,
+            1327.3,
+            1628.2,
+            1379.7
+          ],
+          "text": "well worth remembering. On 1 f6+, Black replies 1...h8 and if 2 h5+, then",
+          "confidence": 0.9879,
+          "id": "AA-p070-l011",
+          "pdf_page": 70,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            300.2,
+            1379.7,
+            401.8,
+            1419.6
+          ],
+          "text": "2...f6.",
+          "confidence": 0.9985,
+          "id": "AA-p070-l012",
+          "pdf_page": 70,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            340.6,
+            1424.6,
+            1627.0,
+            1487.0
+          ],
+          "text": "If 1..g7, White has a double check with 2 e8+ (in some cases, depending",
+          "confidence": 0.988,
+          "id": "AA-p070-l013",
+          "pdf_page": 70,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            297.7,
+            1479.5,
+            1627.0,
+            1534.4
+          ],
+          "text": "on the arrangement of the other pieces, 2 h5+ may be stronger) and after",
+          "confidence": 0.9978,
+          "id": "AA-p070-l014",
+          "pdf_page": 70,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            298.9,
+            1528.2,
+            1623.3,
+            1586.8
+          ],
+          "text": "2...$h6 3 Wf4+ g5 4 Wf6+ $h5 5 g7+ White only needs a pawn on g2 or h2 t0",
+          "confidence": 0.9307,
+          "id": "AA-p070-l015",
+          "pdf_page": 70,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            297.7,
+            1581.8,
+            492.5,
+            1625.5
+          ],
+          "text": "force mate.",
+          "confidence": 0.9999,
+          "id": "AA-p070-l016",
+          "pdf_page": 70,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            856.4,
+            2025.9,
+            1086.7,
+            2069.6
+          ],
+          "text": "Greco'sMate",
+          "confidence": 0.9874,
+          "id": "AA-p070-l018",
+          "pdf_page": 70,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            339.4,
+            2134.4,
+            1620.9,
+            2191.8
+          ],
+          "text": "This position is aiso worth knowing; Black is forced to play 1..h6, after which",
+          "confidence": 0.9801,
+          "id": "AA-p070-l019",
+          "pdf_page": 70,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            291.6,
+            2183.1,
+            1171.2,
+            2238.0
+          ],
+          "text": "he is mated by 2 Qxf7+ h8 3 Wg6! hxg5 4 Wh5#.",
+          "confidence": 0.971,
+          "id": "AA-p070-l020",
+          "pdf_page": 70,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p070-fig01",
+        "AA-p070-fig02",
+        "AA-p070-fig03"
+      ]
+    },
+    {
+      "pdf_page": 71,
+      "source_image": "source_pages/page-071.png",
+      "lines": [
+        {
+          "bbox": [
+            263.4,
+            625.0,
+            1548.6,
+            674.9
+          ],
+          "text": "In the case of mating patterns with rook and bishop one should first of all get",
+          "confidence": 0.996,
+          "id": "AA-p071-l004",
+          "pdf_page": 71,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            220.5,
+            676.1,
+            1547.4,
+            723.5
+          ],
+          "text": "to know the above position. It is Black's move and he must try to parry g5#; this",
+          "confidence": 0.9822,
+          "id": "AA-p071-l005",
+          "pdf_page": 71,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            219.3,
+            724.8,
+            1548.6,
+            775.9
+          ],
+          "text": "cannot be achieved by 1...h6, because of 2 xh6, which leaves him with no way",
+          "confidence": 0.9806,
+          "id": "AA-p071-l006",
+          "pdf_page": 71,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            221.8,
+            778.4,
+            1547.4,
+            823.3
+          ],
+          "text": "out. So 1..#c8 2 #g5+ f8 3 #g7!, and now too mate is unavoidable, for Black",
+          "confidence": 0.9719,
+          "id": "AA-p071-l007",
+          "pdf_page": 71,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            219.3,
+            828.3,
+            1548.6,
+            874.5
+          ],
+          "text": "is unable to free the square d7 in time to provide the king with an escape square.",
+          "confidence": 0.9864,
+          "id": "AA-p071-l008",
+          "pdf_page": 71,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            219.3,
+            874.5,
+            1548.6,
+            926.9
+          ],
+          "text": "If he did not have, for instance, the pawn on c6, he could play 3...&c6 4 xh7",
+          "confidence": 0.9901,
+          "id": "AA-p071-l009",
+          "pdf_page": 71,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            930.6,
+            1544.9,
+            971.8
+          ],
+          "text": "$e8 and then 5 h8+ could be met by 5...$d7. One could replace Black's bishop",
+          "confidence": 0.9726,
+          "id": "AA-p071-l010",
+          "pdf_page": 71,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            979.3,
+            1546.1,
+            1025.4
+          ],
+          "text": "and c6-pawn by a white pawn on c6 and a black one on c7; mate would still be",
+          "confidence": 0.9896,
+          "id": "AA-p071-l011",
+          "pdf_page": 71,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            221.8,
+            1021.7,
+            454.5,
+            1076.6
+          ],
+          "text": "unavoidable'.",
+          "confidence": 0.9782,
+          "id": "AA-p071-l012",
+          "pdf_page": 71,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            742.4,
+            1721.5,
+            1003.4,
+            1770.2
+          ],
+          "text": "Morphy's Mate",
+          "confidence": 0.9904,
+          "id": "AA-p071-l014",
+          "pdf_page": 71,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            267.1,
+            1836.3,
+            1549.8,
+            1883.7
+          ],
+          "text": "The pattern of this mate with rook and bishop becomes clear in its final",
+          "confidence": 0.9895,
+          "id": "AA-p071-l015",
+          "pdf_page": 71,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            225.4,
+            1896.2,
+            325.9,
+            1936.1
+          ],
+          "text": "stage.",
+          "confidence": 0.9998,
+          "id": "AA-p071-l016",
+          "pdf_page": 71,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            265.9,
+            1936.1,
+            868.6,
+            1984.7
+          ],
+          "text": "1 Wxf6 gxf6 2 g1+ h8 3 xf6#.",
+          "confidence": 0.9381,
+          "id": "AA-p071-l017",
+          "pdf_page": 71,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            302.6,
+            2047.1,
+            1548.6,
+            2095.8
+          ],
+          "text": "In the diagram position, Black can avoid mate by 1...a8 2 g5+ *f8 3 g7",
+          "confidence": 0.9732,
+          "id": "AA-p071-l018",
+          "pdf_page": 71,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            306.3,
+            2098.3,
+            1547.4,
+            2143.2
+          ],
+          "text": "a4 4 xh7 g4. It is true to say that this defence is not often available in prac-",
+          "confidence": 0.9908,
+          "id": "AA-p071-l019",
+          "pdf_page": 71,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            306.3,
+            2148.2,
+            1546.1,
+            2186.8
+          ],
+          "text": "tical situations, but it is worth bearing in mind the idea of 'defending from be-",
+          "confidence": 0.9805,
+          "id": "AA-p071-l020",
+          "pdf_page": 71,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            306.3,
+            2195.6,
+            885.8,
+            2234.2
+          ],
+          "text": "hind' because it is often overlooked.",
+          "confidence": 0.992,
+          "id": "AA-p071-l021",
+          "pdf_page": 71,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p071-fig01",
+        "AA-p071-fig02"
+      ]
+    },
+    {
+      "pdf_page": 72,
+      "source_image": "source_pages/page-072.png",
+      "lines": [
+        {
+          "bbox": [
+            802.5,
+            606.3,
+            1249.6,
+            651.2
+          ],
+          "text": "Morphy's ConcealedMate",
+          "confidence": 0.976,
+          "id": "AA-p072-l004",
+          "pdf_page": 72,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            394.5,
+            713.6,
+            1678.4,
+            772.2
+          ],
+          "text": "A similar mating pattern occurs in this diagram: 1 xg7+ h8 2 xf7+ (not 2",
+          "confidence": 0.9824,
+          "id": "AA-p072-l005",
+          "pdf_page": 72,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            349.2,
+            764.7,
+            1486.1,
+            819.6
+          ],
+          "text": "g1+ because of 2...f6) 2...g8 3 #g7+ +h8 4 g1+ f6 5 xf6#.",
+          "confidence": 0.958,
+          "id": "AA-p072-l006",
+          "pdf_page": 72,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            387.1,
+            1212.6,
+            1671.1,
+            1281.2
+          ],
+          "text": "1 #d8+ f7 (or 1...$h7 2 h8#) 2 f8# is a typical mating pattern well worth",
+          "confidence": 0.9634,
+          "id": "AA-p072-l008",
+          "pdf_page": 72,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            341.8,
+            1267.4,
+            579.5,
+            1316.1
+          ],
+          "text": "remembering.",
+          "confidence": 0.9996,
+          "id": "AA-p072-l009",
+          "pdf_page": 72,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            858.8,
+            1971.0,
+            1160.2,
+            2012.2
+          ],
+          "text": "Anastasia'sMate",
+          "confidence": 0.9919,
+          "id": "AA-p072-l011",
+          "pdf_page": 72,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            379.8,
+            2073.3,
+            1018.1,
+            2123.2
+          ],
+          "text": "1 e7+ h8 2 xh7+ xh7 3 h5#.",
+          "confidence": 0.9612,
+          "id": "AA-p072-l012",
+          "pdf_page": 72,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            377.3,
+            2125.7,
+            1658.8,
+            2188.1
+          ],
+          "text": "(The name comes from W. Heinse's novel Anastasia and chess (1803), in",
+          "confidence": 0.9906,
+          "id": "AA-p072-l013",
+          "pdf_page": 72,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            334.5,
+            2174.4,
+            822.1,
+            2225.5
+          ],
+          "text": "which this mate is recorded.)",
+          "confidence": 0.9928,
+          "id": "AA-p072-l014",
+          "pdf_page": 72,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p072-fig01",
+        "AA-p072-fig02",
+        "AA-p072-fig03"
+      ]
+    },
+    {
+      "pdf_page": 73,
+      "source_image": "source_pages/page-073.png",
+      "lines": [
+        {
+          "bbox": [
+            270.8,
+            872.0,
+            1553.5,
+            918.1
+          ],
+          "text": "Here the continuation ends with a typical mating pattern with a rook and",
+          "confidence": 0.9828,
+          "id": "AA-p073-l004",
+          "pdf_page": 73,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            225.4,
+            928.1,
+            332.0,
+            973.0
+          ],
+          "text": "pawn.",
+          "confidence": 0.9995,
+          "id": "AA-p073-l005",
+          "pdf_page": 73,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            273.2,
+            971.8,
+            1102.6,
+            1016.7
+          ],
+          "text": "1 Wg5 +h8 2 Wh6 μg8 3 Wxh7+ xh7 4 h1#.",
+          "confidence": 0.9169,
+          "id": "AA-p073-l006",
+          "pdf_page": 73,
+          "review_flags": [
+            "low_confidence",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            773.1,
+            1666.6,
+            991.1,
+            1709.0
+          ],
+          "text": "'Blind swine'",
+          "confidence": 0.9572,
+          "id": "AA-p073-l007",
+          "pdf_page": 73,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            273.2,
+            1785.1,
+            1552.3,
+            1822.6
+          ],
+          "text": "If it is White's move, he mates with 1 #g7+, 2 h7+, and 3 bg7#. If Black is",
+          "confidence": 0.9733,
+          "id": "AA-p073-l008",
+          "pdf_page": 73,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            223.0,
+            1830.1,
+            1555.9,
+            1880.0
+          ],
+          "text": "to move and plays 1...fd8, White can neither force mate or even win. That is to",
+          "confidence": 0.9894,
+          "id": "AA-p073-l009",
+          "pdf_page": 73,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            223.0,
+            1878.7,
+            1554.7,
+            1934.8
+          ],
+          "text": "say, after 2 g7+ h8 3 h7+ g8 4 bg7+ f8 5 b7, Black simply plays",
+          "confidence": 0.983,
+          "id": "AA-p073-l010",
+          "pdf_page": 73,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            226.7,
+            1934.8,
+            1553.5,
+            1981.0
+          ],
+          "text": "5...g8, ‘questioning' the white rook and countering the threat of mate. (It de-",
+          "confidence": 0.9758,
+          "id": "AA-p073-l011",
+          "pdf_page": 73,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            1983.5,
+            1557.2,
+            2032.1
+          ],
+          "text": "pends of course on the distribution of the other pieces whether White can in fact",
+          "confidence": 0.9853,
+          "id": "AA-p073-l012",
+          "pdf_page": 73,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            227.9,
+            2037.1,
+            1552.3,
+            2080.8
+          ],
+          "text": "win. In this position he can easily mate if he has a pawn on h4, for he plays 6 h5",
+          "confidence": 0.9864,
+          "id": "AA-p073-l013",
+          "pdf_page": 73,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            226.7,
+            2083.3,
+            1551.0,
+            2131.9
+          ],
+          "text": "followed by 7 h6, 8 bg7+, and 9 h8# -- a mate which is worth remembering. In",
+          "confidence": 0.9835,
+          "id": "AA-p073-l014",
+          "pdf_page": 73,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            229.1,
+            2138.2,
+            1553.5,
+            2179.3
+          ],
+          "text": "this line Black's pawn on f6 is actually a help to White. If it were not there, Black",
+          "confidence": 0.9907,
+          "id": "AA-p073-l015",
+          "pdf_page": 73,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            227.9,
+            2185.6,
+            1034.0,
+            2231.7
+          ],
+          "text": "could get a draw after 6 h5 by playing 6...a6!.)",
+          "confidence": 0.9973,
+          "id": "AA-p073-l016",
+          "pdf_page": 73,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p073-fig01",
+        "AA-p073-fig02"
+      ]
+    },
+    {
+      "pdf_page": 74,
+      "source_image": "source_pages/page-074.png",
+      "lines": [
+        {
+          "bbox": [
+            410.4,
+            272.0,
+            1693.1,
+            326.8
+          ],
+          "text": "The pair of rooks which 'grunt out check' on the seventh rank but cannot get a",
+          "confidence": 0.9892,
+          "id": "AA-p074-l003",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            367.5,
+            326.8,
+            1415.0,
+            370.5
+          ],
+          "text": "sight of mate were once nicknamed 'blind swine'by Janowski.",
+          "confidence": 0.9858,
+          "id": "AA-p074-l004",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            408.0,
+            375.5,
+            1690.7,
+            426.6
+          ],
+          "text": "An acquaintance with typical mating patterns is extremely useful when mak-",
+          "confidence": 0.9908,
+          "id": "AA-p074-l005",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            365.1,
+            427.9,
+            1691.9,
+            474.0
+          ],
+          "text": "ing a quick survey of the board in an actual game. The addition of further mate-",
+          "confidence": 0.9802,
+          "id": "AA-p074-l006",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            362.6,
+            475.3,
+            1690.7,
+            527.7
+          ],
+          "text": "rial to the position can be especially useful, for then one can see which changes",
+          "confidence": 0.9927,
+          "id": "AA-p074-l007",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            361.4,
+            525.2,
+            1642.9,
+            576.3
+          ],
+          "text": "help to prevent mate and which enrich the mating patterns in new situations.",
+          "confidence": 0.9879,
+          "id": "AA-p074-l008",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            365.1,
+            631.2,
+            1058.5,
+            692.4
+          ],
+          "text": "Less usuai mating patterns",
+          "confidence": 0.9846,
+          "id": "AA-p074-l009",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            365.1,
+            724.8,
+            1689.5,
+            779.7
+          ],
+          "text": "Of the large number of less usual, and even exotic, mating patterns, I have chosen",
+          "confidence": 0.9935,
+          "id": "AA-p074-l010",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            363.9,
+            777.2,
+            1478.7,
+            827.1
+          ],
+          "text": "ones which bear some nickname or which can easily be given one.",
+          "confidence": 0.9864,
+          "id": "AA-p074-l011",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            910.3,
+            1220.0,
+            1166.3,
+            1266.2
+          ],
+          "text": "Epaulette Mate",
+          "confidence": 0.9827,
+          "id": "AA-p074-l013",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            405.5,
+            1328.6,
+            1685.8,
+            1383.5
+          ],
+          "text": "The epaulettes are, of course, the two black rooks on the king's shoulders. The",
+          "confidence": 0.9958,
+          "id": "AA-p074-l014",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            359.0,
+            1381.0,
+            1333.0,
+            1430.9
+          ],
+          "text": "next mate also gets its name from its outward appearance.",
+          "confidence": 0.9961,
+          "id": "AA-p074-l015",
+          "pdf_page": 74,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            906.6,
+            2078.3,
+            1166.3,
+            2119.5
+          ],
+          "text": "'Swallow's tail'",
+          "confidence": 0.9741,
+          "id": "AA-p074-l017",
+          "pdf_page": 74,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p074-fig01",
+        "AA-p074-fig02"
+      ]
+    },
+    {
+      "pdf_page": 75,
+      "source_image": "source_pages/page-075.png",
+      "lines": [
+        {
+          "bbox": [
+            779.2,
+            612.5,
+            970.3,
+            654.9
+          ],
+          "text": "Pawn Mate",
+          "confidence": 0.9705,
+          "id": "AA-p075-l004",
+          "pdf_page": 75,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            268.3,
+            722.3,
+            1552.3,
+            774.7
+          ],
+          "text": "1 g6 g8 2 g7#. On 1 g6 g8 2 Wxh7+ *f8 we get yet another mating pattern",
+          "confidence": 0.9743,
+          "id": "AA-p075-l005",
+          "pdf_page": 75,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            226.7,
+            775.9,
+            1046.3,
+            824.6
+          ],
+          "text": "with 3 g7+ f7 4 g8w# (mate with two queens).",
+          "confidence": 0.9732,
+          "id": "AA-p075-l006",
+          "pdf_page": 75,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            274.4,
+            1278.7,
+            1092.8,
+            1323.6
+          ],
+          "text": "1 ②xf7+ *g8 2 h6#. Or 1 g6+ g8 2 ②e7#",
+          "confidence": 0.9259,
+          "id": "AA-p075-l008",
+          "pdf_page": 75,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            680.0,
+            1976.0,
+            1069.5,
+            2020.9
+          ],
+          "text": "MatewithTwoBishops",
+          "confidence": 0.9978,
+          "id": "AA-p075-l010",
+          "pdf_page": 75,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            274.4,
+            2089.5,
+            770.6,
+            2127.0
+          ],
+          "text": "1 皇e6 d4 2 h2 and 3 e5#.",
+          "confidence": 0.9248,
+          "id": "AA-p075-l011",
+          "pdf_page": 75,
+          "review_flags": [
+            "unexpected_CJK_likely_figurine_error",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            272.0,
+            2140.7,
+            1552.3,
+            2181.8
+          ],
+          "text": "This could also be called Rubinstein's mate, after the famous game Rotlewi-",
+          "confidence": 0.9889,
+          "id": "AA-p075-l012",
+          "pdf_page": 75,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            226.7,
+            2189.3,
+            1522.9,
+            2231.7
+          ],
+          "text": "Rubinstein, in which mate with two bishops was the basic motif of the attack.",
+          "confidence": 0.996,
+          "id": "AA-p075-l013",
+          "pdf_page": 75,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p075-fig01",
+        "AA-p075-fig02",
+        "AA-p075-fig03"
+      ]
+    },
+    {
+      "pdf_page": 76,
+      "source_image": "source_pages/page-076.png",
+      "lines": [
+        {
+          "bbox": [
+            762.0,
+            860.8,
+            997.3,
+            904.4
+          ],
+          "text": "Boden's Mate",
+          "confidence": 0.9897,
+          "id": "AA-p076-l004",
+          "pdf_page": 76,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            245.0,
+            966.8,
+            1530.2,
+            1026.7
+          ],
+          "text": "This position is from the game Schulder-Boden, London 1853', in which the",
+          "confidence": 0.9886,
+          "id": "AA-p076-l005",
+          "pdf_page": 76,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            202.1,
+            1021.7,
+            1529.0,
+            1076.6
+          ],
+          "text": "following mate with two bishops was recorded for the first time; it is not uncom-",
+          "confidence": 0.9794,
+          "id": "AA-p076-l006",
+          "pdf_page": 76,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            198.5,
+            1071.6,
+            1351.3,
+            1126.5
+          ],
+          "text": "mon after castling queenside. Black plays: 1..Wxc3+! 2 bxc3 a3#.",
+          "confidence": 0.9885,
+          "id": "AA-p076-l007",
+          "pdf_page": 76,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            730.2,
+            1767.7,
+            1012.0,
+            1820.1
+          ],
+          "text": "Pillsbury'sMate",
+          "confidence": 0.9878,
+          "id": "AA-p076-l009",
+          "pdf_page": 76,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            240.1,
+            1877.5,
+            1046.3,
+            1931.1
+          ],
+          "text": "1 xg7+ +h8 2 g8+! xg8 3 g1+ and mate.",
+          "confidence": 0.974,
+          "id": "AA-p076-l010",
+          "pdf_page": 76,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            237.7,
+            1929.9,
+            1522.9,
+            1988.5
+          ],
+          "text": "This is really a variation on Morphy's mate, contrived in such a way that it is",
+          "confidence": 0.9902,
+          "id": "AA-p076-l011",
+          "pdf_page": 76,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            192.3,
+            1978.5,
+            1522.9,
+            2037.1
+          ],
+          "text": "the rook which mates and not the bishop, which is under attack from Black's",
+          "confidence": 0.9756,
+          "id": "AA-p076-l012",
+          "pdf_page": 76,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            191.1,
+            2033.4,
+            283.0,
+            2073.3
+          ],
+          "text": "rook.",
+          "confidence": 0.9998,
+          "id": "AA-p076-l013",
+          "pdf_page": 76,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            194.8,
+            2143.2,
+            215.6,
+            2166.9
+          ],
+          "text": "1",
+          "confidence": 0.9862,
+          "id": "AA-p076-l014",
+          "pdf_page": 76,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            273.2,
+            2138.2,
+            1515.5,
+            2191.8
+          ],
+          "text": "In the original book this example was incorrectly given as Macdonell-Boden,",
+          "confidence": 0.982,
+          "id": "AA-p076-l015",
+          "pdf_page": 76,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            273.2,
+            2180.6,
+            948.3,
+            2239.2
+          ],
+          "text": "1869 and Black's rook on e8 was missing.",
+          "confidence": 0.9943,
+          "id": "AA-p076-l016",
+          "pdf_page": 76,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p076-fig01",
+        "AA-p076-fig02"
+      ]
+    },
+    {
+      "pdf_page": 77,
+      "source_image": "source_pages/page-077.png",
+      "lines": [
+        {
+          "bbox": [
+            764.5,
+            868.2,
+            997.3,
+            914.4
+          ],
+          "text": "Legall's Mate",
+          "confidence": 0.9875,
+          "id": "AA-p077-l004",
+          "pdf_page": 77,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            274.4,
+            983.0,
+            1558.4,
+            1026.7
+          ],
+          "text": "Legall was Philidor's teacher and this position arose in the game Legall-St",
+          "confidence": 0.9856,
+          "id": "AA-p077-l005",
+          "pdf_page": 77,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            227.9,
+            1027.9,
+            1562.1,
+            1081.6
+          ],
+          "text": "Brie, Paris 1750. The moves leading up to the diagram were 1 e4 e5 2 &f3 d6 3",
+          "confidence": 0.9565,
+          "id": "AA-p077-l006",
+          "pdf_page": 77,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            231.6,
+            1080.3,
+            1558.4,
+            1129.0
+          ],
+          "text": "c4 g4 4 c3 g6? and Legall now played: 5 xe5! Qxd1? (5...e6 would",
+          "confidence": 0.9724,
+          "id": "AA-p077-l007",
+          "pdf_page": 77,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            229.1,
+            1130.2,
+            1557.2,
+            1177.6
+          ],
+          "text": "have been better) 6 &xf7+ e7 7 d5#. (This is of course a case of an attack be-",
+          "confidence": 0.9817,
+          "id": "AA-p077-l008",
+          "pdf_page": 77,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            230.3,
+            1185.1,
+            1444.4,
+            1228.8
+          ],
+          "text": "fore castling, but the example is given here for purely practical reasons.)",
+          "confidence": 0.9974,
+          "id": "AA-p077-l009",
+          "pdf_page": 77,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            274.4,
+            1233.8,
+            1557.2,
+            1277.4
+          ],
+          "text": "The next mate is similar to Greco's, but differs in that the attacker (here Black)",
+          "confidence": 0.9946,
+          "id": "AA-p077-l010",
+          "pdf_page": 77,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            232.8,
+            1279.9,
+            1559.6,
+            1333.6
+          ],
+          "text": "opens the h-file not only for his opponent but also for himself. It arose in the",
+          "confidence": 0.988,
+          "id": "AA-p077-l011",
+          "pdf_page": 77,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            230.3,
+            1328.6,
+            1558.4,
+            1384.7
+          ],
+          "text": "game Anderssen-Max Lange, Breslau 1859 after 1 e4 e5 2 f3 c6 3 b5 d4",
+          "confidence": 0.9892,
+          "id": "AA-p077-l012",
+          "pdf_page": 77,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            229.1,
+            1381.0,
+            1503.2,
+            1429.6
+          ],
+          "text": "4 xd4 exd4 5 夏c4 f6 6e5 d5 7 b3 g4 8f3 e4 9 0-0 d3 10 fxg4?′ (D)",
+          "confidence": 0.9235,
+          "id": "AA-p077-l013",
+          "pdf_page": 77,
+          "review_flags": [
+            "unexpected_CJK_likely_figurine_error",
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            726.5,
+            2087.0,
+            1041.4,
+            2128.2
+          ],
+          "text": "Max Lange's Mate",
+          "confidence": 0.9844,
+          "id": "AA-p077-l015",
+          "pdf_page": 77,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            318.5,
+            2196.8,
+            915.2,
+            2238.0
+          ],
+          "text": "10 Wel! would have favoured White.",
+          "confidence": 0.968,
+          "id": "AA-p077-l016",
+          "pdf_page": 77,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        }
+      ],
+      "figure_ids": [
+        "AA-p077-fig01",
+        "AA-p077-fig02"
+      ]
+    },
+    {
+      "pdf_page": 78,
+      "source_image": "source_pages/page-078.png",
+      "lines": [
+        {
+          "bbox": [
+            263.4,
+            259.5,
+            1548.6,
+            323.1
+          ],
+          "text": "Play proceeded as follows: 10...c5+ 11 $h1 g3+ 12 hxg3 Wg5 13 f5 h5!",
+          "confidence": 0.9613,
+          "id": "AA-p078-l003",
+          "pdf_page": 78,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            219.3,
+            311.9,
+            1548.6,
+            375.5
+          ],
+          "text": "and now if 14 xg5, then 14...hxg4+ and mate; in the game White played 14",
+          "confidence": 0.9862,
+          "id": "AA-p078-l004",
+          "pdf_page": 78,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            219.3,
+            363.0,
+            1049.9,
+            415.4
+          ],
+          "text": "gxh5 but resigned after 14...Wxf5 15 g4 Wf2 0-1.",
+          "confidence": 0.9791,
+          "id": "AA-p078-l005",
+          "pdf_page": 78,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            263.4,
+            414.2,
+            1547.4,
+            472.8
+          ],
+          "text": "The next position arose in the game Reti-Tartakower, Vienna 1910 after the",
+          "confidence": 0.9895,
+          "id": "AA-p078-l006",
+          "pdf_page": 78,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            216.9,
+            460.3,
+            1547.4,
+            519.0
+          ],
+          "text": "moves 1 e4 c6 2 d4 d5 3 c3 dxe4 4 xe4 f6 5 Wd3 e5 6 dxe5 Wa5+ 7 Qd2",
+          "confidence": 0.9687,
+          "id": "AA-p078-l007",
+          "pdf_page": 78,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            219.3,
+            506.5,
+            628.5,
+            563.9
+          ],
+          "text": "Wxe5 8 0-0-0 xe4 (D)",
+          "confidence": 0.9311,
+          "id": "AA-p078-l008",
+          "pdf_page": 78,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            786.5,
+            1213.8,
+            981.3,
+            1255.0
+          ],
+          "text": "Reti's Mate",
+          "confidence": 0.9817,
+          "id": "AA-p078-l010",
+          "pdf_page": 78,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            249.9,
+            1314.8,
+            1533.9,
+            1382.2
+          ],
+          "text": "The game concluded: 9 Wd8+! xd8 10 g5+ c7 (or 10...e8 11 d8#) 11",
+          "confidence": 0.9622,
+          "id": "AA-p078-l011",
+          "pdf_page": 78,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            207.0,
+            1363.5,
+            322.2,
+            1410.9
+          ],
+          "text": "复d8#.",
+          "confidence": 0.8453,
+          "id": "AA-p078-l012",
+          "pdf_page": 78,
+          "review_flags": [
+            "low_confidence",
+            "unexpected_CJK_likely_figurine_error"
+          ]
+        },
+        {
+          "bbox": [
+            715.5,
+            2070.8,
+            1027.9,
+            2120.7
+          ],
+          "text": "Blackburne's Mate",
+          "confidence": 0.993,
+          "id": "AA-p078-l014",
+          "pdf_page": 78,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p078-fig01",
+        "AA-p078-fig02"
+      ]
+    },
+    {
+      "pdf_page": 79,
+      "source_image": "source_pages/page-079.png",
+      "lines": [
+        {
+          "bbox": [
+            257.3,
+            268.2,
+            1538.8,
+            315.6
+          ],
+          "text": "For this mate the attacker needs three minor pieces (two bishops and a knight)",
+          "confidence": 0.9939,
+          "id": "AA-p079-l003",
+          "pdf_page": 79,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            219.3,
+            320.6,
+            1019.3,
+            369.3
+          ],
+          "text": "and usually a queen as well, which is sacrificed.",
+          "confidence": 0.9809,
+          "id": "AA-p079-l004",
+          "pdf_page": 79,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            254.8,
+            365.5,
+            1540.0,
+            419.2
+          ],
+          "text": "1 Wh1 h5 2 Wxh5! gxh5 3 &h7#. This mating pattern is named after Black-",
+          "confidence": 0.9872,
+          "id": "AA-p079-l005",
+          "pdf_page": 79,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            219.3,
+            425.4,
+            956.8,
+            466.6
+          ],
+          "text": "burne, who was the first to mate in this way.",
+          "confidence": 0.9978,
+          "id": "AA-p079-l006",
+          "pdf_page": 79,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": []
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "pdf_page": 349,
+  "printed_page": 349,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The attack on the king as an integral part of the game",
+      "bbox": [
+        382.0,
+        131.0,
+        1405.0,
+        171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "349",
+      "bbox": [
+        1481.0,
+        132.0,
+        1543.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This much-praised move of Capablanca's is very economical in that it both at-",
+      "bbox": [
+        269.0,
+        883.0,
+        1544.0,
+        921.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tacks and defends in equal measure; it is probably Black's best, now that he has",
+      "bbox": [
+        225.0,
+        933.0,
+        1544.0,
+        971.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "embarked on 20...Axd4. It is also true that an attack generally collapses when the",
+      "bbox": [
+        224.0,
+        978.0,
+        1544.0,
+        1021.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawns in front of the king begin to 'bite' , but in this case the question is no longer",
+      "bbox": [
+        224.0,
+        1033.0,
+        1546.0,
+        1072.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "one of attack but of the overall state of the position. Black has in fact awoken pos-",
+      "bbox": [
+        225.0,
+        1083.0,
+        1544.0,
+        1122.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sibilities for White on the c-file, and in the event of the game being opened up",
+      "bbox": [
+        225.0,
+        1133.0,
+        1545.0,
+        1173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's two bishops could come into their own.",
+      "bbox": [
+        224.0,
+        1185.0,
+        1018.0,
+        1223.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23 Vh4?",
+      "bbox": [
+        270.0,
+        1229.0,
+        421.0,
+        1265.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This gains a tempo for Af3 but neglects the development of his c I-bishop and",
+      "bbox": [
+        269.0,
+        1281.0,
+        1545.0,
+        1325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "al-rook. The correct move was 23 Ad2!. Capablanca's intention in that case was",
+      "bbox": [
+        225.0,
+        1332.0,
+        1544.0,
+        1375.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23...hxf4!? 24 Axf4 fxe5 25 Af3 e4 but the combination has a flaw: White does",
+      "bbox": [
+        225.0,
+        1381.0,
+        1544.0,
+        1418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not play 26 Ae2? (when 26...e3! wins) but 26 Vh4!, and Black finds himself in",
+      "bbox": [
+        225.0,
+        1432.0,
+        1544.0,
+        1476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "difficulties. Moreover, 23 Ad2! cannot be met by 23...fxe5, e.g. 24 Xcl Vb5",
+      "bbox": [
+        224.0,
+        1483.0,
+        1542.0,
+        1527.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(24...Vxcl would not succeed against correct play by White) 25 Xxc8 Axc8 26",
+      "bbox": [
+        225.0,
+        1532.0,
+        1545.0,
+        1577.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vh4, whereupon 26...Äf7 27 Vd8+ leads to a draw, 26...h5 is not good due to 27",
+      "bbox": [
+        224.0,
+        1583.0,
+        1543.0,
+        1628.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg5, while the complications following 26...Qf6 27 fxe5 Aa6 28 XB seem full of",
+      "bbox": [
+        224.0,
+        1633.0,
+        1548.0,
+        1678.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "uncertainty. Against 23 Ad2! Black would probably have to play 23...d6 24 Äcl",
+      "bbox": [
+        224.0,
+        1685.0,
+        1541.0,
+        1729.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vd7, when 25 Äxc8 Axc8 26 Xf3 results in a complex struggle in which White's",
+      "bbox": [
+        223.0,
+        1734.0,
+        1544.0,
+        1779.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "dark-squared bishop derives pleasure from every exchange on e5. This repre-",
+      "bbox": [
+        224.0,
+        1791.0,
+        1542.0,
+        1831.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sents an analytical proof of the assertions made in the note to the twentieth move.",
+      "bbox": [
+        224.0,
+        1842.0,
+        1535.0,
+        1880.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23...Äf7 24 Af3 Vc4",
+      "bbox": [
+        269.0,
+        1887.0,
+        628.0,
+        1922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Since 25 Vf2 does not work (because of 25...Vxc1+) White is now lost.",
+      "bbox": [
+        270.0,
+        1937.0,
+        1471.0,
+        1980.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25 Ae3 Qxe3 26 Axb7 Qf5 27 Vel 28 Ae4 Vxd4+ 29 fxe5 30",
+      "bbox": [
+        269.0,
+        1988.0,
+        1544.0,
+        2025.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axf5 exf5 31 fxe5 Xe7 32 Xe3 Vxb2 33 e6 dxe6 34 Äxe6 0-1",
+      "bbox": [
+        223.0,
+        2039.0,
+        1355.0,
+        2075.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This game is very instructive for the purpose of studying the complex connec-",
+      "bbox": [
+        268.0,
+        2094.0,
+        1543.0,
+        2133.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion between attack and indirect defence; the decisive points illustrating this",
+      "bbox": [
+        223.0,
+        2144.0,
+        1543.0,
+        2184.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "were shown in their correct light only by a thorough revision of the commentary.",
+      "bbox": [
+        224.0,
+        2195.0,
+        1526.0,
+        2234.0
+      ],
+      "confidence": null
+    }
+  ]
+}

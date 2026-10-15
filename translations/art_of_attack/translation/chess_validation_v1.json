@@ -1,0 +1,257 @@
+{
+  "checks": [
+    {
+      "name": "Meesen–Müller main",
+      "plies": 26,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "5k1r/p1p1qppp/b4n2/3r4/1bPQ4/1PN3P1/P3PP1P/R1B1K2R w KQ - 0 14"
+    },
+    {
+      "name": "Meesen–Müller final mate",
+      "plies": 28,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "5k1r/p1p2ppp/b4n2/3P4/1b1Q4/1PN3P1/P3qP1P/R1B1K2R w KQ - 0 15"
+    },
+    {
+      "name": "Chigorin–Burn main",
+      "plies": 26,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r3r1k1/ppp2ppp/2n2n2/1Q1qp1B1/4b3/1BN2N2/PPP2bPP/R3K2R w KQ - 4 14"
+    },
+    {
+      "name": "Chigorin–Burn accepting sacrifice",
+      "plies": 24,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r2qr1k1/ppp2ppp/5n2/2bpnP2/8/1BNP1Q2/PPP3PP/R1BK3R w - - 1 13"
+    },
+    {
+      "name": "Hansen–Lundin fragment",
+      "plies": 17,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "2k1r3/ppp3pp/8/8/6p1/4B3/Pq4PP/R3RK2 w - - 2 10"
+    },
+    {
+      "name": "Unnamed e-file main",
+      "plies": 11,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r3kr2/pQ2np2/2ppqBp1/7p/3P4/5N2/PPP2PPP/4R1K1 b q - 0 6"
+    },
+    {
+      "name": "Unnamed e-file castling variation",
+      "plies": 15,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r2qr1k1/ppp5/3ppBQ1/5n1p/3P4/8/PPP2PPP/R5K1 b - - 0 8"
+    },
+    {
+      "name": "Unnamed e-file king variation",
+      "plies": 15,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r2qr3/pppknp2/5Bp1/3pN2p/3P4/8/PPP1QPPP/4R1K1 b - - 3 8"
+    },
+    {
+      "name": "Nunn footnote 1 alternative",
+      "plies": 5,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r1nq1r2/pppkbp2/3p1Bp1/1Q5p/3P4/5N2/PPP2PPP/R3R1K1 b - - 5 3"
+    },
+    {
+      "name": "Nunn footnote 1 main-line objection",
+      "plies": 10,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "2k1rr2/pppqBp2/3p2p1/7p/3P4/5N2/PPP1QPPP/4R1K1 w - - 1 6"
+    },
+    {
+      "name": "Ravinsky–Panov main",
+      "plies": 33,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "5r2/1k4pp/pQ4n1/Bp6/1P6/6P1/2P2P1P/q4BK1 b - - 8 17"
+    },
+    {
+      "name": "Ravinsky–Panov alternative mate",
+      "plies": 15,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "Qk3b1r/2qn2pp/p7/1p6/8/6P1/1PP2PBP/5RK1 b - - 1 8"
+    },
+    {
+      "name": "Ravinsky–Panov shorter finish",
+      "plies": 29,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "1kr2n1r/6pp/pQ6/1p6/1P6/2q1B1P1/2P2PBP/6K1 b - - 15 15"
+    },
+    {
+      "name": "Steinitz–Bardeleben main and intended finish",
+      "plies": 69,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r1r1q3/pp1k1N2/3Q1pp1/3p4/8/8/PP3PPP/2R3K1 b - - 15 35"
+    },
+    {
+      "name": "Steinitz–Bardeleben accepting sacrifice",
+      "plies": 51,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "rkr5/pp1q3p/4Npp1/3p4/5Q2/8/PP3PPP/4R1K1 b - - 7 26"
+    },
+    {
+      "name": "Steinitz–Bardeleben rook alternative",
+      "plies": 49,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r7/pp1q3p/3kRpp1/2rp2N1/1Q6/8/PP3PPP/6K1 b - - 5 25"
+    },
+    {
+      "name": "Philidor example",
+      "plies": 19,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "rnb1kb1r/pBp3pp/8/5p2/4p3/1Q6/PPPP1PqP/RNB1KR2 b Qkq - 1 10"
+    },
+    {
+      "name": "Keres–Kotov quoted game",
+      "plies": 29,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r2k1b1r/1p1b1ppp/p2p1N2/6B1/4qP2/8/PPP3PP/R2Q1RK1 b - - 0 15"
+    },
+    {
+      "name": "Keres–Kotov author variation",
+      "plies": 32,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r1b1kb1r/1p5p/p4pp1/3PpqBB/8/8/PPP1Q1PP/R3R1K1 w kq - 0 17"
+    },
+    {
+      "name": "Keres–Kotov Nunn footnote",
+      "plies": 31,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r1b1kb1r/1p3pp1/p2P3p/3P2qB/8/8/PPP3PP/R3QRK1 b kq - 0 16"
+    },
+    {
+      "name": "Keres–Winter main",
+      "plies": 37,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "rn6/pp3k2/3b1Qp1/q5B1/4p3/8/Pp3PPP/1R4K1 b - - 1 19"
+    },
+    {
+      "name": "Keres–Winter king retreat",
+      "plies": 35,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "rn4kr/pp1bR1pp/8/q2p4/8/3B1Q2/Pp3PPP/1R4K1 b - - 0 18"
+    },
+    {
+      "name": "Keres–Winter final mate",
+      "plies": 41,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "rn3k2/pp6/3bQ1pB/q7/4p3/8/Pp3PPP/1R4K1 b - - 5 21"
+    },
+    {
+      "name": "Varein fragment",
+      "plies": 21,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "rnb2bkr/pp1p3p/5NpQ/4N3/3PPB2/8/PPP2KP1/q7 b - - 6 11"
+    },
+    {
+      "name": "Asgeirsson–Raud fragment",
+      "plies": 29,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "6k1/1p3pp1/p1p4p/2P5/1P6/P4QRb/3q3P/R2Nr1K1 w - - 5 16"
+    },
+    {
+      "name": "Réti–Wolf main",
+      "plies": 64,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "7k/1pN2p2/p1p3p1/2Pp1b2/5P1p/3q4/P4R1K/7N w - - 4 33"
+    },
+    {
+      "name": "Réti–Wolf critical variation",
+      "plies": 42,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r5k1/1p3pp1/pNp4p/2qp1B2/6n1/2K5/PPQ1r1PP/2R4R w - - 0 22"
+    },
+    {
+      "name": "Euwe–Rubinstein main",
+      "plies": 66,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r4r1k/pb4pp/1p3q2/2P4P/1PB1p2R/4p2Q/P7/R3KN2 w - - 4 34"
+    },
+    {
+      "name": "Introduction latent attack",
+      "plies": 5,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r2q1rk1/pb3ppp/4p3/2np4/3Q4/PPB1PN2/5PPP/R4RK1 b - - 1 3"
+    },
+    {
+      "name": "Introduction h7 attack g6",
+      "plies": 3,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r2qr1k1/1b1n1p1p/p1p1p1p1/1p6/3PN3/2P5/PPQB1PPP/R3R1K1 b - - 1 2"
+    },
+    {
+      "name": "Introduction h7 attack Nf6",
+      "plies": 3,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "r2qr1k1/1b3ppp/p1p1pn2/1p4N1/3P1B2/2P5/PPQ2PPP/R3R1K1 b - - 3 2"
+    },
+    {
+      "name": "Introduction mating pattern Kf6",
+      "plies": 2,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "8/1K1Q2B1/5kp1/5B2/3b1n1P/5p2/8/8 b - - 2 2"
+    },
+    {
+      "name": "Introduction mating pattern Ne2",
+      "plies": 2,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "8/1K6/4Q1pB/4kB2/3b3P/5p2/4n3/8 b - - 2 2"
+    },
+    {
+      "name": "Introduction mating pattern gxf5",
+      "plies": 4,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "8/1K4B1/8/5p2/3Qkn1P/5p2/8/8 b - - 0 3"
+    },
+    {
+      "name": "Introduction focal-point clearance",
+      "plies": 5,
+      "errors": [],
+      "SAN_annotation_differences": [],
+      "final_fen": "8/p5K1/1p2p3/4kp2/3Q1b2/2P5/4p1B1/q7 b - - 1 3"
+    }
+  ],
+  "total_checks": 35,
+  "total_plies": 893,
+  "failed_checks": [],
+  "segments": 224,
+  "figure_count": 18,
+  "editor_footnotes": 3,
+  "raw_OCR_unmodified": true,
+  "validation_scope": "Legal moves and scan transcription; no engine evaluation"
+}

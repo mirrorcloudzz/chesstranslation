@@ -1,0 +1,280 @@
+{
+  "pdf_page": 178,
+  "printed_page": 178,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "178",
+      "bbox": [
+        249.0,
+        128.0,
+        307.0,
+        158.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        672.0,
+        130.0,
+        1166.0,
+        170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "As far as play on the diagonals is concerned, the strength of the central squares",
+      "bbox": [
+        288.0,
+        276.0,
+        1561.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on the given diagonals is particularly important. These squares can assist the at-",
+      "bbox": [
+        244.0,
+        326.0,
+        1561.0,
+        370.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tacker in setting up outposts, in transferring pieces, and in other operations. Thus",
+      "bbox": [
+        243.0,
+        377.0,
+        1561.0,
+        421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "one should, as a rule, aim to have such squares protected or even over-protected.",
+      "bbox": [
+        243.0,
+        428.0,
+        1559.0,
+        472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This is one of the maxims of positional play, and we shall see in the next example",
+      "bbox": [
+        242.0,
+        478.0,
+        1560.0,
+        524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "how Black pays for ignoring this maxim and how the attack on the castled king",
+      "bbox": [
+        242.0,
+        528.0,
+        1560.0,
+        574.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "suddenly erupts.",
+      "bbox": [
+        242.0,
+        579.0,
+        511.0,
+        617.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position arose in Stoltz-Guimard, Groningen 1946. White played:",
+      "bbox": [
+        281.0,
+        1283.0,
+        1455.0,
+        1330.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 dxc5 mxc5?",
+      "bbox": [
+        283.0,
+        1328.0,
+        520.0,
+        1363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A mistake, since it surrenders to White control over the important central",
+      "bbox": [
+        280.0,
+        1383.0,
+        1553.0,
+        1430.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "squares d4 and e5, which means that the long diagonal occupied by his bishop on",
+      "bbox": [
+        235.0,
+        1434.0,
+        1553.0,
+        1482.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "b2 is already as good as opened up (considering the gain of tempo by Qb5, which",
+      "bbox": [
+        235.0,
+        1484.0,
+        1553.0,
+        1531.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White always has in hand). Black should have played either l... bxc5 or l.. .Axc5.",
+      "bbox": [
+        233.0,
+        1534.0,
+        1526.0,
+        1579.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 Qb5 Vd8",
+      "bbox": [
+        278.0,
+        1580.0,
+        478.0,
+        1616.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...Vb8 is not good here because of White's grip on e5, e.g. 3 Ae5 Va8 4",
+      "bbox": [
+        278.0,
+        1630.0,
+        1551.0,
+        1684.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Q 7, and Black loses the exchange.",
+      "bbox": [
+        232.0,
+        1680.0,
+        824.0,
+        1729.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 axal",
+      "bbox": [
+        277.0,
+        1731.0,
+        405.0,
+        1767.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black will, it is true, win back the a-pawn, but White will have succeeded,",
+      "bbox": [
+        277.0,
+        1787.0,
+        1549.0,
+        1834.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "without loss of time, in strengthening the position of his knight at b5 (...a6 is no",
+      "bbox": [
+        231.0,
+        1838.0,
+        1550.0,
+        1885.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "longer possible).",
+      "bbox": [
+        231.0,
+        1888.0,
+        505.0,
+        1927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...Äa8 4 05 Äxa2 5 Vbl Äa8 6 Q)g5",
+      "bbox": [
+        275.0,
+        1934.0,
+        943.0,
+        1982.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Suddenly the course of the game turns against Black's castled position; White",
+      "bbox": [
+        275.0,
+        1989.0,
+        1549.0,
+        2038.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "threatens Axf6 followed by mate on h7.",
+      "bbox": [
+        229.0,
+        2036.0,
+        893.0,
+        2081.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black should have consented to a further weakening of the diagonal by 6...g6,",
+      "bbox": [
+        273.0,
+        2141.0,
+        1547.0,
+        2191.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for that would have meant less trouble for him than the text move .",
+      "bbox": [
+        228.0,
+        2191.0,
+        1337.0,
+        2231.0
+      ],
+      "confidence": null
+    }
+  ]
+}

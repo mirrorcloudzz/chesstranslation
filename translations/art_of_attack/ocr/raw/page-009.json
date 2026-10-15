@@ -1,0 +1,280 @@
+{
+  "pdf_page": 9,
+  "printed_page": 9,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        792.7,
+        127.2,
+        1015.6,
+        168.4
+      ],
+      "text": "Introduction",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        1536.3,
+        131.0,
+        1555.9,
+        159.7
+      ],
+      "text": "9",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        280.6,
+        270.7,
+        1529.0,
+        320.6
+      ],
+      "text": "1) Attack before castling, i.e. against a king which has not yet castled, and",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        280.6,
+        325.6,
+        855.1,
+        370.5
+      ],
+      "text": "2) Attack against the castled king.",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        278.1,
+        369.3,
+        1560.8,
+        421.6
+      ],
+      "text": "Attack can also be divided on the basis of so-called mating patterns; of focal-",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        234.0,
+        420.4,
+        1560.8,
+        471.5
+      ],
+      "text": "points; of basic formations of pieces, files, ranks, and diagonals; of basic sacri-",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        234.0,
+        470.3,
+        1560.8,
+        521.4
+      ],
+      "text": "fices; as well as by the stage which the attack has reached. These divisions ac-",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        236.5,
+        522.7,
+        1562.1,
+        571.3
+      ],
+      "text": "cording to the spatial, material, and temporal aspects of an attack will help us",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        238.9,
+        573.8,
+        1329.3,
+        621.2
+      ],
+      "text": "arrange the material so as to reveal the part played by each factor.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        237.7,
+        683.6,
+        894.4,
+        737.3
+      ],
+      "text": "The basic pattern of mate",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        235.2,
+        775.9,
+        1560.8,
+        820.8
+      ],
+      "text": "For mate to be obtained, the king must be deprived of nine squares if it is in the",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        236.5,
+        824.6,
+        1564.5,
+        873.2
+      ],
+      "text": "middle of the board, six squares if it is on the edge, or four if it is in the corner.",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        235.2,
+        875.7,
+        1565.7,
+        923.1
+      ],
+      "text": "Some of these squares may be blocked by the king's own supporting pieces, but",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        236.5,
+        928.1,
+        1564.5,
+        970.5
+      ],
+      "text": "the rest must be taken by the attacker through the agency of his own pieces or",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        235.2,
+        976.8,
+        1560.8,
+        1024.2
+      ],
+      "text": "pawns. If all the squares surrounding the king are taken from it -- some through",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        235.2,
+        1024.2,
+        1564.5,
+        1075.3
+      ],
+      "text": "being blocked, others by being ‘in check' - and if the square on which the king",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        237.7,
+        1080.3,
+        1559.6,
+        1121.5
+      ],
+      "text": "stands is also in check and without means of defence, then the king is check-",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        238.9,
+        1130.2,
+        1562.1,
+        1170.1
+      ],
+      "text": "mated. This is well known, and it seems rather banal to start out from this basic",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        234.0,
+        1177.6,
+        1559.6,
+        1225.0
+      ],
+      "text": "pattern or anatomy of mate; but in fact certain elementary rules can be formu-",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        237.7,
+        1233.8,
+        633.4,
+        1271.2
+      ],
+      "text": "lated only on this basis.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        279.3,
+        1276.2,
+        1560.8,
+        1324.8
+      ],
+      "text": "In the next position Black, to move, is unable to avoid mate in 4 different vari-",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        237.7,
+        1333.6,
+        350.4,
+        1372.2
+      ],
+      "text": "ations.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        546.4,
+        1535.6,
+        572.1,
+        1568.1
+      ],
+      "text": "B",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        280.6,
+        2032.1,
+        1564.5,
+        2084.5
+      ],
+      "text": "He is threatened by 2 g7# (first mating pattern). If he plays 1..f6, there fol-",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        235.2,
+        2083.3,
+        1567.0,
+        2134.4
+      ],
+      "text": "lows 2 g7# (second mating pattern); moving the knight leads to 2 We6# (third",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        237.7,
+        2134.4,
+        1567.0,
+        2185.6
+      ],
+      "text": "mating pattern); while if 1...gxf5, we get 2 g7+ e4 3 Wxd4# (fourth mating",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        237.7,
+        2188.1,
+        384.7,
+        2235.5
+      ],
+      "text": "pattern).",
+      "confidence": 0.9987
+    }
+  ]
+}

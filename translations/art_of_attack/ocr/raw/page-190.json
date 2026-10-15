@@ -1,0 +1,270 @@
+{
+  "pdf_page": 190,
+  "printed_page": 190,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "190",
+      "bbox": [
+        285.0,
+        136.0,
+        345.0,
+        168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        708.0,
+        138.0,
+        1202.0,
+        179.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It is the finish of the game Bernstein-Kotov, Groningen 1946. Black, having",
+      "bbox": [
+        325.0,
+        287.0,
+        1598.0,
+        333.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "greedily and needlessly snapped up a pawn (he had just played .. .Äe4xb4 instead",
+      "bbox": [
+        280.0,
+        337.0,
+        1598.0,
+        380.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of the correct ...Xc4) lost as follows:",
+      "bbox": [
+        279.0,
+        384.0,
+        882.0,
+        424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Ve4 2 Xh8+ 3 f5+ exf5 4 Vxh6+! gxh6 5 Äag8#",
+      "bbox": [
+        326.0,
+        431.0,
+        1370.0,
+        480.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The sacrifice in the attack on the castled king",
+      "bbox": [
+        277.0,
+        542.0,
+        1424.0,
+        600.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Before we turn to the role of the pawns in the attack on the castled king, a few",
+      "bbox": [
+        278.0,
+        638.0,
+        1596.0,
+        683.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "general remarks must be made abont sacrifices in the castling area. Certain",
+      "bbox": [
+        277.0,
+        689.0,
+        1595.0,
+        733.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "combinative elements are present in the case of every sacrifice, though these sac-",
+      "bbox": [
+        276.0,
+        739.0,
+        1594.0,
+        783.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rifices may be of widely diverging types. However, the typical sacrifice in the",
+      "bbox": [
+        275.0,
+        789.0,
+        1594.0,
+        833.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "castling area is the one which is closely influenced by the special characteristics",
+      "bbox": [
+        276.0,
+        839.0,
+        1594.0,
+        883.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of that area, namely the castled king and the pawns in front of it. The typical sac-",
+      "bbox": [
+        276.0,
+        889.0,
+        1593.0,
+        935.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rifice either changes the structure of the pawns, or aims to draw the king on to a",
+      "bbox": [
+        275.0,
+        939.0,
+        1595.0,
+        986.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "square where it can be attacked, or else helps to create a focal-point. We have al-",
+      "bbox": [
+        275.0,
+        991.0,
+        1592.0,
+        1035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ready met examples of the last two types in the course of discussing focal-points,",
+      "bbox": [
+        274.0,
+        1041.0,
+        1591.0,
+        1087.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "particularly in the case of the classic bishop sacrifice. Here our principal interest",
+      "bbox": [
+        273.0,
+        1091.0,
+        1593.0,
+        1137.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is the pawn structure and the possibility of altering it by means of a sacrifice. A",
+      "bbox": [
+        274.0,
+        1140.0,
+        1592.0,
+        1185.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sacrifice can either simply annihilate one of the pawns in front of the king, or it",
+      "bbox": [
+        274.0,
+        1191.0,
+        1593.0,
+        1238.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "can deflect the pawn on to another file, or finally it can cause it to be blocked.",
+      "bbox": [
+        272.0,
+        1242.0,
+        1565.0,
+        1285.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The main use of the sacrifice in the attack on the castled king is to eliminate",
+      "bbox": [
+        317.0,
+        1292.0,
+        1591.0,
+        1338.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the pawns in the castling area, and a number of examples will be devoted to this.",
+      "bbox": [
+        272.0,
+        1343.0,
+        1589.0,
+        1388.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "But first of all, let us examine two examples where the emphasis is on spoiling",
+      "bbox": [
+        272.0,
+        1393.0,
+        1590.0,
+        1443.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the pawn structure by deflecting or blocking the pawns.",
+      "bbox": [
+        271.0,
+        1444.0,
+        1191.0,
+        1488.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position comes from an analysis of the game Capablanca-Nimzowitsch,",
+      "bbox": [
+        310.0,
+        2150.0,
+        1583.0,
+        2197.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Bad Kissingen, 1928. White mates as follows:",
+      "bbox": [
+        265.0,
+        2201.0,
+        1030.0,
+        2240.0
+      ],
+      "confidence": null
+    }
+  ]
+}

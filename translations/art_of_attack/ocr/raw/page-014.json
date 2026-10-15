@@ -1,0 +1,330 @@
+{
+  "pdf_page": 14,
+  "printed_page": 14,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        274.4,
+        283.2,
+        1241.1,
+        373.0
+      ],
+      "text": "1 The attack against the",
+      "confidence": 0.963
+    },
+    {
+      "bbox": [
+        361.4,
+        379.2,
+        937.2,
+        479.0
+      ],
+      "text": "uncastled king",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        269.5,
+        617.5,
+        1597.6,
+        673.6
+      ],
+      "text": "Making a mating attack on a king which had not yet castled was one of the joys of",
+      "confidence": 0.9829
+    },
+    {
+      "bbox": [
+        268.3,
+        668.6,
+        1592.7,
+        723.5
+      ],
+      "text": "chess players in the past. These days the victim of such an attack is usually some-",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        268.3,
+        719.8,
+        1593.9,
+        773.4
+      ],
+      "text": "one playing a master in a simultaneous display who has failed to castle at the",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        268.3,
+        770.9,
+        447.2,
+        813.4
+      ],
+      "text": "right time.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        312.4,
+        820.8,
+        1593.9,
+        874.5
+      ],
+      "text": "The initial position of the king before it castles contains two main weaknesses.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        268.3,
+        870.7,
+        1589.0,
+        924.4
+      ],
+      "text": "One is that it is exposed if the e-file is opened up; the second is that the square f7",
+      "confidence": 0.9823
+    },
+    {
+      "bbox": [
+        264.6,
+        920.6,
+        1589.0,
+        975.5
+      ],
+      "text": "in Black's position (f2 is the corresponding weak point for White) is vulnerable,",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        264.6,
+        968.0,
+        1586.6,
+        1029.2
+      ],
+      "text": "since it is covered by the king alone. It is therefore natural that the vast majority",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        264.6,
+        1021.7,
+        1337.9,
+        1072.8
+      ],
+      "text": "of attacks on an uncastled king exploit one of these weaknesses.",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        262.2,
+        1125.2,
+        931.1,
+        1188.8
+      ],
+      "text": "The attack along the e-file",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        262.2,
+        1220.0,
+        1586.6,
+        1276.2
+      ],
+      "text": "The first and most fundamental condition for an attack along the e-file is that the",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        261.0,
+        1271.2,
+        1587.8,
+        1329.8
+      ],
+      "text": "opponent's king should be on that file, and that for some reason it is impossible",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        261.0,
+        1321.1,
+        1584.1,
+        1381.0
+      ],
+      "text": "or difficult for it to move away. If all the adjacent squares are occupied by the",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        262.2,
+        1372.2,
+        1582.9,
+        1432.1
+      ],
+      "text": "king's own pieces or controlled by the opponent's, its escape is absolutely impos-",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        257.3,
+        1423.4,
+        1585.3,
+        1483.3
+      ],
+      "text": "sible. However, if the player is simpiy being prevented from castling, but other",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        259.7,
+        1474.5,
+        1585.3,
+        1531.9
+      ],
+      "text": "squares are not covered, the movement of the king is only relatively restricted; in",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        259.7,
+        1523.2,
+        1582.9,
+        1583.1
+      ],
+      "text": "other words, it can move at the cost of losing the right to castle. Castling can also",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        258.5,
+        1574.3,
+        1584.1,
+        1633.0
+      ],
+      "text": "be thwarted indirectly: for instance, if the king has to guard one of the pieces",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        258.5,
+        1624.2,
+        1086.7,
+        1679.1
+      ],
+      "text": "which is protecting it (e.g. on e7 in Black's case).",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        301.4,
+        1675.4,
+        1581.7,
+        1732.7
+      ],
+      "text": "The second condition for an attack of this kind depends on the attacker's own",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        257.3,
+        1725.3,
+        1578.0,
+        1783.9
+      ],
+      "text": "circumstances. First of all, the e-file should be open, or it should at any rate be in",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        256.1,
+        1776.4,
+        1580.4,
+        1835.0
+      ],
+      "text": "the attacker's power to open it; the attacker should also either have a piece which",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        256.1,
+        1827.6,
+        1579.2,
+        1886.2
+      ],
+      "text": "can control a file (a rook or queen) on the file or be able quickly to post one on it.",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        253.6,
+        1876.2,
+        1581.7,
+        1937.3
+      ],
+      "text": "Besides this, he usually needs to strengthen his pressure on the e-file, for instance",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        254.8,
+        1928.6,
+        1580.4,
+        1989.7
+      ],
+      "text": "by doubling rooks or by attacking one of his opponent's pieces which is on the",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        254.8,
+        1979.8,
+        720.4,
+        2029.6
+      ],
+      "text": "file and protecting the king.",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        295.3,
+        2029.6,
+        1578.0,
+        2089.5
+      ],
+      "text": "From these necessary conditions it transpires that in an attack along the e-file",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        253.6,
+        2078.3,
+        1574.3,
+        2138.2
+      ],
+      "text": "there tends to be a chain of defence, and the attack is carried out against the cen-",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        252.4,
+        2129.4,
+        1578.0,
+        2191.8
+      ],
+      "text": "tral unit of the chain, that is, the piece protecting the king. If this piece is on the",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        252.4,
+        2180.6,
+        1576.8,
+        2240.5
+      ],
+      "text": "square directly in front of the king (e7 or e2), the attacker may be able to mate by",
+      "confidence": 0.989
+    }
+  ]
+}

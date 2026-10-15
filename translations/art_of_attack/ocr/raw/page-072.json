@@ -1,0 +1,150 @@
+{
+  "pdf_page": 72,
+  "printed_page": 72,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        354.1,
+        113.5,
+        408.0,
+        158.4
+      ],
+      "text": "72",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        785.3,
+        118.5,
+        1283.9,
+        167.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.974
+    },
+    {
+      "bbox": [
+        688.5,
+        371.7,
+        724.1,
+        405.4
+      ],
+      "text": "W",
+      "confidence": 0.8962
+    },
+    {
+      "bbox": [
+        802.5,
+        606.3,
+        1249.6,
+        651.2
+      ],
+      "text": "Morphy's ConcealedMate",
+      "confidence": 0.976
+    },
+    {
+      "bbox": [
+        394.5,
+        713.6,
+        1678.4,
+        772.2
+      ],
+      "text": "A similar mating pattern occurs in this diagram: 1 xg7+ h8 2 xf7+ (not 2",
+      "confidence": 0.9824
+    },
+    {
+      "bbox": [
+        349.2,
+        764.7,
+        1486.1,
+        819.6
+      ],
+      "text": "g1+ because of 2...f6) 2...g8 3 #g7+ +h8 4 g1+ f6 5 xf6#.",
+      "confidence": 0.958
+    },
+    {
+      "bbox": [
+        681.2,
+        973.0,
+        719.2,
+        1010.5
+      ],
+      "text": "W",
+      "confidence": 0.9089
+    },
+    {
+      "bbox": [
+        387.1,
+        1212.6,
+        1671.1,
+        1281.2
+      ],
+      "text": "1 #d8+ f7 (or 1...$h7 2 h8#) 2 f8# is a typical mating pattern well worth",
+      "confidence": 0.9634
+    },
+    {
+      "bbox": [
+        341.8,
+        1267.4,
+        579.5,
+        1316.1
+      ],
+      "text": "remembering.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        677.5,
+        1479.5,
+        711.8,
+        1511.9
+      ],
+      "text": "W",
+      "confidence": 0.9005
+    },
+    {
+      "bbox": [
+        858.8,
+        1971.0,
+        1160.2,
+        2012.2
+      ],
+      "text": "Anastasia'sMate",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        379.8,
+        2073.3,
+        1018.1,
+        2123.2
+      ],
+      "text": "1 e7+ h8 2 xh7+ xh7 3 h5#.",
+      "confidence": 0.9612
+    },
+    {
+      "bbox": [
+        377.3,
+        2125.7,
+        1658.8,
+        2188.1
+      ],
+      "text": "(The name comes from W. Heinse's novel Anastasia and chess (1803), in",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        334.5,
+        2174.4,
+        822.1,
+        2225.5
+      ],
+      "text": "which this mate is recorded.)",
+      "confidence": 0.9928
+    }
+  ]
+}

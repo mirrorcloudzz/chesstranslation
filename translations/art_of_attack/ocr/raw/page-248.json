@@ -1,0 +1,390 @@
+{
+  "pdf_page": 248,
+  "printed_page": 248,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "248",
+      "bbox": [
+        274.0,
+        140.0,
+        336.0,
+        171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        701.0,
+        141.0,
+        1195.0,
+        181.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A. Direct Defence",
+      "bbox": [
+        273.0,
+        295.0,
+        710.0,
+        337.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1) Protecting the squares of the castled position, including so-called over-",
+      "bbox": [
+        322.0,
+        391.0,
+        1590.0,
+        431.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "protection.",
+      "bbox": [
+        272.0,
+        441.0,
+        448.0,
+        478.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) Transforming the castled position by moving the pawns in front of the",
+      "bbox": [
+        318.0,
+        491.0,
+        1591.0,
+        531.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king, a particular case being the setting-up of a blocked position.",
+      "bbox": [
+        273.0,
+        541.0,
+        1345.0,
+        581.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) Altering the castled position by moving the king. Here it should be kept in",
+      "bbox": [
+        319.0,
+        591.0,
+        1590.0,
+        632.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mind that each move by the king changes the situation, changes the conditions",
+      "bbox": [
+        272.0,
+        641.0,
+        1589.0,
+        682.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "necessary for an attack and, above all, changes the possible focal-points. King",
+      "bbox": [
+        273.0,
+        692.0,
+        1590.0,
+        733.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "moves fall into the following graded categories:",
+      "bbox": [
+        272.0,
+        742.0,
+        1061.0,
+        782.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a) The consolidating move (e.g. Ébl in the case of queenside castling and",
+      "bbox": [
+        317.0,
+        789.0,
+        1590.0,
+        834.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in the case of kingside castling);",
+      "bbox": [
+        359.0,
+        843.0,
+        892.0,
+        882.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "b) A more radical alteration of the situation as a result of moving the king",
+      "bbox": [
+        317.0,
+        893.0,
+        1589.0,
+        935.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(e.g. to n, thus producing a so-called 'semi-castled' position);",
+      "bbox": [
+        272.0,
+        943.0,
+        1301.0,
+        984.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "c) A king's flight, i.e. when it goes out in front of the castled position. Steinitz",
+      "bbox": [
+        316.0,
+        994.0,
+        1588.0,
+        1035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "called this the king's self-defence, an older and more correct term than that of",
+      "bbox": [
+        271.0,
+        1044.0,
+        1592.0,
+        1083.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'automatic defence' applied by Kmoch.",
+      "bbox": [
+        274.0,
+        1095.0,
+        923.0,
+        1134.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4) Defence by means of repulsing one's opponent's pieces, through their cap-",
+      "bbox": [
+        315.0,
+        1145.0,
+        1587.0,
+        1188.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ture, exchange, or ejection from powerful positions.",
+      "bbox": [
+        270.0,
+        1195.0,
+        1127.0,
+        1236.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "B. Indirect Defence",
+      "bbox": [
+        271.0,
+        1300.0,
+        746.0,
+        1343.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Before considering the ways of using the indirect method we must first of all ex-",
+      "bbox": [
+        269.0,
+        1396.0,
+        1586.0,
+        1437.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "amine three aspects of such a defence. The first is purely spatial, i.e. whether the",
+      "bbox": [
+        269.0,
+        1447.0,
+        1587.0,
+        1490.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "defender carries out his own counterattack in the centre or on the wings; the sec-",
+      "bbox": [
+        268.0,
+        1497.0,
+        1585.0,
+        1542.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ond is concerned with the degree of the threat; and the third with the question of",
+      "bbox": [
+        268.0,
+        1548.0,
+        1589.0,
+        1593.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "whether the indirect action turns at some point into the direct method of defence.",
+      "bbox": [
+        268.0,
+        1599.0,
+        1584.0,
+        1640.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In the following review we shall combine these three aspects:",
+      "bbox": [
+        268.0,
+        1649.0,
+        1285.0,
+        1692.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l) The defender carnes out a counterattack on the opposite side, where the at-",
+      "bbox": [
+        317.0,
+        1700.0,
+        1584.0,
+        1743.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tacker has castled. In such a case his action is usually itself an attack on the cas-",
+      "bbox": [
+        267.0,
+        1750.0,
+        1584.0,
+        1793.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tled king, the position being one where the players have castled on opposite",
+      "bbox": [
+        267.0,
+        1800.0,
+        1585.0,
+        1846.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sides.",
+      "bbox": [
+        267.0,
+        1851.0,
+        356.0,
+        1880.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) An action on the opposite side first of all prepares the ground (files, ranks,",
+      "bbox": [
+        312.0,
+        1901.0,
+        1583.0,
+        1946.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "etc.), and then turns into an outflanking manoeuvre against the attacker's castled",
+      "bbox": [
+        265.0,
+        1953.0,
+        1584.0,
+        1995.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position, i.e. while the attacker is attacking along the files, the defender gains",
+      "bbox": [
+        265.0,
+        2003.0,
+        1584.0,
+        2048.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "control of the attacker's first or second rank.",
+      "bbox": [
+        265.0,
+        2053.0,
+        998.0,
+        2087.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this case, as in '1', the critical question is naturally either who will be the",
+      "bbox": [
+        310.0,
+        2104.0,
+        1584.0,
+        2147.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "first to force mate or which of the two attacks will be brought to a halt through the",
+      "bbox": [
+        265.0,
+        2154.0,
+        1583.0,
+        2200.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "diversion of pieces to provide a direct defence.",
+      "bbox": [
+        264.0,
+        2205.0,
+        1036.0,
+        2245.0
+      ],
+      "confidence": null
+    }
+  ]
+}

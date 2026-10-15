@@ -1,0 +1,270 @@
+{
+  "pdf_page": 186,
+  "printed_page": 186,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "186",
+      "bbox": [
+        250.0,
+        114.0,
+        309.0,
+        146.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        673.0,
+        119.0,
+        1167.0,
+        160.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "settle the issue by themselves since, if they are sacrificed, their aggressive forma-",
+      "bbox": [
+        245.0,
+        265.0,
+        1561.0,
+        314.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion also disappears. It is therefore left to a less committed piece to carry out the",
+      "bbox": [
+        244.0,
+        315.0,
+        1561.0,
+        365.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "work of destruction, and in these cases this is none other than the queen. Usually,",
+      "bbox": [
+        244.0,
+        365.0,
+        1560.0,
+        416.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "however, the reverse applies: the other pieces are sacrificed, while the queen",
+      "bbox": [
+        242.0,
+        414.0,
+        1560.0,
+        465.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "reaps the harvest.",
+      "bbox": [
+        241.0,
+        466.0,
+        528.0,
+        503.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The heavy pieces in the attack",
+      "bbox": [
+        240.0,
+        570.0,
+        1007.0,
+        625.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The examples in chapters 4-7 have shown us various kinds of operations on the",
+      "bbox": [
+        239.0,
+        666.0,
+        1558.0,
+        716.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "part of the rook, the bishop, and the knight on lines and focal-points, and no fur-",
+      "bbox": [
+        238.0,
+        717.0,
+        1556.0,
+        765.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ther illustrations of the use of these pieces in an attack on the castled king need be",
+      "bbox": [
+        239.0,
+        766.0,
+        1556.0,
+        818.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "given. Only one special case remains to be dealt with, and that is the attack on the",
+      "bbox": [
+        238.0,
+        817.0,
+        1556.0,
+        861.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "castled king carried out by the heavy pieces (queen and rooks) alone. The main",
+      "bbox": [
+        237.0,
+        867.0,
+        1555.0,
+        914.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "feature of this kind of attack can be summed up as the task of overcoming the",
+      "bbox": [
+        237.0,
+        916.0,
+        1555.0,
+        969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "clumsiness of the rooks. The attacker must aim to make his own rooks active and",
+      "bbox": [
+        236.0,
+        967.0,
+        1554.0,
+        1012.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "force his opponent's into passivity. A rook's mobility depends essentially on its",
+      "bbox": [
+        235.0,
+        1017.0,
+        1553.0,
+        1070.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ability to switch its control suddenly from one file to another and, in particular,",
+      "bbox": [
+        234.0,
+        1068.0,
+        1551.0,
+        1120.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "from a file to a rank. Or, in the terminology used in my Introduction to chess (2nd",
+      "bbox": [
+        234.0,
+        1118.0,
+        1551.0,
+        1169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ed., p. 171), the rook must have corresponding strong squares at its disposal.",
+      "bbox": [
+        233.0,
+        1169.0,
+        1549.0,
+        1222.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Here are a few examples:",
+      "bbox": [
+        232.0,
+        1218.0,
+        649.0,
+        1260.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from the game Winter-Capablanca, Ramsgate 1929. Black, to",
+      "bbox": [
+        267.0,
+        1926.0,
+        1541.0,
+        1978.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "move, played:",
+      "bbox": [
+        222.0,
+        1977.0,
+        453.0,
+        2015.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...#h8",
+      "bbox": [
+        268.0,
+        2021.0,
+        396.0,
+        2057.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black threatens 2...g5, which would not have been good at once because of 2",
+      "bbox": [
+        266.0,
+        2077.0,
+        1539.0,
+        2127.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Äg2. White is now obliged to weaken his pawn position by moving his h-pawn.",
+      "bbox": [
+        219.0,
+        2123.0,
+        1502.0,
+        2183.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 h4 Xh5 3 Xh2 Ähf5",
+      "bbox": [
+        264.0,
+        2175.0,
+        638.0,
+        2213.0
+      ],
+      "confidence": null
+    }
+  ]
+}

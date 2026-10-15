@@ -1,0 +1,280 @@
+{
+  "pdf_page": 333,
+  "printed_page": 333,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        498.0,
+        135.0,
+        1319.0,
+        177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "333",
+      "bbox": [
+        1495.0,
+        134.0,
+        1556.0,
+        165.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A step further towards a favourable ending. If 2 cxd5, then Black's best reply",
+      "bbox": [
+        285.0,
+        333.0,
+        1559.0,
+        374.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is 2...Xxd5 Also possible here is 2 Ah7+ 3 Ag6+ •g8 4 Axf7+ Vxf7 5",
+      "bbox": [
+        240.0,
+        377.0,
+        1557.0,
+        424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vh8+ *xh8 6 Oxf7+ 7 mxd8, but after 7...dxc4 8 bxc4 b5, Black's pros-",
+      "bbox": [
+        240.0,
+        429.0,
+        1558.0,
+        471.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pects of a draw are more than good.",
+      "bbox": [
+        240.0,
+        485.0,
+        833.0,
+        525.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...Xa8",
+      "bbox": [
+        286.0,
+        533.0,
+        407.0,
+        566.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now 2...Äe8 does not work because of 3 Qh7 Qe4 4 •cl ! , when Black is left",
+      "bbox": [
+        285.0,
+        578.0,
+        1561.0,
+        617.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "without the possibility of ...Vd6 (which would have been an effective answer",
+      "bbox": [
+        241.0,
+        629.0,
+        1561.0,
+        675.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "prior to c5) and at the same time there is a threat of 5 Axe4, etc., now that the",
+      "bbox": [
+        240.0,
+        679.0,
+        1561.0,
+        726.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "white king can hold the enemy e-pawn. If 4...f6, then 5 Axe4 dxe4 6 Vg6+",
+      "bbox": [
+        241.0,
+        728.0,
+        1475.0,
+        776.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 Oxf6 and White wins.",
+      "bbox": [
+        241.0,
+        783.0,
+        643.0,
+        818.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It is easy to see that after 3...a5 White will win an ending with queen versus",
+      "bbox": [
+        287.0,
+        886.0,
+        1561.0,
+        927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rook and knight because the pawn on a5 must fall. If 3...b5, White similarly sim-",
+      "bbox": [
+        241.0,
+        936.0,
+        1560.0,
+        977.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "plifies into an ending, and this time Black loses the pawns on a6 and c6, e.g. 4",
+      "bbox": [
+        241.0,
+        986.0,
+        1561.0,
+        1027.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ah7+ 5 oxf7+ Vxf7 6 Ag6+ 7 Axf7+ exf7 8 Vf4 9",
+      "bbox": [
+        242.0,
+        1031.0,
+        1391.0,
+        1076.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10 Vd6+ Éf7 11 •g6 12 #xa6 followed by 13 #b7, etc.",
+      "bbox": [
+        246.0,
+        1083.0,
+        1285.0,
+        1127.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 4...b5+, then 5 cxb6 Xxb6 6 Ah7+ followed by capturing the queen at f 7",
+      "bbox": [
+        288.0,
+        1185.0,
+        1561.0,
+        1227.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and winning the ending of queen versus rook and knight, much as above.",
+      "bbox": [
+        243.0,
+        1239.0,
+        1456.0,
+        1280.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 c4! Zb8 6 cxd5 cxd5 7 #a3!",
+      "bbox": [
+        288.0,
+        1286.0,
+        802.0,
+        1322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White threatens 8 Ah7+ followed by 9 Ae4+ and IO Axd5, which would not",
+      "bbox": [
+        287.0,
+        1336.0,
+        1563.0,
+        1379.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have worked at once on account of 10...Vd7+. Black's rook must now go to d8.",
+      "bbox": [
+        243.0,
+        1386.0,
+        1521.0,
+        1430.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7...Xd8 8 Ah7+ 9 Ag6+ 10 Axf7+ Vxf7 11 Vh8+ #xh8 12",
+      "bbox": [
+        287.0,
+        1436.0,
+        1563.0,
+        1480.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Q)xf7+ ég8 13 mxd8 and White has at last attained a won ending.",
+      "bbox": [
+        243.0,
+        1488.0,
+        1355.0,
+        1531.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The reader may care to investigate this rather studied example further, all the",
+      "bbox": [
+        288.0,
+        1543.0,
+        1563.0,
+        1582.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "secrets of which lie in the moves made by the pawns on the queenside; the final",
+      "bbox": [
+        244.0,
+        1594.0,
+        1563.0,
+        1632.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "outcome of the ending rests with them, for without them White is unable to win.",
+      "bbox": [
+        244.0,
+        1644.0,
+        1535.0,
+        1683.0
+      ],
+      "confidence": null
+    }
+  ]
+}

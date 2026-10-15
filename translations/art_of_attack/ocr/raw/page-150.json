@@ -1,0 +1,300 @@
+{
+  "pdf_page": 150,
+  "printed_page": 150,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        296.5,
+        109.8,
+        373.7,
+        155.9
+      ],
+      "text": "150",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        727.7,
+        113.5,
+        1226.4,
+        160.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        298.9,
+        259.5,
+        1622.1,
+        313.1
+      ],
+      "text": "which concerns us here, is generally described as 'a rook on the seventh rank',",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        296.5,
+        310.6,
+        1620.9,
+        364.3
+      ],
+      "text": "but it would be more accurate to speak of a strongly-placed queen or rook on the",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        301.4,
+        361.8,
+        704.5,
+        406.7
+      ],
+      "text": "opponent's second rank.",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        341.8,
+        411.7,
+        1620.9,
+        462.8
+      ],
+      "text": "This kind of situation is on the whole exploited for positional purposes (to put",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        295.3,
+        462.8,
+        1619.6,
+        514.0
+      ],
+      "text": "pressure on the pawns and capture them or else to prevent the opponent from",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        295.3,
+        514.0,
+        1619.6,
+        563.9
+      ],
+      "text": "moving his king into the centre), but the position of a queen or rook on the sev-",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        297.7,
+        562.6,
+        1613.5,
+        613.8
+      ],
+      "text": "enth rank can also be useful in an attack on the castled king, where a ^clearing up",
+      "confidence": 0.9744
+    },
+    {
+      "bbox": [
+        297.7,
+        613.8,
+        991.1,
+        661.2
+      ],
+      "text": "operation is often of decisive importance.",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        336.9,
+        662.4,
+        1619.6,
+        713.6
+      ],
+      "text": "A weakness on the second rank often goes hand in hand with a weakness on",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        294.0,
+        712.3,
+        1623.3,
+        763.5
+      ],
+      "text": "the back rank. The following combination of Rubinstein's makes effective use of",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        292.8,
+        761.0,
+        483.9,
+        807.1
+      ],
+      "text": "both ranks.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        628.5,
+        968.0,
+        660.4,
+        1000.5
+      ],
+      "text": "W",
+      "confidence": 0.9126
+    },
+    {
+      "bbox": [
+        330.8,
+        1464.5,
+        1609.8,
+        1524.4
+      ],
+      "text": "This position occurred in the game Rubinstein-Maroczy, Gothenburg 1920.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        287.9,
+        1515.7,
+        1609.8,
+        1573.1
+      ],
+      "text": "White's first act was to advance his pawn to h6 and so create the necessary condi-",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        286.7,
+        1570.6,
+        928.7,
+        1613.0
+      ],
+      "text": "tions for an attack on the seventh rank.",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        330.8,
+        1615.5,
+        596.6,
+        1660.4
+      ],
+      "text": "1 h5 f8 2 h6!",
+      "confidence": 0.9233
+    },
+    {
+      "bbox": [
+        330.8,
+        1667.9,
+        1614.7,
+        1720.3
+      ],
+      "text": "White now threatens 3 Qh4, which would also be decisive in the event of",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        287.9,
+        1720.3,
+        436.2,
+        1763.9
+      ],
+      "text": "2...gxh6.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        330.8,
+        1767.7,
+        596.6,
+        1813.8
+      ],
+      "text": "2...g6 3 We6!",
+      "confidence": 0.962
+    },
+    {
+      "bbox": [
+        327.1,
+        1818.8,
+        1608.6,
+        1877.5
+      ],
+      "text": "Now White takes advantage of the weakness of the back rank to penetrate with",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        283.0,
+        1868.7,
+        1461.6,
+        1926.1
+      ],
+      "text": "his queen; 3...xe6 is met by 4 d8+, while if 3...ce7, then 4 hxg7+.",
+      "confidence": 0.9755
+    },
+    {
+      "bbox": [
+        329.6,
+        1922.4,
+        568.5,
+        1963.5
+      ],
+      "text": "3...f8 4 d7",
+      "confidence": 0.9628
+    },
+    {
+      "bbox": [
+        327.1,
+        1973.5,
+        1609.8,
+        2025.9
+      ],
+      "text": "The position is ripe for the rooks to take possession of the seventh rank. Black",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        280.6,
+        2020.9,
+        1584.1,
+        2078.3
+      ],
+      "text": "is now forced to play 4...gxh6, after which the 'clearing' of the rank is complete.",
+      "confidence": 0.976
+    },
+    {
+      "bbox": [
+        328.3,
+        2072.1,
+        673.8,
+        2117.0
+      ],
+      "text": "4...gxh6 5  h4! 1-0",
+      "confidence": 0.9431
+    },
+    {
+      "bbox": [
+        324.7,
+        2122.0,
+        1604.9,
+        2178.1
+      ],
+      "text": "The threat of &xf6+ compels 5..xh4, but then White achieves total domina-",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        281.8,
+        2174.4,
+        1287.6,
+        2225.5
+      ],
+      "text": "tion of the seventh rank (by 6 We7 followed by mate on h7).",
+      "confidence": 0.9935
+    }
+  ]
+}

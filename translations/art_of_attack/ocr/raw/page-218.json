@@ -1,0 +1,290 @@
+{
+  "pdf_page": 218,
+  "printed_page": 218,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "218",
+      "bbox": [
+        268.0,
+        135.0,
+        330.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        694.0,
+        136.0,
+        1188.0,
+        176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White is extracting his knight from the corner, Black works up a counterattack,",
+      "bbox": [
+        266.0,
+        284.0,
+        1583.0,
+        325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "e.g. 27 Ve2 c3! 28 Vh5 (or 28 bxc3 Aa3+ followed by ...Vf5) 28...cxb2+, and if",
+      "bbox": [
+        266.0,
+        328.0,
+        1587.0,
+        374.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "29 *bl, then 29...Aa3, while if 29 #xb2, then 29...Vxf2+, etc.",
+      "bbox": [
+        266.0,
+        379.0,
+        1322.0,
+        421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22 hxg7 exf3 (D)",
+      "bbox": [
+        311.0,
+        433.0,
+        600.0,
+        472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The queen can be saved by 22...Ve6 but then 23 Xh8+ followed by 24 Xh7+",
+      "bbox": [
+        310.0,
+        479.0,
+        1583.0,
+        525.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and 25 Zghl leads to a mating attack.",
+      "bbox": [
+        265.0,
+        531.0,
+        889.0,
+        573.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "/ 74",
+      "bbox": [
+        689.0,
+        900.0,
+        736.0,
+        916.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7.27,",
+      "bbox": [
+        770.0,
+        935.0,
+        801.0,
+        966.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23 Äh8+ 24 Xh7+ 25 Vf5 c3",
+      "bbox": [
+        306.0,
+        1234.0,
+        993.0,
+        1270.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 25...Ve6 26 Vh5, etc.",
+      "bbox": [
+        306.0,
+        1283.0,
+        723.0,
+        1324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "26 xxe7 1-0",
+      "bbox": [
+        305.0,
+        1334.0,
+        511.0,
+        1368.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "For if 26...Xxe7, then 27 Vxf6 is decisive.",
+      "bbox": [
+        304.0,
+        1384.0,
+        1005.0,
+        1424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "König - H. Weiss",
+      "bbox": [
+        757.0,
+        1489.0,
+        1077.0,
+        1529.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vienna, 1919",
+      "bbox": [
+        810.0,
+        1542.0,
+        1026.0,
+        1576.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Queen's Pawn Game",
+      "bbox": [
+        744.0,
+        1591.0,
+        1088.0,
+        1628.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 d4 e6 2 c3 d5 3 Af4 hf6 4 e3 c5",
+      "bbox": [
+        259.0,
+        1686.0,
+        839.0,
+        1723.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Here it is Black who is playing the Queen's Gambit, while White is building",
+      "bbox": [
+        302.0,
+        1741.0,
+        1575.0,
+        1788.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "up his position according to the pattern which Black uses in the Semi-Slav De-",
+      "bbox": [
+        256.0,
+        1791.0,
+        1574.0,
+        1833.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fence, to which the move Af4 is a useful addition. This is an example of a so-",
+      "bbox": [
+        256.0,
+        1840.0,
+        1574.0,
+        1888.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "called inverted opening, in which White plays Black's system with a tempo in",
+      "bbox": [
+        255.0,
+        1893.0,
+        1574.0,
+        1939.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "hand.",
+      "bbox": [
+        255.0,
+        1943.0,
+        343.0,
+        1972.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 Ad3 6 Qd2 Ae7?!",
+      "bbox": [
+        300.0,
+        1988.0,
+        734.0,
+        2025.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black has obviously lost his bearings and is not aware that he is 'really White' ;",
+      "bbox": [
+        299.0,
+        2043.0,
+        1571.0,
+        2090.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "passive moves of this type do not fit in with the active position of his central",
+      "bbox": [
+        253.0,
+        2094.0,
+        1572.0,
+        2138.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawns. Correct was 6...Ad6.",
+      "bbox": [
+        253.0,
+        2142.0,
+        727.0,
+        2182.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 agf3 0-0 8 Qe5! xe8?",
+      "bbox": [
+        298.0,
+        2189.0,
+        718.0,
+        2233.0
+      ],
+      "confidence": null
+    }
+  ]
+}

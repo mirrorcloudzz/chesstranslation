@@ -1,0 +1,170 @@
+{
+  "pdf_page": 77,
+  "printed_page": 77,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        753.5,
+        131.0,
+        1047.5,
+        182.1
+      ],
+      "text": "Mating patterns",
+      "confidence": 0.9761
+    },
+    {
+      "bbox": [
+        1505.7,
+        129.7,
+        1554.7,
+        170.9
+      ],
+      "text": "77",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        541.5,
+        383.0,
+        570.9,
+        411.7
+      ],
+      "text": "W",
+      "confidence": 0.9748
+    },
+    {
+      "bbox": [
+        764.5,
+        868.2,
+        997.3,
+        914.4
+      ],
+      "text": "Legall's Mate",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        274.4,
+        983.0,
+        1558.4,
+        1026.7
+      ],
+      "text": "Legall was Philidor's teacher and this position arose in the game Legall-St",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        227.9,
+        1027.9,
+        1562.1,
+        1081.6
+      ],
+      "text": "Brie, Paris 1750. The moves leading up to the diagram were 1 e4 e5 2 &f3 d6 3",
+      "confidence": 0.9565
+    },
+    {
+      "bbox": [
+        231.6,
+        1080.3,
+        1558.4,
+        1129.0
+      ],
+      "text": "c4 g4 4 c3 g6? and Legall now played: 5 xe5! Qxd1? (5...e6 would",
+      "confidence": 0.9724
+    },
+    {
+      "bbox": [
+        229.1,
+        1130.2,
+        1557.2,
+        1177.6
+      ],
+      "text": "have been better) 6 &xf7+ e7 7 d5#. (This is of course a case of an attack be-",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        230.3,
+        1185.1,
+        1444.4,
+        1228.8
+      ],
+      "text": "fore castling, but the example is given here for purely practical reasons.)",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        274.4,
+        1233.8,
+        1557.2,
+        1277.4
+      ],
+      "text": "The next mate is similar to Greco's, but differs in that the attacker (here Black)",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        232.8,
+        1279.9,
+        1559.6,
+        1333.6
+      ],
+      "text": "opens the h-file not only for his opponent but also for himself. It arose in the",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        230.3,
+        1328.6,
+        1558.4,
+        1384.7
+      ],
+      "text": "game Anderssen-Max Lange, Breslau 1859 after 1 e4 e5 2 f3 c6 3 b5 d4",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        229.1,
+        1381.0,
+        1503.2,
+        1429.6
+      ],
+      "text": "4 xd4 exd4 5 夏c4 f6 6e5 d5 7 b3 g4 8f3 e4 9 0-0 d3 10 fxg4?′ (D)",
+      "confidence": 0.9235
+    },
+    {
+      "bbox": [
+        544.0,
+        1596.8,
+        564.8,
+        1621.7
+      ],
+      "text": "B",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        726.5,
+        2087.0,
+        1041.4,
+        2128.2
+      ],
+      "text": "Max Lange's Mate",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        318.5,
+        2196.8,
+        915.2,
+        2238.0
+      ],
+      "text": "10 Wel! would have favoured White.",
+      "confidence": 0.968
+    }
+  ]
+}

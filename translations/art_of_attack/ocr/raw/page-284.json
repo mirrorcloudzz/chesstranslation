@@ -1,0 +1,280 @@
+{
+  "pdf_page": 284,
+  "printed_page": 284,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "284",
+      "bbox": [
+        227.0,
+        125.0,
+        290.0,
+        156.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        654.0,
+        127.0,
+        1149.0,
+        168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Alekhine - Botvinnik",
+      "bbox": [
+        684.0,
+        276.0,
+        1084.0,
+        309.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Nottingham, 1936",
+      "bbox": [
+        733.0,
+        328.0,
+        1035.0,
+        366.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sicilian Defence, Dragon Variation",
+      "bbox": [
+        594.0,
+        377.0,
+        1175.0,
+        417.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 e4 c5 2 Qf3 d6 3 (14 cxd4 4 Qxd4 0f6 5 g6 6 Ae2 Agi 7 ae3 8",
+      "bbox": [
+        226.0,
+        471.0,
+        1544.0,
+        519.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "03 Ae6 9 f4 0-0 10 g4 (D)",
+      "bbox": [
+        224.0,
+        520.0,
+        702.0,
+        565.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In choosing the pawn avalanche as a means of attacking the castled king at an",
+      "bbox": [
+        265.0,
+        1230.0,
+        1540.0,
+        1277.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "early stage of the game, White has undertaken a considerable obligation to carry",
+      "bbox": [
+        219.0,
+        1281.0,
+        1540.0,
+        1329.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "out his attack incisively to the end. For if Black has his say, his counterattack will",
+      "bbox": [
+        219.0,
+        1332.0,
+        1539.0,
+        1376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "find a mass of weak points, files, and diagonals in White's territory; if an end-",
+      "bbox": [
+        218.0,
+        1382.0,
+        1538.0,
+        1428.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "game is reached, White's advanced pawns may easily become 'cannon-fodder'.",
+      "bbox": [
+        218.0,
+        1434.0,
+        1511.0,
+        1477.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The moment of undertaking an obligation is also the moment of crisis, the mo-",
+      "bbox": [
+        262.0,
+        1483.0,
+        1537.0,
+        1527.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ment for the thrust in the centre, which in the Sicilian as a whole, and in this posi-",
+      "bbox": [
+        217.0,
+        1534.0,
+        1537.0,
+        1581.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion particularly, is unstable. Botvinnik perceived the correct moment and struck",
+      "bbox": [
+        217.0,
+        1583.0,
+        1539.0,
+        1626.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with IO...d5!.",
+      "bbox": [
+        216.0,
+        1634.0,
+        436.0,
+        1664.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "IO...d5!",
+      "bbox": [
+        263.0,
+        1684.0,
+        387.0,
+        1714.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Let us first see why ...d5 is correct at the precise moment when White plays",
+      "bbox": [
+        261.0,
+        1735.0,
+        1536.0,
+        1784.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "g4. Let us suppose he has played IO 0-0 and examine the difference.",
+      "bbox": [
+        215.0,
+        1786.0,
+        1350.0,
+        1827.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1) IO 0-0 d5? 11 e5 Qe8 (11...d4 does not work, since White can simply take",
+      "bbox": [
+        264.0,
+        1834.0,
+        1536.0,
+        1885.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the pawn) 12 Af3 Qc7 13 Qc5, when Black must accept the weakening of his",
+      "bbox": [
+        214.0,
+        1884.0,
+        1535.0,
+        1935.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position by mxe6 fxe6, since 13...d4 is defeated by 14 Axc6.",
+      "bbox": [
+        213.0,
+        1933.0,
+        1230.0,
+        1982.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) 10 g4 d5! 11 e5 d4! (now this move is good) 12 Qxd4 (or 12 exf6 Axf6,",
+      "bbox": [
+        259.0,
+        1988.0,
+        1534.0,
+        2034.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "when Black wins the piece back with the better game) 12...Qxd4 13 Axd4",
+      "bbox": [
+        213.0,
+        2039.0,
+        1534.0,
+        2084.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qxg4! 14 Axg4 Axg4, and Black preserves the material balance while gaining",
+      "bbox": [
+        213.0,
+        2083.0,
+        1534.0,
+        2139.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the advantage with regard to space, position, and time. There is undoubtedly a",
+      "bbox": [
+        213.0,
+        2139.0,
+        1535.0,
+        2189.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "great difference between the first and second instances of ...d5.",
+      "bbox": [
+        213.0,
+        2190.0,
+        1258.0,
+        2228.0
+      ],
+      "confidence": null
+    }
+  ]
+}

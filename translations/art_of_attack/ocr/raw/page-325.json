@@ -1,0 +1,300 @@
+{
+  "pdf_page": 325,
+  "printed_page": 325,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        473.0,
+        137.0,
+        1294.0,
+        178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "325",
+      "bbox": [
+        1471.0,
+        137.0,
+        1531.0,
+        168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) l...Qb6 2 Abl ! l, and now, besides Axh6, there is also a threat ofVd3, etc.",
+      "bbox": [
+        260.0,
+        275.0,
+        1523.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 xc3 0f8",
+      "bbox": [
+        260.0,
+        331.0,
+        442.0,
+        366.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black has to withdraw his knight to the defence, since there is once again a",
+      "bbox": [
+        260.0,
+        385.0,
+        1536.0,
+        424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "threat of Axh6. If, for example, 2...Vb6 (2...b4 3 axb4 Axb4 4 Äb3 allows White",
+      "bbox": [
+        215.0,
+        430.0,
+        1535.0,
+        474.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to gain an important tempo for his attack) then 3 Axh6 gxh6 4 Vxh6 hf8 5 hg5",
+      "bbox": [
+        215.0,
+        480.0,
+        1533.0,
+        526.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axg5 6 Vxg5+ 7 Abl.",
+      "bbox": [
+        215.0,
+        532.0,
+        690.0,
+        576.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 Äfcl (D)",
+      "bbox": [
+        260.0,
+        585.0,
+        440.0,
+        624.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1717 Z,",
+      "bbox": [
+        1067.0,
+        723.0,
+        1121.0,
+        740.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "One might well consider strengthening the attack even further by 3 h4. How-",
+      "bbox": [
+        262.0,
+        1293.0,
+        1535.0,
+        1332.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ever, that is a commitment, and its consequences are not clear. With 3 Xfcl White",
+      "bbox": [
+        216.0,
+        1340.0,
+        1536.0,
+        1381.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "goes for play on the c-file, for which the conditions now are fundamentally better",
+      "bbox": [
+        217.0,
+        1394.0,
+        1537.0,
+        1432.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "than in the position with which we started. On the one hand, White has gained the",
+      "bbox": [
+        217.0,
+        1444.0,
+        1536.0,
+        1483.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "time to double rooks, and on the other, he has driven Black's knight back to f8,",
+      "bbox": [
+        217.0,
+        1495.0,
+        1535.0,
+        1533.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "where it is now one tempo further away from the critical square c4, on which it",
+      "bbox": [
+        217.0,
+        1545.0,
+        1538.0,
+        1584.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "clearly belongs. White owes his advantage here to his 'toying' with an attack on",
+      "bbox": [
+        216.0,
+        1596.0,
+        1536.0,
+        1634.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the castled king. The rest of the game is a matter of positional technique, and it",
+      "bbox": [
+        217.0,
+        1646.0,
+        1538.0,
+        1685.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "could run as follows: 3...Xc8 (if Black allows Xc7, then the threat of a sacrifice",
+      "bbox": [
+        216.0,
+        1693.0,
+        1537.0,
+        1733.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on h6 is renewed!) 4 Xxc8 Axc8 5 Vel Ab7 6 Ad2! (if a good ending is White's",
+      "bbox": [
+        217.0,
+        1742.0,
+        1536.0,
+        1786.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "objective, the dark-squared bishops should be exchanged as soon as possible)",
+      "bbox": [
+        217.0,
+        1798.0,
+        1536.0,
+        1837.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...Vd7 7 Ab4 xc8 (or 7...Ad8 8 Aa5, when 8...Ae7 fails against 9 xc7) 8",
+      "bbox": [
+        216.0,
+        1843.0,
+        1537.0,
+        1888.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axe7 Xxcl 9 Vxcl Vxe710 Vc3 Vd7 (if 10...Qd7, then 1 1 Vc7 is decisive) 11",
+      "bbox": [
+        216.0,
+        1894.0,
+        1536.0,
+        1937.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qd2, and White has a considerable advantage by virtue of his better bishop and",
+      "bbox": [
+        217.0,
+        1945.0,
+        1537.0,
+        1989.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "more active knight. Black cannot avoid exchanging queens, after which an ex-",
+      "bbox": [
+        216.0,
+        2001.0,
+        1536.0,
+        2039.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "change of knights or of the white bishop for the black knight would eventually",
+      "bbox": [
+        216.0,
+        2051.0,
+        1537.0,
+        2090.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "leave White with a very favourable ending.",
+      "bbox": [
+        217.0,
+        2101.0,
+        929.0,
+        2139.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this line White can still play 2 Axh6.",
+      "bbox": [
+        299.0,
+        2201.0,
+        927.0,
+        2242.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        221.0,
+        2205.0,
+        232.0,
+        2234.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "pdf_page": 36,
+  "printed_page": 36,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        305.1,
+        122.3,
+        355.3,
+        164.7
+      ],
+      "text": "36",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        732.6,
+        122.3,
+        1234.9,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9679
+    },
+    {
+      "bbox": [
+        733.9,
+        272.0,
+        1199.4,
+        315.6
+      ],
+      "text": "Belavenets - Chistiakov",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        735.1,
+        324.3,
+        1199.4,
+        368.0
+      ],
+      "text": "Semi-finals, USSR Ch 1938",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        630.9,
+        373.0,
+        1299.9,
+        417.9
+      ],
+      "text": "French Defence, McCutcheon Variation",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        303.8,
+        470.3,
+        976.4,
+        515.2
+      ],
+      "text": "1 e4 e6 2 d4 d5 3 2c3 ②f6 4 皇g5 b4",
+      "confidence": 0.9149
+    },
+    {
+      "bbox": [
+        345.5,
+        522.7,
+        1625.8,
+        571.3
+      ],
+      "text": "The so-called McCutcheon Variation, which is nowadays regarded as unfa-",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        306.3,
+        576.3,
+        626.0,
+        613.8
+      ],
+      "text": "vourable for Black.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        344.3,
+        621.2,
+        1210.4,
+        669.9
+      ],
+      "text": "5 e5 h6 6 d2 xc3 7 bxc3 e4 8 Wg4 g6 9 d3",
+      "confidence": 0.9652
+    },
+    {
+      "bbox": [
+        343.0,
+        669.9,
+        1631.9,
+        727.3
+      ],
+      "text": "9 c1 is also possible, to enable the bishop to exert pressure from a3. In this",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        300.2,
+        724.8,
+        1633.1,
+        773.4
+      ],
+      "text": "position it does not matter to White that he loses the right to castle, but he must",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        300.2,
+        773.4,
+        1629.4,
+        828.3
+      ],
+      "text": "play sharply and accurately, as otherwise Black's attack along the c-file may pre-",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        300.2,
+        823.3,
+        379.8,
+        867.0
+      ],
+      "text": "vail.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        344.3,
+        870.7,
+        851.5,
+        915.7
+      ],
+      "text": "9...xd2 10 xd2 c5 11 2f3",
+      "confidence": 0.9602
+    },
+    {
+      "bbox": [
+        345.5,
+        925.6,
+        1035.2,
+        970.5
+      ],
+      "text": "Maroczy's move, 11 h4, is an alternative.",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        346.7,
+        973.0,
+        678.7,
+        1016.7
+      ],
+      "text": "11...c6 12 μhb1?",
+      "confidence": 0.9397
+    },
+    {
+      "bbox": [
+        343.0,
+        1020.4,
+        1005.8,
+        1075.3
+      ],
+      "text": "A poor move. 12 ab1 was preferable'.",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        344.3,
+        1074.1,
+        499.9,
+        1116.5
+      ],
+      "text": "12...Wc7",
+      "confidence": 0.9591
+    },
+    {
+      "bbox": [
+        341.8,
+        1125.2,
+        1624.5,
+        1178.9
+      ],
+      "text": "Note how Black plays from here up to his 15th move. He does not pursue the",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        298.9,
+        1171.4,
+        1624.5,
+        1231.3
+      ],
+      "text": "unfruitful plan of looking for checks' with 12...cxd4? 13 cxd4 Wa5+, but quietly",
+      "confidence": 0.9762
+    },
+    {
+      "bbox": [
+        301.4,
+        1228.8,
+        1629.4,
+        1277.4
+      ],
+      "text": "brings his rook on to the c-file; then, and only then, does he strike by means of",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        302.6,
+        1278.7,
+        425.1,
+        1321.1
+      ],
+      "text": "...cxd4.",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        341.8,
+        1323.6,
+        1596.4,
+        1381.0
+      ],
+      "text": "13 Wh4 d7 14 Wf6 g8 15 h4 μc8 16 h5 gxh5 17 Wxh6 cxd4 18 cxd4 (D)",
+      "confidence": 0.9741
+    },
+    {
+      "bbox": [
+        868.6,
+        1470.8,
+        895.6,
+        1499.5
+      ],
+      "text": "二",
+      "confidence": 0.716
+    },
+    {
+      "bbox": [
+        637.1,
+        1535.6,
+        662.8,
+        1566.8
+      ],
+      "text": "B",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        340.6,
+        2032.1,
+        529.3,
+        2074.6
+      ],
+      "text": "18...xd4!",
+      "confidence": 0.9742
+    },
+    {
+      "bbox": [
+        374.9,
+        2136.9,
+        1620.9,
+        2193.1
+      ],
+      "text": "According to current theory both 12 ab1 and 12 Wf4 give White a slight ad-",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        376.1,
+        2193.1,
+        513.3,
+        2236.7
+      ],
+      "text": "vantage.",
+      "confidence": 0.9993
+    }
+  ]
+}

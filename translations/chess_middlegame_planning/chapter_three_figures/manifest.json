@@ -1,0 +1,92 @@
+[
+  {
+    "figure": 1,
+    "source_pdf_page": 90,
+    "source_print_page": 88,
+    "anchor": "CH3-7",
+    "caption": "马尔科（白）对穆勒（黑），白方行棋",
+    "evidence": "片段；后文从33. Qa1开始",
+    "image": "figure-01.png"
+  },
+  {
+    "figure": 2,
+    "source_pdf_page": 90,
+    "source_print_page": 88,
+    "anchor": "CH3-14–15",
+    "caption": "拉斯克（白）对肖瓦尔特（黑），黑方行棋",
+    "evidence": "片段；原文说明白方第60步后，随后60... Rb1",
+    "image": "figure-02.png"
+  },
+  {
+    "figure": 3,
+    "source_pdf_page": 91,
+    "source_print_page": 89,
+    "anchor": "CH3-24",
+    "caption": "卡帕布兰卡（白）对特雷巴尔（黑），白方行棋",
+    "evidence": "片段；随后40. Ra1",
+    "image": "figure-03.png"
+  },
+  {
+    "figure": 4,
+    "source_pdf_page": 92,
+    "source_print_page": 90,
+    "anchor": "CH3-39",
+    "caption": "卡帕布兰卡（白）对阿廖欣（黑），白方行棋",
+    "evidence": "片段；随后26. b5",
+    "image": "figure-04.png"
+  },
+  {
+    "figure": 5,
+    "source_pdf_page": 94,
+    "source_print_page": 92,
+    "anchor": "CH3-65–66",
+    "caption": "白方走完13. Nd2后的局面",
+    "evidence": "前页末主线13. Nd2，白马在d2",
+    "image": "figure-05.png"
+  },
+  {
+    "figure": 6,
+    "source_pdf_page": 95,
+    "source_print_page": 93,
+    "anchor": "CH3-83",
+    "caption": "黑方走完20... b5后的局面",
+    "evidence": "前页主线20. Raxc1 b5，黑兵在b5",
+    "image": "figure-06.png"
+  },
+  {
+    "figure": 7,
+    "source_pdf_page": 96,
+    "source_print_page": 94,
+    "anchor": "CH3-103",
+    "caption": "黑方走完33... Raa2后的局面",
+    "evidence": "图上方主线33... Raa2，黑车在a2和b2",
+    "image": "figure-07.png"
+  },
+  {
+    "figure": 8,
+    "source_pdf_page": 97,
+    "source_print_page": 95,
+    "anchor": "CH3-133–134",
+    "caption": "黑方走完13... d5!后的局面",
+    "evidence": "图上方主线13... d5!，黑兵在d5和e4",
+    "image": "figure-08.png"
+  },
+  {
+    "figure": 9,
+    "source_pdf_page": 99,
+    "source_print_page": 97,
+    "anchor": "CH3-156",
+    "caption": "黑方走完24... a5!后的局面",
+    "evidence": "左栏主线24. Be1 a5!，黑兵在a5，白兵仍在g2",
+    "image": "figure-09.png"
+  },
+  {
+    "figure": 10,
+    "source_pdf_page": 100,
+    "source_print_page": 98,
+    "anchor": "CH3-176",
+    "caption": "白方走完38. Bh4后的局面",
+    "evidence": "see next diagram指向38. Bh4；白象h4，黑车a1、a8",
+    "image": "figure-10.png"
+  }
+]

@@ -1,0 +1,280 @@
+{
+  "pdf_page": 301,
+  "printed_page": 301,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        493.0,
+        127.0,
+        1313.0,
+        174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...h6 2 e4 Vd8 3 0-0 5bd7 4 b4",
+      "bbox": [
+        283.0,
+        276.0,
+        842.0,
+        314.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "301",
+      "bbox": [
+        1490.0,
+        125.0,
+        1548.0,
+        156.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "With his second move White occupied the centre, with his third he made his",
+      "bbox": [
+        281.0,
+        323.0,
+        1555.0,
+        367.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king secure, and now he safeguards his central position against the counter-thrust",
+      "bbox": [
+        237.0,
+        373.0,
+        1556.0,
+        423.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "..c5. Apart from this, b4 prepares the ground for piece regrouping on the",
+      "bbox": [
+        251.0,
+        423.0,
+        1556.0,
+        472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queenside.",
+      "bbox": [
+        237.0,
+        485.0,
+        411.0,
+        524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...O-0 5 ve2",
+      "bbox": [
+        283.0,
+        528.0,
+        506.0,
+        564.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This contains the threat of 6 e5 followed by 7 Ve4 but, at the same time, does",
+      "bbox": [
+        283.0,
+        571.0,
+        1557.0,
+        616.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not yet commit White in the centre.",
+      "bbox": [
+        240.0,
+        632.0,
+        826.0,
+        674.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It would be a mistake to play 5 e5 Qd5 6 Äb3 Xe8 7 Ve2 Qf8, since Black",
+      "bbox": [
+        285.0,
+        670.0,
+        1560.0,
+        720.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "would then have managed to centralize his knight at d5 and invalidate the attack",
+      "bbox": [
+        241.0,
+        724.0,
+        1560.0,
+        771.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "based on Ve4. The move e5 must clearly be reserved for a later moment when ev-",
+      "bbox": [
+        241.0,
+        775.0,
+        1558.0,
+        818.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "erything else is ready.",
+      "bbox": [
+        241.0,
+        834.0,
+        601.0,
+        874.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...ze8 6 Xb3!",
+      "bbox": [
+        287.0,
+        881.0,
+        533.0,
+        916.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Primarily, this frees the square bl for the bishop so that the queen may be",
+      "bbox": [
+        288.0,
+        926.0,
+        1561.0,
+        973.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "placed in front of it on the diagonal bl-h7. It also makes it possible to transfer the",
+      "bbox": [
+        243.0,
+        976.0,
+        1562.0,
+        1026.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rook to g3 or h3 as part of the attack later on, but it does not otherwise commit",
+      "bbox": [
+        243.0,
+        1027.0,
+        1563.0,
+        1075.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White to an attack on the castled king, since the rook can also be used for play,",
+      "bbox": [
+        243.0,
+        1077.0,
+        1561.0,
+        1120.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for instance, on the c-file.",
+      "bbox": [
+        245.0,
+        1135.0,
+        668.0,
+        1171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...Vc7 7 Abl Qh7 (D)",
+      "bbox": [
+        290.0,
+        1180.0,
+        693.0,
+        1221.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black is too weak to fight back in the centre by 7...e5. After 8 dxe5 hxe5 9",
+      "bbox": [
+        291.0,
+        1223.0,
+        1563.0,
+        1274.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mxe5 Vxe5 IO Ab2 White obtains a strong attacking position. If 7...Qf8 (in or-",
+      "bbox": [
+        245.0,
+        1275.0,
+        1563.0,
+        1322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "der to meet 8 e5 with 8...Qd5) then 8 Qe5 followed by Äg3, etc.",
+      "bbox": [
+        246.0,
+        1329.0,
+        1320.0,
+        1373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This central pawn thrust commits White more than any other move hitherto.",
+      "bbox": [
+        297.0,
+        2090.0,
+        1570.0,
+        2134.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Clearly, he is now no longer thinking of the endgame but is intent on forcing",
+      "bbox": [
+        252.0,
+        2140.0,
+        1572.0,
+        2185.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "home an attack on the castled king. It is of decisive importance that Black does",
+      "bbox": [
+        252.0,
+        2190.0,
+        1572.0,
+        2232.0
+      ],
+      "confidence": null
+    }
+  ]
+}

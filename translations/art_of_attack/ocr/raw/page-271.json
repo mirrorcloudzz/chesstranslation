@@ -1,0 +1,280 @@
+{
+  "pdf_page": 271,
+  "printed_page": 271,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        445.0,
+        130.0,
+        1342.0,
+        175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "271",
+      "bbox": [
+        1480.0,
+        129.0,
+        1540.0,
+        160.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position, from the game Yates-Marco, The Hague 1921, arose after the",
+      "bbox": [
+        271.0,
+        276.0,
+        1546.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "moves 1 e4 e5 2 Qf3 d6 3 d4 4 Ac4 c6 5 Ae7 6 h6 7 Ae3 agf6 8",
+      "bbox": [
+        227.0,
+        321.0,
+        1546.0,
+        365.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ab3 Vc7 9 Qd2 g5 10 a4 Qf8 11 as 12 Qf4 13 f3 zg8 14 Qn Ae6",
+      "bbox": [
+        227.0,
+        372.0,
+        1547.0,
+        421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 Qg3 (D). Black has played his favourite Hanham Variation of the Philidor,",
+      "bbox": [
+        230.0,
+        427.0,
+        1546.0,
+        473.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "obtaining the advantage and an attack on the white king; this is the natural result",
+      "bbox": [
+        228.0,
+        478.0,
+        1549.0,
+        524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of White's extravagant ffeatment of the opening (unmotivated moves a5 and f3 at",
+      "bbox": [
+        229.0,
+        528.0,
+        1548.0,
+        573.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "an earlier stage of the game). Marco (Black), to move, spoils his position by pro-",
+      "bbox": [
+        229.0,
+        579.0,
+        1547.0,
+        624.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "voking d5 which he does in order to continue with a sacrifice in the old 'paprika",
+      "bbox": [
+        229.0,
+        629.0,
+        1550.0,
+        675.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15...Vd7?",
+      "bbox": [
+        277.0,
+        731.0,
+        445.0,
+        767.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black had excellent prospects of carrying out an attack using his pawns",
+      "bbox": [
+        275.0,
+        780.0,
+        1549.0,
+        824.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(15...g4 or 15...h5) without any material risk, but he has seen the chance of a",
+      "bbox": [
+        231.0,
+        830.0,
+        1551.0,
+        876.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishop sacrifice on h3 with play against the focal-point g2 and cannot resist it.",
+      "bbox": [
+        231.0,
+        880.0,
+        1530.0,
+        927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 d5",
+      "bbox": [
+        278.0,
+        938.0,
+        370.0,
+        968.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White rightly falls in with Black's intentions and forces him to continue with",
+      "bbox": [
+        276.0,
+        981.0,
+        1551.0,
+        1027.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...Ah3.",
+      "bbox": [
+        234.0,
+        1035.0,
+        347.0,
+        1070.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...Ah3 (D)",
+      "bbox": [
+        279.0,
+        1086.0,
+        496.0,
+        1126.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17 gxh3?",
+      "bbox": [
+        283.0,
+        1796.0,
+        437.0,
+        1835.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White decides to accept the sacrifice and to employ direct defence against the",
+      "bbox": [
+        281.0,
+        1842.0,
+        1556.0,
+        1884.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "attack on his king. With good play he could certainly have come through by this",
+      "bbox": [
+        237.0,
+        1893.0,
+        1556.0,
+        1936.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "method, but the right way to refute the offer is not by accepting it but by applying",
+      "bbox": [
+        237.0,
+        1944.0,
+        1557.0,
+        1986.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "indirect defence in the shape of a counterattack on the queenside. After d5 there",
+      "bbox": [
+        237.0,
+        1994.0,
+        1557.0,
+        2035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is also some point to the earlier advance a5, since an attack can now be made on",
+      "bbox": [
+        238.0,
+        2044.0,
+        1557.0,
+        2087.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's pawn chain at b7 and c6, as a result of which White obtains the better",
+      "bbox": [
+        238.0,
+        2095.0,
+        1559.0,
+        2138.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawn structure and an advantage in space on the queenside and also frees the",
+      "bbox": [
+        237.0,
+        2145.0,
+        1558.0,
+        2189.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "square d5 for a piece. The analysis runs 17 a6! Oxg2 (if 17...Axg2",
+      "bbox": [
+        239.0,
+        2191.0,
+        1558.0,
+        2240.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "pdf_page": 11,
+  "printed_page": 11,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        800.0,
+        128.5,
+        1023.0,
+        169.7
+      ],
+      "text": "Introduction",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        1521.6,
+        129.7,
+        1562.1,
+        165.9
+      ],
+      "text": "11",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        551.3,
+        380.5,
+        584.4,
+        411.7
+      ],
+      "text": "W",
+      "confidence": 0.8699
+    },
+    {
+      "bbox": [
+        242.6,
+        878.2,
+        1564.5,
+        923.1
+      ],
+      "text": ". The attacker fails to perceive that he can neither stop his opponent from mov-",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        283.0,
+        926.9,
+        1568.2,
+        974.3
+      ],
+      "text": "ing his king nor drive him into a mating net, but still plays for mate. Such a",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        284.2,
+        981.8,
+        1562.1,
+        1022.9
+      ],
+      "text": "course of action is naturally futile, and though it may possibly produce perpet-",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        285.5,
+        1034.2,
+        860.0,
+        1071.6
+      ],
+      "text": "ual check, it cannot produce mate.",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        278.1,
+        1081.6,
+        1565.7,
+        1126.5
+      ],
+      "text": " The attacker plays on the basis of typical mating patterns, overlooking the pos-",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        284.2,
+        1131.5,
+        1208.0,
+        1173.9
+      ],
+      "text": "sibility of an ‘atypical' one in a particular continuation.",
+      "confidence": 0.9739
+    },
+    {
+      "bbox": [
+        279.3,
+        1181.4,
+        1567.0,
+        1223.8
+      ],
+      "text": "The player sees all the possible mating patterns based on one focal-point, but",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        285.5,
+        1233.8,
+        1568.2,
+        1271.2
+      ],
+      "text": "fails to realize that all this is cancelled out when the king moves, and that what",
+      "confidence": 0.9749
+    },
+    {
+      "bbox": [
+        279.3,
+        1279.9,
+        1557.2,
+        1327.3
+      ],
+      "text": "matters then are new mating patterns, for which he has not made preparations.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        279.3,
+        1332.3,
+        1564.5,
+        1374.7
+      ],
+      "text": "The player decides on a course of action based on a certain focal-point, with-",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        284.2,
+        1382.2,
+        1568.2,
+        1425.9
+      ],
+      "text": "out realizing that he cannot provide cover for it or even clear it of the influence",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        284.2,
+        1432.1,
+        1568.2,
+        1477.0
+      ],
+      "text": "of his opponent's pieces. Mistakes made in the selection of a focal-point will",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        281.8,
+        1484.5,
+        998.5,
+        1526.9
+      ],
+      "text": "be found even in the games of the masters.",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        287.9,
+        1536.9,
+        1565.7,
+        1578.1
+      ],
+      "text": "So it is useful to get to know the general pattern and structure of mating; less",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        242.6,
+        1584.3,
+        1569.4,
+        1630.5
+      ],
+      "text": "experienced players are especially recommended to study games to see whether",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        240.1,
+        1629.2,
+        1569.4,
+        1685.3
+      ],
+      "text": "a player has made a mistake with regard to the pattern and, if so, where he has",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        241.4,
+        1685.3,
+        377.3,
+        1730.3
+      ],
+      "text": "made it.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        241.4,
+        1791.4,
+        956.8,
+        1848.8
+      ],
+      "text": "The art of the mating attack",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        242.6,
+        1887.4,
+        1567.0,
+        1929.9
+      ],
+      "text": "We must now make some finer distinctions, and put a series of questions which",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        243.8,
+        1942.3,
+        1567.0,
+        1979.8
+      ],
+      "text": "arise out of the basic conceptions of a mating attack, and which at the same time",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        240.1,
+        1988.5,
+        1397.9,
+        2032.1
+      ],
+      "text": "also touch on the most difficult departments of the art of chess today.",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        284.2,
+        2037.1,
+        1569.4,
+        2083.3
+      ],
+      "text": "How does a mating attack relate to the other operations which take place in a",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        242.6,
+        2085.8,
+        503.5,
+        2134.4
+      ],
+      "text": "game of chess?",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        287.9,
+        2143.2,
+        1565.7,
+        2180.6
+      ],
+      "text": "How much is a mating attack conditioned by the actual position on the chess-",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        241.4,
+        2189.3,
+        1069.5,
+        2231.7
+      ],
+      "text": "board, and how much by the skill of the attacker?",
+      "confidence": 0.9965
+    }
+  ]
+}

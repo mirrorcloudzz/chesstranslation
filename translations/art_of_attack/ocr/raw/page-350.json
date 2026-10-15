@@ -1,0 +1,730 @@
+{
+  "pdf_page": 350,
+  "printed_page": 350,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Index of Players",
+      "bbox": [
+        206.0,
+        318.0,
+        698.0,
+        379.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Numbers refer to pages",
+      "bbox": [
+        206.0,
+        486.0,
+        574.0,
+        521.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A number in bold indicates that the first-named player had White, e.g. Alekhine",
+      "bbox": [
+        207.0,
+        515.0,
+        1470.0,
+        562.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "was White against Asgeirsson but Black against Rubinstein",
+      "bbox": [
+        243.0,
+        566.0,
+        1180.0,
+        613.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Abramavicius — Richter 232",
+      "bbox": [
+        209.0,
+        668.0,
+        654.0,
+        702.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Alekhine — Asgeirsson 170, Asztalos",
+      "bbox": [
+        210.0,
+        713.0,
+        793.0,
+        754.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "337, Botvinnik 284, E. Cohn 144,",
+      "bbox": [
+        246.0,
+        758.0,
+        777.0,
+        799.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Drewitt 199, Feldt 31, Gilg 297,",
+      "bbox": [
+        247.0,
+        806.0,
+        753.0,
+        844.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Kmoch 344, Lasker 86, Potemkin 28,",
+      "bbox": [
+        248.0,
+        852.0,
+        837.0,
+        890.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Rubinstein 187, Ståhlberg 321,",
+      "bbox": [
+        248.0,
+        900.0,
+        736.0,
+        937.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Supico 185, Tarrasch 202,",
+      "bbox": [
+        250.0,
+        948.0,
+        659.0,
+        989.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vygodchikov 84, Weenink 212, 300",
+      "bbox": [
+        250.0,
+        991.0,
+        819.0,
+        1036.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Alexander — Pachman 233, Szabo 177",
+      "bbox": [
+        215.0,
+        1039.0,
+        816.0,
+        1076.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Anderssen — Max Lange 77",
+      "bbox": [
+        215.0,
+        1088.0,
+        651.0,
+        1125.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Asgeirsson — Alekhine 170, Raud 24",
+      "bbox": [
+        216.0,
+        1132.0,
+        797.0,
+        1177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Asztalos — Alekhine 337",
+      "bbox": [
+        216.0,
+        1183.0,
+        604.0,
+        1216.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Averbakh — Kotov 32",
+      "bbox": [
+        218.0,
+        1229.0,
+        555.0,
+        1262.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "von Bardeleben — Steinitz 19",
+      "bbox": [
+        219.0,
+        1275.0,
+        674.0,
+        1310.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Barnes — Morphy 46",
+      "bbox": [
+        218.0,
+        1323.0,
+        543.0,
+        1361.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Bauer - Fox 184, Lasker 197",
+      "bbox": [
+        219.0,
+        1369.0,
+        677.0,
+        1404.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Belavenets — Chistiakov 36",
+      "bbox": [
+        220.0,
+        1415.0,
+        651.0,
+        1450.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Bernstein — Capablanca 142, Kotov 190",
+      "bbox": [
+        221.0,
+        1460.0,
+        836.0,
+        1502.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Bird - Boden 165",
+      "bbox": [
+        221.0,
+        1512.0,
+        500.0,
+        1544.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Blackburne — Schwarz 253",
+      "bbox": [
+        222.0,
+        1557.0,
+        645.0,
+        1591.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Boden - Bird 165, Schulder 76",
+      "bbox": [
+        222.0,
+        1602.0,
+        712.0,
+        1638.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Bogoljubow — Przepiorka 330, Réti 255",
+      "bbox": [
+        223.0,
+        1648.0,
+        836.0,
+        1692.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Bolbochan, Julio — Najdorf 143",
+      "bbox": [
+        224.0,
+        1697.0,
+        721.0,
+        1735.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Boleslavsky — Ufimtsev 83",
+      "bbox": [
+        224.0,
+        1744.0,
+        649.0,
+        1784.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Bondarevsky — Kotov 31, Lilienthal 303",
+      "bbox": [
+        225.0,
+        1789.0,
+        843.0,
+        1831.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Botvinnik — Alekhine 284, Chekhover",
+      "bbox": [
+        226.0,
+        1837.0,
+        829.0,
+        1872.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "295, Rabinovich 331, Rauzer 313,",
+      "bbox": [
+        263.0,
+        1883.0,
+        800.0,
+        1922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Reshevsky 255",
+      "bbox": [
+        262.0,
+        1934.0,
+        499.0,
+        1971.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Burn — Chigorin 16, E. Cohn 96,",
+      "bbox": [
+        228.0,
+        1978.0,
+        743.0,
+        2019.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Marshall 289",
+      "bbox": [
+        264.0,
+        2028.0,
+        472.0,
+        2059.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "D. Byrne — Fischer 33",
+      "bbox": [
+        229.0,
+        2073.0,
+        578.0,
+        2114.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Capablanca — Bernstein 142, Colle",
+      "bbox": [
+        230.0,
+        2118.0,
+        780.0,
+        2161.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "346, Coria 83, R. Illa 98, Kan 316,",
+      "bbox": [
+        267.0,
+        2163.0,
+        813.0,
+        2203.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Molina 135, Nimzowitsch 151, 190,",
+      "bbox": [
+        267.0,
+        2210.0,
+        836.0,
+        2248.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ragozin 256, Schroeder 341, Winter",
+      "bbox": [
+        933.0,
+        655.0,
+        1515.0,
+        698.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "186",
+      "bbox": [
+        938.0,
+        709.0,
+        992.0,
+        737.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Caro — Chigorin 38",
+      "bbox": [
+        899.0,
+        752.0,
+        1203.0,
+        790.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Castaldi - O'Kelly 305",
+      "bbox": [
+        900.0,
+        798.0,
+        1264.0,
+        835.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Chekhover — Botvinnik 295",
+      "bbox": [
+        901.0,
+        844.0,
+        1337.0,
+        878.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Chigorin — Burn 16, Caro 38",
+      "bbox": [
+        902.0,
+        890.0,
+        1356.0,
+        932.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Chistiakov — Belavenets 36",
+      "bbox": [
+        902.0,
+        937.0,
+        1334.0,
+        972.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Clemens — Eisenschmidt 29",
+      "bbox": [
+        903.0,
+        983.0,
+        1343.0,
+        1018.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Cohn, E — Alekhine 144, Burn 96",
+      "bbox": [
+        904.0,
+        1028.0,
+        1436.0,
+        1069.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Colle — Capablanca 346, Euwe 242,",
+      "bbox": [
+        904.0,
+        1076.0,
+        1472.0,
+        1118.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "O'Hanlon 139, Tartakower 192",
+      "bbox": [
+        941.0,
+        1122.0,
+        1435.0,
+        1160.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Coria — Capablanca 83",
+      "bbox": [
+        906.0,
+        1172.0,
+        1266.0,
+        1212.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Delmar - Loyd 193",
+      "bbox": [
+        906.0,
+        1220.0,
+        1214.0,
+        1258.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Drewitt — Alekhine 199",
+      "bbox": [
+        907.0,
+        1267.0,
+        1279.0,
+        1300.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Eisenschmidt — Clemens 29",
+      "bbox": [
+        908.0,
+        1312.0,
+        1347.0,
+        1346.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Endzelins — Vukovié 105",
+      "bbox": [
+        908.0,
+        1359.0,
+        1303.0,
+        1393.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Euwe — Colle 242, Flohr 114, Maroczy",
+      "bbox": [
+        909.0,
+        1405.0,
+        1529.0,
+        1441.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "309, Rubinstein 26, Tartakower 37",
+      "bbox": [
+        945.0,
+        1451.0,
+        1492.0,
+        1490.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Feldt — Alekhine 3 1",
+      "bbox": [
+        910.0,
+        1502.0,
+        1221.0,
+        1534.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Field — Tenner 83",
+      "bbox": [
+        911.0,
+        1549.0,
+        1189.0,
+        1581.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Fine - Keres 204",
+      "bbox": [
+        912.0,
+        1597.0,
+        1181.0,
+        1628.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Fischer — D. Byrne 33",
+      "bbox": [
+        912.0,
+        1643.0,
+        1261.0,
+        1680.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Flohr - Euwe 114, NN 147, Stoltz 152",
+      "bbox": [
+        913.0,
+        1686.0,
+        1526.0,
+        1723.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Florian — Smyslov 34",
+      "bbox": [
+        914.0,
+        1736.0,
+        1254.0,
+        1774.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Fox - Bauer 184",
+      "bbox": [
+        915.0,
+        1784.0,
+        1177.0,
+        1815.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Geller - Kotov 182",
+      "bbox": [
+        916.0,
+        1830.0,
+        1219.0,
+        1863.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Gilg - Alekhine 297",
+      "bbox": [
+        917.0,
+        1877.0,
+        1238.0,
+        1917.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Gligorié — Kostié 298, Petrosian 32",
+      "bbox": [
+        917.0,
+        1921.0,
+        1476.0,
+        1964.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Golmayo — Steinitz 167",
+      "bbox": [
+        918.0,
+        1970.0,
+        1292.0,
+        2010.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Guimard — Stoltz 178",
+      "bbox": [
+        919.0,
+        2018.0,
+        1258.0,
+        2050.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Hamppe — Meitner 43",
+      "bbox": [
+        919.0,
+        2064.0,
+        1266.0,
+        2104.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Hansen — Lundin 17",
+      "bbox": [
+        920.0,
+        2111.0,
+        1241.0,
+        2143.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "R. Illa - Capablanca 98",
+      "bbox": [
+        920.0,
+        2157.0,
+        1291.0,
+        2196.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ivkov — Najdorf 99",
+      "bbox": [
+        921.0,
+        2205.0,
+        1223.0,
+        2243.0
+      ],
+      "confidence": null
+    }
+  ]
+}

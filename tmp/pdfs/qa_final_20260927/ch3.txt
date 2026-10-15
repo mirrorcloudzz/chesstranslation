@@ -1,0 +1,1146 @@
+        《国际象棋中局计划》
+         第三章：a线上的战斗
+                    中英对照分段校样
+
+
+
+
+文档性质   英文 OCR 校正稿 + 中文初译校对稿
+
+
+内容范围   原书印刷页 87–98
+
+
+段落编号   CH3-1 至 CH3-181，左右栏严格对应
+
+
+版本日期   2026-09-27
+
+
+
+
+                        1
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                          经校正的英文 OCR                                                                            中文初译
+
+CH3-1 · 原书87页                                                                       CH3-1 · 原书87页
+Play on the a-file                                                                  a线上的战斗
+
+CH3-2 · 原书87页                                                                       CH3-2 · 原书87页
+We have chosen as the basic theme the question of planning play along the           我们选取双方均已短易位时围绕a线展开的计划性行棋作为基本主题。
+a-file, when it occurs with castling king's side by both opponents. Namely
+                                                                                    这类a线行动具有鲜明特点，值得单独研究。
+these cases of play along the a-file assume a specific character, requiring an
+independent examination.
+
+
+CH3-3 · 原书87页                                                                       CH3-3 · 原书87页
+What features characterise play along the a-file, with king's side castling by      双方均在王翼易位时，a线行动具有哪些特点？首先，a线与王翼相距甚
+both sides? Firstly, the a-file is as distant as can be from the king's flank, as
+                                                                                    远，所以主要战事暂时不会直接影响易位后的王城。更重要的是，掌握
+a result of which the principal events, for the time being, do ) not affecthe
+castled positions. Even more important is the fact thathe side holding the          a线主动权的一方必须在该线及其附近集中大量兵力，尤其是双车。这
+initiative in play on the a-file must concentrate largescale forces, and in any     意味着重要棋子会被调离王翼，从而可能促使对手转而进攻王翼。因此
+case the rooks, on that file or near it. It means that such play is attended by     ，必须以稳固兵链和少量轻子妥善守护王翼。
+the diversion of important pieces from the king's flank. But this could 1
+prompthe opponent to direct his forces to an attack there, in the event of
+which it is very important to take care of the defence of the king's flank
+with a solid pawn chain and a minor piece covering C detachment.
+
+
+CH3-4 · 原书87页                                                                       CH3-4 · 原书87页
+The technique of opening the a-file consists of the exchange of the a-pawn          打开a线的基本方法，是以a兵交换对方的b兵。如果b兵仍在初始格，这
+for the b-pawn. Such an exchange is difficult to achieve if the b-pawn
+                                                                                    种交换便难以实现。因此，打开a线之前往往要先诱使对方的马前兵冲
+stands on its original square. Therefore it is useful, as a pre-requisite to
+opening the a-file, to provoke the advance of the knight's pawn one or two          起一格或两格。显然，打开a线并随后沿线侵入的计划必须经过周密考
+squares. There is no need to mention thathe plan of opening the a-file and          虑：既要结合局面的具体条件，也要判断对手能否有利地阻止开线，或
+the future invasion on it must be carefully thought out, taking into account        在王翼发动有效反击。
+all the concrete positional conditions, to weigh up whether it is possible for
+the opponent to advantageously preventhe opening of the a-file or launch a
+successful counter-attack on the king's flank.
+
+
+CH3-5 · 原书87页                                                                       CH3-5 · 原书87页
+In planning play on the a-file, it is of course necessary to secure the             规划a线行动时，当然必须确保开线后能够以双车占据该线。这意味着
+occupation of the opened line with his rooks. It means that an appropriate
+                                                                                    适当的子力重组必须在a线打开之前便已完成。
+regrouping g of forces must take place even before the opening of the line.
+
+
+CH3-6 · 原书87页                                                                       CH3-6 · 原书87页
+As an excellent example of the technique of invasion on the a-file might            早在上世纪末的伦敦国际象棋大会附属赛（1898年）中，马尔科—穆勒
+serve the ending of the game Marco-Muller, played as long ago as the end
+                                                                                    一局的收尾便出色展示了沿a线侵入的技术。
+of the last century (1898) in the accessory tournament of the international
+congress in London.
+
+
+CH3-7 · 原书87页                                                                       CH3-7 · 原书87页
+White has prepared the opening and occupation of the a-file.                        白方已经为打开并占据a线做好准备。
+
+CH3-8 · 原书88页                                                                       CH3-8 · 原书88页
+Now an immediate capture on b6 was also not bad. After 33. axb6 axb6 34.            此时立即在b6交换也不坏。白方若走33. axb6 axb6 34. Qa1! Rxa4 35.
+Qa1! Rxa4 35. Rxa4 the a-file would be in White's hands, which, in
+                                                                                    Rxa4，便可掌握a线；结合b6兵和e6兵的弱点，这最终应当为白方带来
+connection with the weakness of the b6 and e6 pawns, must in the end
+decide the game in his favour. And yethe reply 35... Rd7 would have                 胜利。不过，黑方以35... Rd7回应后仍可顽强防守。
+allowed Black to defend himself quite tenaciously.
+
+
+CH3-9 · 原书88页                                                                       CH3-9 · 原书88页
+Marco chose the best possibility:                                                   马可选择了最好的可能性：
+
+CH3-10 · 原书88页                                                                      CH3-10 · 原书88页
+33. Qa1! only now threatening axb6. In order not to lose a pawn, Black              33. Qa1!现在才威胁axb6。为了不损失一个棋子，黑方被迫将车带离a8
+is forced to take the rook away from the a8 square, after which White
+                                                                                    方格，之后白方吃掉a线棋子，保留所有重子。接下来是： 33... Rab8
+captures the a-file, retaining all the heavy pieces. There followed: 33...
+Rab8 34. axb6 axb6 35. Ra7+ Kh8 36. Rc7 Ra8 37. Raa7 Rxa7 38. Qxa7                  34. axb6 axb6 35. Ra7+ Kh8 36. Rc7 Ra8 37. Raa7 Rxa7 38. Qxa7
+
+
+
+
+                                                                                      2
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                         经校正的英文 OCR                                                                        中文初译
+
+CH3-11 · 原书88页                                                                 CH3-11 · 原书88页
+White has doubled on the seventh rank and this predetermines a quick end.      白方在第七横线翻倍，这预示着快速结束。
+
+CH3-12 · 原书88页                                                                 CH3-12 · 原书88页
+38... Rb8 39. Rh7+ Kg8 40. Rh6 Qe8 41. Qh7+ Kf8 42. Rxg6 1-0                   38... Rb8 39. Rh7+ Kg8 40. Rh6 Qe8 41. Qh7+ Kf8 42. Rxg6 1-0
+
+CH3-13 · 原书88页                                                                 CH3-13 · 原书88页
+In this example there were quiet conditions on the king's flank. The locked    在这个例子中，王翼条件很安静。锁定的兵链保护白王免受任何麻烦，
+pawn chain guarded the White king from any sort of trouble and he was
+                                                                               他能够将所有子力转移到a线。
+able to transfer all his forces to the a-file.
+
+
+CH3-14 · 原书88页                                                                 CH3-14 · 原书88页
+In the game Lasker-Showalter (Nirnberg 1896) the overall situation was         在 拉斯克-肖瓦尔特 对局（Nirnberg 1896）中，整体情况相当不同。
+rather different. Black has succeeded in opening the a-file with the pawn
+                                                                               黑方成功地以兵行进路线a5-a4xb3打开a线，占领它并用他的重子侵入
+march-route a5-a4xb3, captured it and invaded on the first and second ranks
+with his heavy pieces. Lasker endeavours to exploit as far as possible the     第一横线和第二横线。拉斯克努力尽可能地利用肖瓦尔特在整个行动中
+time spent by Showalter on the whole of this operation, to create counter      所花费的时间，对敌方王造成反击威胁，该威胁仍然在h8下
+threats againsthe enemy king, which remains on h8 under
+
+
+CH3-15 · 原书88页                                                                 CH3-15 · 原书88页
+cover of the pawn chain h7-g6-f5 and the knight e6. After White's 60th         兵链 h7-g6-f5 和马 e6 的封面。在白方第 60 手棋之后，这场战略上有
+move this strategically interesting game arrived athe following
+                                                                               趣的棋局到达了以下位置，这并不容易评估。
+position, which is not easy to evaluate.
+
+
+CH3-16 · 原书88页                                                                 CH3-16 · 原书88页
+Clouds hang over the White king but also White has his own chances. The        乌云笼罩着白王，但白方也有自己的机会。放置在d5上的马，转移到f6
+splendidly placed knight on d5, transferring to f6, opens the h1-a8 diagonal
+                                                                               ，为后打开h1-a8对角线。通过渗透到b7或c6，他能够对敌方王造成直
+for the queen. By penetratin on it to b7 or c6, he is able to create direct
+threats to the enemy king.                                                     接威胁。
+
+
+CH3-17 · 原书89页                                                                 CH3-17 · 原书89页
+There was a sharp and interesting development of events:                       事件发生了尖锐而有趣的发展：
+
+CH3-18 · 原书89页                                                                 CH3-18 · 原书89页
+60... Rb1 61. Nf6 Rh1                                                          60... Rb1 61. Nf6 Rh1
+
+CH3-19 · 原书89页                                                                 CH3-19 · 原书89页
+With the threat Qf1. However Black does not foresee the opponent's             带着威胁Qf1。然而黑方并没有预见到对手危险的反击。通过走61...
+dangerous counterattack. He could make a draw, but not more, by playing
+                                                                               Rg1+，他可以打平，但不能更多
+61... Rg1+
+
+
+CH3-20 · 原书89页                                                                 CH3-20 · 原书89页
+62. Bxg1 Qxg1+ 63. Kh3 Nxf4+ 64. Qxf4 Qh1+ 65. Kg3 Qg1+ 66. Kh3                62. Bxg1 Qxg1+ 63. Kh3 Nxf4+ 64. Qxf4 Qh1+ 65. Kg3 Qg1+ 66.
+Qh1+ etc. (67. Qh2 Qf1+). True, on 61... Rg1+ possible is 62. Kh2,
+                                                                               Kh3 Qh1+ 等（67. Qh2 Qf1+）。确实，在61... Rg1+上可能是62. Kh2
+buthen 62... Rf1 63. Rd2 Qe1 leads to a complicated position in which
+Black can apparently defend himself. Now, however, there comes an              ，但是62... Rf163. Rd2Qe1导致了一个复杂的局面，黑方显然可以为自
+immediate denouement. 62. Qb7 Ng7 63. Qf7 1-0                                  己辩护。然而，现在结局立即到来。62. Qb7 Ng7 63. Qf7 1-0
+
+CH3-21 · 原书89页                                                                 CH3-21 · 原书89页
+Could Black, instead of 60. Rb1, have played stronger? 60. Qc1 offered         黑方（而不是 60. Rb1）能否发挥更强？60. Qc1 提供了获胜的机会。如
+chances of a win. If 61
+                                                                               果 61
+
+CH3-22 · 原书89页                                                                 CH3-22 · 原书89页
+Nf6 then 61... Qc2 and there is only one more for White - the return of        Nf6 然后 61... Qc2，对于白方来说只有一个 - 马返回到 d5，因为 62.
+the knight to d5, since on 62. Bg1 follows 62. Qg2+. Black's further
+                                                                               Bg1 紧随 62. Qg2+。黑方的后续计划是这样的：
+plan is this:
+
+
+
+
+                                                                                 3
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                         经校正的英文 OCR                                                                              中文初译
+
+CH3-23 · 原书89页                                                                   CH3-23 · 原书89页
+to exchange queens by playing 62. Qe2, return the rook to b2 (in the event       通过打62Qe2交换后，将车返回b2（如果是63Qxe2），将王转移到f7，
+of 63. Qxe2), transfer the king to f7 and dispatch the knight to a5 to win the
+                                                                                 并派遣马到a5赢得b3兵。在卡帕布兰卡的创意作品中可以找到几个关于
+b3 pawn. Several instructive examples of play on the a-file can be found in
+the creative work of Capablanca.                                                 a线演奏的富有启发性的例子。
+
+
+CH3-24 · 原书89页                                                                   CH3-24 · 原书89页
+In a game with Treybal (Carlsbad 1929), Capablanca, playing White, after a       在与特雷巴尔（卡尔斯巴德，1929）的一场对局中，卡帕布兰卡扮演白
+protracted siege of the enemy position, succeeded, by locking the centre
+                                                                                 方，在对敌方阵地进行了长时间的围攻后，成功地锁定了中心和王翼，
+and the king's flank, in opening the a-file and invadin on it with the heavy
+pieces.                                                                          打开了a线并用重子入侵了它。
+
+
+CH3-25 · 原书89页                                                                   CH3-25 · 原书89页
+White easily controls the a-file. Black, locked up by White's powerful           白方轻松控制a线。黑方被白方强大的黑方七兵链锁住，不得不坚持等
+black-squared sevenpawn chain, is obliged to stick to waiting tactics. The
+                                                                                 待战术。唯一的问题是白方能否利用他的车在 a7 上不可避免的入侵。
+only question is whether White can exploithe inevitable invasion of his
+rook on a7.
+
+
+CH3-26 · 原书89页                                                                   CH3-26 · 原书89页
+The game continued:                                                              对局继续进行：
+
+CH3-27 · 原书89页                                                                   CH3-27 · 原书89页
+40. Ra1 Rc8                                                                      40. Ra1 Rc8
+
+CH3-28 · 原书89页                                                                   CH3-28 · 原书89页
+Useless is 40... Qa8 41. Qb2.                                                    无用的是40... Qa8 41. Qb2。
+
+CH3-29 · 原书89页                                                                   CH3-29 · 原书89页
+41. Qb4 Rhd8 42. Ra7 Kf8 43. Rhh1 Be8 44. Rha1 Kg8 45. R1a4 Kf8                  41. Qb4 Rhd8 42. Ra7 Kf8 43. Rhh1 Be8 44. Rha1 Kg8 45. R1a4 Kf8
+46. Qa3 Kg8
+                                                                                 46. Qa3 Kg8
+
+CH3-30 · 原书89页                                                                   CH3-30 · 原书89页
+White has invaded, placing his heavy pieces on the a-file in an ideal order      白方入侵了，将他的重子以理想的顺序放在a线上，后在后面，但是……
+with the queen behind, but... what next? The following manoeuvre with the
+                                                                                 接下来怎么办？以下与王的行动证明卡帕布兰卡仍未制定出明确的行动
+king testifies to the fact that Capablanca has still not put together a clear
+plan of action.                                                                  计划。
+
+
+CH3-31 · 原书89页                                                                   CH3-31 · 原书89页
+47. Kg3 Bd7 48. Kh4 Kh8 49. Qa1 Kg8 50. Kg3                                      47. Kg3 Bd7 48. Kh4 Kh8 49. Qa1 Kg8 50. Kg3
+
+CH3-32 · 原书89页                                                                   CH3-32 · 原书89页
+The king was poorly placed on h4; after the removal of the White knight          王在 h4 上的位置不佳；将白马从f3中移除后，g5上可能会出现弃子的
+from f3, there could arise the motive of a sacrifice on g5.
+                                                                                 可能。
+
+CH3-33 · 原书89页                                                                   CH3-33 · 原书89页
+50... Kf8 51. Kg2 Be8 52. Nd2                                                    50... Kf8 51. Kg2 Be8 52. Nd2
+
+CH3-34 · 原书90页                                                                   CH3-34 · 原书90页
+Everything becomes clear. Black has a weak pawn on b7; the White knight          一切都变得清晰起来。黑方在 b7 上有弱棋子；白马正前往a5。
+is headed for a5.
+
+
+CH3-35 · 原书90页                                                                   CH3-35 · 原书90页
+52... Bd7 53. Nb3 Re8 54. Na5 Nd8 55. Ba6! bxa6 56. Rxd7                         52... Bd7 53. Nb3 Re8 54. Na5 Nd8 55. Ba6! bxa6 56. Rxd7
+
+CH3-36 · 原书90页                                                                   CH3-36 · 原书90页
+The seventh rank is included in the zone of invasion.                            第七层，被纳入入侵范围。
+
+
+
+
+                                                                                   4
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                          经校正的英文 OCR                                                                        中文初译
+
+CH3-37 · 原书90页                                                                  CH3-37 · 原书90页
+56... Re7 57. Rxd8+ 1-0                                                         56... Re7 57. Rxd8+ 1-0
+
+CH3-38 · 原书90页                                                                  CH3-38 · 原书90页
+It is apparent from the ending thathe rook on a7 gave defensive help to the     从结局可以明显看出，他在a7上的车给轻子提供了防守帮助。问题是，
+minor pieces. The question arises whether White would have been able to
+                                                                                如果棋盘上只有重子，白方是否能够利用他在 a线空间上的巨大优势？
+exploit his enormous advantage in space on the a-file if there were only
+heavy pieces on the board? Alas, no. He would have nothing with which to        唉，不。他没有任何东西可以用来攻击 b7 棋子。
+attack the b7 pawn.
+
+
+CH3-39 · 原书90页                                                                  CH3-39 · 原书90页
+A good reply to this question might be gleaned from the concluding part of      对这个问题的一个很好的回答可以从1927年世界冠军赛卡帕布兰卡-阿
+the 25th game of the 1927 world championship match, Capablanca-
+                                                                                廖欣第25场对局的最后部分中得到。
+Alekhine.
+
+
+CH3-40 · 原书90页                                                                  CH3-40 · 原书90页
+26. b5 axb5                                                                     26. b5 axb5
+
+CH3-41 · 原书90页                                                                  CH3-41 · 原书90页
+Forced, otherwise White himself exchanges on a6 and invades on the b-file.      被迫，否则白方本人会在a6上交换并入侵b线。
+
+CH3-42 · 原书90页                                                                  CH3-42 · 原书90页
+27. axb5                                                                        27. axb5
+
+CH3-43 · 原书90页                                                                  CH3-43 · 原书90页
+On the face of it, it seems thathe a-file will even be occupied by Black, but   从表面上看，他的一字排甚至会被黑方占据，但这只是表面现象。
+this is only a semblance.
+
+
+CH3-44 · 原书90页                                                                  CH3-44 · 原书90页
+27... Bg6!                                                                      27... Bg6!
+
+CH3-45 · 原书90页                                                                  CH3-45 · 原书90页
+Anticipating future events, Alekhine forces an exchange of the last minor       预见到未来的事件，阿廖欣强制交换最后的轻子，以便更容易地随后防
+pieces in order to make easier the subsequent defence of the b7 pawn.
+                                                                                御 b7 棋子。
+
+CH3-46 · 原书90页                                                                  CH3-46 · 原书90页
+28. Bxg6 6. Qxg6 29. Ra1 Rac8                                                   28. Bxg6 6. Qxg6 29. Ra1 Rac8
+
+CH3-47 · 原书90页                                                                  CH3-47 · 原书90页
+On 29... Rcc8 White would win a pawn by replying 30. Rxa8                       在 29... Rcc8 白方将通过回复 30. Rxa8 赢得棋子
+
+CH3-48 · 原书90页                                                                  CH3-48 · 原书90页
+Rxa8 31. Qb6. 30. b6 Rd7 31. Ra7 Kh7 32. Rca1 f5 33. Qc2 Re7 34. g3             Rxa8 31. Qb6. 30. b6 Rd7 31. Ra7 Kh7 32. Rca1 f5 33. Qc2 Re7 34.
+Rce8
+                                                                                g3 Rce8
+
+CH3-49 · 原书90页                                                                  CH3-49 · 原书90页
+Black, for the present, does not threaten anything on the e-file, but also      目前，黑方不会对电子线造成任何威胁，而且白方也无法增加对b7棋子
+White cannot increase the pressure on the b7 pawn.
+                                                                                的压力。
+
+CH3-50 · 原书90页                                                                  CH3-50 · 原书90页
+35. Ra8 Re4 36. Rxe8 Rxe8 37. Ra7 Rb8 38. h4 h5 39. Kg2 Qe6 40. Qd3             35. Ra8 Re4 36. Rxe8 Rxe8 37. Ra7 Rb8 38. h4 h5 39. Kg2 Qe6 40.
+Kg6 41. Kh2 1/2-1/2.
+                                                                                Qd3 Kg6 41. Kh2 1/2-1/2.
+
+
+
+
+                                                                                  5
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                          经校正的英文 OCR                                                                          中文初译
+
+CH3-51 · 原书90页                                                                  CH3-51 · 原书90页
+Alekhine expressed the opinion that, instead of 26. b5, White should play at    阿廖欣表示，白方应该立即下26Ra1，而不是26b5，以避免交换象。在
+once 26. Ra1, in order to avoid the exchange of bishops. In this case he
+                                                                                这种情况下，他将有更多机会利用后翼的优势，但保留象也会增加黑方
+would have more chances of exploiting his advantage on the queen's flank,
+but retaining the bishops would also have increased the defensive resources     的防御资源，而且由于位置的开放性，黑方可以在中路和王翼组织反击。
+of Black, who, moreover, because of the open character of the position,
+could organise counterplay in the centre and on the king's flank.
+
+
+CH3-52 · 原书90–91页                                                               CH3-52 · 原书90–91页
+There is a sharper, but in return very keen, course of events when play on      当对手在王翼表现出主动性来反击 A 列对局时，会出现更尖锐但反过
+the a-file is countered with an initiative displayed by the opponent on the
+                                                                                来也非常敏锐的事件进程。有时，a线的对局会发展成真正的反击，当
+king's flank. At times play on the a-file will develop into a real
+counterattack, which, when combined with measures to defend one's own           与保卫己方王的措施相结合时，可以带来决定性的成功，特别是当对手
+king, can bring decisive success, particularly when the opponent is too         因对王翼的攻击而过于激动时。
+carried away by an attack on the king's flank.
+
+
+CH3-53 · 原书91页                                                                  CH3-53 · 原书91页
+So let us return to practical material.                                         那么让我们回到实际材料上来。
+
+CH3-54 · 原书91页                                                                  CH3-54 · 原书91页
+Bird's Opening                                                                  飞鸟开局
+
+CH3-55 · 原书91页                                                                  CH3-55 · 原书91页
+White:P.Evtifeev                                                                白方：P.叶夫季费耶夫
+
+CH3-56 · 原书91页                                                                  CH3-56 · 原书91页
+Black: D.Danushevsky                                                            黑方：D.达努舍夫斯基
+
+CH3-57 · 原书91页                                                                  CH3-57 · 原书91页
+(Petersburg 1909)                                                               （圣彼得堡，1909）
+
+CH3-58 · 原书91页                                                                  CH3-58 · 原书91页
+1. f4 d5 2. e3 c5 3. Nf3 Nf6 4. b3 Nc6 5. Bb2 e6                                1. f4 d5 2. e3 c5 3. Nf3 Nf6 4. b3 Nc6 5. Bb2 e6
+
+CH3-59 · 原书91页                                                                  CH3-59 · 原书91页
+In this opening White's plan consists of the following: by firmly controlling   在这个开局中，白方的计划包括以下内容：通过牢牢控制e5方格，获得
+the e5 square, to obtain a dominating position on the king's flank and then,
+                                                                                王翼的主导地位，然后通过在象b2、后和王之间建立协调的行动。
+by establishing a harmony of action between the bishop b2, queen and
+king's
+
+
+CH3-60 · 原书91页                                                                  CH3-60 · 原书91页
+rook (O-O, Rf1-f3-g3 or h3), to launch a direct attack on the enemy             车（O-O、Rf1-f3-g3或h3），对敌方王发起直接攻击。从反击这一计
+king. From the point of view of countering this plan Black plays the
+                                                                                划的角度来看，黑方的开局即使不是很弱，也是无攻击性的。黑方最好
+opening, if not weakly, then inoffensively. One of the best possibilities
+for Black is the development of the bishop on g7. Therefore in place of         的可能性之一是在 g7 上发展象。因此，代替 3 3... Nf6，值得考虑 g
+3 3... Nf6, worth considering g is 3... g6. Likewise Black does not need        是 3... g6。同样，黑方也不需要急于发展后马，以免让象在b5上钉住，
+to hurry with the development of the queen's knight, so as not to allow         或者首先通过...a6来阻止这个钉子。6. Be2
+the pin with the bishop on b5 or first of all to prevent this pin by... a6.
+6. Be2
+
+
+CH3-61 · 原书91页                                                                  CH3-61 · 原书91页
+Undoubtedly, more consistent was 6. Bb5 with a subsequent exchange of           毫无疑问，更一致的是6Bb5和随后的马交换，这使得白方能够更加牢
+the knight, which allows White to even more firmly consolidate himself on
+                                                                                固地巩固自己在中心e5点上。我们一次又一次地相信，有必要将国际象
+the central e5 point. We are time and again convinced of the need to link
+planning between the opening and central stage of the chess game.               棋对局的开场和中央阶段之间的规划联系起来。
+
+
+CH3-62 · 原书91页                                                                  CH3-62 · 原书91页
+6... Be7 7. O-O O-O 8. Qe1 b6 9. Ne5                                            6... Be7 7. O-O O-O 8. Qe1 b6 9. Ne5
+
+
+
+
+                                                                                  6
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                          经校正的英文 OCR                                                                          中文初译
+
+CH3-63 · 原书91页                                                                     CH3-63 · 原书91页
+At least a premature thrust. Both now and on the following move he should          至少是过早的推力。现在和接下来的步他都应该选择 d3，因为 e5 上的
+prefer d3, since an exchange on e5 only plays into Black's hands.
+                                                                                   交换只对黑方有利。
+
+CH3-64 · 原书91页                                                                     CH3-64 · 原书91页
+9... Bb7? 10. Qg3 Ne4                                                              9... Bb7? 10. Qg3 Ne4
+
+CH3-65 · 原书91页                                                                     CH3-65 · 原书91页
+Both opponents play not planned, but separate moves. Instead of 10. Qg3 it         两个对手都没有计划，而是分开走棋。必须首先走 10. d3，而不是 10.
+was necessary to play at first 10. d3, so as, on 10... d4, to have the reply e4.
+                                                                                   Qg3，以便在 10... d4 上得到回复 e4。然而，黑方可以利用有利的条件
+However, Black could exploithe favourable conditions and begin an
+offensive in the centre by... d4. Possibly, he feared 11. Bf3, buthe following     并通过...d4在中间开始进攻。可能他害怕 11. Bf3，但以下变化表明根本
+variation shows thathere were no grounds at all for “"fright": 11.                 没有理由“害怕”：11。
+
+CH3-66 · 原书91页                                                                     CH3-66 · 原书91页
+Nd5 12. e4 Nxe5 13. fxe5 Nb4 14. Na3 a6 with a clear plan of a pawn                Nd5 12. e4 Nxe5 13. fxe5 Nb4 14. Na3 a6 有明确的棋子向后侧推进的
+advance on the queen's flank, or 12. Nxc6 Bxc6 13. exd4 (13. e4? Bh4
+                                                                                   计划，或 12. Nxc6 Bxc6 13. exd4 (13. e4?Bh4 14. Qg4? f5 15. exf5
+14. Qg4? f5 15. exf5 exf5 16. Bxd5+ Qxd5! with a decisive superiority)
+13... Bh4 14. Qh3 Bf6 and Black obviously stands better and holds the              exf5 16. Bxd5+ Qxd5! 具有决定性优势) 13... Bh4 14. Qh3 Bf6 黑方明
+initiative. The transfer of the knight from f6 to d6, and the bishop to f6,        显占优，占据主动。将马从f6转移到d6，将象转移到f6，而不是这样做
+carried out instead of this, is also not bad, but it solves only one               ，也不错，但它只解决了一个特定问题。11. Qh3 Bf6 12. d3 Nd6 13.
+particular problem. 11. Qh3 Bf6 12. d3 Nd6 13. Nd2
+                                                                                   Nd2
+
+CH3-67 · 原书92页                                                                     CH3-67 · 原书92页
+He should wait a little with this natural and even necessary move, which           对于这个自然的、甚至是必要的、出于具体考虑的举动，他应该稍等一
+springs from concrete considerations. As will be seen from the note to
+                                                                                   下。从黑方回复的注释中可以看出，现在通过下g4来关闭对手马的f5方
+Black's move in reply, it would have been very useful now to close down
+the f5 square for the opponent's knight by playing g4.                             格是非常有用的。
+
+
+CH3-68 · 原书92页                                                                     CH3-68 · 原书92页
+13... d4?                                                                          13... d4?
+
+CH3-69 · 原书92页                                                                     CH3-69 · 原书92页
+Side by side with the 21st move, Black's most serious positional mistake in        与第21手并列，是黑方本局最严重的位置错误。确实，不可否认的是，
+the present game. True, there is no denying that he has a certain planning
+                                                                                   他对自己的对局有一定的计划。他打算在后的侧翼推进一个宽阔的棋子
+for his game. He intends a broad pawn advance on the queen's flank,
+projecting it on the theme of play on the a-file. However, upon this, Black        ，将其投射到a字线上的对局主题上。然而，在此基础上，黑方对白方
+makes a very superficial calculation of White's attacking possibilities on the     在王翼侧翼的进攻可能性进行了非常肤浅的计算，并通过最后一步消除
+king's flank and, by eliminating the pawn tension in the centre himself with       了中间的兵紧张，让白方可以在棋盘的该区域自由行动。这个错误必定
+his last move, leaves White free to act in that sector of the board. This
+                                                                                   会带来致命的后果。
+mistake must have fatal consequences.
+
+
+CH3-70 · 原书92页                                                                     CH3-70 · 原书92页
+Meanwhile, Black had at his disposal an interesting possibility -                  与此同时，黑方拥有一个有趣的可能性——
+
+CH3-71 · 原书92页                                                                     CH3-71 · 原书92页
+13... Bxe5, and White has to think carefully before deciding                       13... Bxe5，白方必须仔细考虑后再决定
+
+CH3-72 · 原书92页                                                                     CH3-72 · 原书92页
+how to recapture the bishop. If, for example, 14. Bxe5, then 14                    如何夺回象。例如，如果 14. Bxe5，则 14
+
+CH3-73 · 原书92页                                                                     CH3-73 · 原书92页
+Nxe5 15. fxe5 Nf5 and on 16. g4 follows 16... ( Qh4, while on 16. Bg4              Nxe5 15. fxe5 Nf5 和 16. g4 紧随 16...( Qh4，而 16. Bg4 足够好的是
+good enough is 16... Nh6. The sacrifice of the exchange is doubtful in
+                                                                                   16... Nh6。鉴于 17... Bc8 或 17，交换的牺牲值得怀疑
+view of 17... Bc8 or 17
+
+
+
+
+                                                                                     7
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                          经校正的英文 OCR                                                                          中文初译
+
+CH3-74 · 原书92页                                                                    CH3-74 · 原书92页
+Qe7. The same consideration applies also to the variation 14. fxe5 Nf5,           Qe7。同样的考虑也适用于变化 14. fxe5 Nf5，只有在这种情况下，弃
+only in this situation the exchange sacrifice promises White rather more
+                                                                                  半子才给白方带来更多机会，因为 b2 上的象仍然存在，尽管在 15.
+chances, since the bishop on b2 is still present, though after 15. Rxf5 exf5
+16. Qxf5                                                                          Rxf5 exf5 16. Qxf5 之后
+
+
+CH3-75 · 原书92页                                                                    CH3-75 · 原书92页
+Bc8 17. Qh5 Ne7 Black has quite a solid position.                                 Bc8 17. Qh5 Ne7 黑方的地位相当稳固。
+
+CH3-76 · 原书92页                                                                    CH3-76 · 原书92页
+However, none of this happens and Black's game begins to go downhill.             然而，这一切都没有发生，黑方的棋局开始走下坡路。
+
+CH3-77 · 原书92页                                                                    CH3-77 · 原书92页
+14. Nxc6 Bxc6 15. e4 e5                                                           14. Nxc6 Bxc6 15. e4 e5
+
+CH3-78 · 原书92页                                                                    CH3-78 · 原书92页
+On top of everything else, admittedly already in the worse position, Black        最重要的是，不可否认，黑方已经处于更糟糕的位置，黑方允许对手切
+allows the opponent to cut off all his forces from the king's flank and
+                                                                                  断其所有子力与王翼的联系，并对王发起不可抗拒的攻击。15... Be7 更
+develop an irresistible attack on the king. 15... Be7 was better.
+                                                                                  好。
+
+CH3-79 · 原书92页                                                                    CH3-79 · 原书92页
+16. f5 Bg5                                                                        16. f5 Bg5
+
+CH3-80 · 原书92页                                                                    CH3-80 · 原书92页
+The bishop will invade on the third rank, but alas it turns out here to be only   象将入侵第三级，但可惜的是，这里只是“一天的哈里发”。
+"a caliph for a day".
+
+
+CH3-81 · 原书92页                                                                    CH3-81 · 原书92页
+17. Nf3 Be3+ 18. Kh1 f6 19. Bc1 Bxc1                                              17. Nf3 Be3+ 18. Kh1 f6 19. Bc1 Bxc1
+
+CH3-82 · 原书92页                                                                    CH3-82 · 原书92页
+Black cannot hold his ground on e3. For example, 19... Nb5 20. Ng1,               黑方无法在 e3 上坚守阵地。例如19... Nb520Ng1，再次用后攻击象。
+attacking the bishop again with the queen.
+
+
+CH3-83 · 原书92页                                                                    CH3-83 · 原书92页
+20. Raxc1 b5                                                                      20. Raxc1 b5
+
+CH3-84 · 原书92–93页                                                                 CH3-84 · 原书92–93页
+Black begins to carry out his plan of attack on the queen's flank. On an          黑方开始执行他对后翼的攻击计划。立即 20... a5 后面可以跟着 21. a4。
+immediate 20... a5 could follow 21. a4. But now he intends to take the
+                                                                                  但现在他打算走路线——行军1... a5a4xb3。然而，白方的进攻必须更快
+route-march 1... a5 a4xb3. However, White's attack must achieve its
+objective quicker.                                                                地达到目的。
+
+
+CH3-85 · 原书93页                                                                    CH3-85 · 原书93页
+21. Nh4?                                                                          21. Nh4?
+
+CH3-86 · 原书93页                                                                    CH3-86 · 原书93页
+In pursuit of beautiful incidental threats, like Ng6, White makes an              为了追求美丽的附带威胁，例如Ng6，白方对局面做出了错误的评估。
+incorrect assessment of the position. You see, he cannot break the defensive
+                                                                                  你看，他无法仅靠一身攻击来突破王翼黑方的防线。白方选择了一个不
+line of Black pawns on the king's flank with just a onepiece attack. White
+chooses san unrealistic plan, his idea is not sufficiently concrete. He should,   切实际的计划，他的想法不够具体。然而，他应该走 21. g4，如果是
+however, play 21. g4 and if 21.                                                   21。
+
+                          经校正的英文 OCR                                                                          中文初译
+
+CH3-87 · 原书93页                                                                    CH3-87 · 原书93页
+Nf7, then 22. Qg3. There mighthen follow: 22... h6 23. h4 a5 24. Rf2 a4           Nf7，然后 22. Qg3。可能如下： 22... h6 23. h4 a5 24. Rf2 a4 25. Rg1
+25. Rg1 axb3 26. axb3 Ra2 27. g5! hxg5 28. hxg5 Rxc2 29. Rh2 fxg5 30.
+
+
+
+                                                                                    8
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                          经校正的英文 OCR                                                                            中文初译
+
+Qh3 Nh6 31. Rxg5 with numerous threats. 21... Be8                                  axb3 26. axb3 Ra2 27. g5! hxg5 28. hxg5 Rxc229. Rh2 fxg5 30. Qh3
+                                                                                   Nh6 31. Rxg5 有许多威胁。21... Be8
+
+CH3-88 · 原书93页                                                                     CH3-88 · 原书93页
+The move Ng6 threatens nothing, if, of course, Black does not accepthe             当然，如果黑方不接受牺牲，那么走Ng6不会有任何威胁，因此可以在
+sacrifice, and therefore possible, without losing it was time, to play 21... a5.
+                                                                                   不失去时机的情况下下棋21... a5。有时，步的选择可以用棋手的风格来
+Sometimes the choice of a move can be explained by the style of a
+chessplayer. And Danushevsky was an extraordinarily careful chessplayer,           解释。达努舍夫斯基是一位非常谨慎的棋手，他从不错过任何加强防线
+who never missed an opportunity to strengthen his lines of defence, even if        的机会，即使没有直接的需要。
+there was no direct need for this.
+
+
+CH3-89 · 原书93页                                                                     CH3-89 · 原书93页
+22. Qg4 a5 23. Rf3 a4                                                              22. Qg4 a5 23. Rf3 a4
+
+CH3-90 · 原书93页                                                                     CH3-90 · 原书93页
+Now even Danushevsky pays no attention to White's attack. His plan is              现在就连达努舍夫斯基也不再理会白方的进攻了。他的计划是建立在沙
+build on sand.
+                                                                                   子上的。
+
+CH3-91 · 原书93页                                                                     CH3-91 · 原书93页
+24. Rh3                                                                            24. Rh3
+
+CH3-92 · 原书93页                                                                     CH3-92 · 原书93页
+White still cherishes the hope of playing after 24... axb3 25. axb3                白方仍怀有在24... axb325axb3之后下棋的希望
+
+CH3-93 · 原书93页                                                                     CH3-93 · 原书93页
+Ra2 26. Ng6 Rf7? 27. Rxh7 or 26... Bxg6 27. fxg6 h6 28. Qe6+ Kh8 29.               Ra2 26. Ng6 Rf7? 27. Rxh7 或 26... Bxg6 27. fxg6 h6 28. Qe6+ Kh8
+b4! With his reply, Black destroys even this modest hope, after which
+                                                                                   29. b4! 随着他的回答，黑方甚至摧毁了这个微不足道的希望，之后王
+the crowd of White pieces on the king's flank proves to be absolutely
+useless.                                                                           侧的白方群被证明是绝对的无用。
+
+
+CH3-94 · 原书93页                                                                     CH3-94 · 原书93页
+Convinced of the failure of his plan of attack, Evtifeev begins a retreat on       叶夫季费耶夫确信自己的进攻计划失败了，他开始全线撤退，并急忙将
+all lines and hurries to transfer his pieces back from the king's flank.
+                                                                                   棋子从王翼转移回来。与此同时，黑方占据主动，沿a线侵入敌方阵营。
+Meanwhile Black seizes the initiative and invades the enemy camp along
+the a-file.
+
+
+CH3-95 · 原书93页                                                                     CH3-95 · 原书93页
+24... Qd7! 25. Qg3 axb3 26. axb3 Ra2 27. Qe1                                       24... Qd7! 25. Qg3 axb3 26. axb3 Ra2 27. Qe1
+
+CH3-96 · 原书93页                                                                     CH3-96 · 原书93页
+Nothing was offered by 27. Ng6                                                     27. Ng6 没有提供任何内容
+
+CH3-97 · 原书93页                                                                     CH3-97 · 原书93页
+Bxg6 28. fxg6 h6 29. Bg4 Qe7. 27... Qa7 28. Rf3 Bf7 29. Rf1 Ra8 30. Nf3            Bxg6 28. fxg6 h6 29. Bg4 Qe7. 27... Qa7 28. Rf3 Bf7 29. Rf1 Ra8 30.
+                                                                                   Nf3
+
+CH3-98 · 原书93–94页                                                                  CH3-98 · 原书93–94页
+White's pieces return to the same positions from where they began the              白方棋子回到十步前开始进攻时的位置！他成功地避免了子力损失，但
+offensive ten moves ago! He has succeeded in avoiding material loss, but in
+                                                                                   换来的却是严重的地位损失。黑方已打开并占领了a线，他的车已入侵
+return the positional losses he has suffered are serious. Black has opened
+and captured the a-file, his rook has invaded on a2, he threatens... c4 and        a2，他威胁... c4 并沿第二列延伸入侵。
+the extending of the invasion along the second rank.
+
+
+CH3-99 · 原书94页                                                                     CH3-99 · 原书94页
+30... Qa5 31. Qd1 Qc3                                                              30... Qa5 31. Qd1 Qc3
+
+
+
+
+                                                                                     9
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                         经校正的英文 OCR                                                                      中文初译
+
+CH3-100 · 原书94页                                                              CH3-100 · 原书94页
+Systematic, but a rather slow way of realising the advantage. More           系统化，但实现优势的方式相当缓慢。更有活力的是31... c4 32
+energetic was 31... c4 32
+
+
+CH3-101 · 原书94页                                                              CH3-101 · 原书94页
+bxc4 bxc4 33. Rb1 Qc3 34. Ne1 cxd3, or 33. g4 Rb8 34. Ra1 Rbb2. 32.          bxc4 bxc4 33. Rb1 Qc3 34. Ne1 cxd3, or 33. g4 Rb8 34. Ra1 Rbb2.
+g4
+                                                                             32. g4
+
+CH3-102 · 原书94页                                                              CH3-102 · 原书94页
+White hurls himself into the attack 11 moves late and in far worse           白方在第 11 步棋后投入进攻，而且条件比第 21 步棋差得多，但这是
+conditions than on the 21st move, but this is his last and only chance of
+                                                                             他最后也是唯一的自救机会。正如他们所说，迟到总比不到好。
+saving himself. As they say, better late than never.
+
+
+CH3-103 · 原书94页                                                              CH3-103 · 原书94页
+32... Rb2 33. g5 Raa2                                                        32... Rb2 33. g5 Raa2
+
+CH3-104 · 原书94页                                                              CH3-104 · 原书94页
+A colourful and instructive scene of invasion!                               丰富多彩且富有启发性的入侵场景！
+
+CH3-105 · 原书94页                                                              CH3-105 · 原书94页
+34. gxf6 gxf6 35. Ne1                                                        34. gxf6 gxf6 35. Ne1
+
+CH3-106 · 原书94页                                                              CH3-106 · 原书94页
+White counts on sharpening the game by Bh5.                                  白方指望通过 Bh5 锐化对局。
+
+CH3-107 · 原书94页                                                              CH3-107 · 原书94页
+35... Kf8 36. Rg1?                                                           35... Kf8 36. Rg1?
+
+CH3-108 · 原书94页                                                              CH3-108 · 原书94页
+One of those unfortunate mistakes, which is usually provoked by too great    这是不幸的错误之一，通常是由于斗争的张力太大而引起的。36. Bh5
+tension of struggle. After 36. Bh5 Black would still have experienced some
+                                                                             黑方之后仍然会遇到一些麻烦。
+trouble.
+
+
+CH3-109 · 原书94页                                                              CH3-109 · 原书94页
+Thus, if 36... Bxb3, then 37. Qg4 and White, threatening Rg1, obtains        因此，如果36... Bxb3，则37. Qg4和白方威胁Rg1，获得攻击。尽管如
+an attack. Nevertheless even
+                                                                             此，即使
+
+CH3-110 · 原书94页                                                              CH3-110 · 原书94页
+the attempt 36. Bh5 would prove unsuccessful, if Black were to then simply   如果黑方继续 36... c4 37. Bxf7，尝试 36. Bh5 将被证明是不成功的
+continue 36... c4 37. Bxf7
+
+
+CH3-111 · 原书94页                                                              CH3-111 · 原书94页
+Nxf7 38. bxc4 bxc4 39. dxc4 Qe3, winning the e4 pawn and the game.           Nxf7 38. bxc4 bxc4 39. dxc4 Qe3，赢得 e4 棋子并赢得对局。36...
+36... Bxb3!
+                                                                             Bxb3!
+
+CH3-112 · 原书94页                                                              CH3-112 · 原书94页
+White overlooked this reply. On 37. cxb3 follows 37... Rxe2, threatening     白忽略了这个答复。37 号 cxb3 跟随 37... Rxe2，一举威胁配偶。
+mate in one move.
+
+
+CH3-113 · 原书94页                                                              CH3-113 · 原书94页
+37. Bh5                                                                      37. Bh5
+
+CH3-114 · 原书94页                                                              CH3-114 · 原书94页
+So as, on 37... Bxc2, to reply                                               因此，在 37... Bxc2 上回复
+
+
+
+
+                                                                              10
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                         经校正的英文 OCR                                                                         中文初译
+
+CH3-115 · 原书94页                                                                CH3-115 · 原书94页
+38. Qg4. 37... Nxe4!                                                           38. Qg4. 37... Nxe4!
+
+CH3-116 · 原书94页                                                                CH3-116 · 原书94页
+A beautiful and decisive blow. Nf2+ is threatened.                             美丽而决定性的一击。Nf2+受到威胁。
+
+CH3-117 · 原书94页                                                                CH3-117 · 原书94页
+38. dxe4                                                                       38. dxe4
+
+CH3-118 · 原书94页                                                                CH3-118 · 原书94页
+White also has at his disposal the move 38. Qf3, but after 38...               白方还可以使用 38. Qf3 步，但在 38 步之后...
+
+CH3-119 · 原书94页                                                                CH3-119 · 原书94页
+Bd5! 39. dxe4 Qxf3+ 40. Bxf3 Bc6, despite the extra piece he remains           Bd5! 39. dxe4 Qxf3+ 40. Bxf3 Bc6，尽管有额外的棋子，他仍然无力对
+powerless againsthe threatening avalanche of Black pawns on the
+                                                                               抗后翼黑方的威胁，例如 41. Rg2 c4 42. Kg1 b4 43. Kf1 b344 cxb3
+queen's flank, for example 41. Rg2 c4 42. Kg1 b4 43. Kf1 b3 44. cxb3
+Rxg2 45. Bxg2 c3 etc. 38... Bxc2 39. Nxc2 Rxc2 40. Rxc2 Qxc2 41. Qxc2          Rxg2 45. Bxg2 c3 等 38... Bxc2 39. Nxc2 Rxc2 40. Rxc2 Qxc2 41.
+Rxc2                                                                           Qxc2 Rxc2
+
+CH3-120 · 原书94页                                                                CH3-120 · 原书94页
+An endgame is reached in which Black's three connected passed pawns            到了残局，黑方的三个相连的传兵让白方没有希望。他出于惯性又抵抗
+leave White no hope. He resists for a few more moves out of inertia.
+                                                                               了几招。
+
+CH3-121 · 原书94页                                                                CH3-121 · 原书94页
+42. Rb1 b4 43. Bd1 d3 44. Kg1 Ke7 45. h3 Kd6 46. Kf1 Kc6 47. Rb3 Rc3           42. Rb1 b4 43. Bd1 d3 44. Kg1 Ke7 45. h3 Kd6 46. Kf1 Kc6 47. Rb3
+48. Ke1 Kb5 49. Kd2 Rxb3 50. Bxb3 c4 0-1
+                                                                               Rc3 48. Ke1 Kb5 49. Kd2 Rxb3 50. Bxb3 c4 0-1
+
+CH3-122 · 原书94–95页                                                             CH3-122 · 原书94–95页
+In this most complicated and interesting game one circumstance attracts our    在这个最复杂、最有趣的对局中，有一个情况引起了我们的注意。黑方
+attention. Black's most serious mistake, which might have led to his defeat,
+                                                                               最严重的错误（可能导致其失败）是第 13 步...d4，但正是 d4 棋子才是
+was the 13th move... d4, and yet it is precisely the d4 pawn which is the
+cornerstone of his successful pawn advance on the queen's flank! Thus,         他成功向后侧推进的基石！因此，由于棋盘上局势的变化，糟糕的举动
+because of the changing situation on the board, a bad move is converted        会转化为相反的举动。这是辩证法的表现之一，是象棋中有机固有的。
+into justhe opposite. This is one of the manifestations of dialectics,
+organically inherent in chess.
+
+
+CH3-123 · 原书95页                                                                CH3-123 · 原书95页
+We look at one more game, perhaps the most brilliant illustration of play on   我们再看看另一场对局，这也许是a线对局中最精彩的例证，以及重子
+the a-file, and the dangerous eensuing consequence from an invasion on it
+                                                                               子入侵它所带来的危险后果。
+with heavy pieces.
+
+
+CH3-124 · 原书95页                                                                CH3-124 · 原书95页
+English Opening                                                                英格兰开局
+
+CH3-125 · 原书95页                                                                CH3-125 · 原书95页
+White: M.Yudovich                                                              白方：M.尤多维奇
+
+CH3-126 · 原书95页                                                                CH3-126 · 原书95页
+Black: V.Alatortsev                                                            黑方：V.阿拉托采夫
+
+CH3-127 · 原书95页                                                                CH3-127 · 原书95页
+(Semi-fina1, 14th USSR Championship 1944)                                      （1944年第14届苏联锦标赛半决赛1）
+
+CH3-128 · 原书95页                                                                CH3-128 · 原书95页
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. e3 d6 5. d4 Be7 6. Be2 O-O 7. O-O Re8        1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. e3 d6 5. d4 Be7 6. Be2 O-O 7. O-O
+8. b3 Bg4 9. Bb2 Bf8 10. h3 Bh5
+                                                                               Re8 8. b3 Bg4 9. Bb2 Bf8 10. h3 Bh5
+
+
+
+                                                                                11
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                          经校正的英文 OCR                                                                          中文初译
+
+CH3-129 · 原书95页                                                                    CH3-129 · 原书95页
+Strictly speaking, for the present, both opponents still have no rea1,             严格来说，目前双方还没有真正的、深思熟虑的计划。他们谨慎地操纵
+contemplated plans. They manoeuvre e with circumspection, attempting to
+                                                                                   ，试图将棋子和棋子的行动集中在中心方格周围，并在粗略的考虑下指
+concentrate the action of the pieces and pawns around the central squares,
+and are guided in their actions by rough considerations.                           导他们的行动。
+
+
+CH3-130 · 原书95页                                                                    CH3-130 · 原书95页
+11. Re1                                                                            11. Re1
+
+CH3-131 · 原书95页                                                                    CH3-131 · 原书95页
+Carried away by manoeuvering, White overlooks the loss of a pawn.                  白方被策略冲昏了头脑，忽视了棋子的损失。
+
+CH3-132 · 原书95页                                                                    CH3-132 · 原书95页
+11... e4                                                                           11... e4
+
+CH3-133 · 原书95页                                                                    CH3-133 · 原书95页
+The pawn is won in this way: 11                                                    棋子是这样赢的：11
+
+CH3-134 · 原书95页                                                                    CH3-134 · 原书95页
+. Bxf3 12. Bxf3 (in order to save the pawn, it is necessary to play 12.            。Bxf3 12. Bxf3 （为了保住棋子，必须下 12. gxf3，但是，在 12...
+gxf3, but, after 12... exd4 13. exd4 Nh5, Black has an advantage which
+                                                                                   exd4 13. exd4 Nh5 之后，黑方有比棋子更有价值的优势） 12... exd4
+is worth more than a pawn) 12... exd4 13. exd4 Rxel+ 14. Qxe1 Nxd4
+15. Bxb7 Nc2 16. Qd1 Nxa1 17. Bxa8 Nxb3. However it is very difficult              13. exd4 Rxel+ 14. Qxe1Nxd4 15. Bxb7 Nc2 16. Qd1 Nxa1 17. Bxa8
+to capitalise on this gain after 18. Nd5! Nxd5 19. Bxd5 Nc5 20. Bd4. It is         Nxb3。然而，在18. Nd5! Nxd5 19. Bxd5 Nc5 20. Bd4之后很难利用这
+possible that Black, not wishing to be content with a draw, deliberately           一收益。黑方可能不希望满足于平局，故意拒绝了这种变化，意图在
+rejected this variation, intending to create a potentially weak square on
+                                                                                   d3 上创建一个潜在的弱方格并限制象 b2 的活动。这仍然不是计划，但
+d3 and limithe activity of the bishop b2. This is still not a plan, but
+already preparatory action for the plan. 12. Nh2 Bxe2 13. Qxe2 d5!                 已经是计划的准备行动。12. Nh2 Bxe2 13. Qxe2 d5!
+
+
+CH3-135 · 原书95–96页                                                                 CH3-135 · 原书95–96页
+White's queen's bishop is now seriously cramped, Black has succeeded in            白方的后象现在严重局促，黑方在e4的中心成功组织了一个强大的兵前
+organising a strong pawn outpost in the centre on e4, the position of his
+                                                                                   哨，其棋子的位置明显更好，机动...Nb4-d3，随着马在弱方的建立，受
+pieces is obviously better, the manoeuvre... Nb4-d3, with the establishment
+of the knight on the weak square, is threatened. The principal events,             到威胁。然而，主要活动必须在市中心举行。
+however, must take place in the centre.
+
+
+CH3-136 · 原书96页                                                                    CH3-136 · 原书96页
+The d5 square - this is the point to which the attention of the opponents          d5方格——这是对手注意力必须集中的地方。d5 棋子支持 e4 棋子，如
+must be riveted. The d5 pawn supports the e4 pawn, and if Black succeeds
+                                                                                   果黑方在将马从该方格中移除后成功地走... c6，那么这将大大增强他的
+in playing... c6 after removing the knight from that square, then this would
+considerably strengthen his central pawn group. Consolidation of the centre        中央棋子组。巩固中心并入侵d3——这是黑方计划第一阶段的内容。由
+and an invasion on d3 - this is the content of the first stage of Black's plan.l   此而来的是白方的下一个任务：阻止对手的这种意图。他可以通过第14
+From this follows White's next task: to prevent this intention of the              步Ng4增加他对d5点的影响力。
+opponent. He can increase his influence over the d5 point by the move 14.
+Ng4.
+
+
+CH3-137 · 原书96页                                                                    CH3-137 · 原书96页
+Since... dxc4 would be a violation of Black's whole plan, there remains 14...      由于……dxc4会违反黑方的整个计划，因此还剩下14... Nxg4，其中至少
+Nxg4, on which there are at least 3. continuations
+                                                                                   有3个延续
+
+CH3-138 · 原书96页                                                                    CH3-138 · 原书96页
+for White - Qxg4, hxg4 and cxd5, leading to complicated variations in              白方 - Qxg4、hxg4和cxd5，导致复杂的变化，对手必须解决一系列新
+which the opponent would have to solve a series of new problems, for
+                                                                                   问题，例如15. Qxg4 Ne7 16. cxd5 f5 17. Qe2 Nxd5 18. Qc4 c6 19.
+example 15. Qxg4 Ne7 16. cxd5 f5 17. Qe2 Nxd5 18. Qc4 c6 19. Racl etc.
+                                                                                   Racl等。
+
+CH3-139 · 原书96页                                                                    CH3-139 · 原书96页
+Even 14. a3, barring the way of the Black knight to d3, with the possible          甚至14个a3，阻止黑马通往d3的道路，并可能继续14... Na5
+continuation 14... Na5
+
+
+
+
+                                                                                    12
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                         经校正的英文 OCR                                                                               中文初译
+
+CH3-140 · 原书96页                                                                  CH3-140 · 原书96页
+15. Qc2 dxc4 16. bxc4 Nxc4 17. Nxe4 Nxb2 18. Nxf6+ Qxf6 19. Qxb2                 15. Qc2 dxc4 16. bxc4 Nxc4 17. Nxe4 Nxb2 18. Nxf6+ Qxf6 19.
+Qb6 20. Qc3, would be better than what happens in the game. 14. Rad1
+                                                                                 Qxb2 Qb6 20. Qc3，会比对局中发生的情况更好。14. Rad1
+
+CH3-141 · 原书96页                                                                  CH3-141 · 原书96页
+A planless move, not pursuing any kind of objective and not guided by a          这是一种无计划的举动，不追求任何目标，也不以具体想法为指导。此
+concrete idea. Further- more it is unsatisfactory because it does not
+                                                                                 外，它并不令人满意，因为它不能阻止黑马渗透到较弱的d3方格。
+preventhe penetration of the Black knight to the weak d3 square.
+
+
+CH3-142 · 原书96页                                                                  CH3-142 · 原书96页
+But what guided White in making his last move? It seems he simply                但是是什么引导白方做出最后一步呢？看来他只是决定将车从不活动的
+decided to transfer the rook from the corner square a1, where it is inactive,
+                                                                                 角落方格a1转移到无疑更好的中心方格d1。
+to an undoubtedly better central square d1.
+
+
+CH3-143 · 原书96页                                                                  CH3-143 · 原书96页
+There will be positions (particularly in the opening stage) in which such a      在某些情况下（特别是在开放阶段），基于一般考虑，这种活动方法是
+method of activity, based on general considerations, is fully justified.
+                                                                                 完全合理的。然而，即使在严格的位置条件下，通常也有足够的材料用
+However, even in strictly positional conditions, there is usually sufficient
+material for a concrete play, for the performing and completion of a task        于具体的对局，用于基于变化的计算来执行和完成任务。这完全适用于
+based on the calculation of variations. This applies wholly to the present       当前的对局。
+game.
+
+
+CH3-144 · 原书96页                                                                  CH3-144 · 原书96页
+14... Nb4! 15. Rf1 c6 16. Ng4 Nxg4 17. Qxg4 Nd3 18. Ba1                          14... Nb4! 15. Rf1 c6 16. Ng4 Nxg4 17. Qxg4 Nd3 18. Ba1
+
+CH3-145 · 原书96页                                                                  CH3-145 · 原书96页
+White's position is considerably worse, buthe main thing is that he has no       白方的处境要差得多，但最重要的是，由于马出现在他的子力的正中心
+prospects at all with the presence of the knight in the very centre of his
+                                                                                 ，他根本没有任何前景。因此，一个勇敢的解决方案是弃半子 18.
+army. Therefore a courageous solution would be to sacrifice the exchange
+18. Rxd3 exd3 19. Qd1. The splinter would be removed and White could             Rxd3 exd3 19. Qd1。碎片将被移除，白方可以进行顽强的抵抗。相反，
+put up a stubborn resistance. Instead of this he prefers to dra on a miserable   他宁愿过着悲惨的生活。
+existence.
+
+
+CH3-146 · 原书96页                                                                  CH3-146 · 原书96页
+18... g6 19. f4 f5 20. Qe2 Bb4                                                   18... g6 19. f4 f5 20. Qe2 Bb4
+
+CH3-147 · 原书96–97页                                                               CH3-147 · 原书96–97页
+With the intention of exchanging the only piece capable of Ousting the           目的是交换唯一能够将马驱逐出d3的棋子，从而使他自己成为固定的“
+knight from d3, and thereby himself the securing "eternal" knight. And yet
+                                                                                 永恒”马。而且还更好
+better
+
+
+CH3-148 · 原书97页                                                                  CH3-148 · 原书97页
+was 20... b6 or... Qa5. 21. Qc2?                                                 是 20... b6 或... Qa5。21. Qc2?
+
+CH3-149 · 原书97页                                                                  CH3-149 · 原书97页
+But it is difficult to leave this move without a question mark. White again      但很难不给这一举动打上问号。白方再次无视对手的意图，毫无计划地
+ignores the opponent's intention and plays without a plan. 21. Na4 was
+                                                                                 下棋。21. Na4 是必要的，并带有威胁 Nb2。如果 21. Ba3 跟随 22.
+necessary, with the threat Nb2. In the event of 21. Ba3 follows 22. Nc5!
+Nxc5 23                                                                          Nc5! Nxc5 23
+
+
+CH3-150 · 原书97页                                                                  CH3-150 · 原书97页
+dxc5 Bxc5 24. cxd5 cxd5 25. Kh1 with the dangerous threat Qb2. If,               dxc5 Bxc5 24. cxd5 cxd5 25. Kh1 与危险威胁 Qb2。然而，如果0n21.
+however, 0n 21. Na4, Black replies 21... b6, then White all the same
+                                                                                 Na4，黑方回复21... b6，那么白方仍然用22. Nb2交换入侵的马。这就
+exchanges the invading knight by 22. Nb2. This is why Black should
+have played... b6 on the 20th move, so as not to allow the move Nc5.             是为什么黑方应该在第 20 步棋时下...b6，以免允许走棋 Nc5。21...
+21... Bxc3                                                                       Bxc3
+
+CH3-151 · 原书97页                                                                  CH3-151 · 原书97页
+After this exchange, White's game can hardly be saved.                           经过这次交手，白方已经难以挽救。
+
+
+
+
+                                                                                  13
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                          经校正的英文 OCR                                                                       中文初译
+
+CH3-152 · 原书97页                                                                CH3-152 · 原书97页
+22. Bxc3 b5! 23. c5                                                            22. Bxc3 b5! 23. c5
+
+CH3-153 · 原书97页                                                                CH3-153 · 原书97页
+Opening the c-file is favourable only for Black, who without difficulty will   打开c线只对黑方有利，黑方将毫不费力地用他的车占领它。
+Occupy it with his rooks.
+
+
+CH3-154 · 原书97页                                                                CH3-154 · 原书97页
+23... b4!                                                                      23... b4!
+
+CH3-155 · 原书97页                                                                CH3-155 · 原书97页
+Pinning down the b3 pawn, which is important for the execution of the plan     锁定 b3 棋子，这对于执行 a线攻击计划非常重要。
+of attack on the a-file.
+
+
+CH3-156 · 原书97页                                                                CH3-156 · 原书97页
+24. Be1 a5!                                                                    24. Be1 a5!
+
+CH3-157 · 原书97页                                                                CH3-157 · 原书97页
+Beginning the carrying out of the second stage of the plan - to open the       开始执行计划的第二阶段——打开a线案。白方无法阻止这种情况，他
+a-file. White cannot prevent this and his only chance of resistance is to
+                                                                               唯一的抵抗机会就是组织对王翼的攻击。例如，一个虽小但明显不足的
+organise an attack the king's flank. A small, on though clearly insufficient
+prerequisite for this is, for example, the move g4.                            先决条件是移动 g4。
+
+
+CH3-158 · 原书97页                                                                CH3-158 · 原书97页
+Y                                                                              Y
+
+CH3-159 · 原书97页                                                                CH3-159 · 原书97页
+25. g4                                                                         25. g4
+
+CH3-160 · 原书97页                                                                CH3-160 · 原书97页
+And so it is: White tries his last chance.                                     事情就是这样：白方尝试了他的最后一次机会。
+
+CH3-161 · 原书97页                                                                CH3-161 · 原书97页
+25... Qd7                                                                      25... Qd7
+
+CH3-162 · 原书97页                                                                CH3-162 · 原书97页
+Black will combine active play on the queen's flank with necessary             黑方将把后侧的积极发挥与王翼的必要预防措施结合起来。这不会带来
+prophylactics on the king's. This presents no difficulties since the threats
+                                                                               任何困难，因为威胁非常小。现在黑方本人威胁要与g4较量。
+are very modest. Now Black himself threatens to take on g4.
+
+
+CH3-163 · 原书97页                                                                CH3-163 · 原书97页
+26. gxf5 Qxf5 27. Kh2 Re7                                                      26. gxf5 Qxf5 27. Kh2 Re7
+
+CH3-164 · 原书97–98页                                                             CH3-164 · 原书97–98页
+Another advantage for Black should be noted: the seventh and eighth ranks,     黑方的另一个优势值得一提：第七和第八行，作为将车从棋盘的一个边
+presenthemselves as splendid routes for transfer of the rooks from one edge
+                                                                               缘转移到另一边缘的绝佳路线，使他能够非常有力地利用这些移动棋子
+of the board to the other, allow him to very forcefully exploithe powerful
+activity of these mobile pieces. This freedom and speed of manoeuvre in his    的强大活动。在他自己的后方，沿着开阔的队伍，这种自由和机动的速
+own rear along the open ranks can sometimes prove to be a decisive factor.     度有时被证明是一个决定性因素。在这方面，白方发现自己的处境要糟
+White, in this respect, finds himself in a far worse situation. On the first   糕得多。第一排有密集的棋子，第二排也挤满了棋子，因为在每一行上
+rank there is a dense crowd of his own pieces, the second is also jammed
+                                                                               ，建立在 d3 上的马拿走了两个方格。下面我们将看到黑方如何充分利
+since, on each of these lines, the knight, established on d3, takes away two
+squares. Be1ow we will see how well Black exploits the advantage of his        用控制白方“后方”的优势。
+control of White's “rear".
+
+
+CH3-165 · 原书98页                                                                CH3-165 · 原书98页
+28. Rg1 h6                                                                     28. Rg1 h6
+
+
+
+
+                                                                                   14
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                           经校正的英文 OCR                                                                            中文初译
+
+CH3-166 · 原书98页                                                                      CH3-166 · 原书98页
+It is necessary to preventhe invasion of the White rook on g5.                       有必要阻止g5上白车的入侵。
+
+CH3-167 · 原书98页                                                                      CH3-167 · 原书98页
+29. Rd2 Kh7 30. Rdg2 a4! 31. Bh4                                                     29. Rd2 Kh7 30. Rdg2 a4! 31. Bh4
+
+CH3-168 · 原书98页                                                                      CH3-168 · 原书98页
+Of course, not 31. Rxg6 in view of 31... Nxe1 (or 31... Qxg6 32. Rxg6                当然，鉴于31... Nxe1（或31... Qxg6 32. Rxg6 Nxe1!），不是31. Rxg6。
+Nxe1!).
+
+
+CH3-169 · 原书98页                                                                      CH3-169 · 原书98页
+31... axb3 32. axb3 Rea7                                                             31... axb3 32. axb3 Rea7
+
+CH3-170 · 原书98页                                                                      CH3-170 · 原书98页
+Beginning a typical process of invasion and also the realisation of it - a           开始一个典型的入侵过程并实现它——对王阵地的侧翼攻击。
+flank attack on the king's position.
+
+
+CH3-171 · 原书98页                                                                      CH3-171 · 原书98页
+33. Qe2                                                                              33. Qe2
+
+CH3-172 · 原书98页                                                                      CH3-172 · 原书98页
+It seems that White has finally created a real threat - Rxg6.                        看来白方终于制造出了真正的威胁——Rxg6。
+
+CH3-173 · 原书98页                                                                      CH3-173 · 原书98页
+33... Rg8 34. Rg4                                                                    33... Rg8 34. Rg4
+
+CH3-174 · 原书98页                                                                      CH3-174 · 原书98页
+What for? After 34. Qg4 the struggle could be continued, but now the end             有何用？34. Qg4之后，斗争可以继续，但现在结束的速度惊人地快：
+approaches surprisingly quickly: the final scene of the White army,
+                                                                                     白军完全被俘虏的最后场景是相当丰富多彩的，并且是从侧翼进攻的特
+completely taken captive, is rather colourful and characteristic for an attack
+from the flank.                                                                      征。
+
+
+CH3-175 · 原书98页                                                                      CH3-175 · 原书98页
+34... Ra3 35. Qc2 Rga8 36. R1g2 Qh5 37. Bg3 Ra1 38. Bh4                              34... Ra3 35. Qc2 Rga8 36. R1g2 Qh5 37. Bg3 Ra1 38. Bh4
+
+CH3-176 · 原书98页                                                                      CH3-176 · 原书98页
+Realisation! The harmonious activity of the Black rooks switches from the            实现！黑车的和谐活动从a线转变为第一列。（见下图）
+a-file tothefirst rank. (see next diagram)
+
+
+CH3-177 · 原书98页                                                                      CH3-177 · 原书98页
+38... Rc1 39. Qe2 Raa1 40. Qd2 Rh1+ 41. Kg3 Raf1 0-1                                 38... Rc1 39. Qe2 Raa1 40. Qd2 Rh1+ 41. Kg3 Raf1 0-1
+
+CH3-178 · 原书98页                                                                      CH3-178 · 原书98页
+On 42. Rh2 could follow 42...                                                        42. Rh2 可以跟随 42...
+
+CH3-179 · 原书98页                                                                      CH3-179 · 原书98页
+Rf3+ 43. Kg2 Rb1 winning the queen.1 However, here there is already                  Rf3+ 43. Kg2 Rb1 赢得后。1 然而，这里已经有不止一种获胜方法。
+more than one way to victory.
+
+                           经校正的英文 OCR                                                                            中文初译
+
+CH3-180 · 原书98页                                                                      CH3-180 · 原书98页
+Though we have given special attention to the breakthrough of heavy pieces           虽然我们特别关注了a线重件突破，但很明显，其计划、技术和结果与
+on the a-file, it is clear that its planning, technique and results are not very r
+                                                                                     其他线突破敌方阵地并无太大区别。当然，子力的突破，特别是在实现
+much different from the breakthrough into the position of the enemy on
+other files. Of course, army there is some difference, particularly in the           入侵的过程中，沿边线突破和中线突破的斗争过程是有一些区别的。在
+process of the realisation of the invasion, between the course of the struggle       后一种情况下，突破的车必须向两翼方向操作，有时这甚至会削弱突破
+with a breakthrough along the edge-file and the central e or d lines. In the
+
+
+
+                                                                                      15
+ 《国际象棋中局计划》｜第三章｜a线上的战斗｜中英对照分段校样
+
+
+
+
+                         经校正的英文 OCR                                                                中文初译
+
+latter case, the rooks which break through have to operate in the direction of   的力量。
+both flanks, and at times this can even weaken the strength of the
+breakthrough.
+
+
+CH3-181 · 原书98页                                                                  CH3-181 · 原书98页
+However, an invasion upon along the edge-file, the attack of the rooks is        然而，沿着边缘纵列入侵时，车的攻击是向一侧方向发起的，因此可以
+launched in the direction of one flank and therefore becomes, as it were,
+                                                                                 说变得更加具体和强大。
+more concrete and strong.
+
+
+
+
+                                                                                  16
+

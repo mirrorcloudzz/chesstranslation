@@ -1,0 +1,300 @@
+{
+  "pdf_page": 37,
+  "printed_page": 37,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        372.4,
+        127.2,
+        1393.0,
+        172.2
+      ],
+      "text": "The attack on the king that has lost the right to castle",
+      "confidence": 0.9656
+    },
+    {
+      "bbox": [
+        1483.6,
+        127.2,
+        1537.6,
+        168.4
+      ],
+      "text": "37",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        253.6,
+        275.7,
+        1535.1,
+        320.6
+      ],
+      "text": "Now begins a well-prepared attack on the king, which has already been drawn",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        214.4,
+        329.3,
+        464.3,
+        366.8
+      ],
+      "text": "out of position.",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        258.5,
+        376.7,
+        1258.2,
+        414.2
+      ],
+      "text": "19 xd4 Wc3+ 20 $e3 c4 21 Wf4 g4 22 e2 e4+ 0-1",
+      "confidence": 0.9619
+    },
+    {
+      "bbox": [
+        612.6,
+        506.5,
+        666.5,
+        547.6
+      ],
+      "text": "二",
+      "confidence": 0.9036
+    },
+    {
+      "bbox": [
+        517.0,
+        578.8,
+        546.4,
+        615.0
+      ],
+      "text": "B",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        258.5,
+        1081.6,
+        1536.3,
+        1122.7
+      ],
+      "text": "This position arose in the game Tartakower-Euwe, Venice 1948. It is Black's",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        213.2,
+        1134.0,
+        1486.1,
+        1171.4
+      ],
+      "text": "move; first of all, he draws the king out from his castled position by a sacrifice:",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        257.3,
+        1177.6,
+        773.1,
+        1225.0
+      ],
+      "text": "1...f4+! 2 gxf4 h3+ 3 g3",
+      "confidence": 0.9365
+    },
+    {
+      "bbox": [
+        254.8,
+        1227.5,
+        1536.3,
+        1276.2
+      ],
+      "text": "The king must come out, since 3 g1 would be answered by the still more un-",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        209.5,
+        1274.9,
+        1143.1,
+        1327.3
+      ],
+      "text": "pleasant 3...gxf4 4 c5 Wg7 5 h1 f1+ 6 h2 Wh7.",
+      "confidence": 0.964
+    },
+    {
+      "bbox": [
+        257.3,
+        1328.6,
+        635.8,
+        1374.7
+      ],
+      "text": "3...gxf4+ 4 Ωxf4 wd7",
+      "confidence": 0.9486
+    },
+    {
+      "bbox": [
+        257.3,
+        1382.2,
+        1013.2,
+        1424.6
+      ],
+      "text": "At first all is quiet, but then comes the storm.",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        257.3,
+        1433.4,
+        836.8,
+        1470.8
+      ],
+      "text": "5 h2 exf4+ 6 xf4 h4+ 7 e3",
+      "confidence": 0.9714
+    },
+    {
+      "bbox": [
+        254.8,
+        1480.8,
+        1155.3,
+        1526.9
+      ],
+      "text": "If 7 f3, then 7...g2+!, or if 7 g3, then 7...#g4+!.",
+      "confidence": 0.9468
+    },
+    {
+      "bbox": [
+        258.5,
+        1534.4,
+        645.6,
+        1575.6
+      ],
+      "text": "7...g2 8 f3 xe4+!",
+      "confidence": 0.9643
+    },
+    {
+      "bbox": [
+        258.5,
+        1584.3,
+        1536.3,
+        1625.5
+      ],
+      "text": "White is not to be allowed a respite! 8...h3 9 Qe2 Wg4 would have been un-",
+      "confidence": 0.9774
+    },
+    {
+      "bbox": [
+        213.2,
+        1636.7,
+        597.9,
+        1677.9
+      ],
+      "text": "clear owing to 10 g1.",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        254.8,
+        1680.4,
+        503.5,
+        1726.5
+      ],
+      "text": "9 $xe4 ②d6+",
+      "confidence": 0.8832
+    },
+    {
+      "bbox": [
+        254.8,
+        1736.5,
+        1295.0,
+        1781.4
+      ],
+      "text": "Now Black captures two pieces en route by a series of checks.",
+      "confidence": 0.9783
+    },
+    {
+      "bbox": [
+        258.5,
+        1783.9,
+        888.2,
+        1825.1
+      ],
+      "text": "10 d3 Wf5+ 11 $d4 Wf4+ 12 d3",
+      "confidence": 0.9307
+    },
+    {
+      "bbox": [
+        249.9,
+        1825.1,
+        1404.0,
+        1887.4
+      ],
+      "text": "If 12 c5, then 12...Wxc4+ 13 *xd6 Wd5+ 14 *e7 g8 and mate'.",
+      "confidence": 0.9409
+    },
+    {
+      "bbox": [
+        258.5,
+        1886.2,
+        800.0,
+        1923.6
+      ],
+      "text": "12...Wxc4+ 13 c2 xf3 14 b3",
+      "confidence": 0.9474
+    },
+    {
+      "bbox": [
+        257.3,
+        1936.1,
+        1538.8,
+        1984.7
+      ],
+      "text": "White, by allowing himself to be *bled', has obtained a little breathing space,",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        209.5,
+        1983.5,
+        487.6,
+        2035.9
+      ],
+      "text": "but not for long.",
+      "confidence": 0.9719
+    },
+    {
+      "bbox": [
+        295.3,
+        2092.0,
+        1537.6,
+        2141.9
+      ],
+      "text": "Surprisingly, this line is not entirely clear after 15 h4+ h7 16 f5! Wxf5 17",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        291.6,
+        2139.4,
+        1540.0,
+        2190.6
+      ],
+      "text": "ad1. The simplest win after 12 c5 is 12...xc4 13 Wxb7 Wd6+ 14 xc4",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        295.3,
+        2189.3,
+        917.6,
+        2240.5
+      ],
+      "text": "Wd5+ 15 b4 c5+, winning the queen.",
+      "confidence": 0.9915
+    }
+  ]
+}

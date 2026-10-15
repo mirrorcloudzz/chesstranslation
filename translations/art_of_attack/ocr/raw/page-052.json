@@ -1,0 +1,400 @@
+{
+  "pdf_page": 52,
+  "printed_page": 52,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        245.0,
+        124.7,
+        297.7,
+        170.9
+      ],
+      "text": "52",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        675.1,
+        127.2,
+        1173.7,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9532
+    },
+    {
+      "bbox": [
+        245.0,
+        273.2,
+        1568.2,
+        323.1
+      ],
+      "text": "h1 and the rook from h1 to fl or e1. This type of 'free castling' or 'Italian cas-",
+      "confidence": 0.9558
+    },
+    {
+      "bbox": [
+        247.5,
+        325.6,
+        1568.2,
+        371.7
+      ],
+      "text": "tling' persisted in Italy right up to the nineteenth century, when it was superseded",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        246.3,
+        374.2,
+        1569.4,
+        426.6
+      ],
+      "text": "by the present rules, which were introduced in France during the eighteenth cen-",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        245.0,
+        427.9,
+        328.3,
+        471.5
+      ],
+      "text": "tury.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        289.1,
+        475.3,
+        1571.9,
+        525.2
+      ],
+      "text": "This short survey of the historical evolution of castling is a good illustration of",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        246.3,
+        526.4,
+        1568.2,
+        573.8
+      ],
+      "text": "the gradual development of the rules of chess and it makes it particularly clear",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        243.8,
+        575.1,
+        1568.2,
+        626.2
+      ],
+      "text": "that these rules have been changed and perfected with the desire of enriching the",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        245.0,
+        627.5,
+        1571.9,
+        674.9
+      ],
+      "text": "game; the general tendency towards giving the pieces more dynamic movement",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        245.0,
+        676.1,
+        1568.2,
+        724.8
+      ],
+      "text": "reflects the increased animation of social movements in Europe from the Middle",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        245.0,
+        726.0,
+        497.4,
+        769.7
+      ],
+      "text": "Ages onwards.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        284.2,
+        777.2,
+        1568.2,
+        824.6
+      ],
+      "text": "In addition to this general line of development in the laws of chess, we also",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        245.0,
+        828.3,
+        1570.6,
+        875.7
+      ],
+      "text": "owe the introduction and eventual adoption of the castling move to the indirect",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        242.6,
+        877.0,
+        1568.2,
+        928.1
+      ],
+      "text": "influence of the great reform of the fifteenth century. This reform created a pow-",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        245.0,
+        929.4,
+        1567.0,
+        976.8
+      ],
+      "text": "erful queen out of the fers (which moved one square) and the modern bishop out",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        245.0,
+        979.3,
+        1567.0,
+        1027.9
+      ],
+      "text": "of the alfil (which moved exactly two squares). In this new type of chess, with",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        242.6,
+        1027.9,
+        1567.0,
+        1080.3
+      ],
+      "text": "three long-range pieces, the fighting ability of the king declined; once in the days",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        243.8,
+        1077.8,
+        1567.0,
+        1130.2
+      ],
+      "text": "of pre-chess it had been the strongest piece of all. The king now became a hin-",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        241.4,
+        1129.0,
+        1568.2,
+        1176.4
+      ],
+      "text": "drance with its slow movement, and its position in the centre of the back rank",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        241.4,
+        1181.4,
+        1567.0,
+        1226.3
+      ],
+      "text": "stood out immediately as a fault in the game's structure. On the one hand, it had",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        242.6,
+        1232.5,
+        1564.5,
+        1277.4
+      ],
+      "text": "to be safeguarded against the formidable new forces, and on the other it had to be",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        242.6,
+        1282.4,
+        1564.5,
+        1329.8
+      ],
+      "text": "removed from the centre so as not to hamper them. For this reason it was neces-",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        241.4,
+        1333.6,
+        1565.7,
+        1381.0
+      ],
+      "text": "sary for the king to get away from the centre as quickly as possible, and it was to",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        240.1,
+        1383.5,
+        1565.7,
+        1430.9
+      ],
+      "text": "this end that the king's double move was built on and transformed into the full",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        240.1,
+        1432.1,
+        1565.7,
+        1483.3
+      ],
+      "text": "castling move. Therefore, not only the development of this most distinctive move",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        240.1,
+        1484.5,
+        1562.1,
+        1531.9
+      ],
+      "text": "can be traced through the history of chess but also its logic: it exists as the neces-",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        238.9,
+        1531.9,
+        1563.3,
+        1586.8
+      ],
+      "text": "sary complement to the reform of the other pieces' movements. We start a game",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        237.7,
+        1583.1,
+        1564.5,
+        1635.4
+      ],
+      "text": "of chess today with the pieces placed in the ancient order which derives from",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        238.9,
+        1634.2,
+        1564.5,
+        1687.8
+      ],
+      "text": "chaturanga, and then we switch over by castling to a new position, which is better",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        238.9,
+        1685.3,
+        1064.6,
+        1732.7
+      ],
+      "text": "suited to the alterations made in the game's rules.",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        238.9,
+        1788.9,
+        1538.8,
+        1856.2
+      ],
+      "text": "The dynamic and positional significance of castling",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        238.9,
+        1884.9,
+        1560.8,
+        1939.8
+      ],
+      "text": "Chess moves in general can be looked at from the dynamic or the positional point",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        240.1,
+        1938.6,
+        1558.4,
+        1988.5
+      ],
+      "text": "of view, depending on whether we are considering them as part of an active com-",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        238.9,
+        1988.5,
+        717.9,
+        2030.9
+      ],
+      "text": "bination or as static features.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        281.8,
+        2038.4,
+        1559.6,
+        2089.5
+      ],
+      "text": "The castling move without doubt powerfully increases the dynamic potential",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        237.7,
+        2090.8,
+        1557.2,
+        2139.4
+      ],
+      "text": "of a position. A player who has castled at once obtains a whole range of possibili-",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        235.2,
+        2138.2,
+        1558.4,
+        2188.1
+      ],
+      "text": "ties which he did not have before. He has increased the influence of the rook,",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        237.7,
+        2189.3,
+        1558.4,
+        2239.2
+      ],
+      "text": "cleared the square el for a possible attack along the e-file, and on top of this he",
+      "confidence": 0.9918
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+                《国际象棋中局计划》
+     B：格子 - 3：第六（第三）横线上的弱格
+
+                   英文 OCR 校正稿 + 中文翻译校对稿
+
+
+
+    文档性质      初译校对稿，非最终出版版本
+
+
+    内容范围      原书印刷页 43-51
+
+
+    棋谱规范      中文译文采用现代 SAN；黑方单独着法使用省略号；结果使用 1-0 / 0-1
+
+
+    术语延续      tempo 译为“先手”；动象 / 动后 / 动马 / 动车；material 按棋理语境译为“子
+              力”
+
+
+    版本日期      2026-09-24
+
+
+
+
+重点核对第六（第三）横线的表述、六个主要实例、开局名称、棋手译名和棋谱。
+
+
+
+
+                                1
+  《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+B：格子 - 3：第六（第三）横线上的弱格
+                       经校正的英文 OCR                                                              中文译文
+
+WS-1                                                                      WS-1
+One of the most tempting objectives of a plan is to create real weak      计划中最诱人的目标之一，是在第六横线（从对方一侧看即第三横
+squares on the sixth (third) rank. Establishing a knight or bishop on
+                                                                          线）上制造真正的弱格。把马或象安置在这些格子上，通常是与造
+these squares usually represents a positional achievement just as
+decisive as obtaining an "eternal" knight. Sometimes the two ideas are    出“铁马”同样具有决定性的局面成就。有时，这两种构想还会结合起
+combined.                                                                 来。
+
+We begin with just such an example.
+                                                                          先看一个这样的例子。
+
+The game Pillsbury-Chigorin (Vienna, 1898) reached the diagrammed
+position. White's knight has established itself on the weak b6-square.    皮尔斯伯里对齐戈林一局（维也纳，1898年）形成了图示局面。白
+Under its cover White intends to attack the a5-pawn, after whose fall     马已经在b6弱格站稳脚跟。以这匹马为掩护，白方准备攻击a5兵；
+the passed a-pawn should have a decisive say.                             一旦该兵失守，白方的a线通路兵就应当发挥决定性作用。
+
+Pillsbury, however, pursued this objective too directly:
+                                                                          然而，皮尔斯伯里过于直接地追求这一目标：
+29. Ra3
+                                                                          29. Ra3
+Chigorin immediately sacrificed the exchange in order to eliminate the
+"eternal" knight:
+                                                                          齐戈林立即弃半子，以便消灭“铁马”：
+29... Rxb6! 30. cxb6 Qxb6
+                                                                          29... Rxb6! 30. cxb6 Qxb6
+White has a material advantage, but Black has obtained definite
+counter-chances in connection with the weakness of the d4-pawn - a
+                                                                          白方拥有子力优势，但黑方利用d4兵这一弱点，获得了明确的反击
+weak point.
+                                                                          机会。
+The game continued:
+                                                                          实战继续：
+31. Rf1 Rxd4
+
+As White's reply shows, this does not win a pawn at all.                  31. Rf1 Rxd4
+
+32. Rxa5 c5 33. Ra8 Kf8 34. Qh3 Ke7 35. Qh4+ f6 36. Qh8 Rd8 37.           正如白方的应着所示，这根本得不到一兵。
+Qxg7+ Bf7 38. Rxd8 c4+ 39. Kh1 Qxd8 40. Rb1?
+
+A presumptuous move which even leads to defeat. The correct 40. Qh6       32. Rxa5 c5 33. Ra8 Kf8 34. Qh3 Ke7 35. Qh4+ f6
+Qd3 41. Rg1 Qd2 would have achieved only a draw.                          36. Qh8 Rd8 37. Qxg7+ Bf7 38. Rxd8 c4+ 39. Kh1
+                                                                          Qxd8 40. Rb1?
+40... c3!
+
+                                                                          这步棋过于自信，甚至导致败局。正确的40. Qh6 Qd3 41.
+Pillsbury must now give up a rook for this pawn, and he resigned a few
+moves later.                                                              Rg1 Qd2只能取得和棋。
+
+Returning to the diagrammed position, we must once again emphasise        40... c3!
+the powerful role of the knight on b6, which was probably quite
+sufficient for victory. Instead of 29. Ra3 it was necessary to play 29.
+Qe5, and after 29... Qa7, 30. Rb3, consolidating the knight's base.       皮尔斯伯里现在不得不用一车换掉这个兵，又走了几步便认输。
+
+
+                                                                          回到图示局面，我们必须再次强调b6马的强大作用；这匹马本身很
+                                                                          可能已经足以制胜。白方不应走29. Ra3，而应走29. Qe5；若
+                                                                          29... Qa7，则30. Rb3，巩固白马的据点。
+
+                       经校正的英文 OCR                                                              中文译文
+
+WS-2                                                                      WS-2
+In the following instructive example, both knights carry out a            在下面这个很有启发性的例子中，白方双马在第六横线上发动了毁
+
+
+
+                                                                           2
+  《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                                    中文译文
+
+devastating raid on the sixth rank.                                          灭性的突袭。
+
+The position comes from Romanovsky-Smorodsky (3rd USSR
+                                                                             图示局面取自罗曼诺夫斯基对斯莫罗德斯基一局（1924年第3届苏联
+Championship, 1924). White is conducting an offensive. His pawn
+group has already advanced to the fifth rank and severely cramps             锦标赛）。白方正在进攻，其兵群已经推进到第五横线，严重限制
+Black. White's c-pawn can advance to c5, but is it worth vacating c5         了黑方。白方可以把c兵冲到c5，但值得让马离开c5吗？这个弱格位
+with the knight? The square is very weak, it lies in the enemy camp,         于敌方阵地内，白马与兵群一道向中心和后翼施加强大压力：黑方
+and the knight together with the pawns exerts serious pressure on the
+                                                                             d6车没有一步可走；……Nd7也因Ne6和c5而不成立；黑象被拴在b7
+centre and queenside. Thus the black rook on d6 has no move. ...Nd7 is
+also impossible because of Ne6 and c5. The black bishop is tied to the       兵的防守上，因为……b6会遭到Nxa6。
+b7-pawn, since ...b6 is met by Nxa6.
+                                                                             白方无疑有多种兑现优势的方法。他选择让双马经d6和b6侵入第六
+White undoubtedly has several ways to realise his advantage. He              横线。因此，c5马离开自己的优良位置，以便更加深入地闯入敌阵。
+chooses a plan of invading the sixth rank with the knights via d6 and
+b6. The knight on c5 therefore abandons its excellent post in order to
+penetrate even more deeply into the enemy position.
+                                                                             31. Nb3 Kf7 32. c5 R6d7
+31. Nb3 Kf7 32. c5 R6d7
+
+                                                                             有些棋手此时会被33. d6吸引，但这只会帮助黑方稍稍解围。黑方
+Some players might now be tempted by 33. d6, but that would only
+help Black free himself a little. There follows ...Ke8, then ...Rf7, while   可以走……Ke8，随后……Rf7；e6格也将成为黑象和黑马的良好跳板。
+e6 becomes an excellent springboard for Black's bishop and knight.           此外，白方用兵“堵住”d6格，也会使自己的一匹马失去优良据点。
+Moreover, by "blocking" d6 with a pawn, White deprives one of his
+knights of an excellent base.
+                                                                             33. Na5
+
+33. Na5
+                                                                             白马准备经c4前往d6。
+The knight heads for d6 via c4.
+                                                                             33... Rc7 34. Rd1 h5
+33... Rc7 34. Rd1 h5
+
+Black is helpless.                                                           黑方束手无策。
+
+35. Rfd2 Rcd7 36. Na4                                                        35. Rfd2 Rcd7 36. Na4
+
+The beginning of a victorious nine-move knight attack.
+                                                                             一场九回合制胜马攻由此开始。
+36... Ke8 37. Nb6 Rc7 38. Nac4 Bd7 39. Nd6+ Ke7
+                                                                             36... Ke8 37. Nb6 Rc7 38. Nac4 Bd7 39. Nd6+ Ke7
+The objective is achieved. The white cavalry holds the entire enemy
+army in a vice - a good example of how the strength of a knight
+                                                                             目标实现了。白方的骑兵把黑方全军牢牢钳住；这很好地说明，一
+increases when it enters the enemy camp on weak squares.
+                                                                             匹马沿弱格深入敌阵后，其力量会如何增长。
+40. Nb5!
+                                                                             40. Nb5!
+In view of the threat Nd6+, White wins at least the exchange and
+retains the initiative. Further resistance is useless, and Black soon
+resigned.                                                                    由于Nd6+的威胁，白方至少可以得半子，同时仍保持主动权。黑方
+                                                                             继续抵抗已无意义，不久便认输。
+
+                       经校正的英文 OCR                                                                    中文译文
+
+WS-3                                                                         WS-3
+Queen's Indian Defence                                                       后翼印度防御
+White: A. Alekhine
+Black: J. R. Capablanca                                                      白方：A. 阿廖欣
+New York, 1927                                                               黑方：J. R. 卡帕布兰卡
+                                                                             纽约，1927年
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5 6. d5
+
+
+
+
+                                                                              3
+  《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                                 中文译文
+
+                                                                             1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5
+This aggressive continuation was recommended in its day by                   6. d5
+Rubinstein. Great defensive accuracy is required against it. Black must
+take the pawn to avoid difficulties in developing his queenside forces,
+but this leads to an unpleasant pin of the d5-pawn. Exploiting this pin,     这一步积极的续着当年由鲁宾斯坦推荐。黑方必须极其精确地防守。
+White aims eventually to create a base for his pieces on d5. The whole       他不得不吃兵，以免后翼子力出动遇到困难，但这样d5兵会受到令
+variation leads to a sharp, tense struggle, in which the first exchange of   人不快的牵制。白方利用这一牵制，试图在以后为己方子力在d5建
+pieces occurs only after 17 moves.
+                                                                             立据点。整个变例会导致尖锐而紧张的斗争，直到第17回合才出现
+
+6... exd5 7. Nh4 g6 8. Nc3 Bg7 9. O-O O-O 10. Bf4                            第一次子力交换。
+
+An interesting plan introduced by Alekhine, aiming to exploit the            6... exd5 7. Nh4 g6 8. Nc3 Bg7 9. O-O O-O 10. Bf4
+rather weak d6-point. For example, after 10... d6 11. cxd5, Black
+cannot immediately develop the knight on d7, while after ...Nh5 his
+                                                                             这是阿廖欣引入的一项有趣计划，目的在于利用相当薄弱的d6点。
+influence in the centre is weakened and the knight is not particularly
+well placed.                                                                 例如10... d6 11. cxd5以后，黑方不能立即把马出到d7；走
+                                                                             ……Nh5又会削弱黑方对中心的影响，而且这匹马的位置也不理想。
+More often employed here is 10. cxd5, followed by an advance of the
+central pawns, e4 and f4.
+                                                                             这里更常见的是10. cxd5，随后冲起中心兵e4和f4。
+10... d6 11. cxd5 Nh5 12. Bd2
+                                                                             10... d6 11. cxd5 Nh5 12. Bd2
+In retreating to d2 White is apparently guided by the desire to retain the
+possibility of advancing the central pawns, especially e4. Yet only
+                                                                             白象退到d2，显然是为了保留冲起中心兵的可能，尤其是冲起e4。
+three moves later he finds it necessary to transfer the bishop to e3 even
+                                                                             然而，仅仅三步之后，白方就发现必须把象转移到e3，尽管e兵仍在
+though his pawn is still on e2. The reply 12. Be3 is more purposeful for
+other reasons as well. Black cannot display activity on the queenside        e2。12. Be3还有其他理由使其更有目的性。黑方若不走……c4就
+without ...c4; with the bishop on e3, however, this would allow White        无 法在后翼积极行动；白象在e3时，……c4却会允许白方以Bd4把象
+to centralise it by Bd4.                                                     中 心化。
+
+12... Nd7 13. f4?
+                                                                             12... Nd7 13. f4?
+This move should be blamed not so much in itself - with consistent
+play it would not have led to particularly serious consequences - as for     这步棋的问题主要不在其本身——若白方以后连贯行棋，它并不会
+being the beginning of a false idea. It is incomprehensible why White
+                                                                             造成特别严重的后果——而在于它是一个错误构想的起点。白方为
+refrains from 13. e4, threatening Nf5, and after 13... Nhf6, f4.
+                                                                             什么不走13. e4威胁Nf5，若13... Nhf6再走f4，令人难以理解。
+13... a6
+
+Black's plan becomes clear: supported by the excellently placed bishop       13... a6
+on g7, he intends to conduct a full-scale pawn offensive on the
+queenside. This plan is highly active.
+                                                                             黑方的计划已经清楚：以位置极佳的g7象为支援，在后翼发动全面
+14. Bf3                                                                      的兵的攻击。这是一个高度积极的计划。
+
+White prompts the knight to return to a better position. More consistent
+                                                                             14. Bf3
+was 14. a4 followed by e4, or even 14. e4 at once, threatening Nf5. In
+that case Black would probably play ...Nhf6 himself.
+                                                                             白方促使黑马回到更好的位置。较为连贯的是14. a4，随后走e4；
+14... Nhf6 15. a4?                                                           甚至可以立即走14. e4威胁Nf5。这样黑方大概会主动走……Nhf6。
+
+Preventing ...b5, but appreciably weakening the queenside, which
+Black later manages to exploit. Even now, with 15. e4, White could
+still have fought successfully for the initiative. For example, 15. e4 b5    14... Nhf6 15. a4?
+16. Qc2, and if 16... b4, then 17. Nd1!, threatening Nd1-e3-c4. If 16...
+c4, then 17. Rae1 Re8 18. Nd1, and White's purposeful concentration          这步棋制止了……b5，却明显削弱了白方后翼，而黑方后来成功利用
+in the centre with the advance e4-e5 in view must cause Black anxiety.
+                                                                             了这一点。即使此时走15. e4，白方仍可成功争夺主动权。例如
+15... c4                                                                     15. e4 b5 16. Qc2，若16... b4，则17. Nd1!，威胁
+                                                                             Nd1-e3-c4；若16... c4，则17. Rae1 Re8 18. Nd1。白方围
+This move fixes the weak b3-square and, after the e-pawn advances,           绕e4-e5冲兵这一明确目标在中心集结子力，必定会让黑方感到不
+
+
+
+                                                                              4
+  《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                        经校正的英文 OCR                                                                 中文译文
+
+also d3, since the black knight has a direct route to this point via c5.   安。
+
+16. Be3 Qc7
+                                                                           15... c4
+Intending, after 17... Nc5 18. Bxc5, to recapture on c5 with the queen.
+Black's pieces operate very harmoniously; his rooks will take up a         这步棋固定了b3弱格；e兵冲起后，d3也会成为弱格，因为黑马可以
+dominating position on the e-file, while White's d5-pawn is weak.          经c5直达该处。
+Convinced that his position is bad, White launches a reckless attack on
+the kingside.
+                                                                           16. Be3 Qc7
+
+
+                                                                           黑方准备在17... Nc5 18. Bxc5之后用后在c5吃回。黑方子力
+                                                                           配合得非常协调：双车将在e线上占据统治地位，而白方d5兵又很薄
+                                                                           弱。白方认定自己的局面不佳，于是在王翼发起了鲁莽的进攻。
+
+                        经校正的英文 OCR                                                                 中文译文
+
+WS-4                                                                       WS-4
+17. g4                                                                     17. g4
+
+White could have defended tenaciously with 17. Qc2 Nc5 18. Rad1
+Rfe8 19. Bf2 Nb3 20. e4.                                                   白方本可走17. Qc2 Nc5 18. Rad1 Rfe8 19. Bf2 Nb3
+                                                                           20. e4顽强防守。
+17... Nc5 18. g5 Nfd7 19. f5?
+
+                                                                           17... Nc5 18. g5 Nfd7 19. f5?
+This gives Black another base, the e5-square, while accomplishing
+nothing for White.
+                                                                           这使黑方又获得一个据点——e5格，而白方自己却一无所获。
+It is known that on the day of this encounter with Capablanca, then
+world champion, Alekhine was extremely nervous, which perhaps              据说，在与当时的世界冠军卡帕布兰卡进行这盘棋的当天，阿廖欣
+explains his play. A chess player's condition and even his character are
+                                                                           极为紧张；这或许可以解释他的行棋。棋手的状态乃至性格，都与
+closely connected with the style and quality of his play.
+                                                                           其行棋的风格和质量密切相关。
+White continues to play as if everything were already lost. With 19.
+Qe1, followed by Rd1 and Qf2, he could have defended successfully,         白方继续下得仿佛“一切都已完了”。其实走19. Qe1，随后Rd1和
+reserving f5 for a suitable moment.
+                                                                           Qf2，他完全能够成功防守，并把f5冲兵留到合适时机。
+19... Rfe8 20. Bf4 Be5 21. Bg4 Nb3 22. fxg6 hxg6 23. Rb1 Bxc3 24.
+bxc3 Qc5+ 25. e3                                                           19... Rfe8 20. Bf4 Be5 21. Bg4 Nb3 22. fxg6 hxg6
+                                                                           23. Rb1 Bxc3 24. bxc3 Qc5+ 25. e3
+Of course not 25. Kg2 or 25. Kh1, when Black captures the d5-pawn
+with check. But now d3 is weakened, and Black immediately exploits
+                                                                           当然不能走25. Kg2或25. Kh1，否则黑方可以将军吃掉d5兵。但
+it.
+                                                                           现在d3格被削弱，黑方立即加以利用。
+25... Ne5 26. Bf3 Nd3!
+                                                                           25... Ne5 26. Bf3 Nd3!
+Black need not hurry to take the pawn. Supported by the c4-pawn, the
+knights are picturesquely perched on d3 and b3. This elegant picture
+repeats the arrangement seen in the previous example, but here the         黑方不必急于吃兵。在c4兵的支援下，双马如画般盘踞在d3和b3。
+background - the positional circumstances - is more complicated and        这幅优美的图景重复了上一例中的配置，不过这里的背景——即具
+structurally colourful.                                                    体局面条件——更为复杂，结构也更加丰富。
+
+White must relieve his position at all costs, but the exposed king does
+not allow him to avert serious loss in the approaching crisis.             白方必须不惜一切代价缓解局面，但暴露的王位使他无法避免即将
+                                                                           到来的危机造成严重损失。
+27. Kh1 Bxd5 28. Rxb3 Nxf4 29. Rb1 Rxe3 30. Ng2 Rxf3! 31. Rxf3
+Nxg2 32. Kxg2 Re8 33. Kf1 Bxf3 34. Qxf3 Qxg5 35. Re1                       27. Kh1 Bxd5 28. Rxb3 Nxf4 29. Rb1 Rxe3 30. Ng2
+                                                                           Rxf3! 31. Rxf3 Nxg2 32. Kxg2 Re8 33. Kf1 Bxf3
+35. Rxb6 is impossible because of 35... Qc1+ and 36... Qd2+.
+                                                                           34. Qxf3 Qxg5 35. Re1
+
+
+
+                                                                            5
+  《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                               中文译文
+
+
+35... Rxe1+                                                                不能走35. Rxb6，因为有35... Qc1+和36... Qd2+。
+
+Even in the queen ending, resistance three pawns down is useless.
+White resigned on the 42nd move.                                           35... Rxe1+
+
+
+                                                                           即使进入后残局，少三兵的白方也没有抵抗意义。白方在第42回合
+                                                                           认输。
+
+                       经校正的英文 OCR                                                               中文译文
+
+WS-5                                                                       WS-5
+A bishop's invasion and consolidation on the sixth (third) rank,           象侵入并盘踞第六（第三）横线，特别是e6、d6（或e3、d3）格，
+particularly on e6, d6 (e3, d3), is likewise a considerable and at times
+                                                                           同样是一项重大的、有时甚至具有决定意义的局面成就。
+decisive positional achievement.
+
+The ending of the second game of the 1908 world championship match         拉斯克与塔拉什1908年世界冠军赛第二局的收尾，是这一计划的经
+between Emanuel Lasker and Tarrasch is a classic example of this           典范例。拉斯克执黑在开局阶段下得很差，丢了一兵，败局似乎不
+plan. Lasker, with Black, played the opening poorly, lost a pawn, and
+                                                                           可避免。不过，此后由于对手行棋平淡，他得以围绕白方e4孤兵在
+seemed doomed to defeat. Thereafter, however, thanks to indifferent
+play by his opponent, he succeeded in beginning a counter-struggle in      中心展开反击。
+the centre around White's isolated e4-pawn.
+                                                                           黑方刚走了24... d5，不仅威胁25... dxe4 26. Nxe4 f5，
+Black has just played 24... d5 and threatens not only 25... dxe4 26.       还简单地威胁25... Qg6。白方正确的续着是25. Nf5，以便在
+Nxe4 f5 but also simply 25... Qg6. White's correct continuation was
+                                                                           25... dxe4后走26. Nxh6。黑象若退，白方可以走26. exd5，
+25. Nf5, so that after 25... dxe4 he could reply 26. Nxh6. If the bishop
+retreats, 26. exd5 is possible, provoking an exchange of rooks. The        促成双车交换；白马在f5位置极佳。若25... Bf8，例如26.
+knight occupies an excellent position on f5, and after 25... Bf8 - for     exd5 Bc5+ 27. Kf1 Qg6 28. Rxe5 Rxe5 29. g4，黑方将
+example, 26. exd5 Bc5+ 27. Kf1 Qg6 28. Rxe5 Rxe5 29. g4 - it is            很难继续进攻。
+difficult for Black to continue the attack.
+
+Tarrasch, however, immediately takes on d5 and exposes e3, which           然而，塔拉什立即在d5交换，暴露了e3格；拉斯克没有错过机会，
+Lasker energetically exploits.                                             积极加以利用。
+
+25. exd5? Be3+ 26. Kf1 cxd5 27. Rd3
+                                                                           25. exd5? Be3+ 26. Kf1 cxd5 27. Rd3
+
+White underestimates the role of the bishop on e3. Even now he should
+continue 27. Nf5 d4 28. Nxe3 dxe3 29. Re2, accepting a cramped but         白方低估了e3象的作用。即使此时，也应走27. Nf5 d4 28.
+far from hopeless position.                                                Nxe3 dxe3 29. Re2，接受一个局促但远非无望的局面。
+
+27... Qe6 28. Re2 f5 29. Nh1 f4 30. Rd1 d4
+                                                                           27... Qe6 28. Re2 f5 29. Nh1 f4 30. Rd1 d4
+The power of the bishop is now revealed in all its brilliance. Under its
+cover and with its assistance, Black's attack proceeds swiftly and         黑象的威力此刻展现得淋漓尽致。在它的掩护和协助下，黑方的进
+unhindered towards its goal.                                               攻迅速而毫无阻碍地直奔目标。
+
+31. Nf2 Qa6 32. Nd3 Rg5 33. Ra1 Qh6 34. Ke1
+                                                                           31. Nf2 Qa6 32. Nd3 Rg5 33. Ra1 Qh6 34. Ke1
+After 34. h3, 34... Rg3 35. Qd5 f3 is decisive.
+                                                                           若34. h3，则34... Rg3 35. Qd5 f3具有决定性。
+34... Qxh2 35. Kd1 Qg1+ 36. Ne1
+
+                                                                           34... Qxh2 35. Kd1 Qg1+ 36. Ne1
+Or 36. Re1 Qxg2.
+
+36... Rge5 37. Qc6 R5e6 38. Qxc7 R8e7 39. Qd8+ Kg7 40. a4 f3 41.           或36. Re1 Qxg2。
+gxf3 Bg5 0-1
+
+                                                                           36... Rge5 37. Qc6 R5e6 38. Qxc7 R8e7 39. Qd8+
+After 42. Rxe6 Rxe6 43. Qa5 Bh4, White suffers serious material loss.
+                                                                           Kg7 40. a4 f3 41. gxf3 Bg5 0-1
+
+
+
+
+                                                                            6
+  《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                                  中文译文
+
+                                                                            42. Rxe6 Rxe6 43. Qa5 Bh4之后，白方将遭受严重的子力损
+                                                                            失。
+
+                       经校正的英文 OCR                                                                  中文译文
+
+WS-6                                                                        WS-6
+The following position arose in Alekhine-Mikenas at the 5th Olympiad        图示局面产生于阿廖欣对米凯纳斯一局，比赛为1933年第5届奥林匹
+(1933).
+                                                                            克团体赛。
+Black has a weak d6-square, towards which the enemy bishop is
+clearly heading. Mikenas, however, ignored the threat and continued:        黑方存在d6弱格，而白象显然正朝那里进发。米凯纳斯却忽视了威
+                                                                            胁，继续走：
+12... a6
+
+Apparently intending to attack the centre with ...c5 and meanwhile          12... a6
+preventing the knight's invasion on b5.
+                                                                            他显然准备以……c5攻击中心，同时阻止白马侵入b5。
+Alekhine's comment on 12... a6 is interesting: "Black does not take
+into account that he must defend d6 at any price. From now on the
+                                                                            阿廖欣对12... a6的评论很有意思：“黑方没有意识到，他必须不
+dominating position of White's dark-squared bishop proves in itself a
+sufficient advantage to decide the outcome of the struggle." In             惜一切代价防守d6格。从现在起，白方黑格象的统治地位本身就构
+Alekhine's opinion, ...Nf6 followed by ...Ne8 was necessary.                成足以决定斗争结果的优势。”阿廖欣认为，黑方必须走……Nf6，随
+                                                                            后……Ne8。
+Further events developed as follows:
+
+13. Bd6 f5                                                                  此后棋局如下发展：
+
+This move, which assists the consolidation of the bishop on d6, also        13. Bd6 f5
+demonstrates Black's incorrect assessment of the position. It was still
+useful to carry out the manoeuvre Nd7-f6-e8, for example 13... Nf6 14.
+                                                                            这步棋帮助白象巩固d6据点，也再次说明黑方对局面的判断有误。
+e5 Ne8 15. Ba3 Rg8 16. h4 Nf5, although even then Black's position
+remains difficult because of the inactive queenside.                        此时仍应执行Nd7-f6-e8的调马，例如13... Nf6 14. e5 Ne8
+                                                                            15. Ba3 Rg8 16. h4 Nf5；不过即使如此，黑方后翼缺乏活动
+14. e5 Rg8 15. h4 b6                                                        ，局面仍然困难。
+
+So that after 16... Nf8 17. Qg5, Black has the reply 17... Ra7.
+                                                                            14. e5 Rg8 15. h4 b6
+16. Ne2 Nf8 17. a5 b5 18. g3 Rh8 19. Kg2 Kg8 20. Rh1 Kf7 21. Nf4
+Rg8 22. b3 Nh7 23. c4 Bd7 24. Rac1 Bf8 25. Be2 Nc8 26. cxd5 cxd5            这样在16... Nf8 17. Qg5之后，黑方可以应以17... Ra7。
+27. Bxf8
+
+After the exchange of bishops, several weak dark squares arise in           16. Ne2 Nf8 17. a5 b5 18. g3 Rh8 19. Kg2 Kg8 20.
+Black's camp - b6, f6 and especially c5. The last serves until the end of   Rh1 Kf7 21. Nf4 Rg8 22. b3 Nh7 23. c4 Bd7 24.
+the game as an excellent base for White's pieces. In addition, White's      Rac1 Bf8 25. Be2 Nc8 26. cxd5 cxd5 27. Bxf8
+rooks and queen soon occupy the c-file, which becomes a road of
+invasion into the enemy camp.
+                                                                            兑象以后，黑方阵地中出现了几个黑格弱点：b6、f6，尤其是c5。
+All these achievements are to a considerable extent consequences of         直到对局结束，c5一直是白方子力的优良据点。此外，白方的双车
+the powerful positional pressure exerted by the bishop on d6 over 13        和后很快占领c线，把它变成侵入敌阵的通道。
+moves. It not only cramped Black and played an important role in the
+development of the initiative, but also forced him into a series of
+                                                                            这些成就在很大程度上都是d6象连续13回合施加强大局面压力的结
+moves that weakened his position.
+                                                                            果。它不仅限制黑方，是白方主动权不断发展的重要因素，还迫使
+Since we will soon examine the role of open lines in a plan, we give        黑方走出一系列削弱自身局面的招法。
+the end of the game as a brief introduction to this important strategic
+theme.
+                                                                            我们马上就要考察开放线在计划中的作用，因此这里给出本局结尾
+                                                                            ，作为对这一重要战略主题的小小引介。
+27... Nxf8 28. Rc5
+
+Thus not only the knight and bishop, to which we have paid particular       27... Nxf8 28. Rc5
+
+
+
+                                                                             7
+  《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                        经校正的英文 OCR                                                                  中文译文
+
+attention in examining weak squares, but also the other pieces - rooks,
+queen and, in the endgame, even the king - can exert a decisive              由此可见，在弱格问题中，不仅我们重点讨论的马和象，其他棋子
+influence on the struggle when placed on weak points.
+                                                                             ——车、后，乃至残局中的王——占据弱点后也能对斗争进程产生
+28... Na7 29. Nd3 Kg7 30. Rhc1 Rc8 31. Rxc8 Bxc8 32. Qc3 Kh7 33.             决定性影响。
+Qc5
+                                                                             28... Na7 29. Nd3 Kg7 30. Rhc1 Rc8 31. Rxc8 Bxc8
+The invasion begins. Black may still repel one or another direct threat,
+                                                                             32. Qc3 Kh7 33. Qc5
+but he is unable to oppose White's offensive on the c-file with a
+planned defence.
+                                                                             入侵开始了。黑方或许还能挡住某个直接威胁，却已经无法用一套
+33... Rg7 34. Qb6! Qe7 35. Nc5 g5 36. hxg5 hxg5 37. Ne1, and Black           有计划的防守对抗白方沿c线的攻势。
+soon resigned.
+
+                                                                             33... Rg7 34. Qb6! Qe7 35. Nc5 g5 36. hxg5 hxg5
+                                                                             37. Ne1，黑方不久便认输。
+
+                        经校正的英文 OCR                                                                  中文译文
+
+WS-7                                                                         WS-7
+We examine one more example of a bishop invading the sixth rank in           再看一个象侵入敌方第六横线的例子：霍尔莫夫对利夫申一局（
+the enemy camp: Holmov-Livshin, 21st USSR Championship, 1954.
+                                                                             1954年第21届苏联锦标赛）。
+Two important positional features can be seen in White's arrangement:
+the bishop is established on the weak e6-square, while on the c-file the     白方的子力配置中有两个重要的局面特征：白象盘踞在e6弱格；双
+white rooks attack the backward pawn, whose defence ties down                车则在c线上攻击黑方落后兵，黑方主力全被牵制在对该兵的防守上。
+Black's main forces. Were it not for this latter circumstance, Black
+                                                                             若非后一因素，黑方本可利用开放的a线侵入白方阵地，从而在一定
+might himself have exploited the open a-file to invade White's camp
+and to some extent compensate for the powerfully posted bishop on e6.        程度上补偿e6白象的强大位置。
+
+41. b5                                                                       41. b5
+
+Preventing the advance of the c-pawn once and for all.
+                                                                             一劳永逸地制止c兵前进。
+41... Qe8
+                                                                             41... Qe8
+After 41... Nd8 42. e5 Nxe6 43. exd6 cxd6 44. dxe6, White would have
+had considerably better chances thanks to his control of the c-file and
+                                                                             若41... Nd8 42. e5 Nxe6 43. exd6 cxd6 44. dxe6，白
+the passed pawn on e6. For example, 44... Rac7 is impossible: after
+both pairs of rooks are exchanged, White wins with e7.                       方凭借对c线的控制和e6通路兵，将获得明显更好的机会。例如不能
+                                                                             走44... Rac7；双方两对车全部交换后，白方以e7取胜。
+42. Qb2 Qf8 43. Re3 Qa8 44. Re2
+                                                                             42. Qb2 Qf8 43. Re3 Qa8 44. Re2
+Black can no longer defend against the e5 break, whose strength is
+determined by the position of the bishop on e6.
+                                                                             黑方已经无法防住e5冲兵突破；这一突破的力量正是由e6象的位置
+44... Qf8 45. e5 Nd8                                                         决定的。
+
+The main variation of the breakthrough is 45... dxe5 46. fxe5 Nxe5 47.
+                                                                             44... Qf8 45. e5 Nd8
+Rxe5 fxe5 48. Rf1 Qd8 49. Qxe5+ Kh6 50. Qf4+ Kg7 51. Qf6+ Kh6
+52. Rf4, and the mating threat is irresistible.
+                                                                             突破的主要变化是45... dxe5 46. fxe5 Nxe5 47. Rxe5
+46. exd6 cxd6 47. Qd4 Rab7 48. g4 Re8 49. g5 Rbe7 50. f5                     fxe5 48. Rf1 Qd8 49. Qxe5+ Kh6 50. Qf4+ Kg7 51.
+                                                                             Qf6+ Kh6 52. Rf4，白方的将杀威胁无法抵挡。
+Opening lines on the kingside makes Black's resistance useless.
+
+50... Rb7 51. Rf1 Kh8 52. gxf6 Nf7 53. fxg6 hxg6 54. Rg2 Qh6 55.             46. exd6 cxd6 47. Qd4 Rab7 48. g4 Re8 49. g5
+Rg3 Kg8 56. Qd3 1-0                                                          Rbe7 50. f5
+
+In the final position, the bishop on e6 plays the leading role, just as it
+                                                                             王翼线路一经打开，黑方的抵抗便失去意义。
+did throughout the attack.
+
+
+
+                                                                              8
+《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+        经校正的英文 OCR                                  中文译文
+
+
+                               50... Rb7 51. Rf1 Kh8 52. gxf6 Nf7 53. fxg6 hxg6
+                               54. Rg2 Qh6 55. Rg3 Kg8 56. Qd3 1-0
+
+
+                               终局局面中，e6象自始至终都在整场进攻中扮演着主角。
+
+
+
+
+                                   9
+《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+附录：原扫描页
+以下扫描页保留原书棋盘图、版面和旧式记谱，用于核对 OCR、棋谱与译文。相邻小节共用的边界页会在两份校样中重复收录。
+
+
+
+
+                                   10
+《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                            原书印刷页 43
+
+
+
+
+                                   11
+《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                            原书印刷页 44
+
+
+
+
+                                   12
+《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                            原书印刷页 45
+
+
+
+
+                                   13
+《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                            原书印刷页 46
+
+
+
+
+                                   14
+《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                            原书印刷页 47
+
+
+
+
+                                   15
+《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                            原书印刷页 48
+
+
+
+
+                                   16
+《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                            原书印刷页 49
+
+
+
+
+                                   17
+《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                            原书印刷页 50
+
+
+
+
+                                   18
+《国际象棋中局计划》｜格子 - 第六（第三）横线上的弱格｜校对稿
+
+
+
+
+                            原书印刷页 51
+
+
+
+
+                                   19
+

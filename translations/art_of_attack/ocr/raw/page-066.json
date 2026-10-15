@@ -1,0 +1,210 @@
+{
+  "pdf_page": 66,
+  "printed_page": 66,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        314.9,
+        284.4,
+        1046.3,
+        379.2
+      ],
+      "text": "4 Mating patterns",
+      "confidence": 0.9736
+    },
+    {
+      "bbox": [
+        318.5,
+        515.2,
+        1641.7,
+        581.3
+      ],
+      "text": "Spatial relationships in a mating attack can be observed by examining mating",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        314.9,
+        570.1,
+        1638.0,
+        626.2
+      ],
+      "text": "patterns, focal-points, and the roles played by the ranks, files, and diagonals. In",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        316.1,
+        618.8,
+        1638.0,
+        677.4
+      ],
+      "text": "this chapter we shall be concerned with mating patterns. This choice has a practi-",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        317.3,
+        669.9,
+        1640.5,
+        728.5
+      ],
+      "text": "cal justification in that mating patterns can be more easily remembered than the",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        314.9,
+        717.3,
+        1641.7,
+        782.2
+      ],
+      "text": "ways leading up to mate. For this reason mating patterns, even though they occur",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        316.1,
+        769.7,
+        1640.5,
+        832.1
+      ],
+      "text": "only at the very end of a mating attack, are fundamental for practical purposes",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        310.0,
+        814.6,
+        1638.0,
+        885.7
+      ],
+      "text": "because of the excellent mnemonic assistance which they provide to the player.",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        355.3,
+        870.7,
+        1638.0,
+        933.1
+      ],
+      "text": "Our first concern is for the most common mating patterns; these hardly ever",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        311.2,
+        918.1,
+        1638.0,
+        983.0
+      ],
+      "text": "occur in the middle of the board, but they are very frequent in the castling area,",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        306.3,
+        969.3,
+        1190.8,
+        1027.9
+      ],
+      "text": "i.e. near the king's position on the edge of the board.",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        311.2,
+        1075.3,
+        1241.1,
+        1145.2
+      ],
+      "text": "Typical mates without enemy pieces",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        306.3,
+        1168.9,
+        1636.8,
+        1235.0
+      ],
+      "text": "There are a very large number of typical mates of this kind and most of them are",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        307.5,
+        1221.3,
+        1634.3,
+        1284.9
+      ],
+      "text": "elementary, so we shall consider only a few examples. (For the sake of greater",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        306.3,
+        1271.2,
+        1234.9,
+        1329.8
+      ],
+      "text": "clarity the diagrams are shown without the white king.)",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        347.9,
+        1322.3,
+        1631.9,
+        1386.0
+      ],
+      "text": "In the first position White, to move, has a choice between two typical mates:",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        637.1,
+        1533.2,
+        672.6,
+        1566.8
+      ],
+      "text": "W",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        347.9,
+        1776.4,
+        999.7,
+        1826.3
+      ],
+      "text": "1) 1 g6+ gg8 2 Wh7+ f8 3 Wf7#.",
+      "confidence": 0.9254
+    },
+    {
+      "bbox": [
+        344.3,
+        1827.6,
+        760.8,
+        1876.2
+      ],
+      "text": "2) 1 f5+ g8 2 e6#.",
+      "confidence": 0.9712
+    },
+    {
+      "bbox": [
+        633.4,
+        2034.6,
+        666.5,
+        2067.1
+      ],
+      "text": "W",
+      "confidence": 0.9681
+    }
+  ]
+}

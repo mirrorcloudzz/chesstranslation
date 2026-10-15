@@ -1,0 +1,290 @@
+{
+  "pdf_page": 40,
+  "printed_page": 40,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        245.0,
+        122.3,
+        298.9,
+        167.2
+      ],
+      "text": "40",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        676.3,
+        124.7,
+        1176.1,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9665
+    },
+    {
+      "bbox": [
+        246.3,
+        270.7,
+        1571.9,
+        320.6
+      ],
+      "text": "(15...Wxf3+ is weak, because of 16 e1! and White saves his bishop) 16 f2",
+      "confidence": 0.9751
+    },
+    {
+      "bbox": [
+        243.8,
+        316.9,
+        1576.8,
+        376.7
+      ],
+      "text": "Wxh2+ 17 e3 Wh6+ with perpetual check (for if 18 e4 Wh4+ 19 f4, Black",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        247.5,
+        376.7,
+        569.7,
+        417.9
+      ],
+      "text": "can play 19...cxb5)",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        290.4,
+        421.6,
+        1571.9,
+        470.3
+      ],
+      "text": "14...Wg6+ 15 e3 cxb5 16 a3 c6 17 Wd5 Wxc2 18 ac1 Wf5 19 he1",
+      "confidence": 0.9529
+    },
+    {
+      "bbox": [
+        246.3,
+        471.5,
+        430.0,
+        519.0
+      ],
+      "text": "d8?! (D)",
+      "confidence": 0.9632
+    },
+    {
+      "bbox": [
+        290.4,
+        525.2,
+        1573.1,
+        570.1
+      ],
+      "text": "Black clearly cannot take the e-pawn because of 20 f2, but 19...b4 would",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        242.6,
+        573.8,
+        1571.9,
+        623.7
+      ],
+      "text": "have been better and safer than the move played. After 20 Qxb4 (20 cxb4 0-0 21",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        243.8,
+        620.0,
+        1576.8,
+        676.1
+      ],
+      "text": "b5 fe8 is in Black's favour) 20...xb4 21 cxb4 0-0 the exposed position of",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        245.0,
+        674.9,
+        1573.1,
+        726.0
+      ],
+      "text": "White's king together with his scattered pawns gives Black a considerable ad-",
+      "confidence": 0.98
+    },
+    {
+      "bbox": [
+        245.0,
+        726.0,
+        1573.1,
+        772.2
+      ],
+      "text": "vantage. Thus in the event of 22 ed1 (22 c7 is weaker because of 22...ae8 23",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        243.8,
+        770.9,
+        1573.1,
+        824.6
+      ],
+      "text": "f4 d8 24 We4 Wh3+) 22...ae8 23 f4 Wh3+ 24 Wf3 Wxh2 25 d2 Wh6 Black",
+      "confidence": 0.9668
+    },
+    {
+      "bbox": [
+        242.6,
+        824.6,
+        1571.9,
+        878.2
+      ],
+      "text": "threatens both 26...xe5+ and 26...f6. The queen's great manoeuvrability comes",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        242.6,
+        877.0,
+        809.8,
+        920.6
+      ],
+      "text": "into its own in situations like this.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        586.8,
+        1082.8,
+        619.9,
+        1115.2
+      ],
+      "text": "W",
+      "confidence": 0.9337
+    },
+    {
+      "bbox": [
+        285.5,
+        1579.3,
+        446.0,
+        1625.5
+      ],
+      "text": "20 Wxb5",
+      "confidence": 0.9448
+    },
+    {
+      "bbox": [
+        285.5,
+        1630.5,
+        1569.4,
+        1686.6
+      ],
+      "text": "20 d6 also came into consideration, though 20..f6 would then have led to a",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        240.1,
+        1684.1,
+        736.3,
+        1730.3
+      ],
+      "text": "difficult and unclear position.",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        286.7,
+        1735.2,
+        406.7,
+        1773.9
+      ],
+      "text": "20...a6",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        284.2,
+        1783.9,
+        1026.7,
+        1832.5
+      ],
+      "text": "20...g5 could have been parried by 21 cd1.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        284.2,
+        1833.8,
+        422.7,
+        1877.5
+      ],
+      "text": "21 Wb1",
+      "confidence": 0.9494
+    },
+    {
+      "bbox": [
+        283.0,
+        1886.2,
+        1567.0,
+        1938.6
+      ],
+      "text": "The queen must cover the d3-square and if 21 Wf1, then Black could have car-",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        235.2,
+        1932.3,
+        1568.2,
+        1993.5
+      ],
+      "text": "ried out an artificial castling by means of ...d7-c8 and so made his advantage",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        227.9,
+        1968.5,
+        352.8,
+        2047.1
+      ],
+      "text": "clear'.",
+      "confidence": 0.9242
+    },
+    {
+      "bbox": [
+        318.5,
+        2092.0,
+        1564.5,
+        2150.7
+      ],
+      "text": "In fact 21 Wf1 $d7 can be met by 22 Wd3+ and White escapes into a playable",
+      "confidence": 0.9719
+    },
+    {
+      "bbox": [
+        322.2,
+        2143.2,
+        1564.5,
+        2196.8
+      ],
+      "text": "ending. 21 Wf1 is best answered by 21...xe5 and White cannot exploit the",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        321.0,
+        2195.6,
+        1216.6,
+        2241.7
+      ],
+      "text": "line-up on the e-file because his own king is so exposed.",
+      "confidence": 0.9986
+    }
+  ]
+}

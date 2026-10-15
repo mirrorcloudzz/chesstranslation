@@ -1,0 +1,280 @@
+{
+  "pdf_page": 327,
+  "printed_page": 327,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        491.0,
+        131.0,
+        1311.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "327",
+      "bbox": [
+        1488.0,
+        131.0,
+        1549.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a greater whole'. But it is precisely this false union of ideas which was the reason",
+      "bbox": [
+        233.0,
+        279.0,
+        1552.0,
+        319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for White's failure to discover the correct path to victory as, after 4...Vf8, he lis-",
+      "bbox": [
+        233.0,
+        323.0,
+        1551.0,
+        367.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tened to Big Ben chime quarter after quarter while his knight remained sus-",
+      "bbox": [
+        233.0,
+        379.0,
+        1551.0,
+        419.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pended in mid-air at e4. It is true that in the diagrammed position there are two",
+      "bbox": [
+        232.0,
+        429.0,
+        1552.0,
+        470.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "factors making up White's advantage: a powerful kingside attack and a favour-",
+      "bbox": [
+        233.0,
+        479.0,
+        1552.0,
+        520.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "able knight versus bishop ending (once all the heavy pieces are exchanged).",
+      "bbox": [
+        234.0,
+        529.0,
+        1551.0,
+        570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "These two elements could only be combined if the attack led to the exchange of",
+      "bbox": [
+        233.0,
+        579.0,
+        1556.0,
+        619.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the queens and rooks, but the attack can break through without exchanges, and",
+      "bbox": [
+        233.0,
+        629.0,
+        1553.0,
+        671.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "consequently it is beside the point how good the ending is. In fact, taking the",
+      "bbox": [
+        233.0,
+        680.0,
+        1553.0,
+        721.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawn on e4 promotes neither White' s attack nor his endgame prospects, but sim-",
+      "bbox": [
+        233.0,
+        730.0,
+        1552.0,
+        772.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ply gives Black an opportunity of counterattacking along the e-file. Victory for",
+      "bbox": [
+        233.0,
+        781.0,
+        1554.0,
+        823.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White is an altogether easy matter, as long as he concerns himself entirely with",
+      "bbox": [
+        233.0,
+        832.0,
+        1553.0,
+        872.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the attack and forgets the pawn on e4:",
+      "bbox": [
+        234.0,
+        883.0,
+        862.0,
+        922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Vh3 h6 2 Xfg4",
+      "bbox": [
+        282.0,
+        929.0,
+        571.0,
+        972.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This is all forced.",
+      "bbox": [
+        279.0,
+        985.0,
+        567.0,
+        1014.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 Qe2! (D)",
+      "bbox": [
+        280.0,
+        1029.0,
+        466.0,
+        1071.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White simply transfers the knight to h5 and carefully avoids the poisonous",
+      "bbox": [
+        279.0,
+        1084.0,
+        1553.0,
+        1123.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawn on e4!",
+      "bbox": [
+        234.0,
+        1136.0,
+        435.0,
+        1175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...a5",
+      "bbox": [
+        280.0,
+        1843.0,
+        372.0,
+        1873.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White also wins after both 3...Xh8 4 Qf4 Ad7 5 Xg6 ég8 6 Qh51 and 3...Vf8",
+      "bbox": [
+        280.0,
+        1882.0,
+        1554.0,
+        1932.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(or 3...Ad5 4 Qf4) 4 Qf4 followed by Xg6 and Qh5.",
+      "bbox": [
+        236.0,
+        1939.0,
+        1120.0,
+        1983.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4 xg6 Vf8 5 Qu b4 6 Qh5 Äf7",
+      "bbox": [
+        280.0,
+        1989.0,
+        831.0,
+        2033.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Otherwise White wins even more quickly by Qxf6+.",
+      "bbox": [
+        281.0,
+        2040.0,
+        1158.0,
+        2083.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Unfortunately this runs into 6...Vxg6, but White could have won earlier by 5",
+      "bbox": [
+        239.0,
+        2146.0,
+        1555.0,
+        2188.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qh5 Axf5 6 Xxg7+ Vxg7 7 Vxf5+ Vg6 8 hxf6+ 9 Äg4.",
+      "bbox": [
+        318.0,
+        2194.0,
+        1325.0,
+        2236.0
+      ],
+      "confidence": null
+    }
+  ]
+}

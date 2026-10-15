@@ -1,0 +1,410 @@
+{
+  "pdf_page": 264,
+  "printed_page": 264,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "264",
+      "bbox": [
+        249.0,
+        120.0,
+        312.0,
+        152.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        676.0,
+        124.0,
+        1170.0,
+        165.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "46 xgl Vxf5 47 Vh4+ Vh5 48 Vf4+ vg5 49 xxg5 fxg5 50 Vd6+ 51",
+      "bbox": [
+        291.0,
+        266.0,
+        1564.0,
+        317.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxd7 c2",
+      "bbox": [
+        246.0,
+        315.0,
+        395.0,
+        351.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black allows himself to be mated, but after 51 ...Äbl+ 52 ég2 Äb2+ 53 ég3",
+      "bbox": [
+        291.0,
+        372.0,
+        1563.0,
+        421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ég6 Black must lose eventually.",
+      "bbox": [
+        245.0,
+        416.0,
+        784.0,
+        463.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "52 Vxh7#",
+      "bbox": [
+        290.0,
+        466.0,
+        463.0,
+        501.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This famous game has its place in chess literature as a classic example of an at-",
+      "bbox": [
+        288.0,
+        571.0,
+        1562.0,
+        619.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack on the castled king which is stronger than the counterattack on the queen-",
+      "bbox": [
+        243.0,
+        621.0,
+        1561.0,
+        670.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "side. But in the light of my annotations, which differ fundamentally from all",
+      "bbox": [
+        243.0,
+        672.0,
+        1561.0,
+        720.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "annotations hitherto, from Tarrasch to Réti, this game takes on a new appearance.",
+      "bbox": [
+        243.0,
+        723.0,
+        1559.0,
+        771.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's numerous opportunities to strengthen his game at various stages point",
+      "bbox": [
+        242.0,
+        773.0,
+        1562.0,
+        823.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rather to the equal balance between the attack and the indirect defence, and it was",
+      "bbox": [
+        241.0,
+        824.0,
+        1559.0,
+        868.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "only the decisive mistake on the thirty-eighth move which swung the balance in",
+      "bbox": [
+        241.0,
+        874.0,
+        1559.0,
+        922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's favour. This view of the game also qualifies it as a good example of the",
+      "bbox": [
+        240.0,
+        924.0,
+        1559.0,
+        973.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "importance of indirect defence against an attack on the castled king, and of the",
+      "bbox": [
+        240.0,
+        974.0,
+        1558.0,
+        1022.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "part played by operations with wing pawns in particular.",
+      "bbox": [
+        238.0,
+        1025.0,
+        1172.0,
+        1069.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Indirect defence by means of advancing a pawn majority on the queenside was",
+      "bbox": [
+        284.0,
+        1075.0,
+        1557.0,
+        1123.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "at one time held in high esteem and was more often practised than nowadays; the",
+      "bbox": [
+        238.0,
+        1126.0,
+        1557.0,
+        1175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "real reason for this is that we have acquired a better understanding of the centre",
+      "bbox": [
+        237.0,
+        1175.0,
+        1556.0,
+        1224.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and the technique of centralization, thanks to the hypermodern school. It is clear",
+      "bbox": [
+        237.0,
+        1225.0,
+        1556.0,
+        1272.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "that the player who has a majority on the wing, when the material is equally bal-",
+      "bbox": [
+        236.0,
+        1276.0,
+        1554.0,
+        1326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "anced, will usually not have the greater influence or pressure in the centre, nor",
+      "bbox": [
+        236.0,
+        1327.0,
+        1555.0,
+        1373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "will he have the necessary conditions for a central action. A majority on the wing",
+      "bbox": [
+        235.0,
+        1376.0,
+        1553.0,
+        1429.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is created at the expense of the centre and means giving up lateral pressure on the",
+      "bbox": [
+        235.0,
+        1427.0,
+        1553.0,
+        1477.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "centre, and that is the sort of which the masters of today are reluctant to",
+      "bbox": [
+        233.0,
+        1479.0,
+        1552.0,
+        1526.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "adopt. The struggle for the centre is a characteristic feature of all present-day",
+      "bbox": [
+        234.0,
+        1528.0,
+        1551.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "openings, and the centralization of the pieces is an important theme of modern",
+      "bbox": [
+        233.0,
+        1579.0,
+        1551.0,
+        1626.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "positional play; as a result, a majority on the wing appears nowadays more as a",
+      "bbox": [
+        231.0,
+        1629.0,
+        1552.0,
+        1678.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by-product of a particular strategy than its primary aim (for example, in the Ex-",
+      "bbox": [
+        232.0,
+        1678.0,
+        1549.0,
+        1729.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "change Variation of the Grünfeld Defence).",
+      "bbox": [
+        231.0,
+        1729.0,
+        948.0,
+        1772.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Thus, concern for the centre is driving majority actions out of use, and it",
+      "bbox": [
+        275.0,
+        1780.0,
+        1550.0,
+        1828.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "should be added that an indirect defence against an attack on the castled king is",
+      "bbox": [
+        230.0,
+        1831.0,
+        1548.0,
+        1884.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "more effective and holds better prospects of success in the form of a central ac-",
+      "bbox": [
+        229.0,
+        1882.0,
+        1547.0,
+        1927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion than one using wing pawns. This is shown by the following general consid-",
+      "bbox": [
+        229.0,
+        1932.0,
+        1546.0,
+        1983.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "erations.",
+      "bbox": [
+        228.0,
+        1983.0,
+        367.0,
+        2013.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l) Advancing pawns on the opposite wing is a slow process, since, as a rule,",
+      "bbox": [
+        277.0,
+        2033.0,
+        1545.0,
+        2083.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the whole pawn chain must move forward for a passed pawn to be created.",
+      "bbox": [
+        227.0,
+        2083.0,
+        1465.0,
+        2131.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) The attacker knows which pawn is going to be dangerous and so can ar-",
+      "bbox": [
+        272.0,
+        2133.0,
+        1544.0,
+        2182.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "range to contain it economically, either by preparing to block the pawn with a",
+      "bbox": [
+        225.0,
+        2186.0,
+        1546.0,
+        2235.0
+      ],
+      "confidence": null
+    }
+  ]
+}

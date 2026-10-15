@@ -1,0 +1,290 @@
+{
+  "pdf_page": 174,
+  "printed_page": 174,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        231.6,
+        121.0,
+        308.7,
+        168.4
+      ],
+      "text": "174",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        660.4,
+        127.2,
+        1162.7,
+        178.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        278.1,
+        270.7,
+        1558.4,
+        330.6
+      ],
+      "text": "1b) 18 d6 xe5 (this gives back material and at the same time eliminates",
+      "confidence": 0.9757
+    },
+    {
+      "bbox": [
+        231.6,
+        318.1,
+        1559.6,
+        380.5
+      ],
+      "text": "White's threats) 19 xc8+ xc8 20 Wxe5 Wc7, and Black's position is in no",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        234.0,
+        373.0,
+        449.6,
+        420.4
+      ],
+      "text": "way inferior.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        273.2,
+        420.4,
+        1558.4,
+        480.3
+      ],
+      "text": "1c) 18 wg5+ d7 19 Wxg7 b6! 20 ②d6 Ωa6 21 f4 d3 and Black obtains",
+      "confidence": 0.9581
+    },
+    {
+      "bbox": [
+        227.9,
+        471.5,
+        1557.2,
+        531.4
+      ],
+      "text": "counterplay, e.g. if 22 c3 or 22 cxd3, then 22...d4, while e8 can always be an-",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        230.3,
+        526.4,
+        532.9,
+        567.6
+      ],
+      "text": "swered by ...e7.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        270.8,
+        571.3,
+        1559.6,
+        631.2
+      ],
+      "text": "2) 17 xd4 c6 18 f4 (sacrifices at this point are insufficient to break",
+      "confidence": 0.9761
+    },
+    {
+      "bbox": [
+        226.7,
+        620.0,
+        1553.5,
+        686.1
+      ],
+      "text": "through) 18...d7 19 g4 We7 20 xg7 b6 and against any further activity by",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        226.7,
+        672.4,
+        1555.9,
+        733.5
+      ],
+      "text": "White on the kingside Black has enough counterplay based on ...'d4 and even-",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        226.7,
+        724.8,
+        657.9,
+        769.7
+      ],
+      "text": "tually ...ac8 and ...Wc5.",
+      "confidence": 0.9344
+    },
+    {
+      "bbox": [
+        270.8,
+        773.4,
+        428.8,
+        818.3
+      ],
+      "text": "17 dxc5!",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        268.3,
+        823.3,
+        1046.3,
+        879.5
+      ],
+      "text": "Now all is well again, and the position is won.",
+      "confidence": 0.9733
+    },
+    {
+      "bbox": [
+        273.2,
+        873.2,
+        688.5,
+        918.1
+      ],
+      "text": "17...d7 18 xd5! Wa5",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        267.1,
+        921.9,
+        1540.0,
+        983.0
+      ],
+      "text": "If 18...exd5 then 19 xd5+ e6 20 f4+ e7 21 e6! f6 22 We5 and mates.",
+      "confidence": 0.9638
+    },
+    {
+      "bbox": [
+        272.0,
+        976.8,
+        900.5,
+        1025.4
+      ],
+      "text": "19 Wg5+ xf7 20 h7 g8 21 μd4!",
+      "confidence": 0.9635
+    },
+    {
+      "bbox": [
+        267.1,
+        1026.7,
+        1549.8,
+        1082.8
+      ],
+      "text": "There are a number of ‘subsidiary solutions' here, but 21 xd7+? Qxd7 22",
+      "confidence": 0.9757
+    },
+    {
+      "bbox": [
+        223.0,
+        1071.6,
+        927.4,
+        1129.0
+      ],
+      "text": "Ze4 does not work because of 22...We1#.",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        270.8,
+        1125.2,
+        621.1,
+        1170.1
+      ],
+      "text": "21...Wxc5 22 xd7+",
+      "confidence": 0.9517
+    },
+    {
+      "bbox": [
+        265.9,
+        1177.6,
+        938.5,
+        1230.0
+      ],
+      "text": "But now, of course, this way is all right!",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        265.9,
+        1220.0,
+        993.6,
+        1282.4
+      ],
+      "text": "22...xd7 23 2e4 Wb4 24 d6+ f8 (D)",
+      "confidence": 0.9602
+    },
+    {
+      "bbox": [
+        557.4,
+        1439.6,
+        586.8,
+        1468.3
+      ],
+      "text": "W",
+      "confidence": 0.9474
+    },
+    {
+      "bbox": [
+        259.7,
+        1934.8,
+        656.7,
+        1982.2
+      ],
+      "text": "25 Wf6+ gxf6 26 f7#.",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        254.8,
+        1982.2,
+        1538.8,
+        2050.9
+      ],
+      "text": " In the past commentators used to end their work on games like this by praising",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        213.2,
+        2037.1,
+        1538.8,
+        2095.8
+      ],
+      "text": "the winner, but does not the loser in some way deserve credit too? Is it not he who",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        291.6,
+        2136.9,
+        1537.6,
+        2205.5
+      ],
+      "text": "Not so, as White wins by 20 Wg5+ d7 21 xf7 Wxf7 22 h7 and the g7-pawn",
+      "confidence": 0.9615
+    },
+    {
+      "bbox": [
+        289.1,
+        2189.3,
+        379.8,
+        2236.7
+      ],
+      "text": "falls.",
+      "confidence": 0.9996
+    }
+  ]
+}

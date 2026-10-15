@@ -1,0 +1,270 @@
+{
+  "pdf_page": 210,
+  "printed_page": 210,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "210",
+      "bbox": [
+        233.0,
+        120.0,
+        296.0,
+        151.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        659.0,
+        121.0,
+        1153.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which the pawn drives off one of the opponent's pieces or creates a sharp threat",
+      "bbox": [
+        231.0,
+        269.0,
+        1550.0,
+        314.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of some kind. A typical example of the bayonet attack is the move g4, whereby",
+      "bbox": [
+        231.0,
+        319.0,
+        1549.0,
+        364.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White prepares the advance g5 and an attack on Black' s knight at f6. The follow-",
+      "bbox": [
+        230.0,
+        369.0,
+        1547.0,
+        412.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing examples show us some typical cases of the bayonet attack.",
+      "bbox": [
+        230.0,
+        419.0,
+        1281.0,
+        461.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The following position arose in Keres-Petrov, Estonia-Latvia Match, 1939 af-",
+      "bbox": [
+        274.0,
+        520.0,
+        1546.0,
+        560.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ter the moves 1 e4 e6 2 d4 d5 3 Qd2 dxe4 4 Q)xe4 Qd7 5 Qf3 Ae7 6 Ad3 Qgf6",
+      "bbox": [
+        229.0,
+        567.0,
+        1547.0,
+        614.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 ve2 8 Axe4 hf6 9 Ad3 c5 10 dxc5 Va5+ 11 Ad2 Vxc5 12 0-0-0 0-0",
+      "bbox": [
+        228.0,
+        615.0,
+        1547.0,
+        657.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13 b6 (D).",
+      "bbox": [
+        230.0,
+        670.0,
+        483.0,
+        707.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White now played:",
+      "bbox": [
+        266.0,
+        1373.0,
+        578.0,
+        1413.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 g4! Abi",
+      "bbox": [
+        268.0,
+        1420.0,
+        462.0,
+        1462.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black attempts to halt the further advance of White's pawn by indirect means,",
+      "bbox": [
+        266.0,
+        1475.0,
+        1538.0,
+        1521.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "namely, by attacking the rook on h 1. The other possible replies were no better;",
+      "bbox": [
+        220.0,
+        1525.0,
+        1537.0,
+        1571.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's position is already so powerful that a bayonet attack is fully justified. If",
+      "bbox": [
+        219.0,
+        1575.0,
+        1542.0,
+        1623.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14...h6, White would continue 15 h4, threatening g5 with even greater effect;",
+      "bbox": [
+        223.0,
+        1625.0,
+        1537.0,
+        1673.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "against 14...g6 he would not play 15 g5 immediately (since Black would reply",
+      "bbox": [
+        219.0,
+        1676.0,
+        1537.0,
+        1726.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15...Qh5), but 15 h4 followed by h5. Finally, if 14...Ad6 then 15 f4 is very",
+      "bbox": [
+        222.0,
+        1721.0,
+        1537.0,
+        1777.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "strong.",
+      "bbox": [
+        218.0,
+        1781.0,
+        328.0,
+        1815.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White does not worry about his rook, since if 15...Axh1, he can dictate mat-",
+      "bbox": [
+        261.0,
+        1878.0,
+        1534.0,
+        1921.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ters with 16 gxf6 Axf6 (or 16...gxf6 17 Vg4+ 18 Zgl Zg8 19 Qxf7#) 17",
+      "bbox": [
+        215.0,
+        1925.0,
+        1534.0,
+        1976.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vc6 18 Oxf6+ gxf6 19 Vg4+ 20 Vh4 f5 21 Vf6+ 22 xgl+ Ag2",
+      "bbox": [
+        301.0,
+        1973.0,
+        1534.0,
+        2029.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23 Ah6 and mates.",
+      "bbox": [
+        215.0,
+        2024.0,
+        529.0,
+        2061.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15...Qd5 16 Xhgl",
+      "bbox": [
+        261.0,
+        2075.0,
+        566.0,
+        2120.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black could have answered 16 hd7 with 16...Vc7 17 Q)xf8 hf4! forcing sim-",
+      "bbox": [
+        258.0,
+        2129.0,
+        1532.0,
+        2180.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "plification.",
+      "bbox": [
+        212.0,
+        2181.0,
+        390.0,
+        2218.0
+      ],
+      "confidence": null
+    }
+  ]
+}

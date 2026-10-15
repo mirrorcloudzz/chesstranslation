@@ -1,0 +1,290 @@
+{
+  "pdf_page": 126,
+  "printed_page": 126,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        265.9,
+        112.3,
+        340.6,
+        159.7
+      ],
+      "text": "126",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        694.7,
+        118.5,
+        1195.7,
+        168.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9617
+    },
+    {
+      "bbox": [
+        267.1,
+        269.5,
+        1144.3,
+        333.1
+      ],
+      "text": "The variation with ...g6 is critica!",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        263.4,
+        364.3,
+        1586.6,
+        419.2
+      ],
+      "text": "Here the critical continuation is ...g6, while that with ...g8 involves less diffi-",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        262.2,
+        412.9,
+        362.6,
+        464.1
+      ],
+      "text": "culty.",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        686.1,
+        538.9,
+        929.9,
+        602.5
+      ],
+      "text": "宴皇善",
+      "confidence": 0.5118
+    },
+    {
+      "bbox": [
+        601.5,
+        621.2,
+        635.8,
+        656.2
+      ],
+      "text": "W",
+      "confidence": 0.9212
+    },
+    {
+      "bbox": [
+        300.2,
+        1114.0,
+        802.5,
+        1167.6
+      ],
+      "text": "1 Ωxh7+ xh7 2 ②g5+ g6",
+      "confidence": 0.8894
+    },
+    {
+      "bbox": [
+        297.7,
+        1166.4,
+        1581.7,
+        1228.8
+      ],
+      "text": "If 2...g8 3 Wh5 e8, White should keep his eyes well open and stop himself",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        252.4,
+        1216.3,
+        1581.7,
+        1278.7
+      ],
+      "text": "from charging in with 4 Wxf7+?, since then Black has an adequate defence in",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        252.4,
+        1266.2,
+        1580.4,
+        1327.3
+      ],
+      "text": "4...h8 5 Wh5+ g8 6 Wh7+ f8 7 Wh8+ ②g8 8 h7+ f7. The finesse lies",
+      "confidence": 0.9565
+    },
+    {
+      "bbox": [
+        247.5,
+        1318.6,
+        1578.0,
+        1381.0
+      ],
+      "text": "in not taking the pawn on f7 but playing 4 Wh7+! f8 5 Wh8+ g8 6 h7+ e7",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        251.2,
+        1368.5,
+        613.8,
+        1418.4
+      ],
+      "text": "7 g5+ f6 8 wxg7#!",
+      "confidence": 0.9395
+    },
+    {
+      "bbox": [
+        295.3,
+        1419.6,
+        774.3,
+        1469.5
+      ],
+      "text": "3 Wg4! f5 4 Wg3 We8 5 h4!",
+      "confidence": 0.9307
+    },
+    {
+      "bbox": [
+        294.0,
+        1469.5,
+        1578.0,
+        1531.9
+      ],
+      "text": "Only now does White play this move and force ...Mh8; after the earlier 3 h4",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        251.2,
+        1518.2,
+        1328.1,
+        1579.3
+      ],
+      "text": "h8 4 Wg4 f5 5 Wg3, Black could have countered with 5...Wg8.",
+      "confidence": 0.9788
+    },
+    {
+      "bbox": [
+        292.8,
+        1568.1,
+        1320.7,
+        1626.7
+      ],
+      "text": "5...h8 6 xe6+ f7 7 Wxg7+ xe6 8 Wf6+ d7 9 Wd6#.",
+      "confidence": 0.9553
+    },
+    {
+      "bbox": [
+        290.4,
+        1618.0,
+        1575.5,
+        1686.6
+      ],
+      "text": "This is a characteristic outcome of the continuation ...g6; with the king on",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        246.3,
+        1671.6,
+        1574.3,
+        1737.7
+      ],
+      "text": "g6, the pawn on h4 is an assistance to White, as it usually is when Black adopts",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        247.5,
+        1722.8,
+        465.6,
+        1770.2
+      ],
+      "text": "this defence.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        287.9,
+        1773.9,
+        1574.3,
+        1837.5
+      ],
+      "text": "In the next case White has no pawn on e5, but the presence of his rook on the",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        246.3,
+        1826.3,
+        1574.3,
+        1886.2
+      ],
+      "text": "open e-file ensures success against ...g8. In the variation with ...g6 White is",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        245.0,
+        1875.0,
+        673.8,
+        1924.9
+      ],
+      "text": "made to work for victory.",
+      "confidence": 0.9754
+    },
+    {
+      "bbox": [
+        286.7,
+        1922.4,
+        955.6,
+        1979.8
+      ],
+      "text": "1 xh7+ xh7 2 ②g5+ g6 3 Wg4 f5",
+      "confidence": 0.9159
+    },
+    {
+      "bbox": [
+        285.5,
+        1969.8,
+        1188.4,
+        2035.9
+      ],
+      "text": "If 3...f6, then 4 Wh4 h8' 5 Wf4+, etc. is strongest.",
+      "confidence": 0.9674
+    },
+    {
+      "bbox": [
+        323.4,
+        2084.5,
+        1570.6,
+        2148.2
+      ],
+      "text": "Here 4...g6 is much stronger, when White has nothing better than to repeat",
+      "confidence": 0.9778
+    },
+    {
+      "bbox": [
+        323.4,
+        2133.2,
+        1569.4,
+        2194.3
+      ],
+      "text": "moves. Thus White should instead meet 3...f6 by 4 e4+ e7 5 Wxg7 dxe4",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        322.2,
+        2178.1,
+        1536.3,
+        2246.7
+      ],
+      "text": "(the only chance) 6 g5+ e8 7 &xd8 xd8 8 xe4 with a winning position.",
+      "confidence": 0.984
+    }
+  ]
+}

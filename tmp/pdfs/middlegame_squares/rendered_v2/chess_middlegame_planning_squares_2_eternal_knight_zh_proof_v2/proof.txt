@@ -1,0 +1,533 @@
+                《国际象棋中局计划》
+                    B：格子 - 2：铁马
+
+                   英文 OCR 校正稿 + 中文翻译校对稿
+
+
+
+     文档性质     初译校对稿，非最终出版版本
+
+
+     内容范围     原书印刷页 38-43
+
+
+     棋谱规范     中文译文采用现代 SAN；黑方单独着法使用省略号；结果使用 1-0 / 0-1
+
+
+     术语延续     tempo 译为“先手”；动象 / 动后 / 动马 / 动车；material 按棋理语境译为“子
+              力”
+
+
+     版本日期     2026-09-24
+
+
+
+
+重点核对“铁马”的术语、五组例局或片段、棋手译名和全部分析变例。
+
+
+
+
+                                1
+ 《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+B：格子 - 2：铁马
+                       经校正的英文 OCR                                                            中文译文
+
+EK-1                                                                    EK-1
+When a knight occupies an impregnable position on a weak square in      当一匹马占据中心或对方阵地内一个无法攻破的弱格时，它会变得
+the centre or in the opponent's camp, it becomes particularly strong.
+                                                                        格外强大。我们把这样的棋子形象地称为“铁马”，并非没有道理。
+Not for nothing do we give such a piece the graphic name "eternal"
+knight.
+                                                                        下面考察几个由“铁马”决定斗争结果的例子。
+We will look at a few examples in which the "eternal" knight decides
+the outcome of the struggle.
+                                                                        图示局面产生于伊兹迈洛夫对卡斯帕里扬一局，比赛为1931年第7届
+
+The following position arose after the move 18. Qe3 in the game         苏联锦标赛半决赛；此前白方刚走了18. Qe3。
+Izmailov-Kasparyan, played in the semi-final of the 7th USSR
+Championship (1931).                                                    18... Bxf3
+
+18... Bxf3
+                                                                        也可以走18... Bf5。此时白方若走19. g4?并不好，因为
+Also possible was 18... Bf5, when 19. g4? Nf4 is bad for White, since   19... Nf4之后，黑马将牢牢占据弱格。白方必须走19. Nh4，以
+the knight firmly occupies the weak square. White would have to reply   便在19... Nf4后大胆走20. O-O-O。
+19. Nh4, so that after 19... Nf4 he could boldly continue 20. O-O-O.
+
+                                                                        19. Qxf3
+19. Qxf3
+
+After capturing with the queen, White must play accurately to prevent   白方用后吃回以后必须精确行棋，阻止对手沿……Ng7-f5-d4的路线
+the opponent from obtaining an "eternal" knight by transferring it      调马，造出“铁马”。若19. Bxf3 Ng7 20. Be4，黑方就很难实现
+along the route ...Ng7-f5-d4. After 19. Bxf3 Ng7 20. Be4, Black would
+                                                                        这一目标。
+hardly have achieved this objective.
+
+19... Qe7 20. Qe4 Ng7 21. h4 Nf5 22. h5?                                19... Qe7 20. Qe4 Ng7 21. h4 Nf5 22. h5?
+
+A weak move which delays the knight's invasion of d4 only briefly.      这是一步软着，只能短暂延缓黑马侵入d4。白方本可走22. Bg4
+White could have obtained counter-chances with 22. Bg4 Nd4 23.
+                                                                        Nd4 23. O-O-O取得反击机会；较为平静的23. O-O也可以，并
+O-O-O, or the quieter 23. O-O, preparing f4.
+                                                                        准备f4冲兵。
+22... Qg5 23. Rd1 Rf8 24. Qg4
+                                                                        22... Qg5 23. Rd1 Rf8 24. Qg4
+White should not head for an endgame, in which under the present
+circumstances it is much easier for Black to realise the advantage of
+the "eternal" knight.                                                   白方不应主动进入残局，因为在当前条件下，黑方更容易兑现“铁马”
+                                                                        带来的优势。
+24... Qxg4 25. Bxg4 Nd4
+                                                                        24... Qxg4 25. Bxg4 Nd4
+The objective has now been achieved!
+
+26. Kf1 a4 27. a3 c5 28. Rd2 b5 29. cxb5 Nxb5 30. Be6+ Kg7 31. hxg6     目标终于实现了！
+hxg6 32. Kg2 Nd4 33. Bg4 Rfb8 34. Re1 Ra7 35. Bd1 Kf6 36. f4 exf4
+37. gxf4 Rh8                                                            26. Kf1 a4 27. a3 c5 28. Rd2 b5 29. cxb5 Nxb5
+                                                                        30. Be6+ Kg7 31. hxg6 hxg6 32. Kg2 Nd4 33. Bg4
+Threatening ...Rah7 with a dangerous attack. White has to go in for
+further exchanges.                                                      Rfb8 34. Re1 Ra7 35. Bd1 Kf6 36. f4 exf4 37.
+                                                                        gxf4 Rh8
+38. Rh1 Rxh1 39. Kxh1 Kf5 40. Rg2 Kxf4 41. Rxg6 Ke5 42. Rg5+
+Ke4 43. Rh5 Ra8 44. Kg1 Rb8 45. Bxa4 Rxb2 46. Kf1 Ke3 47. Rh3+
+                                                                        黑方威胁……Rah7，发动危险的进攻。白方只得继续寻求交换。
+Nf3 0-1
+
+                                                                        38. Rh1 Rxh1 39. Kxh1 Kf5 40. Rg2 Kxf4 41. Rxg6
+                                                                        Ke5 42. Rg5+ Ke4 43. Rh5 Ra8 44. Kg1 Rb8 45.
+                                                                        Bxa4 Rxb2 46. Kf1 Ke3 47. Rh3+ Nf3 0-1
+
+
+
+
+                                                                         2
+  《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                                中文译文
+
+EK-2                                                                        EK-2
+Spanish Game                                                                西班牙开局
+White: G. Levenfish
+Black: P. Dubinin                                                           白方：G. 列文菲什
+9th USSR Championship, 1934                                                 黑方：P. 杜比宁
+                                                                            1934年第9届苏联锦标赛
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 d6
+
+By a transposition of moves, a variation of the Steinitz Defence with       1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 d6
+the knight on f6 has been obtained. In this variation Black gets a rather
+cramped position, but practice has shown that it is difficult for White     经过招法次序转换，棋局进入了马位于f6的斯坦尼茨防御变例。黑
+to exploit the small advantage gained in the centre.                        方在这个变例中局面相当局促，但实践表明，白方也很难利用自己
+                                                                            在中心取得的微小优势。
+5. d4 exd4
+
+An unjustified exchange. The correct reply was 5... Bd7. True, Black        5. d4 exd4
+would later have to exchange on d4 in that case as well, but only after
+mobilising his principal forces and preparing to castle.
+                                                                            这次交换缺乏依据。正确的是5... Bd7。诚然，这样黑方以后仍
+6. Nxd4 Bd7 7. Bxc6 bxc6                                                    须在d4交换，但那是在主要子力已经出动并做好王车易位准备之后。
+
+Black endeavours to retain his light-squared bishop. After 7... Bxc6 8.
+Nxc6 bxc6 9. Qf3 Qd7 10. h3 Be7 11. Bf4 O-O 12. O-O, followed by
+                                                                            6. Nxd4 Bd7 7. Bxc6 bxc6
+Rad1 and Rfe1, it is difficult for him to withstand the concentrated
+attack of all the opponent's pieces.
+                                                                            黑方试图保留白格象。若7... Bxc6 8. Nxc6 bxc6 9. Qf3
+8. Qf3                                                                      Qd7 10. h3 Be7 11. Bf4 O-O 12. O-O，随后Rad1和Rfe1，
+                                                                            黑方将很难抵挡白方全部子力的集中攻击。
+This active development of the queen, with the potential threat e5, has
+become possible only as a consequence of Black's fifth move.
+                                                                            8. Qf3
+8... c5
+                                                                            这次积极出后，并酝酿e5冲兵的威胁，完全是黑方第5回合造成的结
+If 8... Be7, then 9. e5 dxe5 10. Nxc6 Bxc6 11. Qxc6+ Nd7 12. Nd5
+                                                                            果。
+Bd6 13. Bg5 f6 14. Be3 O-O 15. O-O, and by following with Rd1
+White consolidates his achievement in the centre. The c6 and d5
+squares are real weaknesses.                                                8... c5
+
+9. Nf5 Bxf5                                                                 若8... Be7，则9. e5 dxe5 10. Nxc6 Bxc6 11. Qxc6+
+                                                                            Nd7 12. Nd5 Bd6 13. Bg5 f6 14. Be3 O-O 15. O-O，随
+All the same, Black has to exchange the light-squared bishop. The
+knight on f5 is very strongly posted and prevents castling, and             后走Rd1，白方即可巩固自己在中心的成果。c6和d5都是真正的弱
+consequently also the mobilisation of Black's forces. It cannot be          格。
+driven back by 9... g6 because of 10. Bg5 gxf5 11. e5 dxe5 12. Bxf6 e4
+13. Nxe4. These variations show the strength of the queen's position on
+                                                                            9. Nf5 Bxf5
+f3 before Black has castled.
+
+10. Qxf5 Qd7 11. Qf3 Rb8 12. O-O Be7 13. b3 O-O                             黑方终究不得不用白格象换马。f5马位置极佳，不仅阻止黑王易位
+                                                                            ，也因此妨碍黑方子力出动。黑方不能走9... g6赶马，因为有
+Black must now keep the light squares under constant control. The
+                                                                            10. Bg5 gxf5 11. e5 dxe5 12. Bxf6 e4 13. Nxe4。这
+principal role in carrying out this task falls to the knight, so he must
+                                                                            些变化说明，在黑王尚未易位时，白后位于f3的力量十分强大。
+avoid exchanging it for the enemy bishop for as long as possible.
+Otherwise the task of defence would fall entirely upon the pawns. For
+example, ...c6 is required to defend d5, but it severely weakens d6;        10. Qxf5 Qd7 11. Qf3 Rb8 12. O-O Be7 13. b3 O-O
+...g6, defending f5, creates new weaknesses in the castled position.
+From this point of view Black's last move is inaccurate. The exchange
+                                                                            黑方现在必须持续控制白格。执行这一任务的主角是马，所以应尽
+of bishop for knight enters into White's plan, and it would have been
+useful to forestall it with 13... h6.                                       可能避免让它与对方的象交换；否则防守任务就会全部落到兵的身
+                                                                            上。例如，为防守d5必须走……c6，但这会严重削弱d6；为防守f5走
+                                                                            ……g6，又会在王翼易位阵地中制造新的弱点。从这一角度看，黑方
+
+
+
+                                                                             3
+  《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                                中文译文
+
+                                                                            上一着并不准确。象换马正中白方计划，黑方本应以13... h6预
+                                                                            先制止。
+
+                       经校正的英文 OCR                                                                中文译文
+
+EK-3                                                                        EK-3
+14. Bg5                                                                     14. Bg5
+
+White consistently carries out his plan. True, he does not yet threaten
+to take the knight, but after 15. Rad1 the threat of exchange becomes       白方连贯地执行自己的计划。眼下虽还没有吃马的直接威胁，但走
+unpleasant.                                                                 过Rad1之后，交换威胁就会令黑方难受。
+
+14... Nd5?
+                                                                            14... Nd5?
+
+Astonishingly, Black himself meets his opponent's wishes! If the
+knight is to move, 14... Ne8 is better, although this too breaks the        令人惊讶的是，黑方竟主动迎合了对手的愿望！如果一定要动马，
+communication between the black rooks. Nevertheless, after 14... Ne8        14... Ne8更好，虽然这也会割断黑方双车的联系。不过，
+15. Bxe7 Qxe7 16. Nd5 Qe6, Black could defend himself with some             14... Ne8 15. Bxe7 Qxe7 16. Nd5 Qe6之后，黑方仍可相
+success, retaining the possibility of ...c6, while the king's rook enters
+                                                                            当成功地防守：既保留……c6的可能，也可以走……f6和……Rf7使王车
+the game by ...f6 and ...Rf7. In this defensive plan the knight would
+play a major role, covering c7, d6 and g7.                                  投入战斗。在这一防守计划中，黑马将承担重要任务，控制c7、d6
+                                                                            和g7。
+There was another way to counter White's plan: 14... h6 and, after 15.
+Bh4, 15... g5 16. Bg3 Rfe8. The drawback is the considerable
+                                                                            黑方还有另一种对抗白方计划的方法：14... h6 15. Bh4 g5
+weakening of the kingside, especially f5, but in return Black would
+obtain an object of attack in the e4-pawn.                                  16. Bg3 Rfe8。这一路变化的缺点是王翼、尤其f5格被明显削弱
+                                                                            ；作为补偿，黑方可以把e4兵作为攻击目标。
+15. Nxd5 Bxg5 16. Qg3 Bd8 17. Rad1 f5?
+                                                                            15. Nxd5 Bxg5 16. Qg3 Bd8 17. Rad1 f5?
+Another mistake, after which the white knight on d5 becomes
+"eternal". Black's position is admittedly very difficult. After 17... c6
+18. Ne3 the weakness on d6 is irreparable; yet without ...c6 it is          又一处错误，使d5白马成为“铁马”。不过黑方的局面的确十分困难。
+difficult for Black to develop play, since the knight on d5 paralyses all   若17... c6 18. Ne3，d6弱点便无法补救；但不走……c6又很难
+his activity.                                                               展开行动，因为d5马压制了黑方的全部活动。
+
+18. e5! Re8
+                                                                            18. e5! Re8
+After 18... c6 19. Nf6+ Bxf6 20. Rxd6 Qc7 21. exf6 Rxf6 22. Rxf6, the
+ending is miserable for Black, but this was the lesser evil.                若18... c6 19. Nf6+ Bxf6 20. Rxd6 Qc7 21. exf6
+                                                                            Rxf6 22. Rxf6，黑方的残局非常痛苦，但这已经是较小的灾难。
+19. exd6 cxd6
+
+White has successfully completed the first part of his plan: he has an
+"eternal" knight in the centre. This advantage is fully sufficient for      19. exd6 cxd6
+victory.
+
+                                                                            白方顺利完成了计划的第一阶段：他在中心安置了一匹“铁马”。这一
+The struggle now approaches the concluding stage, in which the
+advantage is realised. Supported by the powerful position of the            优势已经完全足以制胜。
+"eternal" knight, White develops an irresistible attack on the kingside.
+                                                                            斗争进入兑现优势的最后阶段。依托“铁马”的强大位置，白方向黑王
+20. Rfe1 Re6 21. Nf4 Rxe1+ 22. Rxe1 Ba5 23. Nd5 Bd8 24. h4 Rb7
+                                                                            发动了无法抵挡的进攻。
+25. c4 Kf7 26. Qf3 Kg8 27. Qe2
+
+Threatening to win the bishop with Qe8+. The reply 27... Bxh4 is            20. Rfe1 Re6 21. Nf4 Rxe1+ 22. Rxe1 Ba5 23. Nd5
+impossible because of 28. Qh5.                                              Bd8 24. h4 Rb7 25. c4 Kf7 26. Qf3 Kg8 27. Qe2
+
+27... g6 28. h5 Kf8 29. h6
+                                                                            白方威胁Qe8+得象。黑方不能走27... Bxh4，因为有28. Qh5。
+Intending Qb2. There were other ways as well, for example 29. Qb2 at
+once, or 29. hxg6 hxg6 30. Nf4.                                             27... g6 28. h5 Kf8 29. h6
+
+
+
+                                                                             4
+  《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                                中文译文
+
+
+                                                                            准备Qb2。白方还有其他方法，例如立即走29. Qb2，或走29.
+29... Bg5
+                                                                            hxg6 hxg6 30. Nf4。
+Black does not even stop the threat. His last hope was 29... Qf7, but
+after 30. Qd3 a5 31. Nf4 he would not have been able to resist for long     29... Bg5
+either.
+
+                                                                            黑方甚至没有制止威胁。最后的希望是29... Qf7，但30. Qd3
+30. Qb2 Kg8 31. f4 Bd8 32. Nf6+
+                                                                            a5 31. Nf4以后同样坚持不了多久。
+A beautiful conclusion! Of course, Re7 or Ne7+ was also sufficient.
+                                                                            30. Qb2 Kg8 31. f4 Bd8 32. Nf6+
+32... Bxf6 33. Qxf6 d5 34. cxd5 1-0
+
+                                                                            漂亮的收尾！当然，Re7或Ne7+也足以取胜。
+After 34... Rb6 follows 35. Re8+.
+
+                                                                            32... Bxf6 33. Qxf6 d5 34. cxd5 1-0
+
+
+                                                                            若34... Rb6，则35. Re8+。
+
+                       经校正的英文 OCR                                                                中文译文
+
+EK-4                                                                        EK-4
+In the 16th game of the 1951 world championship match between               在布龙斯坦与鲍特维尼克1951年世界冠军赛的第16局中，形成了图
+Bronstein and Botvinnik, the following position was reached.
+                                                                            示局面。
+Without examining the concrete purpose of Black's last move, 46...
+Qe8, Bronstein played:                                                      布龙斯坦没有深入考察黑方上一着46... Qe8的具体目的，便走了
+                                                                            ：
+47. Qd3?
+
+There followed:                                                             47. Qd3?
+
+47... Bxf4 48. exf4 Bh5!                                                    接下来：
+
+Bronstein was faced with a difficult choice. After 49. Bg2 Qa8, an
+                                                                            47... Bxf4 48. exf4 Bh5!
+invasion by the enemy pieces on the a-file is threatened, while the
+knight occupies a menacing central position on e4. After 49. Bxe4
+dxe4 50. Qa3 Bf3+ 51. Kg1 Qh5 52. Qe3 Qh3 53. Qf2 h5, the threat            布龙斯坦面临艰难选择。若49. Bg2 Qa8，黑方就威胁沿a线入侵
+...h4 is irresistible.                                                      ，同时e4马在中心占据咄咄逼人的位置；若49. Bxe4 dxe4
+                                                                            50. Qa3 Bf3+ 51. Kg1 Qh5 52. Qe3 Qh3 53. Qf2 h5，
+Bronstein decides to allow Black an "eternal" knight, while trying to
+obtain some compensation by occupying the a-file.                           则……h4的威胁无法抵挡。
+
+49. Qa3 Bxf3+ 50. Rxf3 Rg7                                                  布龙斯坦决定允许黑方造出“铁马”，同时试图通过占领a线取得一些
+                                                                            补偿。
+Defending the b7-pawn against a possible attack by the queen. There is
+nothing in 50... Qa8, since White will not exchange but will reply 51.
+Rd3, adhering to waiting tactics. The tactical diversion 50... Qh5          49. Qa3 Bxf3+ 50. Rxf3 Rg7
+likewise leads to nothing after 51. Kg2.
+                                                                            防守b7兵，以免白后攻击。50... Qa8没有意义，因为白方不会交
+Black's plan is first to create a few more weak points in the opponent's
+                                                                            换，而会走51. Rd3，继续等待。战术性的50... Qh5在51.
+camp, for example by provoking h4; then, by attacking them, to divert
+White's pieces from defence of the a-file; and finally to occupy this       Kg2之后同样一无所获。
+important strategic avenue of invasion. With the support of the
+"eternal" knight, it will then not be difficult to deliver the concluding   黑方的计划是：先在对方阵地中再制造几个弱点，例如诱使白方冲
+blow.
+                                                                            起h4；然后通过攻击这些弱点，使白方子力离开a线的防守；最后占
+
+51. Kg2 Qd8 52. Kf1 Qf6 53. Rd3 h5 54. h4                                   领这条重要的战略入侵通道。在“铁马”的支援下，最后一击便不难完
+                                                                            成。
+
+
+
+                                                                             5
+  《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+                        经校正的英文 OCR                                                                  中文译文
+
+
+Of course White cannot allow ...h4.                                            51. Kg2 Qd8 52. Kf1 Qf6 53. Rd3 h5 54. h4
+
+54... Rg8
+                                                                               白方当然不能允许……h4。
+Intending, after ...Qg7, to keep the d4-pawn under attack and create the
+threat of invasion via g4.                                                     54... Rg8
+
+55. Rd1
+                                                                               黑方准备走……Qg7，在继续攻击d4兵的同时，制造经g4侵入的威胁。
+This somewhat eases Black's realisation of his positional advantage,
+but what can White do? If 55. Qa7, then 55... Qg7 and White is in
+zugzwang. 56. Qb6 is impossible because of 56... Ra8, while retreating         55. Rd1
+the queen along the a-file is met by ...Qg4.
+
+55... Qg7 56. Qf3 Kh6 57. Kg2 Ra8, and Black won.                              这使黑方兑现局面优势稍微容易了一些，但白方又能怎么办？若
+                                                                               55. Qa7 Qg7，白方就陷入楚茨文克。56. Qb6因56... Ra8而
+                                                                               不成立；白后若沿a线后退，则有……Qg4。
+
+
+                                                                               55... Qg7 56. Qf3 Kh6 57. Kg2 Ra8，黑方获胜。
+
+                        经校正的英文 OCR                                                                  中文译文
+
+EK-5                                                                           EK-5
+The struggle was decided by the "eternal" knight in the game                   在特尔普戈夫对布龙斯坦一局（1951年第19届苏联锦标赛）中，“铁
+Terpugov-Bronstein (19th USSR Championship, 1951):
+                                                                               马”同样决定了斗争结果：
+30. Rb2 Ndc5 31. Nxc5 Qxc5 32. f6?
+                                                                               30. Rb2 Ndc5 31. Nxc5 Qxc5 32. f6?
+Not only a useless move, since the queen's raid Qh6 is repulsed by
+...Qf8, but also a serious positional miscalculation. It is clear that Black
+                                                                               这步棋不仅毫无用处——白后的Qh6突袭会被……Qf8挡回——而且
+dreams of transferring the knight to the invulnerable d4-square. With
+his last move White himself removes control from e6, a transit point on        是严重的局面误算。显然，黑方正准备把马转移到坚不可摧的d4格
+the route to this cherished objective. It is not surprising that he soon       ；白方上一着却亲自放弃了对e6格的控制，而e6正是黑马通往这一
+suffers defeat.                                                                理想据点的中转站。白方很快落败，也就不足为奇了。
+
+Yet White's position was not altogether bad. Several active
+                                                                               其实白方的局面并没有那么糟，他还有若干积极方案。例如可以考
+possibilities were available. Worth considering, for example, was the
+advance of the h-pawn. After 32. h4 it is dangerous for Black to take          虑冲h兵：32. h4之后，黑后若吃c4兵，会遭到33. Rc1；白方准
+the c4-pawn with the queen because of 33. Rc1. White intends to                备继续h5、Bh3和Rf1，在王翼施压。
+continue h5, Bh3 and Rf1, applying pressure on the kingside.
+
+                                                                               32... Nc7 33. Ra4 Na6 34. Qh6
+32... Nc7 33. Ra4 Na6 34. Qh6
+
+Another unnecessary thrust, helping Black carry out his plan even              又一次没有必要的出击，反而帮助黑方更快执行计划。白车在a4位
+sooner. The rook is badly placed on a4, as soon becomes clear; it              置很差，这一点很快就会显现；它本该原路返回。
+should simply have retraced its steps.
+
+                                                                               34... Qf8 35. Qg5
+34... Qf8 35. Qg5
+
+The exchange of queens simplifies the struggle to Black's advantage.           兑后会使斗争朝有利于黑方的方向简化。f6兵很弱，而侵入d4的计
+The f6-pawn is very weak, and the plan of invading d4 is not easy to           划并不容易实现，所以白方自然要尽量在王翼把局面复杂化。
+realise, so White naturally tries to complicate matters as much as
+possible on the kingside.
+                                                                               35... Nc5!
+35... Nc5!
+                                                                               a4白车的位置不佳开始产生后果。白车必须退回原处，因为36.
+The poor position of White's rook on a4 makes itself felt. It must go
+                                                                               Raxb4 Rxb4 37. Rxb4 Nxe4之后会丢半子。
+back, since 36. Raxb4 Rxb4 37. Rxb4 loses the exchange after 37...
+Nxe4.
+
+
+
+                                                                                6
+ 《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+                        经校正的英文 OCR                                                               中文译文
+
+                                                                         36. Ra1 h6 37. Qe3
+
+36. Ra1 h6 37. Qe3
+                                                                         当然不能走37. Qxe5，因为有37... Nd3。
+Of course 37. Qxe5 is impossible because of 37... Nd3.
+                                                                         37... Kh7 38. Rd2 Ne6 39. a6 Rba7 40. Rda2 c5
+37... Kh7 38. Rd2 Ne6 39. a6 Rba7 40. Rda2 c5 41. h4 Qd6                 41. h4 Qd6
+
+On top of everything, White now has trouble with the a6-pawn.
+                                                                         雪上加霜的是，白方现在还得为a6兵操心。
+42. h5 g5 43. Qf2 Nd4
+                                                                         42. h5 g5 43. Qf2 Nd4
+The knight every chess player dreams of!
+
+                                                                         每个棋手都梦寐以求的一匹马！
+44. Rd2 Kg8
+
+Black intends, after 45... Rxa6 46. Rxa6, to recapture on a6 with the    44. Rd2 Kg8
+rook; at present that is impossible because of Rxd4, followed by
+Qf5-c8+ with a draw.
+                                                                         黑方准备在45... Rxa6 46. Rxa6之后用车在a6吃回；眼下这还
+45. Rda2                                                                 做不到，因为白方可以Rxd4，随后Qf5-c8+逼和。
+
+White sealed this move, but then resigned without resuming play. The     45. Rda2
+decision was correct, since after ...Rxa6 the b-pawn, supported by the
+"eternal" knight, reaches the first rank without difficulty.
+                                                                         白方在这步棋后选择了封盘，但续赛时没有再下便认输。这一决定
+                                                                         是正确的，因为……Rxa6以后，b兵在“铁马”的支援下可以毫无困难地
+                                                                         抵达第一横线。
+
+
+
+
+                                                                          7
+《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+附录：原扫描页
+以下扫描页保留原书棋盘图、版面和旧式记谱，用于核对 OCR、棋谱与译文。相邻小节共用的边界页会在两份校样中重复收录。
+
+
+
+
+                            8
+《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+                         原书印刷页 38
+
+
+
+
+                            9
+《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+                         原书印刷页 39
+
+
+
+
+                            10
+《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+                         原书印刷页 40
+
+
+
+
+                            11
+《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+                         原书印刷页 41
+
+
+
+
+                            12
+《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+                         原书印刷页 42
+
+
+
+
+                            13
+《国际象棋中局计划》｜格子 - 铁马｜校对稿
+
+
+
+
+                         原书印刷页 43
+
+
+
+
+                            14
+

@@ -1,0 +1,3180 @@
+{
+  "source_name": "Art of Attack in Chess (Vladimir Vukovic) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "sha256": "888016578278b4b822afbf47600c601b61c4d9958dab0fdbc89280ded83d511a",
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "section": "front",
+      "width": 800,
+      "height": 1157,
+      "pdf_rotation_applied": 0,
+      "file": "source_pages\\page-001.png"
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": null,
+      "section": "front",
+      "width": 800,
+      "height": 1188,
+      "pdf_rotation_applied": 0,
+      "file": "source_pages\\page-002.png"
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": 3,
+      "section": "contents",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-003.png"
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": 4,
+      "section": "symbols",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-004.png"
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": 5,
+      "section": "preface",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-005.png"
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": 6,
+      "section": "introduction",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-006.png"
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": 7,
+      "section": "introduction",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-007.png"
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": 8,
+      "section": "introduction",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-008.png"
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": 9,
+      "section": "introduction",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-009.png"
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": 10,
+      "section": "introduction",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-010.png"
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": 11,
+      "section": "introduction",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-011.png"
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": 12,
+      "section": "introduction",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-012.png"
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": 13,
+      "section": "introduction",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-013.png"
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": 14,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-014.png"
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": 15,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-015.png"
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": 16,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-016.png"
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": 17,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-017.png"
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": 18,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-018.png"
+    },
+    {
+      "pdf_page": 19,
+      "printed_page": 19,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-019.png"
+    },
+    {
+      "pdf_page": 20,
+      "printed_page": 20,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-020.png"
+    },
+    {
+      "pdf_page": 21,
+      "printed_page": 21,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-021.png"
+    },
+    {
+      "pdf_page": 22,
+      "printed_page": 22,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-022.png"
+    },
+    {
+      "pdf_page": 23,
+      "printed_page": 23,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-023.png"
+    },
+    {
+      "pdf_page": 24,
+      "printed_page": 24,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-024.png"
+    },
+    {
+      "pdf_page": 25,
+      "printed_page": 25,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-025.png"
+    },
+    {
+      "pdf_page": 26,
+      "printed_page": 26,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-026.png"
+    },
+    {
+      "pdf_page": 27,
+      "printed_page": 27,
+      "section": "ch01",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-027.png"
+    },
+    {
+      "pdf_page": 28,
+      "printed_page": 28,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-028.png"
+    },
+    {
+      "pdf_page": 29,
+      "printed_page": 29,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-029.png"
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": 30,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-030.png"
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": 31,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-031.png"
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": 32,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-032.png"
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": 33,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-033.png"
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": 34,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-034.png"
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": 35,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-035.png"
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": 36,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-036.png"
+    },
+    {
+      "pdf_page": 37,
+      "printed_page": 37,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-037.png"
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": 38,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-038.png"
+    },
+    {
+      "pdf_page": 39,
+      "printed_page": 39,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-039.png"
+    },
+    {
+      "pdf_page": 40,
+      "printed_page": 40,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-040.png"
+    },
+    {
+      "pdf_page": 41,
+      "printed_page": 41,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-041.png"
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": 42,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-042.png"
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": 43,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-043.png"
+    },
+    {
+      "pdf_page": 44,
+      "printed_page": 44,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-044.png"
+    },
+    {
+      "pdf_page": 45,
+      "printed_page": 45,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-045.png"
+    },
+    {
+      "pdf_page": 46,
+      "printed_page": 46,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-046.png"
+    },
+    {
+      "pdf_page": 47,
+      "printed_page": 47,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-047.png"
+    },
+    {
+      "pdf_page": 48,
+      "printed_page": 48,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-048.png"
+    },
+    {
+      "pdf_page": 49,
+      "printed_page": 49,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-049.png"
+    },
+    {
+      "pdf_page": 50,
+      "printed_page": 50,
+      "section": "ch02",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-050.png"
+    },
+    {
+      "pdf_page": 51,
+      "printed_page": 51,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-051.png"
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": 52,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-052.png"
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": 53,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-053.png"
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": 54,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-054.png"
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": 55,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-055.png"
+    },
+    {
+      "pdf_page": 56,
+      "printed_page": 56,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-056.png"
+    },
+    {
+      "pdf_page": 57,
+      "printed_page": 57,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-057.png"
+    },
+    {
+      "pdf_page": 58,
+      "printed_page": 58,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-058.png"
+    },
+    {
+      "pdf_page": 59,
+      "printed_page": 59,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-059.png"
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": 60,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-060.png"
+    },
+    {
+      "pdf_page": 61,
+      "printed_page": 61,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-061.png"
+    },
+    {
+      "pdf_page": 62,
+      "printed_page": 62,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-062.png"
+    },
+    {
+      "pdf_page": 63,
+      "printed_page": 63,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-063.png"
+    },
+    {
+      "pdf_page": 64,
+      "printed_page": 64,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-064.png"
+    },
+    {
+      "pdf_page": 65,
+      "printed_page": 65,
+      "section": "ch03",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-065.png"
+    },
+    {
+      "pdf_page": 66,
+      "printed_page": 66,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-066.png"
+    },
+    {
+      "pdf_page": 67,
+      "printed_page": 67,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-067.png"
+    },
+    {
+      "pdf_page": 68,
+      "printed_page": 68,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-068.png"
+    },
+    {
+      "pdf_page": 69,
+      "printed_page": 69,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-069.png"
+    },
+    {
+      "pdf_page": 70,
+      "printed_page": 70,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-070.png"
+    },
+    {
+      "pdf_page": 71,
+      "printed_page": 71,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-071.png"
+    },
+    {
+      "pdf_page": 72,
+      "printed_page": 72,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-072.png"
+    },
+    {
+      "pdf_page": 73,
+      "printed_page": 73,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-073.png"
+    },
+    {
+      "pdf_page": 74,
+      "printed_page": 74,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-074.png"
+    },
+    {
+      "pdf_page": 75,
+      "printed_page": 75,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-075.png"
+    },
+    {
+      "pdf_page": 76,
+      "printed_page": 76,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-076.png"
+    },
+    {
+      "pdf_page": 77,
+      "printed_page": 77,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-077.png"
+    },
+    {
+      "pdf_page": 78,
+      "printed_page": 78,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-078.png"
+    },
+    {
+      "pdf_page": 79,
+      "printed_page": 79,
+      "section": "ch04",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-079.png"
+    },
+    {
+      "pdf_page": 80,
+      "printed_page": 80,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-080.png"
+    },
+    {
+      "pdf_page": 81,
+      "printed_page": 81,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-081.png"
+    },
+    {
+      "pdf_page": 82,
+      "printed_page": 82,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-082.png"
+    },
+    {
+      "pdf_page": 83,
+      "printed_page": 83,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-083.png"
+    },
+    {
+      "pdf_page": 84,
+      "printed_page": 84,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-084.png"
+    },
+    {
+      "pdf_page": 85,
+      "printed_page": 85,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-085.png"
+    },
+    {
+      "pdf_page": 86,
+      "printed_page": 86,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-086.png"
+    },
+    {
+      "pdf_page": 87,
+      "printed_page": 87,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-087.png"
+    },
+    {
+      "pdf_page": 88,
+      "printed_page": 88,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-088.png"
+    },
+    {
+      "pdf_page": 89,
+      "printed_page": 89,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-089.png"
+    },
+    {
+      "pdf_page": 90,
+      "printed_page": 90,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-090.png"
+    },
+    {
+      "pdf_page": 91,
+      "printed_page": 91,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-091.png"
+    },
+    {
+      "pdf_page": 92,
+      "printed_page": 92,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-092.png"
+    },
+    {
+      "pdf_page": 93,
+      "printed_page": 93,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-093.png"
+    },
+    {
+      "pdf_page": 94,
+      "printed_page": 94,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-094.png"
+    },
+    {
+      "pdf_page": 95,
+      "printed_page": 95,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-095.png"
+    },
+    {
+      "pdf_page": 96,
+      "printed_page": 96,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-096.png"
+    },
+    {
+      "pdf_page": 97,
+      "printed_page": 97,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-097.png"
+    },
+    {
+      "pdf_page": 98,
+      "printed_page": 98,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-098.png"
+    },
+    {
+      "pdf_page": 99,
+      "printed_page": 99,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-099.png"
+    },
+    {
+      "pdf_page": 100,
+      "printed_page": 100,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-100.png"
+    },
+    {
+      "pdf_page": 101,
+      "printed_page": 101,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-101.png"
+    },
+    {
+      "pdf_page": 102,
+      "printed_page": 102,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-102.png"
+    },
+    {
+      "pdf_page": 103,
+      "printed_page": 103,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-103.png"
+    },
+    {
+      "pdf_page": 104,
+      "printed_page": 104,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-104.png"
+    },
+    {
+      "pdf_page": 105,
+      "printed_page": 105,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-105.png"
+    },
+    {
+      "pdf_page": 106,
+      "printed_page": 106,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-106.png"
+    },
+    {
+      "pdf_page": 107,
+      "printed_page": 107,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-107.png"
+    },
+    {
+      "pdf_page": 108,
+      "printed_page": 108,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-108.png"
+    },
+    {
+      "pdf_page": 109,
+      "printed_page": 109,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-109.png"
+    },
+    {
+      "pdf_page": 110,
+      "printed_page": 110,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-110.png"
+    },
+    {
+      "pdf_page": 111,
+      "printed_page": 111,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-111.png"
+    },
+    {
+      "pdf_page": 112,
+      "printed_page": 112,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-112.png"
+    },
+    {
+      "pdf_page": 113,
+      "printed_page": 113,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-113.png"
+    },
+    {
+      "pdf_page": 114,
+      "printed_page": 114,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-114.png"
+    },
+    {
+      "pdf_page": 115,
+      "printed_page": 115,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-115.png"
+    },
+    {
+      "pdf_page": 116,
+      "printed_page": 116,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-116.png"
+    },
+    {
+      "pdf_page": 117,
+      "printed_page": 117,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-117.png"
+    },
+    {
+      "pdf_page": 118,
+      "printed_page": 118,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-118.png"
+    },
+    {
+      "pdf_page": 119,
+      "printed_page": 119,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-119.png"
+    },
+    {
+      "pdf_page": 120,
+      "printed_page": 120,
+      "section": "ch05",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-120.png"
+    },
+    {
+      "pdf_page": 121,
+      "printed_page": 121,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-121.png"
+    },
+    {
+      "pdf_page": 122,
+      "printed_page": 122,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-122.png"
+    },
+    {
+      "pdf_page": 123,
+      "printed_page": 123,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-123.png"
+    },
+    {
+      "pdf_page": 124,
+      "printed_page": 124,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-124.png"
+    },
+    {
+      "pdf_page": 125,
+      "printed_page": 125,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-125.png"
+    },
+    {
+      "pdf_page": 126,
+      "printed_page": 126,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-126.png"
+    },
+    {
+      "pdf_page": 127,
+      "printed_page": 127,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-127.png"
+    },
+    {
+      "pdf_page": 128,
+      "printed_page": 128,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-128.png"
+    },
+    {
+      "pdf_page": 129,
+      "printed_page": 129,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-129.png"
+    },
+    {
+      "pdf_page": 130,
+      "printed_page": 130,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-130.png"
+    },
+    {
+      "pdf_page": 131,
+      "printed_page": 131,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-131.png"
+    },
+    {
+      "pdf_page": 132,
+      "printed_page": 132,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-132.png"
+    },
+    {
+      "pdf_page": 133,
+      "printed_page": 133,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-133.png"
+    },
+    {
+      "pdf_page": 134,
+      "printed_page": 134,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-134.png"
+    },
+    {
+      "pdf_page": 135,
+      "printed_page": 135,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-135.png"
+    },
+    {
+      "pdf_page": 136,
+      "printed_page": 136,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-136.png"
+    },
+    {
+      "pdf_page": 137,
+      "printed_page": 137,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-137.png"
+    },
+    {
+      "pdf_page": 138,
+      "printed_page": 138,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-138.png"
+    },
+    {
+      "pdf_page": 139,
+      "printed_page": 139,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-139.png"
+    },
+    {
+      "pdf_page": 140,
+      "printed_page": 140,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-140.png"
+    },
+    {
+      "pdf_page": 141,
+      "printed_page": 141,
+      "section": "ch06",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-141.png"
+    },
+    {
+      "pdf_page": 142,
+      "printed_page": 142,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-142.png"
+    },
+    {
+      "pdf_page": 143,
+      "printed_page": 143,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-143.png"
+    },
+    {
+      "pdf_page": 144,
+      "printed_page": 144,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-144.png"
+    },
+    {
+      "pdf_page": 145,
+      "printed_page": 145,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-145.png"
+    },
+    {
+      "pdf_page": 146,
+      "printed_page": 146,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-146.png"
+    },
+    {
+      "pdf_page": 147,
+      "printed_page": 147,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-147.png"
+    },
+    {
+      "pdf_page": 148,
+      "printed_page": 148,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-148.png"
+    },
+    {
+      "pdf_page": 149,
+      "printed_page": 149,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-149.png"
+    },
+    {
+      "pdf_page": 150,
+      "printed_page": 150,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-150.png"
+    },
+    {
+      "pdf_page": 151,
+      "printed_page": 151,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-151.png"
+    },
+    {
+      "pdf_page": 152,
+      "printed_page": 152,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-152.png"
+    },
+    {
+      "pdf_page": 153,
+      "printed_page": 153,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-153.png"
+    },
+    {
+      "pdf_page": 154,
+      "printed_page": 154,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-154.png"
+    },
+    {
+      "pdf_page": 155,
+      "printed_page": 155,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-155.png"
+    },
+    {
+      "pdf_page": 156,
+      "printed_page": 156,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-156.png"
+    },
+    {
+      "pdf_page": 157,
+      "printed_page": 157,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-157.png"
+    },
+    {
+      "pdf_page": 158,
+      "printed_page": 158,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-158.png"
+    },
+    {
+      "pdf_page": 159,
+      "printed_page": 159,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-159.png"
+    },
+    {
+      "pdf_page": 160,
+      "printed_page": 160,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-160.png"
+    },
+    {
+      "pdf_page": 161,
+      "printed_page": 161,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-161.png"
+    },
+    {
+      "pdf_page": 162,
+      "printed_page": 162,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-162.png"
+    },
+    {
+      "pdf_page": 163,
+      "printed_page": 163,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-163.png"
+    },
+    {
+      "pdf_page": 164,
+      "printed_page": 164,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-164.png"
+    },
+    {
+      "pdf_page": 165,
+      "printed_page": 165,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-165.png"
+    },
+    {
+      "pdf_page": 166,
+      "printed_page": 166,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-166.png"
+    },
+    {
+      "pdf_page": 167,
+      "printed_page": 167,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-167.png"
+    },
+    {
+      "pdf_page": 168,
+      "printed_page": 168,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-168.png"
+    },
+    {
+      "pdf_page": 169,
+      "printed_page": 169,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-169.png"
+    },
+    {
+      "pdf_page": 170,
+      "printed_page": 170,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-170.png"
+    },
+    {
+      "pdf_page": 171,
+      "printed_page": 171,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-171.png"
+    },
+    {
+      "pdf_page": 172,
+      "printed_page": 172,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-172.png"
+    },
+    {
+      "pdf_page": 173,
+      "printed_page": 173,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-173.png"
+    },
+    {
+      "pdf_page": 174,
+      "printed_page": 174,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-174.png"
+    },
+    {
+      "pdf_page": 175,
+      "printed_page": 175,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-175.png"
+    },
+    {
+      "pdf_page": 176,
+      "printed_page": 176,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-176.png"
+    },
+    {
+      "pdf_page": 177,
+      "printed_page": 177,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-177.png"
+    },
+    {
+      "pdf_page": 178,
+      "printed_page": 178,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-178.png"
+    },
+    {
+      "pdf_page": 179,
+      "printed_page": 179,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-179.png"
+    },
+    {
+      "pdf_page": 180,
+      "printed_page": 180,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-180.png"
+    },
+    {
+      "pdf_page": 181,
+      "printed_page": 181,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-181.png"
+    },
+    {
+      "pdf_page": 182,
+      "printed_page": 182,
+      "section": "ch07",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-182.png"
+    },
+    {
+      "pdf_page": 183,
+      "printed_page": 183,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-183.png"
+    },
+    {
+      "pdf_page": 184,
+      "printed_page": 184,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-184.png"
+    },
+    {
+      "pdf_page": 185,
+      "printed_page": 185,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-185.png"
+    },
+    {
+      "pdf_page": 186,
+      "printed_page": 186,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-186.png"
+    },
+    {
+      "pdf_page": 187,
+      "printed_page": 187,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-187.png"
+    },
+    {
+      "pdf_page": 188,
+      "printed_page": 188,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-188.png"
+    },
+    {
+      "pdf_page": 189,
+      "printed_page": 189,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-189.png"
+    },
+    {
+      "pdf_page": 190,
+      "printed_page": 190,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-190.png"
+    },
+    {
+      "pdf_page": 191,
+      "printed_page": 191,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-191.png"
+    },
+    {
+      "pdf_page": 192,
+      "printed_page": 192,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-192.png"
+    },
+    {
+      "pdf_page": 193,
+      "printed_page": 193,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-193.png"
+    },
+    {
+      "pdf_page": 194,
+      "printed_page": 194,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-194.png"
+    },
+    {
+      "pdf_page": 195,
+      "printed_page": 195,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-195.png"
+    },
+    {
+      "pdf_page": 196,
+      "printed_page": 196,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-196.png"
+    },
+    {
+      "pdf_page": 197,
+      "printed_page": 197,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-197.png"
+    },
+    {
+      "pdf_page": 198,
+      "printed_page": 198,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-198.png"
+    },
+    {
+      "pdf_page": 199,
+      "printed_page": 199,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-199.png"
+    },
+    {
+      "pdf_page": 200,
+      "printed_page": 200,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-200.png"
+    },
+    {
+      "pdf_page": 201,
+      "printed_page": 201,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-201.png"
+    },
+    {
+      "pdf_page": 202,
+      "printed_page": 202,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-202.png"
+    },
+    {
+      "pdf_page": 203,
+      "printed_page": 203,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-203.png"
+    },
+    {
+      "pdf_page": 204,
+      "printed_page": 204,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-204.png"
+    },
+    {
+      "pdf_page": 205,
+      "printed_page": 205,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-205.png"
+    },
+    {
+      "pdf_page": 206,
+      "printed_page": 206,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-206.png"
+    },
+    {
+      "pdf_page": 207,
+      "printed_page": 207,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-207.png"
+    },
+    {
+      "pdf_page": 208,
+      "printed_page": 208,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-208.png"
+    },
+    {
+      "pdf_page": 209,
+      "printed_page": 209,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-209.png"
+    },
+    {
+      "pdf_page": 210,
+      "printed_page": 210,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-210.png"
+    },
+    {
+      "pdf_page": 211,
+      "printed_page": 211,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-211.png"
+    },
+    {
+      "pdf_page": 212,
+      "printed_page": 212,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-212.png"
+    },
+    {
+      "pdf_page": 213,
+      "printed_page": 213,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-213.png"
+    },
+    {
+      "pdf_page": 214,
+      "printed_page": 214,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-214.png"
+    },
+    {
+      "pdf_page": 215,
+      "printed_page": 215,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-215.png"
+    },
+    {
+      "pdf_page": 216,
+      "printed_page": 216,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-216.png"
+    },
+    {
+      "pdf_page": 217,
+      "printed_page": 217,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-217.png"
+    },
+    {
+      "pdf_page": 218,
+      "printed_page": 218,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-218.png"
+    },
+    {
+      "pdf_page": 219,
+      "printed_page": 219,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-219.png"
+    },
+    {
+      "pdf_page": 220,
+      "printed_page": 220,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-220.png"
+    },
+    {
+      "pdf_page": 221,
+      "printed_page": 221,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-221.png"
+    },
+    {
+      "pdf_page": 222,
+      "printed_page": 222,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-222.png"
+    },
+    {
+      "pdf_page": 223,
+      "printed_page": 223,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-223.png"
+    },
+    {
+      "pdf_page": 224,
+      "printed_page": 224,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-224.png"
+    },
+    {
+      "pdf_page": 225,
+      "printed_page": 225,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-225.png"
+    },
+    {
+      "pdf_page": 226,
+      "printed_page": 226,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-226.png"
+    },
+    {
+      "pdf_page": 227,
+      "printed_page": 227,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-227.png"
+    },
+    {
+      "pdf_page": 228,
+      "printed_page": 228,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-228.png"
+    },
+    {
+      "pdf_page": 229,
+      "printed_page": 229,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-229.png"
+    },
+    {
+      "pdf_page": 230,
+      "printed_page": 230,
+      "section": "ch08",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-230.png"
+    },
+    {
+      "pdf_page": 231,
+      "printed_page": 231,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-231.png"
+    },
+    {
+      "pdf_page": 232,
+      "printed_page": 232,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-232.png"
+    },
+    {
+      "pdf_page": 233,
+      "printed_page": 233,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-233.png"
+    },
+    {
+      "pdf_page": 234,
+      "printed_page": 234,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-234.png"
+    },
+    {
+      "pdf_page": 235,
+      "printed_page": 235,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-235.png"
+    },
+    {
+      "pdf_page": 236,
+      "printed_page": 236,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-236.png"
+    },
+    {
+      "pdf_page": 237,
+      "printed_page": 237,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-237.png"
+    },
+    {
+      "pdf_page": 238,
+      "printed_page": 238,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-238.png"
+    },
+    {
+      "pdf_page": 239,
+      "printed_page": 239,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-239.png"
+    },
+    {
+      "pdf_page": 240,
+      "printed_page": 240,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-240.png"
+    },
+    {
+      "pdf_page": 241,
+      "printed_page": 241,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-241.png"
+    },
+    {
+      "pdf_page": 242,
+      "printed_page": 242,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-242.png"
+    },
+    {
+      "pdf_page": 243,
+      "printed_page": 243,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-243.png"
+    },
+    {
+      "pdf_page": 244,
+      "printed_page": 244,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-244.png"
+    },
+    {
+      "pdf_page": 245,
+      "printed_page": 245,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-245.png"
+    },
+    {
+      "pdf_page": 246,
+      "printed_page": 246,
+      "section": "ch09",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-246.png"
+    },
+    {
+      "pdf_page": 247,
+      "printed_page": 247,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-247.png"
+    },
+    {
+      "pdf_page": 248,
+      "printed_page": 248,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-248.png"
+    },
+    {
+      "pdf_page": 249,
+      "printed_page": 249,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-249.png"
+    },
+    {
+      "pdf_page": 250,
+      "printed_page": 250,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-250.png"
+    },
+    {
+      "pdf_page": 251,
+      "printed_page": 251,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-251.png"
+    },
+    {
+      "pdf_page": 252,
+      "printed_page": 252,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-252.png"
+    },
+    {
+      "pdf_page": 253,
+      "printed_page": 253,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-253.png"
+    },
+    {
+      "pdf_page": 254,
+      "printed_page": 254,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-254.png"
+    },
+    {
+      "pdf_page": 255,
+      "printed_page": 255,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-255.png"
+    },
+    {
+      "pdf_page": 256,
+      "printed_page": 256,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-256.png"
+    },
+    {
+      "pdf_page": 257,
+      "printed_page": 257,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-257.png"
+    },
+    {
+      "pdf_page": 258,
+      "printed_page": 258,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-258.png"
+    },
+    {
+      "pdf_page": 259,
+      "printed_page": 259,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-259.png"
+    },
+    {
+      "pdf_page": 260,
+      "printed_page": 260,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-260.png"
+    },
+    {
+      "pdf_page": 261,
+      "printed_page": 261,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-261.png"
+    },
+    {
+      "pdf_page": 262,
+      "printed_page": 262,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-262.png"
+    },
+    {
+      "pdf_page": 263,
+      "printed_page": 263,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-263.png"
+    },
+    {
+      "pdf_page": 264,
+      "printed_page": 264,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-264.png"
+    },
+    {
+      "pdf_page": 265,
+      "printed_page": 265,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-265.png"
+    },
+    {
+      "pdf_page": 266,
+      "printed_page": 266,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-266.png"
+    },
+    {
+      "pdf_page": 267,
+      "printed_page": 267,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-267.png"
+    },
+    {
+      "pdf_page": 268,
+      "printed_page": 268,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-268.png"
+    },
+    {
+      "pdf_page": 269,
+      "printed_page": 269,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-269.png"
+    },
+    {
+      "pdf_page": 270,
+      "printed_page": 270,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-270.png"
+    },
+    {
+      "pdf_page": 271,
+      "printed_page": 271,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-271.png"
+    },
+    {
+      "pdf_page": 272,
+      "printed_page": 272,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-272.png"
+    },
+    {
+      "pdf_page": 273,
+      "printed_page": 273,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-273.png"
+    },
+    {
+      "pdf_page": 274,
+      "printed_page": 274,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-274.png"
+    },
+    {
+      "pdf_page": 275,
+      "printed_page": 275,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-275.png"
+    },
+    {
+      "pdf_page": 276,
+      "printed_page": 276,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-276.png"
+    },
+    {
+      "pdf_page": 277,
+      "printed_page": 277,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-277.png"
+    },
+    {
+      "pdf_page": 278,
+      "printed_page": 278,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-278.png"
+    },
+    {
+      "pdf_page": 279,
+      "printed_page": 279,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-279.png"
+    },
+    {
+      "pdf_page": 280,
+      "printed_page": 280,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-280.png"
+    },
+    {
+      "pdf_page": 281,
+      "printed_page": 281,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-281.png"
+    },
+    {
+      "pdf_page": 282,
+      "printed_page": 282,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-282.png"
+    },
+    {
+      "pdf_page": 283,
+      "printed_page": 283,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-283.png"
+    },
+    {
+      "pdf_page": 284,
+      "printed_page": 284,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-284.png"
+    },
+    {
+      "pdf_page": 285,
+      "printed_page": 285,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-285.png"
+    },
+    {
+      "pdf_page": 286,
+      "printed_page": 286,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-286.png"
+    },
+    {
+      "pdf_page": 287,
+      "printed_page": 287,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-287.png"
+    },
+    {
+      "pdf_page": 288,
+      "printed_page": 288,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-288.png"
+    },
+    {
+      "pdf_page": 289,
+      "printed_page": 289,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-289.png"
+    },
+    {
+      "pdf_page": 290,
+      "printed_page": 290,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-290.png"
+    },
+    {
+      "pdf_page": 291,
+      "printed_page": 291,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-291.png"
+    },
+    {
+      "pdf_page": 292,
+      "printed_page": 292,
+      "section": "ch10",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-292.png"
+    },
+    {
+      "pdf_page": 293,
+      "printed_page": 293,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-293.png"
+    },
+    {
+      "pdf_page": 294,
+      "printed_page": 294,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-294.png"
+    },
+    {
+      "pdf_page": 295,
+      "printed_page": 295,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-295.png"
+    },
+    {
+      "pdf_page": 296,
+      "printed_page": 296,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-296.png"
+    },
+    {
+      "pdf_page": 297,
+      "printed_page": 297,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-297.png"
+    },
+    {
+      "pdf_page": 298,
+      "printed_page": 298,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-298.png"
+    },
+    {
+      "pdf_page": 299,
+      "printed_page": 299,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-299.png"
+    },
+    {
+      "pdf_page": 300,
+      "printed_page": 300,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-300.png"
+    },
+    {
+      "pdf_page": 301,
+      "printed_page": 301,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-301.png"
+    },
+    {
+      "pdf_page": 302,
+      "printed_page": 302,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-302.png"
+    },
+    {
+      "pdf_page": 303,
+      "printed_page": 303,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-303.png"
+    },
+    {
+      "pdf_page": 304,
+      "printed_page": 304,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-304.png"
+    },
+    {
+      "pdf_page": 305,
+      "printed_page": 305,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-305.png"
+    },
+    {
+      "pdf_page": 306,
+      "printed_page": 306,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-306.png"
+    },
+    {
+      "pdf_page": 307,
+      "printed_page": 307,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-307.png"
+    },
+    {
+      "pdf_page": 308,
+      "printed_page": 308,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-308.png"
+    },
+    {
+      "pdf_page": 309,
+      "printed_page": 309,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-309.png"
+    },
+    {
+      "pdf_page": 310,
+      "printed_page": 310,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-310.png"
+    },
+    {
+      "pdf_page": 311,
+      "printed_page": 311,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-311.png"
+    },
+    {
+      "pdf_page": 312,
+      "printed_page": 312,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-312.png"
+    },
+    {
+      "pdf_page": 313,
+      "printed_page": 313,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-313.png"
+    },
+    {
+      "pdf_page": 314,
+      "printed_page": 314,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-314.png"
+    },
+    {
+      "pdf_page": 315,
+      "printed_page": 315,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-315.png"
+    },
+    {
+      "pdf_page": 316,
+      "printed_page": 316,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-316.png"
+    },
+    {
+      "pdf_page": 317,
+      "printed_page": 317,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-317.png"
+    },
+    {
+      "pdf_page": 318,
+      "printed_page": 318,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-318.png"
+    },
+    {
+      "pdf_page": 319,
+      "printed_page": 319,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-319.png"
+    },
+    {
+      "pdf_page": 320,
+      "printed_page": 320,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-320.png"
+    },
+    {
+      "pdf_page": 321,
+      "printed_page": 321,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-321.png"
+    },
+    {
+      "pdf_page": 322,
+      "printed_page": 322,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-322.png"
+    },
+    {
+      "pdf_page": 323,
+      "printed_page": 323,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-323.png"
+    },
+    {
+      "pdf_page": 324,
+      "printed_page": 324,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-324.png"
+    },
+    {
+      "pdf_page": 325,
+      "printed_page": 325,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-325.png"
+    },
+    {
+      "pdf_page": 326,
+      "printed_page": 326,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-326.png"
+    },
+    {
+      "pdf_page": 327,
+      "printed_page": 327,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-327.png"
+    },
+    {
+      "pdf_page": 328,
+      "printed_page": 328,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-328.png"
+    },
+    {
+      "pdf_page": 329,
+      "printed_page": 329,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-329.png"
+    },
+    {
+      "pdf_page": 330,
+      "printed_page": 330,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-330.png"
+    },
+    {
+      "pdf_page": 331,
+      "printed_page": 331,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-331.png"
+    },
+    {
+      "pdf_page": 332,
+      "printed_page": 332,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-332.png"
+    },
+    {
+      "pdf_page": 333,
+      "printed_page": 333,
+      "section": "ch11",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-333.png"
+    },
+    {
+      "pdf_page": 334,
+      "printed_page": 334,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-334.png"
+    },
+    {
+      "pdf_page": 335,
+      "printed_page": 335,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-335.png"
+    },
+    {
+      "pdf_page": 336,
+      "printed_page": 336,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-336.png"
+    },
+    {
+      "pdf_page": 337,
+      "printed_page": 337,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-337.png"
+    },
+    {
+      "pdf_page": 338,
+      "printed_page": 338,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-338.png"
+    },
+    {
+      "pdf_page": 339,
+      "printed_page": 339,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-339.png"
+    },
+    {
+      "pdf_page": 340,
+      "printed_page": 340,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-340.png"
+    },
+    {
+      "pdf_page": 341,
+      "printed_page": 341,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-341.png"
+    },
+    {
+      "pdf_page": 342,
+      "printed_page": 342,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-342.png"
+    },
+    {
+      "pdf_page": 343,
+      "printed_page": 343,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-343.png"
+    },
+    {
+      "pdf_page": 344,
+      "printed_page": 344,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-344.png"
+    },
+    {
+      "pdf_page": 345,
+      "printed_page": 345,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-345.png"
+    },
+    {
+      "pdf_page": 346,
+      "printed_page": 346,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-346.png"
+    },
+    {
+      "pdf_page": 347,
+      "printed_page": 347,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-347.png"
+    },
+    {
+      "pdf_page": 348,
+      "printed_page": 348,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-348.png"
+    },
+    {
+      "pdf_page": 349,
+      "printed_page": 349,
+      "section": "ch12",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-349.png"
+    },
+    {
+      "pdf_page": 350,
+      "printed_page": 350,
+      "section": "players",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-350.png"
+    },
+    {
+      "pdf_page": 351,
+      "printed_page": 351,
+      "section": "players",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-351.png"
+    },
+    {
+      "pdf_page": 352,
+      "printed_page": 352,
+      "section": "openings",
+      "width": 1725,
+      "height": 2475,
+      "pdf_rotation_applied": 180,
+      "file": "source_pages\\page-352.png",
+      "sections": [
+        "players",
+        "openings"
+      ]
+    }
+  ],
+  "date": "2026-09-30",
+  "note": "Original embedded page bitmaps preserved without resampling, with PDF rotation applied. TOC section starts checked against page images. Pages 1–2 are front/back covers; from page 3, PDF and printed page numbers agree. Page 352 contains both indexes."
+}

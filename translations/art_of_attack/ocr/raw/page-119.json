@@ -1,0 +1,420 @@
+{
+  "pdf_page": 119,
+  "printed_page": 119,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        787.8,
+        128.5,
+        1015.6,
+        177.1
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        1482.4,
+        127.2,
+        1560.8,
+        173.4
+      ],
+      "text": "119",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        275.7,
+        276.9,
+        442.3,
+        319.4
+      ],
+      "text": "16 ae1?",
+      "confidence": 0.9656
+    },
+    {
+      "bbox": [
+        276.9,
+        328.1,
+        1554.7,
+        370.5
+      ],
+      "text": "After this move Black gains drawing chances. In such an attractive position",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        231.6,
+        378.0,
+        1555.9,
+        422.9
+      ],
+      "text": "one would expect to find a safe and clear way to victory. White here has all the",
+      "confidence": 0.9783
+    },
+    {
+      "bbox": [
+        230.3,
+        426.6,
+        1558.4,
+        475.3
+      ],
+      "text": "necessary ingredients for success: control over a dark-square network; advantage",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        229.1,
+        477.8,
+        1558.4,
+        525.2
+      ],
+      "text": "in development; two pieces to break up the cluster on the light squares (bishop at",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        231.6,
+        530.2,
+        1555.9,
+        572.6
+      ],
+      "text": "c4 and knight at e2); and as well as all this, a pawn in the centre that prevents",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        231.6,
+        578.8,
+        1155.3,
+        625.0
+      ],
+      "text": "Black from using his e5 square as a post for his pieces!",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        276.9,
+        626.2,
+        1557.2,
+        674.9
+      ],
+      "text": "Stronger and simpler would have been 16 Qf6!, as the following lines show:",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        279.3,
+        678.6,
+        922.5,
+        723.5
+      ],
+      "text": "1)16...e7 17 Wg5 xf6 18 wxg6+.",
+      "confidence": 0.9535
+    },
+    {
+      "bbox": [
+        273.2,
+        719.8,
+        1558.4,
+        775.9
+      ],
+      "text": "2) 16...e6 17 d5 xd5 18 xd5 xe2 19 Wg5 f8 20 ae1! Wb5 (or",
+      "confidence": 0.9662
+    },
+    {
+      "bbox": [
+        232.8,
+        775.9,
+        1558.4,
+        823.3
+      ],
+      "text": "20...d4 21 Wh6+ e8 22 xc6, etc.) 21 f3 xe1 22 xe1 ②e5 23 h6+",
+      "confidence": 0.9619
+    },
+    {
+      "bbox": [
+        236.5,
+        832.1,
+        717.9,
+        869.5
+      ],
+      "text": "e8 24 xe5 and 25 Wh8+.",
+      "confidence": 0.9474
+    },
+    {
+      "bbox": [
+        276.9,
+        880.7,
+        1555.9,
+        925.6
+      ],
+      "text": "3) 16...e4 17 Wg5 f8 18 Zc3!, and the black rook has n0 good square to",
+      "confidence": 0.9498
+    },
+    {
+      "bbox": [
+        231.6,
+        928.1,
+        1555.9,
+        979.3
+      ],
+      "text": "go to: 18...xd4 is inadequate because of 19 fe1, while 18...g4 is answered by",
+      "confidence": 0.9724
+    },
+    {
+      "bbox": [
+        235.2,
+        981.8,
+        1555.9,
+        1022.9
+      ],
+      "text": "19 Wh6+ e8 20 xf7+ xf7 21 g7+ e8 (or 21...e6 22 d5#) 22 ae1+",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        234.0,
+        1035.4,
+        649.3,
+        1074.1
+      ],
+      "text": "and mate is unavoidable.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        280.6,
+        1082.8,
+        923.8,
+        1120.2
+      ],
+      "text": "16...e4 17 f4 Wxd4 18 xe4 fxe4?",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        279.3,
+        1136.5,
+        1555.9,
+        1173.9
+      ],
+      "text": "This pawn blocks the fourth rank to White's advantage. Black should have",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        232.8,
+        1177.6,
+        1558.4,
+        1230.0
+      ],
+      "text": "played 18...Wxe4, when 19 xg6 Wxh4 20 xh4 leads to an ending in which",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        231.6,
+        1230.0,
+        1557.2,
+        1278.7
+      ],
+      "text": "White is the better placed, but Black can still salvage a draw by 20...Qe6 21 d3",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        232.8,
+        1283.7,
+        1558.4,
+        1328.6
+      ],
+      "text": "(or 21 &e2 *g7! when 22 xh5 fails against 22...f6 and 23...h8) 21...f4 threat-",
+      "confidence": 0.9517
+    },
+    {
+      "bbox": [
+        232.8,
+        1336.1,
+        1173.7,
+        1381.0
+      ],
+      "text": "ening both the a-pawn and 22...g7 followed by 23...f6.",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        276.9,
+        1382.2,
+        450.9,
+        1427.1
+      ],
+      "text": "19 xh5!",
+      "confidence": 0.9646
+    },
+    {
+      "bbox": [
+        278.1,
+        1435.8,
+        989.9,
+        1482.0
+      ],
+      "text": "Breaking up Black's light-square complex.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        279.3,
+        1483.3,
+        672.6,
+        1529.4
+      ],
+      "text": "19...gxh5 20 f6! Wc5",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        275.7,
+        1533.2,
+        1557.2,
+        1579.3
+      ],
+      "text": "Forced; if 20...Wxc4 then White wins by 21 Wxh5 while if 20...@e5 then 21",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        235.2,
+        1584.3,
+        537.8,
+        1633.0
+      ],
+      "text": "Wg5+ is decisive.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        275.7,
+        1631.7,
+        574.6,
+        1681.6
+      ],
+      "text": "21 μd1! f8 (D)",
+      "confidence": 0.9538
+    },
+    {
+      "bbox": [
+        273.2,
+        1682.9,
+        1557.2,
+        1734.0
+      ],
+      "text": "The only reply. If 21...e6 then 22 d5! Wxc4 (or 22...xd5 23 Wxh5) 23",
+      "confidence": 0.9662
+    },
+    {
+      "bbox": [
+        236.5,
+        1735.2,
+        1529.0,
+        1783.9
+      ],
+      "text": "Wg5+ f8 24 xd6 and mates, while 21...e7 22 d5 xf6 loses to 23 Wg3+.",
+      "confidence": 0.9599
+    },
+    {
+      "bbox": [
+        278.1,
+        1790.1,
+        392.0,
+        1830.1
+      ],
+      "text": "22 b4!",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        279.3,
+        1841.3,
+        1558.4,
+        1886.2
+      ],
+      "text": "Obliging the knight to abandon its watch on d8. That White's bishop on c4 is",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        231.6,
+        1887.4,
+        1560.8,
+        1933.6
+      ],
+      "text": "still ‘taboo' can be seen from 22...Wxc4 23 Wxh5 e8 24 xd6 Wc1+ 25 d1,",
+      "confidence": 0.9608
+    },
+    {
+      "bbox": [
+        234.0,
+        1938.6,
+        675.1,
+        1988.5
+      ],
+      "text": "and Black loses his queen.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        234.0,
+        2057.1,
+        254.8,
+        2084.5
+      ],
+      "text": "1",
+      "confidence": 0.9554
+    },
+    {
+      "bbox": [
+        316.1,
+        2052.1,
+        1558.4,
+        2094.5
+      ],
+      "text": "This move is refuted by 2o...Wxf2+!! and Black forces mate himself. However,",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        314.9,
+        2099.5,
+        1560.8,
+        2146.9
+      ],
+      "text": "Vukovic's attacking plan is basically correct, except that White has to exercise",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        316.1,
+        2150.7,
+        1555.9,
+        2188.1
+      ],
+      "text": "a little more care: 20 Wh6+ $e8 21 Wg7 d8 22 ae1 and now 22...Wxf2+ 23",
+      "confidence": 0.9511
+    },
+    {
+      "bbox": [
+        316.1,
+        2195.6,
+        1519.2,
+        2240.5
+      ],
+      "text": "xf2 xe1+ 24 αf1 c5+ fails, because after 25 d4 the bishop is defended.",
+      "confidence": 0.9728
+    }
+  ]
+}

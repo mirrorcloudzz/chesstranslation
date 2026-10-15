@@ -1,0 +1,220 @@
+{
+  "pdf_page": 68,
+  "printed_page": 68,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        216.9,
+        122.3,
+        265.9,
+        163.4
+      ],
+      "text": "68",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        644.4,
+        122.3,
+        1145.5,
+        173.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        547.6,
+        378.0,
+        581.9,
+        411.7
+      ],
+      "text": "W",
+      "confidence": 0.9244
+    },
+    {
+      "bbox": [
+        746.1,
+        863.3,
+        1027.9,
+        906.9
+      ],
+      "text": "Damiano'sMate",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        254.8,
+        973.0,
+        1536.3,
+        1027.9
+      ],
+      "text": "This is a position from the book (1512) by Damiano, a Portuguese apothecary,",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        210.7,
+        1026.7,
+        1537.6,
+        1071.6
+      ],
+      "text": "one of the first authors in the literature of European chess. White mates in five",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        211.9,
+        1084.1,
+        335.7,
+        1117.7
+      ],
+      "text": "moves.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        252.4,
+        1122.7,
+        1363.6,
+        1171.4
+      ],
+      "text": "1 h8+ xh8 2 h1+ g8 3 h8+ xh8 4 Wh1+ g8 5 Wh7#.",
+      "confidence": 0.9582
+    },
+    {
+      "bbox": [
+        254.8,
+        1176.4,
+        1536.3,
+        1225.0
+      ],
+      "text": "The rook sacrifices were naturally introduced to make the essential point",
+      "confidence": 0.9824
+    },
+    {
+      "bbox": [
+        209.5,
+        1226.3,
+        1166.3,
+        1276.2
+      ],
+      "text": "clear: the queen must reach the h-file with gain of tempo.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        253.6,
+        1326.1,
+        1533.9,
+        1379.7
+      ],
+      "text": "The pattern of Damiano's mate can be seen more clearly in the following ex-",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        208.3,
+        1378.5,
+        343.0,
+        1428.4
+      ],
+      "text": "amples.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        545.2,
+        1586.8,
+        578.3,
+        1619.2
+      ],
+      "text": "W",
+      "confidence": 0.9186
+    },
+    {
+      "bbox": [
+        253.6,
+        1830.1,
+        833.1,
+        1873.7
+      ],
+      "text": "1 Wh5 Qe7 2 Wh7+ f8 3 Wh8#.",
+      "confidence": 0.909
+    },
+    {
+      "bbox": [
+        248.7,
+        1882.4,
+        1535.1,
+        1934.8
+      ],
+      "text": "In this case a bishop has been placed on f8 and also a pawn on d6, with the re-",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        207.0,
+        1934.8,
+        1536.3,
+        1986.0
+      ],
+      "text": "sult that the bishop can only move to e7, where it blocks the king's escape. The",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        204.6,
+        1984.7,
+        1537.6,
+        2039.6
+      ],
+      "text": "general theme of Damiano's mate, the pattern of which is characterized by a",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        207.0,
+        2035.9,
+        1535.1,
+        2088.3
+      ],
+      "text": "black pawn on g7 and a white pawn or bishop on g6, can be subjected to numer-",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        207.0,
+        2087.0,
+        458.2,
+        2128.2
+      ],
+      "text": "ous variations.",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        248.7,
+        2134.4,
+        1532.7,
+        2188.1
+      ],
+      "text": "The following diagram serves as a memory aid for mates with queen and rook:",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        204.6,
+        2183.1,
+        1537.6,
+        2238.0
+      ],
+      "text": "Black, to move, cannot avoid mate; if he plays 1...g7, then 2 Wh6+ and 3 Wh7#",
+      "confidence": 0.9833
+    }
+  ]
+}

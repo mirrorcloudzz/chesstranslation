@@ -1,0 +1,280 @@
+{
+  "pdf_page": 180,
+  "printed_page": 180,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "180",
+      "bbox": [
+        255.0,
+        122.0,
+        314.0,
+        153.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        677.0,
+        125.0,
+        1171.0,
+        165.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "this and played 14...Äfa8, losing after a further sixteen moves. However, we are",
+      "bbox": [
+        249.0,
+        269.0,
+        1567.0,
+        314.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "only interested in the continuation 14...#xg7, which is followed by 15 Qxe6+",
+      "bbox": [
+        249.0,
+        321.0,
+        1567.0,
+        367.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 Vg7+ 17 Qd4#. The plan also works with 15 Qf5+, in which case",
+      "bbox": [
+        339.0,
+        366.0,
+        1566.0,
+        414.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mate is achieved by 17 g4#.",
+      "bbox": [
+        247.0,
+        422.0,
+        709.0,
+        462.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The next example is devoted to the problem of recognizing strong diagonals",
+      "bbox": [
+        292.0,
+        523.0,
+        1564.0,
+        570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and combining their 'clearing' with an effective use of the bishop.",
+      "bbox": [
+        247.0,
+        573.0,
+        1339.0,
+        619.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Here we have a position from the game Lundin-Tartakower, Groningen 1946.",
+      "bbox": [
+        285.0,
+        1278.0,
+        1556.0,
+        1326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It is clear that White is the better placed, and that Black is weak on the a2-g8 di-",
+      "bbox": [
+        239.0,
+        1327.0,
+        1557.0,
+        1377.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "agonal, but it is less obvious that the white bishop will put in such a quick appear-",
+      "bbox": [
+        239.0,
+        1378.0,
+        1556.0,
+        1427.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ance on that diagonal and that the game will be decided on the bl-h7 diagonal.",
+      "bbox": [
+        238.0,
+        1429.0,
+        1555.0,
+        1478.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White won as follows:",
+      "bbox": [
+        237.0,
+        1478.0,
+        608.0,
+        1510.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 e4! fxe4",
+      "bbox": [
+        284.0,
+        1528.0,
+        449.0,
+        1559.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Otherwise e5 is too strong.",
+      "bbox": [
+        282.0,
+        1579.0,
+        725.0,
+        1622.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 Qg5 Xxfl+ 3 Axfl!",
+      "bbox": [
+        281.0,
+        1625.0,
+        652.0,
+        1668.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The bishop is on its way to c4, the knight on g5 is already casting glances in",
+      "bbox": [
+        280.0,
+        1681.0,
+        1554.0,
+        1731.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the direction of f 7, and the threats on the e-file see to it that the initiative remains",
+      "bbox": [
+        235.0,
+        1731.0,
+        1553.0,
+        1775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in White's hands.",
+      "bbox": [
+        234.0,
+        1782.0,
+        521.0,
+        1813.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...vg6 4 d6",
+      "bbox": [
+        279.0,
+        1827.0,
+        493.0,
+        1870.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This opens the diagonal with gain of tempo (the threat is Vd5+ and then",
+      "bbox": [
+        278.0,
+        1883.0,
+        1552.0,
+        1928.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxb7).",
+      "bbox": [
+        232.0,
+        1926.0,
+        351.0,
+        1969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...Xf8 5 Ac4+ 6 Vd5 h6",
+      "bbox": [
+        276.0,
+        1980.0,
+        799.0,
+        2018.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 6...Ac6, then 7 Of 7+ ég8 8 Vxc6! bxc6 9 Qe5+ Éh8 IO Oxg6+ hxg6 II",
+      "bbox": [
+        277.0,
+        2030.0,
+        1547.0,
+        2085.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Äxe4 g5 12 Axa6, etc.",
+      "bbox": [
+        230.0,
+        2080.0,
+        607.0,
+        2123.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 hf7+ 8 ve8 9 Vxe4+ Af5 10 vxb7 Qb8 11 Af7 Vd8 12 Vf3",
+      "bbox": [
+        275.0,
+        2129.0,
+        1549.0,
+        2178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vf6 13 g4 Abl 14 Vdl!",
+      "bbox": [
+        229.0,
+        2179.0,
+        645.0,
+        2223.0
+      ],
+      "confidence": null
+    }
+  ]
+}

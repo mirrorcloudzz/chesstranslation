@@ -1,0 +1,310 @@
+{
+  "pdf_page": 107,
+  "printed_page": 107,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        790.2,
+        128.5,
+        1016.9,
+        173.4
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        1484.9,
+        127.2,
+        1558.4,
+        169.7
+      ],
+      "text": "107",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        542.7,
+        380.5,
+        577.0,
+        412.9
+      ],
+      "text": "W",
+      "confidence": 0.9171
+    },
+    {
+      "bbox": [
+        275.7,
+        874.5,
+        1559.6,
+        924.4
+      ],
+      "text": "First of all, the naive capture 1...Wxb4?. This is defeated by the sacrifice 2",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        234.0,
+        926.9,
+        1559.6,
+        975.5
+      ],
+      "text": "xh6 gxh6 3 Wxh6, threatening mate on h7. This could be parried by 3...e8,",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        231.6,
+        975.5,
+        1558.4,
+        1025.4
+      ],
+      "text": "but Black then has to pay for the unprotected focal-point at f7 after 4 h7+ h8",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        232.8,
+        1027.9,
+        851.5,
+        1071.6
+      ],
+      "text": "5 g6+ g8 6 wh7+ +f8 7 Wxf7#.",
+      "confidence": 0.9239
+    },
+    {
+      "bbox": [
+        279.3,
+        1080.3,
+        1559.6,
+        1125.2
+      ],
+      "text": "We have seen that the square f7 must be protected by the queen, since the rook",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        231.6,
+        1126.5,
+        1559.6,
+        1177.6
+      ],
+      "text": "on f8 has to move after the sacrifice, which suggests 1...b6 or 1...a7. These",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        229.1,
+        1177.6,
+        1559.6,
+        1226.3
+      ],
+      "text": "to0 are answered by 2 &xh6 gxh6 3 Wxh6, and if 3...e8, then 4 Wh7+ and 5",
+      "confidence": 0.9728
+    },
+    {
+      "bbox": [
+        231.6,
+        1226.3,
+        1457.9,
+        1277.4
+      ],
+      "text": "Wh8#; nor is there any future in 3..f6 4 exf6 xf6 5 xe7 xh6 6 xb7.",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        279.3,
+        1283.7,
+        1555.9,
+        1324.8
+      ],
+      "text": "Black realizes that his queen is not well placed on e7 because it blocks this es-",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        234.0,
+        1334.8,
+        1557.2,
+        1379.7
+      ],
+      "text": "cape square and thus enables White to mate with his queen on h8. Black can try",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        231.6,
+        1384.7,
+        1555.9,
+        1427.1
+      ],
+      "text": "to move his queen away, but in such a way that it still protects the focal-point f7:",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        229.1,
+        1430.9,
+        1559.6,
+        1479.5
+      ],
+      "text": "1...Wc7 2 xh6 gxh6 3 Wxh6 e8 (or 3...f6 4 exf6, with the decisive threat of 5",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        231.6,
+        1479.5,
+        1358.7,
+        1530.7
+      ],
+      "text": "e7) 4 ac1 Wd7 5 h7+ h8 6 f5+ and White wins the queen.",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        275.7,
+        1535.6,
+        1555.9,
+        1580.6
+      ],
+      "text": "From this it can be seen that Black's queen could not even have gone to d7 on",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        232.8,
+        1586.8,
+        479.0,
+        1628.0
+      ],
+      "text": "the first move.",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        275.7,
+        1634.2,
+        1557.2,
+        1682.9
+      ],
+      "text": "We can now cut our speculation short; there only remain 1...e8 and 1...d8.",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        227.9,
+        1681.6,
+        1560.8,
+        1734.0
+      ],
+      "text": "That 1...d8 is no good can be seen after 2 Qxh6 gxh6 3 Wxh6, since then",
+      "confidence": 0.9683
+    },
+    {
+      "bbox": [
+        231.6,
+        1734.0,
+        997.3,
+        1782.6
+      ],
+      "text": "3...We6 cannot be played because of 4 Wg5+.",
+      "confidence": 0.9801
+    },
+    {
+      "bbox": [
+        275.7,
+        1788.9,
+        891.9,
+        1828.8
+      ],
+      "text": "Thus we arrive at the main variation:",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        276.9,
+        1836.3,
+        404.3,
+        1878.7
+      ],
+      "text": "1...e8",
+      "confidence": 0.8871
+    },
+    {
+      "bbox": [
+        276.9,
+        1887.4,
+        1553.5,
+        1934.8
+      ],
+      "text": "After this move the sacrifice of the bishop on h6 is somewhat more compli-",
+      "confidence": 0.9743
+    },
+    {
+      "bbox": [
+        231.6,
+        1939.8,
+        1557.2,
+        1982.2
+      ],
+      "text": "cated, but it is still White's best continuation. On the other hand, 2 Qf4 is also",
+      "confidence": 0.9685
+    },
+    {
+      "bbox": [
+        232.8,
+        1987.2,
+        1557.2,
+        2035.9
+      ],
+      "text": "g0od; less useful here (as on the first move) is 2 Wg4 because of 2...h8 3 Wxd4",
+      "confidence": 0.9763
+    },
+    {
+      "bbox": [
+        231.6,
+        2037.1,
+        989.9,
+        2084.5
+      ],
+      "text": "d8 4 Wc3 b6 and Black can hold his own.",
+      "confidence": 0.9725
+    },
+    {
+      "bbox": [
+        274.4,
+        2089.5,
+        737.5,
+        2133.2
+      ],
+      "text": "2 Ωxh6 gxh6 3 Wxh6 We6",
+      "confidence": 0.9245
+    },
+    {
+      "bbox": [
+        273.2,
+        2138.2,
+        1559.6,
+        2189.3
+      ],
+      "text": "This is the right reply. After 4 &h7+ h8 White now gets nowhere by 5",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        234.0,
+        2189.3,
+        1559.6,
+        2236.7
+      ],
+      "text": "g6+, while the other discovered checks fail because White's queen is attacked",
+      "confidence": 0.9901
+    }
+  ]
+}

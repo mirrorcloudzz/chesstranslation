@@ -1,0 +1,290 @@
+{
+  "pdf_page": 171,
+  "printed_page": 171,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        345.5,
+        114.8,
+        1548.6,
+        162.2
+      ],
+      "text": "Ranks, files and diagonals in the attack on the castled king 171",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        272.0,
+        257.0,
+        668.9,
+        308.1
+      ],
+      "text": "8 e5 e7 9 h4 c5?! (D)",
+      "confidence": 0.9562
+    },
+    {
+      "bbox": [
+        623.6,
+        386.7,
+        939.7,
+        445.4
+      ],
+      "text": "久皇当宴",
+      "confidence": 0.5147
+    },
+    {
+      "bbox": [
+        537.8,
+        465.3,
+        569.7,
+        497.7
+      ],
+      "text": "W",
+      "confidence": 0.9341
+    },
+    {
+      "bbox": [
+        272.0,
+        964.3,
+        1548.6,
+        1013.0
+      ],
+      "text": "White has prepared for the sacrifice of his bishop on h7 by 9 h4, and the reply",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        224.2,
+        1015.4,
+        1551.0,
+        1061.6
+      ],
+      "text": "9...c5 does nothing to stop it. Relatively best was 9...f5! 10 exf6 (after 10 e2 c5",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        226.7,
+        1067.8,
+        1553.5,
+        1110.3
+      ],
+      "text": "11 c3 White is the better placed, but his attack is delayed and Black is not without",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        226.7,
+        1117.7,
+        1555.9,
+        1162.7
+      ],
+      "text": "counterplay) 10...&xf6. The situation is then easier for Black, for as a result of",
+      "confidence": 0.9799
+    },
+    {
+      "bbox": [
+        226.7,
+        1168.9,
+        1549.8,
+        1212.6
+      ],
+      "text": "the exchange on f6 an extremely important attacking unit has disappeared,",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        229.1,
+        1222.5,
+        1548.6,
+        1260.0
+      ],
+      "text": "namely White's pawn on e5. Sacrifices in this position are therefore not worth-",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        226.7,
+        1266.2,
+        1551.0,
+        1313.6
+      ],
+      "text": "while; after 11 Qxh7+ xh7 12 g5+ g8 13 Wh5 Black has an adequate de-",
+      "confidence": 0.9767
+    },
+    {
+      "bbox": [
+        223.0,
+        1314.8,
+        1551.0,
+        1368.5
+      ],
+      "text": "fence in 13...Wd7, while if 11 g5, he can play 11...&xg5 12 hxg5 Wxg5! 13",
+      "confidence": 0.9706
+    },
+    {
+      "bbox": [
+        225.4,
+        1363.5,
+        1552.3,
+        1419.6
+      ],
+      "text": "Qxh7+ f8, and White's attack is not worth much owing to his weakness in the",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        223.0,
+        1419.6,
+        1434.6,
+        1469.5
+      ],
+      "text": "centre and the activity of Black's queen, especially on the dark squares'.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        268.3,
+        1470.8,
+        1551.0,
+        1518.2
+      ],
+      "text": "The last continuation can also be brought about by a different series of moves:",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        227.9,
+        1518.2,
+        1551.0,
+        1568.1
+      ],
+      "text": "11 g5 Qxg5 12 xh7+, when Black should not play 12...xh7 (in which case",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        223.0,
+        1564.3,
+        1552.3,
+        1624.2
+      ],
+      "text": "13 hxg5+ and 14 Wh5 is extremely strong) but 12...f8! 13 hxg5 Wxg5, ending",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        225.4,
+        1623.0,
+        1548.6,
+        1667.9
+      ],
+      "text": "with the position described above. These possibilities are worth getting to know",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        224.2,
+        1671.6,
+        1548.6,
+        1721.5
+      ],
+      "text": "well, since we are dealing with a typical position. Particularly important is the",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        225.4,
+        1724.0,
+        1551.0,
+        1768.9
+      ],
+      "text": "significance of Black's ...f5 in this kind of position: if White does not take the",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        224.2,
+        1776.4,
+        1546.1,
+        1817.6
+      ],
+      "text": "pawn at once en passant, the sacrifice on h7 is prevented directly; while if he",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        223.0,
+        1826.3,
+        1549.8,
+        1871.2
+      ],
+      "text": "takes it, then it is indirectly thwarted or at any rate made weaker, since White's",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        226.7,
+        1880.0,
+        742.4,
+        1917.4
+      ],
+      "text": "pawn has disappeared from e5.",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        267.1,
+        1926.1,
+        1548.6,
+        1972.3
+      ],
+      "text": "It is also worth noting that to avert the sacrifice entirely by ...h6 or ...g6 is not a",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        223.0,
+        1977.3,
+        1548.6,
+        2023.4
+      ],
+      "text": "good thing in this position. If 9...h6, White plays 10 e2 followed by c3 and",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        302.6,
+        2079.5,
+        1546.1,
+        2130.7
+      ],
+      "text": "This is not so. After 14 Wf3+ e7 (14...Wf6 15 g6) 15 h5 Wf6 16 Wg3",
+      "confidence": 0.9725
+    },
+    {
+      "bbox": [
+        307.5,
+        2130.7,
+        1546.1,
+        2179.3
+      ],
+      "text": "Wxd4 (or else 17 0-0-0, with a massive lead in development without any sacri-",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        303.8,
+        2175.6,
+        1478.7,
+        2230.5
+      ],
+      "text": "fice by White) 17 #d1 Wf6 18 g6 f8 19 f5 Black's queen is trapped.",
+      "confidence": 0.9774
+    }
+  ]
+}

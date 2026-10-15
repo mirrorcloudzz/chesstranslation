@@ -1,0 +1,290 @@
+{
+  "pdf_page": 288,
+  "printed_page": 288,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "288",
+      "bbox": [
+        247.0,
+        116.0,
+        309.0,
+        147.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        674.0,
+        118.0,
+        1168.0,
+        159.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After I ...d5?, what is the outstanding feature of the play? Thanks to this move",
+      "bbox": [
+        290.0,
+        266.0,
+        1564.0,
+        309.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black won the pawn on c4, but he neither obtained a proper counterattack nor did",
+      "bbox": [
+        245.0,
+        316.0,
+        1563.0,
+        360.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "he harass White's 'captain in the centre' , his pawn on e5. White's attack flowed",
+      "bbox": [
+        245.0,
+        367.0,
+        1564.0,
+        409.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on unchecked. So the move 1...d5? had only the form of a central thrust and, in",
+      "bbox": [
+        245.0,
+        417.0,
+        1563.0,
+        459.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "essence, did not greatly alter the situation. The true central thrust here, which",
+      "bbox": [
+        244.0,
+        468.0,
+        1563.0,
+        509.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "does in fact parry the attack, is 1...d6! — this has White's e-pawn as its target. Let",
+      "bbox": [
+        243.0,
+        517.0,
+        1564.0,
+        563.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "us look at the variations that arise from this.",
+      "bbox": [
+        243.0,
+        568.0,
+        971.0,
+        601.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...d6! (D)",
+      "bbox": [
+        290.0,
+        618.0,
+        464.0,
+        655.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 Abl",
+      "bbox": [
+        282.0,
+        1317.0,
+        389.0,
+        1351.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White could, admittedly, maintain his wedge in the centre by 2 f4, but Black",
+      "bbox": [
+        281.0,
+        1372.0,
+        1557.0,
+        1419.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "would profit from this in two ways: f4 is closed to White's knight, while the con-",
+      "bbox": [
+        237.0,
+        1423.0,
+        1555.0,
+        1469.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tinuation 2...Ve8 3 Vdl Axc4 4 Abl hf5 5 Vc2 Vc6 shows that Black also has",
+      "bbox": [
+        236.0,
+        1469.0,
+        1555.0,
+        1514.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a tempo more here, since the white queen has needed two moves to reach c2; the",
+      "bbox": [
+        236.0,
+        1525.0,
+        1555.0,
+        1568.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "combination of these factors turns things in Black's favour.",
+      "bbox": [
+        235.0,
+        1575.0,
+        1213.0,
+        1617.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...dxe5 3 dxe5",
+      "bbox": [
+        280.0,
+        1624.0,
+        538.0,
+        1656.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now 3 Vc2 can of course be answered by 3...f5.",
+      "bbox": [
+        279.0,
+        1670.0,
+        1082.0,
+        1719.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...Ve8 4 Vc2 5 Qu",
+      "bbox": [
+        279.0,
+        1720.0,
+        721.0,
+        1758.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 5 0-0 Axc4 6 Xel Q)b3 7 Xa2 Qd4! 8 cxd4 Axa2 9 Axa2 Qxh4, when",
+      "bbox": [
+        279.0,
+        1773.0,
+        1553.0,
+        1821.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White is left with neither an attack nor any compensation for the exchange.",
+      "bbox": [
+        232.0,
+        1827.0,
+        1483.0,
+        1875.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...Qxc4",
+      "bbox": [
+        277.0,
+        1872.0,
+        425.0,
+        1907.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The counterattack in the centre by ...d6 has attained its object: now White can-",
+      "bbox": [
+        277.0,
+        1928.0,
+        1551.0,
+        1974.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not sustain both his attack and his pawn on e5. He cannot achieve anything by 6",
+      "bbox": [
+        232.0,
+        1979.0,
+        1552.0,
+        2027.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qh5 mcxe5 7 Af6 because of 7...Qd3+ 8 Édl Ab5 9 a4 Axa4 10 Xxa4 Vxa4",
+      "bbox": [
+        231.0,
+        2022.0,
+        1551.0,
+        2070.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and Black wins. If 6 axg6 fxg6 7 Ag3, Black plays 7...Äd8, after which the",
+      "bbox": [
+        231.0,
+        2076.0,
+        1551.0,
+        2124.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "threats of ...Xd2 and ...ze3 guarantee him a material advantage. Should White",
+      "bbox": [
+        230.0,
+        2127.0,
+        1551.0,
+        2176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "take the g-pawn, then the exchange of queens leads to a won ending for Black.",
+      "bbox": [
+        230.0,
+        2180.0,
+        1535.0,
+        2227.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "pdf_page": 209,
+  "printed_page": 209,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        441.0,
+        121.0,
+        1389.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "209",
+      "bbox": [
+        1503.0,
+        121.0,
+        1565.0,
+        152.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "improved at the beginning, for 24 e6 can be replaced by 24 oxf7 followed by 25",
+      "bbox": [
+        248.0,
+        263.0,
+        1565.0,
+        309.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "e6+, but it is no longer clear that White has the advantage. Finally, one might",
+      "bbox": [
+        248.0,
+        318.0,
+        1568.0,
+        358.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "consider trying 24 f4 hxg5 25 Vxg5, but this loses its power after 25..Vb6 26 f5",
+      "bbox": [
+        248.0,
+        362.0,
+        1565.0,
+        409.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Off, since Black can meet 27 f6 with 27...Qe6, threatening, in addition to the",
+      "bbox": [
+        248.0,
+        413.0,
+        1567.0,
+        456.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queen, 28...Xc3.",
+      "bbox": [
+        248.0,
+        467.0,
+        517.0,
+        510.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "All these variations arising from the position on the twenty-third move pro-",
+      "bbox": [
+        294.0,
+        519.0,
+        1566.0,
+        559.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vide instructive illustrations of how to spot the correct focal-point. The analysis",
+      "bbox": [
+        249.0,
+        569.0,
+        1567.0,
+        608.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of 23 Zd4! showed a typical attack on g7 ending in success for White, whereas in",
+      "bbox": [
+        249.0,
+        617.0,
+        1568.0,
+        660.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the continuation after 23 Qg5?! h6! a consistent attack could not be built up",
+      "bbox": [
+        249.0,
+        666.0,
+        1568.0,
+        709.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "against any focal-point; White's operations instead took on the character of an at-",
+      "bbox": [
+        250.0,
+        720.0,
+        1567.0,
+        760.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tempt to destroy the black king's pawn cover, and as a result Black obtained open",
+      "bbox": [
+        250.0,
+        770.0,
+        1568.0,
+        811.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lines for his pieces as well as the time in which to organize his defences.",
+      "bbox": [
+        250.0,
+        821.0,
+        1452.0,
+        861.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24 Qxh7 Qxh7 25 Äh3 Vcl (D)",
+      "bbox": [
+        295.0,
+        866.0,
+        847.0,
+        908.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A desperate move, but Black no longer has an adequate defence. White could",
+      "bbox": [
+        295.0,
+        921.0,
+        1569.0,
+        962.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "also have played 26 Vxd8+ now and won by virtue of being the exchange ahead,",
+      "bbox": [
+        250.0,
+        967.0,
+        1568.0,
+        1012.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "but he prefers to seek a mating attack, which brings even quicker success.",
+      "bbox": [
+        251.0,
+        1023.0,
+        1473.0,
+        1063.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "26 Vxh7+ 27 xe3 d4 28 Vh8+ 29 Vxg7 Äf8",
+      "bbox": [
+        296.0,
+        1724.0,
+        1228.0,
+        1768.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 29...Ad5 30 Vf6+ 31 Axd5 Xxd5 32 e6.",
+      "bbox": [
+        296.0,
+        1775.0,
+        1111.0,
+        1810.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "30 Vf6+ 31 e6 1-0",
+      "bbox": [
+        296.0,
+        1825.0,
+        693.0,
+        1861.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "For 31...dxe3 is defeated by 32 exf7+ 33 Ve6+, and if 33...Éc7, then 34",
+      "bbox": [
+        295.0,
+        1876.0,
+        1569.0,
+        1919.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Äxcl+, or if 33...#d8, then 34 Vd6#.",
+      "bbox": [
+        250.0,
+        1926.0,
+        876.0,
+        1966.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The bayonet attack",
+      "bbox": [
+        250.0,
+        2038.0,
+        739.0,
+        2089.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The term 'bayonet attack' is used to designate the advance of one of the attacker's",
+      "bbox": [
+        250.0,
+        2134.0,
+        1570.0,
+        2172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawns on the side of the board facing the opposing castled position, as a result of",
+      "bbox": [
+        250.0,
+        2185.0,
+        1574.0,
+        2223.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "pdf_page": 184,
+  "printed_page": 184,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "184",
+      "bbox": [
+        247.0,
+        126.0,
+        306.0,
+        157.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        669.0,
+        127.0,
+        1163.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "check' , as it were, and the case where it produces a great positional weakness on",
+      "bbox": [
+        242.0,
+        276.0,
+        1559.0,
+        316.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the opposing side.",
+      "bbox": [
+        242.0,
+        325.0,
+        540.0,
+        364.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "There are also unusual and curious queen sacrifices; we shall give three exam-",
+      "bbox": [
+        287.0,
+        375.0,
+        1558.0,
+        416.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ples as variations on this theme, ranging over a period of 40 years.",
+      "bbox": [
+        241.0,
+        425.0,
+        1340.0,
+        465.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this position, from the game Fox-Bauer, Washington 1901, White, to move,",
+      "bbox": [
+        285.0,
+        1130.0,
+        1556.0,
+        1172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "set his opponent a trap.",
+      "bbox": [
+        239.0,
+        1181.0,
+        620.0,
+        1219.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Qdc4 dxc4?",
+      "bbox": [
+        286.0,
+        1225.0,
+        525.0,
+        1260.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black in his greed accepted the sacrifice, which he should have refused.",
+      "bbox": [
+        284.0,
+        1281.0,
+        1474.0,
+        1321.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 Vxg6!",
+      "bbox": [
+        283.0,
+        1325.0,
+        422.0,
+        1369.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A correct sacrifice of the queen, which forces the opening of either the h-file",
+      "bbox": [
+        282.0,
+        1382.0,
+        1556.0,
+        1425.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "or the a2-g8 diagonal.",
+      "bbox": [
+        238.0,
+        1432.0,
+        599.0,
+        1471.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...hxg6",
+      "bbox": [
+        283.0,
+        1482.0,
+        418.0,
+        1520.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 2...fxg6 3 Axc4+ 4 Qxg6+ and 5 Xh8#.",
+      "bbox": [
+        282.0,
+        1529.0,
+        1083.0,
+        1574.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 Qxg6 fxg6 4 Axc4+ 5 Äh8#",
+      "bbox": [
+        282.0,
+        1578.0,
+        877.0,
+        1622.0
+      ],
+      "confidence": null
+    }
+  ]
+}

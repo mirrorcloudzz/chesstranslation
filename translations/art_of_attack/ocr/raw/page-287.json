@@ -1,0 +1,290 @@
+{
+  "pdf_page": 287,
+  "printed_page": 287,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        424.0,
+        125.0,
+        1322.0,
+        168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "287",
+      "bbox": [
+        1461.0,
+        125.0,
+        1522.0,
+        156.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14...Vxd1+ would have been weaker, e.g. 15 Äxdl mc6 (not 15...hxc2+ 16",
+      "bbox": [
+        254.0,
+        267.0,
+        1525.0,
+        312.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "#d2!) and then White really can play 16 g5 Qd7 17 f6.",
+      "bbox": [
+        205.0,
+        318.0,
+        1127.0,
+        363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 Xn Vxh2",
+      "bbox": [
+        253.0,
+        371.0,
+        477.0,
+        406.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The breakthrough in the centre has allowed Black's queen to infiltrate into",
+      "bbox": [
+        250.0,
+        423.0,
+        1526.0,
+        464.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's position, which was weakened by the move g4. Perpetual check is now",
+      "bbox": [
+        205.0,
+        473.0,
+        1526.0,
+        515.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "already in sight.",
+      "bbox": [
+        206.0,
+        528.0,
+        470.0,
+        566.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 Axb4 Oxg4! 17 Axg4",
+      "bbox": [
+        254.0,
+        572.0,
+        687.0,
+        615.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "An attempt to defend by 17 oe4 Vh4+ 18 hf2? would result in unfortunate",
+      "bbox": [
+        251.0,
+        620.0,
+        1526.0,
+        667.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "consequences, i.e. 18...Qe3 19 Vd2 Vxb4!, etc.",
+      "bbox": [
+        206.0,
+        671.0,
+        1005.0,
+        718.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17...Vg3+ 18 Xn",
+      "bbox": [
+        254.0,
+        724.0,
+        552.0,
+        767.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Not 18 Éd2 Ah6+! nor 18 Vxg4+ and 19...Vxb4.",
+      "bbox": [
+        252.0,
+        770.0,
+        1176.0,
+        816.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19 20 1/2-1/2",
+      "bbox": [
+        439.0,
+        827.0,
+        994.0,
+        859.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from the game Kotov-Keres, Budapest Ct 1950. White's at-",
+      "bbox": [
+        255.0,
+        1533.0,
+        1529.0,
+        1574.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack is extremely dangerous, his main threat being Abl followed by Vc2. It is",
+      "bbox": [
+        210.0,
+        1578.0,
+        1530.0,
+        1624.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's move, and the moment is clearly suitable for a thrust in the centre, where",
+      "bbox": [
+        210.0,
+        1635.0,
+        1531.0,
+        1674.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black has not yet engaged his opponent. Keres decided on 1...d5?, but the correct",
+      "bbox": [
+        211.0,
+        1686.0,
+        1532.0,
+        1726.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "choice was l...d6!, as we shall see later. Let us first follow the course the game",
+      "bbox": [
+        210.0,
+        1737.0,
+        1531.0,
+        1774.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "actually took.",
+      "bbox": [
+        211.0,
+        1789.0,
+        434.0,
+        1828.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...d5? 2 Abl! (he surrenders both the pawn and the square c4 to Black and",
+      "bbox": [
+        258.0,
+        1835.0,
+        1531.0,
+        1877.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "threatens Vc2) 2...g5 (if 2...Axc4, then 3 Vc2 g6 4 Vd2 5 Af6 Qb3 6",
+      "bbox": [
+        211.0,
+        1883.0,
+        1532.0,
+        1928.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Q)g5+ eg8 7 Vf4 Oxal 8 Vh4 h5 9 Vxh5 ! followed by mate with the bishop on",
+      "bbox": [
+        211.0,
+        1934.0,
+        1531.0,
+        1978.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1-17) 3 Vc2 Qg6 4 Qf4! gxh4 5 xe8 6 Qh8! Äe7 7 Vh7+ 8 f4 9",
+      "bbox": [
+        211.0,
+        1983.0,
+        1532.0,
+        2028.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "f5 exf5 10 0-0 Ac8 11 Axf5 Axf5 12 Äxf5 13 Xxf7 Éd7 14 Vf5+ #c615",
+      "bbox": [
+        211.0,
+        2034.0,
+        1531.0,
+        2071.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vf6+ Éd7 16 e6+ (or 16...#d6 17 Xxe7 Vxe7 18 Qf7+, winning the",
+      "bbox": [
+        211.0,
+        2085.0,
+        1532.0,
+        2128.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queen) 17 xxe7 Vxh8 18 xxc7+ (or 18...#xc7 19 Ve7+ 20 Xfl) 19",
+      "bbox": [
+        212.0,
+        2135.0,
+        1533.0,
+        2181.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ve7 as 20 Vd7+ 21 Xbl 1-0",
+      "bbox": [
+        211.0,
+        2187.0,
+        790.0,
+        2223.0
+      ],
+      "confidence": null
+    }
+  ]
+}

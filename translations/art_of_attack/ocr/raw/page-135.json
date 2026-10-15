@@ -1,0 +1,390 @@
+{
+  "pdf_page": 135,
+  "printed_page": 135,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        643.2,
+        124.7,
+        1148.0,
+        169.7
+      ],
+      "text": "The classic bishop sacrifice",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        1477.5,
+        122.3,
+        1554.7,
+        168.4
+      ],
+      "text": "135",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        227.9,
+        270.7,
+        1552.3,
+        315.6
+      ],
+      "text": "20..h8 and White gets no more than perpetual check. Kotov knew of this anal-",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        225.4,
+        315.6,
+        1555.9,
+        368.0
+      ],
+      "text": "ysis, which explains why he went in for 15.c5?. Now Kottnauer shows that",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        227.9,
+        366.8,
+        1555.9,
+        417.9
+      ],
+      "text": "White has a stronger move than 20 Wh4? and in doing so demonstrates that not",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        226.7,
+        422.9,
+        1097.7,
+        466.6
+      ],
+      "text": "even the analysis of great masters is always reliable.",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        273.2,
+        471.5,
+        425.1,
+        514.0
+      ],
+      "text": "20...e7",
+      "confidence": 0.9423
+    },
+    {
+      "bbox": [
+        268.3,
+        517.7,
+        1547.4,
+        567.6
+      ],
+      "text": "If 20...d7 White wins at once by 21 xe6 Wxe6 22 ae1 Wd5 23 Wg5+ f7",
+      "confidence": 0.9612
+    },
+    {
+      "bbox": [
+        226.7,
+        568.9,
+        390.8,
+        615.0
+      ],
+      "text": "24 e7+.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        270.8,
+        621.2,
+        499.9,
+        662.4
+      ],
+      "text": "21 ac1 a7",
+      "confidence": 0.9384
+    },
+    {
+      "bbox": [
+        265.9,
+        663.7,
+        1551.0,
+        722.3
+      ],
+      "text": "If 21...b4, which rules out an attack by 22 b4, White plays 22 h7 f7 23",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        229.1,
+        719.8,
+        899.3,
+        767.2
+      ],
+      "text": "Wg6 with the decisive threat of 24 g5.",
+      "confidence": 0.9757
+    },
+    {
+      "bbox": [
+        273.2,
+        770.9,
+        501.1,
+        812.1
+      ],
+      "text": "22 fe1 d7",
+      "confidence": 0.9729
+    },
+    {
+      "bbox": [
+        270.8,
+        822.1,
+        1547.4,
+        863.3
+      ],
+      "text": "If 22...f6 White wins by 23 h7 f7 (or 23...e4 24 xe4) 24 xf6 xf6",
+      "confidence": 0.9657
+    },
+    {
+      "bbox": [
+        229.1,
+        875.7,
+        394.5,
+        914.4
+      ],
+      "text": "25 b4 etc.",
+      "confidence": 0.9753
+    },
+    {
+      "bbox": [
+        267.1,
+        918.1,
+        1551.0,
+        969.3
+      ],
+      "text": "23 b4 a6 24 ②xe6 Ωxe6 25 Wxg7+ f7 26 g5+ +d7 27 Wh8 Wb8 28",
+      "confidence": 0.9462
+    },
+    {
+      "bbox": [
+        227.9,
+        970.5,
+        422.7,
+        1015.4
+      ],
+      "text": "Wxd4+ 1-0",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        684.9,
+        1071.6,
+        1091.6,
+        1119.0
+      ],
+      "text": "Capablanca - Molina",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        724.1,
+        1125.2,
+        1049.9,
+        1165.1
+      ],
+      "text": "Buenos Aires, 1911",
+      "confidence": 0.9576
+    },
+    {
+      "bbox": [
+        510.9,
+        1177.6,
+        1269.2,
+        1218.8
+      ],
+      "text": "Queen's Gambit Declined, Orthodox Defence",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        226.7,
+        1276.2,
+        1549.8,
+        1317.3
+      ],
+      "text": "1 d4 d5 2 c4 e6 3 c3 f6 4 g5 bd7 5 e3 c6 6 ②f3 e7 7 cxd5 ②xd5 8",
+      "confidence": 0.9494
+    },
+    {
+      "bbox": [
+        227.9,
+        1322.3,
+        433.7,
+        1367.2
+      ],
+      "text": "xe7 xe7",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        272.0,
+        1378.5,
+        1548.6,
+        1422.1
+      ],
+      "text": "Black's opening play is not to be taken as a model; on 7 cxd5 the reply 7...exd5",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        226.7,
+        1424.6,
+        1549.8,
+        1474.5
+      ],
+      "text": "would have been better, and at this point he should certainly have played",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        224.2,
+        1473.3,
+        889.5,
+        1524.4
+      ],
+      "text": "8...Wxe7 instead of recalling his knight.",
+      "confidence": 0.9749
+    },
+    {
+      "bbox": [
+        269.5,
+        1528.2,
+        800.0,
+        1568.1
+      ],
+      "text": "9 Ωd3 c5 10 0-0 0-0 11 dxc5?!",
+      "confidence": 0.9646
+    },
+    {
+      "bbox": [
+        270.8,
+        1581.8,
+        1549.8,
+        1623.0
+      ],
+      "text": "This move only has a point if the sacrifice on h7 is correct, otherwise it makes",
+      "confidence": 0.9824
+    },
+    {
+      "bbox": [
+        223.0,
+        1629.2,
+        1548.6,
+        1675.4
+      ],
+      "text": "it easier for Black to equalize. Since the sacrifice is unsound, 11 c1 would have",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        225.4,
+        1681.6,
+        589.3,
+        1726.5
+      ],
+      "text": "been the right course.",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        272.0,
+        1732.7,
+        664.0,
+        1770.2
+      ],
+      "text": "11...xc5 12 xh7+?!",
+      "confidence": 0.953
+    },
+    {
+      "bbox": [
+        268.3,
+        1782.6,
+        1552.3,
+        1827.6
+      ],
+      "text": "The young victor from San Sebastian naturally does not consent to make a",
+      "confidence": 0.9667
+    },
+    {
+      "bbox": [
+        225.4,
+        1830.1,
+        1551.0,
+        1877.5
+      ],
+      "text": "peaceful move like 12 Qe2 against an Argentine amateur. However unsound",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        224.2,
+        1882.4,
+        1551.0,
+        1928.6
+      ],
+      "text": "the sacrifice is, his opponent will see to it for himself that his own position is",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        225.4,
+        1936.1,
+        356.5,
+        1979.8
+      ],
+      "text": "spoilt...",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        269.5,
+        1978.5,
+        765.7,
+        2029.6
+      ],
+      "text": "12...xh7 13 g5+ g6 (D)",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        305.1,
+        2089.5,
+        1551.0,
+        2139.4
+      ],
+      "text": "Somewhat more convincing is 22 c7! Wc6 (forced, as the queen must defend",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        305.1,
+        2138.2,
+        1551.0,
+        2186.8
+      ],
+      "text": "both c5 and d6) 23 xe6! xe6 24 Wxg7+ e8 25 We5 with an easy win. The",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        307.5,
+        2190.6,
+        1091.6,
+        2234.2
+      ],
+      "text": "move 21...a7 is designed partly to prevent &c7.",
+      "confidence": 0.9672
+    }
+  ]
+}

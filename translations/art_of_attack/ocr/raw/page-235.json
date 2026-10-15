@@ -1,0 +1,280 @@
+{
+  "pdf_page": 235,
+  "printed_page": 235,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The attack on the fianchettoed and queenside castling positions 235",
+      "bbox": [
+        364.0,
+        133.0,
+        1568.0,
+        175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The fianchettoed bishop's head has to roll !",
+      "bbox": [
+        297.0,
+        282.0,
+        1002.0,
+        321.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...#xg7 5 Qxf8 *xf8 6 Ah6+",
+      "bbox": [
+        297.0,
+        328.0,
+        829.0,
+        372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "When the fianchettoed bishop vanishes from the board, its opposite number",
+      "bbox": [
+        297.0,
+        381.0,
+        1573.0,
+        421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "usually becomes extremely powerful.",
+      "bbox": [
+        252.0,
+        433.0,
+        872.0,
+        474.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...#f7 7 Vh5+",
+      "bbox": [
+        298.0,
+        480.0,
+        568.0,
+        516.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 7...#g8, then 8 9 Äxg6+ Axg6 IO v X g6+ 1 1 V xf6+",
+      "bbox": [
+        299.0,
+        526.0,
+        1486.0,
+        574.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 Vg6+ and either 13 f6 or 13 Ag5.",
+      "bbox": [
+        258.0,
+        579.0,
+        960.0,
+        625.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 fxg6+ 9 Vf5 and White won in a few moves.",
+      "bbox": [
+        299.0,
+        630.0,
+        1162.0,
+        675.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The importance of removing the fianchettoed bishop at the correct moment in",
+      "bbox": [
+        299.0,
+        733.0,
+        1573.0,
+        775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "this kind of attack is shown by the next position, one which I reached in an analy-",
+      "bbox": [
+        254.0,
+        783.0,
+        1572.0,
+        824.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sis of the Dragon Variation of the Sicilian in my book, Contemporary Opening",
+      "bbox": [
+        255.0,
+        834.0,
+        1573.0,
+        875.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4",
+      "bbox": [
+        1106.0,
+        1011.0,
+        1123.0,
+        1029.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4",
+      "bbox": [
+        1157.0,
+        1009.0,
+        1169.0,
+        1027.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In my book I examined 1 Vh4, following it up by l...bxc3 2 Vh8+ Axh8 3",
+      "bbox": [
+        302.0,
+        1585.0,
+        1574.0,
+        1632.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Äxh8+ 4 X1h7#.",
+      "bbox": [
+        256.0,
+        1640.0,
+        622.0,
+        1674.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "However, fianchettoed king positions of this kind (with the defensive bishop,",
+      "bbox": [
+        302.0,
+        1692.0,
+        1575.0,
+        1732.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the knight on f6, and a pawn on e7) offer a great deal of resistance. Consequently,",
+      "bbox": [
+        257.0,
+        1743.0,
+        1575.0,
+        1784.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in spite of the thunder on the h-file, Black can answer I Vh4 with 1...Qh5! 2",
+      "bbox": [
+        257.0,
+        1788.0,
+        1577.0,
+        1835.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axg7 bxa3! 3 Vg5 (if 3 gxh5, then 3...#xg7, while if 3 Ad4, then 3...axb2+ 4",
+      "bbox": [
+        256.0,
+        1840.0,
+        1576.0,
+        1884.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ébl Va5) 3...axb2+ 4 exg71, and now if 5 Äxh5, then 5...Aa2+ 6 *xa2",
+      "bbox": [
+        257.0,
+        1884.0,
+        1577.0,
+        1933.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "blV+, while if 5 gxh5, then 5...Vxc3 is in Black's favour.",
+      "bbox": [
+        257.0,
+        1940.0,
+        1220.0,
+        1985.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Because of this I have had to amend my original analysis of the diagrammed",
+      "bbox": [
+        303.0,
+        1996.0,
+        1577.0,
+        2034.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position and apply more drastic measures to eliminate the fianchettoed bishop.",
+      "bbox": [
+        257.0,
+        2046.0,
+        1564.0,
+        2087.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this line 4...Vxc3! is immediately decisive, since 5 Axc3 Aa2+ leads to",
+      "bbox": [
+        340.0,
+        2147.0,
+        1578.0,
+        2190.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        262.0,
+        2154.0,
+        273.0,
+        2183.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mate.",
+      "bbox": [
+        341.0,
+        2208.0,
+        424.0,
+        2232.0
+      ],
+      "confidence": null
+    }
+  ]
+}

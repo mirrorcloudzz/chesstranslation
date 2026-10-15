@@ -1,0 +1,170 @@
+{
+  "pdf_page": 257,
+  "printed_page": 257,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        453.0,
+        126.0,
+        1350.0,
+        168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "257",
+      "bbox": [
+        1489.0,
+        126.0,
+        1551.0,
+        158.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "as far as a8, but in doing so he condemns himself to a passive game with no pros-",
+      "bbox": [
+        235.0,
+        878.0,
+        1554.0,
+        917.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pect of activity. Counterplay is possible only on the queenside, based on ...b5.",
+      "bbox": [
+        234.0,
+        928.0,
+        1553.0,
+        969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "That is where Black' s chances lie, and consequently his king does not belong on",
+      "bbox": [
+        234.0,
+        979.0,
+        1555.0,
+        1018.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the queen's wing but should stay where it is; the pawns in front of the king should",
+      "bbox": [
+        235.0,
+        1030.0,
+        1555.0,
+        1070.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not be touched, in order that he may retain as much chance as possible of defend-",
+      "bbox": [
+        236.0,
+        1080.0,
+        1554.0,
+        1119.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing himself by blocking the position. Correct therefore was 13...Ad7 planning",
+      "bbox": [
+        235.0,
+        1126.0,
+        1555.0,
+        1170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...Qa4 followed by ...a6 and ...b5. If White plays 14 a4 then 14...Ve8 15 a5 Qbc8",
+      "bbox": [
+        237.0,
+        1175.0,
+        1554.0,
+        1220.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "followed by ...Äb8 and ...b5, etc.",
+      "bbox": [
+        236.0,
+        1228.0,
+        779.0,
+        1270.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 Qg3 15 Qg8 16 f4 17 f5 Ve7 18 Vg2!",
+      "bbox": [
+        283.0,
+        1276.0,
+        1201.0,
+        1320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Capablanca handles the game supremely calmly. His strategy results in his",
+      "bbox": [
+        280.0,
+        1332.0,
+        1555.0,
+        1371.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "knight being established on the advanced post g7.",
+      "bbox": [
+        235.0,
+        1383.0,
+        1059.0,
+        1422.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18...#d8 19 Qh5 20 gxf6 gxf6 21 Qg7 Adi 22 h5 23 h6 (D)",
+      "bbox": [
+        283.0,
+        1428.0,
+        1538.0,
+        1472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now Black has a 'short castled position on the queenside'. White has every-",
+      "bbox": [
+        280.0,
+        1485.0,
+        1554.0,
+        1524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "thing else.",
+      "bbox": [
+        236.0,
+        1536.0,
+        403.0,
+        1574.0
+      ],
+      "confidence": null
+    }
+  ]
+}

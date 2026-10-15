@@ -1,0 +1,290 @@
+{
+  "pdf_page": 23,
+  "printed_page": 23,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        552.5,
+        131.0,
+        1246.0,
+        179.6
+      ],
+      "text": "The attack against the uncastled king",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        1502.0,
+        131.0,
+        1554.7,
+        178.4
+      ],
+      "text": "23",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        744.9,
+        275.7,
+        1037.7,
+        320.6
+      ],
+      "text": "Keres - Winter",
+      "confidence": 0.9523
+    },
+    {
+      "bbox": [
+        742.4,
+        331.8,
+        1041.4,
+        369.3
+      ],
+      "text": "Warsaw OL, 1935",
+      "confidence": 0.9514
+    },
+    {
+      "bbox": [
+        751.0,
+        376.7,
+        1027.9,
+        421.6
+      ],
+      "text": "Sicilian, 2...f6",
+      "confidence": 0.9245
+    },
+    {
+      "bbox": [
+        226.7,
+        474.0,
+        1552.3,
+        522.7
+      ],
+      "text": "1 e4 c5 2 f3 f6 3 e5 d5 4 2c3 e6 5 ②xd5 exd5 6 d4 d6 7 g5 Wa5+ 8 c3",
+      "confidence": 0.9472
+    },
+    {
+      "bbox": [
+        229.1,
+        523.9,
+        1288.8,
+        575.1
+      ],
+      "text": "cxd4 9 d3 dxc3 10 0-0 cxb2 11 b1 dxe5 12 xe5 d6 (D)",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        638.3,
+        666.2,
+        667.7,
+        693.6
+      ],
+      "text": "二",
+      "confidence": 0.8374
+    },
+    {
+      "bbox": [
+        537.8,
+        733.5,
+        570.9,
+        766.0
+      ],
+      "text": "W",
+      "confidence": 0.8643
+    },
+    {
+      "bbox": [
+        270.8,
+        1232.5,
+        1465.3,
+        1281.2
+      ],
+      "text": "In this position White decided the game by sacrificing his knight on f7:",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        272.0,
+        1281.2,
+        710.6,
+        1324.8
+      ],
+      "text": "13 2xf7! xf7 14 Wh5+",
+      "confidence": 0.9373
+    },
+    {
+      "bbox": [
+        270.8,
+        1333.6,
+        1548.6,
+        1383.5
+      ],
+      "text": "A sacrificial assault on f7 must as a rule be followed up by aggressive action,",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        224.2,
+        1383.5,
+        1548.6,
+        1434.6
+      ],
+      "text": "so as not to allow Black time to consolidate (e.g. with an artificial castling by",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        223.0,
+        1432.1,
+        1552.3,
+        1487.0
+      ],
+      "text": "means of ...f8 and ...g8). The advantage of the capture is twofold: the king, in",
+      "confidence": 0.9761
+    },
+    {
+      "bbox": [
+        227.9,
+        1492.0,
+        1549.8,
+        1529.4
+      ],
+      "text": "moving to f7, loses the right to castle and is exposed still further; at the same",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        224.2,
+        1536.9,
+        1548.6,
+        1585.5
+      ],
+      "text": "time, a weakness appears on the diagonal h5-e8. Such features should be quickly",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        224.2,
+        1586.8,
+        1529.0,
+        1635.4
+      ],
+      "text": "and energetically exploited, since they are on the whole of a transitory nature.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        272.0,
+        1637.9,
+        390.8,
+        1681.6
+      ],
+      "text": "14...g6",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        267.1,
+        1682.9,
+        1554.7,
+        1734.0
+      ],
+      "text": "If 14...*f8, then 15 fe1 d7 16 Wf3+ g8 17 e7 xe7 18 xe7, etc. Or if",
+      "confidence": 0.9382
+    },
+    {
+      "bbox": [
+        226.7,
+        1732.7,
+        1118.6,
+        1785.1
+      ],
+      "text": "14...e6, then 15 f5+! xf5 16 d2+ is strongest.",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        270.8,
+        1786.4,
+        1505.7,
+        1833.8
+      ],
+      "text": "15 xg6+ hxg6 16 Wxh8 f5 17 fe1 Qe4 18 xe4! dxe4 19 Wf6+ 1-0",
+      "confidence": 0.9592
+    },
+    {
+      "bbox": [
+        268.3,
+        1835.0,
+        1551.0,
+        1887.4
+      ],
+      "text": "Since if 19...g8 (or 19...e8 20 We6+ f8 21 h6#) then 20 Wxg6+ f8",
+      "confidence": 0.9707
+    },
+    {
+      "bbox": [
+        224.2,
+        1886.2,
+        1045.0,
+        1937.3
+      ],
+      "text": "21 Wxd6+, followed by further checks and mate.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        267.1,
+        1988.5,
+        1551.0,
+        2040.9
+      ],
+      "text": "The position on the following page is from the game Varein-NN. Here White",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        225.4,
+        2043.4,
+        871.1,
+        2085.8
+      ],
+      "text": "carried out the following combination:",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        268.3,
+        2088.3,
+        665.3,
+        2133.2
+      ],
+      "text": "1 .xf7+ xf7 2 ②d5!",
+      "confidence": 0.9277
+    },
+    {
+      "bbox": [
+        267.1,
+        2141.9,
+        1549.8,
+        2191.8
+      ],
+      "text": "This double attack on Black's b4-bishop and f4-pawn promotes a further at-",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        223.0,
+        2193.1,
+        1548.6,
+        2244.2
+      ],
+      "text": "tack on the exposed king by means of a rapid deployment of the queen's bishop;",
+      "confidence": 0.9849
+    }
+  ]
+}

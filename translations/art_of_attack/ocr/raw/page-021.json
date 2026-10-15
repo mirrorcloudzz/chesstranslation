@@ -1,0 +1,390 @@
+{
+  "pdf_page": 21,
+  "printed_page": 21,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        541.5,
+        131.0,
+        1234.9,
+        183.4
+      ],
+      "text": "The attack against the uncastled king",
+      "confidence": 0.9751
+    },
+    {
+      "bbox": [
+        1488.5,
+        132.2,
+        1542.5,
+        179.6
+      ],
+      "text": "21",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        218.1,
+        278.2,
+        1541.2,
+        328.1
+      ],
+      "text": "b8 26 Wf4+ wins, so Black decides to decline the sacrifice, hoping to exploit",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        216.9,
+        335.6,
+        1085.5,
+        376.7
+      ],
+      "text": "the fact that he is himself threatening to mate on c1.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        258.5,
+        376.7,
+        498.6,
+        427.9
+      ],
+      "text": "23 f7+ 由g8",
+      "confidence": 0.8669
+    },
+    {
+      "bbox": [
+        261.0,
+        431.6,
+        1121.0,
+        474.0
+      ],
+      "text": "23...Wxf7 would, of course, be followed by xc8+.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        259.7,
+        481.5,
+        431.2,
+        527.7
+      ],
+      "text": "24 μg7+!",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        261.0,
+        533.9,
+        1538.8,
+        575.1
+      ],
+      "text": "Black cannot get rid of this impudent rook, since if 24...xg7, then 25",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        219.3,
+        581.3,
+        896.8,
+        623.7
+      ],
+      "text": "Wxd7+, 0r if 24...wxg7, then 25 xc8+.",
+      "confidence": 0.9623
+    },
+    {
+      "bbox": [
+        262.2,
+        630.0,
+        665.3,
+        673.6
+      ],
+      "text": "24...h8 25 μxh7+ 1-0",
+      "confidence": 0.951
+    },
+    {
+      "bbox": [
+        259.7,
+        681.1,
+        1540.0,
+        731.0
+      ],
+      "text": "At this point Steinitz's opponent left the tournament hall and never reap-",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        215.6,
+        729.8,
+        1541.2,
+        782.2
+      ],
+      "text": "peared. By these offensive means he hoped to deprive Steinitz of 'a piece of im-",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        218.1,
+        784.7,
+        1424.8,
+        827.1
+      ],
+      "text": "mortality', but the textbooks have noted White's intentions all the same:",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        261.0,
+        825.8,
+        1541.2,
+        879.5
+      ],
+      "text": "25...g8 26 g7+ h8 27 Wh4+ xg7 28 wh7+ f8 29 Wh8+ e7 30",
+      "confidence": 0.9506
+    },
+    {
+      "bbox": [
+        219.3,
+        878.2,
+        1511.8,
+        930.6
+      ],
+      "text": "曾g7+ e8 31 g8+ e7 32 f7+ d8 33 f8+ e8 34 ②f7+ d7 35 d6#",
+      "confidence": 0.892
+    },
+    {
+      "bbox": [
+        216.9,
+        989.3,
+        912.7,
+        1046.6
+      ],
+      "text": "The attack on the square f7",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        216.9,
+        1086.6,
+        1538.8,
+        1129.0
+      ],
+      "text": "Black's weakest square on the board before castling is f7 (f2 for White). Even in",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        219.3,
+        1137.7,
+        1540.0,
+        1182.6
+      ],
+      "text": "the opening stages, threats of a sacrificial assault on f7 (or f2) are common; they",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        221.8,
+        1190.1,
+        1538.8,
+        1227.5
+      ],
+      "text": "are usually connected with an attack on the king or even with the idea of mate, in",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        216.9,
+        1236.3,
+        1318.3,
+        1282.4
+      ],
+      "text": "which case the square becomes the focal-point of a mating attack.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        257.3,
+        1286.2,
+        1542.5,
+        1332.3
+      ],
+      "text": "Later on, after castling kingside, the rook protects this vulnerable square and",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        216.9,
+        1342.3,
+        1540.0,
+        1379.7
+      ],
+      "text": "its weakness is greatly diminished, while after castling queenside the weakness",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        218.1,
+        1389.7,
+        1106.3,
+        1432.1
+      ],
+      "text": "of the square has no connection with a mating attack.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        258.5,
+        1437.1,
+        1538.8,
+        1487.0
+      ],
+      "text": "The most straightforward examples of assaults on f7 are to be seen at the be-",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        218.1,
+        1492.0,
+        1541.2,
+        1536.9
+      ],
+      "text": "ginning of certain open games, especially in the Petroff Defence and the Philidor",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        213.2,
+        1539.4,
+        1107.5,
+        1586.8
+      ],
+      "text": "Defence. We shall examine one example of this kind:",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        258.5,
+        1588.0,
+        779.2,
+        1630.5
+      ],
+      "text": "1 e4 e5 2 f3 d6 3 c4 e7?",
+      "confidence": 0.9442
+    },
+    {
+      "bbox": [
+        257.3,
+        1639.2,
+        1541.2,
+        1689.1
+      ],
+      "text": "Let us allow Black to play this bad move so as to reach a typical crisis over the",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        216.9,
+        1689.1,
+        759.6,
+        1737.7
+      ],
+      "text": "square f7 as quickly as possible.",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        259.7,
+        1739.0,
+        779.2,
+        1782.6
+      ],
+      "text": "4 g5 d5 5 exd5 xd5 6 Wf3",
+      "confidence": 0.9612
+    },
+    {
+      "bbox": [
+        259.7,
+        1790.1,
+        556.2,
+        1835.0
+      ],
+      "text": "6 d4 is also good.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        263.4,
+        1841.3,
+        417.8,
+        1886.2
+      ],
+      "text": "6...Wxg5",
+      "confidence": 0.879
+    },
+    {
+      "bbox": [
+        261.0,
+        1888.7,
+        1516.7,
+        1941.1
+      ],
+      "text": "After 6...e6 7 xe6 fxe6 8 Wh5+ Black loses a pawn and the right to castle.",
+      "confidence": 0.9674
+    },
+    {
+      "bbox": [
+        257.3,
+        1942.3,
+        400.6,
+        1984.7
+      ],
+      "text": "7 Ωxd5",
+      "confidence": 0.8873
+    },
+    {
+      "bbox": [
+        259.7,
+        1993.5,
+        1537.6,
+        2038.4
+      ],
+      "text": "and Black loses at least a pawn. If 7...f5, then 8 xb7 e4 9 Wb3 Wxg2 10 f1",
+      "confidence": 0.9409
+    },
+    {
+      "bbox": [
+        216.9,
+        2043.4,
+        493.7,
+        2088.3
+      ],
+      "text": "and White wins.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        261.0,
+        2146.9,
+        1541.2,
+        2189.3
+      ],
+      "text": "Naturally, various attacks can be made on the uncastled king other than via the",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        218.1,
+        2196.8,
+        1541.2,
+        2240.5
+      ],
+      "text": "e-file or f7; these are only two of the commonest and most typical methods. The",
+      "confidence": 0.9955
+    }
+  ]
+}

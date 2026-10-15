@@ -1,0 +1,17 @@
+import json
+from pathlib import Path
+
+root = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\pdfs\middlegame_squares\source")
+out = []
+for page in range(38, 55):
+    rows = json.loads((root / f"page-{page:03d}-ocr.json").read_text(encoding="utf-8"))
+    out.append(f"===== PDF {page} / PRINTED {page - 2} =====")
+    for column, selected in (
+        ("LEFT", [row for row in rows if row["x"] < 820]),
+        ("RIGHT", [row for row in rows if row["x"] >= 820]),
+    ):
+        out.append(f"--- {column} ---")
+        for row in sorted(selected, key=lambda item: (item["y"], item["x"])):
+            out.append(f'{row["y"]:7.1f} {row["text"]}')
+
+(root.parent / "ocr_columns.txt").write_text("\n".join(out), encoding="utf-8")

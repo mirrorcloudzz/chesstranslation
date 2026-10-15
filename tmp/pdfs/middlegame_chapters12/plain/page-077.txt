@@ -1,0 +1,88 @@
+PDF 77 / PRINTED 75
+
+the event of an exchange of the
+white-squared   bishops
+by  8
+Nxd4, a weak square is created for
+Black on e6. And yet, upon the
+chosen
+experimental
+system
+by
+Black, it was necessary to think
+more boldly and concretely. The
+proverb “the sheep is safe when the
+wolf has had its fill" cannot be
+assumed as a basis for the chess
+plan.
+7 Be3
+The apparently more logical 7
+Bh4 surprisingly leads to difficul-
+ties with the defence of the d4
+pawn after 7 ... g5 8 Bg3 (not 8
+Nxg5 Ng6!) 8 ... g4. White would
+have to go in for 9 Bxc6 Nxc6 10
+d5 gxf3 11 dxc6 Bxc6 12 Qxf3,
+which would have given Black a
+good game after 12 ... Qg5 or h5.
+It is interesting that Vilner feared
+not 7 ... g5, but the variation 7 ..
+Nxd4 8 Nxd4 exd4 9 Qxd4 Bxb5
+10 Nxb5 Nc6! 11 Bxd8 Nxd4 12
+Nxd4 Rxd8. Undoubtedly, this
+also eases Black's position.
+In planning a game, one often
+has to consider quite a few con-
+crete continuations, justifying or
+refuting this or that idea.
+7 ... g6
+An incorrect scheme, which is
+not in accordance with the idea of
+the development of the knight on
+e7. He should strengthen the e5
+by   playing
+point,
+Ng6, and
+quickly complete his development
+(Be7, O-0). The invasion of the
+ knight on d5 does not
+White
+promise him anything real, and he
+75
+
+只
+3
+could hardly hold his ground on
+this square.
+8 dxe5!
+The beginning of a plan which is
+very dangerous for Black. White
+has an advantage in development
+and he intends to exploit it by
+opening the d-file. If he replies 8
+dxe5, the king's bishop on g7
+will  be 
+doomed
+inactivity;
+to
+however, in the event of 8 ..
+Nxe5, White is prepared to con-
+tent himself with the continuation
+9 Nxe5 dxe5 (9 ... Bxb5? 10 Ng4)
+10 Bxd7+ (10 Qe2 is also not bad)
+10 ... Qxd7 11 Qxd7+ Kxd7 12
+0-0-0+ Kc6 13 Rd3 Bg7 14 Rhd1
+with an indisputable advantage.
+8 ... dxe5
+Black chooses the lesser of two
+evils and strives to create a compli-
+cated situation in the forthcoming
+difficult struggle.
+9 Qd2
+White's plan consists of control-
+ling the d-file after O-O-O. At the
+same time he wants to make it
+difficult for the opponent to castle.
+Nevertheless the queen move does
+not take into account, sufficiently
+concretely, the immediate course

@@ -1,0 +1,290 @@
+{
+  "pdf_page": 298,
+  "printed_page": 298,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "298",
+      "bbox": [
+        209.0,
+        124.0,
+        271.0,
+        155.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        636.0,
+        129.0,
+        1130.0,
+        170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black threatened 7...Vxf5.",
+      "bbox": [
+        252.0,
+        272.0,
+        693.0,
+        308.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7...gxh4 8 Ad7",
+      "bbox": [
+        251.0,
+        322.0,
+        593.0,
+        362.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It is clear that White's attack has been repulsed and that he must now defend",
+      "bbox": [
+        251.0,
+        374.0,
+        1524.0,
+        420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "himself against an action by Black.",
+      "bbox": [
+        204.0,
+        424.0,
+        785.0,
+        467.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9 Ad2 Xa6! 10 Vh5 Aa4+ 11 Xb6 12 xa2 Ad4 13 b4 Ae3 14 Axe3",
+      "bbox": [
+        249.0,
+        470.0,
+        1523.0,
+        520.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vc3+ 15 Ac2 Vxe3+ 16 Axc2+ 17 Xxc2 axb4 18 Vxh4 bxa3+ 19 •a2",
+      "bbox": [
+        203.0,
+        518.0,
+        1523.0,
+        570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vh6!",
+      "bbox": [
+        202.0,
+        568.0,
+        294.0,
+        604.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Since the exchange of queens is now forced (if 20 Vel, then 20...Vf6 would",
+      "bbox": [
+        248.0,
+        625.0,
+        1521.0,
+        671.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "be decisive) the danger on the h-file disappears and Black's superiority in the",
+      "bbox": [
+        202.0,
+        675.0,
+        1520.0,
+        728.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "endgame is decisive. White lost the game in due course. The game is also, of",
+      "bbox": [
+        201.0,
+        726.0,
+        1523.0,
+        776.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "course, a good example of indirect defence.",
+      "bbox": [
+        200.0,
+        778.0,
+        922.0,
+        817.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from the game Gligorié-Kostié, Zagreb 1947. White was",
+      "bbox": [
+        235.0,
+        1481.0,
+        1509.0,
+        1532.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "afraid that, if he allowed ...cxd4 cxd4, he would not be able to maintain his back-",
+      "bbox": [
+        189.0,
+        1530.0,
+        1508.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ward pawn at d4, so he played I d5 exd5 2 Axd5, intending to support the cen-",
+      "bbox": [
+        189.0,
+        1583.0,
+        1507.0,
+        1637.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tralized bishop on d5, if necessary, by c4.",
+      "bbox": [
+        188.0,
+        1632.0,
+        873.0,
+        1679.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "However, this is not a good plan, since it leaves White with an inflexible posi-",
+      "bbox": [
+        232.0,
+        1683.0,
+        1506.0,
+        1740.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion as well as the danger of an inferior endgame. On the other hand, the back-",
+      "bbox": [
+        187.0,
+        1733.0,
+        1505.0,
+        1786.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ward d-pawn is not a great drawback, as long as White strives to obtain",
+      "bbox": [
+        186.0,
+        1784.0,
+        1505.0,
+        1834.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "compensation in an attack on the king. The preconditions are in fact there, for",
+      "bbox": [
+        185.0,
+        1836.0,
+        1506.0,
+        1889.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's position has been weakened by ...h6, and White can rapidly post his",
+      "bbox": [
+        184.0,
+        1884.0,
+        1504.0,
+        1942.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queen and bishop on the bl-h7 diagonal and so force a further weakness in the",
+      "bbox": [
+        183.0,
+        1937.0,
+        1503.0,
+        1985.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "shape of ...g6. It should also be noted that Black has no minor pieces on the",
+      "bbox": [
+        183.0,
+        1985.0,
+        1502.0,
+        2041.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "kingside, while his knight and bishop on the queen's wing are obviously not suit-",
+      "bbox": [
+        181.0,
+        2036.0,
+        1501.0,
+        2093.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ably placed for defence. In the centre Black can only exchange pawns on d4,",
+      "bbox": [
+        181.0,
+        2087.0,
+        1500.0,
+        2143.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "while a pawn advance on the queenside is too slow. The preconditions for an at-",
+      "bbox": [
+        181.0,
+        2137.0,
+        1500.0,
+        2190.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack on the castled king are therefore fulfilled to a considerable measure; White",
+      "bbox": [
+        180.0,
+        2188.0,
+        1500.0,
+        2242.0
+      ],
+      "confidence": null
+    }
+  ]
+}

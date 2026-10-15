@@ -1,0 +1,298 @@
+《国际象棋中局计划》
+英译者序与导言
+英文 OCR 校正稿 + 中文翻译校对稿
+
+文档性质
+
+内部校对稿，非最终出版版本
+
+内容范围
+
+原书印刷页 4-6；第 6 页仅收录 Planning 标题以前的导言结尾
+
+对照方式
+
+左栏为经扫描原页校正的英文 OCR，右栏为中文译文；段落编号一一对应
+
+处理原则
+
+仅合并原扫描中的断行与行末断词，不改写英文原文；中文以准确、通顺
+和国际象棋术语一致为目标
+
+版本日期
+
+2026-09-23
+
+建议重点核对：人名与书名译法；combination 译为“战术组合”；central stage 按语境译为“中局阶段”；以及英译原文本身较生硬
+处的中文处理。
+
+1
+
+《国际象棋中局计划》｜英译者序与导言｜校对稿
+
+一、英译者序（Translator's Preface）
+原书印刷页 4。标题加“英译”二字，是为了避免与未来中文译者序混淆；英文 OCR 保留原题。
+
+经校正的英文 OCR
+
+中文译文
+
+PF-1
+In the prolific world of chess literature, books on the
+middlegame are comparatively rare - and those on planning even
+rarer. When the author happens to be a Soviet champion and
+honoured trainer, then the publication of such a work as Chess
+Middlegame Planning arouses even greater interest. Peter
+Romanovsky (1892-1964) served his chess apprenticeship in
+pre-Revolutionary Russia during the same period as his personal
+friend Alexander Alekhine, to whom he was runner-up in the
+very first Soviet championship of 1920. After Alekhine's
+subsequent defection to the West, Romanovsky himself twice
+won the Soviet title and achieved fine results ahead of famous
+grandmasters in the few international tournaments which were
+held in the USSR during the 20s and 30s. He also became
+closely acquainted with those other great world champions,
+Lasker and Capablanca, who both spent a fair amount of time in
+Russia.
+
+PF-1
+
+PF-2
+After the Second World War, Romanovsky retired from
+competitive play and assumed a major role as a trainer, writer
+and populariser of chess. He lectured on the game from 1947-57
+at Moscow University, was on the editorial board of the official
+Chess in the USSR magazine from its inception, and wrote 16
+books. After his death, many unpublished manuscripts were
+discovered amongst his archives - regrettably most of these
+treasures still remain unpublished to this day.
+
+PF-2
+
+PF-3
+A cultured man with varied interests, in particular music and
+literature, he smiled when once asked why he did not put more
+effort into becoming a grandmaster - "Oh, because in life there
+are many attractions which I did not want to pass by...."
+
+PF-3
+
+PF-4
+In the Soviet School of Chess, Kotov and Yudovich write
+"Romanovsky is an artist and seeker. He strives, in his games, to
+prove or refute one or another strategic idea, to create interesting
+and beautiful combinations. His Middlegame is one of the best
+books in the world's chess literature; it has served as a guide for
+many Soviet masters .... By his day-to-day penetrating analyses
+of his own games and the games of others, in which he seeks out
+unnoticed possibilities, Romanovsky sets the youth an example
+of how to work on self-improvement. He teaches young players
+not only the fine points of modern technique but the evolution of
+chess ideas and the history of the game."
+
+PF-4
+
+在浩如烟海的国际象棋文献中，论述中局的著作相对少见，专
+门讨论计划的则更为罕见。如果作者恰好又是一位苏联冠军和
+功勋教练，那么《国际象棋中局计划》这样的作品问世，自然
+会引起更大的兴趣。彼得·罗曼诺夫斯基（1892-1964）在十月
+革命前的俄国接受了棋艺磨炼，与他处于同一时期的还有其私
+交甚笃的亚历山大·阿廖欣；在1920年首届苏联锦标赛中，他
+位居阿廖欣之后，获得亚军。阿廖欣后来出走西方，罗曼诺夫
+斯基本人则两度夺得苏联冠军，并在20世纪20年代和30年代苏
+联举办的为数不多的国际比赛中取得佳绩，名次超过多位著名
+特级大师。他还与另外两位伟大的世界冠军拉斯克和卡帕布兰
+卡相熟；两人都曾在俄国居住过相当长的时间。
+
+第二次世界大战后，罗曼诺夫斯基退出竞技赛场，转而在国际
+象棋教练、作家和普及者的岗位上发挥重要作用。1947年至
+1957年，他在莫斯科大学讲授国际象棋；从官方杂志《苏联国
+际象棋》创刊之日起，他便担任该刊编委；此外，他还撰写了
+16部著作。他去世后，人们在其档案中发现了许多未刊手稿。
+令人遗憾的是，这些珍贵文稿中的大部分至今仍未出版。
+
+他学养深厚，兴趣广泛，尤其喜爱音乐和文学。有人曾问他，
+为何不投入更多精力去成为特级大师。他笑着答道："哦，因
+为生活中有许多吸引人的事物，我不愿与它们擦肩而过……"
+
+科托夫和尤多维奇在《苏联国际象棋学派》中写道："罗曼诺
+夫斯基是一位艺术家，也是一位探索者。他努力在自己的对局
+中证实或驳倒某种战略思想，创造有趣而优美的战术组合。他
+的《中局》是世界国际象棋文献中最优秀的著作之一，曾经成
+为许多苏联大师的指南……他日复一日深入分析自己和他人的
+对局，从中寻找那些未被察觉的可能性，以此为年轻人树立了
+如何努力实现自我提高的榜样。他教给年轻棋手的，不只是现
+代技术的精微之处，还有国际象棋思想的演变和这项运动的历
+史。"
+
+2
+
+《国际象棋中局计划》｜英译者序与导言｜校对稿
+
+经校正的英文 OCR
+
+中文译文
+
+PF-5
+Chess Middlegame Planning was published in Moscow 1960. Its
+originality and practical value, allied to a colourful literary style,
+made it an immediate classic. It is now offered to readers for the
+first time in the English language.
+
+PF-5
+
+Jimmy Adams
+London 1990
+
+吉米·亚当斯
+
+《国际象棋中局计划》于1960年在莫斯科出版。它构思新颖、
+实用价值突出，再加上生动多彩的文学风格，一经问世便成为
+经典。如今，本书首次以英文呈献给读者。
+
+伦敦，1990年
+
+3
+
+《国际象棋中局计划》｜英译者序与导言｜校对稿
+
+二、导言（Introduction）
+原书印刷页 5 至第 6 页上半部；止于 Planning 标题之前。
+
+经校正的英文 OCR
+
+中文译文
+
+IN-1
+The central stage of the chess game is called the middlegame. It
+is characterised by a comparatively large number of active
+forces of both fighting sides. Also characteristic for this segment
+of the chess game is the passive position of the king and the
+emergence of continuous threats in that area of the struggle
+where it is placed. The consistently arising threats, associated
+with a single idea, represent an attack, of which the object in the
+middlegame frequently becomes the king's position. The
+middlegame is thereby distinguished from the endgame, where a
+comparatively small number of forces are operating, where an
+attack on the king is rare, where, finally, the king assumes an
+active role. It is precisely this abrupt contrast in the role of the
+king which is the main sign distinguishing the endgame stage
+from the middlegame.
+
+IN-1
+
+IN-2
+It goes without saying that the scantiness of forces operating in
+the endgame will appreciably narrow the range of creative ideas,
+the diversity of which, on the other hand, forms the
+distinguishing feature of the middlegame. The theory of many
+endings bears a finished character, and a knowledge of
+technique, that is the application of theoretical laws and
+principles in practice, naturally is sharply increased in the
+endgame. The middlegame struggle most fully and vividly
+reflects the creative substance of chess art. The most important
+creative factor of the chess struggle - the combination - is
+displayed chiefly in the central stage. In the middlegame, there
+is the strongest stimulation for imagination and creative thought
+by a chessplayer, and the most distinct expression both of purely
+human traits of his nature (temperament, boldness, inventiveness
+etc.) and features of his chess style, creative outlook and the
+ideological tendency to which he belongs. It is no coincidence
+that middlegame material, if looked at in a historical connection,
+allows us to very clearly trace the evolution of chess ideas.
+
+IN-2
+
+IN-3
+Besides the middlegame and the endgame, there is also the
+opening - the initial stage of the game, the theory of which
+discusses the question of the expedient development of pieces.
+At the beginning of the opening stage, within the first 3-5
+moves, the maximum number of forces are operating and in the
+majority of cases they remain very numerous right up to the
+approach of the middlegame. In this respect, the characters of
+the game in the opening and central stage are close to one
+another. However there is one substantial difference: the
+opening ideas are concentrated around the full mobilisation of
+forces whereas in the middlegame the plan arises from the
+possibility of an operation by already mobilised pieces, which
+immeasurably broadens the creative horizon of ideas.
+
+IN-3
+
+棋局的中间阶段称为中局。其特征是交战双方都有相当数量的
+子力积极投入战斗。这个阶段的另一个特点，是王通常处于被
+动地位，而王所在的区域会不断出现威胁。一次进攻，就是围
+绕同一构想连续制造威胁；在中局，进攻的目标往往正是王的
+阵地。中局由此区别于残局：残局中参与行动的子力相对较少
+，对王的进攻并不常见，而且王最终会转而发挥积极作用。王
+的作用发生这种鲜明而突然的变化，正是区分残局阶段与中局
+阶段的主要标志。
+
+不言而喻，残局中参与行动的子力较少，这会明显限制创造性
+构想的范围；而构想的丰富多样，恰恰构成中局的显著特征。
+许多残局理论已经相当完备；在残局中，对技术的掌握，也就
+是在实战中运用理论规律和原则的能力，其重要性自然大为提
+高。中局斗争最充分、最生动地体现了国际象棋艺术的创造性
+本质。国际象棋斗争中最重要的创造性因素 - 战术组合 - 主要
+展现在中局阶段。中局最能激发棋手的想象力和创造性思维，
+也最鲜明地展现他的个人天性，例如气质、勇气和创造才能等
+，以及他的棋风、创作观念和所属的思想流派。从历史脉络考
+察中局素材，可以十分清楚地追踪国际象棋思想的演变，这绝
+非偶然。
+
+除中局和残局之外，还有开局，也就是一盘棋的初始阶段；开
+局理论研究的是如何合理地发展子力。在开局开始后的最初3
+至5回合内，盘面上的子力数量最多；而且在大多数情况下，
+直到即将进入中局时，子力仍然十分众多。从这一点看，开局
+与中局阶段的棋局特征彼此接近。不过，两者之间存在一个实
+质性差别：开局构想集中于充分调动全部子力，而中局计划则
+产生于运用已经动员起来的子力展开行动的各种可能性，这使
+创造性构想的视野得到极大的拓展。
+
+4
+
+《国际象棋中局计划》｜英译者序与导言｜校对稿
+
+经校正的英文 OCR
+IN-4
+Of course there must exist a very close connection between the
+opening and the middlegame. In the opening one should not
+simply develop the pieces, but place them in such a way that
+they are able to fulfil the role intended for them at the first stage
+of the central phase. In other words, the middlegame scheme
+must logically continue the opening line of play, blending with it
+into a single systematic plan of action.
+
+中文译文
+IN-4
+当然，开局与中局之间必然存在非常紧密的联系。在开局中，
+棋手不应只是把子力发展出来，还应把它们部署到适当的位置
+，使其能够在中局第一阶段承担预定的任务。换言之，中局构
+想必须在逻辑上延续开局的行棋路线，并与之融为一个完整而
+系统的行动计划。
+
+5
+
+《国际象棋中局计划》｜英译者序与导言｜校对稿
+
+附录：原扫描页
+以下图像仅用于本次 OCR 与译文校对。第三幅已裁去 Planning 及其后续正文。
+
+原书印刷页 4：Translator's Preface
+
+6
+
+《国际象棋中局计划》｜英译者序与导言｜校对稿
+
+原书印刷页 5：Introduction
+
+7
+
+《国际象棋中局计划》｜英译者序与导言｜校对稿
+
+原书印刷页 6 上半部：Introduction 结尾
+
+8
+
+

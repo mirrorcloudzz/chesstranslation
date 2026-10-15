@@ -1,0 +1,290 @@
+{
+  "pdf_page": 300,
+  "printed_page": 300,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "300",
+      "bbox": [
+        257.0,
+        121.0,
+        321.0,
+        153.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        684.0,
+        128.0,
+        1179.0,
+        171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "can entail a general positional commitment and so profit the opponent in various",
+      "bbox": [
+        254.0,
+        273.0,
+        1573.0,
+        326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ways. More gradual commitments also arise from a regrouping of minor pieces",
+      "bbox": [
+        254.0,
+        323.0,
+        1572.0,
+        380.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "outside the castling area but with the sole aim of attacking the castled king. It is",
+      "bbox": [
+        253.0,
+        372.0,
+        1571.0,
+        430.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "already more difficult when it comes to transferring a rook to the third rank, since",
+      "bbox": [
+        252.0,
+        421.0,
+        1570.0,
+        477.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "this rook will need some time to return and reopen communication with the other",
+      "bbox": [
+        251.0,
+        472.0,
+        1570.0,
+        523.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "one, should the attack not succeed. The engagement of minor pieces in the vicin-",
+      "bbox": [
+        250.0,
+        523.0,
+        1567.0,
+        577.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ity of the castling area (e.g. as a result of moving a knight to g5) also involves a",
+      "bbox": [
+        249.0,
+        572.0,
+        1568.0,
+        628.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "heavier commitment in terms of tempi. However, the heaviest commitments are",
+      "bbox": [
+        248.0,
+        622.0,
+        1567.0,
+        675.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "those incurred in an attack carried out with the aid of pawns. Of these the heavi-",
+      "bbox": [
+        247.0,
+        673.0,
+        1565.0,
+        725.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "est is usually incurred by advancing the g-pawn, next comes the advance of the",
+      "bbox": [
+        246.0,
+        723.0,
+        1565.0,
+        775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "h-pawn, while advancing the f-pawn entails the least commitment. Now we have",
+      "bbox": [
+        245.0,
+        772.0,
+        1564.0,
+        826.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a small graduated scale for the degree of commitment incurred by the various op-",
+      "bbox": [
+        245.0,
+        824.0,
+        1562.0,
+        884.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "erations which are necessary to create the preconditions for an attack on the cas-",
+      "bbox": [
+        243.0,
+        874.0,
+        1561.0,
+        926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tled king; it need not be emphasized, perhaps, that this scale has only a general",
+      "bbox": [
+        243.0,
+        923.0,
+        1561.0,
+        984.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and approximate validity. Let us now examine the following example from prac-",
+      "bbox": [
+        242.0,
+        974.0,
+        1559.0,
+        1035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tical play.",
+      "bbox": [
+        241.0,
+        1024.0,
+        401.0,
+        1064.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from the opening stages of the game Alekhine-Weenink,",
+      "bbox": [
+        272.0,
+        1730.0,
+        1545.0,
+        1792.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Prague 1931. It is White to move.",
+      "bbox": [
+        226.0,
+        1780.0,
+        783.0,
+        1821.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Ad3!",
+      "bbox": [
+        272.0,
+        1828.0,
+        391.0,
+        1863.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The textbooks gave Ac4; Alekhine's move takes into account the fact that",
+      "bbox": [
+        269.0,
+        1882.0,
+        1545.0,
+        1939.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black is about to castle kingside and threatens e4 and e5 followed by Axh7",
+      "bbox": [
+        223.0,
+        1932.0,
+        1542.0,
+        1995.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(whether Black castles or not). As a result, Black has no better move than ...h6,",
+      "bbox": [
+        223.0,
+        1982.0,
+        1540.0,
+        2045.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which means that a weakness in his castled position has already been brought",
+      "bbox": [
+        221.0,
+        2033.0,
+        1542.0,
+        2098.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "about, and without any special expenditure in time by White, since Ad3 is a natu-",
+      "bbox": [
+        220.0,
+        2083.0,
+        1539.0,
+        2141.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ral developing move in this position. Inducing weaknesses like this is naturally",
+      "bbox": [
+        218.0,
+        2134.0,
+        1539.0,
+        2200.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "correct in any circumstances.",
+      "bbox": [
+        218.0,
+        2187.0,
+        700.0,
+        2226.0
+      ],
+      "confidence": null
+    }
+  ]
+}

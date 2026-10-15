@@ -1,0 +1,280 @@
+{
+  "pdf_page": 245,
+  "printed_page": 245,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The attack on the fianchettoed and queenside castling positions 245",
+      "bbox": [
+        339.0,
+        135.0,
+        1544.0,
+        176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20 Äd3 Vg5+",
+      "bbox": [
+        272.0,
+        279.0,
+        508.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This move simplifies White's task somewhat. However, Black could not have",
+      "bbox": [
+        272.0,
+        332.0,
+        1548.0,
+        373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "saved himself even by 20...Qc4 which contains the transparent trap 21 Xb3?",
+      "bbox": [
+        228.0,
+        379.0,
+        1548.0,
+        423.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg5+ 22 •bl Qd2+. At the time Lasker had reckoned on defeating 20...Qc4 in",
+      "bbox": [
+        227.0,
+        427.0,
+        1548.0,
+        474.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the following manner (and this has found its way into the commentaries): 21",
+      "bbox": [
+        228.0,
+        483.0,
+        1545.0,
+        523.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Nel? (in order to be able to meet 21...Vg5+ with 22 Äe3) 21...Äd6 22 Q)xd6",
+      "bbox": [
+        228.0,
+        527.0,
+        1548.0,
+        572.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxd6 23 Äb3+ 06 24 a4 Ac8 25 xe8 Vd7 26 Vb5 Vxb5 27 xxb5 #b7? 28",
+      "bbox": [
+        228.0,
+        578.0,
+        1500.0,
+        616.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ad7 29 Xxf8 Äxf8 30 Xb4 and White goes on to capture the knight, after which",
+      "bbox": [
+        228.0,
+        632.0,
+        1549.0,
+        673.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "he is a pawn up in the ending. Let us disregard any doubts about this ending, for",
+      "bbox": [
+        228.0,
+        684.0,
+        1549.0,
+        725.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black has a stronger continuation than 27...#b7, namely 27...Ag7 28 Äxh8",
+      "bbox": [
+        229.0,
+        729.0,
+        1548.0,
+        775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axh8; then White must play 29 a5 (otherwise the knight remains alive on b6)",
+      "bbox": [
+        229.0,
+        784.0,
+        1548.0,
+        826.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "whereupon the main line runs 29...Axd4 30 axb6 c6 31 Xb3 Axf2 32 b7 (if",
+      "bbox": [
+        230.0,
+        831.0,
+        1552.0,
+        877.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White allows ...Éb7, then the position is still more favourable for Black)",
+      "bbox": [
+        229.0,
+        883.0,
+        1549.0,
+        926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "32...Ae6 33 Éd2 c5! 34 c4 35 Äa3 Ad4, and it is clearly White rather than",
+      "bbox": [
+        231.0,
+        933.0,
+        1549.0,
+        975.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black who has to struggle for a draw. It is interesting to see how the original char-",
+      "bbox": [
+        230.0,
+        987.0,
+        1548.0,
+        1027.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "acteristic of the position (the inability of the knight on h4 to move) again emerges",
+      "bbox": [
+        230.0,
+        1038.0,
+        1549.0,
+        1078.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "as the decisive factor as soon as the attack on the castled position peters out. Not",
+      "bbox": [
+        230.0,
+        1088.0,
+        1551.0,
+        1126.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "even the best players are immune from such misfortunes!",
+      "bbox": [
+        230.0,
+        1139.0,
+        1178.0,
+        1179.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This game, which was the decisive one in Lasker's victory at St. Petersburg,",
+      "bbox": [
+        275.0,
+        1189.0,
+        1549.0,
+        1229.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cannot be left to go on sleeping in the archives of chess history with an inaccurate",
+      "bbox": [
+        230.0,
+        1240.0,
+        1549.0,
+        1279.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "commentary. Good games should not be allowed to go to their rest without good",
+      "bbox": [
+        230.0,
+        1291.0,
+        1550.0,
+        1330.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "annotations as their lullabies! Therefore, we must show how in fact White does",
+      "bbox": [
+        231.0,
+        1341.0,
+        1549.0,
+        1375.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "win after 20...Qc4 (D).",
+      "bbox": [
+        231.0,
+        1387.0,
+        614.0,
+        1429.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "So that there will be no doubt about it, we shall supply two winning moves,",
+      "bbox": [
+        277.0,
+        2101.0,
+        1551.0,
+        2138.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "both of them instructive as far as carrying out an attack in this kind of position is",
+      "bbox": [
+        231.0,
+        2151.0,
+        1551.0,
+        2188.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "concerned.",
+      "bbox": [
+        231.0,
+        2201.0,
+        410.0,
+        2231.0
+      ],
+      "confidence": null
+    }
+  ]
+}

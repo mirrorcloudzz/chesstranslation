@@ -1,0 +1,290 @@
+{
+  "pdf_page": 139,
+  "printed_page": 139,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        639.5,
+        114.8,
+        1146.7,
+        162.2
+      ],
+      "text": "The classic bishop sacrifice",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        1476.3,
+        111.0,
+        1552.3,
+        157.2
+      ],
+      "text": "139",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        224.2,
+        257.0,
+        1552.3,
+        314.4
+      ],
+      "text": "opponents and a general rise in standards, but it was perhaps even more because",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        229.1,
+        311.9,
+        1548.6,
+        359.3
+      ],
+      "text": "of a gradual waning of enthusiasm under the weight of increasing self-criticism.",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        225.4,
+        360.5,
+        1549.8,
+        409.2
+      ],
+      "text": "Unlike Capablanca, Alekhine played in his own style from his youth right till the",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        224.2,
+        407.9,
+        1553.5,
+        462.8
+      ],
+      "text": "end, accepting the risk of difficult attacks against the castled king even against",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        225.4,
+        469.1,
+        528.0,
+        512.7
+      ],
+      "text": "strong opponents.",
+      "confidence": 0.9712
+    },
+    {
+      "bbox": [
+        724.1,
+        560.1,
+        1053.6,
+        605.0
+      ],
+      "text": "Colle - O'Hanlon",
+      "confidence": 0.9717
+    },
+    {
+      "bbox": [
+        796.3,
+        615.0,
+        980.1,
+        653.7
+      ],
+      "text": "Nice, 1930",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        774.3,
+        664.9,
+        999.7,
+        707.3
+      ],
+      "text": "Colle System",
+      "confidence": 0.9602
+    },
+    {
+      "bbox": [
+        224.2,
+        757.2,
+        1548.6,
+        807.1
+      ],
+      "text": "1 d4 d5 2 2f3 f6 3 e3 c5 4 c3 e6 5 d3 d6 6 2bd2 2bd7 7 0-0 0-0 8 e1",
+      "confidence": 0.9185
+    },
+    {
+      "bbox": [
+        225.4,
+        814.6,
+        302.6,
+        857.0
+      ],
+      "text": "e8",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        268.3,
+        863.3,
+        1328.1,
+        909.4
+      ],
+      "text": "This does little harm, but 8...Wb6 is better, according to theory.",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        270.8,
+        915.7,
+        1233.7,
+        956.8
+      ],
+      "text": "9 e4 dxe4 10 ②xe4 xe4 11 xe4 cxd4 12 xh7+? (D)",
+      "confidence": 0.9764
+    },
+    {
+      "bbox": [
+        624.8,
+        1042.9,
+        882.1,
+        1092.8
+      ],
+      "text": "宣皇业",
+      "confidence": 0.5093
+    },
+    {
+      "bbox": [
+        863.7,
+        1046.6,
+        932.3,
+        1087.8
+      ],
+      "text": "宣",
+      "confidence": 0.6505
+    },
+    {
+      "bbox": [
+        536.6,
+        1121.5,
+        562.3,
+        1153.9
+      ],
+      "text": "B",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        274.4,
+        1620.5,
+        1552.3,
+        1666.6
+      ],
+      "text": "A great lover of the classic sacrifice, Colle here too is unable to control his",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        229.1,
+        1671.6,
+        1549.8,
+        1720.3
+      ],
+      "text": "temperamental penchant for sacrifice, though even at a quick glance it is appar-",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        227.9,
+        1724.0,
+        1552.3,
+        1767.7
+      ],
+      "text": "ent that the presence of Black's knight on d7 is a danger in both the main varia-",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        225.4,
+        1770.2,
+        1554.7,
+        1821.3
+      ],
+      "text": "tions, while a valuable tempo is saved in the ...g8 variation by the rook's being",
+      "confidence": 0.9631
+    },
+    {
+      "bbox": [
+        226.7,
+        1817.6,
+        1242.3,
+        1871.2
+      ],
+      "text": "on e8. Correct would have been either 12 xd4 or 12 cxd4 .",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        273.2,
+        1873.7,
+        704.5,
+        1918.6
+      ],
+      "text": "12...xh7 13 g5+ g6",
+      "confidence": 0.9636
+    },
+    {
+      "bbox": [
+        273.2,
+        1923.6,
+        1555.9,
+        1967.3
+      ],
+      "text": "So far all is well, since in the event of 13...g8 the sacrifice is half correct, that",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        226.7,
+        1971.0,
+        1557.2,
+        2020.9
+      ],
+      "text": "is, White can obtain a draw. After 13...g8 14 Wh5 e5 15 xe5 xe5 16",
+      "confidence": 0.9741
+    },
+    {
+      "bbox": [
+        226.7,
+        2020.9,
+        1558.4,
+        2075.8
+      ],
+      "text": "Wxf7+ White can get perpetual check, but no more than that. Black is no better",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        226.7,
+        2070.8,
+        1554.7,
+        2124.5
+      ],
+      "text": "off if he tries a different line in this variation, e.g. 14...Wf6 (instead of 14...e5)",
+      "confidence": 0.9612
+    },
+    {
+      "bbox": [
+        308.7,
+        2180.6,
+        1372.2,
+        2223.0
+      ],
+      "text": "As we shall see, Vukovic is far too pessimistic about this sacrifice.",
+      "confidence": 0.9845
+    }
+  ]
+}

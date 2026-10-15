@@ -1,0 +1,420 @@
+{
+  "pdf_page": 336,
+  "printed_page": 336,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "336",
+      "bbox": [
+        164.0,
+        148.0,
+        226.0,
+        179.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        590.0,
+        143.0,
+        1085.0,
+        184.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and Capablanca remain the unsurpassed models; side by side with them may be",
+      "bbox": [
+        164.0,
+        291.0,
+        1484.0,
+        335.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "placed a few of the games of Rubinstein, Keres, and Bronstein, though we shall",
+      "bbox": [
+        163.0,
+        341.0,
+        1484.0,
+        386.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "find scarcely any new discoveries in them; the whole period from Alekhine's",
+      "bbox": [
+        164.0,
+        391.0,
+        1484.0,
+        435.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "death to the present day has not been particularly fruitful in the sphere of the at-",
+      "bbox": [
+        164.0,
+        442.0,
+        1483.0,
+        486.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack on the king. So one is justified in going back to Alekhine and Capablanca as",
+      "bbox": [
+        165.0,
+        492.0,
+        1485.0,
+        536.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the first to discover knowledge which to this day has been neither refuted nor su-",
+      "bbox": [
+        166.0,
+        543.0,
+        1484.0,
+        584.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "perseded.",
+      "bbox": [
+        165.0,
+        599.0,
+        321.0,
+        638.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "As far as these actual discoveries by Alekhine and Capablanca are concerned,",
+      "bbox": [
+        211.0,
+        643.0,
+        1485.0,
+        684.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "it can be said that they did not take the form of some new principle but rather de-",
+      "bbox": [
+        166.0,
+        694.0,
+        1485.0,
+        736.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pended on a new way of thinking, which proceeded subjectively and therefore in",
+      "bbox": [
+        166.0,
+        744.0,
+        1486.0,
+        789.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a manner which cannot be expressed or comprehended on a theoretical basis; by",
+      "bbox": [
+        167.0,
+        794.0,
+        1486.0,
+        836.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "these methods they discovered moves which fulfil the chief principle of the at-",
+      "bbox": [
+        167.0,
+        845.0,
+        1486.0,
+        887.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack on the castled king, namely, obtaining the maximum preconditions for an at-",
+      "bbox": [
+        167.0,
+        895.0,
+        1486.0,
+        937.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack with the minimum of commitment.",
+      "bbox": [
+        168.0,
+        949.0,
+        806.0,
+        987.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This principle in itself is a simple one and can be easily remembered, but play-",
+      "bbox": [
+        212.0,
+        995.0,
+        1486.0,
+        1039.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing in accordance with it is extremely difficult. Here two grades of values must",
+      "bbox": [
+        168.0,
+        1046.0,
+        1488.0,
+        1090.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "be clearly distinguished: the one based on the value of the individual precondi-",
+      "bbox": [
+        168.0,
+        1096.0,
+        1487.0,
+        1139.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tions and the other on that of the successive commitments undertaken. This must",
+      "bbox": [
+        168.0,
+        1147.0,
+        1489.0,
+        1182.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then be resolved into a precisely ordered series of moves, while one must also be",
+      "bbox": [
+        168.0,
+        1198.0,
+        1488.0,
+        1240.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ready at any moment to convert the attack into some other thematic course of ac-",
+      "bbox": [
+        167.0,
+        1249.0,
+        1487.0,
+        1291.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion — all of which requires considerable mastery.",
+      "bbox": [
+        168.0,
+        1301.0,
+        986.0,
+        1340.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "From a close study of the games of Alekhine and Capablanca one can con-",
+      "bbox": [
+        213.0,
+        1350.0,
+        1487.0,
+        1390.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "clude that they did indeed use a perfected method of thinking in the sense men-",
+      "bbox": [
+        169.0,
+        1401.0,
+        1488.0,
+        1442.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tioned above; only, in the case of Alekhine this thinking was more analytical and",
+      "bbox": [
+        169.0,
+        1450.0,
+        1489.0,
+        1492.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "logical, while with Capablanca it was more artistically intuitive. However, the re-",
+      "bbox": [
+        169.0,
+        1501.0,
+        1488.0,
+        1544.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sults of this thinking, that is, the actual moves, do not appear to differ greatly to",
+      "bbox": [
+        170.0,
+        1552.0,
+        1489.0,
+        1594.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the outside observer. However, Alekhine's discoveries can be somewhat more",
+      "bbox": [
+        169.0,
+        1603.0,
+        1489.0,
+        1640.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "precisely defined than Capablanca's; Alekhine's output was more abundant, he",
+      "bbox": [
+        169.0,
+        1654.0,
+        1490.0,
+        1696.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'lived chess' more deeply, and he was a more passionate analyser of his own",
+      "bbox": [
+        173.0,
+        1705.0,
+        1489.0,
+        1745.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "games. A particular characteristic of his commentaries is the frequent use of the",
+      "bbox": [
+        170.0,
+        1755.0,
+        1490.0,
+        1796.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "idea of commitment (just as with Lasker we get the idea of compensation, with",
+      "bbox": [
+        170.0,
+        1806.0,
+        1490.0,
+        1846.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Steinitz that of the balance of the position, and with Nimzowitsch that of central-",
+      "bbox": [
+        171.0,
+        1856.0,
+        1489.0,
+        1896.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ization). One could say that of all masters Alekhine had the most refined sense of",
+      "bbox": [
+        170.0,
+        1907.0,
+        1494.0,
+        1947.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the degree of commitment, even though his temperament sometimes led him to",
+      "bbox": [
+        170.0,
+        1958.0,
+        1491.0,
+        1998.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "be too eager.",
+      "bbox": [
+        170.0,
+        2011.0,
+        379.0,
+        2049.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "When Alekhine, with apparent nonchalance, played, for instance, h4 against the",
+      "bbox": [
+        215.0,
+        2059.0,
+        1492.0,
+        2098.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "French Defence, this appeared to his contemporaries to be 'the pretentiousness",
+      "bbox": [
+        170.0,
+        2109.0,
+        1491.0,
+        2149.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of genius' , but a closer analysis today reveals that behind such moves there lay a",
+      "bbox": [
+        171.0,
+        2159.0,
+        1493.0,
+        2200.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "great deal of mental calculation and hard logic, and that this move h4 belongs",
+      "bbox": [
+        171.0,
+        2210.0,
+        1491.0,
+        2250.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "pdf_page": 170,
+  "printed_page": 170,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        215.6,
+        113.5,
+        290.4,
+        160.9
+      ],
+      "text": "170",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        645.6,
+        118.5,
+        1145.5,
+        168.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9709
+    },
+    {
+      "bbox": [
+        259.7,
+        260.7,
+        936.0,
+        310.6
+      ],
+      "text": "14 fxe5 f5′ 15 g4 xe5+ 16 d1 e3",
+      "confidence": 0.9534
+    },
+    {
+      "bbox": [
+        257.3,
+        313.1,
+        1538.8,
+        368.0
+      ],
+      "text": "If 16...d7, then 17 Wh8+ f7 18 f1+ e7 19 Wxg7+ d6 20 Zb5#, while",
+      "confidence": 0.943
+    },
+    {
+      "bbox": [
+        214.4,
+        365.5,
+        637.1,
+        410.4
+      ],
+      "text": "if 16...f8, then 17 f4.",
+      "confidence": 0.9709
+    },
+    {
+      "bbox": [
+        259.7,
+        410.4,
+        737.5,
+        464.1
+      ],
+      "text": "17 xe3 xe3 18 b5! (D)",
+      "confidence": 0.9579
+    },
+    {
+      "bbox": [
+        547.6,
+        622.5,
+        573.4,
+        656.2
+      ],
+      "text": "B",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        252.4,
+        1120.2,
+        1537.6,
+        1173.9
+      ],
+      "text": "In the preceding note we gave a line ending with b5#; now the same move",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        208.3,
+        1170.1,
+        1531.4,
+        1227.5
+      ],
+      "text": "serves to tighten the mating net, which Black had attempted to cut through by",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        210.7,
+        1220.0,
+        1127.1,
+        1273.7
+      ],
+      "text": "16...&e3 (freeing the c5-square for the king's escape!).",
+      "confidence": 0.9763
+    },
+    {
+      "bbox": [
+        253.6,
+        1271.2,
+        399.4,
+        1313.6
+      ],
+      "text": "18...f3",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        249.9,
+        1316.1,
+        1535.1,
+        1377.2
+      ],
+      "text": "The alternatives were 18...f8 19 Wh8+ f7 20 f1+ followed by mate and",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        207.0,
+        1367.2,
+        833.1,
+        1420.9
+      ],
+      "text": "18...e5 19 wh7+ f8 20 #f1+, etc.",
+      "confidence": 0.9465
+    },
+    {
+      "bbox": [
+        252.4,
+        1422.1,
+        419.0,
+        1468.3
+      ],
+      "text": "19 g6 1-0",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        247.5,
+        1473.3,
+        1531.4,
+        1531.9
+      ],
+      "text": "It is the formation with pawn on g6 against pawn on g7 (which has already",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        204.6,
+        1523.2,
+        1531.4,
+        1581.8
+      ],
+      "text": "been discussed) that is finally decisive. The part played by the knight on b5 is evi-",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        204.6,
+        1574.3,
+        1532.7,
+        1630.5
+      ],
+      "text": "dent in several variations, as well as in the final position, e.g. if 19...f8, then 20",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        205.8,
+        1619.2,
+        653.0,
+        1674.1
+      ],
+      "text": "Wh8+ and 21 Wxg7+, etc.",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        651.8,
+        1727.8,
+        1084.3,
+        1776.4
+      ],
+      "text": "Alekhine - Asgeirsson",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        546.4,
+        1778.9,
+        1187.2,
+        1830.1
+      ],
+      "text": "Reykjavik Simultaneous Display,1931",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        730.2,
+        1830.1,
+        1002.2,
+        1877.5
+      ],
+      "text": "French Defence",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        200.9,
+        1926.1,
+        1526.5,
+        1982.2
+      ],
+      "text": "1 e4 e6 2 d4 d5 3 c3 f6 4 g5 e7 5 皇xf6 皇xf6 6 ②f3 0-0 7 d3 e8?!",
+      "confidence": 0.9183
+    },
+    {
+      "bbox": [
+        248.7,
+        1981.0,
+        1140.6,
+        2029.6
+      ],
+      "text": "An unnecessary loss of time; correct is 7...c5 at once.",
+      "confidence": 0.9801
+    },
+    {
+      "bbox": [
+        285.5,
+        2088.3,
+        1526.5,
+        2139.4
+      ],
+      "text": "In this position 14..Wc7 is less effective, as 15 f4! xf4 16 Wh8+ f7 17",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        283.0,
+        2135.7,
+        1529.0,
+        2191.8
+      ],
+      "text": "g6+! e7 18 Wxg7+ gives White a very dangerous attack - Black needs a de-",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        283.0,
+        2185.6,
+        623.6,
+        2230.5
+      ],
+      "text": "fensive knight on d7.",
+      "confidence": 0.9897
+    }
+  ]
+}

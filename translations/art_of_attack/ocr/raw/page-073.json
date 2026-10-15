@@ -1,0 +1,170 @@
+{
+  "pdf_page": 73,
+  "printed_page": 73,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        751.0,
+        123.5,
+        1046.3,
+        175.9
+      ],
+      "text": "Mating patterns",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        1500.8,
+        124.7,
+        1549.8,
+        165.9
+      ],
+      "text": "73",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        537.8,
+        375.5,
+        570.9,
+        406.7
+      ],
+      "text": "W",
+      "confidence": 0.8853
+    },
+    {
+      "bbox": [
+        270.8,
+        872.0,
+        1553.5,
+        918.1
+      ],
+      "text": "Here the continuation ends with a typical mating pattern with a rook and",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        225.4,
+        928.1,
+        332.0,
+        973.0
+      ],
+      "text": "pawn.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        273.2,
+        971.8,
+        1102.6,
+        1016.7
+      ],
+      "text": "1 Wg5 +h8 2 Wh6 μg8 3 Wxh7+ xh7 4 h1#.",
+      "confidence": 0.9169
+    },
+    {
+      "bbox": [
+        773.1,
+        1666.6,
+        991.1,
+        1709.0
+      ],
+      "text": "'Blind swine'",
+      "confidence": 0.9572
+    },
+    {
+      "bbox": [
+        273.2,
+        1785.1,
+        1552.3,
+        1822.6
+      ],
+      "text": "If it is White's move, he mates with 1 #g7+, 2 h7+, and 3 bg7#. If Black is",
+      "confidence": 0.9733
+    },
+    {
+      "bbox": [
+        223.0,
+        1830.1,
+        1555.9,
+        1880.0
+      ],
+      "text": "to move and plays 1...fd8, White can neither force mate or even win. That is to",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        223.0,
+        1878.7,
+        1554.7,
+        1934.8
+      ],
+      "text": "say, after 2 g7+ h8 3 h7+ g8 4 bg7+ f8 5 b7, Black simply plays",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        226.7,
+        1934.8,
+        1553.5,
+        1981.0
+      ],
+      "text": "5...g8, ‘questioning' the white rook and countering the threat of mate. (It de-",
+      "confidence": 0.9758
+    },
+    {
+      "bbox": [
+        224.2,
+        1983.5,
+        1557.2,
+        2032.1
+      ],
+      "text": "pends of course on the distribution of the other pieces whether White can in fact",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        227.9,
+        2037.1,
+        1552.3,
+        2080.8
+      ],
+      "text": "win. In this position he can easily mate if he has a pawn on h4, for he plays 6 h5",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        226.7,
+        2083.3,
+        1551.0,
+        2131.9
+      ],
+      "text": "followed by 7 h6, 8 bg7+, and 9 h8# -- a mate which is worth remembering. In",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        229.1,
+        2138.2,
+        1553.5,
+        2179.3
+      ],
+      "text": "this line Black's pawn on f6 is actually a help to White. If it were not there, Black",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        227.9,
+        2185.6,
+        1034.0,
+        2231.7
+      ],
+      "text": "could get a draw after 6 h5 by playing 6...a6!.)",
+      "confidence": 0.9973
+    }
+  ]
+}

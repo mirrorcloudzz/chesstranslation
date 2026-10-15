@@ -1,0 +1,290 @@
+{
+  "pdf_page": 148,
+  "printed_page": 148,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        272.0,
+        116.0,
+        347.9,
+        162.2
+      ],
+      "text": "148",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        702.0,
+        121.0,
+        1203.1,
+        173.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        272.0,
+        264.5,
+        1478.7,
+        325.6
+      ],
+      "text": "right: White replied 5 Wxf3, and Black with good reason resigned (1-0).",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        317.3,
+        318.1,
+        1596.4,
+        376.7
+      ],
+      "text": "This example shows what vigilant care needs to be taken with combinations",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        274.4,
+        371.7,
+        910.3,
+        412.9
+      ],
+      "text": "aimed at a weakness on the back rank.",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        313.6,
+        419.2,
+        1595.1,
+        472.8
+      ],
+      "text": "In connection with this back-row weakness, something should also be said",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        269.5,
+        467.8,
+        1596.4,
+        526.4
+      ],
+      "text": "about the so-called ‘escape hole', i.e. the gap made by moving a pawn with the",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        269.5,
+        519.0,
+        1597.6,
+        575.1
+      ],
+      "text": "sole purpose of eliminating the danger of mate on the back rank or at least of",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        268.3,
+        565.1,
+        1593.9,
+        630.0
+      ],
+      "text": "freeing the rook guarding the rank. On the other hand, such a move, like any",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        265.9,
+        618.8,
+        1595.1,
+        678.6
+      ],
+      "text": "pawn move in front of the castled king, represents a weakening of the position,",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        268.3,
+        669.9,
+        1592.7,
+        727.3
+      ],
+      "text": "and it is a question here of correctly assessing whether the advantages involved",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        272.0,
+        722.3,
+        1590.2,
+        772.2
+      ],
+      "text": "outweigh the weaknesses or vice versa. This is one of the numerous double-",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        269.5,
+        770.9,
+        666.5,
+        814.6
+      ],
+      "text": "edged features of chess.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        597.9,
+        976.8,
+        623.6,
+        1010.5
+      ],
+      "text": "B",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        303.8,
+        1474.5,
+        1585.3,
+        1530.7
+      ],
+      "text": "As an example of the sensitivity of the connection between the weakness of",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        257.3,
+        1524.4,
+        1510.6,
+        1581.8
+      ],
+      "text": "the back rank and that of the ‘escape hole' the above position is instructive.",
+      "confidence": 0.9824
+    },
+    {
+      "bbox": [
+        298.9,
+        1574.3,
+        1580.4,
+        1633.0
+      ],
+      "text": "It is Black's move, and if it were not for his weakness on the back rank, the",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        253.6,
+        1624.2,
+        1580.4,
+        1685.3
+      ],
+      "text": "problem would be an extremely straightforward one: White's pawns on .the",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        252.4,
+        1672.9,
+        1580.4,
+        1740.2
+      ],
+      "text": "queenside would fall one by one. Thus it is a question of first averting the danger",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        254.8,
+        1725.3,
+        1579.2,
+        1786.4
+      ],
+      "text": "on the back rank and only then making the time to 'pick off' the pawns. Let us",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        252.4,
+        1772.7,
+        851.5,
+        1831.3
+      ],
+      "text": "create an ‘escape hole' for the king.",
+      "confidence": 0.9681
+    },
+    {
+      "bbox": [
+        297.7,
+        1826.3,
+        421.4,
+        1868.7
+      ],
+      "text": "1...h6?",
+      "confidence": 0.9635
+    },
+    {
+      "bbox": [
+        297.7,
+        1877.5,
+        1575.5,
+        1937.3
+      ],
+      "text": "A mistake? Yes, and a bad one, for Black is now faced with a new weakness on",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        251.2,
+        1926.1,
+        1576.8,
+        1991.0
+      ],
+      "text": "g6. The other *hole', 1...g6, is no good either, since White can get an easy draw",
+      "confidence": 0.973
+    },
+    {
+      "bbox": [
+        251.2,
+        1976.0,
+        1576.8,
+        2038.4
+      ],
+      "text": "by 2 g4 (with the threat of f6 and mate on h7) 2...f8 (or 2...f8 3 h6) 3 h6",
+      "confidence": 0.9684
+    },
+    {
+      "bbox": [
+        247.5,
+        2023.4,
+        1579.2,
+        2093.3
+      ],
+      "text": "f5 (the only move; for if 3...b5, 4 d5 is a strong reply, while 3...g8? is not",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        247.5,
+        2077.1,
+        1578.0,
+        2139.4
+      ],
+      "text": "g0od on account of 4 g7+ and 5 e5) 4 d8+' f8 (4...f8? 5 e3 and 6",
+      "confidence": 0.9581
+    },
+    {
+      "bbox": [
+        329.6,
+        2176.9,
+        1544.9,
+        2249.2
+      ],
+      "text": "White would even stand to win after 4 e3!, winning the c4-pawn for nothing.",
+      "confidence": 0.9912
+    }
+  ]
+}

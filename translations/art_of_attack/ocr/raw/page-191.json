@@ -1,0 +1,290 @@
+{
+  "pdf_page": 191,
+  "printed_page": 191,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        410.0,
+        136.0,
+        1359.0,
+        181.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Ofg5! fxg5",
+      "bbox": [
+        262.0,
+        278.0,
+        482.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Deflecting the pawn from f6.",
+      "bbox": [
+        260.0,
+        334.0,
+        740.0,
+        373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 Qf6!",
+      "bbox": [
+        260.0,
+        379.0,
+        371.0,
+        413.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Blocking the f7-pawn.",
+      "bbox": [
+        259.0,
+        434.0,
+        629.0,
+        473.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...Axf6 3 Ae4",
+      "bbox": [
+        259.0,
+        480.0,
+        517.0,
+        515.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and Black has no way of stopping mate on h7.",
+      "bbox": [
+        259.0,
+        535.0,
+        1023.0,
+        575.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "191",
+      "bbox": [
+        1476.0,
+        143.0,
+        1531.0,
+        175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White here overcame the resistance of Black's f-pawn on the diagonal bl-h7",
+      "bbox": [
+        258.0,
+        585.0,
+        1532.0,
+        630.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by making sacrifices which deflected one pawn and blocked the other.",
+      "bbox": [
+        214.0,
+        635.0,
+        1378.0,
+        677.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4,",
+      "bbox": [
+        665.0,
+        896.0,
+        691.0,
+        916.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position arose in the game Steinitz-L. Paulsen, Baden-Baden 1870. It is",
+      "bbox": [
+        252.0,
+        1339.0,
+        1526.0,
+        1381.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's move, and he is faced with the task of finding the most effective attack-",
+      "bbox": [
+        206.0,
+        1390.0,
+        1525.0,
+        1435.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing plan against Black's castled position. To this end he played:",
+      "bbox": [
+        207.0,
+        1441.0,
+        1259.0,
+        1487.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White gives up a pawn in order to weaken Black's castled position and open",
+      "bbox": [
+        250.0,
+        1542.0,
+        1525.0,
+        1591.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "up the a- and b-files. This kind of pawn sacrifice is instructive and typical. Its ad-",
+      "bbox": [
+        205.0,
+        1593.0,
+        1524.0,
+        1640.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vantage lies in the fact that Black has no way of blocking the pawn structure but",
+      "bbox": [
+        205.0,
+        1644.0,
+        1525.0,
+        1690.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is forced to capture in order to avoid getting into worse difficulties.",
+      "bbox": [
+        204.0,
+        1693.0,
+        1318.0,
+        1737.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...axb6 2 Äxf6!",
+      "bbox": [
+        251.0,
+        1741.0,
+        523.0,
+        1775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The castled position has been effectively weakened and the situation is ripe for",
+      "bbox": [
+        248.0,
+        1794.0,
+        1524.0,
+        1844.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the further thrust a5, that being the logical method of following up 1 b6!, but",
+      "bbox": [
+        203.0,
+        1845.0,
+        1524.0,
+        1893.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Steinitz sees that, before playing a5, he can strengthen his attack still further by",
+      "bbox": [
+        203.0,
+        1895.0,
+        1522.0,
+        1945.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sacrificing the exchange.",
+      "bbox": [
+        202.0,
+        1946.0,
+        612.0,
+        1987.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...Vxf6 3 Ag4+ 4 Qd5 Vg7 5 as",
+      "bbox": [
+        246.0,
+        1991.0,
+        913.0,
+        2039.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now the force of this move is even greater than before.",
+      "bbox": [
+        245.0,
+        2047.0,
+        1157.0,
+        2090.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...f5",
+      "bbox": [
+        245.0,
+        2097.0,
+        330.0,
+        2127.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 5...b5, then 6 a6 b6 (or 6...bxa6 7 Va5 Vxd4+ 8 Af2) 7 a7+ 8 Oxc7",
+      "bbox": [
+        245.0,
+        2147.0,
+        1518.0,
+        2192.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "#xc7 (or 8...f5 9 Qe6) 9 Vc3+ 10 Ad7 with a decisive attack.",
+      "bbox": [
+        199.0,
+        2193.0,
+        1327.0,
+        2237.0
+      ],
+      "confidence": null
+    }
+  ]
+}

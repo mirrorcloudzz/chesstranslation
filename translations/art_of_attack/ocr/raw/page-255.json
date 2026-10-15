@@ -1,0 +1,160 @@
+{
+  "pdf_page": 255,
+  "printed_page": 255,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        411.0,
+        134.0,
+        1309.0,
+        175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "diagram is a typical example of self-defence by classically simple means: faced",
+      "bbox": [
+        191.0,
+        282.0,
+        1512.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with White's pressure on h7, Black defends his pawn by advancing it and is not",
+      "bbox": [
+        192.0,
+        332.0,
+        1513.0,
+        372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "concerned about the square h7 itself; Black' s king reduces the value of the square",
+      "bbox": [
+        192.0,
+        383.0,
+        1512.0,
+        422.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by moving, for it no longer comes into consideration as a focal-point.",
+      "bbox": [
+        192.0,
+        433.0,
+        1346.0,
+        473.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from Bogoljubow-Réti, Carlsbad 1923. Black played:",
+      "bbox": [
+        237.0,
+        1138.0,
+        1394.0,
+        1177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...h6! 2 Axf6 Axf6 3 Vh7+",
+      "bbox": [
+        240.0,
+        1183.0,
+        727.0,
+        1218.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Black king defends itself by flight; if now 4 Vh8+ #e7, White's position",
+      "bbox": [
+        237.0,
+        1233.0,
+        1512.0,
+        1278.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "would only be made worse by his loss of a tempo. In the actual game White's ini-",
+      "bbox": [
+        193.0,
+        1289.0,
+        1511.0,
+        1328.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tiative dissolved after 4 Xcdl Äed8 5 6 Qce2 Zh8 7 Vc2 a5, and,",
+      "bbox": [
+        192.0,
+        1335.0,
+        1511.0,
+        1375.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "thanks to the good self-defence effected by his king, Black soon obtained rather",
+      "bbox": [
+        192.0,
+        1391.0,
+        1513.0,
+        1429.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the better game.",
+      "bbox": [
+        192.0,
+        1442.0,
+        456.0,
+        1480.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Another example of self-defence can be provided by my analysis of one of the",
+      "bbox": [
+        237.0,
+        1492.0,
+        1512.0,
+        1531.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "critical positions in the game Reshevsky-Botvinnik, World Championship Tour-",
+      "bbox": [
+        192.0,
+        1543.0,
+        1511.0,
+        1583.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "nament, The Hague/Moscow 1948.",
+      "bbox": [
+        193.0,
+        1594.0,
+        775.0,
+        1632.0
+      ],
+      "confidence": null
+    }
+  ]
+}

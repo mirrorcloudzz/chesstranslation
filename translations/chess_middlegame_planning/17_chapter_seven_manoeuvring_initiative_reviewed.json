@@ -1,0 +1,4016 @@
+[
+  {
+    "chapter": 7,
+    "page": 196,
+    "side": "full",
+    "kind": "title",
+    "text": "Manoeuvring. About the Initiative",
+    "zh": "调动与主动权",
+    "segment_id": "CH7-1",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-1"
+    ]
+  },
+  {
+    "page": 196,
+    "side": "left",
+    "kind": "body",
+    "text": "In chess works and commentaries we quite often come across the term 'manoeuvering\". Following the example of the late grandmaster Tartakover, it is sometimes substituted for the concept of \"tacking\", though in the semantic sense both terms are not the same.",
+    "chapter": 7,
+    "segment_id": "CH7-2",
+    "zh": "在国际象棋著作与评注中，我们经常遇到“调动”一词。按照已故特级大师塔塔科维尔的用法，有时人们会用它替代“迂回”这一概念，尽管从语义上说，两者并不相同。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-2"
+    ]
+  },
+  {
+    "page": 196,
+    "side": "left",
+    "kind": "body",
+    "text": "Manoeuvering is a term coming from the German word manöver, which means manoeuvre.",
+    "chapter": 7,
+    "segment_id": "CH7-3",
+    "zh": "“调动”一词源自德语manöver，意为“运子”。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-3"
+    ]
+  },
+  {
+    "page": 196,
+    "side": "left",
+    "kind": "body",
+    "text": "However, one should not mix up the concepts of 'manoeuvre' and 'manoeuvering'. A manoeuvre is several moves of one piece, usually made with some concrete aim. Manoeuvering is a series of manoeuvres with different pieces, bearing a more or less prolonged character and rarely having a clearly outlined aim.",
+    "chapter": 7,
+    "segment_id": "CH7-4",
+    "zh": "不过，不应混淆“运子”和“调动”两个概念。运子，是同一枚棋子连续走数步，通常带有某种具体目标；调动，则是不同棋子一系列运子的组合，持续时间较长，而且很少具有清晰明确的目标。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-4"
+    ]
+  },
+  {
+    "page": 196,
+    "side": "left",
+    "kind": "body",
+    "text": "Manoeuvering is a concept that arose in connection with a definite phenomenon on the horizons of chess art which appeared at the end of the last century and was provoked mainly by the advocating of dogmatism by a number of representatives of the English and German chess schools.",
+    "chapter": 7,
+    "segment_id": "CH7-5",
+    "zh": "“调动”这一概念，与上世纪末棋坛出现的一种现象有关。当时，英国和德国学派的一些代表人物提倡教条化的下法，促成了这种现象。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-5"
+    ]
+  },
+  {
+    "page": 196,
+    "side": "left",
+    "kind": "body",
+    "text": "In a number of events, with these masters came to be recommended a form of waiting tactics. One of the partners, following this recommendation, waited until his opponent finally created a real weakness in his camp or made some other sort of mistake. It would also happen that both partners, having learned to be patient, began to manoeuvre by themselves in the rear of communications, following a policy of extreme caution and trying not to give each other even if only the slightest chance of attack.",
+    "chapter": 7,
+    "page_end": 196,
+    "segment_id": "CH7-6",
+    "zh": "这些大师在不少情况下倡导等待战术：一方耐心等待，直到对手在阵地中留下真正的弱点，或犯下其他错误。有时双方都十分耐心，各自在后方调动子力，采取极端谨慎的方针，力求不给对手哪怕最微小的进攻机会。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-6"
+    ]
+  },
+  {
+    "page": 196,
+    "side": "right",
+    "kind": "body",
+    "text": "This, of course, did not mean that all manoeuvering merited censure.",
+    "chapter": 7,
+    "segment_id": "CH7-7",
+    "zh": "当然，这并不意味着所有调动都值得批评。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-7"
+    ]
+  },
+  {
+    "page": 196,
+    "side": "right",
+    "kind": "body",
+    "text": "In manoeuvering one can perceive several gradations. Besides waiting, aimless manoeuvring, there is also forcing, planning manoeuvring. This takes place in those cases where the achievement of the intended aim requires prolonged piece and pawn manoeuvres. This aspect of manoeuvering is seen particularly often in positions of a closed t type, that is with mutually locked pawn chains.",
+    "chapter": 7,
+    "segment_id": "CH7-8",
+    "zh": "调动也有不同类型。除消极等待、缺乏目的的调动外，还有局面所迫、按计划进行的调动：要实现既定目标，必须经过长时间的子力和兵的调动。这种情况尤其常见于双方兵链相互锁住的封闭局面。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-8"
+    ]
+  },
+  {
+    "page": 196,
+    "side": "right",
+    "kind": "body",
+    "text": "We also begin our review with positions of this sort - and playing them is difficult and requires a profound and penetrating assessment of positions from the chessplayer.",
+    "chapter": 7,
+    "segment_id": "CH7-9",
+    "zh": "我们先从这类局面谈起。处理它们并不容易，棋手必须对局面作出深入而透彻的判断。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-9"
+    ]
+  },
+  {
+    "page": 196,
+    "side": "right",
+    "kind": "body",
+    "text": "The next position arose in the game Lasker-Burn, played in the Petersburg tournament 1909:",
+    "chapter": 7,
+    "segment_id": "CH7-10",
+    "zh": "下图局面出自1909年彼得堡锦标赛的拉斯克对伯恩一局。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-10"
+    ]
+  },
+  {
+    "page": 197,
+    "side": "left",
+    "kind": "body",
+    "text": "Fearing his opponent's tactical chances, associated with the move d5, and intending, without hindrance, to unhurriedly prepare an attack on the king's flank, Lasker locked the position here with the move",
+    "chapter": 7,
+    "page_end": 197,
+    "segment_id": "CH7-11",
+    "zh": "拉斯克顾虑对手以... d5制造战术机会，同时又想从容准备王翼进攻，于是用下面这步封闭了局面：",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-11"
+    ]
+  },
+  {
+    "page": 197,
+    "side": "left",
+    "kind": "moves",
+    "text": "22. d5",
+    "chapter": 7,
+    "segment_id": "CH7-12",
+    "zh": "**22. d5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-12"
+    ]
+  },
+  {
+    "page": 197,
+    "side": "left",
+    "kind": "body",
+    "text": "A more interesting and sharper struggle might have ensued with the tension-centre, but also in a closed position a plan will quite possibly present itself, with the only difference that the achievement of a concrete ( objective is then postponed until a more distant moment in the game. From now on the play forcibly assumes the form of protracted manoeuvering.",
+    "chapter": 7,
+    "segment_id": "CH7-13",
+    "zh": "保持中心的紧张状态，可能带来更有趣、更尖锐的斗争。不过，封闭局面同样可以制定计划，只是具体目标要在更遥远的将来才能实现。从此，双方不得不展开漫长的调动。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-13"
+    ]
+  },
+  {
+    "page": 197,
+    "side": "left",
+    "kind": "moves",
+    "text": "22... Nd7 23. Kg2 Qd8 24. h4 Be7!",
+    "chapter": 7,
+    "segment_id": "CH7-14–15",
+    "zh": "**22... Nd7 23. Kg2 Qd8 24. h4 Be7!**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-14",
+      "CH7-15"
+    ],
+    "page_end": 197
+  },
+  {
+    "page": 197,
+    "side": "left",
+    "kind": "body",
+    "text": "A cunning retreat, directed against the move 25. h5. White does not detect the fine point of the bishop manoeuvre.",
+    "chapter": 7,
+    "segment_id": "CH7-16",
+    "zh": "巧妙的退象，针对白方的25. h5。白方没有看出这次运象的细微用意。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-16"
+    ]
+  },
+  {
+    "page": 197,
+    "side": "left",
+    "kind": "moves",
+    "text": "25. h5",
+    "chapter": 7,
+    "segment_id": "CH7-17",
+    "zh": "**25. h5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-17"
+    ]
+  },
+  {
+    "page": 197,
+    "side": "left",
+    "kind": "body",
+    "text": "Now Black turns out to be master of the g5 square and this serves as a main obstacle in the development of White's offensive. The opponent is set a more difficult task by 25. Rh1, threatening, after h5, the manoeuvre Nh4-f5. The reply 25... h5 is unsatisfac- tory in view of 26. Nh2 Nf6 27. Bg5. 25... Ngf8 26. Rh1 h6 27. Rdg1 Nh7 28. Kf1 Kh8 29. Rh2 Rg8 30. Ne1 Rb8 31. Nc2 a5 32. Bd2 Bf6 33. f3 Nb6 34. Rf2 Nc8 35. Kg2 Qd7 36. Kh1 Ne7 37. Rh2 Rb7 38. Rf1 Re8 39. Ne3 Ng8 40. f4 Bd8 41. Qf3",
+    "chapter": 7,
+    "page_end": 197,
+    "segment_id": "CH7-18–19",
+    "zh": "现在黑方控制了g5格，这成为白方展开攻势的主要障碍。25. Rh1能给黑方制造更大的困难，准备h5后Nh4-f5。黑方若应以25... h5则不好，因为26. Nh2 Nf6 27. Bg5。\n\n**25... Ngf8 26. Rh1 h6 27. Rdg1 Nh7 28. Kf1 Kh8 29. Rh2 Rg8 30. Ne1 Rb8 31. Nc2 a5 32. Bd2 Bf6 33. f3 Nb6 34. Rf2 Nc8 35. Kg2 Qd7 36. Kh1 Ne7 37. Rh2 Rb7 38. Rf1 Re8 39. Ne3 Ng8 40. f4 Bd8 41. Qf3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-18",
+      "CH7-19"
+    ]
+  },
+  {
+    "page": 197,
+    "side": "right",
+    "kind": "body",
+    "text": "The manoeuvering has already lasted 20 moves and both opponents have vigilantly held back their forces close to critical points of the board. White's offensive on the king's flank has been slowed down and only on the queen's flank does a possibility slightly appear, by playing Bc2 to then try and seize the white squares by c4.",
+    "chapter": 7,
+    "segment_id": "CH7-20",
+    "zh": "调动已经持续了20步，双方始终谨慎地把子力留在关键区域附近。白方王翼攻势受阻，只有后翼还隐约存在机会：先走Bc2，再以c4争夺白格。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-20"
+    ]
+  },
+  {
+    "page": 197,
+    "side": "right",
+    "kind": "moves",
+    "text": "41... c4?",
+    "chapter": 7,
+    "segment_id": "CH7-21",
+    "zh": "**41... c4?**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-21"
+    ]
+  },
+  {
+    "page": 197,
+    "side": "right",
+    "kind": "body",
+    "text": "Foreseeing the above-mentioned possibility, Black prevents the advance of the White c-pawn, but overlooks the active move of another pawn. Also 41... a4 is not good because of 42. c4 and, if 42... b4, then 43. axb4 cxb4 44. fxe5 Rxe5 45. Ng4 Re8 46. e5 with g0od chances for White. In all probability it was best to return with the bishop to f6.",
+    "chapter": 7,
+    "segment_id": "CH7-22–24",
+    "zh": "黑方预见了这一计划，阻止白方冲起c兵，却忽略了另一个兵的积极行动。41... a4也不好，因为42. c4，若42... b4，则43. axb4 cxb4 44. fxe5 Rxe5 45. Ng4 Re8 46. e5，白方有很好的机会。黑方大概还是退象f6最好。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-22",
+      "CH7-23",
+      "CH7-24"
+    ],
+    "page_end": 198
+  },
+  {
+    "page": 198,
+    "side": "left",
+    "kind": "moves",
+    "text": "42. a4",
+    "chapter": 7,
+    "segment_id": "CH7-25",
+    "zh": "**42. a4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-25"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "left",
+    "kind": "body",
+    "text": "Now the game livens up and soon loses its manoeuvering character. The Black pawns on the queen's flank prove to be weak and this in the end decides the outcome of the game.",
+    "chapter": 7,
+    "segment_id": "CH7-26",
+    "zh": "对局顿时活跃起来，很快结束了调动阶段。黑方后翼兵的弱点暴露出来，并最终决定了胜负。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-26"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "left",
+    "kind": "body",
+    "text": "In the following example the author of the numerous piece manoeuvres is likewise Lasker.",
+    "chapter": 7,
+    "segment_id": "CH7-27",
+    "zh": "下一个例子中，反复调动子力的仍然是拉斯克。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-27"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "left",
+    "kind": "body",
+    "text": "The diagram illustrates a position from the game Lasker-Salwe, which was played in the same Petersburg tournament 1909.",
+    "chapter": 7,
+    "segment_id": "CH7-28",
+    "zh": "图中局面出自同届1909年彼得堡锦标赛的拉斯克对萨尔韦一局。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-28"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "left",
+    "kind": "body",
+    "text": "The pawn chain here, as distinct from the previous example after the move d5, is not locked. There are also open lines and weak points present - in short, quite a lot of objects for planning. White has made territorial gains on the king's flank. Nevertheless in the course of the next 20 moves the opponents conduct the struggle on manoeuvering lines.",
+    "chapter": 7,
+    "page_end": 198,
+    "segment_id": "CH7-29",
+    "zh": "与上一例d5之后的局面不同，这里的兵链并未锁住。棋盘上既有开放线，也有弱点，可供制定计划的目标不少。白方在王翼取得了空间优势，但接下来20步，双方依然主要进行调动。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-29"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "right",
+    "kind": "moves",
+    "text": "17. Nd5 Re8 18. c4 Nf7 19. Qc3",
+    "chapter": 7,
+    "segment_id": "CH7-30",
+    "zh": "**17. Nd5 Re8 18. c4 Nf7 19. Qc3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-30"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "right",
+    "kind": "body",
+    "text": "White defends the b2 pawn, so as to obtain the possibility of manoeuvering with the knight.",
+    "chapter": 7,
+    "segment_id": "CH7-31",
+    "zh": "白方保护b2兵，以便腾出马来参加调动。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-31"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "right",
+    "kind": "moves",
+    "text": "19... Re5 20. Nd2 c6 21. Nf4 Qb6 22. b3 Rbe8 23. Qg3",
+    "chapter": 7,
+    "page_end": 198,
+    "segment_id": "CH7-32",
+    "zh": "**19... Re5 20. Nd2 c6 21. Nf4 Qb6 22. b3 Rbe8 23. Qg3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-32"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "right",
+    "kind": "body",
+    "text": "White now threatens Nh5, but Black \"notices\" the threat.",
+    "chapter": 7,
+    "segment_id": "CH7-33",
+    "zh": "白方威胁Nh5，不过黑方“注意到”了这个威胁。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-33"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "right",
+    "kind": "moves",
+    "text": "23... Kh8 24. Nh5 Rg8 25. Rf4 Qd8 Again White intends to attack the g7 and f6 pawns, by the move Rg4, but Black parries the threat without difficulty.",
+    "chapter": 7,
+    "segment_id": "CH7-34–35",
+    "zh": "**23... Kh8 24. Nh5 Rg8 25. Rf4 Qd8**\n\n白方又准备走Rg4攻击g7兵和f6兵，黑方却能轻松化解。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-34",
+      "CH7-35"
+    ],
+    "page_end": 198
+  },
+  {
+    "page": 198,
+    "side": "right",
+    "kind": "moves",
+    "text": "26. Nf3 Re7 27. Rh4 Qe8",
+    "chapter": 7,
+    "segment_id": "CH7-36",
+    "zh": "**26. Nf3 Re7 27. Rh4 Qe8**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-36"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "right",
+    "kind": "body",
+    "text": "White has a weak e4 pawn, and the need to defend this makes his manoeuvering efforts to pressurise the Black king's position not very effective. If now, for example, 28. Nf4 with the threat of mate in one move, then 28... Nh6 and Black is attacking the e4 pawn. Lasker's next move is surprising and above all deserves attention in respect of the assessment of it by the author himself.",
+    "chapter": 7,
+    "segment_id": "CH7-37",
+    "zh": "白方的e4兵是个弱点，必须分出力量保护它，这使他通过调动向黑王施压的效果大打折扣。例如现在28. Nf4虽有一步杀的威胁，黑方却可28... Nh6，反攻e4兵。拉斯克下一步颇出人意料，尤其值得注意的是他自己的解释。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-37"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "right",
+    "kind": "moves",
+    "text": "28. Qf2",
+    "chapter": 7,
+    "segment_id": "CH7-38",
+    "zh": "**28. Qf2**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-38"
+    ]
+  },
+  {
+    "page": 198,
+    "side": "right",
+    "kind": "body",
+    "text": "Lasker gave his reasons for the retreat of the queen: \"Black's position is cramped, but there are no combinations leading to a win to be seen. Therefore it is necessary to first try to disorganise Black's pieces by means of new attacks and then later return to the intended plan of attack.\"",
+    "chapter": 7,
+    "page_end": 199,
+    "segment_id": "CH7-39",
+    "zh": "拉斯克解释这次退后的理由：“黑方局面拥挤，但看不出能够取胜的战术组合。因此必须先制造新的威胁，打乱黑方子力的配置，再回到原定的进攻计划。”",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-39"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "left",
+    "kind": "body",
+    "text": "What are the \"new attacks\" that Lasker intends? Black has a weak d6 pawn, defended only by the knight; possibly he intends to direct his gaze precisely here, but the attack on d6 is fully counterbalanced by Black's attack on the e4 pawn.",
+    "chapter": 7,
+    "segment_id": "CH7-40",
+    "zh": "拉斯克准备制造什么“新的威胁”？黑方的d6兵较弱，只由马保护，他或许正瞄准这个目标。不过，白方对d6兵的攻击，可以被黑方对e4兵的反攻完全抵消。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-40"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "left",
+    "kind": "body",
+    "text": "A new stage of manoeuvering begins, on the part of Lasker, who sets his distant aim on distracting some ofBlack's pieces from defence of the king's flank. He leaves the rook and both knights \"on duty\" in expectation of forthcoming events in this sector of the board, but the queen and other rook begin to manoeuvre in the central area.",
+    "chapter": 7,
+    "segment_id": "CH7-41",
+    "zh": "拉斯克开始新一轮调动，长远目标是牵走部分防守王翼的黑子。他把一车、双马留在王翼待命，另一车与后则转而在中心活动。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-41"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "left",
+    "kind": "moves",
+    "text": "28... Rf8 29. Qd2 Qb8 30. Kh1",
+    "chapter": 7,
+    "segment_id": "CH7-42",
+    "zh": "**28... Rf8 29. Qd2 Qb8 30. Kh1**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-42"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "left",
+    "kind": "body",
+    "text": "The aim of this move remains unclear, but manoeuvering is like that and characteristically y not a product of concrete ideas.",
+    "chapter": 7,
+    "segment_id": "CH7-43",
+    "zh": "这步的目的并不明确。不过，调动有时就是如此，并非每一步都出于具体的构想。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-43"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "left",
+    "kind": "moves",
+    "text": "30... Rfe8 31. Rg4 Rg8",
+    "chapter": 7,
+    "segment_id": "CH7-44",
+    "zh": "**30... Rfe8 31. Rg4 Rg8**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-44"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "left",
+    "kind": "body",
+    "text": "Not 31... Nh6 in view of 32 N or Rxg7. Also not good is 31... Ne5 32. Nxe5 dxe5; Black is left without both the e5 point and the e-file.",
+    "chapter": 7,
+    "segment_id": "CH7-45",
+    "zh": "31... Nh6不行，因为白方可以32. Nxg7或32. Rxg7。31... Ne5 32. Nxe5 dxe5也不好，黑方将让出e5格和e线。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-45"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "left",
+    "kind": "moves",
+    "text": "32. Rd1 Qb4",
+    "chapter": 7,
+    "segment_id": "CH7-46",
+    "zh": "**32. Rd1 Qb4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-46"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "left",
+    "kind": "body",
+    "text": "Black shows signs of nervousness. He should not sever the connection between the queen and the other forces and remove it from defence of the d6 pawn. By playing 32... Qe8, Black could maintain the \"status quo\". If33. Qf4, then 33 Ne5 34. Rh4 Nf7 and it is difficult for White to increase his attack.",
+    "chapter": 7,
+    "page_end": 199,
+    "segment_id": "CH7-47–49",
+    "zh": "黑方开始显得不安。他不应把后调离d6兵，切断后与其他子力的联系。32... Qe8可以维持现状；若33. Qf4，则33... Ne5 34. Rh4 Nf7，白方很难进一步加强攻势。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-47",
+      "CH7-48",
+      "CH7-49"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "right",
+    "kind": "moves",
+    "text": "33. Qf2",
+    "chapter": 7,
+    "segment_id": "CH7-50",
+    "zh": "**33. Qf2**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-50"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "right",
+    "kind": "body",
+    "text": "Black's position proves to be surprisingly difficult. Bad is 33... Nh6 34. Rh4 with the threats of Nxf6 and Rxd6.",
+    "chapter": 7,
+    "segment_id": "CH7-51–52",
+    "zh": "黑方突然陷入了意料之外的困境。33... Nh6不好，因为34. Rh4，威胁Nxf6和Rxd6。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-51",
+      "CH7-52"
+    ],
+    "page_end": 199
+  },
+  {
+    "page": 199,
+    "side": "right",
+    "kind": "body",
+    "text": "Meanwhile White threatens 34. Qh4 Nh6 35. Nxf6!. The return of the queen, 33... Qb8, does not prevent this.",
+    "chapter": 7,
+    "segment_id": "CH7-53",
+    "zh": "与此同时，白方威胁34. Qh4 Nh6 35. Nxf6!。黑后即使走33... Qb8返回，也无法阻止。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-53"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "right",
+    "kind": "moves",
+    "text": "33... Qc3",
+    "chapter": 7,
+    "segment_id": "CH7-54",
+    "zh": "**33... Qc3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-54"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "right",
+    "kind": "body",
+    "text": "With the aim of defending the f6 point. However, now White's idea begins to justify itself.",
+    "chapter": 7,
+    "segment_id": "CH7-55",
+    "zh": "准备保护f6。不过，白方的构想现在开始奏效。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-55"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "right",
+    "kind": "body",
+    "text": "Black's queen has managed to isolate itself from the rest of Black's army, but it is unworthy for such a powerful 1 piece to take on the function of defending g thef6 point.",
+    "chapter": 7,
+    "segment_id": "CH7-56",
+    "zh": "黑后已经脱离其他子力，孤立在外；如此强大的棋子若只承担保护f6的任务，实在大材小用。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-56"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "right",
+    "kind": "moves",
+    "text": "34. Qh4",
+    "chapter": 7,
+    "segment_id": "CH7-57",
+    "zh": "**34. Qh4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-57"
+    ]
+  },
+  {
+    "page": 199,
+    "side": "right",
+    "kind": "body",
+    "text": "With the threat of 35. Nf4 Nh6 36. Rxd6. 34... Nh6 35. Rf4 Nf7 36. Kh2 Rge8 37. Qg3 Rg8 38. Rh4",
+    "chapter": 7,
+    "segment_id": "CH7-58–59",
+    "zh": "威胁35. Nf4 Nh6 36. Rxd6。\n\n**34... Nh6 35. Rf4 Nf7 36. Kh2 Rge8 37. Qg3 Rg8 38. Rh4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-58",
+      "CH7-59"
+    ],
+    "page_end": 199
+  },
+  {
+    "page": 199,
+    "side": "right",
+    "kind": "body",
+    "text": "The most interesting moment repeating the position already reached in the game after the 27th move, with the only difference that the White rook has shifted from el to d1, the king - from h1 to h2, and the Black queen is placed . on c3 and not e8. This position is immeasurably better for White. The threat Nf4 proves to be very dangerous and apparently irresistible. For example, 38 Ne5 39. Nf4 Nxf3+ 40. Qxf3 Qxf3 41. Ng6 mate or 39... Bc8 40 Rxh7+ and mate in two moves.",
+    "chapter": 7,
+    "segment_id": "CH7-60–65",
+    "zh": "这是最有意思的时刻：局面又呈现出第27回合之后的格局，区别在于白车由e1转到d1，白王到了h2，黑后则在c3而非e8。这个局面对白方有利得多。Nf4的威胁十分危险，看来已难以抵挡。例如38... Ne5 39. Nf4 Nxf3+ 40. Qxf3 Qxf3 41. Ng6#；或39... Bc8 40. Rxh7+，随后两步杀。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-60",
+      "CH7-61",
+      "CH7-62",
+      "CH7-63",
+      "CH7-64",
+      "CH7-65"
+    ],
+    "page_end": 200
+  },
+  {
+    "page": 200,
+    "side": "left",
+    "kind": "moves",
+    "text": "38... g5",
+    "chapter": 7,
+    "segment_id": "CH7-66",
+    "zh": "**38... g5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-66"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "left",
+    "kind": "body",
+    "text": "The position is opened, the manoeuvering comes to an end.",
+    "chapter": 7,
+    "segment_id": "CH7-67",
+    "zh": "局面打开，调动阶段结束了。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-67"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "left",
+    "kind": "moves",
+    "text": "39. fxg6 Rxg6 40. Qf2 f5 41. Nf4 Rf6 42. Ne2 Qb2 43. Rd2 Qa1 44. Ng3 Kg8 45. exf5 Bxf5 46. Nd4! cxd4 47. Nxf5 Kf8 48. Qxd4",
+    "chapter": 7,
+    "page_end": 200,
+    "segment_id": "CH7-68",
+    "zh": "**39. fxg6 Rxg6 40. Qf2 f5 41. Nf4 Rf6 42. Ne2 Qb2 43. Rd2 Qa1 44. Ng3 Kg8 45. exf5 Bxf5 46. Nd4! cxd4 47. Nxf5 Kf8 48. Qxd4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-68"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "left",
+    "kind": "body",
+    "text": "White wins a pawn, with a good position, and with it the game.",
+    "chapter": 7,
+    "segment_id": "CH7-69",
+    "zh": "白方得兵，且局面良好，最终赢下此局。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-69"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "left",
+    "kind": "body",
+    "text": "In general, Lasker liked manoeuvering and seemed to think that he had no equal in this area. However, in the following game, he was put down with his own weapons.",
+    "chapter": 7,
+    "segment_id": "CH7-70",
+    "zh": "拉斯克一向喜欢调动，似乎认为自己在这方面无人能敌。然而在下一局中，对手却以其人之道还治其人之身。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-70"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "left",
+    "kind": "heading",
+    "text": "Queen's Gambit",
+    "chapter": 7,
+    "segment_id": "CH7-71",
+    "zh": "后翼弃兵",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-71"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "left",
+    "kind": "metadata",
+    "text": "White: Em.Lasker",
+    "chapter": 7,
+    "segment_id": "CH7-72",
+    "zh": "白方：Em.拉斯克",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-72"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "left",
+    "kind": "metadata",
+    "text": "Black: M.Chigorin",
+    "chapter": 7,
+    "segment_id": "CH7-73",
+    "zh": "黑方：M.齐果林",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-73"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "left",
+    "kind": "metadata",
+    "text": "(Hastings 1895)",
+    "chapter": 7,
+    "segment_id": "CH7-74",
+    "zh": "（黑斯廷斯1895）",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-74"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. d4 d5 2. Nf3 Bg4 3. c4 Bxf3 4. gxf3 Nc6 5. Nc3 e6 6. e3 Bb4 7. cxd5 Qxd5",
+    "chapter": 7,
+    "page_end": 200,
+    "segment_id": "CH7-75",
+    "zh": "**1. d4 d5 2. Nf3 Bg4 3. c4 Bxf3 4. gxf3 Nc6 5. Nc3 e6 6. e3 Bb4 7. cxd5 Qxd5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-75"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "right",
+    "kind": "body",
+    "text": "The game has developed in a rather sharp and tense way and it is difficult to imagine that five moves later it already enters the area of protracted manoeuvering.",
+    "chapter": 7,
+    "segment_id": "CH7-76",
+    "zh": "对局进行得相当尖锐、紧张，很难想象，仅仅五步之后就会进入漫长的调动阶段。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-76"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "right",
+    "kind": "moves",
+    "text": "8. Bd2 Bxc3 9. bxc3 Nge7 10. Rg1 Qh5 11. Qb3 Nd8 12. Qb5+",
+    "chapter": 7,
+    "page_end": 200,
+    "segment_id": "CH7-77",
+    "zh": "**8. Bd2 Bxc3 9. bxc3 Nge7 10. Rg1 Qh5 11. Qb3 Nd8 12. Qb5+**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-77"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "right",
+    "kind": "body",
+    "text": "White forces the exchange of queens, so as to make it easier for himself to exploit the \"power of the two bishops\".",
+    "chapter": 7,
+    "segment_id": "CH7-78",
+    "zh": "白方强制兑后，希望更容易发挥“双象的力量”。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-78"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "right",
+    "kind": "body",
+    "text": "There are chessplayers (and at the time when the present game was played there were many of them amongst t the strongest masters of the world) who see the possession of the two bishops as a particular aspect of a positional advantage. We set out our point of view on this question in the following chapter.",
+    "chapter": 7,
+    "segment_id": "CH7-79",
+    "zh": "有些棋手把拥有双象本身视为一种局面优势。这盘棋进行的年代，许多世界顶尖大师都持这种看法。下一章将阐述我们对此的观点。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-79"
+    ]
+  },
+  {
+    "page": 200,
+    "side": "right",
+    "kind": "moves",
+    "text": "12... ( Qxb5 13. Bxb5+ c6 14 Bd3 From this moment, the struggle prolonged period of enters a manoeuvering, which will be continued almost to the very end of the encounter. The next pawn exchange follows only after 20 moves, while the next piece - after a full 40 moves, being at the same time a manoeuvre which wins the game.",
+    "chapter": 7,
+    "segment_id": "CH7-80–81",
+    "zh": "**12... Qxb5 13. Bxb5+ c6 14. Bd3**\n\n从此，斗争进入漫长的调动阶段，几乎持续到全局结束。下一次兑兵要等20步，下一次兑子则要等足足40步，而后一次兑换也正是决定胜负的手段。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-80",
+      "CH7-81"
+    ],
+    "page_end": 200
+  },
+  {
+    "page": 201,
+    "side": "left",
+    "kind": "moves",
+    "text": "14... Ng6 15. f4 O-O 16. Ke2 Rc8 17. Rg3",
+    "chapter": 7,
+    "page_end": 201,
+    "segment_id": "CH7-82",
+    "zh": "**14... Ng6 15. f4 O-O 16. Ke2 Rc8 17. Rg3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-82"
+    ]
+  },
+  {
+    "page": 201,
+    "side": "left",
+    "kind": "body",
+    "text": "White plans to double rooks on the g-file and then attack with h4. This looks quite threatening but is parried by comparatively simple means.",
+    "chapter": 7,
+    "segment_id": "CH7-83",
+    "zh": "白方准备在g线叠车，然后以h4发起进攻。这个计划看似危险，黑方却能用相对简单的办法化解。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-83"
+    ]
+  },
+  {
+    "page": 201,
+    "side": "left",
+    "kind": "body",
+    "text": "Regarding the manoeuvering of the partners in the present game, it bears a far more purposeful, planning character than in the previous examples.",
+    "chapter": 7,
+    "segment_id": "CH7-84",
+    "zh": "这一局中，双方的调动比前面的例子更有目的，也更有计划性。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-84"
+    ]
+  },
+  {
+    "page": 201,
+    "side": "left",
+    "kind": "moves",
+    "text": "17... c5 18. Rag1",
+    "chapter": 7,
+    "segment_id": "CH7-85",
+    "zh": "**17... c5 18. Rag1**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-85"
+    ]
+  },
+  {
+    "page": 201,
+    "side": "left",
+    "kind": "body",
+    "text": "Consistent (White now threatens to decide the game after 19. h4 or even stronger 19. f5 exf5 20. Bxf5 Rc7 21. h4) but ... ignoring the opponent's idea.",
+    "chapter": 7,
+    "segment_id": "CH7-86",
+    "zh": "贯彻了原来的计划：白方威胁19. h4，或更强的19. f5 exf5 20. Bxf5 Rc7 21. h4，决定胜负。但白方忽略了对手的构想。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-86"
+    ]
+  },
+  {
+    "page": 201,
+    "side": "left",
+    "kind": "body",
+    "text": "Better is at once 18. f5 exf5 19 Bxf5 Rc7 20. Rag1 cxd4 21. cxd4 Kh8. Though the threat of h4 is parried, the White pieces will be quite active in the roomy, opened position.",
+    "chapter": 7,
+    "segment_id": "CH7-87–89",
+    "zh": "最好立即走18. f5 exf5 19. Bxf5 Rc7 20. Rag1 cxd4 21. cxd4 Kh8。虽然h4的威胁被化解，白方子力却能在开阔的局面中获得充分活动。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-87",
+      "CH7-88",
+      "CH7-89"
+    ],
+    "page_end": 201
+  },
+  {
+    "page": 201,
+    "side": "left",
+    "kind": "moves",
+    "text": "18... c4 19. Bc2 f5 20. Bc1 Rf7 21. Ba3 Rc6 22. Bc5 Ra6 23. a4 Nc6 24. Rb1 Rd7 25. Rgg1 Nge7 26. Rb2 Nd5 27. Kd2 Ra5 28. Rgb1 b6 29. Ba3 g6 30. Rb5 Ra6 31. Bc1 Nd8",
+    "chapter": 7,
+    "page_end": 201,
+    "segment_id": "CH7-90",
+    "zh": "**18... c4 19. Bc2 f5 20. Bc1 Rf7 21. Ba3 Rc6 22. Bc5 Ra6 23. a4 Nc6 24. Rb1 Rd7 25. Rgg1 Nge7 26. Rb2 Nd5 27. Kd2 Ra5 28. Rgb1 b6 29. Ba3 g6 30. Rb5 Ra6 31. Bc1 Nd8**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-90"
+    ]
+  },
+  {
+    "page": 201,
+    "side": "left",
+    "kind": "body",
+    "text": "Though Black is forced into manoeuvering, this is far from being wait-and-see. He wants to provoke the move f3 through the threat of penetration with the knight on e4, and then to organise an attack on the enemy pawns in the centre.",
+    "chapter": 7,
+    "segment_id": "CH7-91",
+    "zh": "黑方虽然不得不调动，却绝非消极等待。他准备以马进驻e4的威胁诱使白方走f3，再组织对中心兵的攻击。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-91"
+    ]
+  },
+  {
+    "page": 201,
+    "side": "right",
+    "kind": "moves",
+    "text": "32. Ra1 Nf7 33. Rbb1 Nd6",
+    "chapter": 7,
+    "segment_id": "CH7-92",
+    "zh": "**32. Ra1 Nf7 33. Rbb1 Nd6**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-92"
+    ]
+  },
+  {
+    "page": 201,
+    "side": "right",
+    "kind": "body",
+    "text": "In his manoeuvering plan, Black undoubtedly yis thinking about opening the g-file, for which he has at his disposal the move ... g5. He reserves this option until later, taking into account the isolated position of his rook on a6, which, after the opening of the position, will not easily find harmonious co-operation with the other pieces.",
+    "chapter": 7,
+    "segment_id": "CH7-93",
+    "zh": "黑方的调动计划无疑包含以... g5打开g线。不过，他暂时保留这项选择，因为a6车位置孤立，若立即打开局面，很难与其他子力协调配合。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-93"
+    ]
+  },
+  {
+    "page": 201,
+    "side": "right",
+    "kind": "body",
+    "text": "Nevertheless, Steinitz considered that the immediate 33... g5 34. fxg5 Nxg5 35. Ra3 Ne4+ 36 Bxe4 fxe4 followed by 37... Rg7 should lead to a winning attack. Later Levenfish was to point out that, instead of 35. Ra3, 35. Bb2 is bolder for White, but also in this case, after 35... Ne4+ 36. Bxe4 fxe4, Black's dominating knight obliges one to evaluate the position in his favour. Admittedly, his advantage would hardly be sufficient for victory. White could continue 37. Rg1+ Rg7 38. Rxg7+ Kxg7 39. Ke2, preparing f3. He will find quite good resources to stubbornly fight for a draw.",
+    "chapter": 7,
+    "segment_id": "CH7-94–96",
+    "zh": "不过，斯坦尼茨认为可以立即33... g5，34. fxg5 Nxg5 35. Ra3 Ne4+ 36. Bxe4 fxe4后接37... Rg7，黑方应能发动制胜的进攻。列文菲什后来指出，白方以35. Bb2代替35. Ra3更积极。不过，35... Ne4+ 36. Bxe4 fxe4后，黑方仍凭借强有力的马占优，只是优势恐怕不足以取胜。白方可以37. Rg1+ Rg7 38. Rxg7+ Kxg7 39. Ke2，准备f3，仍有相当好的防守资源，可以顽强争和。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-94",
+      "CH7-95",
+      "CH7-96"
+    ],
+    "page_end": 201
+  },
+  {
+    "page": 201,
+    "side": "right",
+    "kind": "moves",
+    "text": "34. f3 Nf7 35. Ra3",
+    "chapter": 7,
+    "segment_id": "CH7-97",
+    "zh": "**34. f3 Nf7 35. Ra3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-97"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "left",
+    "kind": "body",
+    "text": "Preparing against the move ... g5, White frees his king from defence of the c3 pawn.",
+    "chapter": 7,
+    "segment_id": "CH7-98",
+    "zh": "白方为应对... g5作准备，让王不再承担保护c3兵的任务。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-98"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "left",
+    "kind": "moves",
+    "text": "35... g5",
+    "chapter": 7,
+    "segment_id": "CH7-99",
+    "zh": "**35... g5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-99"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "left",
+    "kind": "body",
+    "text": "It is interesting that even after this move, which opens the position, manoeuvering prevails over the game for more than 20 moves.",
+    "chapter": 7,
+    "segment_id": "CH7-100",
+    "zh": "值得注意的是，即使这步打开了局面，双方仍继续调动了20多步。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-100"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "left",
+    "kind": "body",
+    "text": "Some commentators of this wonderfully creative game have expressed the opinion that Black should have preferred a waiting prophylactic line, striving to prevent the advance e4 and thereby limiting his immediate problems. Not to mention the fact that Chigorin was sickened by passive tactics, it is very doubtful whether Black could prevent the advance of the e-pawn. For example, 35 Nd6 36. Ke2 Rf7 37. Bd2 Kf8 38. Kf2 Ke7 39. Kg3 Nf6 40. Raa1, upon which White transfers one rook to f1, the other - to el and for all that carries out the break e4, but by now with three times the power.",
+    "chapter": 7,
+    "segment_id": "CH7-101–103",
+    "zh": "一些评注者认为，黑方应该采取等待与预防的方针，集中精力阻止e4。且不说齐果林厌恶消极战术，黑方能否阻止白方冲起e兵，本身就很可疑。例如35... Nd6 36. Ke2 Rf7 37. Bd2 Kf8 38. Kf2 Ke7 39. Kg3 Nf6 40. Raa1，随后白方可把一车调到f1，另一车调到e1，仍然实施e4冲兵突破，而且威力将大得多。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-101",
+      "CH7-102",
+      "CH7-103"
+    ],
+    "page_end": 202
+  },
+  {
+    "page": 202,
+    "side": "left",
+    "kind": "moves",
+    "text": "36. Ke2 gxf4 37. e4 Nf6 38. Bxf4 Nh5 39. Be3 f4 40. Bf2 Ra5 41. Rg1+ Kf8 42. Raa1 e5 43. Rab1 Ng7 44. Rb4 Rc7 45. Bb1 Ne6 46. Rd1 Ned8!",
+    "chapter": 7,
+    "page_end": 202,
+    "segment_id": "CH7-104",
+    "zh": "**36. Ke2 gxf4 37. e4 Nf6 38. Bxf4 Nh5 39. Be3 f4 40. Bf2 Ra5 41. Rg1+ Kf8 42. Raa1 e5 43. Rab1 Ng7 44. Rb4 Rc7 45. Bb1 Ne6 46. Rd1 Ned8!**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-104"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "left",
+    "kind": "body",
+    "text": "Black threatens to win a pawn by ... Nc6. 47... Ba2 does not help, in view of 47... Nc6, and, if 48. Rxc4, then 48... Nd6. 47. Rd2",
+    "chapter": 7,
+    "segment_id": "CH7-105–108",
+    "zh": "黑方以... Nc6威胁得兵。47. Ba2也无济于事，因为47... Nc6；若48. Rxc4，则48... Nd6。\n\n**47. Rd2**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-105",
+      "CH7-106",
+      "CH7-107",
+      "CH7-108"
+    ],
+    "page_end": 202
+  },
+  {
+    "page": 202,
+    "side": "left",
+    "kind": "body",
+    "text": "White decides to give up a pawn, counting on opening the position and gaining space for his bishops to operate. Incidentally, in the first period of his creative work, Lasker was a great admirer of \"the two bishops\".",
+    "chapter": 7,
+    "page_end": 202,
+    "segment_id": "CH7-109",
+    "zh": "白方决定弃兵，争取打开局面，为双象获得活动空间。拉斯克在其棋艺生涯早期，确实十分推崇双象。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-109"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "right",
+    "kind": "moves",
+    "text": "47... Nc6 48. Rb5 Rxa4 49. dxe5 Nfxe5 50. Bh4 Rg7 51. Kf2 Rg6 52. Rdd5 Ra1 53. Bd8 Nd3+ 54. Bxd3 cxd3 55. Rxd3 Rag1 56. Rf5+ Kg8",
+    "chapter": 7,
+    "page_end": 202,
+    "segment_id": "CH7-110",
+    "zh": "**47... Nc6 48. Rb5 Rxa4 49. dxe5 Nfxe5 50. Bh4 Rg7 51. Kf2 Rg6 52. Rdd5 Ra1 53. Bd8 Nd3+ 54. Bxd3 cxd3 55. Rxd3 Rag1 56. Rf5+ Kg8**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-110"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "right",
+    "kind": "body",
+    "text": "The planned manoeuvering has been completed with an economical mating position. On 57. Rxf4 follows 57... R6g2+ 58. Ke3 Re1 mate. Therefore he has to part with the bishop and after 57. Bg5 R6xg5 Lasker resigned.",
+    "chapter": 7,
+    "segment_id": "CH7-111",
+    "zh": "有计划的调动最终形成了一个用子精炼的将杀局面。若57. Rxf4，则57... R6g2+ 58. Ke3 Re1#。白方只得丢象。\n\n**57. Bg5 R6xg5**\n\n拉斯克认输。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-111"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "right",
+    "kind": "body",
+    "text": "The following game is also a brilliant illustration of 40 moves of purposeful planning.",
+    "chapter": 7,
+    "segment_id": "CH7-112",
+    "zh": "下面一局同样是按明确计划连续调动40步的精彩范例。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-112"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "right",
+    "kind": "heading",
+    "text": "English Opening",
+    "chapter": 7,
+    "segment_id": "CH7-113",
+    "zh": "英国式开局",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-113"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "right",
+    "kind": "metadata",
+    "text": "White: A.Alekhine",
+    "chapter": 7,
+    "segment_id": "CH7-114",
+    "zh": "白方：A.阿廖欣",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-114"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "right",
+    "kind": "metadata",
+    "text": "Black:F.Yates",
+    "chapter": 7,
+    "segment_id": "CH7-115",
+    "zh": "黑方：F.耶茨",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-115"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "right",
+    "kind": "metadata",
+    "text": "(Semmering 1926)",
+    "chapter": 7,
+    "segment_id": "CH7-116",
+    "zh": "（塞默灵1926）",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-116"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "right",
+    "kind": "moves",
+    "text": "1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 O-O.",
+    "chapter": 7,
+    "page_end": 202,
+    "segment_id": "CH7-117",
+    "zh": "**1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 O-O**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-117"
+    ]
+  },
+  {
+    "page": 202,
+    "side": "right",
+    "kind": "body",
+    "text": "Black chooses an unfortunate moment to castle, as a result of which the pinned knight becomes the \"Achilles Heel\" of his position. Alekhine called castling a colourless continuation. He should play 6 h6 7. Bh4 Bxc3+8. bxc3 7. Rc1 Re8 8. e3 d6 9. Be2 Ne5",
+    "chapter": 7,
+    "page_end": 203,
+    "segment_id": "CH7-118–119",
+    "zh": "黑方易位的时机不佳，结果被牵制的马成了阵地中的致命弱点。阿廖欣认为，这次易位是平淡无力的后续手段。黑方应走6... h6 7. Bh4 Bxc3+ 8. bxc3 d6。\n\n**7. Rc1 Re8 8. e3 d6 9. Be2 Ne5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-118",
+      "CH7-119"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "left",
+    "kind": "body",
+    "text": "Also here 9... h6 might still be useful.",
+    "chapter": 7,
+    "segment_id": "CH7-120",
+    "zh": "这里9... h6仍然有用。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-120"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "left",
+    "kind": "moves",
+    "text": "10. O-O Bxc3 11. Rxc3 Ng6?",
+    "chapter": 7,
+    "segment_id": "CH7-121",
+    "zh": "**10. O-O Bxc3 11. Rxc3 Ng6?**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-121"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "left",
+    "kind": "body",
+    "text": "A slight mistake, which for Alekhine, however, proves to be sufficient to win the game.",
+    "chapter": 7,
+    "segment_id": "CH7-122",
+    "zh": "一个小错误，但对阿廖欣来说已经足以成为赢棋的契机。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-122"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "left",
+    "kind": "body",
+    "text": "11... h6 was also necessary now.",
+    "chapter": 7,
+    "segment_id": "CH7-123",
+    "zh": "此时仍有必要走11... h6。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-123"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "left",
+    "kind": "moves",
+    "text": "12. Nb5! Bd7",
+    "chapter": 7,
+    "segment_id": "CH7-124",
+    "zh": "**12. Nb5! Bd7**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-124"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "left",
+    "kind": "body",
+    "text": "He cannot avoid doubled pawns on the f-file.",
+    "chapter": 7,
+    "segment_id": "CH7-125",
+    "zh": "黑方已无法避免在f线上形成叠兵。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-125"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "left",
+    "kind": "moves",
+    "text": "13. Bxf6 gxf6 14. Bd3 Kh8 15. Nd4 Rg8 16. Qh5 Qf8 17. f4 Re8 18. Rf3 Rg7 19. Nf5 Bxf5 20. Bxf5 Qe7",
+    "chapter": 7,
+    "page_end": 203,
+    "segment_id": "CH7-126",
+    "zh": "**13. Bxf6 gxf6 14. Bd3 Kh8 15. Nd4 Rg8 16. Qh5 Qf8 17. f4 Re8 18. Rf3 Rg7 19. Nf5 Bxf5 20. Bxf5 Qe7**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-126"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "left",
+    "kind": "body",
+    "text": "The Black king's position is seriously weakened, the f6, f7 and h7 pawns could become objects of attack. However, for this it is necessary to radically change the conditions of the struggle on the king's flank. The fact of the matter is that Black's weaknesses are for the present reliably defended, it is not easy to take control of the g and e-files; the position of the White king is also far from being perfect, and, if White, in the course of his attack, has to push the pawns on the king's flank, then all the pre-requisites are there for a counter-attack by the opponent.",
+    "chapter": 7,
+    "segment_id": "CH7-127–128",
+    "zh": "黑王的防护严重削弱，f6、f7和h7兵都可能成为攻击目标。不过，要利用这些弱点，必须先彻底改变王翼的斗争条件。目前黑方各个弱点都有可靠保护，白方也不容易控制g线和e线；而且，白王的位置同样不够理想。如果白方进攻时必须冲起王翼兵，黑方便有了组织反击的条件。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-127",
+      "CH7-128"
+    ],
+    "page_end": 203
+  },
+  {
+    "page": 203,
+    "side": "right",
+    "kind": "body",
+    "text": "In short, the advantage is on White's side, but to convert it into something real proves to be a complicated and difficult task. In fact, from the further course of the game it is seen that the plan contemplated by Alekhine represents a 40 move process of manoeuvering, in the course of which only one pawn exchange will be made. It is interesting that, in the final manoeuvering, White announces mate in six moves, with the same pieces present as when the process began.",
+    "chapter": 7,
+    "segment_id": "CH7-129",
+    "zh": "白方确实占优，但把优势转化为实质成果，却是复杂而艰巨的任务。接下来的实战表明，阿廖欣的计划需要40步调动，其间只有一次兑兵。有趣的是，调动结束时，白方宣布六步杀，而双方的棋子仍与调动开始时一样多。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-129"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "right",
+    "kind": "body",
+    "text": "White's plan consists of: (1) the transfer of the king to a safe place on the queen's flank; (2) the storming advance of the g-pawn; and (3) piece manoeuvres with the aim of a harmonious concentration of all his forces and a directing of their co-ordinated blows on the f6 and h7 points.",
+    "chapter": 7,
+    "segment_id": "CH7-130",
+    "zh": "白方的计划分为三部分：先把王转移到后翼的安全位置；然后冲起g兵发起冲击；再通过运子集中全部力量，协调攻击f6和h7。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-130"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "right",
+    "kind": "body",
+    "text": "It is perfectly clear that, with full equality of forces for the attacking and defending sides and a pawn chain position which is not locked, the fulfilment of such a manoeuvering plan looks like being an unusually complex matter.",
+    "chapter": 7,
+    "segment_id": "CH7-131",
+    "zh": "双方子力完全相等，兵链又未锁住，要完成这样的调动计划，显然异常复杂。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-131"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "right",
+    "kind": "moves",
+    "text": "21. Bc2 Reg8 22. g3 Qd7",
+    "chapter": 7,
+    "segment_id": "CH7-132",
+    "zh": "**21. Bc2 Reg8 22. g3 Qd7**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-132"
+    ]
+  },
+  {
+    "page": 203,
+    "side": "right",
+    "kind": "body",
+    "text": "Black manoeuvres without any particular aim. This is easy to understand: there are no weak spots in the enemy position which might allow him to undertake an enterprising operation; at the same time, White's plan is still not clear, indeed he also still cannot create any dangerous threats. One can surmise that, at the present moment, Yates considered his position to be more than reliable.",
+    "chapter": 7,
+    "page_end": 204,
+    "segment_id": "CH7-133",
+    "zh": "黑方没有明确的调动目标。这并不难理解：白方阵地没有可供利用的弱点，计划也尚未明朗，目前还制造不出危险的威胁。可以推测，耶茨此时认为自己的局面十分稳固。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-133"
+    ]
+  },
+  {
+    "page": 204,
+    "side": "left",
+    "kind": "moves",
+    "text": "23. Rf2 Qe7 24. Kf1",
+    "chapter": 7,
+    "segment_id": "CH7-134",
+    "zh": "**23. Rf2 Qe7 24. Kf1**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-134"
+    ]
+  },
+  {
+    "page": 204,
+    "side": "left",
+    "kind": "body",
+    "text": "The king begins a distant journey, which is completed only after 15 moves.",
+    "chapter": 7,
+    "segment_id": "CH7-135",
+    "zh": "王开始长途跋涉，15步之后才到达目的地。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-135"
+    ]
+  },
+  {
+    "page": 204,
+    "side": "left",
+    "kind": "moves",
+    "text": "24... Rd8 25. Rd2 b6 26. Qd5 Rgg8 27. Qf5 a5 28. Ke1 Qe6 29. Qh5 Qe7",
+    "chapter": 7,
+    "page_end": 204,
+    "segment_id": "CH7-136",
+    "zh": "**24... Rd8 25. Rd2 b6 26. Qd5 Rgg8 27. Qf5 a5 28. Ke1 Qe6 29. Qh5 Qe7**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-136"
+    ]
+  },
+  {
+    "page": 204,
+    "side": "left",
+    "kind": "body",
+    "text": "Black considers that his position is solid and waits while White also convinces himself of this. Therefore his piece manoeuvres do not have any concrete formation, except one thing - they do not worsen his position.",
+    "chapter": 7,
+    "segment_id": "CH7-137",
+    "zh": "黑方确信自己的局面牢不可破，只等白方也认识到这一点。因此，他的调动没有具体目标，只求不把局面走坏。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-137"
+    ]
+  },
+  {
+    "page": 204,
+    "side": "left",
+    "kind": "body",
+    "text": "This is the picture that emerges: White purposefully manoeuvres and according to plan, preparing a decisive attack on the king's flank while Black occupies himself for the time being with waiting manoeuvres. It is clear that creative technique, characterised by concrete ideas and purposefulness, must gain victory over passive waiting tactics.",
+    "chapter": 7,
+    "page_end": 204,
+    "segment_id": "CH7-138",
+    "zh": "双方形成了鲜明的对照：白方有目的地按计划调动，准备在王翼发动决定性进攻；黑方则只是等待。以具体构想和明确目标为指导的下法，最终必将战胜消极等待。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-138"
+    ]
+  },
+  {
+    "page": 204,
+    "side": "left",
+    "kind": "moves",
+    "text": "30. Kd1 Rg7 31. Kc1 Nf8 32. Bf5 Re8 33. g4",
+    "chapter": 7,
+    "page_end": 204,
+    "segment_id": "CH7-139",
+    "zh": "**30. Kd1 Rg7 31. Kc1 Nf8 32. Bf5 Re8 33. g4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-139"
+    ]
+  },
+  {
+    "page": 204,
+    "side": "left",
+    "kind": "body",
+    "text": "Only after 12 moves is this pawn advanced to its appointed square not until the White king is finally \"established\" in a safe little nook and his pieces are regrouped to extract as much as possible from the advance g4-g5. All this requires scrupulous, thorough work and, of course, patience.",
+    "chapter": 7,
+    "page_end": 204,
+    "segment_id": "CH7-140",
+    "zh": "这个兵还要等12步才会冲到预定的格：先让白王在安全角落安顿下来，再调整子力，使g4-g5能够发挥最大作用。所有这些都需要细致、周密的准备，也需要耐心。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-140"
+    ]
+  },
+  {
+    "page": 204,
+    "side": "right",
+    "kind": "body",
+    "text": "Alekhine was a master of great creative dynamism, but dynamics combine badly with such slow manoeuvring. It is all the more interesting to observe that \"pathos for patience\" with which Alekhine, curbing his temperament and dynamism of thought, carries out the process of many moves of manoeuvring.",
+    "chapter": 7,
+    "segment_id": "CH7-141",
+    "zh": "阿廖欣的棋风极富动态性，与这样缓慢的调动似乎并不相称。因此，看他如何抑制急于行动的冲动，以如此耐心完成漫长的调动，更有意思。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-141"
+    ]
+  },
+  {
+    "page": 204,
+    "side": "right",
+    "kind": "body",
+    "text": "The piece manoeuvres are instructive and, in order to understand some of them, it is necessary to try to deeply grasp all the ramifications of White's plan. Here, for example, the manoeuvres of the bishop (beginning from the 21st move and going on until the end of the game): Bf5-c2-f5- c2-a4-d1-c2-f5. The bishop goes to the c3 and f5 squares three times and to the a4 and d1 squares once. This \"running about\" might show itself to be pointless and, of course, it does not prove decisive in White's manoeuvring, but it points to the fact that Alekhine, at this time, banished hurry, haste and striving to force the game from his creative methods and devices.",
+    "chapter": 7,
+    "segment_id": "CH7-142–144",
+    "zh": "这些运子过程很有启发性。要理解其中的细节，必须深入把握白方计划的各个方面。譬如，从第21步直到对局结束，象沿Bf5-c2-f5-c2-a4-d1-c2-f5这条路线反复调动。象三次到过c2和f5，又分别去过一次a4和d1。这种来回奔走或许显得没有意义，在白方的整体调动中也确实不是决定性因素。但它说明，阿廖欣此时完全克制了急躁，没有急于强行打开局面。\n\n〔校勘注：原文在上述路线后的说明中将c2误写为c3，此处据棋谱改正。〕",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-142",
+      "CH7-143",
+      "CH7-144"
+    ],
+    "page_end": 204
+  },
+  {
+    "page": 204,
+    "side": "right",
+    "kind": "moves",
+    "text": "33... Ng6 34. a3 Qd8 35. Bc2 Qc8 36. Kb1 Ne7 37. h3 Ng6 38. Qh6 Qd8 39. Ka2 Ne7",
+    "chapter": 7,
+    "page_end": 204,
+    "segment_id": "CH7-145",
+    "zh": "**33... Ng6 34. a3 Qd8 35. Bc2 Qc8 36. Kb1 Ne7 37. h3 Ng6 38. Qh6 Qd8 39. Ka2 Ne7**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-145"
+    ]
+  },
+  {
+    "page": 204,
+    "side": "right",
+    "kind": "body",
+    "text": "So as to reply to 40. Qxf6? with 40... Nd5! 40. Ka1 Ng6 41. Ba4",
+    "chapter": 7,
+    "segment_id": "CH7-146–147",
+    "zh": "准备在40. Qxf6?后应以40... Nd5!。\n\n**40. Ka1 Ng6 41. Ba4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-146",
+      "CH7-147"
+    ],
+    "page_end": 204
+  },
+  {
+    "page": 205,
+    "side": "left",
+    "kind": "body",
+    "text": "An intermediate move, pursuing the aim of either breaking the harmonious co-operation of the Black rooks, or freeing the e-file from excessive influence of the opponent's forces.",
+    "chapter": 7,
+    "segment_id": "CH7-148",
+    "zh": "一步过渡着，目的是破坏黑方双车的协调，或减轻黑方子力对e线的控制。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-148"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "left",
+    "kind": "moves",
+    "text": "41... Reg8 42. Bd1 Qe7 43. Bc2 Nf8 44. Rd5 Ng6 45. Rf5",
+    "chapter": 7,
+    "page_end": 205,
+    "segment_id": "CH7-149",
+    "zh": "**41... Reg8 42. Bd1 Qe7 43. Bc2 Nf8 44. Rd5 Ng6 45. Rf5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-149"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "left",
+    "kind": "body",
+    "text": "The Black knight is now pinned down.",
+    "chapter": 7,
+    "segment_id": "CH7-150",
+    "zh": "黑马现在被牵制住了。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-150"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "left",
+    "kind": "moves",
+    "text": "45... Re8 46. g5",
+    "chapter": 7,
+    "page_end": 205,
+    "segment_id": "CH7-151",
+    "zh": "**45... Re8**\n\n**46. g5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-151"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "left",
+    "kind": "body",
+    "text": "At last! And yet, at the present moment, Alekhine is tempted · should he not wait? In any case, apropos t this move, he noted \"Possibly it was more accurate to prepare this break by the move 46. h4. However the text is strong enough.\"",
+    "chapter": 7,
+    "segment_id": "CH7-152",
+    "zh": "终于冲起来了！即便如此，阿廖欣仍想过是否该再等一等。他在评注中写道：“也许先走46. h4准备这一冲兵突破更准确。不过，实战这步已经足够有力。”",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-152"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "left",
+    "kind": "moves",
+    "text": "46... fxg5 47. Rxg5",
+    "chapter": 7,
+    "segment_id": "CH7-153",
+    "zh": "**46... fxg5 47. Rxg5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-153"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "left",
+    "kind": "body",
+    "text": "Threats begin to emerge, in the first instance f5.",
+    "chapter": 7,
+    "segment_id": "CH7-154",
+    "zh": "白方开始制造具体威胁，首先是f5。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-154"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "left",
+    "kind": "moves",
+    "text": "47... Qf8",
+    "chapter": 7,
+    "segment_id": "CH7-155",
+    "zh": "**47... Qf8**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-155"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "left",
+    "kind": "body",
+    "text": "Other moves lose quickly. For example, 47... Rgg8 48. f5 Nf8 49 Rxg8+ Kxg8 50. f6 or 47... Reg8 48. f5 f6 49. Rxg6. 48. Rh5 If now 48. f5, then 48... Ne5 49. f6 Rg6! 50. Qxf8+ Rxf8 51. Bxg6 fxg6 and White has only minimal chances of victory.",
+    "chapter": 7,
+    "segment_id": "CH7-156–158",
+    "zh": "其他走法很快就输。例如47... Rgg8 48. f5 Nf8 49. Rxg8+ Kxg8 50. f6；或47... Reg8 48. f5 f6 49. Rxg6。\n\n**48. Rh5**\n\n若立即48. f5，则48... Ne5 49. f6 Rg6! 50. Qxf8+ Rxf8 51. Bxg6 fxg6，白方的胜机就很小了。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-156",
+      "CH7-157",
+      "CH7-158"
+    ],
+    "page_end": 205
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "moves",
+    "text": "48... Qg8 49. Ka2 Nf8",
+    "chapter": 7,
+    "segment_id": "CH7-159",
+    "zh": "**48... Qg8 49. Ka2 Nf8**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-159"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "body",
+    "text": "The manoeuvring enters the final phase. In order to increase the pressure White has to introduce the inactive rook c3 into the fray. This is the next thing he strives for.",
+    "chapter": 7,
+    "segment_id": "CH7-160",
+    "zh": "调动进入最后阶段。白方要加强压力，必须让暂时不活跃的c3车参战，这就是接下来的目标。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-160"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "moves",
+    "text": "50. Qf6 Nd7 51. Qd4",
+    "chapter": 7,
+    "segment_id": "CH7-161",
+    "zh": "**50. Qf6 Nd7 51. Qd4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-161"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "body",
+    "text": "Threatening both B or Rxh7.",
+    "chapter": 7,
+    "segment_id": "CH7-162",
+    "zh": "威胁Bxh7或Rxh7。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-162"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "moves",
+    "text": "51... f6 52. Bf5 Qf8 53. Rh6 Rge7 54. Rh5",
+    "chapter": 7,
+    "page_end": 205,
+    "segment_id": "CH7-163",
+    "zh": "**51... f6 52. Bf5 Qf8 53. Rh6 Rge7 54. Rh5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-163"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "body",
+    "text": "The weakness of f6 and h7 make Black's position indefensible.",
+    "chapter": 7,
+    "segment_id": "CH7-164",
+    "zh": "f6和h7两个弱点使黑方无法守住局面。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-164"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "moves",
+    "text": "54... Nc5 55. Rc2 Rg7 56. Rg2 Ree7",
+    "chapter": 7,
+    "segment_id": "CH7-165–166",
+    "zh": "**54... Nc5 55. Rc2 Rg7 56. Rg2 Ree7**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-165",
+      "CH7-166"
+    ],
+    "page_end": 205
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "body",
+    "text": "Clearly bad is 56... Rxg2 57 Rxh7+ Kg8 58. Qd5+ Ne6 59. Qxg2+ Ng7 60. Qg6 with the irresistible threat of Rh8+ and Qh7 mate.",
+    "chapter": 7,
+    "segment_id": "CH7-167–169",
+    "zh": "56... Rxg2显然不好，因为57. Rxh7+ Kg8 58. Qd5+ Ne6 59. Qxg2+ Ng7 60. Qg6，Rh8+后Qh7#的威胁无法抵挡。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-167",
+      "CH7-168",
+      "CH7-169"
+    ],
+    "page_end": 205
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "moves",
+    "text": "57. Rg4",
+    "chapter": 7,
+    "segment_id": "CH7-170",
+    "zh": "**57. Rg4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-170"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "body",
+    "text": "Also possible is at once 57. Rh6 Rxg2 58. Rxf6. 57... a4 58. Rh6 Rgf7 59. Rgg6 Nb3 60. Qc3 d5",
+    "chapter": 7,
+    "segment_id": "CH7-171–172",
+    "zh": "也可以立即走57. Rh6 Rxg2 58. Rxf6。\n\n**57... a4 58. Rh6 Rgf7 59. Rgg6 Nb3 60. Qc3 d5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-171",
+      "CH7-172"
+    ],
+    "page_end": 205
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "body",
+    "text": "Accelerating inevitable defeat.",
+    "chapter": 7,
+    "segment_id": "CH7-173",
+    "zh": "这只会加速败局。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-173"
+    ]
+  },
+  {
+    "page": 205,
+    "side": "right",
+    "kind": "moves",
+    "text": "61. cxd5 Re8 62. e4 Qc5",
+    "chapter": 7,
+    "segment_id": "CH7-174",
+    "zh": "**61. cxd5 Re8 62. e4 Qc5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-174"
+    ]
+  },
+  {
+    "page": 206,
+    "side": "left",
+    "kind": "body",
+    "text": "White announced mate in six moves (63. Rxh7+!).",
+    "chapter": 7,
+    "segment_id": "CH7-175",
+    "zh": "白方宣布六步杀(63. Rxh7+!)。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-175"
+    ]
+  },
+  {
+    "page": 206,
+    "side": "left",
+    "kind": "body",
+    "text": "Thus ends the process of 40 moves of manoeuvring. The active side in this process was White. Black, however, stuck to waiting tactics and in the end was mated.",
+    "chapter": 7,
+    "segment_id": "CH7-176",
+    "zh": "持续40步的调动至此结束。白方始终主动行事，黑方却一直消极等待，最后遭到将杀。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-176"
+    ]
+  },
+  {
+    "page": 206,
+    "side": "left",
+    "kind": "body",
+    "text": "On the examples of classic chess works of Chigorin and Alekhine, we are able to convince ourselves that manoeuvring can conceal profound aims and ideas. However, in order to transform the monotonous process of manoeuvring into a brilliant boon of ideas, it is necessary to combine, in one go, indomitable spirit of struggle, creative inspiration and chess mastery.",
+    "chapter": 7,
+    "segment_id": "CH7-177",
+    "zh": "齐果林与阿廖欣的经典对局说明，调动可以蕴含深刻的目标和构想。不过，要让看似单调的调动展现丰富的内容，必须把顽强的斗志、创造力与高超的棋艺结合起来。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-177"
+    ]
+  },
+  {
+    "page": 206,
+    "side": "left",
+    "kind": "body",
+    "text": "If these conditions are absent, then we come witness to manoeuvring which is tiresome, not very interesting and undoubtedly impoverished of the creative content of the chess struggle.",
+    "chapter": 7,
+    "page_end": 206,
+    "segment_id": "CH7-178",
+    "zh": "缺少这些条件，调动便会枯燥乏味，也会使对局失去丰富的创造性内容。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-178"
+    ]
+  },
+  {
+    "page": 206,
+    "side": "left",
+    "kind": "body",
+    "text": "To a certain extent, this is true in respect of the following two illustrations, in which the manoeuvring is half-forced and only half-waiting.",
+    "chapter": 7,
+    "segment_id": "CH7-179",
+    "zh": "下面两个例子在一定程度上便是如此：其中的调动，既有局面所迫的成分，也有消极等待的成分。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-179"
+    ]
+  },
+  {
+    "page": 206,
+    "side": "left",
+    "kind": "body",
+    "text": "Despite White's extra pawn in the game Blackburne-Albin from Hastings 1895, he cannot achieve anything - the construction of the position excludes the possibility of a breakthrough. The potential weakness of the Black b6 pawn cannot be realised. There are no open files on the board, and the heavy pieces of both partners are doomed to inactivity. However, having an extra pawn, Blackburne did not want to content himself with a draw. As a result, there arises the process of many moves of manoeuvring, in which White only waits to see if Black will by chance relax his attention to the b6 pawn. Black likewise cannot do anything and is obliged to manoeuvre. The defence of the b6 pawn does not present any particular difficulty. Let us see how events developed.",
+    "chapter": 7,
+    "page_end": 206,
+    "segment_id": "CH7-180",
+    "zh": "1895年在黑斯廷斯锦标赛的布莱克本对阿尔宾一局，白方虽然多一兵，却无法取得进展。兵形封闭，没有突破的可能，b6兵潜在的弱点也无法利用。棋盘上没有开放线，双方重子都难以发挥作用。但布莱克本不愿带着多一兵的优势接受和棋，于是开始漫长的调动，等待黑方偶然疏忽b6兵的防守。黑方也无事可做，只能跟着调动；保护b6兵并不困难。下面看看实战的发展。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-180"
+    ]
+  },
+  {
+    "page": 206,
+    "side": "right",
+    "kind": "moves",
+    "text": "40. Kd3 Kg6 41. Kc4 Kh5 42. Be1 Rcc7 43. Rab1 Rc8 44. Bf2 Rcc7 45. Kd3 Qg6? 46. Kc2",
+    "chapter": 7,
+    "page_end": 206,
+    "segment_id": "CH7-181",
+    "zh": "**40. Kd3 Kg6 41. Kc4 Kh5 42. Be1 Rcc7 43. Rab1 Rc8 44. Bf2 Rcc7 45. Kd3 Qg6? 46. Kc2**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-181"
+    ]
+  },
+  {
+    "page": 206,
+    "side": "right",
+    "kind": "body",
+    "text": "In order to exploit the opportunity which has presented itself, White should play 46. d6 and, if 46 Qxd6+, then 47. Ke2 with a subsequent capture of the d-file. 46... Qd6",
+    "chapter": 7,
+    "segment_id": "CH7-182–184",
+    "zh": "白方应走46. d6抓住这个机会。若46... Qxd6+，则47. Ke2，准备随后占领d线。\n\n**46... Qd6**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-182",
+      "CH7-183",
+      "CH7-184"
+    ],
+    "page_end": 206
+  },
+  {
+    "page": 206,
+    "side": "right",
+    "kind": "body",
+    "text": "Immediately correcting the error made on the previous move. The queen now becomes pinned down on d6.",
+    "chapter": 7,
+    "segment_id": "CH7-185",
+    "zh": "黑方立即纠正上一步的错误。黑后现在被束缚在d6。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-185"
+    ]
+  },
+  {
+    "page": 206,
+    "side": "right",
+    "kind": "moves",
+    "text": "47. Qe2 Kh6 48. Kc1 Rc8 49. Qb5 Kh5 50. c4 Rcc7 51. Be1 Ra8 52. Bc3 Raa7 53. Rb3 Rc8 54. Qa4 Rcc7 55. Qa1",
+    "chapter": 7,
+    "page_end": 206,
+    "segment_id": "CH7-186",
+    "zh": "**47. Qe2 Kh6 48. Kc1 Rc8 49. Qb5 Kh5 50. c4 Rcc7 51. Be1 Ra8 52. Bc3 Raa7 53. Rb3 Rc8 54. Qa4 Rcc7 55. Qa1**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-186"
+    ]
+  },
+  {
+    "page": 206,
+    "side": "right",
+    "kind": "body",
+    "text": "White inconspicuously creates the threat of Rxb6 followed by Bxe5.",
+    "chapter": 7,
+    "page_end": 207,
+    "segment_id": "CH7-187",
+    "zh": "白方悄悄制造了Rxb6后Bxe5的威胁。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-187"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "left",
+    "kind": "moves",
+    "text": "55... Rc8 56. Kc2 Rca8 57. Ra3 Qc7",
+    "chapter": 7,
+    "segment_id": "CH7-188–189",
+    "zh": "**55... Rc8 56. Kc2 Rca8 57. Ra3 Qc7**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-188",
+      "CH7-189"
+    ],
+    "page_end": 207
+  },
+  {
+    "page": 207,
+    "side": "left",
+    "kind": "body",
+    "text": "Black himself also decides to display activity. The aim of this queen manoeuvre is to attack the a6 pawn, of course if White weakens the pressure on e5.",
+    "chapter": 7,
+    "segment_id": "CH7-190",
+    "zh": "黑方也决定采取积极行动。这次运后的目的是：一旦白方减轻对e5的压力，便转而攻击a6兵。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-190"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "left",
+    "kind": "moves",
+    "text": "58. Rb2 Qc8 59. Rba2 Qc7 60. Qb2 Qd6 61. Rb3",
+    "chapter": 7,
+    "page_end": 207,
+    "segment_id": "CH7-191",
+    "zh": "**58. Rb2 Qc8 59. Rba2 Qc7 60. Qb2 Qd6 61. Rb3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-191"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "left",
+    "kind": "body",
+    "text": "Another attempt to achieve something after 61... Rxa6 62 Rxa6 Rxa6 63. Ra3 Rxa3 64. Qxa3 with a future invasion via the c6 square into the opponent's camp. But Albin avoids the temptation and White again gets nothing.",
+    "chapter": 7,
+    "segment_id": "CH7-192–194",
+    "zh": "白方又作了一次尝试，希望61... Rxa6后62. Rxa6 Rxa6 63. Ra3 Rxa3 64. Qxa3随后经c6侵入黑方阵地。但阿尔宾没有上当，白方再次一无所获。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-192",
+      "CH7-193",
+      "CH7-194"
+    ],
+    "page_end": 207
+  },
+  {
+    "page": 207,
+    "side": "left",
+    "kind": "moves",
+    "text": "61... Rc8 62. Ra4 Rca8 63. Kd2 Re8 64. Ra1 Rea8 65. Kc2 Re8 66. Ra4 Rea8 67. Kd1 Rc8 68 Kc1 The patience with which Blackburne waits for a mistake by the opponent is put to the best use. Suddenly it is rewarded.",
+    "chapter": 7,
+    "page_end": 207,
+    "segment_id": "CH7-195–196",
+    "zh": "**61... Rc8 62. Ra4 Rca8 63. Kd2 Re8 64. Ra1 Rea8 65. Kc2 Re8 66. Ra4 Rea8 67. Kd1 Rc8 68. Kc1**\n\n布莱克本以极大的耐心等待对手犯错，终于意外地等来了回报。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-195",
+      "CH7-196"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "left",
+    "kind": "moves",
+    "text": "68... Rca8 69. Kb1 Rc8 70. Kc2 Rca8 71. Rba3 Rc8 72. Qb5 Kg6 73. Rb3 Kh5 74. Ra1 Kg6 75. Rab1 Kh5 76. Qa4 Rcc7 77. R1b2 Rc8 78. Qa1 Rca8 79. Ra2 Rb8 80. Qb2 Kg6 81. Ra1 Kh5 82. Rb1",
+    "chapter": 7,
+    "page_end": 207,
+    "segment_id": "CH7-197",
+    "zh": "**68... Rca8 69. Kb1 Rc8 70. Kc2 Rca8 71. Rba3 Rc8 72. Qb5 Kg6 73. Rb3 Kh5 74. Ra1 Kg6 75. Rab1 Kh5 76. Qa4 Rcc7 77. R1b2 Rc8 78. Qa1 Rca8 79. Ra2 Rb8 80. Qb2 Kg6 81. Ra1 Kh5 82. Rb1**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-197"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "left",
+    "kind": "body",
+    "text": "The cunning Blackburne ehas succeeded in complicating Black's task a little. For example, in the event of 82... Rxa6 83. Ra3 Rba8 84. Rba1, White seizes the a-file. If the rook b8 budges, then follows an exchange sacrifice on b6. The only correct continuation was 82 ... Kg6!. Apparently, Albin was afraid of the sacrifice on e5, but wrongly so. The variation 83. Bxe5 Nxe5! 84. Rxb6 Rxb6 85. Qxb6 Rxa6! is to Black's advantage.",
+    "chapter": 7,
+    "segment_id": "CH7-198–201",
+    "zh": "老练的布莱克本终于给黑方添了些麻烦。例如82... Rxa6 83. Ra3 Rba8 84. Rba1，白方便控制a线；若b8车走开，白方又能在b6弃半子。唯一正确的后续手段是82... Kg6!。阿尔宾显然顾虑白方在e5弃子，但这种担心没有必要。83. Bxe5 Nxe5! 84. Rxb6 Rxb6 85. Qxb6 Rxa6!这一变化对黑方有利。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-198",
+      "CH7-199",
+      "CH7-200",
+      "CH7-201"
+    ],
+    "page_end": 207
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "moves",
+    "text": "82... Rba8?",
+    "chapter": 7,
+    "segment_id": "CH7-202",
+    "zh": "**82... Rba8?**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-202"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "body",
+    "text": "With the aim, after ... Rxa6, of seizing control of the a-file, but in the present situation the weakened b6 point proves fatal.",
+    "chapter": 7,
+    "segment_id": "CH7-203",
+    "zh": "黑方准备在... Rxa6后控制a线，但在当前局面中，b6防守的削弱却是致命的。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-203"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "moves",
+    "text": "83. Rxb6!",
+    "chapter": 7,
+    "segment_id": "CH7-204",
+    "zh": "**83. Rxb6!**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-204"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "body",
+    "text": "Now or never!",
+    "chapter": 7,
+    "segment_id": "CH7-205",
+    "zh": "机不可失！",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-205"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "moves",
+    "text": "83... Nxb6 84. Qxb6 Rxa6 85. Qxd6 Rxd6 86. Rb5",
+    "chapter": 7,
+    "page_end": 207,
+    "segment_id": "CH7-206",
+    "zh": "**83... Nxb6 84. Qxb6 Rxa6 85. Qxd6 Rxd6 86. Rb5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-206"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "body",
+    "text": "86. Bxe5 is also possible.",
+    "chapter": 7,
+    "segment_id": "CH7-207",
+    "zh": "86. Bxe5也可以。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-207"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "moves",
+    "text": "86... Ra2+ 87. Bb2 Rda6 88. Kb3 R6a5 89. Rxa5 Rxa5 90 Bxe5 and White soon achieved victory.",
+    "chapter": 7,
+    "page_end": 207,
+    "segment_id": "CH7-208–209",
+    "zh": "**86... Ra2+ 87. Bb2 Rda6 88. Kb3 R6a5 89. Rxa5 Rxa5 90. Bxe5**\n\n白方很快就取得了胜利。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-208",
+      "CH7-209"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "body",
+    "text": "Virtually in the opening - and perhaps due tothe opening manoeuvring was begun in the following game.",
+    "chapter": 7,
+    "segment_id": "CH7-210",
+    "zh": "下一局几乎从开局便开始调动，也可以说，正是开局的选择促成了这种局面。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-210"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "heading",
+    "text": "Spanish Game",
+    "chapter": 7,
+    "segment_id": "CH7-211",
+    "zh": "西班牙开局",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-211"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "metadata",
+    "text": "White: P.Romanovsky",
+    "chapter": 7,
+    "segment_id": "CH7-212",
+    "zh": "白方：P.罗曼诺夫斯基",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-212"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "metadata",
+    "text": "Black: M.Botvinnik",
+    "chapter": 7,
+    "segment_id": "CH7-213",
+    "zh": "黑方：M.鲍特维尼克",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-213"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "metadata",
+    "text": "(Moscow 1935)",
+    "chapter": 7,
+    "segment_id": "CH7-214",
+    "zh": "（莫斯科1935）",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-214"
+    ]
+  },
+  {
+    "page": 207,
+    "side": "right",
+    "kind": "moves",
+    "text": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d3",
+    "chapter": 7,
+    "page_end": 208,
+    "segment_id": "CH7-215",
+    "zh": "**1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-215"
+    ]
+  },
+  {
+    "page": 208,
+    "side": "left",
+    "kind": "body",
+    "text": "A continuation which gives the game a locked character. The struggle now enters a manoeuvring phase which lasts not more, not less than 30 moves. Throughout this long period, the sides 'succeed\" in producing just one pawn exchange. Such a process of manoeuvring requires great patience from the partners. In the end it exhausts White, that is the side whose fault it was that the struggle went into manoeuvring channels. \"Those who live by the sword, must die by the sword'\".",
+    "chapter": 7,
+    "segment_id": "CH7-216",
+    "zh": "这一后续手段使局面封闭，双方进入持续整整30步的调动阶段。在如此漫长的过程中，他们竟只“完成”了一次兑兵。这需要极大的耐心，最终首先耗尽耐心的却是白方，也正是白方主动把对局引向了调动。可谓作茧自缚。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-216"
+    ]
+  },
+  {
+    "page": 208,
+    "side": "left",
+    "kind": "body",
+    "text": "Was White forced into his last move? Of course not. It was possible to play 6. d4 exd4 7. Qxd4 Qxd4 8. Nxd4, and the position would assume an open character. However, an early exchange of queens is not to everyone's taste. But the main thing is this, that White reckons on carrying out, in the near future, the advance d3-d4 or f2-f4, opening the centre, but does not take into account that the opponent will prevent the execution of this plan, after which he has to manoeuvre until the end of the game.",
+    "chapter": 7,
+    "segment_id": "CH7-217",
+    "zh": "白方刚才这步是被迫的吗？当然不是。6. d4 exd4 7. Qxd4 Qxd4 8. Nxd4可以形成开放局面，只是并非人人都愿意早早兑后。更重要的是，白方打算稍后再以d3-d4或f2-f4打开中心，却没有料到对手会阻止这个计划，使他不得不一直调动到对局结束。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-217"
+    ]
+  },
+  {
+    "page": 208,
+    "side": "left",
+    "kind": "moves",
+    "text": "6... Bd6 7. Be3 c5 8. Ne2 Ne7 9 Ng3",
+    "chapter": 7,
+    "segment_id": "CH7-218–219",
+    "zh": "**6... Bd6 7. Be3 c5 8. Ne2 Ne7 9. Ng3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-218",
+      "CH7-219"
+    ],
+    "page_end": 208
+  },
+  {
+    "page": 208,
+    "side": "left",
+    "kind": "body",
+    "text": "White reconciles himself to the need for manoeuvring. His last move arms him against Black's possible advance ... f5. Then the e4 point would pass into White's hands and on it he could handily place one of his knights.",
+    "chapter": 7,
+    "segment_id": "CH7-220",
+    "zh": "白方接受了必须调动的现实。这步为应对黑方可能的... f5作准备：届时e4将成为白方的据点，可以舒适地安置一匹马。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-220"
+    ]
+  },
+  {
+    "page": 208,
+    "side": "right",
+    "kind": "moves",
+    "text": "9... Be6 10. c3 Qd7 11. O-O O-O 12. Qc2 Nc6 13. Nd2 Rad8 14. Rad1 b6 15. f3",
+    "chapter": 7,
+    "page_end": 208,
+    "segment_id": "CH7-221",
+    "zh": "**9... Be6 10. c3 Qd7 11. O-O O-O 12. Qc2 Nc6 13. Nd2 Rad8 14. Rad1 b6 15. f3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-221"
+    ]
+  },
+  {
+    "page": 208,
+    "side": "right",
+    "kind": "body",
+    "text": "The advance d4 is prevented, therefore the weakness of the d3 pawn, located on the d-file where Black's heavy pieces dominate, is quite real. The best testimony to this is the fact that it is impossible now for White to play 15. f4, which, after the exchange on f4, leads to the loss of the central pawn. As a result, White is forced into waiting, though 1also not pointless, manoeuvring. As already pointed out, he concentrates his influence in good time on the e4 point, in anticipation of the move ... f5. It is interesting t that even after this the struggle retains a manoeuvring character.",
+    "chapter": 7,
+    "segment_id": "CH7-222",
+    "zh": "d4已被阻止，d3兵又处在黑方重子控制的d线上，因此确实是个弱点。最直接的证明是：白方现在不能走15. f4，否则在f4兑兵后就会丢掉中心兵。白方于是被迫等待调动，但并非毫无目标。如前所述，他预先加强对e4的控制，等待黑方走... f5。有趣的是，即使黑方随后冲起f兵，双方仍继续调动。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-222"
+    ]
+  },
+  {
+    "page": 208,
+    "side": "right",
+    "kind": "moves",
+    "text": "15... Be7 16. Nb3 a5 17. Nc1 Bd6 18. Qf2 Ne7 19. Rd2 f5",
+    "chapter": 7,
+    "page_end": 208,
+    "segment_id": "CH7-223",
+    "zh": "**15... Be7 16. Nb3 a5 17. Nc1 Bd6 18. Qf2 Ne7 19. Rd2 f5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-223"
+    ]
+  },
+  {
+    "page": 208,
+    "side": "right",
+    "kind": "body",
+    "text": "Risky, but there was apparently no other way to liven up the struggle. Black thinks the initiative is on his side but, other than by advancing the f-pawn, he cannot show it. Now a light shines before White in the shape of the isolated Black pawn on e5 and a dominating outpost in the centre - the e4 point.",
+    "chapter": 7,
+    "segment_id": "CH7-224",
+    "zh": "这步有风险，但看来也是让斗争活跃起来的唯一办法。黑方自认掌握主动权，却只有冲起f兵才能有所行动。白方也由此看到了希望：黑方将留下e5孤兵，而e4会成为白方有力的中心据点。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-224"
+    ]
+  },
+  {
+    "page": 208,
+    "side": "right",
+    "kind": "moves",
+    "text": "20. exf5 Nxf5 21. Ne4",
+    "chapter": 7,
+    "segment_id": "CH7-225",
+    "zh": "**20. exf5 Nxf5 21. Ne4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-225"
+    ]
+  },
+  {
+    "page": 208,
+    "side": "right",
+    "kind": "body",
+    "text": "The exchange Nxf5 was worth considering, if White could quickly transfer the other knight to e4, but it is not easy to do this. For example: 21. Nxf5 Bxf5 22. Ne2 e4! 23. dxe4 Bxe4 24. Bf4! Bb7 25. Rfd1 Qe6 26. Bxd6 Rxd6, and Black has a good game, since after 27. Rxd6 cxd6 it is difficult to prevent ... d5, and ... Qxa2 is also threatened.",
+    "chapter": 7,
+    "segment_id": "CH7-226–228",
+    "zh": "如果白方能迅速把另一匹马调到e4，那么Nxf5值得考虑；可惜并不容易。例如21. Nxf5 Bxf5 22. Ne2 e4! 23. dxe4 Bxe4 24. Bf4! Bb7 25. Rfd1 Qe6 26. Bxd6 Rxd6，黑方局面很好，因为27. Rxd6 cxd6后很难阻止... d5，黑方还威胁... Qxa2。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-226",
+      "CH7-227",
+      "CH7-228"
+    ],
+    "page_end": 208
+  },
+  {
+    "page": 209,
+    "side": "left",
+    "kind": "moves",
+    "text": "21... h6 22. Qe1 Be7 23. Bf2 Bd5 24. Qe2 Rfe8 25. Rdd1 Qe6 26. Rfe1 Bf8 27. Qc2 Qf7 28. Rd2 Re6 29. Rde2 Rde8 30. Qa4",
+    "chapter": 7,
+    "page_end": 209,
+    "segment_id": "CH7-229",
+    "zh": "**21... h6 22. Qe1 Be7 23. Bf2 Bd5 24. Qe2 Rfe8 25. Rdd1 Qe6 26. Rfe1 Bf8 27. Qc2 Qf7 28. Rd2 Re6 29. Rde2 Rde8 30. Qa4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-229"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "left",
+    "kind": "body",
+    "text": "A typical contribution to waiting manoeuvring; the move is difficult to understand.",
+    "chapter": 7,
+    "segment_id": "CH7-230",
+    "zh": "典型的等待调动，很难看出这步的具体用意。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-230"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "left",
+    "kind": "moves",
+    "text": "30... Ne7 31. Bg3 Bc6 32. Qc2 Nd5 33. Nb3 g5 34. Nbd2 Bg7 35. Nf1 R6e7 36. Rd2 Rd7",
+    "chapter": 7,
+    "page_end": 209,
+    "segment_id": "CH7-231",
+    "zh": "**30... Ne7 31. Bg3 Bc6 32. Qc2 Nd5 33. Nb3 g5 34. Nbd2 Bg7 35. Nf1 R6e7 36. Rd2 Rd7**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-231"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "left",
+    "kind": "body",
+    "text": "Here White, tired out from the tortuous and, in the present case, not very creative process s of manoeuvring, overlooked the loss of a pawn after 37. Ne3 and in the end suffered defeat. He should play 37. a3.",
+    "chapter": 7,
+    "segment_id": "CH7-232–233",
+    "zh": "白方被这段曲折而缺乏创造性的调动折磨得疲惫不堪，漏算了37. Ne3会丢兵，最终输掉对局。他应当走37. a3.",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-232",
+      "CH7-233"
+    ],
+    "page_end": 209
+  },
+  {
+    "page": 209,
+    "side": "left",
+    "kind": "body",
+    "text": "The creative process of chess art suffers particularly when manoeuvring turns out to be a form of voluntary waiting, inactivity, and at times also a refusal to fight.",
+    "chapter": 7,
+    "segment_id": "CH7-234",
+    "zh": "当调动成为主动选择的消极等待、无所作为，甚至放弃斗争时，棋艺的创造性就会受到尤其严重的损害。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-234"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "left",
+    "kind": "body",
+    "text": "And though in the practice of our grandmasters and masters, who present themselves before the whole chess world as players with a fighting, energetic, ， enterprising style, such cases are comparatively we nevertheless give one rare, example of this in the hope that it will not be imitated by the readers of this book.",
+    "chapter": 7,
+    "page_end": 209,
+    "segment_id": "CH7-235",
+    "zh": "我国的大师和特级大师以积极、进取、富于斗志的棋风著称，这样的例子相对少见。不过，我们仍列出一例，希望本书读者不要效仿。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-235"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "left",
+    "kind": "heading",
+    "text": "Caro-Kann Defence",
+    "chapter": 7,
+    "segment_id": "CH7-236",
+    "zh": "卡罗-康防御",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-236"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "left",
+    "kind": "metadata",
+    "text": "White: Y.Averbakh",
+    "chapter": 7,
+    "segment_id": "CH7-237",
+    "zh": "白方：Y.阿韦尔巴赫",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-237"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "left",
+    "kind": "metadata",
+    "text": "Black: T.Petrosian",
+    "chapter": 7,
+    "segment_id": "CH7-238",
+    "zh": "黑方：T.彼得罗相",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-238"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "left",
+    "kind": "metadata",
+    "text": "(19th USSR Championship 1951)",
+    "chapter": 7,
+    "segment_id": "CH7-239",
+    "zh": "（1951年第19届苏联锦标赛）",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-239"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6",
+    "chapter": 7,
+    "page_end": 209,
+    "segment_id": "CH7-240",
+    "zh": "**1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-240"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "right",
+    "kind": "body",
+    "text": "The game begins to take on a locked character - the first prerequisite for t transferring it to manoeuvring channels.",
+    "chapter": 7,
+    "segment_id": "CH7-241",
+    "zh": "局面开始封闭，这正是转入调动的首要条件。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-241"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "right",
+    "kind": "moves",
+    "text": "7. g3",
+    "chapter": 7,
+    "segment_id": "CH7-242",
+    "zh": "**7. g3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-242"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "right",
+    "kind": "body",
+    "text": "Very slow, though repeatedly met in practice. 7. Be2 was played in the first game of the Smyslov. Botvinnik return match, but also upon this the game continuation comes to assume the aspect of a manoeuvring struggle without exchanges.",
+    "chapter": 7,
+    "segment_id": "CH7-243",
+    "zh": "这步很慢，尽管实战中屡见不鲜。斯梅斯洛夫对鲍特维尼克世界冠军回敬赛第一局走的是7. Be2，但那个后续手段也使对局变成了几乎不兑子的调动。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-243"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "right",
+    "kind": "moves",
+    "text": "7... Be7 8. Bg2 O-O 9. O-O Na6 10. Qe2 Ne8 11. e5",
+    "chapter": 7,
+    "page_end": 209,
+    "segment_id": "CH7-244",
+    "zh": "**7... Be7 8. Bg2 O-O 9. O-O Na6 10. Qe2 Ne8 11. e5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-244"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "right",
+    "kind": "body",
+    "text": "The present moment in the game is highly instructive. It shows that the process of manoeuvring is far from always created by chance or comes about by coincidence, without depending on the will of the players. Manoeuvring arises at times also as a result of a conscious striving for it by one or both opponents. From the creative point of view, what is not brought about by such striving cannot justify itself.",
+    "chapter": 7,
+    "segment_id": "CH7-245",
+    "zh": "这个时刻很有启发性：调动并非总是偶然形成，也并非总是不以棋手的意志为转移。有时，它正是一方或双方有意选择的结果。从棋艺创造的角度看，没有充分理由却一味追求这种调动，是站不住脚的。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-245"
+    ]
+  },
+  {
+    "page": 209,
+    "side": "right",
+    "kind": "body",
+    "text": "Instead of locking the position and automatically y transferring to manoeuvring, White had at his disposal an active plan of attack in the centre: 11. d4 followed by Be3, Rad1, and f4. Black could hardly accept the pawn sacrifice 11... dxe4 12. Nxe4! Qxd4, then 13. Rd1 Qb6 14. Rd7 Bf6 15. c3 and White threatens, after Be3, not only to recover the pawn but also to obtain a positional superiority.",
+    "chapter": 7,
+    "segment_id": "CH7-246–248",
+    "zh": "白方本可选择积极的中心进攻计划：11. d4，随后Be3、Rad1和f4，而不必封闭局面、转入调动。黑方很难接受弃兵，例如11... dxe4 12. Nxe4! Qxd4,则13. Rd1 Qb6 14. Rd7 Bf6 15. c3，白方接着Be3，不仅有望吃回一兵，还能取得局面优势。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-246",
+      "CH7-247",
+      "CH7-248"
+    ],
+    "page_end": 209
+  },
+  {
+    "page": 210,
+    "side": "left",
+    "kind": "moves",
+    "text": "11... Nac7 12. h4 b5 13. Nd1 Qd7 14. c4 f5",
+    "chapter": 7,
+    "page_end": 210,
+    "segment_id": "CH7-249",
+    "zh": "**11... Nac7 12. h4 b5 13. Nd1 Qd7 14. c4 f5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-249"
+    ]
+  },
+  {
+    "page": 210,
+    "side": "left",
+    "kind": "body",
+    "text": "If the exchange exf6 suits Black, then why did he not play 14... f6?",
+    "chapter": 7,
+    "segment_id": "CH7-250",
+    "zh": "如果黑方愿意接受exf6这种兑换，为什么不直接走14... f6呢？",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-250"
+    ]
+  },
+  {
+    "page": 210,
+    "side": "left",
+    "kind": "moves",
+    "text": "15. Bf4 Rb8 16. Rc1 Na6 17. cxd5 cxd5 The last exchange in this game!",
+    "chapter": 7,
+    "segment_id": "CH7-251–252",
+    "zh": "**15. Bf4 Rb8 16. Rc1 Na6 17. cxd5 cxd5**\n\n这竟是本局最后一次兑换！",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-251",
+      "CH7-252"
+    ],
+    "page_end": 210
+  },
+  {
+    "page": 210,
+    "side": "left",
+    "kind": "moves",
+    "text": "18. d4",
+    "chapter": 7,
+    "segment_id": "CH7-253",
+    "zh": "**18. d4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-253"
+    ]
+  },
+  {
+    "page": 210,
+    "side": "left",
+    "kind": "body",
+    "text": "White wrongly refrains from the manoeuvre Nc3-b1-d2-b3, which gives him chances of seizing the initiative. Something like this might 0ccur: 18. Nc3 Nec7 19. Nb1 Rfc8 20. Nd2 b4 21. Nb3 Nb5 22. Be3 Rxc1 23. Rxc1 Rc8 24. Rxc8+ Qxc8 25. d4 Qc6 26. Bf1 Nac7 27 h5 and then g4, opening squares of action for the white squared bishop.",
+    "chapter": 7,
+    "segment_id": "CH7-254–256",
+    "zh": "白方错过了Nc3-b1-d2-b3这一运马方案，本来可以借此争取主动权。例如18. Nc3 Nec7 19. Nb1 Rfc8 20. Nd2 b4 21. Nb3 Nb5 22. Be3 Rxc1 23. Rxc1 Rc8 24. Rxc8+ Qxc8 25. d4 Qc6 26. Bf1 Nac7 27. h5，随后g4，为白格象打开活动空间。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-254",
+      "CH7-255",
+      "CH7-256"
+    ],
+    "page_end": 210
+  },
+  {
+    "page": 210,
+    "side": "left",
+    "kind": "moves",
+    "text": "18... Nb4 19. Nc3 Not 19. a3 Nc6! 20. Qd3 Na5. 19... Nc7 20. Qd2 Rfc8 21. Bg5",
+    "chapter": 7,
+    "page_end": 210,
+    "segment_id": "CH7-257",
+    "zh": "**18... Nb4 19. Nc3**\n\n不能走19. a3，因为19... Nc6! 20. Qd3 Na5。\n\n**19... Nc7 20. Qd2 Rfc8 21. Bg5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-257"
+    ]
+  },
+  {
+    "page": 210,
+    "side": "left",
+    "kind": "body",
+    "text": "He gets nothing out of this. Possible is 21. h5 h6 22. Bf3, and then Kh2, Rg1 and g4, but White continues to manoeuvre.",
+    "chapter": 7,
+    "segment_id": "CH7-258",
+    "zh": "这步毫无收获。可以走21. h5 h6 22. Bf3，再准备Kh2、Rg1和g4；但白方仍继续调动。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-258"
+    ]
+  },
+  {
+    "page": 210,
+    "side": "left",
+    "kind": "moves",
+    "text": "21... Bf8 22. Bh3 Qf7 23. Rfd1 Qe8 24. Bf1 a5 25. Be3 a4 26. Qe1 Nc6 27. Ne2 Nb4 28. Nc3 Nc6 29. Ne2 Nb4 Draw agreed!",
+    "chapter": 7,
+    "page_end": 210,
+    "segment_id": "CH7-259–260",
+    "zh": "**21... Bf8 22. Bh3 Qf7 23. Rfd1 Qe8 24. Bf1 a5 25. Be3 a4 26. Qe1 Nc6 27. Ne2 Nb4 28. Nc3 Nc6 29. Ne2 Nb4**\n\n双方同意和棋！",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-259",
+      "CH7-260"
+    ]
+  },
+  {
+    "page": 210,
+    "side": "right",
+    "kind": "body",
+    "text": "The chess struggle, which is full of initiative and enterprising play, assumes quite a different character.",
+    "chapter": 7,
+    "segment_id": "CH7-261",
+    "zh": "积极进取、争夺主动权的对局，则呈现出完全不同的面貌。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-261"
+    ]
+  },
+  {
+    "page": 210,
+    "side": "right",
+    "kind": "body",
+    "text": "We have already used the term \"initiative\" time and again in the pages of this book. The Latin word \"initium\"1 means the principle of initiative. Initiative in life - this is a display of activity in any area of man's work. The initiative is born, becomes apparent and is developed out of a resolute striving for individual or collective thoughts. In the chess struggle the initiative likewise presents itself as a resolute activity, directed towards the creation of immediate threats to the opponent, to the constraint of his position, to the restriction of the mobility of his forces s and his possibilities in general.",
+    "chapter": 7,
+    "segment_id": "CH7-262",
+    "zh": "本书已经多次使用“主动权”这个词。它的词源可追溯到拉丁语initium，意为“开始”。生活中的主动精神，体现在各个领域积极采取行动，并在坚定落实个人或集体构想的过程中产生、表现和发展。在国际象棋中，争取主动权同样意味着果断行动：向对手制造直接威胁，压缩其阵地，限制其子力活动和可用的选择。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-262"
+    ]
+  },
+  {
+    "page": 210,
+    "side": "right",
+    "kind": "body",
+    "text": "More often than not in the chess game, one of the opponents holds the initiative, but there will be occasions when the initiative runs across a counter-initiative, particularly when attacks are conducted on opposite flanks. The initiative will quite often bear a temporary character: it either runs dry or is intercepted by the opposing side.",
+    "chapter": 7,
+    "segment_id": "CH7-263",
+    "zh": "一盘棋中，通常由一方掌握主动权；但也可能双方各有主动行动，尤其是在两翼分别进攻时。主动权往往是暂时的：它可能逐渐消失，也可能被对手夺走。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-263"
+    ]
+  },
+  {
+    "page": 210,
+    "side": "right",
+    "kind": "body",
+    "text": "From the point of view of scale, manifestation of the initiative can be divided into several categories. The initiative can be small, firm, durable, dangerous, s strong etc. Sometimes it is said that the initiative develops into an attack. This is an inaccuracy. An attack represents an offensive. The initiative likewise often attends threats and offensives. But if an attack is always an initiative, then an initiative cannot in all cases be identified with an attack. For example, in the game Alekhine- Yates, White held the initiative for 40 moves - the whole process of manoeuvring - but he only obtained an attack at the end of the game, after the move g5, when he began an assault on the f6 and h7 pawns and created mating threats. Therefore to say that the initiative turns into an attack is roughly the same as talking about the change of boldness into bravery, cowardice into timidity, a laugh into a roar, etc.",
+    "chapter": 7,
+    "page_end": 211,
+    "segment_id": "CH7-264",
+    "zh": "主动权可以有不同的程度和性质：轻微、稳固、持久、危险或强大，等等。人们有时说“主动权转化为进攻”，我们认为这并不准确。进攻是一种主动行动，主动权也常表现为威胁和攻势。但有进攻就有主动权，并不意味着所有主动权都等同于进攻。例如阿廖欣对耶茨一局，白方在整个40步的调动过程中都掌握主动权，直到最后冲起g5，开始攻击f6、h7兵并制造将杀威胁时，才真正发动进攻。所以，把两者说成彼此转化的关系，就如同说大胆变成勇敢、怯懦变成胆怯、笑声变成大笑一样，并不严密。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-264"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "left",
+    "kind": "body",
+    "text": "In the opening of the game, White holds a small initiative thanks to the right of the first move (let us say, after 1. d4, Black is deprived of the reply 1... e5). If Black succeeds in neutralising even such a slight initiative in the opening, then it is customary to consider that he has equalised the game, though, in the present case, the term \"equalisation\" bears a particularly conditional character.",
+    "chapter": 7,
+    "segment_id": "CH7-265",
+    "zh": "开局时，白方凭借先行之利，拥有轻微的主动权。例如1. d4之后，黑方便不能随意应以1... e5。若黑方能够消除这点主动权，通常就称为“取得均势”，不过这里的“均势”只是一种相对的说法。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-265"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "left",
+    "kind": "body",
+    "text": "It happens that an opening develops symmetrically. ． This is observed sometimes in the Four Knights Opening, in the exchange variation of the French Defence, in the Italian Game and even in the Queen's Gambit. More often than not, White succeeds in obtaining a small initiative in symmetrical systems, once again thanks to having the first move.",
+    "chapter": 7,
+    "segment_id": "CH7-266",
+    "zh": "有些开局会形成对称局面，例如四马开局、法兰西防御兑换变例、意大利开局，甚至后翼弃兵。在对称体系中，白方也往往能凭借先行之利争取到轻微的主动权。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-266"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "right",
+    "kind": "body",
+    "text": "Seizing the initiative is a definite creative achievement. The extent of this advantage depends on the character and strength of the initiative.",
+    "chapter": 7,
+    "segment_id": "CH7-267",
+    "zh": "夺取主动权是棋艺创造的一项成果。这种优势有多大，取决于主动权的性质和强度。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-267"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "right",
+    "kind": "body",
+    "text": "Without mentioning the purely chess advantages of holding the initiative, one can boldly maintain that it evokes creative enthusiasm, stimulates an increase in work-rate of thought and imagination, promotes confidence in one's own strength. On the other hand, the need to parry the opponent's initiative quite often has a disastrous psychological influence, having a negative effect on the quality of play, on thes steadfastness of defence, and at times leads to demoralisation. It is no coincidence that a sizeable proportion of mistakes and oversights fall to the lot of chessplayers who come under the influence of the opponent's initiative in a game.",
+    "chapter": 7,
+    "segment_id": "CH7-268",
+    "zh": "掌握主动权的好处并不限于棋盘本身。它还能激发构思的热情，促使思考和想象更加活跃，增强自信。反过来，不断应付对手威胁，往往会造成沉重的心理压力，损害行棋质量和防守的韧性，甚至令人丧失斗志。实战中，相当多的错误和漏算发生在受对手压制的一方身上，这并非偶然。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-268"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "right",
+    "kind": "body",
+    "text": "The following two games might serve as a good illustration of this statement.",
+    "chapter": 7,
+    "segment_id": "CH7-269",
+    "zh": "下面的两场对局或许可以很好地说明这一点。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-269"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "right",
+    "kind": "heading",
+    "text": "Sicilian Defence",
+    "chapter": 7,
+    "segment_id": "CH7-270",
+    "zh": "西西里防御",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-270"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "right",
+    "kind": "metadata",
+    "text": "White: A.Khasin",
+    "chapter": 7,
+    "segment_id": "CH7-271",
+    "zh": "白方：A.哈辛",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-271"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "right",
+    "kind": "metadata",
+    "text": "Black: I.Boleslavsky",
+    "chapter": 7,
+    "segment_id": "CH7-272",
+    "zh": "黑方：I.博列斯拉夫斯基",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-272"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "right",
+    "kind": "metadata",
+    "text": "(23rd USSR Championship 1956)",
+    "chapter": 7,
+    "segment_id": "CH7-273",
+    "zh": "（1956年第23届苏联锦标赛）",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-273"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "right",
+    "kind": "moves",
+    "text": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6",
+    "chapter": 7,
+    "page_end": 211,
+    "segment_id": "CH7-274",
+    "zh": "**1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-274"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "right",
+    "kind": "body",
+    "text": "A small initiative is in White's hands. If 6... g6, then he carries out the advance e5 after 7. Nxc6 bxc6, and 8... dxe5 is not possible in view of 9. Bxf7+.",
+    "chapter": 7,
+    "segment_id": "CH7-275",
+    "zh": "白方掌握轻微的主动权。若6... g6，则7. Nxc6 bxc6 8. e5，而8... dxe5不行，因为9. Bxf7+。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-275"
+    ]
+  },
+  {
+    "page": 211,
+    "side": "right",
+    "kind": "moves",
+    "text": "7. O-O Be7 8. Be3 O-O 9. Qe2",
+    "chapter": 7,
+    "segment_id": "CH7-276",
+    "zh": "**7. O-O Be7 8. Be3 O-O 9. Qe2**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-276"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "left",
+    "kind": "body",
+    "text": "White is better developed and frees a square in the centre for the rook, from where, vis-a-vis the enemy queen, it will handily support the pressure in the centre. This reasonable idea makes it very difficult for the opponent to solve the problem of liquidation in the opening and, when the opportunity presents itself, also to take over the initiative.",
+    "chapter": 7,
+    "segment_id": "CH7-277",
+    "zh": "白方出子领先，并为车腾出中心格，让车与黑后相对，支援中心施压。这一合理构想，使黑方难以顺利解决开局问题，更难在适当时机反夺主动权。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-277"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "left",
+    "kind": "moves",
+    "text": "9... a6 10. Rad1",
+    "chapter": 7,
+    "segment_id": "CH7-278",
+    "zh": "**9... a6 10. Rad1**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-278"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "left",
+    "kind": "body",
+    "text": "With the threat of Nxc6 followed by e5.",
+    "chapter": 7,
+    "segment_id": "CH7-279",
+    "zh": "威胁Nxc6后冲起e5。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-279"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "left",
+    "kind": "moves",
+    "text": "10... Qc7 11. Bb3",
+    "chapter": 7,
+    "segment_id": "CH7-280",
+    "zh": "**10... Qc7 11. Bb3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-280"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "left",
+    "kind": "body",
+    "text": "11. a4 was useful here.",
+    "chapter": 7,
+    "segment_id": "CH7-281",
+    "zh": "这里11. a4很有用。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-281"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "left",
+    "kind": "moves",
+    "text": "11... b5 12. a3",
+    "chapter": 7,
+    "segment_id": "CH7-282",
+    "zh": "**11... b5 12. a3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-282"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "left",
+    "kind": "body",
+    "text": "An indifferent move! White prevents ... b4 with an attack on the knight defending the e4 pawn. This pawn is in fact a support to White's initiative, t therefore he should simply reinforce it with the move 12. f3.",
+    "chapter": 7,
+    "segment_id": "CH7-283",
+    "zh": "这步不够积极。白方想阻止... b4攻击保护e4兵的马。e4兵确实是白方主动权的支柱，因此直接走12. f3巩固它即可。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-283"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "left",
+    "kind": "moves",
+    "text": "12... Na5 13. f4",
+    "chapter": 7,
+    "segment_id": "CH7-284",
+    "zh": "**12... Na5 13. f4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-284"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "left",
+    "kind": "body",
+    "text": "Boldly and interestingly played. Admittedly, Boleslavsky himself noted \"A risky move! White essentially weakens the e4 square, on the capture of which Black henceforth builds his game. More careful was 13. f3, refraining from the struggle for the initiative, but retaining a solid position.\" And yet in the struggle for the initiative it is sometimes worth taking risks, particularly if it is taken into account that refusing such a struggle represents a surrender not only of a chess, but also a psychological position.",
+    "chapter": 7,
+    "page_end": 212,
+    "segment_id": "CH7-285",
+    "zh": "大胆而有趣。博列斯拉夫斯基却评道：“这步有风险！白方明显削弱了e4，黑方接下来便以占领这个格为目标。13. f3更谨慎，虽然放弃争夺主动权，却能保持稳固的局面。”然而，为争取主动权而冒一定风险，有时是值得的；放弃争夺，不仅意味着棋盘上的退让，也可能意味着心理上的退让。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-285"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "right",
+    "kind": "moves",
+    "text": "13... Bb7 14. Bf2 Nxb3 15. cxb3 Rac8 16. Rd3",
+    "chapter": 7,
+    "page_end": 212,
+    "segment_id": "CH7-286",
+    "zh": "**13... Bb7 14. Bf2 Nxb3 15. cxb3 Rac8 16. Rd3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-286"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "right",
+    "kind": "body",
+    "text": "The bold 16. g4 looks like the consistent continuation, so as on 16... Qd7 to reply 17. g5. Best, on Black's part, is 16... d5 17. e5 Ne4 18. Nxe4 dxe4. After 19. Be3 a sharp position is created and it is difficult to say who would finally get the upper hand in the contest for the initiative.",
+    "chapter": 7,
+    "segment_id": "CH7-287",
+    "zh": "大胆的16. g4更能贯彻原来的构想，准备在16... Qd7后走17. g5。黑方最好应以16... d5 17. e5 Ne4 18. Nxe4 dxe4。19. Be3后局面尖锐，最终谁能掌握主动权，很难判断。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-287"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "right",
+    "kind": "moves",
+    "text": "16... Qd7",
+    "chapter": 7,
+    "segment_id": "CH7-288",
+    "zh": "**16... Qd7**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-288"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "right",
+    "kind": "body",
+    "text": "This outwardly unobtrusive queen creates the manoeuvre threat of sacrificing the exchange . Rxc3. Khasin does not notice the threat or considers it to be not dangerous.",
+    "chapter": 7,
+    "page_end": 212,
+    "segment_id": "CH7-289–290",
+    "zh": "这次看似不起眼的运后，制造了弃半子的威胁：... Rxc3。哈辛或是没有看见，或是认为不足为患。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-289",
+      "CH7-290"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "right",
+    "kind": "moves",
+    "text": "17. Rh3?",
+    "chapter": 7,
+    "segment_id": "CH7-291",
+    "zh": "**17. Rh3?**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-291"
+    ]
+  },
+  {
+    "page": 212,
+    "side": "right",
+    "kind": "body",
+    "text": "A mistake, which allows Black to take over the initiative. Meanwhile White could fight for this, by continuing 17. e5 Nd5 18. Nxd5 Bxd5 19. Nf5!, and White, in his turn, threatens the sacrifice 20 Rxd5 exd5 21. Qg4 and wins. The best defence for Black is 19... exf5 20. Rxd5 Qe6! and, if 21. Rfd1, then 21... f6 with equilibrium.",
+    "chapter": 7,
+    "segment_id": "CH7-292–296",
+    "zh": "这是一个错误，让黑方夺走了主动权。白方本可继续争夺：17. e5 Nd5 18. Nxd5 Bxd5 19. Nf5!，反过来威胁20. Rxd5 exd5 21. Qg4，白方获胜。黑方最好的防守是19... exf5 20. Rxd5 Qe6!；若21. Rfd1，则21... f6，局面均衡。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-292",
+      "CH7-293",
+      "CH7-294",
+      "CH7-295",
+      "CH7-296"
+    ],
+    "page_end": 212
+  },
+  {
+    "page": 212,
+    "side": "right",
+    "kind": "body",
+    "text": "It is difficult for White to exploit the more active position of his pieces in the centre, while Black manages to rid himself of the weakness on d6.",
+    "chapter": 7,
+    "page_end": 213,
+    "segment_id": "CH7-297",
+    "zh": "白方难以利用中心子力更加活跃的优势，黑方则能消除d6的弱点。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-297"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "left",
+    "kind": "moves",
+    "text": "17... Rxc3",
+    "chapter": 7,
+    "segment_id": "CH7-298",
+    "zh": "**17... Rxc3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-298"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "left",
+    "kind": "body",
+    "text": "Black seizes the initiative at a comparatively cheap price. However, the most interesting thing g is that, strictly speaking, Black is forced to go in for this favourable operation for himself. White was threatening, after e5, to invade with the queen on h5, once again seizing the initiative and this time more firmly and dangerously.",
+    "chapter": 7,
+    "segment_id": "CH7-299",
+    "zh": "黑方以不大的代价夺取了主动权。更有意思的是，严格说来，他不得不采用这项对自己有利的手段：白方正威胁冲起e5后让后侵入h5，重新掌握更加稳固、更加危险的主动权。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-299"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "left",
+    "kind": "moves",
+    "text": "18. bxc3",
+    "chapter": 7,
+    "segment_id": "CH7-300",
+    "zh": "**18. bxc3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-300"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "left",
+    "kind": "body",
+    "text": "Also no better is 18. Rxc3, then 18... Nxe4 19. Rc2 Bd8! 20. Nf3 Nxf2 21. Qxf2 Bd5 followed by ... Qb7 and ... Bb6. 18... Nxe4 19. Be1 f5 20. Rd3 Bf6 21. Qa2 Rc8",
+    "chapter": 7,
+    "segment_id": "CH7-301–304",
+    "zh": "18. Rxc3也不能改善处境，因为18... Nxe4 19. Rc2 Bd8! 20. Nf3 Nxf2 21. Qxf2 Bd5，随后... Qb7和... Bb6。\n\n**18... Nxe4 19. Be1 f5 20. Rd3 Bf6 21. Qa2 Rc8**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-301",
+      "CH7-302",
+      "CH7-303",
+      "CH7-304"
+    ],
+    "page_end": 213
+  },
+  {
+    "page": 213,
+    "side": "left",
+    "kind": "body",
+    "text": "Black's pressure is increasing. Now he threatens 22... Nxc3 23. Bxc3 Rxc3. White cannot do anything, the opponent's powerfully placed knight in the centre paralyses all his activity.",
+    "chapter": 7,
+    "segment_id": "CH7-305",
+    "zh": "黑方压力持续增强，现在又威胁22... Nxc3 23. Bxc3 Rxc3。白方无计可施，黑方占据中心强点的马几乎瘫痪了他的全部行动。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-305"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "left",
+    "kind": "moves",
+    "text": "22. Kh1 h6 23. h3 Kh7 24. Kh2 g5 25. fxg5 Bxg5 26. Qe2 Bf6 27. g3 Ba8 28. Qh5 Rg8",
+    "chapter": 7,
+    "page_end": 213,
+    "segment_id": "CH7-306",
+    "zh": "**22. Kh1 h6 23. h3 Kh7 24. Kh2 g5 25. fxg5 Bxg5 26. Qe2 Bf6 27. g3 Ba8 28. Qh5 Rg8**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-306"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "left",
+    "kind": "body",
+    "text": "The White king falls under a very strong attack, and the g3 pawn cannot hold back Black's threatening onslaught.",
+    "chapter": 7,
+    "segment_id": "CH7-307",
+    "zh": "白王遭到猛烈进攻，g3兵挡不住黑方的攻势。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-307"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "left",
+    "kind": "moves",
+    "text": "29. Bd2 Nxd2",
+    "chapter": 7,
+    "segment_id": "CH7-308",
+    "zh": "**29. Bd2 Nxd2**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-308"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "left",
+    "kind": "body",
+    "text": "Black exchanges his powerful knight, but in return comes down with a crushing blow on the g3 point.",
+    "chapter": 7,
+    "segment_id": "CH7-309",
+    "zh": "黑方兑掉强有力的马，换来对g3的毁灭性打击。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-309"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "left",
+    "kind": "moves",
+    "text": "30. Rxd2 Be5 31. Rd3 Rg5",
+    "chapter": 7,
+    "segment_id": "CH7-310",
+    "zh": "**30. Rxd2 Be5 31. Rd3 Rg5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-310"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "body",
+    "text": "The most energetic continuation of the attack was, as indicated by Boleslavsky, 31... Qb7 and, if 32. Rg1 or Qe2, then 32... f4. Also an immediate 31... f4 wins quickly.",
+    "chapter": 7,
+    "segment_id": "CH7-311–313",
+    "zh": "博列斯拉夫斯基指出，最有力的进攻后续手段是31... Qb7；若32. Rg1或32. Qe2，则32... f4。立即走31... f4也能迅速获胜。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-311",
+      "CH7-312",
+      "CH7-313"
+    ],
+    "page_end": 213
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "moves",
+    "text": "32. Qe2 Qg7 33. Qe1",
+    "chapter": 7,
+    "segment_id": "CH7-314",
+    "zh": "**32. Qe2 Qg7 33. Qe1**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-314"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "body",
+    "text": "On 33. Nxe6 follows 33... Rxg3!",
+    "chapter": 7,
+    "segment_id": "CH7-315",
+    "zh": "若33. Nxe6，则33... Rxg3!",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-315"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "moves",
+    "text": "33... Qg6 34. Ne2 f4 35. Rdf3 fxg3+ 36. Nxg3 Bxf3 37. Rxf3 Rxg3",
+    "chapter": 7,
+    "page_end": 213,
+    "segment_id": "CH7-316–317",
+    "zh": "**33... Qg6 34. Ne2 f4 35. Rdf3 fxg3+ 36. Nxg3 Bxf3 37. Rxf3 Rxg3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-316",
+      "CH7-317"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "body",
+    "text": "Black forces a pawn ending with an extra pawn. This is the simplest way to the win. It was also possible to decide the game in the middle- game by 37... h5 38. h4 Rg4. 38. Rxg3 Qxg3+ 39. Qxg3 Bxg3+ 40. Kxg3 Kg6 41. Kf4 Kf6 42. Ke4 Kg5 43. c4 bxc4 44. b4 Kf6 0-1",
+    "chapter": 7,
+    "segment_id": "CH7-318–319",
+    "zh": "黑方强制转入多一兵的兵残局，这是最简单的取胜途径。也可以直接在中局决定胜负：37... h5 38. h4 Rg4。\n\n**38. Rxg3 Qxg3+ 39. Qxg3 Bxg3+ 40. Kxg3 Kg6 41. Kf4 Kf6 42. Ke4 Kg5 43. c4 bxc4 44. b4 Kf6 0-1**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-318",
+      "CH7-319"
+    ],
+    "page_end": 213
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "body",
+    "text": "Beginning with the 17th move, White was subjected to the will of the opponent.",
+    "chapter": 7,
+    "segment_id": "CH7-320",
+    "zh": "从第17步起，白方就一直受制于对手。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-320"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "heading",
+    "text": "Nimzo-Indian Defence",
+    "chapter": 7,
+    "segment_id": "CH7-321",
+    "zh": "尼姆佐-印度防御",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-321"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "metadata",
+    "text": "White: G.Stahlberg",
+    "chapter": 7,
+    "segment_id": "CH7-322",
+    "zh": "白方：G.斯塔尔贝里",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-322"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "metadata",
+    "text": "Black: A.Alekhine",
+    "chapter": 7,
+    "segment_id": "CH7-323",
+    "zh": "黑方：A.阿廖欣",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-323"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "metadata",
+    "text": "(3rd Olympiad 1930)",
+    "chapter": 7,
+    "segment_id": "CH7-324",
+    "zh": "（1930年第三届国际象棋奥林匹克团体赛）",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-324"
+    ]
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "moves",
+    "text": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4 Qb3",
+    "chapter": 7,
+    "segment_id": "CH7-325–326",
+    "zh": "**1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-325",
+      "CH7-326"
+    ],
+    "page_end": 213
+  },
+  {
+    "page": 213,
+    "side": "right",
+    "kind": "body",
+    "text": "Nowadays, in 80 cases out of 100, 4. e3 is played. This move can be looked at as the first link in a great plan. White reinforces the centre and speeds up the development of his king's flank; furthermore he endeavours to provoke the exchange ...1 Bxc3,taking the bishop with the pawn, and prepares a powerful pawn offensive in the centre.",
+    "chapter": 7,
+    "segment_id": "CH7-327",
+    "zh": "在本书写作的年代，约八成对局选择4. e3。这步可以看作整体计划的第一环：巩固中心，加快王翼出子，同时诱使黑方... Bxc3，再用兵吃回，为中心强大的兵的攻击作准备。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-327"
+    ]
+  },
+  {
+    "page": 214,
+    "side": "left",
+    "kind": "body",
+    "text": "A good example of the carrying out of such a plan is provided by the well-known game Botvinnik- Capablanca, f from 1the international grandmaster tournament in Holland 1938.",
+    "chapter": 7,
+    "segment_id": "CH7-328",
+    "zh": "1938年在荷兰国际大赛的鲍特维尼克对卡帕布兰卡一局，就是成功执行这一计划的著名范例。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-328"
+    ]
+  },
+  {
+    "page": 214,
+    "side": "left",
+    "kind": "body",
+    "text": "However, there is also a shady side to the e move 4. e3, which consists of the reduced activity of the queen's bishop. Of course we are talking about temporary, sometimes even momentary, constraint, but practice has shown that this circumstance might, to a certain extent, be exploited by Black and help him to set up a barrier on the way to the opponent's developing an initiative.",
+    "chapter": 7,
+    "segment_id": "CH7-329",
+    "zh": "不过，4. e3也会暂时限制白方黑格象的活动。这种限制有时转瞬即逝，但实战表明，黑方仍可能借此阻碍白方扩大主动权。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-329"
+    ]
+  },
+  {
+    "page": 214,
+    "side": "left",
+    "kind": "body",
+    "text": "At the time the present game was played, the move 4. e3 was rarely employed, while preference was given to 4. Qb3, 4. Qc2 and 4. Nf3. In our view, each of these moves contains the same hard core of initiative as does 4. e3.",
+    "chapter": 7,
+    "segment_id": "CH7-330",
+    "zh": "本局进行时，4. e3还很少采用，棋手更喜欢4. Qb3、4. Qc2和4. Nf3。在我们看来，这几步与4. e3一样，都包含积极争取主动权的内核。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-330"
+    ]
+  },
+  {
+    "page": 214,
+    "side": "left",
+    "kind": "moves",
+    "text": "4... c5 5. dxc5 Nc6 6. Nf3",
+    "chapter": 7,
+    "segment_id": "CH7-331",
+    "zh": "**4... c5 5. dxc5 Nc6 6. Nf3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-331"
+    ]
+  },
+  {
+    "page": 214,
+    "side": "left",
+    "kind": "body",
+    "text": "More enterprising is 6. Bg5 and, if 6... h6 (probably the best way of ridding himself of the pin), then 7. Bxf6 Qxf6 8. e3 O-O 9. Nf3. White's influence in the centre is stronger, he obtains the better development after Be2 and O-O, and has every chance of retaining the initiative.",
+    "chapter": 7,
+    "segment_id": "CH7-332",
+    "zh": "6. Bg5更积极。若6... h6——大概是摆脱牵制的最好办法——则7. Bxf6 Qxf6 8. e3 O-O 9. Nf3。白方对中心的控制更强，接着Be2和O-O便能取得出子优势，很有希望保持主动权。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-332"
+    ]
+  },
+  {
+    "page": 214,
+    "side": "left",
+    "kind": "moves",
+    "text": "6... Ne4 7. Bd2 Nxc5 8. Qc2 f5 9",
+    "chapter": 7,
+    "segment_id": "CH7-333",
+    "zh": "**6... Ne4 7. Bd2 Nxc5 8. Qc2 f5 9. a3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-333"
+    ]
+  },
+  {
+    "page": 214,
+    "side": "left",
+    "kind": "body",
+    "text": "White need not hurry with the unravelling of his cluster of pieces on the queen's flank. By continu- ing 9. g3 b6 10. Bg2 Bb7 11. O-O O-O 12. Rad1, he holds a small but clearly pronounced initiative. However, also after the particularly \"theoretical\" continuation chosen by Stahlberg, Black must work hard to fully overcome his Opening difficulties.",
+    "chapter": 7,
+    "segment_id": "CH7-334–336",
+    "zh": "白方不必急于疏解拥挤的后翼子力。可以接着9. g3 b6 10. Bg2 Bb7 11. O-O O-O，随后12. Rad1，保持轻微却明确的主动权。不过，即使采用斯塔尔贝里实战中这一更符合开局理论的后续手段，黑方也仍需努力，才能彻底解决开局困难。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-334",
+      "CH7-335",
+      "CH7-336"
+    ],
+    "page_end": 214
+  },
+  {
+    "page": 214,
+    "side": "right",
+    "kind": "moves",
+    "text": "9... Bxc3 10. Bxc3 O-O 11. b4",
+    "chapter": 7,
+    "page_end": 214,
+    "segment_id": "CH7-337",
+    "zh": "**9... Bxc3 10. Bxc3 O-O**\n\n**11. b4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-337"
+    ]
+  },
+  {
+    "page": 214,
+    "side": "right",
+    "kind": "body",
+    "text": "Of course, if White plays indifferently, Black quietly completes his development after ... b6 and Bb7 and enters into a full and equal struggle for the initiative.",
+    "chapter": 7,
+    "segment_id": "CH7-338",
+    "zh": "当然，若白方下得不够积极，黑方便可从容走... b6和... Bb7完成出子，再平等地争夺主动权。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-338"
+    ]
+  },
+  {
+    "page": 214,
+    "side": "right",
+    "kind": "body",
+    "text": "The move chosen by Stahlberg enjoys the reputation of being the most energetic, but even more decisive is 11. g4! Ne4 (11... fxg4 12. Rg1 gives White a strong at- tack) 12. gxf5 (12. Rg1 Nxc3 13. Qxc3 f4) 12... exf5 13. Rg1 Nxc3 14. Qxc3 Qf6 15. Qxf6 Rxf6 16 O-O-O and the initiative is clearly on White's side, thanks to his better development and pressure on the d-file.",
+    "chapter": 7,
+    "segment_id": "CH7-339–341",
+    "zh": "斯塔尔贝里选择的这步通常被认为最积极，但11. g4!更加果断。若11... Ne4（11... fxg4 12. Rg1可使白方获得强大的进攻）12. gxf5（12. Rg1 Nxc3 13. Qxc3 f4）12... exf5 13. Rg1 Nxc3 14. Qxc3 Qf6 15. Qxf6 Rxf6 16. O-O-O，白方凭借出子优势和d线上的压力，明显掌握主动权。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-339",
+      "CH7-340",
+      "CH7-341"
+    ],
+    "page_end": 214
+  },
+  {
+    "page": 214,
+    "side": "right",
+    "kind": "moves",
+    "text": "11... Ne4 12. e3",
+    "chapter": 7,
+    "segment_id": "CH7-342",
+    "zh": "**11... Ne4 12. e3**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-342"
+    ]
+  },
+  {
+    "page": 214,
+    "side": "right",
+    "kind": "body",
+    "text": "Perhaps the most \"harmless\" continuation, as commentators sometimes like to say.",
+    "chapter": 7,
+    "segment_id": "CH7-343",
+    "zh": "借用评注者常说的话，这也许是最“温和无害”的后续手段。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-343"
+    ]
+  },
+  {
+    "page": 214,
+    "side": "right",
+    "kind": "body",
+    "text": "If Stahlberg did not want to spend time on the move 12. Bb2, then 12. g3 offered more hopes of maintaining the initiative, and then roughly as in the note to the 9th move.",
+    "chapter": 7,
+    "page_end": 215,
+    "segment_id": "CH7-344",
+    "zh": "如果斯塔尔贝里不愿花一步走12. Bb2，那么12. g3更有希望保持主动权，接下来的思路大致与第9步注解相同。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-344"
+    ]
+  },
+  {
+    "page": 215,
+    "side": "left",
+    "kind": "body",
+    "text": "Stepanov-Romanovsky, Leningrad 1929, and also Botvinnik- Mysoedov, Leningrad 1931, saw 12. Bb2 and, on 12... b6, tested the sharp move 13. g4. In both cases Black replied 13... Nxf2!, taking over the initiative and obtaining a counterattack. The first of the two games finished surprisingly quickly: 14. Kxf2 fxg4 15. Rg1 Qh4+ 16. Ke3 Qh6+ 17. Kd3 gxf3 (Mysoedov played 17... d5) 18 Rxg7+ Qxg7 19. Bxg7 Kxg7 20 gxf3 (correct was a preliminary 20 Qb2+) 20... Rxf3+ 21. Ke4 d5+",
+    "chapter": 7,
+    "segment_id": "CH7-345–350",
+    "zh": "1929年在列宁格勒的斯捷潘诺夫对罗曼诺夫斯基一局，以及1931年同在列宁格勒的鲍特维尼克对米亚索耶多夫一局，都走了12. Bb2，并在12... b6后尝试尖锐的13. g4。两局中黑方都以13... Nxf2!夺取主动权并组织反击。第一局结束得惊人地快：14. Kxf2 fxg4 15. Rg1 Qh4+ 16. Ke3 Qh6+ 17. Kd3 gxf3（米亚索耶多夫走的是17... d5）18. Rxg7+ Qxg7 19. Bxg7 Kxg7 20. exf3（正确的次序是先走20. Qb2+）20... Rxf3+ 21. Ke4 d5+，黑方获胜。\n\n〔校勘注：原书作20. gxf3，但白方g兵已在14... fxg4时被吃掉；此处据局面改为20. exf3。〕",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-345",
+      "CH7-346",
+      "CH7-347",
+      "CH7-348",
+      "CH7-349",
+      "CH7-350"
+    ],
+    "page_end": 215
+  },
+  {
+    "page": 215,
+    "side": "left",
+    "kind": "body",
+    "text": "Of course White is not forced to break open the position by 13. g4, and he might play g3, obtaining a good game.",
+    "chapter": 7,
+    "segment_id": "CH7-351",
+    "zh": "当然，白方不必用13. g4强行打开局面。走g3也能获得良好局面。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-351"
+    ]
+  },
+  {
+    "page": 215,
+    "side": "left",
+    "kind": "moves",
+    "text": "12... b6 13. Bd3 Nxc3 14. Qxc3 Bb7 15. O-O Ne7 16. Be2",
+    "chapter": 7,
+    "page_end": 215,
+    "segment_id": "CH7-352",
+    "zh": "**12... b6 13. Bd3 Nxc3 14. Qxc3 Bb7 15. O-O Ne7 16. Be2**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-352"
+    ]
+  },
+  {
+    "page": 215,
+    "side": "left",
+    "kind": "body",
+    "text": "Returning with the bishop does not justify itself, since nothing comes out of White's contemplated play on the d-file. A dynamic continuation would be 16 Nd4 and, if 16... f4, then 17. e4. On 16... Qe8 he can occupy himself with the transfer Be2-f3, at the same time e maintaining the pressure on the d-file.",
+    "chapter": 7,
+    "segment_id": "CH7-353–355",
+    "zh": "退象缺乏依据，因为白方原想在d线上开展的行动并不能奏效。更积极的后续手段是16. Nd4；若16... f4，则17. e4。若16... Qe8，白方可以Be2-f3调象，同时保持d线上的压力。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-353",
+      "CH7-354",
+      "CH7-355"
+    ],
+    "page_end": 215
+  },
+  {
+    "page": 215,
+    "side": "left",
+    "kind": "moves",
+    "text": "16... Qe8 17. Rfd1 Rad8 18. a4",
+    "chapter": 7,
+    "segment_id": "CH7-356",
+    "zh": "**16... Qe8 17. Rfd1 Rad8 18. a4**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-356"
+    ]
+  },
+  {
+    "page": 215,
+    "side": "left",
+    "kind": "body",
+    "text": "The further course of the game shows that Stahlberg is too optim istic in weighing up his possibilities - he underestimates his opponent's chances on the king's flank and overestimates his own on the queen's. This is a result of an insufficiently concrete approach and a lack of objectivity.",
+    "chapter": 7,
+    "segment_id": "CH7-357–358",
+    "zh": "后续实战表明，斯塔尔贝里对自己的机会估计得过于乐观：他低估了黑方在王翼的机会，又高估了自己在后翼的机会。这源于对局面缺乏具体、客观的分析。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-357",
+      "CH7-358"
+    ],
+    "page_end": 215
+  },
+  {
+    "page": 215,
+    "side": "right",
+    "kind": "body",
+    "text": "It would have been useful to render harmless Black's militant bishop by means of 18. Ne5 or Nd4 followed by Bf3. On 18. Nd4, hardly favourable is 18... e5 in view of 19. Nb5 and, if 19... Qg6, then 20. f3.",
+    "chapter": 7,
+    "segment_id": "CH7-359–361",
+    "zh": "白方宜走18. Ne5或18. Nd4，随后Bf3，消除黑方进攻象的威力。若18. Nd4，黑方以18... e5应对并不有利，因为19. Nb5；若19... Qg6，则20. f3。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-359",
+      "CH7-360",
+      "CH7-361"
+    ],
+    "page_end": 215
+  },
+  {
+    "page": 215,
+    "side": "right",
+    "kind": "moves",
+    "text": "18... f4!",
+    "chapter": 7,
+    "segment_id": "CH7-362",
+    "zh": "**18... f4!**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-362"
+    ]
+  },
+  {
+    "page": 215,
+    "side": "right",
+    "kind": "body",
+    "text": "A far-sighted attempt to take over the initiative! It does not look so terrible and it is possible that Stahlberg attached no importance to this move or even did not foresee it. In the next segment of the game, a struggle for the initiative takes place. On the result of this, the struggle also depends, and the balance will be tilted to someone's advantage.",
+    "chapter": 7,
+    "segment_id": "CH7-363",
+    "zh": "这是一次有远见的夺取主动权的尝试。表面上并不吓人，斯塔尔贝里可能没有重视，甚至根本未曾料到。接下来，双方将围绕主动权展开争夺，其结果也将决定局面向哪一方倾斜。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-363"
+    ]
+  },
+  {
+    "page": 215,
+    "side": "right",
+    "kind": "moves",
+    "text": "19. a5 fxe3 20. Qxe3 Nf5 21. Qc3 d6 22. axb6 axb6 23. Ne1?",
+    "chapter": 7,
+    "page_end": 215,
+    "segment_id": "CH7-364",
+    "zh": "**19. a5 fxe3 20. Qxe3 Nf5 21. Qc3 d6 22. axb6 axb6 23. Ne1?**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-364"
+    ]
+  },
+  {
+    "page": 215,
+    "side": "right",
+    "kind": "body",
+    "text": "Very weak. After 23. Ra7 Rd7 24. Rda1 the struggle would be in full swing, whereas now it ends ignominiously for White.",
+    "chapter": 7,
+    "page_end": 216,
+    "segment_id": "CH7-365",
+    "zh": "一步软着。23. Ra7 Rd7 24. Rda1之后仍有充分的战斗余地，实战却使白方迅速陷入败局。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-365"
+    ]
+  },
+  {
+    "page": 216,
+    "side": "left",
+    "kind": "moves",
+    "text": "23... e5 24. Ra7?",
+    "chapter": 7,
+    "segment_id": "CH7-366",
+    "zh": "**23... e5 24. Ra7?**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-366"
+    ]
+  },
+  {
+    "page": 216,
+    "side": "left",
+    "kind": "body",
+    "text": "Another poor move, but if 24 Bf3 then 24... Nd4!. All the same, White already does not have a fully satisfactory continuation, but he could look for resources to put up resistance by playing 24 Bf1, 24. Qh3 or 24. Ra2. 24... Nd4 25. Qe3 Rd7",
+    "chapter": 7,
+    "segment_id": "CH7-367–370",
+    "zh": "又是一步差棋。不过，若24. Bf3，则24... Nd4!。白方虽然已没有完全满意的后续手段，仍可用24. Bf1、24. Qh3或24. Ra2寻求抵抗。\n\n**24... Nd4 25. Qe3 Rd7**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-367",
+      "CH7-368",
+      "CH7-369",
+      "CH7-370"
+    ],
+    "page_end": 216
+  },
+  {
+    "page": 216,
+    "side": "left",
+    "kind": "body",
+    "text": "With the threat ... Nxe2+ and then ... Bf3.",
+    "chapter": 7,
+    "segment_id": "CH7-371",
+    "zh": "威胁... Nxe2+然后... Bf3。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-371"
+    ]
+  },
+  {
+    "page": 216,
+    "side": "left",
+    "kind": "moves",
+    "text": "26. Ra2 Rdf7 27. f3 Rf4 28. Bd3 Qh5 29. Bf1 Qg5",
+    "chapter": 7,
+    "page_end": 216,
+    "segment_id": "CH7-372",
+    "zh": "**26. Ra2 Rdf7 27. f3 Rf4 28. Bd3 Qh5 29. Bf1 Qg5**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-372"
+    ]
+  },
+  {
+    "page": 216,
+    "side": "left",
+    "kind": "body",
+    "text": "Threat after threat (now Rxf3) begins to appear; all Black's forces come down harmoniously on the f3 point, the fall of which must prove an immediate catastrophe.",
+    "chapter": 7,
+    "segment_id": "CH7-373",
+    "zh": "黑方接连制造威胁，现在又有... Rxf3。全部黑子协调地集中攻击f3，一旦突破，白方就会立即崩溃。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-373"
+    ]
+  },
+  {
+    "page": 216,
+    "side": "left",
+    "kind": "moves",
+    "text": "30. Rf2 h6!",
+    "chapter": 7,
+    "segment_id": "CH7-374",
+    "zh": "**30. Rf2 h6!**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-374"
+    ]
+  },
+  {
+    "page": 216,
+    "side": "left",
+    "kind": "body",
+    "text": "Renewing the threat of 31... Rxf3 32. Qxg5 Rxf2. 31. Kh1",
+    "chapter": 7,
+    "segment_id": "CH7-375–376",
+    "zh": "再次威胁31... Rxf3 32. Qxg5 Rxf2。\n\n**31. Kh1**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-375",
+      "CH7-376"
+    ],
+    "page_end": 216
+  },
+  {
+    "page": 216,
+    "side": "left",
+    "kind": "body",
+    "text": "Losing at once. On 31. Qd2, which in Alekhine's opinion was the best defence, he intended the decisive continuation 31... Bxf3 32. Nxf3 Nxf3+ 33. Rxf3 Rxf3 34. Qxg5 Rxf1+ 35. Rxf1 Rxf1+ 36. Kxf1 hxg5 37. Ke2 Kf7 38. Kf3 Ke6 39. Ke4 b5!. 31... Rxf3 0-1",
+    "chapter": 7,
+    "segment_id": "CH7-377–378",
+    "zh": "这步立即招致败局。阿廖欣认为31. Qd2是最好的防守，并准备以决定性的后续手段31... Bxf3 32. Nxf3 Nxf3+ 33. Rxf3 Rxf3 34. Qxg5 Rxf1+ 35. Rxf1 Rxf1+ 36. Kxf1 hxg5 37. Ke2 Kf7 38. Kf3 Ke6 39. Ke4 b5!应对。\n\n**31... Rxf3 0-1**",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-377",
+      "CH7-378"
+    ],
+    "page_end": 216
+  },
+  {
+    "page": 216,
+    "side": "left",
+    "kind": "body",
+    "text": "An interesting game in which the role of the initiative was expressed very boldly. For the first ten moves, White held quite firmly a small opening initiative. It waned after 12. e3, and finally ran dry after 16. Be2. From this moment Black directed the struggle towards a capture of the initiative. He succeeded in accomplishing this as a result of White's mistake on the 23rd move.",
+    "chapter": 7,
+    "page_end": 216,
+    "segment_id": "CH7-379",
+    "zh": "这盘有趣的对局鲜明地展示了主动权的作用。前十步，白方稳固地保持着轻微的开局主动权；12. e3之后开始减弱，16. Be2之后终于消失。从此黑方力争夺取主动权，并借助白方第23步的失误达成了这一目标。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-379"
+    ]
+  },
+  {
+    "page": 216,
+    "side": "right",
+    "kind": "body",
+    "text": "Black's initiative increased to a \"crescendo\" and quickly reached the force of a decisive attack, which already after eight moves achieved its objective. Mention should be made of the exceptional harmony yin the final attacking operation of all Black's pieces.",
+    "chapter": 7,
+    "segment_id": "CH7-380",
+    "zh": "黑方的主动权不断增强，很快形成决定性的进攻，八步之后便取得胜利。尤其值得注意的是，最后的进攻中，黑方全部子力配合得极为协调。",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-380"
+    ]
+  },
+  {
+    "page": 216,
+    "side": "right",
+    "kind": "body",
+    "text": "The initiative - this is a symbol of creative life in chess. The initiative - is an enemy of passivity and inactivity, waiting manoeuvring and complacent contemplation. This is why, in each period of the chess struggle, defending Or attacking, parrying or delivering blows, in moments of difficult trials and triumphant ideas, we ought to remember that the unfailing slogan, always and everywhere accompanying our inspired and creative thoughts, must be the slogan: \"The desire for the initiative!\".",
+    "chapter": 7,
+    "segment_id": "CH7-381",
+    "zh": "主动权象征着国际象棋创造的活力，与消极被动、无所作为、等待调动和自满观望格格不入。因此，在斗争的每个阶段，无论防守还是进攻，无论化解威胁还是实施打击，无论经受考验还是实现构想，都应让同一个信念贯穿我们的思考：“力争主动权！”",
+    "review_status": "illustrated_review_2026-09-28",
+    "source_ids": [
+      "CH7-381"
+    ]
+  }
+]

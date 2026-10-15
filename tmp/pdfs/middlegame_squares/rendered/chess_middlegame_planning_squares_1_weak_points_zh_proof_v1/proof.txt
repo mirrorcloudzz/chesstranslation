@@ -1,0 +1,190 @@
+                      《国际象棋中局计划》
+                          B：格子 - 1：弱点
+
+                         英文 OCR 校正稿 + 中文翻译校对稿
+
+
+
+      文档性质          初译校对稿，非最终出版版本
+
+
+      内容范围          原书印刷页 36-38
+
+
+      棋谱规范          中文译文采用现代 SAN；黑方单独着法使用省略号；结果使用 1-0 / 0-1
+
+
+      术语延续          tempo 译为“先手”；动象 / 动后 / 动马 / 动车；material 按棋理语境译为“子
+                    力”
+
+
+      版本日期          2026-09-24
+
+
+
+
+重点核对 weak point 与 weak square 的概念区分、两个例局片段及棋手译名。
+
+
+
+
+                                       1
+  《国际象棋中局计划》｜格子 - 弱点｜校对稿
+
+
+
+
+B：格子 - 1：弱点
+                        经校正的英文 OCR                                                                  中文译文
+
+WP-1                                                                           WP-1
+In the process of a chess game, weak and strong points are often               在一盘棋的进程中，双方的局面里经常会形成弱点和强点。所谓强
+formed in the positions of both opponents. A strong point is a square
+                                                                               点，是指某枚棋子能够牢固占据、很难被赶走或兑掉的格子。一方
+where one of the pieces establishes itself so firmly that it is difficult to
+drive it away or exchange it. A strong square for one side will, of            的强格，自然也就是另一方的弱格。
+course, be weak for the other.
+                                                                               下面用一个例子说明。
+We illustrate this statement with an example.
+
+The d5 square is a strong point for White and a weak one for Black.            d5格是白方的强点，也是黑方的弱点。占据此处的白马无法被赶走
+The White knight established there cannot be driven off or exchanged           ，也无法由等值子力兑掉；这匹马控制着黑方阵地内的许多格子，
+by a piece of equal value, and its activity, extending to many squares in      严重限制了黑方的行动。以这匹马为支撑，白方更容易向黑王发动
+Black's camp, severely cramps him. With support from this knight it is         进攻。事实上，产生这一局面的对局——斯梅斯洛夫对鲁达科夫斯
+easier for White to carry out an attack on the enemy king's position. In
+                                                                               基（1945年第14届苏联锦标赛）——很快便以黑方告负结束：
+fact, the game from which this position is taken
+(Smyslov-Rudakovsky, 14th USSR Championship, 1945) ended in a
+quick defeat for Black:                                                        18. c3 b5 19. b3 Qc5+ 20. Kh1 Rc8 21. Rf3 Kh8
+                                                                               22. f6! gxf6 23. Qh4 Rg8 24. Nxf6 Rg7 25. Rg3
+18. c3 b5 19. b3 Qc5+ 20. Kh1 Rc8 21. Rf3 Kh8 22. f6! gxf6 23. Qh4
+                                                                               Bxf6 26. Qxf6 Rg8 27. Rd1 d5 28. Rxg7 1-0
+Rg8 24. Nxf6 Rg7 25. Rg3 Bxf6 26. Qxf6 Rg8 27. Rd1 d5 28. Rxg7
+1-0
+                                                                               不难看出，黑方的主要困难在于：他无法在防守d5格的同时对其发
+It is not hard to see that Black's main trouble was the impossibility of       动攻击。正是这一点构成了黑方的弱点。
+defending the d5 square while at the same time attacking it. Precisely
+this circumstance was his weakness.
+
+
+WP-2                                                                           WP-2
+If, in the diagrammed position, the Black pawn were not on d6 but on           如果图示局面中的黑兵不在d6而在c7，同一个格子就不再是弱格，
+c7, that same point would cease to be weak, since Black could attack it
+                                                                               因为黑方可以走……c6攻击它，迫使白马后退。同样，如果黑方拥有
+by ...c6 and force the knight to retreat. The same would apply if Black
+had a light-squared bishop or a knight instead of a dark-squared bishop        的不是黑格象，而是白格象或一匹马，因而能够兑掉盘踞d5的白马
+and consequently could exchange the knight established on d5.                  ，情况也会如此。
+
+Thus the potential weakness of a square arises from the impossibility
+                                                                               因此，一个格子之所以具有潜在弱点，是因为本方无法用兵攻击它。
+of attacking it with pawns. Such a square, however, should be
+considered a real weakness only when an enemy piece threatens to               不过，只有当对方棋子可能占据该格，而且占据后无法被赶走或兑
+occupy it and cannot then be driven away or eliminated by exchange.            掉时，才应把这个格子视为真正的弱点。
+
+A weak square is at the same time a weak point, but the concept of a           弱格同时也是弱点，但“弱点”这一概念并不限于弱格。
+"weak point" applies not only to a weak square.
+
+A weak point may also be a pawn which is threatened with attack by             遭到对方子力攻击、又很难防守的兵，也可能成为弱点。
+enemy pieces and is very difficult to defend.
+
+
+                        经校正的英文 OCR                                                                  中文译文
+
+WP-3                                                                           WP-3
+In this position, depicting a moment from the game                             图示局面取自祖巴列夫对鲁宾斯坦一局（莫斯科，1925年）。白方
+Zubarev-Rubinstein (Moscow, 1925), the e2 square, occupied by a
+                                                                               的落后兵位于e2，因此e2点是一个弱点。e2兵受到三个子力攻击，
+backward White pawn, is a weak point. The e2-pawn is attacked by
+three pieces and defended by only two. It is important to mention that         却只有两个子力防守。还应注意，白方阵地中的e3点同样薄弱，这
+the e3 point in White's position is also weak, which makes the move e4         使得e4冲兵无法实现。若34. Ne4，黑方就走……f5；若34. g4
+impossible. On 34. Ne4 follows ...f5. After 34. g4 Qh4 35. Kg2 Re3!            Qh4 35. Kg2 Re3! 36. Rac1 f5 37. gxf5 gxf5，白方不
+36. Rac1 f5 37. gxf5 gxf5, White loses the f4-pawn and also comes
+                                                                               仅会丢掉f4兵，还将遭受无法抵挡的进攻。祖巴列夫选择立即放弃
+under an irresistible attack. Zubarev prefers to give up the e2-pawn at
+once, but this also does not save him from swift ruin:                         e2兵，但这也没能使他免于迅速溃败：
+
+
+
+
+                                                                                2
+ 《国际象棋中局计划》｜格子 - 弱点｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                               中文译文
+
+                                                                           34. Qd1 Rxe2 35. Rxe2 Qxe2 36. Qxa4 Re6 37. Rb1
+34. Qd1 Rxe2 35. Rxe2 Qxe2 36. Qxa4 Re6 37. Rb1 Qf3 38. Qd1 Re2            Qf3 38. Qd1 Re2 39. Qf1 c4 40. b4 cxd3 41. Rb3
+39. Qf1 c4 40. b4 cxd3 41. Rb3 Rxf2 0-1
+                                                                           Rxf2 0-1
+If on the 40th move he had played 40. dxc4, then of course 40... d3
+would have followed, with the irresistible threat ...Bd4.                  如果白方在第40回合走40. dxc4，当然会遇到40... d3，随后
+                                                                           ……Bd4的威胁无法抵挡。
+A weak point may also be a pawn which is not threatened for the time
+being, but which later may become an object of attack by the opponent.
+                                                                           有些兵眼下并未受到任何威胁，但以后可能成为对手的攻击目标，
+Thus, in the starting position, the f2 and f7 points are weaker than the   这样的兵也可能是弱点。
+others, since in a number of openings they systematically become
+objects of attack; at the same time these points cannot be regarded as     因此，在初始局面中，f2点和f7点比其他点薄弱，因为在许多开局里
+weak squares.
+                                                                           ，它们经常会成为攻击目标；不过，这两个点并不能因此被视为弱
+A weak square and a weak point will sometimes be temporary features,       格。
+since the majority of chess processes proceed dynamically and the
+conditions of the struggle are constantly changing.                        弱格和弱点有时只是暂时的局面特征，因为棋局中的大多数进程都
+                                                                           具有动态性，斗争条件也在不断变化。
+We now pass to an examination of planned processes connected with
+the struggle to create a weak square, occupy it, and realise the
+advantage arising from it.                                                 下面我们考察与弱格斗争有关的一系列计划性过程：制造弱格、占
+                                                                           据弱格，以及兑现由此产生的优势。
+
+
+
+
+                                                                            3
+《国际象棋中局计划》｜格子 - 弱点｜校对稿
+
+
+
+
+附录：原扫描页
+以下扫描页保留原书棋盘图、版面和旧式记谱，用于核对 OCR、棋谱与译文。相邻小节共用的边界页会在两份校样中重复收录。
+
+
+
+
+                            4
+《国际象棋中局计划》｜格子 - 弱点｜校对稿
+
+
+
+
+                         原书印刷页 36
+
+
+
+
+                            5
+《国际象棋中局计划》｜格子 - 弱点｜校对稿
+
+
+
+
+                         原书印刷页 37
+
+
+
+
+                            6
+《国际象棋中局计划》｜格子 - 弱点｜校对稿
+
+
+
+
+                         原书印刷页 38
+
+
+
+
+                            7
+

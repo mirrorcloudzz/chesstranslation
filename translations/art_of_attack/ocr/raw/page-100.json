@@ -1,0 +1,310 @@
+{
+  "pdf_page": 100,
+  "printed_page": 100,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        218.1,
+        123.5,
+        292.8,
+        169.7
+      ],
+      "text": "100",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        645.6,
+        124.7,
+        1150.4,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9799
+    },
+    {
+      "bbox": [
+        265.9,
+        275.7,
+        1215.3,
+        313.1
+      ],
+      "text": "9 0-0 xc3 10 Ωxc3 xc3 11 xc3 0-0 12 d5! Wxe5",
+      "confidence": 0.952
+    },
+    {
+      "bbox": [
+        262.2,
+        323.1,
+        1547.4,
+        369.3
+      ],
+      "text": "Black would also be in difficulties after 12...Wd8 13 Wh5 d6 14 f4 but there",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        219.3,
+        376.7,
+        1543.7,
+        419.2
+      ],
+      "text": "would at least be a hope of recovery then, whereas the course actually taken",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        218.1,
+        427.9,
+        705.7,
+        471.5
+      ],
+      "text": "holds no prospects whatever.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        262.2,
+        472.8,
+        673.8,
+        516.5
+      ],
+      "text": "13 e1 Wd6 14 Wh5 c6",
+      "confidence": 0.9732
+    },
+    {
+      "bbox": [
+        263.4,
+        523.9,
+        1546.1,
+        568.9
+      ],
+      "text": "White threatened 15 xc7 Wxc7 16 Wxf7+ xf7 17 e8#. Both 14...h6 15",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        218.1,
+        572.6,
+        1546.1,
+        621.2
+      ],
+      "text": "ad1! and 14...c6 15 e4! were bad for Black, while if 14...g6, then 15 Wh6",
+      "confidence": 0.9758
+    },
+    {
+      "bbox": [
+        220.5,
+        623.7,
+        869.9,
+        669.9
+      ],
+      "text": "c6 16 e4 with an irresistible attack.",
+      "confidence": 0.9713
+    },
+    {
+      "bbox": [
+        261.0,
+        669.9,
+        453.3,
+        726.0
+      ],
+      "text": "15 ②c7 g6",
+      "confidence": 0.9089
+    },
+    {
+      "bbox": [
+        262.2,
+        723.5,
+        1544.9,
+        774.7
+      ],
+      "text": "15...Wxc7 provokes a catastrophe on the focal-point f7, i.e. 16 Wxf7+ and 17",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        218.1,
+        775.9,
+        323.4,
+        819.6
+      ],
+      "text": "e8#.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        259.7,
+        819.6,
+        579.5,
+        875.7
+      ],
+      "text": "16 Wh6 Wxc7 (D)",
+      "confidence": 0.9379
+    },
+    {
+      "bbox": [
+        561.1,
+        1035.4,
+        590.5,
+        1062.9
+      ],
+      "text": "W",
+      "confidence": 0.9474
+    },
+    {
+      "bbox": [
+        261.0,
+        1531.9,
+        452.1,
+        1574.3
+      ],
+      "text": "17 xf7+!",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        257.3,
+        1580.6,
+        1540.0,
+        1635.4
+      ],
+      "text": "The assault on f7 is now carried out as effectively by the bishop as it was by",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        216.9,
+        1633.0,
+        764.5,
+        1680.4
+      ],
+      "text": "the queen in the variation above.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        262.2,
+        1685.3,
+        698.3,
+        1722.8
+      ],
+      "text": "17...xf7 18 Wxh7+ f6",
+      "confidence": 0.9615
+    },
+    {
+      "bbox": [
+        258.5,
+        1734.0,
+        1085.5,
+        1781.4
+      ],
+      "text": "The partnership finished off the game as follows:",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        257.3,
+        1778.9,
+        1543.7,
+        1831.3
+      ],
+      "text": "19 Wh4+ g7 20 e7+ f7 21 Wd4+ f8² 22 Wh8+ xe7 23 e1+ d6",
+      "confidence": 0.9617
+    },
+    {
+      "bbox": [
+        215.6,
+        1831.3,
+        379.8,
+        1877.5
+      ],
+      "text": "24 We5#.",
+      "confidence": 0.9405
+    },
+    {
+      "bbox": [
+        254.8,
+        1884.9,
+        1540.0,
+        1939.8
+      ],
+      "text": "Lasker came to grief in several games against Janowski through accepting",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        214.4,
+        1939.8,
+        1538.8,
+        1987.2
+      ],
+      "text": "sacrifices against his own principles. It is possible that Lasker was riled by the",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        214.4,
+        1988.5,
+        1542.5,
+        2035.9
+      ],
+      "text": "touch of impudence which can be seen in Janowski's moves and of which there",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        214.4,
+        2042.1,
+        939.7,
+        2080.8
+      ],
+      "text": "was even more in his behaviour as a whole.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        214.4,
+        2144.4,
+        238.9,
+        2176.9
+      ],
+      "text": "1",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        298.9,
+        2138.2,
+        1024.2,
+        2189.3
+      ],
+      "text": "19 We7+ f5 20 Wxf8+ mates more quickly.",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        213.2,
+        2194.3,
+        238.9,
+        2229.2
+      ],
+      "text": "2",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        296.5,
+        2188.1,
+        1406.5,
+        2240.5
+      ],
+      "text": "Or 21...g8 22 e8+ f8 23 xf8+ xf8 24 Wf6+ g8 25 e1, etc.",
+      "confidence": 0.9583
+    }
+  ]
+}

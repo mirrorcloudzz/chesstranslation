@@ -1,0 +1,400 @@
+{
+  "pdf_page": 101,
+  "printed_page": 101,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        779.2,
+        129.7,
+        1005.8,
+        175.9
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        1475.1,
+        127.2,
+        1544.9,
+        169.7
+      ],
+      "text": "101",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        224.2,
+        284.4,
+        764.5,
+        340.6
+      ],
+      "text": "Complex focal-points",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        223.0,
+        376.7,
+        1548.6,
+        419.2
+      ],
+      "text": "Just as a successful combination derives essentially from the multiple effects of",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        221.8,
+        424.1,
+        1548.6,
+        474.0
+      ],
+      "text": "single moves, so attacks on the castled king are also more likely to succeed if",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        221.8,
+        475.3,
+        1549.8,
+        523.9
+      ],
+      "text": "they are built up with the assistance of threats against a number of different",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        223.0,
+        525.2,
+        1548.6,
+        572.6
+      ],
+      "text": "squares. We shall find that in many attacks of this kind the attacker tries to corner",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        221.8,
+        575.1,
+        1546.1,
+        623.7
+      ],
+      "text": "the king by creating a second or even a third focal-point. There have already been",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        221.8,
+        626.2,
+        1548.6,
+        674.9
+      ],
+      "text": "cases of such complex focal-points in previous examples, but we shall now ex-",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        225.4,
+        682.4,
+        733.9,
+        719.8
+      ],
+      "text": "amine the matter more closely.",
+      "confidence": 0.9811
+    },
+    {
+      "bbox": [
+        268.3,
+        728.5,
+        1543.7,
+        772.2
+      ],
+      "text": "We have already mentioned the part piayed by secondary focal-points and by",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        223.0,
+        778.4,
+        1547.4,
+        823.3
+      ],
+      "text": "the combination of this kind of focal-point with a real one. However, here we will",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        223.0,
+        829.6,
+        1546.1,
+        873.2
+      ],
+      "text": "examine only the combining of two or more real focal-points, i.e. squares from",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        223.0,
+        878.2,
+        1544.9,
+        925.6
+      ],
+      "text": "which a player either actually mates or could do so in a variation. These real com--",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        225.4,
+        929.4,
+        1003.4,
+        975.5
+      ],
+      "text": "plex focal-points can be divided up as follows:",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        265.9,
+        979.3,
+        1526.5,
+        1025.4
+      ],
+      "text": "1) The focal-points are adjacent squares of different colours (e.g. g7 and h7).",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        263.4,
+        1029.2,
+        1522.9,
+        1076.6
+      ],
+      "text": "2) The focal-points are nearby squares of the same colour (e.g. h7 and f7).",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        268.3,
+        1084.1,
+        1546.1,
+        1125.2
+      ],
+      "text": "3) The focal-points are of the same colour and make up a whole complex or",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        223.0,
+        1131.5,
+        884.6,
+        1178.9
+      ],
+      "text": "network of squares (e.g. f6, g7 and h8).",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        267.1,
+        1185.1,
+        1544.9,
+        1226.3
+      ],
+      "text": "In general, one or more of the attacker's pieces control both focal-points,",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        226.7,
+        1233.8,
+        1546.1,
+        1273.7
+      ],
+      "text": "while the rest, in the course of the attack, transfer their influence from one focal-",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        224.2,
+        1283.7,
+        1547.4,
+        1328.6
+      ],
+      "text": "point to the other, preferably in the shortest time possible (i.e. one move). As far",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        225.4,
+        1336.1,
+        1546.1,
+        1373.5
+      ],
+      "text": "as simultaneous influence over two squares of different colours is concerned, for",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        223.0,
+        1383.5,
+        1548.6,
+        1430.9
+      ],
+      "text": "practical purposes only the queen comes into consideration, and in exceptional",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        225.4,
+        1437.1,
+        1547.4,
+        1478.3
+      ],
+      "text": "cases the rook; but if the focal-points are of the same colour, both the knight and,",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        221.8,
+        1487.0,
+        1546.1,
+        1529.4
+      ],
+      "text": "in particular, the bishop are effective. All the pieces are capable of transferring",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        224.2,
+        1538.1,
+        1548.6,
+        1579.3
+      ],
+      "text": "the attack from one focal-point to the other, though the bishop is unable to do this",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        223.0,
+        1588.0,
+        1547.4,
+        1629.2
+      ],
+      "text": "if the focal-points are of different colours. The bishop is, however, well suited to",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        221.8,
+        1634.2,
+        1548.6,
+        1682.9
+      ],
+      "text": "the case of focai-points of the same colour, while when the focal-points belong to",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        225.4,
+        1687.8,
+        1546.1,
+        1729.0
+      ],
+      "text": "the third group, it is indeed the classic piece by which the whole network is domi-",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        224.2,
+        1740.2,
+        327.1,
+        1778.9
+      ],
+      "text": "nated.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        269.5,
+        1788.9,
+        1547.4,
+        1831.3
+      ],
+      "text": "When play is based on focal-points of different colours, the attack may be",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        224.2,
+        1840.0,
+        1549.8,
+        1883.7
+      ],
+      "text": "switched rapidly from one of the squares to the other. However, the commoner",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        225.4,
+        1892.4,
+        1547.4,
+        1933.6
+      ],
+      "text": "and more important cases are those in which there are two separate stages, the at-",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        223.0,
+        1943.6,
+        1547.4,
+        1984.7
+      ],
+      "text": "tack on the first focal-point being exhausted before the player transfers it deci-",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        224.2,
+        1991.0,
+        1548.6,
+        2033.4
+      ],
+      "text": "sively to the second. This transfer is often combined with a transformation of the",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        223.0,
+        2040.9,
+        1449.3,
+        2088.3
+      ],
+      "text": "mating pattern. An example of this is given in the following diagram (D).",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        268.3,
+        2139.4,
+        1422.4,
+        2189.3
+      ],
+      "text": "White, to move, begins with a sharp threat against the focal-point g7.",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        268.3,
+        2190.6,
+        430.0,
+        2233.0
+      ],
+      "text": "1 f6 h8",
+      "confidence": 0.9799
+    }
+  ]
+}

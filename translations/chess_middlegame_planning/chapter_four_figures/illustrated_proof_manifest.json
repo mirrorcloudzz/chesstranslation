@@ -1,0 +1,298 @@
+[
+  {
+    "figure": 1,
+    "source_pdf_page": 102,
+    "source_print_page": 100,
+    "caption": "白方走完14. Ne5后的局面",
+    "marker": "14. Ne5",
+    "image": "page-102-diagram-1.png"
+  },
+  {
+    "figure": 2,
+    "source_pdf_page": 103,
+    "source_print_page": 101,
+    "caption": "白方走完12. Qf3后的局面",
+    "marker": "12. Qf3",
+    "image": "page-103-diagram-1.png"
+  },
+  {
+    "figure": 3,
+    "source_pdf_page": 105,
+    "source_print_page": 103,
+    "caption": "黑方走完18... Rac8后的局面",
+    "marker": "18. Qxc4 Rac8?",
+    "image": "page-105-diagram-1.png"
+  },
+  {
+    "figure": 4,
+    "source_pdf_page": 106,
+    "source_print_page": 104,
+    "caption": "白方走完20. Ng1后的局面",
+    "marker": "白方刚走完20. Ng1。",
+    "image": "page-106-diagram-1.png"
+  },
+  {
+    "figure": 5,
+    "source_pdf_page": 106,
+    "source_print_page": 104,
+    "caption": "米泽斯（白）对比耶卡尔（黑），白方走棋",
+    "marker": "在米泽斯对比耶卡尔一局中（奥斯坦德，1907年），出现了类似的局面。",
+    "image": "page-106-diagram-2.png"
+  },
+  {
+    "figure": 6,
+    "source_pdf_page": 108,
+    "source_print_page": 106,
+    "caption": "黑方走完6... Nc6后的局面",
+    "marker": "6... Nc6",
+    "image": "page-108-diagram-1.png"
+  },
+  {
+    "figure": 7,
+    "source_pdf_page": 108,
+    "source_print_page": 106,
+    "caption": "黑方走完21... Nb4后的局面",
+    "marker": "21. Nc3 Nb4",
+    "image": "page-108-diagram-2.png"
+  },
+  {
+    "figure": 8,
+    "source_pdf_page": 110,
+    "source_print_page": 108,
+    "caption": "黑方走完22... Rfc8后的局面",
+    "marker": "22... Rfc8",
+    "image": "page-110-diagram-1.png"
+  },
+  {
+    "figure": 9,
+    "source_pdf_page": 111,
+    "source_print_page": 109,
+    "caption": "黑方走完9... O-O后的局面",
+    "marker": "9... O-O?",
+    "image": "page-111-diagram-1.png"
+  },
+  {
+    "figure": 10,
+    "source_pdf_page": 112,
+    "source_print_page": 110,
+    "caption": "黑方走完20... Nxg7后的局面",
+    "marker": "20. Bxg7 Nxg7",
+    "image": "page-112-diagram-1.png"
+  },
+  {
+    "figure": 11,
+    "source_pdf_page": 114,
+    "source_print_page": 112,
+    "caption": "白方走完28. bxa4后的局面",
+    "marker": "28. bxa4",
+    "image": "page-114-diagram-1.png"
+  },
+  {
+    "figure": 12,
+    "source_pdf_page": 115,
+    "source_print_page": 113,
+    "caption": "白方走完6. fxe5后的局面",
+    "marker": "6. fxe5",
+    "image": "page-115-diagram-1.png"
+  },
+  {
+    "figure": 13,
+    "source_pdf_page": 117,
+    "source_print_page": 115,
+    "caption": "白方走完12. e4后的局面",
+    "marker": "12. e4",
+    "image": "page-117-diagram-1.png"
+  },
+  {
+    "figure": 14,
+    "source_pdf_page": 118,
+    "source_print_page": 116,
+    "caption": "黑方走完3... Nf6后的局面",
+    "marker": "3. Nc3 Nf6",
+    "image": "page-118-diagram-1.png"
+  },
+  {
+    "figure": 15,
+    "source_pdf_page": 121,
+    "source_print_page": 119,
+    "caption": "黑方走完6... d5后的局面",
+    "marker": "6. cxb5 d5",
+    "image": "page-121-diagram-1.png"
+  },
+  {
+    "figure": 16,
+    "source_pdf_page": 124,
+    "source_print_page": 122,
+    "caption": "白方走完6. Bg5后的局面",
+    "marker": "6. Bg5",
+    "image": "page-124-diagram-1.png"
+  },
+  {
+    "figure": 17,
+    "source_pdf_page": 125,
+    "source_print_page": 123,
+    "caption": "白方走完21. Rh6后的局面",
+    "marker": "21. Rh6",
+    "image": "page-125-diagram-1.png"
+  },
+  {
+    "figure": 18,
+    "source_pdf_page": 126,
+    "source_print_page": 124,
+    "caption": "白方走完13. exd4后的局面",
+    "marker": "13. exd4",
+    "image": "page-126-diagram-1.png"
+  },
+  {
+    "figure": 19,
+    "source_pdf_page": 127,
+    "source_print_page": 125,
+    "caption": "黑方走完18... Rc7后的局面",
+    "marker": "18... Rc7",
+    "image": "page-127-diagram-1.png"
+  },
+  {
+    "figure": 20,
+    "source_pdf_page": 128,
+    "source_print_page": 126,
+    "caption": "索科尔斯基（白）对鲍特维尼克（黑），白方走棋",
+    "marker": "下例是索科尔斯基对鲍特维尼克一局",
+    "image": "page-128-diagram-1.png"
+  },
+  {
+    "figure": 21,
+    "source_pdf_page": 128,
+    "source_print_page": 126,
+    "caption": "塔拉什（白）对齐果林（黑），白方走棋",
+    "marker": "图示局面出自1893年塔拉什对齐果林对抗赛第19局。",
+    "image": "page-128-diagram-2.png"
+  },
+  {
+    "figure": 22,
+    "source_pdf_page": 129,
+    "source_print_page": 127,
+    "caption": "拉文斯基（白）对罗曼诺夫斯基（黑），白方走棋",
+    "marker": "在拉文斯基对罗曼诺夫斯基一局中（列宁格勒，1926年）",
+    "image": "page-129-diagram-1.png"
+  },
+  {
+    "figure": 23,
+    "source_pdf_page": 130,
+    "source_print_page": 128,
+    "caption": "黑方走完31... e5后的局面",
+    "marker": "31... e5",
+    "image": "page-130-diagram-1.png"
+  },
+  {
+    "figure": 24,
+    "source_pdf_page": 130,
+    "source_print_page": 128,
+    "caption": "肖瓦尔特（白）对布莱克本（黑），白方走棋",
+    "marker": "肖瓦尔特对布莱克本一局（纽伦堡，1896年）",
+    "image": "page-130-diagram-2.png"
+  },
+  {
+    "figure": 25,
+    "source_pdf_page": 131,
+    "source_print_page": 129,
+    "caption": "黑方走完11... c5后的局面",
+    "marker": "11. O-O c5",
+    "image": "page-131-diagram-1.png"
+  },
+  {
+    "figure": 26,
+    "source_pdf_page": 132,
+    "source_print_page": 130,
+    "caption": "白方走完17. g4后的局面",
+    "marker": "17. g4",
+    "image": "page-132-diagram-1.png"
+  },
+  {
+    "figure": 27,
+    "source_pdf_page": 133,
+    "source_print_page": 131,
+    "caption": "白方走完11. Be3后的局面",
+    "marker": "11. Be3",
+    "image": "page-133-diagram-1.png"
+  },
+  {
+    "figure": 28,
+    "source_pdf_page": 134,
+    "source_print_page": 132,
+    "caption": "黑方走完24... Qc6后的局面",
+    "marker": "24. e3 Qc6",
+    "image": "page-134-diagram-1.png"
+  },
+  {
+    "figure": 29,
+    "source_pdf_page": 136,
+    "source_print_page": 134,
+    "caption": "白方走完12. Bf1后的局面",
+    "marker": "12. Bf1",
+    "image": "page-136-diagram-1.png"
+  },
+  {
+    "figure": 30,
+    "source_pdf_page": 137,
+    "source_print_page": 135,
+    "caption": "黑方走完26... c4后的局面",
+    "marker": "26... c4",
+    "image": "page-137-diagram-1.png"
+  },
+  {
+    "figure": 31,
+    "source_pdf_page": 138,
+    "source_print_page": 136,
+    "caption": "白方走完12. Be2后的局面",
+    "marker": "12. Be2",
+    "image": "page-138-diagram-1.png"
+  },
+  {
+    "figure": 32,
+    "source_pdf_page": 139,
+    "source_print_page": 137,
+    "caption": "黑方走完24... a5后的局面",
+    "marker": "24. Rd4 a5",
+    "image": "page-139-diagram-1.png"
+  },
+  {
+    "figure": 33,
+    "source_pdf_page": 140,
+    "source_print_page": 138,
+    "caption": "白方走完12. e4后的局面",
+    "marker": "12. e4",
+    "image": "page-140-diagram-1.png"
+  },
+  {
+    "figure": 34,
+    "source_pdf_page": 140,
+    "source_print_page": 138,
+    "caption": "黑方走完15... Rad8后的局面",
+    "marker": "15. Rad1 Rad8",
+    "image": "page-140-diagram-2.png"
+  },
+  {
+    "figure": 35,
+    "source_pdf_page": 141,
+    "source_print_page": 139,
+    "caption": "白方走完22. b4后的局面",
+    "marker": "22. b4?",
+    "image": "page-141-diagram-1.png"
+  },
+  {
+    "figure": 36,
+    "source_pdf_page": 142,
+    "source_print_page": 140,
+    "caption": "黑方走完10... exd5后的局面",
+    "marker": "10. cxd5 exd5",
+    "image": "page-142-diagram-1.png"
+  },
+  {
+    "figure": 37,
+    "source_pdf_page": 143,
+    "source_print_page": 141,
+    "caption": "白方走完21. e4后的局面",
+    "marker": "21. e4",
+    "image": "page-143-diagram-1.png"
+  }
+]

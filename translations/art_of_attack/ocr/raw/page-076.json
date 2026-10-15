@@ -1,0 +1,170 @@
+{
+  "pdf_page": 76,
+  "printed_page": 76,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        205.8,
+        117.3,
+        261.0,
+        163.4
+      ],
+      "text": "76",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        635.8,
+        121.0,
+        1140.6,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        542.7,
+        375.5,
+        567.2,
+        404.2
+      ],
+      "text": "B",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        762.0,
+        860.8,
+        997.3,
+        904.4
+      ],
+      "text": "Boden's Mate",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        245.0,
+        966.8,
+        1530.2,
+        1026.7
+      ],
+      "text": "This position is from the game Schulder-Boden, London 1853', in which the",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        202.1,
+        1021.7,
+        1529.0,
+        1076.6
+      ],
+      "text": "following mate with two bishops was recorded for the first time; it is not uncom-",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        198.5,
+        1071.6,
+        1351.3,
+        1126.5
+      ],
+      "text": "mon after castling queenside. Black plays: 1..Wxc3+! 2 bxc3 a3#.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        535.4,
+        1282.4,
+        569.7,
+        1313.6
+      ],
+      "text": "W",
+      "confidence": 0.94
+    },
+    {
+      "bbox": [
+        730.2,
+        1767.7,
+        1012.0,
+        1820.1
+      ],
+      "text": "Pillsbury'sMate",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        240.1,
+        1877.5,
+        1046.3,
+        1931.1
+      ],
+      "text": "1 xg7+ +h8 2 g8+! xg8 3 g1+ and mate.",
+      "confidence": 0.974
+    },
+    {
+      "bbox": [
+        237.7,
+        1929.9,
+        1522.9,
+        1988.5
+      ],
+      "text": "This is really a variation on Morphy's mate, contrived in such a way that it is",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        192.3,
+        1978.5,
+        1522.9,
+        2037.1
+      ],
+      "text": "the rook which mates and not the bishop, which is under attack from Black's",
+      "confidence": 0.9756
+    },
+    {
+      "bbox": [
+        191.1,
+        2033.4,
+        283.0,
+        2073.3
+      ],
+      "text": "rook.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        194.8,
+        2143.2,
+        215.6,
+        2166.9
+      ],
+      "text": "1",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        273.2,
+        2138.2,
+        1515.5,
+        2191.8
+      ],
+      "text": "In the original book this example was incorrectly given as Macdonell-Boden,",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        273.2,
+        2180.6,
+        948.3,
+        2239.2
+      ],
+      "text": "1869 and Black's rook on e8 was missing.",
+      "confidence": 0.9943
+    }
+  ]
+}

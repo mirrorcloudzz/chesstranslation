@@ -1,0 +1,290 @@
+{
+  "pdf_page": 55,
+  "printed_page": 55,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        372.4,
+        132.2,
+        1434.6,
+        178.4
+      ],
+      "text": "On castling and attacking the castled position in general",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        1499.6,
+        132.2,
+        1555.9,
+        177.1
+      ],
+      "text": "55",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        227.9,
+        279.4,
+        1555.9,
+        328.1
+      ],
+      "text": "particular situations when it is correct to postpone castling or when it is alto-",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        229.1,
+        326.8,
+        1559.6,
+        375.5
+      ],
+      "text": "gether unnecessary. To make the matter clearer, I shall set out some situations of",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        227.9,
+        379.2,
+        942.1,
+        425.4
+      ],
+      "text": "this kind and support them with examples:",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        274.4,
+        431.6,
+        1555.9,
+        476.5
+      ],
+      "text": "1) Castling is postponed or not carried out at all, because some other action is",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        230.3,
+        482.8,
+        1555.9,
+        527.7
+      ],
+      "text": "more useful. This might be quite simply the capture of an opponent's piece, the",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        231.6,
+        533.9,
+        1551.0,
+        575.1
+      ],
+      "text": "spoiling of his position, or, indeed, an attack. If such an attack is sufficiently",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        229.1,
+        582.6,
+        1555.9,
+        626.2
+      ],
+      "text": "strong and profitable, the attacker often never castles, because he is victorious",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        227.9,
+        632.5,
+        1183.5,
+        674.9
+      ],
+      "text": "first. This kind of situation needs no particular examples.",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        272.0,
+        681.1,
+        1555.9,
+        728.5
+      ],
+      "text": "2) Castling is postponed, because for the time being it is still dangerous. It is",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        230.3,
+        734.8,
+        1551.0,
+        779.7
+      ],
+      "text": "better to prepare it by removing the danger first, e.g. by exchanging the oppo-",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        227.9,
+        783.4,
+        1146.7,
+        830.8
+      ],
+      "text": "nent's threatening pieces or by some other manoeuvre.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        274.4,
+        882.0,
+        1554.7,
+        930.6
+      ],
+      "text": "As an example of the dangers of castling too early, let us take the following",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        230.3,
+        935.6,
+        737.5,
+        974.3
+      ],
+      "text": "variation of the Giuoco Piano.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        272.0,
+        981.8,
+        1438.3,
+        1024.2
+      ],
+      "text": "1 e4 e5 2 2f3 c6 3 皇c4 皇c5 4 d3 f6 5 鸟g5 h6 6 h4 d6 7 0-0?",
+      "confidence": 0.9388
+    },
+    {
+      "bbox": [
+        273.2,
+        1031.7,
+        1557.2,
+        1082.8
+      ],
+      "text": "At this point castling is premature and incorrect. There is a danger of Black's",
+      "confidence": 0.9829
+    },
+    {
+      "bbox": [
+        229.1,
+        1086.6,
+        1555.9,
+        1131.5
+      ],
+      "text": "replying ...g5 and following up with a pawn attack against White's castled posi-",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        229.1,
+        1137.7,
+        1554.7,
+        1178.9
+      ],
+      "text": "tion; this danger ought to be averted first. 7 c3 is a step in this direction; if",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        226.7,
+        1183.9,
+        1557.2,
+        1230.0
+      ],
+      "text": "Black continues with 7...0-0? 8 d5 g5, then White can reply 9 xg5! xd5 10",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        229.1,
+        1231.3,
+        1557.2,
+        1284.9
+      ],
+      "text": "Wh5 hxg5 11 &xg5 with an overwhelming attack. Moreover, if Black answers 7",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        227.9,
+        1283.7,
+        1554.7,
+        1336.1
+      ],
+      "text": "c3 with 7..g5 8 g3 and then ...&g4 or ..h5!?, the situation is less dangerous",
+      "confidence": 0.9618
+    },
+    {
+      "bbox": [
+        226.7,
+        1337.3,
+        1555.9,
+        1383.5
+      ],
+      "text": "because White has not yet castled and can therefore prepare to castle on the",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        229.1,
+        1387.2,
+        820.8,
+        1432.1
+      ],
+      "text": "queenside, which is not threatened.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        270.8,
+        1434.6,
+        834.3,
+        1484.5
+      ],
+      "text": "7...g5 8 g3 h5! 9 xg5 h4! (D)",
+      "confidence": 0.9778
+    },
+    {
+      "bbox": [
+        539.1,
+        1642.9,
+        570.9,
+        1676.6
+      ],
+      "text": "W",
+      "confidence": 0.9367
+    },
+    {
+      "bbox": [
+        270.8,
+        2143.2,
+        1554.7,
+        2191.8
+      ],
+      "text": "Black does not worry about the consequences of xf7 but continues his attack",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        226.7,
+        2196.8,
+        1553.5,
+        2243.0
+      ],
+      "text": "consistently. In fact, he gives up his queen for the bishop on g3; this would not be",
+      "confidence": 0.9943
+    }
+  ]
+}

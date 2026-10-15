@@ -1,0 +1,290 @@
+{
+  "pdf_page": 272,
+  "printed_page": 272,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "272",
+      "bbox": [
+        253.0,
+        119.0,
+        317.0,
+        150.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        681.0,
+        124.0,
+        1175.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then 18 axb7 Vxb7 19 Aa4 when White wins the exchange and gains space,",
+      "bbox": [
+        251.0,
+        266.0,
+        1570.0,
+        323.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "while if Black advances his b-pawn, then 18 dxc6 Vc8 represents a strengthen-",
+      "bbox": [
+        251.0,
+        320.0,
+        1569.0,
+        373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing of White's position, after which the conditions for accepting the sacrifice are",
+      "bbox": [
+        250.0,
+        370.0,
+        1569.0,
+        420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "extremely good) 18 axb7 Vxb7 19 dxc6 (if 19 Aa4 as mentioned by Tartakower",
+      "bbox": [
+        249.0,
+        419.0,
+        1570.0,
+        471.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in The Hypermodern Game, Black would reply 19...Qxe3 20 Xxe3 Ad7)",
+      "bbox": [
+        249.0,
+        469.0,
+        1568.0,
+        522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...Vc8 20 Q)d5! (a typical example of play on the principle that the most im-",
+      "bbox": [
+        252.0,
+        515.0,
+        1566.0,
+        570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "portant feature of the position, in this case White's pressure on the queenside,",
+      "bbox": [
+        247.0,
+        571.0,
+        1566.0,
+        622.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "takes priority; it should be observed that in pursuing this policy White must also",
+      "bbox": [
+        247.0,
+        621.0,
+        1566.0,
+        671.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "be prepared to lose the exchange) 20...Qxel (it might seem more consistent for",
+      "bbox": [
+        247.0,
+        671.0,
+        1567.0,
+        719.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black not to make this capture but to press on with his assault; in fact, the chief",
+      "bbox": [
+        246.0,
+        722.0,
+        1568.0,
+        770.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "attacking moves do not work, e.g. 20...h5 21 Qxf6+ and 22 Oxh5, 20...g4 21",
+      "bbox": [
+        245.0,
+        773.0,
+        1561.0,
+        826.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qxe7 •xe7 22 Qf5+ and White stands better and finally 20...hxd5 21 Axd5 af-",
+      "bbox": [
+        244.0,
+        817.0,
+        1562.0,
+        871.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ter which 21...Vc7, to prevent the advance of the c-pawn, is strongly answered",
+      "bbox": [
+        244.0,
+        870.0,
+        1563.0,
+        925.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by 22 b4) 21 Vxel Ae6 (Black must abandon his attack on the king and defend",
+      "bbox": [
+        243.0,
+        920.0,
+        1562.0,
+        975.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "himself in the centre and on the queenside; the decisive factor is that 21...g4 is",
+      "bbox": [
+        242.0,
+        973.0,
+        1562.0,
+        1027.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "useless because of 22 f4) 22 Va5 Axd5 23 Axd5 oxd5 24 Vxd5 Ve6 (other-",
+      "bbox": [
+        242.0,
+        1023.0,
+        1560.0,
+        1075.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "wise c 7!) 25 b4! and White has an overwhelming game.",
+      "bbox": [
+        241.0,
+        1074.0,
+        1169.0,
+        1122.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The chief feature of this line is the complete absence of direct defence. White",
+      "bbox": [
+        285.0,
+        1124.0,
+        1559.0,
+        1171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gives up the pawn on g2 and the exchange, which effectively blunts Black's at-",
+      "bbox": [
+        239.0,
+        1174.0,
+        1558.0,
+        1225.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack, while his excellently-founded action on the queenside gains in power with",
+      "bbox": [
+        239.0,
+        1224.0,
+        1558.0,
+        1278.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "every move.",
+      "bbox": [
+        238.0,
+        1283.0,
+        437.0,
+        1313.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17...Vxh3 (D)",
+      "bbox": [
+        285.0,
+        1321.0,
+        522.0,
+        1364.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18 Vd2?",
+      "bbox": [
+        274.0,
+        2028.0,
+        421.0,
+        2065.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After this excessively passive move Black has the better chances. In such posi-",
+      "bbox": [
+        271.0,
+        2084.0,
+        1545.0,
+        2141.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tions it is often important to oppose the attacker's queen with one's own — in this",
+      "bbox": [
+        225.0,
+        2133.0,
+        1545.0,
+        2184.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "case on fl. It was with this aim that Maroczy proposed 18 Xe2! g4 19 Vfl.",
+      "bbox": [
+        224.0,
+        2185.0,
+        1542.0,
+        2239.0
+      ],
+      "confidence": null
+    }
+  ]
+}

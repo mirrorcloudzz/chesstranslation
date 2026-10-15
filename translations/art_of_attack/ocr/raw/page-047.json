@@ -1,0 +1,190 @@
+{
+  "pdf_page": 47,
+  "printed_page": 47,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        401.8,
+        121.0,
+        1422.4,
+        167.2
+      ],
+      "text": "The attack on the king that has lost the right to castle",
+      "confidence": 0.9728
+    },
+    {
+      "bbox": [
+        1515.5,
+        123.5,
+        1567.0,
+        164.7
+      ],
+      "text": "47",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        552.5,
+        375.5,
+        581.9,
+        404.2
+      ],
+      "text": "W",
+      "confidence": 0.909
+    },
+    {
+      "bbox": [
+        285.5,
+        872.0,
+        1564.5,
+        920.6
+      ],
+      "text": "Owing to the weakness on c4, White's position has lost its sting. Morphy now",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        238.9,
+        923.1,
+        1567.0,
+        970.5
+      ],
+      "text": "decides to compromise his game still further by sacrificing his knight; there is",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        238.9,
+        973.0,
+        643.2,
+        1020.4
+      ],
+      "text": "probably nothing better.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        284.2,
+        1021.7,
+        1424.8,
+        1065.3
+      ],
+      "text": "20 Wxb7 Wg4 21 a4 c8 22 ad1 Wxg6 23 e3 c4 24 Wc6 Wf7",
+      "confidence": 0.9727
+    },
+    {
+      "bbox": [
+        285.5,
+        1074.1,
+        1515.5,
+        1115.2
+      ],
+      "text": "Clearly not 24..xe3 because of 25 xd6+ e7 26 d7+ f8 27 Wc5+.",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        284.2,
+        1122.7,
+        492.5,
+        1163.9
+      ],
+      "text": "25 Ωxa7 e4",
+      "confidence": 0.9396
+    },
+    {
+      "bbox": [
+        281.8,
+        1171.4,
+        1564.5,
+        1221.3
+      ],
+      "text": "25...e7 would also have been good, followed by ...f8 ('delayed artificial",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        238.9,
+        1225.0,
+        411.6,
+        1271.2
+      ],
+      "text": "castling').",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        283.0,
+        1271.2,
+        507.2,
+        1316.1
+      ],
+      "text": "26 d4 Wh5",
+      "confidence": 0.9603
+    },
+    {
+      "bbox": [
+        281.8,
+        1324.8,
+        1567.0,
+        1372.2
+      ],
+      "text": "Black begins to have his threats. 27 h3 is obviously met by 27...We5, while if",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        237.7,
+        1372.2,
+        1568.2,
+        1427.1
+      ],
+      "text": "27 g3, then 27...h8 28 h4 We2, threatening mate by either 29...Wxf1+ or",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        237.7,
+        1424.6,
+        1466.5,
+        1474.5
+      ],
+      "text": "29...xh4+. Morphy now finds the one reply which still offers resistance.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        283.0,
+        1474.5,
+        692.2,
+        1524.4
+      ],
+      "text": "27 f4! e3 28 g4 e2 (D)",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        285.5,
+        1526.9,
+        910.3,
+        1574.3
+      ],
+      "text": "28...Wh4 was probably even stronger.",
+      "confidence": 0.9776
+    },
+    {
+      "bbox": [
+        551.3,
+        1717.8,
+        579.5,
+        1744.0
+      ],
+      "text": "W",
+      "confidence": 0.915
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "pdf_page": 103,
+  "printed_page": 103,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        792.7,
+        129.7,
+        1021.8,
+        177.1
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        1488.5,
+        129.7,
+        1562.1,
+        175.9
+      ],
+      "text": "103",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        547.6,
+        381.7,
+        577.0,
+        410.4
+      ],
+      "text": "W",
+      "confidence": 0.9236
+    },
+    {
+      "bbox": [
+        235.2,
+        875.7,
+        1560.8,
+        928.1
+      ],
+      "text": "e7, which leads to a complete consolidation of the black king's position; the ta-",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        232.8,
+        925.6,
+        1560.8,
+        978.0
+      ],
+      "text": "bles are then turned and Black threatens ...c3 followed by play on the queenside",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        234.0,
+        980.5,
+        1560.8,
+        1027.9
+      ],
+      "text": "against the weak spots in White's camp. Therefore, White does not capture on",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        231.6,
+        1029.2,
+        1482.4,
+        1077.8
+      ],
+      "text": "h7, but hits on a manoeuvre to open up the d3-h7 diagonal by the lethal f6.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        275.7,
+        1077.8,
+        405.5,
+        1121.5
+      ],
+      "text": "2 αh5!",
+      "confidence": 0.8923
+    },
+    {
+      "bbox": [
+        275.7,
+        1130.2,
+        1564.5,
+        1177.6
+      ],
+      "text": "The passive 2 h3 would be weak, while 2 h4?is clearly no good because of",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        236.5,
+        1180.1,
+        657.9,
+        1225.0
+      ],
+      "text": "2...xg3+ and 3...xh4.",
+      "confidence": 0.9675
+    },
+    {
+      "bbox": [
+        276.9,
+        1232.5,
+        1559.6,
+        1277.4
+      ],
+      "text": "The text move threatens 3 g5+ fxg5 4 f6 with the double threat of 5 Wg7#",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        232.8,
+        1277.4,
+        1563.3,
+        1331.1
+      ],
+      "text": "and 5 xh7+ *h8 6 g6+ $g8 7 Wh7+ f8 8 Wxf7#. This main variation, cul-",
+      "confidence": 0.943
+    },
+    {
+      "bbox": [
+        234.0,
+        1333.6,
+        1555.9,
+        1381.0
+      ],
+      "text": "minating in simultaneous threats against h7 and g7 can, it is true, be countered by",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        232.8,
+        1379.7,
+        1562.1,
+        1429.6
+      ],
+      "text": "2...Wd6, but that allows 3 Wxh7+, 4 Wh8+, and 5 Wxc8, when White is a rook",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        232.8,
+        1432.1,
+        1559.6,
+        1480.8
+      ],
+      "text": "up. After 2...xg3+ 3 e2 Black can do nothing in the face of g5+ and f6.",
+      "confidence": 0.9678
+    },
+    {
+      "bbox": [
+        231.6,
+        1483.3,
+        1494.7,
+        1533.2
+      ],
+      "text": "However, he discovers a subtle defence, which is typical for such positions.",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        275.7,
+        1529.4,
+        480.3,
+        1579.3
+      ],
+      "text": "2..Wc7 (D)",
+      "confidence": 0.9405
+    },
+    {
+      "bbox": [
+        771.8,
+        1670.4,
+        801.2,
+        1710.3
+      ],
+      "text": "直",
+      "confidence": 0.696
+    },
+    {
+      "bbox": [
+        545.2,
+        1744.0,
+        573.4,
+        1771.4
+      ],
+      "text": "W",
+      "confidence": 0.9487
+    }
+  ]
+}

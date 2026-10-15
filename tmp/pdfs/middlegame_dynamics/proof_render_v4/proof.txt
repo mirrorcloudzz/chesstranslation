@@ -1,0 +1,796 @@
+                《国际象棋中局计划》
+              计划 - 一般原则 - 动态性
+                 英文 OCR 校正稿 + 中文翻译校对稿
+
+
+
+     文档性质      初译校对稿，非最终出版版本
+
+
+     内容范围      原书印刷页 17 至第 26 页；止于 4: Harmony 之前
+
+
+     棋谱规范      中文译文采用现代 SAN：O-O、1-0、黑方单独着法使用省略号
+
+
+     术语延续      development 依语境译为“出子”；pawn offensive 译为“兵的攻击”；sacrifice
+               译为“弃子”
+
+
+     版本日期      2026-09-23
+
+
+
+
+建议重点核对：Dynamics 的标题与相关概念译法；尼姆佐维奇一段的语气；两盘例局中动态计划、主动权和风险的表述；以及全
+部实战与分析变例。
+
+
+
+
+                                   1
+ 《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+3 动态性（Dynamics）
+理论说明
+
+
+                      经校正的英文 OCR                                                     中文译文
+
+DY-1                                                                     DY-1
+A concrete idea in a plan presupposes not only a rough outline of an     计划中的具体构想，不仅意味着大致勾勒出目标，还意味着确定通
+objective, but also the determination of a way which leads to
+                                                                         往目标的道路。
+achieving it.
+
+The objective in the course of some segment of the game, sometimes       在棋局的某一阶段——有时是相当长的一段——目标会保持不变。
+quite significant, remains invariable. It embodies, as it were, the      它仿佛体现了斗争中的静态因素；而在具体构想指导下走向目标的
+element of statics in the struggle. However, the way in which one is
+                                                                         道路，则体现了计划中的动态因素。
+directed towards the objective represents the element of dynamics in
+the plan, guided by concrete ideas.
+                                                                         棋局动态过程的外在表现，是局面频繁发生结构上具有实质意义的
+The outward reflection of the dynamic process in the game consists       变化；其内在方面，则表现为一系列创造性构想。这些构想都在同
+of frequent and structurally significant changes in the position. The
+                                                                         一个经过计划的具体构想之下得到实现。
+inward side of the dynamic process manifests itself in a series of
+creative ideas, realised against a background of a single planned
+concrete idea.                                                           有些棋局包含大量战术构想，也正因如此，局面类型会频繁发生性
+                                                                         质重大的变化；这样的棋局具有特别强的动态性。反过来，有些棋
+Games saturated with a great number of tactical ideas and                局的局面类型虽有变化，却并不深刻，可以说动态性不强；其中斗
+characterised precisely because of this circumstance by frequent and
+                                                                         争的尖锐程度逐渐消退，国际象棋思维所特有的激荡也表现得不够
+qualitatively significant changes of the types of position are
+particularly dynamic. On the other hand, games where the types of        充分。
+position change, but not seriously, can be called not very dynamic; in
+them the sharpness of the struggle tapers off and the excitement of      严格说来，几乎每盘棋的进程都在不同程度上具有动态性。一旦动
+chess thinking is poorly expressed.
+                                                                         态性消失，斗争过程就会变得静止，在创造上索然无味，有时甚至
+Admittedly, strictly speaking, to one or another extent dynamics are     完全停滞。国际象棋规则规定三次重复局面判和，以及连续50回合
+inherent in the process of nearly every game. If they vanish, then the   没有吃子、也没有兵的移动即可判和，并非毫无道理。
+process of the struggle becomes static, creatively dull, and at times
+even totally dies away. Not without good reason do the rules of play
+provide for a game to be called a draw in the event of a threefold
+repetition of position or the absence of captures and changes in the
+position of the pawns in the course of 50 moves.
+
+                      经校正的英文 OCR                                                     中文译文
+
+DY-2                                                                     DY-2
+The dynamics of play are closely linked with concrete thinking, just     棋局的动态性与具体思维紧密相连；与此同时，具体思维在很大程
+as at the same time concrete thinking to a large extent is determined
+                                                                         度上也由其动态内容所决定。正因如此，齐戈林、拉斯克、皮尔斯
+by its dynamic content. For this very reason the play of Chigorin,
+Lasker, Pillsbury and Alekhine was distinguished by strongly             伯里和阿廖欣的棋风都具有鲜明的动态内容。大多数苏联特级大师
+pronounced dynamic content. This applies to the majority of Soviet       和大师也是如此。不过，无论在国际象棋史上，还是在当代，都可
+grandmasters and masters. But in both chess history and our day can      以见到偏爱事件缓慢发展、谨慎得没有必要的棋手。
+be seen chessplayers who prefer a slow development of events and
+are notable for their unnecessary caution.
+                                                                         有时，同一位棋手的思维也会发生深刻变化。尼姆佐维奇的经历，
+Sometimes, in the thinking of one and the same chessplayer, a            就是这方面一个有趣而富有教益的例子。
+serious metamorphosis takes place. An interesting and instructive
+example in this respect is the fate of Nimzovich.
+                                                                         在创作生涯的早期，尼姆佐维奇凭借火热的气质、富于动态性的思
+
+In the first period of his creative work, his fiery temperament,         维，以及卓越而独创的想象力，当之无愧地享有国际象棋艺术家的
+dynamic thoughts, splendid and original imagination earned him           声誉。只要他仍然保持这种艺术家的本色，他的竞技与创作道路便
+deserved fame as an artist of chess. While Nimzovich was just such       不断取得辉煌成就；他也被视为一位始终探索、勇于尝试的重要革
+an artist, his sporting and creative path was crowned with a series of   新者。
+brilliant achievements and he gained a reputation for himself as an
+
+
+
+
+                                                                          2
+ 《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                      经校正的英文 OCR                                                         中文译文
+
+important innovator, forever searching, forever daring.                   然而，从某个时候起，尼姆佐维奇过分看重自己作为国际象棋哲学
+                                                                          家、棋理真理承载者和棋坛正义宣扬者的身份。他反对塔拉什的
+However, from a certain moment Nimzovich had too high an opinion
+                                                                          保 守观点，尤其反对其关于中心的观点，却在不知不觉中滑到了
+of himself as a chess philosopher, a bearer of chess truth, a herald of
+chess justice. Coming out against the conservative views of Tarrasch,     保守 立场上。他把大师实战中一些明确而约定俗成的斗争方法，
+particularly on the question of the centre, Nimzovich unwittingly         建立成 限制、封锁与过度保护的理论，并以近乎自我宣传的方式
+slipped into the position of a conservative. Out of the definite,         ，广泛宣 扬为《我的体系》。妨碍对手出子、封锁对手的兵链、
+conventional methods of chess struggle amongst masters, he created
+                                                                          把子力中心 化、准备以子力替换兵据点（过度保护）——所有这
+the theory of restraint, blockade and overprotection, broadcasting it
+widely and rather like a self-advertisement as "My System".               些“原则”，都 被当作引导棋手思维的线索和确保胜利的绝对保证。
+Hindering the development of the opponent's forces, blockading his
+pawn chain, centralising pieces, preparing to replace a pawn outpost      尼姆佐维奇把这些“原则”抬高到教条的地位（塔拉什当年也曾如此
+with a piece (overprotection) - all these "principles" had to be
+                                                                          ；要使竞技状态与自己的才能相称，本应避免这样做），结果在遇
+guiding threads for the chessplayer's thoughts and served as absolute
+guarantees of victory.                                                    到以思维高度动态著称的对手、尤其是阿廖欣时，屡遭惨败。去
+                                                                          世 前不久，尼姆佐维奇还在一场对抗赛中负于斯塔尔贝格，尽管
+By elevating these "principles" in this way to the rank of dogma (as      无论 实力、知识还是经验，他无疑都胜过对手。尼姆佐维奇之所
+Tarrasch had done in his time, to maintain sporting form                  以失利 ，只能归因于他在这场对抗赛中的思维带有教条主义色彩。
+corresponding to one's talent), Nimzovich came to suffer telling
+defeats when encountering opponents renowned for great dynamicity
+of thought, particularly Alekhine. Not long before his death,
+Nimzovich lost a match with Stahlberg, though he undoubtedly was
+superior to him in strength and in knowledge and experience. The
+reason for Nimzovich's defeat cannot but be seen as the dogmatic
+touch which distinguished his thought in the match.
+
+
+DY-3                                                                      DY-3
+Dynamic planning - this is not waiting, not restraint, not blockading,    动态计划不是等待，不是限制，也不是封锁，而是预见并准备促成
+but foresight and preparation of a decisive course of events.
+                                                                          具有决定意义的事态进程。
+Morphy, in describing the play of Staunton, the famous English
+chessplayer of the 19th century, saw his shortcomings in an inability     莫菲在评论19世纪英国著名棋手斯汤顿的棋艺时，认为他的缺点在
+to foresee the course of events. Interpreting Morphy's thoughts, one      于无法预见事态的发展。换言之，莫菲指责斯汤顿的行棋缺乏足够
+can say that he reproached Staunton for his insufficiently dynamic
+                                                                          的动态性。
+play.
+
+The struggle for the dynamic realisation of a plan consists of looking    争取以动态方式实现计划，就是寻找通往目标的最短道路和最有力
+for the shortest way and the most energetic means of achieving the        的手段。
+objective.
+
+The practical material which we will look at in the following pages       下面几页将要考察的实战材料，很好地体现了思维在动态进程中的
+represents good examples of dynamic purposefulness of thought.            明确目的性。
+
+
+
+
+例局一：阿廖欣 - 波戈留波夫
+                      经校正的英文 OCR                                                         中文译文
+
+DY-4                                                                      DY-4
+Queen's Gambit                                                            后翼弃兵
+White: A. Alekhine
+Black: E. Bogolyubov                                                      白方：A. 阿廖欣
+(Budapest 1921)                                                           黑方：E. 波戈留波夫
+                                                                          布达佩斯，1921年
+1 d4 Nf6 2 c4 e6 3 Nf3 Bb4+
+
+
+
+
+                                                                           3
+  《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                        经校正的英文 OCR                                                                 中文译文
+
+                                                                            1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+
+Besides this plan, at the basis of which lies the desire to play the
+Queen's Gambit without the black-squared bishops, Black has
+                                                                            这步棋所依据的计划，是在没有黑格象的情况下转入后翼弃兵。除
+available at least two dynamic plans of play. The first - by means of 3
+... b6 followed by ... Bb7 to begin a struggle for control of the e4        此以外，黑方至少还有两套富于动态性的计划。第一套是走
+square; the second - to immediately cut the opening knot with the           3... b6，随后……Bb7，开始争夺e4格的控制权；第二套则是立
+move ... d5.                                                                即以 ……d5斩断开局中的纠结。
+
+4 Bd2 Bxd2+ 5 Qxd2 0-0 6 Nc3 d5
+                                                                            4. Bd2 Bxd2+ 5. Qxd2 O-O 6. Nc3 d5
+Necessary; Black must not allow the move e4. However, the aim of
+the move is not only prophylactic. It is an important link in Black's       这是必要的一着；黑方不能允许白方冲起e4。不过，这步棋的目的
+set-up, which enables him, after ... Nbd7, ... b6, ... Bb7 and ... c5, to
+                                                                            并不只是预防。它还是黑方阵形中的重要一环，使黑方可以接着
+obtain promising play in the centre.
+                                                                            走 ……Nbd7、……b6、……Bb7和……c5，在中心获得有前途的反击。
+7 e3 Nbd7 8 Bd3 c6
+                                                                            7. e3 Nbd7 8. Bd3 c6
+Played in consideration of White's following move. Nevertheless,
+preferable was 8 ... b6 and ... Bb7, controlling the e4 point and
+                                                                            这一着是针对白方下一步棋而走的。不过，8... b6并随后
+obtaining excellent chances in the centre by ... c5 (or ... Ne4). On the
+other hand, an immediate 8 ... c5 makes it easier for White to plan his     ……Bb7更为可取：黑方可以控制e4格，再以……c5（或……Ne4）在
+game. After 8 ... c5 9 cxd5 Nxd5 10 Nxd5 exd5 11 dxc5 Nxc5 12               中心取得极佳的机会。另一方面，立即走8... c5会使白方更容
+0-0, the real weakness of the d5 pawn and the presence of a piece           易制定计划。8... c5 9. cxd5 Nxd5 10. Nxd5 exd5
+base in the centre - the d4 square - give him a premise for seizing the
+                                                                            11. dxc5 Nxc5 12. O-O之后，d5兵确实薄弱，而中心的d4格
+initiative.
+                                                                            又可作为子力据点，这些因素为白方夺取主动权提供了前提。
+9 0-0
+                                                                            9. O-O
+White overlooks the tactical possibility, which arises after this move,
+for the opponent to complete the development of his queen's flank.
+However, he should not be severely criticised for this, since after 9       白方忽略了这步棋带来的一种战术可能：对手可以借机完成后翼出
+Rd1 Re8, threatening ... e5, Black creates prospects of freeing             子。不过，也不应过分责备白方，因为9. Rd1 Re8之后，黑方
+himself.                                                                    以 ……e5相威胁，同样获得了解放局面的机会。
+
+                        经校正的英文 OCR                                                                 中文译文
+
+DY-5                                                                        DY-5
+9 ... dxc4 10 Bxc4 e5                                                       9... dxc4 10. Bxc4 e5
+
+Black's witty plan is revealed in the variation 11 dxe5 Nxe5 12 Qxd8
+Nxf3+ 13 gxf3 Rxd8, with a free, probably even better game.                 黑方机敏的计划，在变例11. dxe5 Nxe5 12. Qxd8 Nxf3+
+Nevertheless, the operation he undertakes also has a shady side in          13. gxf3 Rxd8中显露出来；黑方的局面舒展，甚至很可能已经
+that the enemy bishop's activity is increased and the f7 pawn               更好。不过，这一行动也有其阴暗面：白象的活跃程度提高了，f7
+weakened. The latter circumstance for the time being rivets the Black
+                                                                            兵则遭到削弱。后一因素暂时把黑车钉在f8格，以防白马走Ng5发
+rook to the f8 square, to avoid the attack by Ng5.
+                                                                            动攻击。
+It should be mentioned that, with his last move, Black creates a
+relative threat consisting of 11 ... e4 12 Ng5 Nb6 13 Bb3 Bf5 14 f3         还应指出，黑方最后一着制造了一个相对威胁：11... e4 12.
+exf3 15 Rxf3 Bg6 and, if 16 e4, then 16 ... h6. Though even in this
+                                                                            Ng5 Nb6 13. Bb3 Bf5 14. f3 exf3 15. Rxf3 Bg6，若
+case White's position is rather more favourable, by developing his
+forces Black has a chance of putting up serious resistance against the      16. e4，则16... h6。即便如此，白方的局面仍稍为有利；但
+opponent's pressure.                                                        黑方通过出子，获得了对抗白方压力、进行顽强抵抗的机会。
+
+11 Bb3!                                                                     11. Bb3!
+
+With this fine retreat, White sets the opponent a difficult task. Now
+11 ... e4 leads to the loss of a pawn after 12 Ng5 Qe7 13 Bc2. The          白方以这步精妙的退象给对手出了一道难题。此时11... e4会在
+continuation 11 ... exd4 12 Qxd4 (good enough are also 12 Nxd4 and          12. Ng5 Qe7 13. Bc2之后失兵。11... exd4 12. Qxd4（
+12 exd4) allows White to maintain a dominating position in the              12. Nxd4和12. exd4也足够好）则让白方保持对中心的支配，
+
+
+
+                                                                             4
+ 《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                                中文译文
+
+centre and a considerable superiority in development.                     并在出子方面取得显著优势。
+
+White had at his disposal an interesting bishop sacrifice, 11 Bxf7+,
+                                                                          白方还可以走颇为有趣的弃象11. Bxf7+；但正如阿廖欣所指出
+but, as indicated by Alekhine, this would allow Black to achieve a
+draw: 11 ... Rxf7 12 dxe5 Ng4 13 e6 Rxf3 14 exd7 Bxd7 15 gxf3             的，这会让黑方取得和棋：11... Rxf7 12. dxe5 Ng4 13.
+Nxh2 16 Kxh2 Qh4+.                                                        e6 Rxf3 14. exd7 Bxd7 15. gxf3 Nxh2 16. Kxh2
+                                                                          Qh4+。
+
+
+DY-6                                                                      DY-6
+11 ... Qe7                                                                11... Qe7
+
+A very natural move, which on the face of it opens up concrete
+planning prospects for Black. Indeed, it renews the threat of the         这是很自然的一着，表面上似乎为黑方打开了制定具体计划的前景。
+advance ... e4, unties the queen's knight, frees the d8 square for the    它确实再次威胁冲起e4，解放后翼马，为车腾出d8格，并准备在
+rook, and prepares the manoeuvre ... Nc5 after ... exd4. And yet          ……exd4之后走……Nc5。然而，黑方这一续着仍不令人满意，主要
+Black's continuation is unsatisfactory, mainly because he does not
+                                                                          原因是他没有预见到对手针对自己构想的反制；他只理解了局面的
+foresee the counteraction to his idea; he comprehends the static
+position, not the dynamic.                                                静态面，却没有把握其动态面。
+
+The very first worry for Black must be the freeing of his rook from       黑方首先应当设法使车摆脱防守f7点的任务。11... h6可以达到
+the defence of the f7 point. The move 11 ... h6 serves this purpose,
+                                                                          这一目的：它控制g5格，不让白马侵入，同时恢复……e4的威胁。
+since it covers the g5 square from invasion by the White knight and
+resumes the threat of ... e4. On 12 e4, possible is 12 ... Qa5 13 Rad1    若12. e4，则可走12... Qa5 13. Rad1 Re8，黑方局面稳固
+Re8, with a firm position and prospects of counterattack in the centre.   ，并有望在中心反击。
+
+12 e4!                                                                    12. e4!
+
+A highly dynamic plan, at the basis of which lies the joint advance of
+the e- and f-pawns. The purposeful carrying out of a similar plan         这是一套高度动态的计划，其基础是e兵和f兵协同推进。在鲍特维
+secured White victory in the 12th and 16th games of the first             尼克与斯梅斯洛夫1954年第一次对抗赛的第12局和第16局中，白
+Botvinnik-Smyslov match (1954). We advise our readers to study            方正是有目的地执行了类似计划并取得胜利。建议读者自行研究这
+these games on their own, comparing the idea realised in them by
+                                                                          两盘棋，把鲍特维尼克在其中实现的构想与阿廖欣本局的计划加以
+Botvinnik with Alekhine's plan in the present game.
+                                                                          比较。
+12 ... exd4?
+                                                                          12... exd4?
+Without looking very far into the future, Black decides to develop his
+queen's flank at any price. He achieves this objective, but at what
+cost? He himself clears the way for the e4 pawn, concedes the d-file      黑方没有把目光放得足够长远，而是不惜代价地决定完成后翼出子。
+to the opponent and as a result is subjected to a dangerous attack.       他确实实现了这一目标，可代价又是什么？他亲自为白方e4兵扫清
+White, with utmost dynamism, brilliantly exploits this strategical        了道路，把d线让给对手，结果遭到危险的进攻。白方以极强的动
+mistake.
+                                                                          态手法，精彩地利用了这一战略错误。
+
+It was still possible to defend himself on the basis of a plan which
+counters the pressure on the e-file: 12 ... h6 13 Rad1 Re8 14 Bc2         黑方仍可依据一套对抗e线压力的计划进行防守：12... h6
+exd4 15 Nxd4 Ne5 16 f4 Nc4, with a lively struggle.                       13. Rad1 Re8 14. Bc2 exd4 15. Nxd4 Ne5 16. f4
+                                                                          Nc4，局面将进入生动的斗争。
+
+                       经校正的英文 OCR                                                                中文译文
+
+DY-7                                                                      DY-7
+13 Nxd4 Nc5                                                               13. Nxd4 Nc5
+
+The e4 pawn clearly cannot be taken.
+                                                                          显然不能吃e4兵。
+14 Bc2 Rd8 15 Rad1
+                                                                          14. Bc2 Rd8 15. Rad1
+With the obvious threat of Nxc6.
+
+
+
+
+                                                                           5
+  《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                            中文译文
+
+                                                                         白方显然威胁Nxc6。
+
+15 ... Bg4 16 f3 Ne6 17 Qf2 Nxd4 18 Rxd4 Be6 19 Rfd1
+                                                                         15... Bg4 16. f3 Ne6 17. Qf2 Nxd4 18. Rxd4 Be6
+White's concrete idea triumphs completely, and this is promoted a        19. Rfd1
+great deal further ... by the opponent. This does not diminish in the
+least the outstanding mastery demonstrated by Alekhine. If we return     白方的具体构想获得了彻底成功，而对手更是……大力促成了这一
+to his play, beginning with the 11th move, then it is striking how
+                                                                         结果。这丝毫无损于阿廖欣所展现的卓越技艺。如果回看他从第
+purposefully he directs the course of events to his advantage. Only
+four moves ago White's rooks were on a1 and f1, whereas now they         11 回合开始的行棋，就会发现他始终以何等明确的目的性，引导
+already decide the outcome of the clash on the d-file; however, the      事态 朝有利于自己的方向发展。仅仅四步之前，白方双车还在a1
+move 12 e4! serves as a starting point for a pawn offensive, which       和f1； 如今，它们已经决定了d线争夺的结果。而12. e4!正是兵
+will be carried out with enviable energy and dynamism. Throughout
+                                                                         的攻击 的起点，接下来的攻势以令人赞叹的能量与动态性展开。
+the entire game White does not make a single move wide of the mark
+and does not lose a single second without good reason.                   整盘棋中 ，白方没有一步偏离目标，也没有无缘无故浪费一拍。
+
+
+19 ... b6                                                                19... b6
+
+Operations on the queen's flank, where Black has a pawn majority,
+                                                                         尽管黑方拥有后翼多兵的战略优势，但现在在后翼行动毫无意义，
+are pointless in the present situation and only lead to new vulnerable
+points in his position. However, this merely accelerates his downfall,   只会在自己的局面中造成新的弱点。不过，这也只是加速黑方迟
+which sooner or later is inevitable.                                     早 无法避免的败局。
+
+20 h3
+                                                                         20. h3
+So that after f4 Black will not have the thrust ... Ng4.
+                                                                         这样在白方走f4之后，黑方便无法……Ng4突入。
+20 ... c5 21 R4d2 Rxd2 22 Qxd2
+
+                                                                         20... c5 21. R4d2 Rxd2 22. Qxd2
+(See next diagram.)
+
+22 ... c4                                                                （见下一幅棋盘图。）
+
+Black's position is becoming more and more difficult (for example,
+                                                                         22... c4
+22 ... Bd7 is not possible because of 23 Nd5), but he should try to
+confuse the struggle by 22 ... Ne8 23 f4 f6 24 Nd5 Qb7 25 Bb3 Kh8.
+                                                                         黑方的局面越来越困难（例如不能走22... Bd7，因为有23.
+23 f4 g6                                                                 Nd5），但他应当以22... Ne8 23. f4 f6 24. Nd5 Qb7
+                                                                         25. Bb3 Kh8设法把斗争搅乱。
+In the event of 23 ... Qc5+ 24 Qd4 Qxd4+ 25 Rxd4, Black, without
+improving his position, loses at least the pawn on c4.
+                                                                         23. f4 g6
+24 Qd4 Rc8 25 g4 Bxg4 26 hxg4 Nxg4 27 Kg2 h5 28 Nd5 Qh4 29
+Rh1 Qd8 30 Bd1 1-0                                                       若23... Qc5+ 24. Qd4 Qxd4+ 25. Rxd4，黑方的局面毫无
+                                                                         改善，至少还会丢掉c4兵。
+
+
+                                                                         24. Qd4 Rc8 25. g4 Bxg4 26. hxg4 Nxg4 27. Kg2
+                                                                         h5 28. Nd5 Qh4 29. Rh1 Qd8 30. Bd1 1-0
+
+
+
+
+例局二：阿廖欣 - 马洛契
+                       经校正的英文 OCR                                                            中文译文
+
+DY-8                                                                     DY-8
+Queen's Gambit                                                           后翼弃兵
+
+
+                                                                          6
+  《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                               中文译文
+
+
+                                                                            白方：A. 阿廖欣
+White: A. Alekhine
+                                                                            黑方：G. 马洛契
+Black: G. Maroczy
+(Bled 1931)                                                                 布莱德，1931年
+
+1 d4 d5 2 Nf3 Nf6 3 c4 e6 4 Bg5 Nbd7                                        1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Nbd7
+
+Black joins the classical rails of the Orthodox Variation, in which the
+mutual development of forces usually proceeds at a slow tempo and           黑方进入后翼弃兵正统防御的经典轨道。在这一体系中，双方通常
+Black, for a comparatively long time, has to reconcile himself to the       以缓慢的节奏出子，黑方则不得不在相当长的一段时间里甘居防
+role of the defending side.                                                 守 一方。
+
+Black's position is characterised by the absence of pawn weaknesses
+and, with significant defensive resources, is so solid that White has to    黑方没有兵形弱点，又拥有丰富的防守资源，局面非常牢固；因此
+expend a great deal of effort in preparation before starting on his         ，白方在发动进攻前必须投入大量精力进行准备。
+attack.
+                                                                            除了这种谨慎的正统下法，黑方还有另一套更尖锐的计划。其基本
+Instead of the careful (orthodox) method of play, Black has at his
+                                                                            构想是迫使白方走Bxf6完成交换，随后积极争取清空中心，为双
+disposal another, sharper plan. At the basis of it lies the endeavour to
+force White to exchange Bxf6 and then to begin to energetically play        象 打开活动空间。
+for the clearing of the centre and opening of space for action by his
+bishops.                                                                    黑方以4... h6开始从战术上实现这套计划。象退回c1前后不一
+                                                                            ；若退到h4，则5. Bh4 Bb4+ 6. Nc3 dxc4 7. e3 b5会导
+Black begins the tactical realisation of this plan with the move 4 ...
+h6. The retreat of the bishop to c1 is inconsistent; to h4 leads to the     致失兵；若5. Bxf6，则5... Bb4+ 6. Nc3 Qxf6 7. Qb3
+loss of a pawn after 5 ... Bb4+ 6 Nc3 dxc4 7 e3 b5, while in the event      Nc6，黑方准备以8... Nxd4应对8. cxd5。白方王翼尚未出子
+of 5 Bxf6 follows 5 ... Bb4+ 6 Nc3 Qxf6 7 Qb3 Nc6, intending to             ，这使黑方早在开局阶段便能争夺主动权。
+meet 8 cxd5 with 8 ... Nxd4. White's king's flank is undeveloped and
+this allows Black already in the early stages of the opening to
+contend for the initiative.                                                 5. e3 h6 6. Bh4 Be7 7. Nc3 O-O 8. Rc1 c6 9. Bd3
+                                                                            a6
+5 e3 h6 6 Bh4 Be7 7 Nc3 0-0 8 Rc1 c6 9 Bd3 a6
+                                                                            这步看似不起眼的冲兵，准备通过……dxc4、……b5、……Bb7和
+This seemingly modest pawn move prepares the development of the
+forces on the queen's flank by means of ... dxc4, ... b5, ... Bb7 and ...
+                                                                            ……c5完成后翼出子。为阻止这套计划，白方有时会走cxd5交换中
+c5. To prevent it, White sometimes exchanges cxd5, but this opens           心兵；但e线和c8-h3斜线也将随之打开，给对手带来新的计划可能。
+up new planning possibilities for the opponent, in connection with
+the opening of the e-file and the c8-h3 diagonal.
+
+                                                                            10. O-O
+10 0-0
+
+                       经校正的英文 OCR                                                               中文译文
+
+DY-9                                                                        DY-9
+The opening can be considered over, but, as usual in the Orthodox           开局可以认为已经结束。不过，正如后翼弃兵正统防御中常见的那
+Variation of the Queen's Gambit, Black still has to solve the problem
+                                                                            样，黑方仍须解决后翼出子问题，而白方所有子力都已完成充分而
+of developing the queen's flank, whereas White has already achieved
+a full and harmonious development of all his forces.                        协调的部署。
+
+10 ... dxc4 11 Bxc4 c5                                                      10... dxc4 11. Bxc4 c5
+
+Here, more prospects of a plan were offered by 11 ... b5 12 Bd3 Bb7,
+and White cannot prevent the move ... c5, attacking the centre and          此处11... b5 12. Bd3 Bb7更有利于展开计划；白方无法阻止
+opening a fighting diagonal for the Black queen's bishop. If,               ……c5，黑方将借此攻击中心，并为后翼象打开富有战斗力的斜线。
+however, on 12 ... Bb7 White replies 13 Ne4, then he risks losing a         不过，若白方在12... Bb7后走13. Ne4，则有13... Nxe4
+pawn after 13 ... Nxe4 14 Bxe7 Nxf2. 13 e4 also leads to the same
+                                                                            14. Bxe7 Nxf2，白方可能失兵。13. e4也会由于13...
+result in view of 13 ... Nxe4 14 Bxe7 Nxc3.
+                                                                            Nxe4 14. Bxe7 Nxc3造成同样的结果。
+
+
+
+
+                                                                             7
+ 《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                        经校正的英文 OCR                                                            中文译文
+
+
+12 a4                                                                     12. a4
+
+This move prevents the above-mentioned plan of development of
+Black's queen's flank, but also has a shady side, as it weakens his       这步棋阻止了上述黑方后翼出子计划，但也有不利的一面：它削弱
+own queen's flank and allows the formation of a central isolated          了白方自己的后翼，并允许中心形成d4孤兵。在接下来的斗争阶
+pawn on d4. In the next stage of the struggle Maroczy sets his            段，马洛契给对手出了一道颇为困难的难题；阿廖欣只是凭借卓越
+opponent a rather difficult task, and only by his splendid feeling for
+                                                                          的局面感觉，才成功引发了激烈而对自己并非不利的复杂局面。
+the position does Alekhine succeed in achieving stormy and at the
+same time not unfavourable complications.
+
+
+DY-10                                                                     DY-10
+12 ... Qa5 13 Qe2 cxd4 14 exd4 Nb6                                        12... Qa5 13. Qe2 cxd4 14. exd4 Nb6
+
+Black's plan is concrete and dynamic. Piece after piece of his enters
+into play. He strives for an arrangement of his forces - rooks on c8      黑方的计划既具体又富于动态性。他的子力一个接一个投入战斗。
+and d8, bishop on e8 - upon which he can develop a successful attack      黑方力求形成如下配置：双车置于c8和d8，象置于e8；在此基础
+on the centre.                                                            上，他便能对中心发动有力的攻击。
+
+15 Bd3!
+                                                                          15. Bd3!
+White is also equal to the occasion. The object of his attack, in which
+all the minor pieces and the queen participate, is the enemy king. The    白方同样应对得当。他的攻击目标是黑王，所有轻子和后都将参与
+variation 15 ... Nxa4? 16 Ne4 Nd5 17 Bxe7 Nxe7 18 Ne5, and if 18
+                                                                          其中。变例15... Nxa4? 16. Ne4 Nd5 17. Bxe7 Nxe7
+... Nf5, then 19 Qg4 Nxd4 20 Nf6+ Kh8 21 Qg6!, bears witness to
+the dangers of this attack.                                               18. Ne5，若18... Nf5，则19. Qg4 Nxd4 20. Nf6+
+                                                                          Kh8 21. Qg6!，足以说明这一攻击的危险性。
+15 ... Bd7 16 Ne5
+                                                                          15... Bd7 16. Ne5
+Threatening a direct attack on the h7 point - 17 Bxf6 and 18 Qe4.
+
+16 ... Rfd8 17 f4 Be8                                                     白方威胁以17. Bxf6和18. Qe4直接攻击h7点。
+
+The struggle for the initiative enters a decisive phase. Black begins     16... Rfd8 17. f4 Be8
+an attack on the centre. Now ... Rxd4 is threatened and White's
+queen's flank is also weak.
+                                                                          主动权之争进入决定性阶段。黑方开始攻击中心；此时不仅威胁
+18 Ng4!                                                                   ……Rxd4，白方后翼也很薄弱。
+
+Defending the d4 pawn would hand over the initiative to the
+                                                                          18. Ng4!
+opponent, while White would be forced to switch from attack to
+defence, which could be fraught with serious consequences in view
+of the weaknesses which have arisen in his camp. In his plan,             若防守d4兵，白方就会把主动权交给对手，被迫由进攻转入防守
+Alekhine anticipated the need to sacrifice this pawn. With this           ；鉴于白方阵地中已经出现的弱点，这可能造成严重后果。阿廖欣
+example we come across the problem of risk in the chess struggle.
+                                                                          在计划中预见到了弃掉这个兵的必要性。这个例子使我们接触到国
+
+Alekhine, of course, could not foresee all the ramifications of his
+                                                                          际象棋斗争中的风险问题。
+planned attack and takes a risk by giving up the central pawn to his
+menacing opponent. Risk in the planning of the game - this is a           阿廖欣当然不可能预见到计划中这场进攻的所有分支；他把中心兵
+major, hitherto little investigated question, which deserves special      交给这位强劲的对手，承担了风险。棋局计划中的风险，是一个重
+examination.
+                                                                          要而迄今研究不足的问题，值得专门考察。
+
+                        经校正的英文 OCR                                                            中文译文
+
+DY-11                                                                     DY-11
+18 ... Rxd4                                                               18... Rxd4
+
+Black accepts the challenge. This decision was not obligatory. It was
+
+
+
+
+                                                                           8
+ 《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                       经校正的英文 OCR                                                               中文译文
+
+possible to continue the planned line, if only by playing 18 ... Nbd5,      黑方接受挑战。这一决定并非势在必行；他完全可以继续既定路线
+with the aim of strengthening the defence of the king's flank and           ，例如走18... Nbd5，加强王翼防守，并把利用白方中心和后
+postponing until a later time the exploitation of White's chronic
+                                                                            翼 长期弱点的行动留到以后。此时若19. Nxd5，则可走19...
+weaknesses in the centre and on the queen's flank. In this case, on 19
+Nxd5, possible is 19 ... Qxd5 20 Nxf6+ Bxf6 21 Bxf6 gxf6, and there         Qxd5 20. Nxf6+ Bxf6 21. Bxf6 gxf6；白方没有决定性的
+is no decisive continuation for White, while his weaknesses (for            续着，而自己的弱点——例如d4兵——反会表现得越来越明显。
+example, the d4 pawn) begin to make themselves even more strongly
+felt.
+                                                                            不过，立即收获动态行棋的成果，对黑方实在太有诱惑力了。
+However, it was too tempting for Black to reap the fruits of his
+dynamic play.                                                               19. Bxf6 Bxf6 20. Nxf6+ gxf6 21. Ne4
+
+19 Bxf6 Bxf6 20 Nxf6+ gxf6 21 Ne4
+                                                                            21... Rad8?
+
+21 ... Rad8?
+                                                                            黑方仍然抱着同样的想法：尽可能积极地利用已经取得的优势。但
+All in the same spirit of exploiting, as energetically as possible, the     他低估了对手在王翼的威胁，为此付出了极大代价。其实，
+advantage achieved. This underestimation of the opponent's threats          21... f5之后，d线叠车的威力只会增强，而白方的进攻会撞上
+on the king's flank costs him very dear. Meanwhile, after 21 ... f5 the
+                                                                            一道坚固屏障：22. Nf6+ Kg7 23. Nh5+ Kf8。阿廖欣指出，
+doubled rooks on the d-file only gain in strength, while White's
+attack runs up against a strong barrier: 22 Nf6+ Kg7 23 Nh5+ Kf8.           他会采用24. b3；但24... Bc6之后，黑方以……Qd5相威胁，
+Alekhine pointed out that he would have recourse to the move 24 b3,         不仅拥有子力优势，也拥有局面优势。
+but after 24 ... Bc6, with the threat ... Qd5, Black achieves not only a
+material, but also a positional advantage.
+                                                                            22. Nxf6+ Kf8 23. Nh7+!
+22 Nxf6+ Kf8 23 Nh7+!
+                                                                            这是令人惊讶而又极其难受的一将。以下变例足以说明：23...
+A surprising and very unpleasant check, if only confirmed by this           Kg7 24. Qg4+ Kh8 25. Qh4 Qe5! 26. Qxh6（不能走
+variation: 23 ... Kg7 24 Qg4+ Kh8 25 Qh4 Qe5! 26 Qxh6 (not 26
+                                                                            26. Nf6? Qg5!，也不能走26. Qxd8? Qe3+）26... Qg7
+Nf6? Qg5! and not 26 Qxd8? Qe3+) 26 ... Qg7 27 Qh4 Kg8, and
+White is guaranteed a draw at least: 28 Nf6+ Kf8 29 Nh7+.                   27. Qh4 Kg8，白方至少可以确保和棋：28. Nf6+ Kf8 29.
+                                                                            Nh7+。
+Judging by the future course of events, it was necessary for Black to
+be satisfied with this result.
+                                                                            从此后的进程来看，黑方本应满足于这一结果。
+
+                       经校正的英文 OCR                                                               中文译文
+
+DY-12                                                                       DY-12
+23 ... Ke7 24 f5!                                                           23... Ke7 24. f5!
+
+Such is the dynamic play of Alekhine. This move, undoubtedly seen
+beforehand, creates new threats and indirectly defends the bishop,          这就是阿廖欣的动态行棋。这一步无疑早在预见之中：它制造了新
+since on 24 ... Rxd3 follows 25 f6+ and then Qxd3+.                         的威胁，同时还间接保护了白象，因为24... Rxd3之后有25.
+                                                                            f6+，接着Qxd3+。
+24 ... R8d6
+
+Black renews the threat of ... Rxd3 and opens a refuge for the king on      24... R8d6
+d8, but he does not foresee the tactical blow of his inventive
+opponent. However, it is already difficult to repulse White's attack.       黑方再次威胁……Rxd3，并为王在d8格准备了避难所，却没有预见
+On 24 ... e5 follows 25 Bb5, while on 24 ... Qd5 - 25 fxe6 fxe6 26
+                                                                            到富有创造力的对手将施以战术打击。不过，此时黑方已经很难击
+Qf2 Rxd3 27 Qf8+ and 28 Nf6 mate.
+                                                                            退白方的进攻。若24... e5，则25. Bb5；若24... Qd5，则
+25 b4!                                                                      25. fxe6 fxe6 26. Qf2 Rxd3 27. Qf8+，随后Nf6将杀。
+
+To deliver the decisive blow, White must introduce the queen into           25. b4!
+the attack. The thrust Qh5 is parried by the reply ... Qd2. The other
+way of invading with the White queen into the enemy camp is via the
+e5 square, which is guarded by the queen. The text move opens one           为了施以决定性打击，白方必须让后投入进攻。Qh5的突入会被
+of these arteries; in the event of 25 ... Rxb4 the Black queen is cut off   ……Qd2挡住；白后侵入敌阵的另一条道路，是经由被黑后控制的
+
+
+
+                                                                             9
+ 《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                      经校正的英文 OCR                                                            中文译文
+
+from the d2 square, whereas on 25 ... Qxb4 it is driven off the fifth   e5格。实战这步棋打开了其中一条通道：若25... Rxb4，黑后便
+rank.                                                                   无法回到d2格；若25... Qxb4，黑后则会被赶离第五横线。
+
+25 ... Qxb4
+                                                                        25... Qxb4
+If 25 ... Rxb4, then 26 Qh5 e5 27 f6+ Kd8 28 Bb5 axb5 29 Qxe5,
+with a quick denouement.                                                若25... Rxb4，则26. Qh5 e5 27. f6+ Kd8 28. Bb5
+                                                                        axb5 29. Qxe5，白方很快便可结束战斗。
+26 Qe5
+
+With the threat of Qf6+ and Nf8 mate.                                   26. Qe5
+
+26 ... Nd7 27 Qh8
+                                                                        白方威胁Qf6+和Nf8将杀。
+
+But this threat of a beautiful mate in three moves (28 f6+ Kd8 29
+Qxe8+ Kxe8 30 Rc8+) Black overlooks.                                    26... Nd7 27. Qh8
+
+27 ... Rxd3 28 f6+ 1-0
+                                                                        黑方却漏掉了白方三步漂亮的将杀威胁：28. f6+ Kd8 29.
+                                                                        Qxe8+ Kxe8 30. Rc8#。
+
+
+                                                                        27... Rxd3 28. f6+ 1-0
+
+
+
+
+                                                                        10
+ 《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+附录：原扫描页
+以下图像保留原书棋盘图、版面和旧式记谱，用于核对 OCR、棋谱与译文。印刷页 17 的上半页属于上一节；印刷页 26 的后半页
+已经进入下一节。
+
+
+
+
+                               11
+《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                          原书印刷页 17
+
+
+
+
+                             12
+《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                          原书印刷页 18
+
+
+
+
+                             13
+《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                          原书印刷页 19
+
+
+
+
+                             14
+《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                          原书印刷页 20
+
+
+
+
+                             15
+《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                          原书印刷页 21
+
+
+
+
+                             16
+《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                          原书印刷页 22
+
+
+
+
+                             17
+《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                          原书印刷页 23
+
+
+
+
+                             18
+《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                          原书印刷页 24
+
+
+
+
+                             19
+《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                          原书印刷页 25
+
+
+
+
+                             20
+《国际象棋中局计划》｜计划 - 动态性｜校对稿
+
+
+
+
+                          原书印刷页 26
+
+
+
+
+                             21
+

@@ -1,0 +1,400 @@
+{
+  "pdf_page": 94,
+  "printed_page": 94,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        232.8,
+        126.0,
+        286.7,
+        173.4
+      ],
+      "text": "94",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        661.6,
+        127.2,
+        1162.7,
+        174.6
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9712
+    },
+    {
+      "bbox": [
+        234.0,
+        268.2,
+        1558.4,
+        325.6
+      ],
+      "text": "f3+ - 25 Ωe6 e7 26 xe3) 23 h4 g7 24 Wh8+ g8 25 Wh7, repeating",
+      "confidence": 0.9574
+    },
+    {
+      "bbox": [
+        232.8,
+        323.1,
+        1557.2,
+        374.2
+      ],
+      "text": "moves. Possibly one could also play for a win here with 25 Wh6+ f7 26 e6.",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        280.6,
+        374.2,
+        419.0,
+        416.7
+      ],
+      "text": "20 b5",
+      "confidence": 0.9506
+    },
+    {
+      "bbox": [
+        278.1,
+        422.9,
+        1388.1,
+        472.8
+      ],
+      "text": "20 e2 is weaker, since after 20...de8 Black's king escapes to d8.",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        279.3,
+        475.3,
+        433.7,
+        517.7
+      ],
+      "text": "20...h8",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        279.3,
+        527.7,
+        1555.9,
+        567.6
+      ],
+      "text": "20...c6? is bad because of 21 dxc6 while if 20...a6?, then 21 ee6 axb5 22",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        234.0,
+        575.1,
+        778.0,
+        622.5
+      ],
+      "text": "hf6+ with advantage to White.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        275.7,
+        621.2,
+        1559.6,
+        673.6
+      ],
+      "text": "21 Wxh8 gxh6 22 Wh7+ *f6 23 xe7! Wxe7 24 Wxh6+, and White forces",
+      "confidence": 0.9652
+    },
+    {
+      "bbox": [
+        231.6,
+        677.4,
+        509.7,
+        726.0
+      ],
+      "text": "perpetual check.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        232.8,
+        772.2,
+        428.8,
+        822.1
+      ],
+      "text": "B) 17 μh3",
+      "confidence": 0.9558
+    },
+    {
+      "bbox": [
+        278.1,
+        828.3,
+        1199.4,
+        873.2
+      ],
+      "text": "White's other sound continuation, discovered by Keres.",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        276.9,
+        877.0,
+        404.3,
+        920.6
+      ],
+      "text": "17...f4!",
+      "confidence": 0.9679
+    },
+    {
+      "bbox": [
+        276.9,
+        928.1,
+        1323.2,
+        976.8
+      ],
+      "text": "According to Keres, all other moves give White the advantage.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        276.9,
+        974.3,
+        1502.0,
+        1027.9
+      ],
+      "text": "18 g4 fxg3 19 Wh7+ $f7 20 Wh5+ g8 21 Wh7+ with perpetual check.",
+      "confidence": 0.962
+    },
+    {
+      "bbox": [
+        275.7,
+        1026.7,
+        1555.9,
+        1077.8
+      ],
+      "text": "Against 20...g6 Keres gives 21 Wh7+ e8 22 xg3 and White stands better,",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        230.3,
+        1076.6,
+        1557.2,
+        1129.0
+      ],
+      "text": "but Black can improve by 21...f6 22 Wh4+ f7 and draws. Black would proba-",
+      "confidence": 0.9829
+    },
+    {
+      "bbox": [
+        232.8,
+        1127.7,
+        1555.9,
+        1177.6
+      ],
+      "text": "bly not be able to venture on 22...g5 23 Wh6+ g6 24 h5 gxf2+ 25 xf2 since",
+      "confidence": 0.9785
+    },
+    {
+      "bbox": [
+        227.9,
+        1178.9,
+        970.3,
+        1227.5
+      ],
+      "text": "if 25...e5+ White can boldly play 26 e3.",
+      "confidence": 0.9675
+    },
+    {
+      "bbox": [
+        274.4,
+        1231.3,
+        1083.0,
+        1276.2
+      ],
+      "text": "Now we examine White's weaker continuations.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        235.2,
+        1332.3,
+        668.9,
+        1373.5
+      ],
+      "text": "C) 17 e2? e8! 18 μe1",
+      "confidence": 0.9433
+    },
+    {
+      "bbox": [
+        274.4,
+        1378.5,
+        1535.1,
+        1432.1
+      ],
+      "text": "18 Wh8+ f7 19 h5+ is not sufficient for a draw on account of 19...g6.",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        276.9,
+        1428.4,
+        567.2,
+        1473.3
+      ],
+      "text": "18...f8 19 b5",
+      "confidence": 0.9398
+    },
+    {
+      "bbox": [
+        274.4,
+        1478.3,
+        602.8,
+        1526.9
+      ],
+      "text": "Or 19 Wh8+ Dg8!.",
+      "confidence": 0.8909
+    },
+    {
+      "bbox": [
+        274.4,
+        1528.2,
+        1252.1,
+        1578.1
+      ],
+      "text": "19...d7 20 e6 g8! and White's attack is driven back'.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        232.8,
+        1629.2,
+        747.3,
+        1681.6
+      ],
+      "text": "D) 17 e1? g6! 18 μh3 (D)",
+      "confidence": 0.95
+    },
+    {
+      "bbox": [
+        275.7,
+        1682.9,
+        431.2,
+        1725.3
+      ],
+      "text": "18...f6!",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        273.2,
+        1734.0,
+        1553.5,
+        1781.4
+      ],
+      "text": "18...f4 is weaker because of 19 e6 and so is 18...f4?, e.g. 19 Wh7+ f7 20",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        225.4,
+        1775.2,
+        963.0,
+        1837.5
+      ],
+      "text": "he3 g6 21 Wh5 followed by e7+, etc².",
+      "confidence": 0.9793
+    },
+    {
+      "bbox": [
+        308.7,
+        1894.9,
+        1554.7,
+        1952.3
+      ],
+      "text": "At the end of this line 21 Wxf5+ f6 22 Qxd7 Wxd7 23 xf6+ wins for White,",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        231.6,
+        1907.4,
+        252.4,
+        1931.1
+      ],
+      "text": "1",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        308.7,
+        1951.1,
+        1552.3,
+        1996.0
+      ],
+      "text": "so Black must search for an improvement earlier. 17...2g6 18 Wh7+ f7 19",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        310.0,
+        1996.0,
+        1552.3,
+        2047.1
+      ],
+      "text": "h6 f4 20 Ωh5+ xh5 21 Wg6+ g8 22 Wxh5 gxh6 23 Wg6+ with a draw",
+      "confidence": 0.9477
+    },
+    {
+      "bbox": [
+        311.2,
+        2047.1,
+        1537.6,
+        2094.5
+      ],
+      "text": "may well be Black's best, so 17 Qe2 probably doesn't deserve a question mark.",
+      "confidence": 0.977
+    },
+    {
+      "bbox": [
+        226.7,
+        2099.5,
+        253.6,
+        2131.9
+      ],
+      "text": "2",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        307.5,
+        2095.8,
+        1553.5,
+        2145.7
+      ],
+      "text": "However 21...Wf6 seems to defend, e.g. 22 e7+ g8 or 22 e6 xe6 23 xe6",
+      "confidence": 0.9684
+    },
+    {
+      "bbox": [
+        308.7,
+        2139.4,
+        1552.3,
+        2196.8
+      ],
+      "text": "Wxb2 24 Wxg6+ g8. Therefore White should prefer 21 g3! Wf6 22 e6!",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        310.0,
+        2188.1,
+        1053.6,
+        2244.2
+      ],
+      "text": "xe6 23 dxe6+ e8 24 xg6 with advantage.",
+      "confidence": 0.9981
+    }
+  ]
+}

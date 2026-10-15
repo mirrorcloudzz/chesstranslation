@@ -1,0 +1,230 @@
+{
+  "pdf_page": 80,
+  "printed_page": 80,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        200.9,
+        290.7,
+        778.0,
+        375.5
+      ],
+      "text": "5 Focal-points",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        203.4,
+        522.7,
+        1529.0,
+        573.8
+      ],
+      "text": "The series of examples examined in the chapter on mating patterns has given us a",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        202.1,
+        572.6,
+        1526.5,
+        625.0
+      ],
+      "text": "good idea of the difficulties a defender encounters when his forces (especially",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        202.1,
+        623.7,
+        1530.2,
+        673.6
+      ],
+      "text": "the pawns in front of his castled king) are poorly placed and when the attacker's",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        200.9,
+        674.9,
+        1526.5,
+        723.5
+      ],
+      "text": "one aim is to fill the various 'holes and cracks' in the weakened enemy defences",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        200.9,
+        723.5,
+        1530.2,
+        775.9
+      ],
+      "text": "with his own pieces and thus obtain an even tighter grip. It follows from this that",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        198.5,
+        770.9,
+        1529.0,
+        830.8
+      ],
+      "text": "the squares in the immediate vicinity of the king, where the drama of the mating",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        199.7,
+        825.8,
+        1527.8,
+        877.0
+      ],
+      "text": "attack usually reaches its climax, play a special role. If the attacker threatens",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        197.2,
+        877.0,
+        1526.5,
+        928.1
+      ],
+      "text": "mate or actually mates on these squares, they are mating focal-points, but if he",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        200.9,
+        926.9,
+        1525.3,
+        975.5
+      ],
+      "text": "only harries the king from them or uses them as points from which to break into",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        199.7,
+        975.5,
+        1522.9,
+        1029.2
+      ],
+      "text": "the castled position, they are called strategic or auxiliary focal-points. It may be",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        197.2,
+        1025.4,
+        1524.1,
+        1079.1
+      ],
+      "text": "that there is more than one mating focal-point, and in that case we speak of com-",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        197.2,
+        1077.8,
+        1524.1,
+        1130.2
+      ],
+      "text": "pound focal-points. If there are many focal-points (both mating and strategic) on",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        200.9,
+        1126.5,
+        1323.2,
+        1178.9
+      ],
+      "text": "squares of the same colour, we speak of a network of weak squares.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        241.4,
+        1175.1,
+        1526.5,
+        1231.3
+      ],
+      "text": "Generally speaking, every focal-point is a weak square in the defender's terri-",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        197.2,
+        1227.5,
+        1521.6,
+        1281.2
+      ],
+      "text": "tory and a potentially strong one for the attacker. In addition to the focal-points",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        196.0,
+        1277.4,
+        1524.1,
+        1332.3
+      ],
+      "text": "there are also other squares in the castling area which have a specific function,",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        197.2,
+        1331.1,
+        1524.1,
+        1381.0
+      ],
+      "text": "e.g. blocked squares, particularly those occupied by the defender's pawns, and",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        196.0,
+        1379.7,
+        1378.3,
+        1430.9
+      ],
+      "text": "also any weak squares on which the attacker can safely post his pieces.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        237.7,
+        1425.9,
+        1520.4,
+        1487.0
+      ],
+      "text": "As an illustration of this, take the following position (which we have already",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        194.8,
+        1479.5,
+        1032.8,
+        1529.4
+      ],
+      "text": "seen earlier). Here we have the following scheme:",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        530.5,
+        1690.3,
+        563.6,
+        1722.8
+      ],
+      "text": "W",
+      "confidence": 0.9829
+    }
+  ]
+}

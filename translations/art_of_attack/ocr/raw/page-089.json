@@ -1,0 +1,300 @@
+{
+  "pdf_page": 89,
+  "printed_page": 89,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        779.2,
+        124.7,
+        1009.5,
+        174.6
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        1497.1,
+        127.2,
+        1549.8,
+        173.4
+      ],
+      "text": "89",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        221.8,
+        273.2,
+        1546.1,
+        320.6
+      ],
+      "text": "king can escape from g8 to f8, whereas to avoid the threat of the queen on g7 the",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        226.7,
+        328.1,
+        1544.9,
+        365.5
+      ],
+      "text": "king has to travel further (to e8 or e7). Because of this, the main task involved in",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        224.2,
+        375.5,
+        1546.1,
+        419.2
+      ],
+      "text": "attacks on the focal-point g7 is the 'clearing' of that square, while the possible",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        225.4,
+        426.6,
+        1544.9,
+        469.1
+      ],
+      "text": "escape of the king is a minor worry. In attacks on h7 the 'clearing' is usually the",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        221.8,
+        472.8,
+        1546.1,
+        523.9
+      ],
+      "text": "easier task, while the attacker's main preoccupation is to stop the king escaping:",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        223.0,
+        525.2,
+        1549.8,
+        568.9
+      ],
+      "text": "this means essentially that he should have a new focal-point in view, if the attack",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        219.3,
+        573.8,
+        1547.4,
+        621.2
+      ],
+      "text": "is to be successful. In other words, the possible escape of the king turns the pri-",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        225.4,
+        626.2,
+        1549.8,
+        671.1
+      ],
+      "text": "mary focal-point h7 into a secondary one, so that a new, real focal-point becomes",
+      "confidence": 0.9775
+    },
+    {
+      "bbox": [
+        223.0,
+        676.1,
+        1548.6,
+        722.3
+      ],
+      "text": "necessary. It is worth keeping this important fact in mind, since in practice the",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        225.4,
+        729.8,
+        1547.4,
+        770.9
+      ],
+      "text": "majority of possible attacks on h7 founder precisely on the king's use of the sim-",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        221.8,
+        775.9,
+        916.4,
+        824.6
+      ],
+      "text": "ple defensive expedient of running away.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        265.9,
+        825.8,
+        1547.4,
+        873.2
+      ],
+      "text": "These factors, which apply to most attacks on h7, are well illustrated by the",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        223.0,
+        877.0,
+        544.0,
+        923.1
+      ],
+      "text": "following example.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        531.7,
+        1080.3,
+        566.0,
+        1112.8
+      ],
+      "text": "W",
+      "confidence": 0.957
+    },
+    {
+      "bbox": [
+        265.9,
+        1578.1,
+        1546.1,
+        1630.5
+      ],
+      "text": "White, to move, begins with 1 Wb1!. Black's queen has to guard the square e8,",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        220.5,
+        1631.7,
+        687.3,
+        1677.9
+      ],
+      "text": "and so has only two replies:",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        263.4,
+        1676.6,
+        1548.6,
+        1731.5
+      ],
+      "text": "1) 1...Wd7 2 e7! (after 2 xe8+? Wxe8 3 Wh7+ *f8 White's attack comes",
+      "confidence": 0.9446
+    },
+    {
+      "bbox": [
+        216.9,
+        1732.7,
+        1544.9,
+        1780.2
+      ],
+      "text": "to a dead end, since the black king has e7 to escape to) 2...Wxe7 (2...xe7 has the",
+      "confidence": 0.9758
+    },
+    {
+      "bbox": [
+        216.9,
+        1781.4,
+        1547.4,
+        1830.1
+      ],
+      "text": "same effect, while if 2...Wd8, then 3 Wh7+ followed by 4 #xf7#) 3 Wh7+ f8 4",
+      "confidence": 0.9755
+    },
+    {
+      "bbox": [
+        219.3,
+        1828.8,
+        338.1,
+        1876.2
+      ],
+      "text": "Wh8#.",
+      "confidence": 0.9494
+    },
+    {
+      "bbox": [
+        261.0,
+        1881.2,
+        1547.4,
+        1933.6
+      ],
+      "text": "2) 1..Wc6 2 d5 Wc8 3 xe8+ (this is all right now, but 3 e7? would not do",
+      "confidence": 0.9721
+    },
+    {
+      "bbox": [
+        218.1,
+        1933.6,
+        1547.4,
+        1984.7
+      ],
+      "text": "because of 3...xg5) 3...Wxe8 4 Wh7+ f8 5 d6, and Black cannot avoid mate",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        219.3,
+        1989.7,
+        593.0,
+        2027.2
+      ],
+      "text": "next move by 6 Wh8#.",
+      "confidence": 0.967
+    },
+    {
+      "bbox": [
+        263.4,
+        2037.1,
+        1542.5,
+        2084.5
+      ],
+      "text": "White's combination, then, has two variations, and the point of each is to de-",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        218.1,
+        2087.0,
+        1543.7,
+        2136.9
+      ],
+      "text": "prive Black's king of an escape to e7, either by blocking it or playing d6. The",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        219.3,
+        2139.4,
+        1543.7,
+        2183.1
+      ],
+      "text": "square h7 appears here as a secondary focal-point, while the crucial factor in the",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        218.1,
+        2188.1,
+        1057.3,
+        2231.7
+      ],
+      "text": "combination is the mate when the king reaches f8.",
+      "confidence": 0.998
+    }
+  ]
+}

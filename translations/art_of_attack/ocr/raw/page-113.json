@@ -1,0 +1,190 @@
+{
+  "pdf_page": 113,
+  "printed_page": 113,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        787.8,
+        122.3,
+        1016.9,
+        168.4
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        1484.9,
+        118.5,
+        1560.8,
+        164.7
+      ],
+      "text": "113",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        544.0,
+        378.0,
+        564.8,
+        404.2
+      ],
+      "text": "B",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        234.0,
+        869.5,
+        1562.1,
+        920.6
+      ],
+      "text": "(but not 8 h6? because of 8...h7, and Black is at once in a safe position!) with a",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        234.0,
+        928.1,
+        496.2,
+        968.0
+      ],
+      "text": "decisive attack.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        278.1,
+        979.3,
+        497.4,
+        1021.7
+      ],
+      "text": "5 h5 b4 6 g3",
+      "confidence": 0.9426
+    },
+    {
+      "bbox": [
+        276.9,
+        1021.7,
+        1564.5,
+        1074.1
+      ],
+      "text": "White's plan, a typical one in positions of this kind, is to play g2 and then",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        235.2,
+        1075.3,
+        1560.8,
+        1120.2
+      ],
+      "text": "ah1. The immediate 6 hxg6 would be weaker, for Black would reply 6...fxg6",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        234.0,
+        1124.0,
+        1565.7,
+        1173.9
+      ],
+      "text": "opening up the second rank for defensive purposes. White must first of all post",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        231.6,
+        1175.1,
+        1456.7,
+        1223.8
+      ],
+      "text": "his heavy pieces in their assault positions and only then venture on hxg6.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        280.6,
+        1227.5,
+        477.8,
+        1268.7
+      ],
+      "text": "6...a4 7 a3!",
+      "confidence": 0.9735
+    },
+    {
+      "bbox": [
+        276.9,
+        1274.9,
+        1133.3,
+        1324.8
+      ],
+      "text": "Otherwise Black obtains good prospects with ...a3.",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        280.6,
+        1326.1,
+        615.0,
+        1372.2
+      ],
+      "text": "7...bxc3 8 bxc3 (D)",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        546.4,
+        1533.2,
+        572.1,
+        1566.8
+      ],
+      "text": "B",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        281.8,
+        2032.1,
+        420.2,
+        2079.5
+      ],
+      "text": "8...Da5",
+      "confidence": 0.9123
+    },
+    {
+      "bbox": [
+        283.0,
+        2085.8,
+        1565.7,
+        2130.7
+      ],
+      "text": "A raid by a black rook along the b-file will not succeed, since both rooks are",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        238.9,
+        2138.2,
+        1563.3,
+        2180.6
+      ],
+      "text": "needed to defend the second rank, as can be seen from the following variation:",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        238.9,
+        2183.1,
+        1564.5,
+        2230.5
+      ],
+      "text": "8...ab8 9 g2 b3 10 ah1 c7 11 Wg5 xa3 (or 11...Wxa3 12 Wh6 Wf8 13",
+      "confidence": 0.9529
+    }
+  ]
+}

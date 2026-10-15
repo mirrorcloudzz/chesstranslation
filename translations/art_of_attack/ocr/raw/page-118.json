@@ -1,0 +1,190 @@
+{
+  "pdf_page": 118,
+  "printed_page": 118,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        251.2,
+        121.0,
+        328.3,
+        167.2
+      ],
+      "text": "118",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        680.0,
+        123.5,
+        1182.3,
+        174.6
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        586.8,
+        379.2,
+        611.3,
+        410.4
+      ],
+      "text": "B",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        247.5,
+        874.5,
+        1575.5,
+        933.1
+      ],
+      "text": "the diagram on page 109; namely, in creating threats against a dark-square net-",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        247.5,
+        926.9,
+        1573.1,
+        980.5
+      ],
+      "text": "work, White repeatedly makes use of sacrifices on squares of the other colour.",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        245.0,
+        974.3,
+        1573.1,
+        1034.2
+      ],
+      "text": "These sacrifices fulfil the task of breaking up clusters of pawns which otherwise",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        246.3,
+        1026.7,
+        1569.4,
+        1080.3
+      ],
+      "text": "impede the attacker's access to the weak squares on the network itself. The link-",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        243.8,
+        1077.8,
+        1573.1,
+        1130.2
+      ],
+      "text": "age between the operations on the networks of different colours should be noted;",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        242.6,
+        1126.5,
+        1571.9,
+        1182.6
+      ],
+      "text": "on one network the intention is to keep the attacking pieces in the strongest and",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        242.6,
+        1178.9,
+        1571.9,
+        1230.0
+      ],
+      "text": "most permanent positions possible, while on the other they are sacrificed when",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        243.8,
+        1228.8,
+        619.9,
+        1271.2
+      ],
+      "text": "the situation demands.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        281.8,
+        1276.2,
+        1571.9,
+        1333.6
+      ],
+      "text": "It should finally be pointed out that, instead of the move played, 14...Wxb2?",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        243.8,
+        1324.8,
+        1567.0,
+        1382.2
+      ],
+      "text": "would have been bad because of 15 fb1 Wa3 16 b3 Wa5 17 f6 e8 18 c4,",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        243.8,
+        1377.2,
+        1226.4,
+        1432.1
+      ],
+      "text": "when White's prospects for an attack are greatly improved.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        285.5,
+        1424.6,
+        545.2,
+        1477.0
+      ],
+      "text": "15 c4 h5 (D)",
+      "confidence": 0.9801
+    },
+    {
+      "bbox": [
+        284.2,
+        1478.3,
+        1567.0,
+        1533.2
+      ],
+      "text": "There was a threat of 16 Ωxf7+ xf7 17 Wxh7+ $e6 18 d5+ xd5 19",
+      "confidence": 0.9755
+    },
+    {
+      "bbox": [
+        241.4,
+        1526.9,
+        1157.8,
+        1581.8
+      ],
+      "text": "ad1+. If 15...Qe6, then 16 d5 would naturally follow.",
+      "confidence": 0.9776
+    },
+    {
+      "bbox": [
+        573.4,
+        1740.2,
+        608.9,
+        1773.9
+      ],
+      "text": "W",
+      "confidence": 0.936
+    }
+  ]
+}

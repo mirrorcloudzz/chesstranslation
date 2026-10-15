@@ -1,0 +1,310 @@
+{
+  "pdf_page": 160,
+  "printed_page": 160,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        301.4,
+        114.8,
+        378.6,
+        160.9
+      ],
+      "text": "160",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        731.4,
+        119.8,
+        1233.7,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9556
+    },
+    {
+      "bbox": [
+        639.5,
+        373.0,
+        665.3,
+        405.4
+      ],
+      "text": "B",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        339.4,
+        867.0,
+        1618.4,
+        925.6
+      ],
+      "text": "In this example Black is the attacker. He has already sacrificed his queen in or-",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        295.3,
+        916.9,
+        1618.4,
+        976.8
+      ],
+      "text": "der to reach this position, his intention being to mate White's king with a rook on",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        292.8,
+        968.0,
+        1620.9,
+        1027.9
+      ],
+      "text": "h1. Doubling rooks is not a problem for Black in this position, but he is involved",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        291.6,
+        1017.9,
+        1617.2,
+        1077.8
+      ],
+      "text": "in a struggle for f2, which is important as a flight square for the white king. There",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        291.6,
+        1066.6,
+        1617.2,
+        1131.5
+      ],
+      "text": "are two methods of handling this: the king can be allowed to get out and a mating",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        290.4,
+        1120.2,
+        1618.4,
+        1180.1
+      ],
+      "text": "net then woven round it, or the formation with the pawn at g3 and doubled rooks",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        291.6,
+        1171.4,
+        1616.0,
+        1228.8
+      ],
+      "text": "can be set up. Both courses lead to success in this position, and both do so in two",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        291.6,
+        1218.8,
+        1565.7,
+        1279.9
+      ],
+      "text": "ways, so that in all Black has four lines which lead to victory. Here they are:",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        290.4,
+        1268.7,
+        584.4,
+        1312.3
+      ],
+      "text": "A) 1..ah8 2 f4",
+      "confidence": 0.9661
+    },
+    {
+      "bbox": [
+        332.0,
+        1319.8,
+        1533.9,
+        1381.0
+      ],
+      "text": "The only reply; if 2 g3, White is mated by the rooks; if 2 f3, then 2...g3.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        333.2,
+        1367.2,
+        490.1,
+        1412.1
+      ],
+      "text": "2...μh1+",
+      "confidence": 0.9122
+    },
+    {
+      "bbox": [
+        330.8,
+        1419.6,
+        1494.7,
+        1479.5
+      ],
+      "text": "This is the 'mating net' method; 2..g3 allows White to reply 3 Wxh5.",
+      "confidence": 0.9726
+    },
+    {
+      "bbox": [
+        329.6,
+        1467.0,
+        1611.1,
+        1533.2
+      ],
+      "text": "3 f2 xe4+ 4 e1 xf1+ 5 xf1 h1+ 6 g1xg1+ 7 xg1 f3+ 8 fl",
+      "confidence": 0.9106
+    },
+    {
+      "bbox": [
+        286.7,
+        1518.2,
+        404.3,
+        1569.3
+      ],
+      "text": "Dg3#.",
+      "confidence": 0.9749
+    },
+    {
+      "bbox": [
+        327.1,
+        1571.8,
+        1604.9,
+        1633.0
+      ],
+      "text": "In this variation the doubled rooks have disappeared, but the ^doubled knights'",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        285.5,
+        1624.2,
+        704.5,
+        1669.1
+      ],
+      "text": "are not to be overlooked.",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        284.2,
+        1669.1,
+        1253.3,
+        1726.5
+      ],
+      "text": "B) 1...e2+ 2 Wxe2 ah8 3 f4 g3 4 Wxh5 xe3+ 5 f2",
+      "confidence": 0.9533
+    },
+    {
+      "bbox": [
+        327.1,
+        1724.0,
+        1565.7,
+        1783.9
+      ],
+      "text": "Some players are more hurt by forced moves of this kind than by mate itself.",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        327.1,
+        1771.4,
+        1374.6,
+        1830.1
+      ],
+      "text": "5...xh5 6 f1 gxf2 7 e2 f1W+ 8 xf1 g3+ 9 e1 h1#",
+      "confidence": 0.9314
+    },
+    {
+      "bbox": [
+        323.4,
+        1825.1,
+        1606.2,
+        1883.7
+      ],
+      "text": "Let us now look at the two continuations which use the method based on the",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        284.2,
+        1876.2,
+        547.6,
+        1919.9
+      ],
+      "text": "...g3 formation.",
+      "confidence": 0.9511
+    },
+    {
+      "bbox": [
+        281.8,
+        1921.1,
+        1210.4,
+        1978.5
+      ],
+      "text": "C) 1...2e2+ 2 Wxe2 ah8 3 f4 xe3+ 4 Wxe3 xe4!",
+      "confidence": 0.9545
+    },
+    {
+      "bbox": [
+        323.4,
+        1973.5,
+        1440.8,
+        2037.1
+      ],
+      "text": "This controls f2 and draws the queen away from the defence of g3.",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        322.2,
+        2020.9,
+        513.3,
+        2074.6
+      ],
+      "text": "5 Wxe4 g3",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        321.0,
+        2073.3,
+        1604.9,
+        2143.2
+      ],
+      "text": "By means of a series of diversions Black has now established the necessary",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        279.3,
+        2124.5,
+        1603.7,
+        2190.6
+      ],
+      "text": "conditions for the success of the pure formation of doubled rooks plus pawn on",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        276.9,
+        2175.6,
+        1606.2,
+        2243.0
+      ],
+      "text": "g3 against pawn on g2. To avoid mate White would now have to give up nearly all",
+      "confidence": 0.9804
+    }
+  ]
+}

@@ -1,0 +1,5805 @@
+[
+  {
+    "chapter": 5,
+    "page": 145,
+    "side": "full",
+    "kind": "title",
+    "text": "More about active play with pawns",
+    "zh": "进一步谈兵的积极行动",
+    "segment_id": "CH5-1"
+  },
+  {
+    "chapter": 5,
+    "page": 145,
+    "side": "full",
+    "kind": "title",
+    "text": "The pawn wedge and the reaction to it. The pawn nail. The phalanx of e- and f-pawns. Pawn storm.",
+    "zh": "兵楔及其应对。钉子兵。e兵与f兵组成的兵阵。兵潮。",
+    "segment_id": "CH5-2"
+  },
+  {
+    "page": 145,
+    "side": "left",
+    "kind": "body",
+    "text": "And so we have convinced ourselves that the role of the pawn in no way amounts to positional pressure, the control of squares of a certain colour, securing a handy base for piece forces; the pawns are also a powerful 1 means of attack. Without active pawn support, a piece attack often turns out to be doomed to failure, running up against a defensive bristle of enemy pawns. Consequently, one of the main attacking tasks of pawns is the removal of the opponent's defensive pawn line in the sector serving as an object of a planned attack. If, however, such a pawn attack is launched against castling, then it often leads to the creation of direct mating threats to the exposed king.",
+    "chapter": 5,
+    "segment_id": "CH5-3",
+    "zh": "由此我们已经认识到，兵的作用绝不只是施加局面压力、控制某种颜色的格，或为子力提供便利的据点；兵本身也是强大的进攻手段。子力发起的进攻若得不到兵的积极支援，往往会撞上敌兵构成的防御屏障而归于失败。因此，兵在进攻中的主要任务之一，就是清除计划攻击区域内对手的防御兵线。如果兵的攻击针对易位后的王翼阵地，它往往会对暴露的王直接形成将杀威胁。"
+  },
+  {
+    "page": 145,
+    "side": "left",
+    "kind": "body",
+    "text": "In practice, with active pawn operations, well known is the formation in the centre bearing the graphic name pawn wedge. The scheme of \"driving\" such a wedge appears in the following form.",
+    "chapter": 5,
+    "segment_id": "CH5-4",
+    "zh": "实际上，在活跃的兵操作中，众所周知的是中心的编队带有图形名称兵楔。“驱动”这种楔子的方案以下列形式出现。"
+  },
+  {
+    "page": 145,
+    "side": "left",
+    "kind": "body",
+    "text": "(see diagram next column)",
+    "chapter": 5,
+    "segment_id": "CH5-5",
+    "zh": "（参见下一栏图表）"
+  },
+  {
+    "page": 145,
+    "side": "left",
+    "kind": "body",
+    "text": "It should be noted that the formation e4-d5-c4 (for Black e5d4-c5) is called a wedge in the case when one of the opponent's pawns, adjacent to the wedging pawns, is still on its original square c7 or e7 (c2 or e2). Such a wedge is more dynamic (prospects of advancing c4-c5 or e4-e5 for White, correspondingly ... c5-c4 or ... e5e4 for Black), but in return less stable in view of the possibility of undermining it by the moves ...",
+    "chapter": 5,
+    "page_end": 145,
+    "segment_id": "CH5-6",
+    "zh": "应当指出，只有在楔入兵两侧相邻的对方兵仍停留在原始格c7或e7（对黑方而言为c2或e2）时，e4-d5-c4（黑方为e5-d4-c5）兵形才称为兵楔。这种兵楔动态潜力更强——白方可冲起c4-c5或e4-e5，黑方相应可走...c5-c4或...e5-e4——但也不那么稳固，因为对方可能用以下冲兵加以冲击："
+  },
+  {
+    "page": 145,
+    "side": "right",
+    "kind": "moves",
+    "text": "c7-c6 or ... e7-e6 (c2-c3 or e2-e3).",
+    "chapter": 5,
+    "segment_id": "CH5-7",
+    "zh": "c7-c6 or ... e7-e6 (c2-c3 or e2-e3)."
+  },
+  {
+    "page": 145,
+    "side": "right",
+    "kind": "body",
+    "text": "The undermining advance of the f-pawn serves as the basic method of struggle against the wedge. A careful assessment of the position will determine whether the construction of the wedge is favourable or unfavourable. The wedge, of course, allows the gain of space and cramps the opponent, but at the same time limits the dynamic resources and, uo the contrary, increases them for the enemy due to clear prospects of a lively pawn action on the king's flank. It is hardly worthwhile constructing a wedge just to somewhat cramp the opponent. The construction of a wedge is justified only in that case when it is possible to count on retaining the initiative or at least where there is the possibility of preventing the advance of the enemy f-pawn.",
+    "chapter": 5,
+    "page_end": 146,
+    "segment_id": "CH5-8",
+    "zh": "破坏冲兵是对抗楔子的基本方法。仔细评估位置将决定楔形结构是有利还是不利。当然，楔形允许获得空间并限制对手，但同时限制了动态资源，相反，由于在王翼上进行活跃的兵行动的明确前景，增加了敌人的动态资源。仅仅为了稍微限制对手而构建楔子是不值得的。只有在可以指望保留主动权或至少有可能阻止敌人f-兵前进的情况下，建造楔子才是合理的。"
+  },
+  {
+    "page": 146,
+    "side": "left",
+    "kind": "body",
+    "text": "White more often has recourse to a pawn wedge than Black. In several ideological variations of the King's Indian Defence or Spanish Game, it is a logical link in the plan of play.",
+    "chapter": 5,
+    "segment_id": "CH5-9",
+    "zh": "白方比黑方更常使用兵楔。在老印度防御或西班牙开局的几个意识形态变体中，它是对局计划中的逻辑链接。"
+  },
+  {
+    "page": 146,
+    "side": "left",
+    "kind": "body",
+    "text": "The author of one interesting plan, entailing the construction of a wedge, in the King's Indian Defence, was Nimzovich. In his game with Tartakover (Carlsbad 1929) after",
+    "chapter": 5,
+    "segment_id": "CH5-10",
+    "zh": "一项有趣计划的作者是尼姆佐维奇，该计划需要在老印度防御中建造一个楔子。在他与塔塔科维（卡尔斯巴德 1929）的对局中"
+  },
+  {
+    "page": 146,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. d4. Nf6 2. c4. g6 3. f3. Bg7 4. e4. d6 5. Nc3. O-O 6. Be3. Nbd7 7. Nh3",
+    "chapter": 5,
+    "page_end": 146,
+    "segment_id": "CH5-11",
+    "zh": "1. d4. Nf6 2. c4. g6 3. f3. Bg7 4. e4. d6 5. Nc3. O-O 6. Be3. Nbd7 7. Nh3"
+  },
+  {
+    "page": 146,
+    "side": "left",
+    "kind": "body",
+    "text": "e5 the following position was reached.",
+    "chapter": 5,
+    "page_end": 146,
+    "segment_id": "CH5-12",
+    "zh": "e5 已到达以下位置。"
+  },
+  {
+    "page": 146,
+    "side": "left",
+    "kind": "body",
+    "text": "Here, Nimzovich played 8. d5, on which followed 8... a5.",
+    "chapter": 5,
+    "segment_id": "CH5-13",
+    "zh": "此处，尼姆佐维奇播放了 8. d5，随后播放了 8... a5。"
+  },
+  {
+    "page": 146,
+    "side": "left",
+    "kind": "body",
+    "text": "Black's plan consists of placing his knight on c5, for which its position is secured against the raid b4, and then transferring the other knight to h5, d7 or e8 and beginning conventional play on the basis of the undermining move ... f5. Such a plan has led to success time and again.",
+    "chapter": 5,
+    "page_end": 146,
+    "segment_id": "CH5-14",
+    "zh": "黑方的计划包括将他的马放在c5上，从而确保其位置免受突袭b4的影响，然后将另一个马转移到h5、d7或e8，并在破坏着法的基础上开始常规对局...f5。这样的计划一次又一次地取得了成功。"
+  },
+  {
+    "page": 146,
+    "side": "right",
+    "kind": "moves",
+    "text": "9. Nf2. b6 10. Qd2. Nc5 11. Bg5!",
+    "chapter": 5,
+    "segment_id": "CH5-15",
+    "zh": "9. Nf2. b6 10. Qd2. Nc5 11. Bg5!"
+  },
+  {
+    "page": 146,
+    "side": "right",
+    "kind": "body",
+    "text": "White pins the knight down to f6 and, in that period while Black will be trying to free himself from the pin, he intends to launch an energetic pawn offensive on the king's flank. This outlines Nimzovich's plan.",
+    "chapter": 5,
+    "segment_id": "CH5-16",
+    "zh": "白方将马钉在 f6 上，并且在这段时间内，当黑方试图将自己从钉中解放出来时，他打算对王翼发起充满活力的兵攻势。这概述了尼姆佐维奇的计划。"
+  },
+  {
+    "page": 146,
+    "side": "right",
+    "kind": "body",
+    "text": "As indicated by Nimzovich himself, Black, on the 10th move, should have continued 10... Nh5",
+    "chapter": 5,
+    "segment_id": "CH5-17",
+    "zh": "正如尼姆佐维奇自己所指出的，黑方在第10步棋时应该继续10...Nh5"
+  },
+  {
+    "page": 146,
+    "side": "right",
+    "kind": "moves",
+    "text": "and, if 11. g4, then 11... Nf4! 12. Bxf4. exf4 13. Qxf4. f5 14. gxf5. gxf5",
+    "chapter": 5,
+    "page_end": 146,
+    "segment_id": "CH5-18",
+    "zh": "并且，如果 11. g4，则 11... Nf4! 12. Bxf4。exf4 13. Qxf4. f5 14. gxf5. gxf5"
+  },
+  {
+    "page": 146,
+    "side": "right",
+    "kind": "body",
+    "text": "and 15. exf5 is bad in view of 15...",
+    "chapter": 5,
+    "segment_id": "CH5-19",
+    "zh": "鉴于 15... ，15. exf5 很糟糕"
+  },
+  {
+    "page": 146,
+    "side": "right",
+    "kind": "moves",
+    "text": "Ne5 16. Bh3. Qh4. 11... Bd7 12. g4. Qc8 13. h4. Kh8",
+    "chapter": 5,
+    "page_end": 146,
+    "segment_id": "CH5-20",
+    "zh": "Ne5 16. Bh3. Qh4. 11... Bd7 12. g4. Qc8 13. h4. Kh8"
+  },
+  {
+    "page": 146,
+    "side": "right",
+    "kind": "body",
+    "text": "Black has not succeeded in playing ... f5, while on the king's flank it is White who is attacking. In these circumstances, the construction of the wedge is more than justified.",
+    "chapter": 5,
+    "segment_id": "CH5-21",
+    "zh": "黑方没有成功下...f5，而在王翼上，白方正在进攻。在这种情况下，建造楔子是非常合理的。"
+  },
+  {
+    "page": 146,
+    "side": "right",
+    "kind": "moves",
+    "text": "14. h5. gxh5 15. Bxf6. Bxf6 16",
+    "chapter": 5,
+    "segment_id": "CH5-22",
+    "zh": "14. h5. gxh5 15. Bxf6. Bxf6 16"
+  },
+  {
+    "page": 147,
+    "side": "left",
+    "kind": "body",
+    "text": "Rxh5",
+    "chapter": 5,
+    "segment_id": "CH5-23",
+    "zh": "Rxh5"
+  },
+  {
+    "page": 147,
+    "side": "left",
+    "kind": "moves",
+    "text": "From now on the h5 and f5",
+    "chapter": 5,
+    "segment_id": "CH5-24",
+    "zh": "从现在开始 h5 和 f5"
+  },
+  {
+    "page": 147,
+    "side": "left",
+    "kind": "body",
+    "text": "squares prove to be excellent bases for White's pieces, and on this foundation he gains victory.",
+    "chapter": 5,
+    "segment_id": "CH5-25",
+    "zh": "格被证明是白方棋子的极好的基础，并在此基础上他取得了胜利。"
+  },
+  {
+    "page": 147,
+    "side": "left",
+    "kind": "body",
+    "text": "After this game, the idea of the wedge, with the future attack of the h and g-pawns, found widespread application in chess practice.",
+    "chapter": 5,
+    "segment_id": "CH5-26",
+    "zh": "这场对局之后，楔子的想法，以及未来的 h 和 g-兵攻击，在国际象棋练习中得到了广泛的应用。"
+  },
+  {
+    "page": 147,
+    "side": "left",
+    "kind": "body",
+    "text": "Makogonov-Smyslov, Sverdlovsk 1943, saw a similar plan:",
+    "chapter": 5,
+    "segment_id": "CH5-27",
+    "zh": "马科戈诺夫-斯梅斯洛夫、斯维尔德洛夫斯克1943年，看到了类似的计划："
+  },
+  {
+    "page": 147,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. d4. Nf6 2. c4. d6 3. Nc3. Nbd7 4. e4. e5 5. d5",
+    "chapter": 5,
+    "page_end": 147,
+    "segment_id": "CH5-28",
+    "zh": "1. d4. Nf6 2. c4. d6 3. Nc3. Nbd7 4. e4. e5 5. d5"
+  },
+  {
+    "page": 147,
+    "side": "left",
+    "kind": "body",
+    "text": "And so, without hesitation, White goes for the wedge. Many would prefer here to fight to maintain the tension in the centre by continuing 5. Nf3. Likewise, a good plan of development was 5. g3, followed by Nge2 and Bg2, trying to retain the d5 square as a point for a possible piece invasion.",
+    "chapter": 5,
+    "segment_id": "CH5-29",
+    "zh": "因此，白方毫不犹豫地选择挖起杆。许多人更愿意在这里通过继续 5. Nf3 来维持中心的紧张局势。同样，一个好的发展计划是 5. g3，然后是 Nge2 和 Bg2，试图保留 d5 格作为可能的棋子入侵的点。"
+  },
+  {
+    "page": 147,
+    "side": "left",
+    "kind": "body",
+    "text": "Nc56. f3a57Be3. Be7 The development of the bishop to g7 makes no sense in the light of White's plan. The latter's arrangement of pieces is virtually the same as Nimzovich's in the previous game.",
+    "chapter": 5,
+    "page_end": 147,
+    "segment_id": "CH5-30",
+    "zh": "NC56. f3a57Be3. Be7 从象到 g7 的发展根据白方的计划是没有意义的。后者的棋子排列与前一对局中的尼姆佐维奇几乎相同。"
+  },
+  {
+    "page": 147,
+    "side": "left",
+    "kind": "moves",
+    "text": "8. Qd2. O-O 9. g4. Ne8 10. h4! 10... c6",
+    "chapter": 5,
+    "page_end": 147,
+    "segment_id": "CH5-31",
+    "zh": "8. Qd2. O-O 9. g4. Ne8 10. h4! 10... c6"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "body",
+    "text": "Black must do something about the wedge which is hampering him. True, for the present there is nothing threatening the Black king since its pawn cover is still in its original position, but there is a way for White to further develop his initiative, for example the man0euvre Ng1-e2-g3-f5. Risky is",
+    "chapter": 5,
+    "segment_id": "CH5-32",
+    "zh": "黑方必须对阻碍他的楔子采取一些措施。诚然，目前没有什么威胁黑方王，因为其兵封面仍处于原来的位置，但白方有办法进一步发展他的主动权，例如策略Ng1-e2-g3-f5。有风险的是"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "moves",
+    "text": "10... Bxh4+ 11. Kd1. Be7 12. Qh2. h6 13. Bxh6 or 11... g5 12. Qh2. f6",
+    "chapter": 5,
+    "page_end": 147,
+    "segment_id": "CH5-33",
+    "zh": "10... Bxh4+ 11. Kd1. Be7 12. Qh2. h6 13. Bxh6 or 11... g5 12. Qh2. f6"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "body",
+    "text": "13. Bf2, and White, winning back the pawn, maintains active chances on the open h-file.",
+    "chapter": 5,
+    "segment_id": "CH5-34",
+    "zh": "13. Bf2，白方赢回兵，在空位 h线上保持积极的机会。"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "moves",
+    "text": "11. O-O-O cxd5",
+    "chapter": 5,
+    "segment_id": "CH5-35",
+    "zh": "11. O-O-O cxd5"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "body",
+    "text": "Better is at once 11... a4, followed by Qa5, retaining pressure on the d5 point.",
+    "chapter": 5,
+    "segment_id": "CH5-36",
+    "zh": "更好的是立即 11... a4，然后是 Qa5，在 d5 点上保持压力。"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "moves",
+    "text": "12. Nxd5. Be6 13. Ne2. Bxd5 14. exd5. a4",
+    "chapter": 5,
+    "page_end": 147,
+    "segment_id": "CH5-37",
+    "zh": "12. Nxd5. Be6 13. Ne2. Bxd5 14. exd5. a4"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "body",
+    "text": "Clearing the centre (14... e4 15",
+    "chapter": 5,
+    "segment_id": "CH5-38",
+    "zh": "清除中心 (14... e4 15"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "moves",
+    "text": "fxe4. Nxe4 16. Qc2. Nc5 17. g5. f6 18",
+    "chapter": 5,
+    "segment_id": "CH5-39",
+    "zh": "fxe4. Nxe4 16. Qc2. Nc5 17. g5. f6 18"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "body",
+    "text": "Kbl) is to White's advantage.",
+    "chapter": 5,
+    "segment_id": "CH5-40",
+    "zh": "Kbl）对白方有利。"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "moves",
+    "text": "15. Nc3. Qa5",
+    "chapter": 5,
+    "segment_id": "CH5-41",
+    "zh": "15. Nc3. Qa5"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "body",
+    "text": "Also now 15... Bxh4 is dange. rous because of 16. g5 Bg3 17. Ne2.",
+    "chapter": 5,
+    "segment_id": "CH5-42",
+    "zh": "现在 15... Bxh4 也很危险。因 16. g5. Bg3 17. Ne2 而劳斯。"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "moves",
+    "text": "16. Nb5",
+    "chapter": 5,
+    "segment_id": "CH5-43",
+    "zh": "16. Nb5"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "body",
+    "text": "The d5 pawn remains standing and severely cramps Black.",
+    "chapter": 5,
+    "segment_id": "CH5-44",
+    "zh": "d5 兵仍然站立并严重痉挛黑方。"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "moves",
+    "text": "16... Qb6",
+    "chapter": 5,
+    "segment_id": "CH5-45",
+    "zh": "16... Qb6"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "body",
+    "text": "Black has a weak pawn configuration on the queen's flank and this prompts him to avoid exchanges. In fact, after 16. Qxd2+ 17. Rxd2 b6 18. Bd3 White has a powerful position and the a4 pawn is doomed.",
+    "chapter": 5,
+    "segment_id": "CH5-46",
+    "zh": "黑方在后翼上的兵配置较弱，这促使他避免交换。事实上，在 16. Qxd2+ 17. Rxd2. b6 18. Bd3 之后，白方占据了强大的位置，a4 兵注定了。"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "moves",
+    "text": "17. Qf2. Rd8 18. a3. Nc7 19. Bxc5",
+    "chapter": 5,
+    "segment_id": "CH5-47",
+    "zh": "17. Qf2. Rd8 18. a3. Nc7 19. Bxc5"
+  },
+  {
+    "page": 147,
+    "side": "right",
+    "kind": "body",
+    "text": "Leading to a forced win of the a4 pawn.",
+    "chapter": 5,
+    "segment_id": "CH5-48",
+    "zh": "导致a4兵被迫获胜。"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "moves",
+    "text": "19... dxc5 20. Nc3. Qa5 21. Bd3. b5 22. Qc2. bxc4 23. Bxc4",
+    "chapter": 5,
+    "page_end": 148,
+    "segment_id": "CH5-49",
+    "zh": "19... dxc5 20. Nc3. Qa5 21. Bd3. b5 22. Qc2. bxc4 23. Bxc4"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "body",
+    "text": "Also good enough is 23. Bxh7+",
+    "chapter": 5,
+    "segment_id": "CH5-50",
+    "zh": "23. Bxh7+ 也足够了"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "moves",
+    "text": "Kh8 24. Qf5. Ne8 25. Ne4. 23... Qb6 24. Nxa4. Qf6 25. Qe4. Bd6 26. Nc3. Rb8 27. g5. Qd8 28",
+    "chapter": 5,
+    "page_end": 148,
+    "segment_id": "CH5-51",
+    "zh": "Kh8 24. Qf5. Ne8 25. Ne4. 23... Qb6 24. Nxa4. Qf6 25. Qe4. Bd6 26. Nc3. Rb8 27. g5. Qd8 28"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "body",
+    "text": "Rdg1",
+    "chapter": 5,
+    "segment_id": "CH5-52",
+    "zh": "Rdg1"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "body",
+    "text": "Even more energetic is 28. Bd3 g6 29. Rdg1 followed by h5.",
+    "chapter": 5,
+    "segment_id": "CH5-53",
+    "zh": "更有活力的是 28. Bd3. g6 29. Rdg1 后面是 h5。"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "moves",
+    "text": "28... Ne8 29. h5. Kh8 30. Qf5",
+    "chapter": 5,
+    "segment_id": "CH5-54",
+    "zh": "28... Ne8 29. h5. Kh8 30. Qf5"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "body",
+    "text": "Preparing 31. Bd3, which at once would be repulsed by the reply 30... f5.",
+    "chapter": 5,
+    "segment_id": "CH5-55",
+    "zh": "正在准备 31. Bd3，它会立即被回复 30... f5 击退。"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "moves",
+    "text": "30... Qc8",
+    "chapter": 5,
+    "segment_id": "CH5-56",
+    "zh": "30... Qc8"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "body",
+    "text": "The only defence against Bd3, but now White without difficulty wins the endgame in which he has, in addition to an extra pawn, also a positional superiority due to the excellent piece base on e4 and the passed pawn on d5, which is the consequence of the opening construction of the wedge. The remaining part of the game is of no interest for our theme; Black resigned on the 54th move.",
+    "chapter": 5,
+    "segment_id": "CH5-57",
+    "zh": "对Bd3的唯一防御，但现在白方毫无困难地赢得了残局，除了额外的兵之外，还由于e4上出色的棋子基础和d5上的通兵而获得了位置优势，这是楔形开局结构的结果。对局的其余部分与我们的主题无关；黑方在第54手棋时认输。"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "body",
+    "text": "In the following game White went in for the wedge, ignoring the conventional reaction ... f5. It was not long before the latter began to tell.",
+    "chapter": 5,
+    "segment_id": "CH5-58",
+    "zh": "在接下来的对局中，白方选择了楔子，忽略了常规反应... f5。没过多久，后者就开始讲述了。"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "heading",
+    "text": "Bogolyubov-Indian Defence",
+    "chapter": 5,
+    "segment_id": "CH5-59",
+    "zh": "波戈印度防御"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "metadata",
+    "text": "White: V.Alatortsev",
+    "chapter": 5,
+    "segment_id": "CH5-60",
+    "zh": "白方：V.阿拉托尔采夫"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "metadata",
+    "text": "Black: G.Levenfish",
+    "chapter": 5,
+    "segment_id": "CH5-61",
+    "zh": "黑方：G.列文菲什"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "metadata",
+    "text": "(10th USSR Championship 1937)",
+    "chapter": 5,
+    "segment_id": "CH5-62",
+    "zh": "（1937年第10届苏联锦标赛）"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. d4. Nf6 2. c4. e6 3. g3. Bb4+ 4. Bd2. Bxd2+ 5. Nxd2",
+    "chapter": 5,
+    "page_end": 148,
+    "segment_id": "CH5-63",
+    "zh": "1. d4. Nf6 2. c4. e6 3. g3. Bb4+ 4. Bd2. Bxd2+ 5. Nxd2"
+  },
+  {
+    "page": 148,
+    "side": "left",
+    "kind": "body",
+    "text": "The black-squared bishops have been exchanged. This circumstance must have a certain bearing on the opponent's plans.",
+    "chapter": 5,
+    "page_end": 148,
+    "segment_id": "CH5-64",
+    "zh": "黑格象已被交换。这种情况肯定对对方的计划有一定的影响。"
+  },
+  {
+    "page": 148,
+    "side": "right",
+    "kind": "moves",
+    "text": "5... Nc6 6. Ngf3. d6",
+    "chapter": 5,
+    "segment_id": "CH5-65",
+    "zh": "5... Nc6 6. Ngf3. d6"
+  },
+  {
+    "page": 148,
+    "side": "right",
+    "kind": "body",
+    "text": "Black prepares ... e5, which fully conforms to the exchange of bishops: it is precisely the black squares in the centre which the pawn takes under control. The other plan with n ... d5 was less logical and made it difficult for Black to develop his queen's flank.",
+    "chapter": 5,
+    "segment_id": "CH5-66",
+    "zh": "黑方准备...e5，这完全符合兑象后的局面要求：这个兵所控制的正是中心黑格。另一项以...d5为核心的计划不够合乎逻辑，而且会妨碍黑方完成后翼出子。"
+  },
+  {
+    "page": 148,
+    "side": "right",
+    "kind": "moves",
+    "text": "7. Bg2. e5 8. d5",
+    "chapter": 5,
+    "segment_id": "CH5-67",
+    "zh": "7. Bg2. e5 8. d5"
+  },
+  {
+    "page": 148,
+    "side": "right",
+    "kind": "body",
+    "text": "Here this wedge form of invasion has little foundation. It might have some justification if White were to succeed later in beginning a headlong advance in the centre by playing e4 and f4. The wedge ought to cramp Black, but here the basic motive of the cramping restriction of the activity of the king's bishop - is absent. Moreover, with the move d5 White actually limits the sphere of action of the king's bishop, only not the enemy's but his own. He should continue 8. e3 exd4 9. Nxd4 Nxd4",
+    "chapter": 5,
+    "segment_id": "CH5-68",
+    "zh": "这种楔形入侵在这里没有什么基础。如果白方后来成功地通过下棋e4和f4在中间开始轻率推进，那么这可能有一定的道理。楔子应该限制黑方，但这里并没有限制王的象活动的基本动机。而且，白方d5实际上限制了王的象的行动范围，不仅不是敌人的，而是自己的。他应该继续 8. e3. exd4 9. Nxd4. Nxd4"
+  },
+  {
+    "page": 148,
+    "side": "right",
+    "kind": "moves",
+    "text": "10. exd4. Qe7+ 11. Qe2 or 8. Nb3",
+    "chapter": 5,
+    "segment_id": "CH5-69",
+    "zh": "10. exd4. Qe7+ 11. Qe2 or 8. Nb3"
+  },
+  {
+    "page": 148,
+    "side": "right",
+    "kind": "body",
+    "text": "Qe7 9. e3, maintaining relative equilibrium.",
+    "chapter": 5,
+    "segment_id": "CH5-70",
+    "zh": "Qe7 9. e3，保持相对平衡。"
+  },
+  {
+    "page": 148,
+    "side": "right",
+    "kind": "moves",
+    "text": "8... Ne7 9. O-O O-O 10. e4",
+    "chapter": 5,
+    "segment_id": "CH5-71",
+    "zh": "8... Ne7 9. O-O O-O 10. e4"
+  },
+  {
+    "page": 148,
+    "side": "right",
+    "kind": "body",
+    "text": "Even now, 10. e3 was better, so as, for example, on 10... c6 to play 11. dxc6 bxc6 12. Qc2 followed",
+    "chapter": 5,
+    "segment_id": "CH5-72",
+    "zh": "即使现在，10. e3 更好，例如，在 10... c6 上玩 11. dxc6. bxc6 12. Qc2 紧随其后"
+  },
+  {
+    "page": 148,
+    "side": "right",
+    "kind": "moves",
+    "text": "by Rad1 or 11... Nxc6 12. Qe2. d5 13. cxd5. Nxd5 14. Rfd1. 10... Nd7",
+    "chapter": 5,
+    "page_end": 148,
+    "segment_id": "CH5-73",
+    "zh": "通过 Rad1 或 11... Nxc6 12. Qe2. d5 13. cxd5. Nxd5 14. Rfd1。10... Nd7"
+  },
+  {
+    "page": 148,
+    "side": "right",
+    "kind": "body",
+    "text": "Black obviously intends to carry out ... f5. White also should construct his plan, bearing in mind this possibility; after ... f5 he can take the pawn and, exploiting the e4 square as a piece base, strive for play on the queen's flank with the move c5.",
+    "chapter": 5,
+    "page_end": 149,
+    "segment_id": "CH5-74",
+    "zh": "黑方显然打算执行...f5。白方也应该制定他的计划，牢记这种可能性；在...f5之后，他可以采取兵，并利用e4格作为棋子基地，通过移动c5争取在后翼上发挥。"
+  },
+  {
+    "page": 149,
+    "side": "left",
+    "kind": "moves",
+    "text": "11. Ne1. f5",
+    "chapter": 5,
+    "segment_id": "CH5-75",
+    "zh": "11. Ne1. f5"
+  },
+  {
+    "page": 149,
+    "side": "left",
+    "kind": "body",
+    "text": "He does not have a moment to lose, since after Nd3 White threatens counterplay by f4.",
+    "chapter": 5,
+    "segment_id": "CH5-76",
+    "zh": "他没有时间可以浪费，因为在 Nd3 之后，白方威胁通过 f4 进行反击。"
+  },
+  {
+    "page": 149,
+    "side": "left",
+    "kind": "moves",
+    "text": "12. Nd3?",
+    "chapter": 5,
+    "segment_id": "CH5-77",
+    "zh": "12. Nd3?"
+  },
+  {
+    "page": 149,
+    "side": "left",
+    "kind": "body",
+    "text": "Again played without regard for the opponent's plan. It was necessary either to take the pawn on f5, followed by Ne4, or even decide on f4. After 12... exf4 13. gxf4",
+    "chapter": 5,
+    "segment_id": "CH5-78",
+    "zh": "再次不考虑对手的计划。有必要要么在f5上选择兵，然后选择Ne4，或者甚至决定f4。12... exf4 13. gxf4 之后"
+  },
+  {
+    "page": 149,
+    "side": "left",
+    "kind": "moves",
+    "text": "fxe4 14. Nxe4. Nf515 Nc2,",
+    "chapter": 5,
+    "segment_id": "CH5-79",
+    "zh": "fxe4 14. Nxe4. Nf515 Nc2，"
+  },
+  {
+    "page": 149,
+    "side": "left",
+    "kind": "body",
+    "text": "weaknesses appear for White, but they can be defended.",
+    "chapter": 5,
+    "segment_id": "CH5-80",
+    "zh": "白方出现弱点，但可以防守。"
+  },
+  {
+    "page": 149,
+    "side": "left",
+    "kind": "moves",
+    "text": "12... f4",
+    "chapter": 5,
+    "segment_id": "CH5-81",
+    "zh": "12... f4"
+  },
+  {
+    "page": 149,
+    "side": "left",
+    "kind": "body",
+    "text": "In this way Black develops an initiative and at the same time prevents White's prepared f4.",
+    "chapter": 5,
+    "segment_id": "CH5-82",
+    "zh": "这样黑方就展开了主动权，同时阻止了白方准备好的f4。"
+  },
+  {
+    "page": 149,
+    "side": "left",
+    "kind": "moves",
+    "text": "13. gxf4",
+    "chapter": 5,
+    "segment_id": "CH5-83",
+    "zh": "13. gxf4"
+  },
+  {
+    "page": 149,
+    "side": "left",
+    "kind": "body",
+    "text": "This exchange is by no means forced. True, if White does not take this pawn, then after ... Ng6 it threatens to turn into a pawn \"wedge\", driven into the opponent's position. However, after 13. f3 h5 or the comparatively better",
+    "chapter": 5,
+    "segment_id": "CH5-84",
+    "zh": "这种交换绝不是被迫的。确实，如果白方不采取这个兵，那么在...Ng6之后，它有可能变成一个兵“楔子”，被推入对手的位置。然而，13之后f3h5或相对更好"
+  },
+  {
+    "page": 149,
+    "side": "left",
+    "kind": "moves",
+    "text": "13. Bh3. g5 14. Qh5. Ng6 15. Be6+",
+    "chapter": 5,
+    "segment_id": "CH5-85",
+    "zh": "13. Bh3. g5 14. Qh5. Ng6 15. Be6+"
+  },
+  {
+    "page": 149,
+    "side": "right",
+    "kind": "body",
+    "text": "Kg7 16. Nf3 h6 17. Bf5 Qe8, despite having the worse position he retains possibilities of defence. But now Black obtains a firm piece base in the very centre of the board - the e5 square, on the basis of which he eventually achieves victory. In this light, the opening construction of the wedge looks especially doubtful for White.",
+    "chapter": 5,
+    "segment_id": "CH5-86",
+    "zh": "Kg7 16. Nf3. h6 17. Bf5. Qe8，尽管位置较差，但他仍保留防守的可能性。但现在黑方在棋盘正中央获得了坚实的棋子基础——e5格，在此基础上他最终取得了胜利。从这个角度来看，楔形的开局结构对于白方来说尤其值得怀疑。"
+  },
+  {
+    "page": 149,
+    "side": "right",
+    "kind": "moves",
+    "text": "13... exf4 14. Nf3. Ng6 15 Rcl Qe7 16. Re1. Nde5 17. Nfxe5. Nxe5 18. f3. b6 19. Nxe5. Qxe5",
+    "chapter": 5,
+    "page_end": 149,
+    "segment_id": "CH5-87",
+    "zh": "13... exf4 14. Nf3. Ng6 15 Rcl Qe7 16. Re1. Nde5 17. Nfxe5. Nxe5 18. f3. b6 19. Nxe5. Qxe5"
+  },
+  {
+    "page": 149,
+    "side": "right",
+    "kind": "body",
+    "text": "After ... Bd7, Black threatens to begin a decisive pawn offensive on the king's flank with the moves ... g5 and ... h5. White hastens to force the exchange of queens, but this also does not help much.",
+    "chapter": 5,
+    "segment_id": "CH5-88",
+    "zh": "在...Bd7之后，黑方威胁要通过走...g5和...h5对王翼发起决定性的兵攻势。白方赶紧强行交换后，但这也没有多大帮助。"
+  },
+  {
+    "page": 149,
+    "side": "right",
+    "kind": "moves",
+    "text": "20. Qd2. Bd7 21. Qc3. Rfe8 22. Qxe5. Rxe5 23. a3. a5 24. b3. Kf7 25. Kf2. Kf6 26. Ke2. Rh5 27. Rh1",
+    "chapter": 5,
+    "page_end": 149,
+    "segment_id": "CH5-89",
+    "zh": "20. Qd2. Bd7 21. Qc3. Rfe8 22. Qxe5. Rxe5 23. a3. a5 24. b3. Kf7 25. Kf2. Kf6 26. Ke2. Rh5 27. Rh1"
+  },
+  {
+    "page": 149,
+    "side": "right",
+    "kind": "body",
+    "text": "Ke5 and White lost after Black had carried out the advance ... g5-g4, since even at the moment of surrender the notorious c4-d5-e4 wedge was still standing intact in all its splendour. In conclusion we look at a few games where the question of the wedge is elucidated in the light of a single planned process.",
+    "chapter": 5,
+    "segment_id": "CH5-90",
+    "zh": "Ke5 和白方在黑方推进后输了...g5-g4，因为即使在投降的那一刻，臭名昭著的c4-d5-e4楔子仍然完好无损地矗立着。总之，我们看一些对局，其中楔子的问题是根据单个计划过程来阐明的。"
+  },
+  {
+    "page": 149,
+    "side": "right",
+    "kind": "heading",
+    "text": "Reti Opening",
+    "chapter": 5,
+    "segment_id": "CH5-91",
+    "zh": "列蒂开局"
+  },
+  {
+    "page": 149,
+    "side": "right",
+    "kind": "metadata",
+    "text": "White: J.R.Capablanca",
+    "chapter": 5,
+    "segment_id": "CH5-92",
+    "zh": "白方：J.R.卡帕布兰卡"
+  },
+  {
+    "page": 149,
+    "side": "right",
+    "kind": "metadata",
+    "text": "Black: F.Marshall",
+    "chapter": 5,
+    "segment_id": "CH5-93",
+    "zh": "黑方：F.马歇尔"
+  },
+  {
+    "page": 149,
+    "side": "right",
+    "kind": "metadata",
+    "text": "(Moscow 1925)",
+    "chapter": 5,
+    "segment_id": "CH5-94",
+    "zh": "（莫斯科1925）"
+  },
+  {
+    "page": 149,
+    "side": "right",
+    "kind": "moves",
+    "text": "1. Nf3. Nf6 2. c4. e6 3. g3. d5 4. b3. c5 5. Bg2. Nc6 6. O-O Be7",
+    "chapter": 5,
+    "page_end": 149,
+    "segment_id": "CH5-95",
+    "zh": "1. Nf3. Nf6 2. c4. e6 3. g3. d5 4. b3. c5 5. Bg2. Nc6 6. O-O Be7"
+  },
+  {
+    "page": 150,
+    "side": "left",
+    "kind": "body",
+    "text": "Both now and in the future, White not only is not afraid of the construction of Black's wedge, but even provokes it on ... d4. There are, however, chessplayers who do not like to contend with the triangle of pawns in the centre and prefer 7. cxd5 Nxd5 (if 7... exd5, then 8. d4 with play on the isolated d5 pawn) 8. Bb2; after 8... Bf6 the activity of both the White bishops is appreciably limited.",
+    "chapter": 5,
+    "segment_id": "CH5-96",
+    "zh": "无论是现在还是将来，白方不仅不惧怕黑方楔形的构建，甚至还会在...d4上挑衅它。然而，有些棋手不喜欢与中心的兵三角形对抗，而更喜欢 7. cxd5. Nxd5（如果 7... exd5，则 8. d4 在孤立的 d5 兵上进行对局） 8. Bb2；8... Bf6 后，白方象的活性明显受到限制。"
+  },
+  {
+    "page": 150,
+    "side": "left",
+    "kind": "moves",
+    "text": "7. d3. O-O 8. Bb2. d4",
+    "chapter": 5,
+    "segment_id": "CH5-97",
+    "zh": "7. d3. O-O 8. Bb2. d4"
+  },
+  {
+    "page": 150,
+    "side": "left",
+    "kind": "body",
+    "text": "One can judge the extent of the difference of opinion, held even by leading chess authorities, about the role of the wedge, by the fact that one of the commentators of the present game,F Bogolyubov, placed exclamation mark an against this move, adding \"it is clear that White's ( opening has been strategically refuted'. Capablanca obviously held another point of view.",
+    "chapter": 5,
+    "page_end": 150,
+    "segment_id": "CH5-98",
+    "zh": "人们可以通过以下事实来判断对楔子作用的看法分歧的程度，即使是领先的国际象棋权威，本场对局的一位评论员F 波戈留波夫对这一举动画了感叹号，并补充说“很明显，白方的（开局已被策略性地反驳了”。卡帕布兰卡显然持有另一种观点。"
+  },
+  {
+    "page": 150,
+    "side": "left",
+    "kind": "moves",
+    "text": "9. e4!",
+    "chapter": 5,
+    "segment_id": "CH5-99",
+    "zh": "9. e4!"
+  },
+  {
+    "page": 150,
+    "side": "left",
+    "kind": "body",
+    "text": "A problem move! White wants to provoke the reply y ... e5 and then begin to prepare the break f4, which serves as a reliable means of contending with the wedge. This, of course, does not mean that he will without fail gain the advantage if he fulfils such a plan. When White plays f4, Black must be ready to reply to it ... exf4, and, after gxf4, f5. The further course of events might turn out something like this: 9... e5 10. a3",
+    "chapter": 5,
+    "page_end": 150,
+    "segment_id": "CH5-100",
+    "zh": "动作有问题！白方想要激起答复 y... e5，然后开始准备突破 f4，这是对抗楔子的可靠手段。当然，这并不是说，如果他完成了这个计划，他就一定会获得优势。当白方下f4时，黑方必须准备好回应它...exf4，并且在gxf4之后，f5。事件的进一步发展可能会变成这样： 9... e5 10. a3"
+  },
+  {
+    "page": 150,
+    "side": "right",
+    "kind": "moves",
+    "text": "a5 11. Nbd2. Bd7 12. Qc2. Ne8 13. Rae1. Qc7 14. Kh1. Nd6 15. Ng1. Nd8 16. Ne2. Ne6 17. f4. exf4 18. gxf4. f5 19. e5. Nf7 20. Ng3. Nh6",
+    "chapter": 5,
+    "page_end": 150,
+    "segment_id": "CH5-101",
+    "zh": "a5 11. Nbd2. Bd7 12. Qc2. Ne8 13. Rae1. Qc7 14. Kh1. Nd6 15. Ng1. Nd8 16. Ne2. Ne6 17. f4. exf4 18. gxf4. f5 19. e5. Nf7 20. Ng3. Nh6"
+  },
+  {
+    "page": 150,
+    "side": "right",
+    "kind": "body",
+    "text": "followed by ... Bc6, and Black has a right to cherish hopes of success in the struggle for the initiative.",
+    "chapter": 5,
+    "segment_id": "CH5-102",
+    "zh": "接下来是...Bc6，黑方有权怀有为主动权奋斗的成功希望。"
+  },
+  {
+    "page": 150,
+    "side": "right",
+    "kind": "body",
+    "text": "Alas, Marshall chooses another way, which radically contradicts the opening g idea of the wedge construction.",
+    "chapter": 5,
+    "segment_id": "CH5-103",
+    "zh": "唉，马歇尔选择了另一种方式，这与楔形结构的开放 g 思想完全矛盾。"
+  },
+  {
+    "page": 150,
+    "side": "right",
+    "kind": "moves",
+    "text": "9... dxe3?",
+    "chapter": 5,
+    "segment_id": "CH5-104",
+    "zh": "9... dxe3?"
+  },
+  {
+    "page": 150,
+    "side": "right",
+    "kind": "body",
+    "text": "Black opens an operational f-file for White, obligingly gives his queen's bishop the long diagonal and demolishes his own wedge, obtaining nothing in return. One cannot consider the e3 and d3 pawns weaknesses in White's position. They are easily defended; in fact it is no use, in essence, for Black to even attack them. The very same pawns play a great role, keeping the central squares under control.",
+    "chapter": 5,
+    "segment_id": "CH5-105",
+    "zh": "黑方为白方打开了一个可操作的f线，亲切地给了他的后的象长对角线并摧毁了他自己的楔子，没有得到任何回报。人们不能考虑白方局面的e3和d3兵弱点。他们很容易被防守；事实上，从本质上讲，黑方甚至攻击他们也是没有用的。同样的兵发挥着重要作用，使中心格处于控制之下。"
+  },
+  {
+    "page": 150,
+    "side": "right",
+    "kind": "moves",
+    "text": "10. fxe3. Ng4 11. Qe2. Bf6 12. Nc3",
+    "chapter": 5,
+    "segment_id": "CH5-106",
+    "zh": "10. fxe3. Ng4 11. Qe2. Bf6 12. Nc3"
+  },
+  {
+    "page": 150,
+    "side": "right",
+    "kind": "body",
+    "text": "Qa5",
+    "chapter": 5,
+    "segment_id": "CH5-107",
+    "zh": "Qa5"
+  },
+  {
+    "page": 150,
+    "side": "right",
+    "kind": "body",
+    "text": "Black has made three attacking moves in a row, but on this his initiative runs dry.",
+    "chapter": 5,
+    "segment_id": "CH5-108",
+    "zh": "黑方已经连续下了三个进攻着法，但是他的主动权已经耗尽。"
+  },
+  {
+    "page": 150,
+    "side": "right",
+    "kind": "moves",
+    "text": "13. Rac1. Rd8",
+    "chapter": 5,
+    "segment_id": "CH5-109",
+    "zh": "13. Rac1. Rd8"
+  },
+  {
+    "page": 150,
+    "side": "right",
+    "kind": "body",
+    "text": "Weakening the f7 pawn and accelerating his defeat. But also after 13... Bd7 14. h3 Nge5 15. Nd2, White has an overwhelming positional advantage in connection with the threats of Nce4 and Rxf6.",
+    "chapter": 5,
+    "page_end": 151,
+    "segment_id": "CH5-110",
+    "zh": "削弱f7兵并加速他的失败。但也在 13... Bd7 14. h3. Nge5 15. Nd2 之后，白方在 Nce4 和 Rxf6 的威胁方面具有压倒性的位置优势。"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "moves",
+    "text": "14. h3. Nge5 15. Ne4",
+    "chapter": 5,
+    "segment_id": "CH5-111",
+    "zh": "14. h3. Nge5 15. Ne4"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "body",
+    "text": "A very strong blow, quickly demolishing Black's position. If",
+    "chapter": 5,
+    "segment_id": "CH5-112",
+    "zh": "非常强烈的一击，迅速摧毁了黑方的局面。如果"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "moves",
+    "text": "now 15... Nxf3+, then 16. Qxf3,",
+    "chapter": 5,
+    "segment_id": "CH5-113",
+    "zh": "现在 15... Nxf3+，然后 16. Qxf3，"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "body",
+    "text": "underlining the weakness of the f7 point. Also bad is 15... Qc7 16",
+    "chapter": 5,
+    "segment_id": "CH5-114",
+    "zh": "强调 f7 点的弱点。同样糟糕的是 15... Qc7 16"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "moves",
+    "text": "Nxf6+ gxf6 17. Nxe5. fxe5 18. Qg4+ Kh8 19. Bxc6. 15... Qxa2 16. Nxf6+ gxf6 17. Nxe5. Nxe5 18. Be4. Bd7 19. Ra1. Qxb3 20. Rfb1",
+    "chapter": 5,
+    "page_end": 151,
+    "segment_id": "CH5-115",
+    "zh": "Nxf6+ gxf6 17. Nxe5. fxe5 18. Qg4+ Kh8 19. Bxc6. 15... Qxa2 16. Nxf6+ gxf6 17. Nxe5. Nxe5 18. Be4. Bd7 19. Ra1. Qxb3 20. Rfb1"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "body",
+    "text": "Black could lay down his arms, since he loses the queen. However, the further following moves were made in the game.",
+    "chapter": 5,
+    "segment_id": "CH5-116",
+    "zh": "黑方可以放下武器，因为他失去了后。然而，对局中又做出了以下进一步的动作。"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "moves",
+    "text": "20... Qb4 21. Bxe5. fxe5 22. Rxb4. cxb4 23. Bxb7. Rab8 24. Rxa7. b3 25. Qb2. Ba4 26. Qxe5. Bc6 27. Qg5+ Kf8 28. Bxc6. b2",
+    "chapter": 5,
+    "page_end": 151,
+    "segment_id": "CH5-117",
+    "zh": "20... Qb4 21. Bxe5. fxe5 22. Rxb4. cxb4 23. Bxb7. Rab8 24. Rxa7. b3 25. Qb2. Ba4 26. Qxe5. Bc6 27. Qg5+ Kf8 28. Bxc6. b2"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "body",
+    "text": "29. Qe7+ 1-0 as Black is mated in two moves.",
+    "chapter": 5,
+    "segment_id": "CH5-118",
+    "zh": "29. Qe7+ 1-0，黑方分两步棋。"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "body",
+    "text": "Black's downfall came about mainly as a consequence of his 9th move. The pawn at the head of the wedge should be maintained in its advanced position and not be given up, unless, of course, this is prompted by concrete considerations.",
+    "chapter": 5,
+    "segment_id": "CH5-119",
+    "zh": "黑方的失败主要是由于他的第九步棋的结果。楔子头部的兵应保持在其先进位置并且不应放弃，当然，除非出于具体考虑而这样做。"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "heading",
+    "text": "Reti Opening",
+    "chapter": 5,
+    "segment_id": "CH5-120",
+    "zh": "列蒂开局"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "metadata",
+    "text": "White: G.Levenfish",
+    "chapter": 5,
+    "segment_id": "CH5-121",
+    "zh": "白方：G.列文菲什"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "metadata",
+    "text": "Black: 1.Kan",
+    "chapter": 5,
+    "segment_id": "CH5-122",
+    "zh": "黑方：I.卡恩"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "metadata",
+    "text": "(Moscow 1927)",
+    "chapter": 5,
+    "segment_id": "CH5-123",
+    "zh": "（莫斯科1927）"
+  },
+  {
+    "page": 151,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. Nf3. Nf6 2. c4. e6 3. g3. b6 4. Bg2. Bb7 5 0.0 Be7 6. Nc3. O-O 7. Qc2. c5 8. b3. Nc6 9. Bb2. d5 10. d3",
+    "chapter": 5,
+    "page_end": 151,
+    "segment_id": "CH5-124",
+    "zh": "1. Nf3. Nf6 2. c4. e6 3. g3. b6 4. Bg2. Bb7 5 0.0 Be7 6. Nc3. O-O 7. Qc2. c5 8. b3. Nc6 9. Bb2. d5 10. d3"
+  },
+  {
+    "page": 151,
+    "side": "right",
+    "kind": "body",
+    "text": "White allows the move ... d4 and Black's future triangular wedge formation.",
+    "chapter": 5,
+    "segment_id": "CH5-125",
+    "zh": "白方允许走棋... d4 以及黑方未来的三角楔形形态。"
+  },
+  {
+    "page": 151,
+    "side": "right",
+    "kind": "body",
+    "text": "Admittedly, it would hardly be better to try and prevent this by 10. cxd5, on which not bad are both 10... Nb4 and the simple 10...",
+    "chapter": 5,
+    "segment_id": "CH5-126",
+    "zh": "诚然，尝试通过 10. cxd5 来阻止这种情况不会更好，其中 10... Nb4 和简单的 10... 都不错。"
+  },
+  {
+    "page": 151,
+    "side": "right",
+    "kind": "moves",
+    "text": "Nxd5, and if 11. Nxd5, then 11... Qxd5 and 12. Ne5? does not work in view of 12... Qxg2+! 13. Kxg2",
+    "chapter": 5,
+    "page_end": 151,
+    "segment_id": "CH5-127",
+    "zh": "Nxd5，并且如果 11. Nxd5，则 11... Qxd5 和 12. Ne5? 不适用于 12... Qxg2+! 13. Kxg2"
+  },
+  {
+    "page": 151,
+    "side": "right",
+    "kind": "body",
+    "text": "Nd4+.",
+    "chapter": 5,
+    "segment_id": "CH5-128",
+    "zh": "Nd4+."
+  },
+  {
+    "page": 151,
+    "side": "right",
+    "kind": "moves",
+    "text": "10... d4",
+    "chapter": 5,
+    "segment_id": "CH5-129",
+    "zh": "10... d4"
+  },
+  {
+    "page": 151,
+    "side": "right",
+    "kind": "body",
+    "text": "And so the die is cast. Black wedges in his pawn on d4, where it restricts White's possibilities for manoeuvering. However, as becomes clear from the further course of the game, Black does not have a concrete idea in mind with this decision, and as a result he does not succeed in exploiting the positive side of the wedge (cramping the opponent), while the negative side - the possibility of a retaliatory advance by White with f4 - soon tells in full measure.",
+    "chapter": 5,
+    "segment_id": "CH5-130",
+    "zh": "就这样，木已成舟。黑方在 d4 上的兵中楔入，限制了白方调动的可能性。然而，从棋局的进一步进程中可以清楚地看出，黑方对于这个决定并没有一个具体的想法，因此他没有成功地利用楔子的积极的一面（限制对手），而消极的一面——白方用冲起f4反击的可能性——很快就充分说明了这一点。"
+  },
+  {
+    "page": 151,
+    "side": "right",
+    "kind": "moves",
+    "text": "11. Nb1. Qc7",
+    "chapter": 5,
+    "segment_id": "CH5-131",
+    "zh": "11. Nb1. Qc7"
+  },
+  {
+    "page": 151,
+    "side": "right",
+    "kind": "body",
+    "text": "In order to prepare 12... e5, but what does Black achieve by such a pawn advance? It increases s the significance of White's plan with f4, exposes the f5 square in his own camp and achieves nothing concrete. The advance ... e5 justifies itself in those cases when there are prospects of a future pawn advance ... e4, for example when Black succeeds in playing ... f5. He should consider the manoeuvre ...",
+    "chapter": 5,
+    "segment_id": "CH5-132",
+    "zh": "为了准备12...e5，但是黑方通过这样的冲兵达到什么目的呢？它增加了白方的f4计划的重要性，暴露了f5格在他自己的阵营中，但没有取得任何具体成果。当有未来冲兵... e4 的前景时，例如当黑方成功下棋... f5 时，前进... e5 证明了自己的合理性。他应该考虑运子..."
+  },
+  {
+    "page": 152,
+    "side": "left",
+    "kind": "body",
+    "text": "Nd7-e5, at the same time intend-",
+    "chapter": 5,
+    "segment_id": "CH5-133",
+    "zh": "Nd7-e5，同时打算-"
+  },
+  {
+    "page": 152,
+    "side": "left",
+    "kind": "moves",
+    "text": "ing ... f5, with the pawn on e6. 12. Nbd2. e5 13. a3. Nh5.",
+    "chapter": 5,
+    "page_end": 152,
+    "segment_id": "CH5-134",
+    "zh": "ing... f5，兵位于 e6 上。12. Nbd2. e5 13. a3. Nh5。"
+  },
+  {
+    "page": 152,
+    "side": "left",
+    "kind": "body",
+    "text": "With the threat of playing ... f5 and then setting about the execution of the plan linked with the advance ... e4.",
+    "chapter": 5,
+    "segment_id": "CH5-135",
+    "zh": "威胁要玩...f5，然后着手执行与进展相关的计划...e4。"
+  },
+  {
+    "page": 152,
+    "side": "left",
+    "kind": "moves",
+    "text": "14. e4!",
+    "chapter": 5,
+    "segment_id": "CH5-136",
+    "zh": "14. e4!"
+  },
+  {
+    "page": 152,
+    "side": "left",
+    "kind": "body",
+    "text": "White is the first to start active operations in the centre, beginning to prepare the break f4. The preparation requires no little effort: it is necessary to play Rael, Bc1,",
+    "chapter": 5,
+    "segment_id": "CH5-137",
+    "zh": "白方首先在中线开始积极行动，开始准备突破f4。准备工作需要付出不小的努力：需要扮演雷尔，Bc1，"
+  },
+  {
+    "page": 152,
+    "side": "left",
+    "kind": "moves",
+    "text": "Kh1, Ng1, then Ndf3-h4, and only",
+    "chapter": 5,
+    "segment_id": "CH5-138",
+    "zh": "Kh1、Ng1，然后 Ndf3-h4，并且仅"
+  },
+  {
+    "page": 152,
+    "side": "left",
+    "kind": "body",
+    "text": "after this f4. Can a way be found for Black, during this period, to counter this plan?",
+    "chapter": 5,
+    "segment_id": "CH5-139",
+    "zh": "在此之后f4。在此期间，黑方能否找到应对这一计划的方法呢？"
+  },
+  {
+    "page": 152,
+    "side": "left",
+    "kind": "moves",
+    "text": "14... Bc8?",
+    "chapter": 5,
+    "segment_id": "CH5-140",
+    "zh": "14... Bc8?"
+  },
+  {
+    "page": 152,
+    "side": "left",
+    "kind": "body",
+    "text": "Black plays without a plan, he simply manoeuvres with his pieces. Many of his moves give a stereotyped impression. Also in the present case he apparently considers that the bishop will be better placed in the centre and transfers it to e6. Meanwhile, in order to prevent or at least put up resistance to the opponent's plan, he should himself strive for ... f5. If played immediately, this move is bad, since after the reply exf5 White obtains an excellent base for his pieces on the e4 square, while the e5 pawn becomes a real weakness. Therefore it is necessary to make the preparatory move 14... g6, now threatening g ...f5;if then exf5, Black takes on f5 with the g-pawn. Admittedly, this pawn attack is temporarily prevented by",
+    "chapter": 5,
+    "page_end": 152,
+    "segment_id": "CH5-141",
+    "zh": "黑方没有计划，他只是用他的棋子运子。他的很多举动都给人一种刻板印象。同样在本例中，他显然认为象放置在中心会更好，并将其转移到 e6。同时，为了阻止或者至少是对对方的计划进行抵抗，他自己应该努力争取...f5。如果立即下棋，这一步棋很糟糕，因为在回复exf5之后，白方在e4格上为他的棋子获得了极好的基础，而e5兵则成为真正的弱点。因此，有必要下预备棋14... g6，现在威胁g...f5；如果然后exf5，黑方用g-兵对战f5。诚然，这种兵攻击先手很少被阻止"
+  },
+  {
+    "page": 152,
+    "side": "right",
+    "kind": "moves",
+    "text": "the move 15. Rae1 (15... f5 16. exf5. gxf5 17. Nxe5. Nxe5 18. Bxb7",
+    "chapter": 5,
+    "page_end": 152,
+    "segment_id": "CH5-142",
+    "zh": "移动 15. Rae1 (15... f5 16. exf5。 gxf5 17. Nxe5. Nxe5 18. Bxb7"
+  },
+  {
+    "page": 152,
+    "side": "right",
+    "kind": "body",
+    "text": "Qxb7 19. Rxe5), but then Black could continue the struggle e by ... Bd6 or ... Bf6-g7 followed by Rae8. The construction of the wedge might be fully justified with such a plan - you see White is rather cramped and because of this it is significantly easier for Black to carry out manoeuvering in his rear lines of communication. However, instead of this active play, he carries out piece manoeuvres without a clear planned aim, and above all he does not prevent the opponent fulfilling his highly active plan.",
+    "chapter": 5,
+    "segment_id": "CH5-143",
+    "zh": "Qxb7 19. Rxe5），但是黑方可以通过... Bd6 或... Bf6-g7 继续斗争，然后是Rae8。通过这样的计划，楔形的构建可能是完全合理的 - 你会看到白方相当狭窄，因此黑方在他的后方通信线中执行调动要容易得多。然而，他并没有采取这种积极的行动，而是在没有明确计划目标的情况下进行棋子运子，最重要的是，他不会阻止对手实现其高度积极的计划。"
+  },
+  {
+    "page": 152,
+    "side": "right",
+    "kind": "moves",
+    "text": "15. Rae1. Be6 16. Kh1. Qd7",
+    "chapter": 5,
+    "segment_id": "CH5-144",
+    "zh": "15. Rae1. Be6 16. Kh1. Qd7"
+  },
+  {
+    "page": 152,
+    "side": "right",
+    "kind": "body",
+    "text": "In threatening ... Bh3, Black forces White to play a move which enters into his plan.",
+    "chapter": 5,
+    "page_end": 152,
+    "segment_id": "CH5-145",
+    "zh": "在威胁...Bh3时，黑方迫使白方下出符合他计划的步。"
+  },
+  {
+    "page": 152,
+    "side": "right",
+    "kind": "moves",
+    "text": "17. Ng1. Bd6 18. Bc1. g6 19. Ndf3!",
+    "chapter": 5,
+    "segment_id": "CH5-146",
+    "zh": "17. Ng1. Bd6 18. Bc1. g6 19. Ndf3!"
+  },
+  {
+    "page": 152,
+    "side": "right",
+    "kind": "body",
+    "text": "Now 19... f5 is already not good",
+    "chapter": 5,
+    "segment_id": "CH5-147",
+    "zh": "现在19了...f5已经不好了"
+  },
+  {
+    "page": 152,
+    "side": "right",
+    "kind": "moves",
+    "text": "in view of 20. exf5. gxf5 21. Ng5",
+    "chapter": 5,
+    "segment_id": "CH5-148",
+    "zh": "鉴于 20. exf5. gxf5 21. Ng5"
+  },
+  {
+    "page": 152,
+    "side": "right",
+    "kind": "body",
+    "text": "with dangerous threats. On 21... Ng7, a strong continuation of the attack is 22. f4. Generally speaking, for the time being Black should guard his white-squared bishop against exchange, since his pawn chain only exerts pressure on the black squares. However, for this, the return of the queen to c7 (19... Qc7 20. Ng5 Bd7) makes sense, incidentally creating a fourth strike on the f4 square and slowing down White's attack with f4.",
+    "chapter": 5,
+    "page_end": 153,
+    "segment_id": "CH5-149",
+    "zh": "带有危险的威胁。21... Ng7，强后续手段的攻击是22f4。一般来说，暂时黑方应该保护他的白方象不被交换，因为他的兵链只对黑格施加压力。然而，为此，将后返回到 c7 (19... Qc7 20. Ng5. Bd7) 是有意义的，顺便对 f4 格造成第四次打击，并减慢了白方 f4 的攻击。"
+  },
+  {
+    "page": 153,
+    "side": "left",
+    "kind": "moves",
+    "text": "20. Nh4. Ne7 21. f4",
+    "chapter": 5,
+    "segment_id": "CH5-150",
+    "zh": "20. Nh4. Ne7 21. f4"
+  },
+  {
+    "page": 153,
+    "side": "left",
+    "kind": "body",
+    "text": "And so White succeeds in carrying out an operation which serves as a principal means of struggle against the wedge construction. Now he threatens to play f5, exploiting the fact that the rook a8 is under the sights of the bishop g2, but Black removes the rook from the dangerous square and, on the face of it, the attack runs into a blind alley.",
+    "chapter": 5,
+    "segment_id": "CH5-151",
+    "zh": "因此，白方成功地实施了一项行动，作为对抗楔形结构的主要手段。现在他威胁要下f5，利用车a8在象g2的视线之下这一事实，但黑方将车从危险的格中移除，从表面上看，攻击进入了死胡同。"
+  },
+  {
+    "page": 153,
+    "side": "left",
+    "kind": "moves",
+    "text": "21... Rab8",
+    "chapter": 5,
+    "segment_id": "CH5-152",
+    "zh": "21... Rab8"
+  },
+  {
+    "page": 153,
+    "side": "left",
+    "kind": "body",
+    "text": "It is precisely here that the rook s to, in order to s support moves active operations on the queen's flank after ... b5.",
+    "chapter": 5,
+    "page_end": 153,
+    "segment_id": "CH5-153",
+    "zh": "正是在这里，车才支持在...b5 之后移动后翼上的活动操作。"
+  },
+  {
+    "page": 153,
+    "side": "left",
+    "kind": "moves",
+    "text": "22. f5",
+    "chapter": 5,
+    "segment_id": "CH5-154",
+    "zh": "22. f5"
+  },
+  {
+    "page": 153,
+    "side": "left",
+    "kind": "body",
+    "text": "At the cost of a sacrifice of a pawn, White strives to find handy white-squared positions for his pieces. This is perhaps the only continuation of the attack. The sacrifice must be accepted since, in the event of 22... Bf7 23. fxg6 Bxg6 24. Bh6 Ng7 25. Bh3, White would control the whole board.",
+    "chapter": 5,
+    "page_end": 153,
+    "segment_id": "CH5-155",
+    "zh": "以弃子或兵为代价，白方努力为他的棋子找到方便的白方位置。这也许是这次攻击中唯一的后续手段。必须接受弃子，因为如果出现 22... Bf7 23. fxg6. Bxg6 24. Bh6. Ng7 25. Bh3，白方将控制整个棋盘。"
+  },
+  {
+    "page": 153,
+    "side": "right",
+    "kind": "moves",
+    "text": "22... gxf5 23. Bh6. Ng7 24. exf5. Nexf5 25. Nxf5. Bxf5 26. Nf3",
+    "chapter": 5,
+    "page_end": 153,
+    "segment_id": "CH5-156",
+    "zh": "22... gxf5 23. Bh6. Ng7 24. exf5. Nexf5 25. Nxf5. Bxf5 26. Nf3"
+  },
+  {
+    "page": 153,
+    "side": "right",
+    "kind": "body",
+    "text": "Be6 After 26... Bh3 27. Nh4 Bxg2+",
+    "chapter": 5,
+    "page_end": 153,
+    "segment_id": "CH5-157",
+    "zh": "Be6 26 后... Bh3 27. Nh4. Bxg2+"
+  },
+  {
+    "page": 153,
+    "side": "right",
+    "kind": "moves",
+    "text": "28. Qxg2. Rf7 29. Bxg7. Kxg7 30",
+    "chapter": 5,
+    "segment_id": "CH5-158",
+    "zh": "28. Qxg2. Rf7 29. Bxg7. Kxg7 30"
+  },
+  {
+    "page": 153,
+    "side": "right",
+    "kind": "body",
+    "text": "Nf5+ White obtains an overwhelming positional advantage (the \"eternal knight\").",
+    "chapter": 5,
+    "segment_id": "CH5-159",
+    "zh": "Nf5+ 白方获得压倒性的位置优势（“铁马”）。"
+  },
+  {
+    "page": 153,
+    "side": "right",
+    "kind": "moves",
+    "text": "27. Rf2. Rf7 28. Nh4. b5",
+    "chapter": 5,
+    "segment_id": "CH5-160",
+    "zh": "27. Rf2. Rf7 28. Nh4. b5"
+  },
+  {
+    "page": 153,
+    "side": "right",
+    "kind": "body",
+    "text": "Black places his hopes on the opening of the queen's flank, but he could organise a more successful defence by giving back the pawn",
+    "chapter": 5,
+    "segment_id": "CH5-161",
+    "zh": "黑方将希望寄托在后翼的开局上，但他可以通过回击兵来组织更成功的防守。"
+  },
+  {
+    "page": 153,
+    "side": "right",
+    "kind": "moves",
+    "text": "by 28... f5 and, if 29. Nf3, then 29... e4 30. dxe4. fxe4 31. Qxe4. Bf5 32",
+    "chapter": 5,
+    "page_end": 153,
+    "segment_id": "CH5-162",
+    "zh": "28... f5，如果 29. Nf3，则 29... e4 30. dxe4. fxe4 31. Qxe4. Bf5 32"
+  },
+  {
+    "page": 153,
+    "side": "right",
+    "kind": "body",
+    "text": "Qh4. Bg6 (the same possibility presents itself also on the next move). A sharp situation arises where White also has to be thoughful. However, after Black's decision to hold on to the extra pawn, he gets into a difficult position.",
+    "chapter": 5,
+    "segment_id": "CH5-163",
+    "zh": "Qh4. Bg6（同样的可能性也出现在下一步）。出现了一种尖锐的情况，白方也必须深思熟虑。然而，在黑方决定保留额外的兵之后，他陷入了困境。"
+  },
+  {
+    "page": 153,
+    "side": "right",
+    "kind": "moves",
+    "text": "29. Ref1. Be7 30. Bxg7. Kxg7 31. Nf5+ Kh8 32. Be4. Bxf5 33. Rxf5",
+    "chapter": 5,
+    "page_end": 153,
+    "segment_id": "CH5-164",
+    "zh": "29. Ref1. Be7 30. Bxg7. Kxg7 31. Nf5+ Kh8 32. Be4. Bxf5 33. Rxf5"
+  },
+  {
+    "page": 153,
+    "side": "right",
+    "kind": "body",
+    "text": "On the board are opposite coloured bishops. In the endgame this often serves to guarantee a draw even when t the opponent has a considerable e material advantage. On the other hand, in the middlegame the presence of opposite coloured bishops quite often makes it easier for the attacking side to achieve victory. Usually this depends on the arrangement of the pawn chain. In the present game, the principal group of Black pawns extends over four squares - f6-e5d4-c5 (the wedge!). Meanwhile, he has a black-squared bishop which comes up against a barrier everywhere, in the shape of its own pawns. Another matter is the opponent's bishop, centering fire on the white squares which are the most important main lines on the board. If we add to this the fact that Black has a weak pawn on f6, his king is insecurely placed, its last cover - the h7 point - exposed to attack, and the enemy rooks dominate the weak white squares in the region of the king's flank, then it becomes clear that White has achieved a decisive advantage.",
+    "chapter": 5,
+    "page_end": 154,
+    "segment_id": "CH5-165",
+    "zh": "板上有异格象。在残局中，即使对手有相当大的 e 子力优势，这通常也能保证平局。另一方面，在中局中，异格象的存在往往会让进攻方更容易取得胜利。通常这取决于兵链的排列。在本局对局中，黑方兵的主要群体延伸到四个格 - f6 - e5d4 - c5（楔子！）。与此同时，他有一个黑格象，它到处都会遇到障碍，其形状是自己的兵。另一件事是对手的象，将火力集中在白格上，这是棋盘上最重要的主线。如果我们加上这样一个事实，即黑方在 f6 上有弱兵，他的王放置不稳，其最后一个掩护 - h7 点 - 暴露于攻击，并且敌方车在王翼区域控制了弱白格，那么很明显，白方已经实现了决定性的优势。"
+  },
+  {
+    "page": 154,
+    "side": "left",
+    "kind": "moves",
+    "text": "33... Rg7 34. Qd2. bxc4 35. bxc4",
+    "chapter": 5,
+    "segment_id": "CH5-166",
+    "zh": "33... Rg7 34. Qd2. bxc4 35. bxc4"
+  },
+  {
+    "page": 154,
+    "side": "left",
+    "kind": "body",
+    "text": "Rb6 As before, the wedge stands firm in the centre of the board, but already it is not a joy but a sorrow for Black.",
+    "chapter": 5,
+    "page_end": 154,
+    "segment_id": "CH5-167",
+    "zh": "Rb6 和以前一样，楔子稳稳地站在棋盘中央，但对黑方来说这已经不是一种喜悦而是一种悲伤。"
+  },
+  {
+    "page": 154,
+    "side": "left",
+    "kind": "moves",
+    "text": "36. Qh6. Bd8 37. a4. a5",
+    "chapter": 5,
+    "segment_id": "CH5-168",
+    "zh": "36. Qh6. Bd8 37. a4. a5"
+  },
+  {
+    "page": 154,
+    "side": "left",
+    "kind": "body",
+    "text": "On 37... Qxa4 would have followed 38. Rxe5.",
+    "chapter": 5,
+    "segment_id": "CH5-169",
+    "zh": "37... Qxa4 将紧随 38. Rxe5。"
+  },
+  {
+    "page": 154,
+    "side": "left",
+    "kind": "moves",
+    "text": "38. Bd5",
+    "chapter": 5,
+    "segment_id": "CH5-170",
+    "zh": "38. Bd5"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "body",
+    "text": "Now White himself threatens the move Rxe5.",
+    "chapter": 5,
+    "segment_id": "CH5-171",
+    "zh": "现在白方本人威胁要走这一步Rxe5。"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "moves",
+    "text": "38... Qe7 39. Qh5",
+    "chapter": 5,
+    "segment_id": "CH5-172",
+    "zh": "38... Qe7 39. Qh5"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "body",
+    "text": "Of course he need not hurry since Black's position is quite helpless, but all the same 39. g4 was more energetic. He cannot take the pawn in view of 40. Rxe5, but, on the other hand, how can he prevent g5?",
+    "chapter": 5,
+    "segment_id": "CH5-173",
+    "zh": "当然不用着急，因为黑方的局面已经很无助了，但39g4还是比较有活力。鉴于 40 个 Rxe5，他无法获得兵，但另一方面，他又如何能够阻止 g5?"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "moves",
+    "text": "39... Rg6 40. R5f2. Qd7 41. Be4. Rg5 42. Qh6. Qg7 43. Qh3. Qc7 44. Qh6. Qg7 45. Qh3. Qc7",
+    "chapter": 5,
+    "page_end": 154,
+    "segment_id": "CH5-174",
+    "zh": "39... Rg6 40. R5f2. Qd7 41. Be4. Rg5 42. Qh6. Qg7 43. Qh3. Qc7 44. Qh6. Qg7 45. Qh3. Qc7"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "body",
+    "text": "The time-control moves, which obviously explain the repetitive queen manoeuvres, are over and White sets about completing his plan - the realisation of his positional \"white-squared\" advantage. Material advantage extra pawn - is still on the opponent's side.",
+    "chapter": 5,
+    "segment_id": "CH5-175",
+    "zh": "时间控制棋显然解释了重复的后运子，已经结束，白方开始完成他的计划——实现他的位置“白方”优势。子力优势额外兵 - 仍在对手这边。"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "moves",
+    "text": "46. Rf5. Rxf5 If 46... Rg7, then 47. g4. Rb2 48. g5. Rxg5 49. Rxg5. fxg5 50. Qh6, and",
+    "chapter": 5,
+    "page_end": 154,
+    "segment_id": "CH5-176",
+    "zh": "46. Rf5. Rxf5 如果 46... Rg7，则 47. g4. Rb2 48. g5。Rxg5 49. Rxg5. fxg5 50. Qh6，以及"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "body",
+    "text": "the struggle is over. If the rook is placed on b6 in this variation then",
+    "chapter": 5,
+    "segment_id": "CH5-177",
+    "zh": "斗争结束了。如果在此变体中将车放置在 b6 上，则"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "moves",
+    "text": "50. Rf8+ Kg7 51. Re8. Rh6 52. Qf5",
+    "chapter": 5,
+    "segment_id": "CH5-178",
+    "zh": "50. Rf8+ Kg7 51. Re8. Rh6 52. Qf5"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "body",
+    "text": "Qd6 (Bf6) 53. Bd5 is decisive.",
+    "chapter": 5,
+    "segment_id": "CH5-179",
+    "zh": "Qd6 (Bf6) 53. Bd5 是决定性的。"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "moves",
+    "text": "47. Rxf5. Rd6",
+    "chapter": 5,
+    "segment_id": "CH5-180",
+    "zh": "47. Rxf5. Rd6"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "body",
+    "text": "The counterattack by ... Rb1+ is also useless. Black cannot include the queen in this due to the weakness of the h7 point.",
+    "chapter": 5,
+    "segment_id": "CH5-181",
+    "zh": "...Rb1+的反击也是没有用的。由于 h7 点的弱点，黑方不能将后包含在其中。"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "moves",
+    "text": "48. g4. Rd7 49. g5! fxg5",
+    "chapter": 5,
+    "segment_id": "CH5-182",
+    "zh": "48. g4. Rd7 49. g5! fxg5"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "body",
+    "text": "The endgame after 49... Rf7 50",
+    "chapter": 5,
+    "segment_id": "CH5-183",
+    "zh": "49 后的残局... Rf7 50"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "moves",
+    "text": "g6. Rg7 51. Rh5. Qd7 52. Rxh7+ Rxh7 53. Qxh7+ Qxh7 54. gxh7 is",
+    "chapter": 5,
+    "page_end": 154,
+    "segment_id": "CH5-184",
+    "zh": "g6。Rg7 51. Rh5. Qd7 52. Rxh7+ Rxh7 53. Qxh7+ Qxh7 54. gxh7 是"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "body",
+    "text": "utterly hopeless.",
+    "chapter": 5,
+    "segment_id": "CH5-185",
+    "zh": "彻底绝望了。"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "moves",
+    "text": "50. Rxe5?",
+    "chapter": 5,
+    "segment_id": "CH5-186",
+    "zh": "50. Rxe5?"
+  },
+  {
+    "page": 154,
+    "side": "right",
+    "kind": "body",
+    "text": "After this mistaken move, Black saves himself. Thus a single tactical inaccuracy sometimes makes futile many moves of effort, construction on the right plan and correct strategy. 50. Rf8+ Kg7 51. Re8! with the deadly threat Qxh7 mate led to quick mate. If 51... h6, then 52. Qf5; also no better is",
+    "chapter": 5,
+    "page_end": 155,
+    "segment_id": "CH5-187",
+    "zh": "在这次错误的行动之后，黑方拯救了自己。因此，有时，单一的战术不准确会使许多努力、建立正确的计划和正确的战略变得徒劳。50. Rf8+ Kg7 51. Re8! 与致命威胁 Qxh7 交配导致快速交配。如果 51... h6，则 52. Qf5；也没有更好的是"
+  },
+  {
+    "page": 155,
+    "side": "left",
+    "kind": "moves",
+    "text": "51... Kf6 52. Qh6+ or Qf5+. 50... Qxe5 51. Qxd7. Qe7",
+    "chapter": 5,
+    "page_end": 155,
+    "segment_id": "CH5-188",
+    "zh": "51... Kf6 52. Qh6+ or Qf5+. 50... Qxe5 51. Qxd7. Qe7"
+  },
+  {
+    "page": 155,
+    "side": "left",
+    "kind": "body",
+    "text": "Now the opposite coloured bishops herald a draw and the game soon ended with this result.",
+    "chapter": 5,
+    "segment_id": "CH5-189",
+    "zh": "现在异格象预示着平局，对局很快就以这个结果结束了。"
+  },
+  {
+    "page": 155,
+    "side": "left",
+    "kind": "body",
+    "text": "We look at one more example, characteristic for contemporary creative and theoretical tendencies.",
+    "chapter": 5,
+    "segment_id": "CH5-190",
+    "zh": "我们再看一个例子，其特征是先手相反的创造性和理论倾向。"
+  },
+  {
+    "page": 155,
+    "side": "left",
+    "kind": "heading",
+    "text": "King's Indian Defence",
+    "chapter": 5,
+    "segment_id": "CH5-191",
+    "zh": "老印度防御"
+  },
+  {
+    "page": 155,
+    "side": "left",
+    "kind": "metadata",
+    "text": "White: L.Polugayevsky",
+    "chapter": 5,
+    "segment_id": "CH5-192",
+    "zh": "白方：L.波卢加耶夫斯基"
+  },
+  {
+    "page": 155,
+    "side": "left",
+    "kind": "metadata",
+    "text": "Black: A.Suetin",
+    "chapter": 5,
+    "segment_id": "CH5-193",
+    "zh": "黑方：A.苏埃京"
+  },
+  {
+    "page": 155,
+    "side": "left",
+    "kind": "metadata",
+    "text": "(25th USSR Championship 1958)",
+    "chapter": 5,
+    "segment_id": "CH5-194",
+    "zh": "（1958年第25届苏联锦标赛）"
+  },
+  {
+    "page": 155,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. d4. Nf6 2. c4. g6 3. Nc3. Bg7 4. e4. d6 5. f3",
+    "chapter": 5,
+    "page_end": 155,
+    "segment_id": "CH5-195",
+    "zh": "1. d4. Nf6 2. c4. g6 3. Nc3. Bg7 4. e4. d6 5. f3"
+  },
+  {
+    "page": 155,
+    "side": "left",
+    "kind": "body",
+    "text": "This is a long-standing way of playing against the King's Indian Defence for White, and has recently become more and more frequently met in practice. It is wellknown that in his return match with Smyslov, Botvinnik likewise stuck to this treatment of the opening. The apparently very modest move of the f-pawn has great planning significance. It extends far beyond the limits of a simple striving to reinforce one of the main links of the pawn centre - the e4 pawn. White's plan consists of the construction of a wedge with a subsequent meeting of the counterattack ... f5 with g4. If Black refrains from ... f5, then he will not only turn out to be severely cramped by the wedge, but White will also have the possibility of developing a dangerous pawn attack on the king's flank by h4-h5. All these \"\"trumps\" are exploited by White in the present game.",
+    "chapter": 5,
+    "page_end": 155,
+    "segment_id": "CH5-196",
+    "zh": "这是白方对抗老印度防御的一种长期存在的方式，并且最近在实践中变得越来越频繁。众所周知，在与斯梅斯洛夫的回归对局中，鲍特维尼克同样坚持了这样的开局处理。f-兵看似非常温和的举动具有重大的规划意义。它远远超出了简单地努力加强兵中心的主要链接之一——e4兵的限制。白方的计划包括构建楔子以及随后的反击...f5与g4。如果黑方不采取...f5，那么他不仅会被楔子严重挤压，而且白方也有可能通过h4-h5对兵发起危险的兵攻击。所有这些“王牌”都被白方在本局对局中利用了。"
+  },
+  {
+    "page": 155,
+    "side": "right",
+    "kind": "moves",
+    "text": "5... O-O 6. Be3. e5",
+    "chapter": 5,
+    "segment_id": "CH5-197",
+    "zh": "5... O-O 6. Be3. e5"
+  },
+  {
+    "page": 155,
+    "side": "right",
+    "kind": "body",
+    "text": "If Black does not take measures to determine the position in the centre, then, after Qd2 and O-O-O, White without difficulty develops a threatening attack on the king's flank (g4, h4-h5, Bh6) under the cover of the pawn centre. With this it becomes clear that Black submits to the construction of the opponent's wedge, intending, even after g4, to sharpen the game with the advance e ... f5.",
+    "chapter": 5,
+    "segment_id": "CH5-198",
+    "zh": "如果黑方不采取措施确定中心位置，则在Qd2和O-O-O之后，白方在兵中心的掩护下，毫无困难地对王翼（g4、h4-h5、Bh6）发起威胁攻击。由此可见，黑方屈服于对手楔形的构建，即使在g4之后，仍打算通过先进的 e... f5 来锐化棋局。"
+  },
+  {
+    "page": 155,
+    "side": "right",
+    "kind": "body",
+    "text": "In his last match with Botvinnik, Smyslov tried to counter White's plan with energetic pawn play on the queen's flank (... a6, ...c6, and ... b5). This counterattacking idea has still not received sufficient practical trials; in any event it did not justify itself in the match.",
+    "chapter": 5,
+    "segment_id": "CH5-199",
+    "zh": "在他与鲍特维尼克的最后一场对局中，斯梅斯洛夫试图在后翼（...a6、...c6和...b5）上用精力充沛的兵来反击白方的计划。这种反击的想法还没有得到足够的实践检验；无论如何，它在对局中并没有证明自己的合理性。"
+  },
+  {
+    "page": 155,
+    "side": "right",
+    "kind": "moves",
+    "text": "7. d5. c5",
+    "chapter": 5,
+    "segment_id": "CH5-200",
+    "zh": "7. d5. c5"
+  },
+  {
+    "page": 155,
+    "side": "right",
+    "kind": "body",
+    "text": "Such a blockade of the c4 pawn is usually linked to an attack on the pawn wedge from the side of the queen's flank. Black strives in the future for ... a6 and ... b5. In the present game it does not come to this and the move ... c5 loses its clearness of purpose.",
+    "chapter": 5,
+    "segment_id": "CH5-201",
+    "zh": "对c4兵的这种封锁通常与从后翼一侧对兵楔的攻击有关。黑方在未来为...a6和...b5而奋斗。在目前的对局中，事情并没有发展到这一点，并且这一举动...c5失去了其明确的目的。"
+  },
+  {
+    "page": 155,
+    "side": "right",
+    "kind": "moves",
+    "text": "8. g4. Ne8 9. h4",
+    "chapter": 5,
+    "segment_id": "CH5-202",
+    "zh": "8. g4. Ne8 9. h4"
+  },
+  {
+    "page": 156,
+    "side": "left",
+    "kind": "body",
+    "text": "This position eloquently bears witness to how contemporary notions have changed concerning the opening struggle. According to classical principles, the principal opening task has still not been accomplished: the pieces are virtually undeveloped, it is mainly the pawns which have advanced (White's will make 7 moves out of the first 10!). And yet, despite the opinion of some opening theoreticians, the opening stage can be considered over. The plans of the opponents, particularly White, are determined, but the struggle of the plans - is already a process of the middlegame.",
+    "chapter": 5,
+    "segment_id": "CH5-203",
+    "zh": "这一立场雄辩地证明了有关开场斗争的相反观念是如何发生变化的。根据经典原理，主要的开局任务还没有完成：棋子实际上还没有发展，主要是兵已经进步（白方将在前10步中走7步！）。然而，尽管一些开局理论家持不同意见，但开局阶段可以认为已经结束。对手的计划，特别是白方，已经确定，但计划的斗争 - 已经是中局的过程。"
+  },
+  {
+    "page": 156,
+    "side": "left",
+    "kind": "body",
+    "text": "The diagrammed position was reached in two more encounters in the same tournament, i.e.: Tal- Boleslavsky (played earlier than the present game) and Kotov- Spassky (played later). The first ended in a victory for Black, the second - for White; admittedly these results could only be attributed to a small extent to the opening.",
+    "chapter": 5,
+    "segment_id": "CH5-204",
+    "zh": "图表中的位置是在同一锦标赛中的另外两场对局中达到的，即：Tal- 博列斯拉夫斯基（比本场对局早打）和科托夫- Spassky（晚打）。第一场对局以黑方胜利告终，第二场对局以白方胜利告终；诚然，这些结果只能在很小的程度上归因于开放。"
+  },
+  {
+    "page": 156,
+    "side": "left",
+    "kind": "moves",
+    "text": "9... f5",
+    "chapter": 5,
+    "segment_id": "CH5-205",
+    "zh": "9... f5"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "body",
+    "text": "A bold and consistent plan was chosen by Spassky against Kotov: 9... a6 10. Bd3 b5. White did not risk accepting the pawn sacrifice, but Black all the same succeeded in creating a dangerous attack on the b-file on the queen's flank, to counterbalance the opponent's play on the king's side.",
+    "chapter": 5,
+    "segment_id": "CH5-206",
+    "zh": "斯帕斯基针对科托夫选择了一个大胆而一致的计划：9... a6 10. Bd3. b5。白方并没有冒险接受弃兵，但黑方仍然成功地对后翼上的b线发起了危险的攻击，以平衡对手在王一侧的玩法。"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "body",
+    "text": "Boleslavsky, against Tal, also played 9... f5.",
+    "chapter": 5,
+    "segment_id": "CH5-207",
+    "zh": "博列斯拉夫斯基，对阵 Tal，也打了 9... f5。"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "moves",
+    "text": "10. gxf5. gxf5 11. exf5",
+    "chapter": 5,
+    "segment_id": "CH5-208",
+    "zh": "10. gxf5. gxf5 11. exf5"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "body",
+    "text": "White strives to exchange the white-squared bishops (11... Bxf5 12. Bd3), after which the piece base on e4 and the dangerous weakening of the e6 square, in connection with the threat Nh3-g5-e6, guarantees him good prospects.",
+    "chapter": 5,
+    "segment_id": "CH5-209",
+    "zh": "白方努力交换白方象 (11... Bxf5 12. Bd3)，之后基于 e4 的棋子以及 e6 格的危险削弱，与威胁有关Nh3-g5-e6，保证了他良好的前景。"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "body",
+    "text": "Boleslavsky for his part against Tal, decided on an interesting pawn sacrifice - 11... Bxf5 12. Bd3 e4. ln the present game, taking into account the experience of the Tal-Boleslavsky encounter, Black chose another continuation.",
+    "chapter": 5,
+    "segment_id": "CH5-210",
+    "zh": "博列斯拉夫斯基对于他对阵 Tal 的部分，决定了一个有趣的弃兵 - 11... Bxf5 12. Bd3. e4。本局，考虑到塔尔-博列斯拉夫斯基遭遇的经验，黑方选择了另一个后续手段。"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "moves",
+    "text": "11... Bf6",
+    "chapter": 5,
+    "segment_id": "CH5-211",
+    "zh": "11... Bf6"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "body",
+    "text": "Not so much n to win the h4 pawn, since the e opening of the h-file is very risky, as with the aim of taking the f5 5pawn with the knight (... Ng7xf5).",
+    "chapter": 5,
+    "segment_id": "CH5-212",
+    "zh": "赢得 h4 兵的 n 并不多，因为 h线的 e 开局非常危险，目的是用马夺取 f5 5pawn（... Ng7xf5）。"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "moves",
+    "text": "12. Bd3. Ng7!",
+    "chapter": 5,
+    "segment_id": "CH5-213",
+    "zh": "12. Bd3. Ng7!"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "body",
+    "text": "In the event of 12... Bxh4+ 13",
+    "chapter": 5,
+    "segment_id": "CH5-214",
+    "zh": "如果发生 12... Bxh4+ 13"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "moves",
+    "text": "Kd2. Bxf5 14. Bxf5. Rxf5 15. Qe2",
+    "chapter": 5,
+    "segment_id": "CH5-215",
+    "zh": "Kd2. Bxf5 14. Bxf5. Rxf5 15. Qe2"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "body",
+    "text": "followed by Nh3 and Ragl+, White's attack develops all by itself.",
+    "chapter": 5,
+    "segment_id": "CH5-216",
+    "zh": "接下来是Nh3和Ragl+，白方的攻击完全自行展开。"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "moves",
+    "text": "13. Qe2. Bxh4+",
+    "chapter": 5,
+    "segment_id": "CH5-217",
+    "zh": "13. Qe2. Bxh4+"
+  },
+  {
+    "page": 156,
+    "side": "right",
+    "kind": "body",
+    "text": "All the same, Black yields to temptation, obviously underestimating the opened h-file and overestimating the instability of the White king's position. Instead of the risky capture of the pawn, he should stick to the planned line and try to retain the white-squared bishop, which plays a great role in the defence of the king's flank and the e6 and e4 squares. Upon the continuation 13... Nxf5 14. Bxf5",
+    "chapter": 5,
+    "page_end": 157,
+    "segment_id": "CH5-218",
+    "zh": "尽管如此，黑方还是屈服于诱惑，明显低估了开局h线并高估了白方王局面的不稳定性。与其冒险夺取兵，他应该坚持计划路线，并尽力保留白方象，这对防御王翼和e6和e4格发挥了巨大作用。在后续手段 13... Nxf5 14. Bxf5"
+  },
+  {
+    "page": 157,
+    "side": "left",
+    "kind": "moves",
+    "text": "Bxf5 15. O-O-O Kh8 16. Nh3. Nd7,",
+    "chapter": 5,
+    "segment_id": "CH5-219",
+    "zh": "Bxf5 15. O-O-O Kh8 16. Nh3. Nd7,"
+  },
+  {
+    "page": 157,
+    "side": "left",
+    "kind": "body",
+    "text": "White of course has the initiative but Black could successfully withstand the pressure of the wedge.",
+    "chapter": 5,
+    "segment_id": "CH5-220",
+    "zh": "白方当然有主动权，但黑方可以成功顶住楔子的压力。"
+  },
+  {
+    "page": 157,
+    "side": "left",
+    "kind": "moves",
+    "text": "14. Kd2. Bxf5",
+    "chapter": 5,
+    "segment_id": "CH5-221",
+    "zh": "14. Kd2. Bxf5"
+  },
+  {
+    "page": 157,
+    "side": "left",
+    "kind": "body",
+    "text": "Also after 14... Nxf5 15. Bxf5 Bxf5 16. Nh3, White has a threatening attack.",
+    "chapter": 5,
+    "segment_id": "CH5-222",
+    "zh": "同样在14... Nxf5 15. Bxf5. Bxf5 16. Nh3之后，白方有威胁攻击。"
+  },
+  {
+    "page": 157,
+    "side": "left",
+    "kind": "moves",
+    "text": "15. Ne4",
+    "chapter": 5,
+    "segment_id": "CH5-223",
+    "zh": "15. Ne4"
+  },
+  {
+    "page": 157,
+    "side": "left",
+    "kind": "body",
+    "text": "White threatens to take the pawn on d6. Unsatisfactory is 15... Bxe4 16. Bxe4, and the h7 point is indefensible.",
+    "chapter": 5,
+    "segment_id": "CH5-224",
+    "zh": "白方威胁要在 d6 上吃掉兵。不满意的是15...Bxe416Bxe4，h7点是站不住脚的。"
+  },
+  {
+    "page": 157,
+    "side": "left",
+    "kind": "moves",
+    "text": "15... Be7 16. Nh3. b5 17. Rag1. bxc4 18. Bc2. Qa5+ 19. Nc3. Bxc2 20. Kxc2",
+    "chapter": 5,
+    "page_end": 157,
+    "segment_id": "CH5-225",
+    "zh": "15... Be7 16. Nh3. b5 17. Rag1. bxc4 18. Bc2. Qa5+ 19. Nc3. Bxc2 20. Kxc2"
+  },
+  {
+    "page": 157,
+    "side": "left",
+    "kind": "body",
+    "text": "The attack on the g and h-files cannot be repulsed.",
+    "chapter": 5,
+    "segment_id": "CH5-226",
+    "zh": "对g和h线的攻击无法被击退。"
+  },
+  {
+    "page": 157,
+    "side": "left",
+    "kind": "moves",
+    "text": "20... Na6 21. Bh6. Nb4+ 22. Kb1. Rf7 23. Ng5. Bxg5 24. Rxg5. Rb8 25. Bxg7. Rxg7 26. Rxg7+ Kxg7 27. Qe4. Rh8 28. Qf5 1-0",
+    "chapter": 5,
+    "page_end": 157,
+    "segment_id": "CH5-227",
+    "zh": "20... Na6 21. Bh6. Nb4+ 22. Kb1. Rf7 23. Ng5. Bxg5 24. Rxg5. Rb8 25. Bxg7. Rxg7 26. Rxg7+ Kxg7 27. Qe4. Rh8 28. Qf5 1-0"
+  },
+  {
+    "page": 157,
+    "side": "left",
+    "kind": "body",
+    "text": "The threatening destructive force contained in pawn attacks can show itself not only in groups of pawns but also in a single pawn, particularly when we have the business of the so-called pawnnail. With this we have in mind a pawn which breaks through to the",
+    "chapter": 5,
+    "segment_id": "CH5-228",
+    "zh": "兵攻击中所包含的威胁性破坏力不仅可以以兵组的形式表现出来，也可以以单个兵的形式表现出来，特别是当我们从事所谓的兵业务时。有了这个，我们想到了一个兵，它突破了"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "6th (for Black - the 3rd) rank and establishes itself on it. It can indeed be compared to a nail, hammered deeply into the position of the enemy forces.",
+    "chapter": 5,
+    "segment_id": "CH5-229",
+    "zh": "第六（对于黑方 - 第三）横线并建立在其上。它确实可以比作一根钉子，深深地钉入敌军阵地。"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "If the wedge, that is a pawn consolidated on the 5th rank, cramps the opponent, then the nail on the 6th rank pins down his forces and serves as a support for the most dangerous attacking pieces.",
+    "chapter": 5,
+    "segment_id": "CH5-230",
+    "zh": "如果楔子，即在第五层横线上巩固的兵，限制了对手，那么第六层上的钉子横线会压制他的力量，并作为最危险的攻击棋子的支撑。"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "We illustrate this statement with some examples.",
+    "chapter": 5,
+    "segment_id": "CH5-231",
+    "zh": "我们用一些例子来说明这一说法。"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "One of the sharp variations of the Italian Game proceeds in the following way: 1. e4 e5 2. Nf3 Nc6",
+    "chapter": 5,
+    "segment_id": "CH5-232",
+    "zh": "意大利对局的剧烈变化之一以下列方式进行： 1. e4. e5 2. Nf3. Nc6"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "moves",
+    "text": "3. Bc4. Bc5 4. c3. Nf6 5. d4. exd4 6. cxd4. Bb4+ 7. Nc3. Nxe4 8. O-O",
+    "chapter": 5,
+    "page_end": 157,
+    "segment_id": "CH5-233",
+    "zh": "3. Bc4. Bc5 4. c3. Nf6 5. d4. exd4 6. cxd4. Bb4+ 7. Nc3. Nxe4 8. O-O"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "O-O",
+    "chapter": 5,
+    "segment_id": "CH5-234",
+    "zh": "O-O"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "Here the opening manuals look mainly at the continuation 8...",
+    "chapter": 5,
+    "segment_id": "CH5-235",
+    "zh": "这里打开手册主要看后续手段 8..."
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "moves",
+    "text": "Bxc3 9. d5. Bf6 10. Re1. Ne7 11",
+    "chapter": 5,
+    "segment_id": "CH5-236",
+    "zh": "Bxc3 9. d5. Bf6 10. Re1. Ne7 11"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "Rxe4, known under the name of the Moller Attack. The move",
+    "chapter": 5,
+    "segment_id": "CH5-237",
+    "zh": "Rxe4，以莫勒攻击的名义而闻名。此举"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "moves",
+    "text": "8... O-O",
+    "chapter": 5,
+    "segment_id": "CH5-238",
+    "zh": "8... O-O"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "was employed in Spielmann-E. Cohn, played in the international tournament at Carlsbad 1907. We look at this game now.",
+    "chapter": 5,
+    "segment_id": "CH5-239",
+    "zh": "受雇于斯皮尔曼-E。Cohn，参加了 1907 年卡尔斯巴德的国际锦标赛。我们现在看看这场对局。"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "moves",
+    "text": "9. d5. Bxc3 10. bxc3. Ne7 11. Re1",
+    "chapter": 5,
+    "segment_id": "CH5-240",
+    "zh": "9. d5. Bxc3 10. bxc3. Ne7 11. Re1"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "Nf6",
+    "chapter": 5,
+    "segment_id": "CH5-241",
+    "zh": "Nf6"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "11... Nxc3 is unsatisfactory in",
+    "chapter": 5,
+    "segment_id": "CH5-242",
+    "zh": "11... Nxc3 不令人满意"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "moves",
+    "text": "view of 12. Qd4. b5 13. Bg5. 12. d6!",
+    "chapter": 5,
+    "page_end": 157,
+    "segment_id": "CH5-243",
+    "zh": "12. Qd4. b5 13. Bg5 的视图。12. d6!"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "White tries to \"hammer in the nail\" on d6, and he surprisingly succeeds in doing this.",
+    "chapter": 5,
+    "segment_id": "CH5-244",
+    "zh": "白方试图在 d6 上“一锤定音”，令人惊讶的是他成功地做到了这一点。"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "moves",
+    "text": "12... Ng6?",
+    "chapter": 5,
+    "segment_id": "CH5-245",
+    "zh": "12... Ng6?"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "body",
+    "text": "12... cxd6 was obligatory.",
+    "chapter": 5,
+    "segment_id": "CH5-246",
+    "zh": "12... cxd6 是强制性的。"
+  },
+  {
+    "page": 157,
+    "side": "right",
+    "kind": "moves",
+    "text": "13. Ba3! c6",
+    "chapter": 5,
+    "segment_id": "CH5-247",
+    "zh": "13. Ba3! c6"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "body",
+    "text": "But now it is already too late for 13... cxd6; on this follows 14",
+    "chapter": 5,
+    "segment_id": "CH5-248",
+    "zh": "但现在已经太晚了 13... cxd6；接下来是 14"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "moves",
+    "text": "Bxd6. Re8 15. Qb3. Nh8 16. Ne5 or",
+    "chapter": 5,
+    "segment_id": "CH5-249",
+    "zh": "Bxd6. Re8 15. Qb3. Nh8 16. Ne5 or"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "body",
+    "text": "Ng5 with an irresistible attack.",
+    "chapter": 5,
+    "segment_id": "CH5-250",
+    "zh": "Ng5以不可抗拒的攻击。"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "moves",
+    "text": "14. Ne5",
+    "chapter": 5,
+    "segment_id": "CH5-251",
+    "zh": "14. Ne5"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "body",
+    "text": "White's plan is determined. Under the cover of the pawn-nail, pinning down the opponent, he intends to come down upon the Black king's position with his superior forces. With his last move, White eliminates one of the Black knights covering the castled position. Black is not in a position to repulse this onslaught. The reserves on the queen's flank, held back by the pawn-nail, do not succeed in getting across to help.",
+    "chapter": 5,
+    "segment_id": "CH5-252",
+    "zh": "白方的计划已经确定。在兵钉子的掩护下，牵制对手，打算以优势兵力冲击黑方王的阵地。通过他的最后一步，白方消除了覆盖城堡位置的黑方马。黑方无法击退这种攻击。后翼上的储备被兵钉子挡住，无法成功跨越来提供帮助。"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "moves",
+    "text": "14... Nxe5 15. Rxe5. b6 16. Qf3. Bb7 17. Rae1. Rb8 18. Bc1. b5",
+    "chapter": 5,
+    "page_end": 158,
+    "segment_id": "CH5-253",
+    "zh": "14... Nxe5 15. Rxe5. b6 16. Qf3. Bb7 17. Rae1. Rb8 18. Bc1. b5"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "body",
+    "text": "On 18... c5 follows 19. Qh3 with the threat Bg5.",
+    "chapter": 5,
+    "segment_id": "CH5-254",
+    "zh": "18... c5 紧随 19. Qh3 威胁 Bg5。"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "moves",
+    "text": "19. Bd3. Nd5",
+    "chapter": 5,
+    "segment_id": "CH5-255",
+    "zh": "19. Bd3. Nd5"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "body",
+    "text": "In the event of 19... h6, to rid himself of Bg5, Black is doomed to a quick downfall after 20. Re7.",
+    "chapter": 5,
+    "segment_id": "CH5-256",
+    "zh": "如果发生19...h6，为了摆脱Bg5，黑方注定会在20Re7之后迅速垮台。"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "moves",
+    "text": "20. Bxh7+ 1-0",
+    "chapter": 5,
+    "segment_id": "CH5-257",
+    "zh": "20. Bxh7+ 1-0"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "body",
+    "text": "Mate is inevitable. A beautiful variation is 20... Kxh7 21. Rh5+",
+    "chapter": 5,
+    "segment_id": "CH5-258",
+    "zh": "伴侣是不可避免的。一个漂亮的变化是 20... Kxh7 21. Rh5+"
+  },
+  {
+    "page": 158,
+    "side": "left",
+    "kind": "moves",
+    "text": "Kg8 22. Qh3. g6 23. Rh8+ Kg7 24. Qh6+ Kf6 25. Rh7. Kf5 26. Qh3+ Kf6 27. Qh4+ Kf5 28. g4 mate. Of",
+    "chapter": 5,
+    "page_end": 158,
+    "segment_id": "CH5-259",
+    "zh": "Kg8 22. Qh3. g6 23. Rh8+ Kg7 24. Qh6+ Kf6 25. Rh7. Kf5 26. Qh3+ Kf6 27. Qh4+Kf5 28. g4 伙计。的"
+  },
+  {
+    "page": 158,
+    "side": "right",
+    "kind": "body",
+    "text": "course, mate can also be forced by other means.",
+    "chapter": 5,
+    "segment_id": "CH5-260",
+    "zh": "当然，交配也可以通过其他方式来强迫。"
+  },
+  {
+    "page": 158,
+    "side": "right",
+    "kind": "body",
+    "text": "Maroczy exploited the strength of the pawn-nail, in instructive fashion, on the same d6 point in a game against Pillsbury in the international tournament at Nirnberg 1896.",
+    "chapter": 5,
+    "segment_id": "CH5-261",
+    "zh": "马洛契在 1896 年纽伦堡国际锦标赛中与皮尔斯伯里的对局中，以指导性的方式在同一 d6 点上利用了兵钉子的力量。"
+  },
+  {
+    "page": 158,
+    "side": "right",
+    "kind": "moves",
+    "text": "12... Bf6?",
+    "chapter": 5,
+    "segment_id": "CH5-262",
+    "zh": "12... Bf6?"
+  },
+  {
+    "page": 158,
+    "side": "right",
+    "kind": "body",
+    "text": "Black gives White the possibility of \"hammering in the nail\" on d6. Of course, Pillsbury saw the move 13. d6, but Black's position is generally unsatisfactory due to his backwardness development. The variation 12... b5 13. Bb3 d6",
+    "chapter": 5,
+    "segment_id": "CH5-263",
+    "zh": "黑方给白方“敲钉子”的可能性d6。当然，皮尔斯伯里看到了第13步d6，但黑方由于发展落后，总体情况并不理想。变化 12... b5 13. Bb3. d6"
+  },
+  {
+    "page": 158,
+    "side": "right",
+    "kind": "moves",
+    "text": "14. Nd4 must be just as bad. The",
+    "chapter": 5,
+    "segment_id": "CH5-264",
+    "zh": "14. Nd4 一定也同样糟糕。的"
+  },
+  {
+    "page": 158,
+    "side": "right",
+    "kind": "body",
+    "text": "powerful knight can only be eliminated by means of the exchange ... Bf6xd4, but in this case White has a great positional advantage.",
+    "chapter": 5,
+    "segment_id": "CH5-265",
+    "zh": "强大的马只能通过交换...Bf6xd4的方式来消除，但在这种情况下白方具有很大的位置优势。"
+  },
+  {
+    "page": 158,
+    "side": "right",
+    "kind": "moves",
+    "text": "13. d6. c6",
+    "chapter": 5,
+    "segment_id": "CH5-266",
+    "zh": "13. d6. c6"
+  },
+  {
+    "page": 158,
+    "side": "right",
+    "kind": "body",
+    "text": "Allowing the enemy bishop on to the weak d6 square, after 13... cxd6 would also be miserable.",
+    "chapter": 5,
+    "segment_id": "CH5-267",
+    "zh": "让敌人象攻击弱者d6格，13... cxd6之后也会很惨。"
+  },
+  {
+    "page": 158,
+    "side": "right",
+    "kind": "moves",
+    "text": "14. Bb3. b5 15. Qd2. Bb7 16. Ng5. Rf8 17. Ne4. a5 18. a3. Na6",
+    "chapter": 5,
+    "page_end": 158,
+    "segment_id": "CH5-268",
+    "zh": "14. Bb3. b5 15. Qd2. Bb7 16. Ng5. Rf8 17. Ne4. a5 18. a3. Na6"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "body",
+    "text": "Black's trouble lies in the fact that he does not succeed in bringing his queen's rook into the battle, and the White pawn-nail on d6 is the most to blame for this.",
+    "chapter": 5,
+    "segment_id": "CH5-269",
+    "zh": "黑方的麻烦在于他没有成功地将后的车带入战斗，而白方兵钉在d6上是罪魁祸首。"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "moves",
+    "text": "19. Rae1. c5 20. Bd5. Bxd5 21. Qxd5. b4 22. Re3. Bxc3",
+    "chapter": 5,
+    "page_end": 159,
+    "segment_id": "CH5-270",
+    "zh": "19. Rae1. c5 20. Bd5. Bxd5 21. Qxd5. b4 22. Re3. Bxc3"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "body",
+    "text": "Black's position is difficult, but this move ought to have led to immediate loss.",
+    "chapter": 5,
+    "segment_id": "CH5-271",
+    "zh": "黑方的处境很困难，但这一棋应该立即导致失败。"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "moves",
+    "text": "23. Rxc3?",
+    "chapter": 5,
+    "segment_id": "CH5-272",
+    "zh": "23. Rxc3?"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "body",
+    "text": "The variation 23. Nxc3 bxc3 24. Bg5 Q-moves 25. Bf6 gxf6 26. Rg3+ Kh8 27. Qf5 leads to mate.",
+    "chapter": 5,
+    "segment_id": "CH5-273",
+    "zh": "变异 23. Nxc3. bxc3 24. Bg5 Q 移动 25. Bf6. gxf6 26. Rg3+ Kh8 27. Qf5 导致交配。"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "moves",
+    "text": "23... bxc3 24. Bg5. Nc7",
+    "chapter": 5,
+    "segment_id": "CH5-274",
+    "zh": "23... bxc3 24. Bg5. Nc7"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "body",
+    "text": "On a move of the queen, the check on f6 is decisive. It is not hard to convince oneself that all these attacks are based once again on the powerful position of the pawn nail.",
+    "chapter": 5,
+    "segment_id": "CH5-275",
+    "zh": "在后移动时，对 f6 的检查是决定性的。不难让自己相信，所有这些攻击都是基于钉子兵的强大地位。"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "moves",
+    "text": "25. Qc4. Qe8 26. dxc7",
+    "chapter": 5,
+    "segment_id": "CH5-276",
+    "zh": "25. Qc4. Qe8 26. dxc7"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "body",
+    "text": "26. Nf6+ is also winning.",
+    "chapter": 5,
+    "segment_id": "CH5-277",
+    "zh": "26. Nf6+ 也获胜。"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "moves",
+    "text": "26... Qe5 27. Rd1. Rfe8 28. Rxd7. Kh8 29. Qxf7. Qxg5 30. f4. Qg4 31. h3. Qxd7 32. Qxd7. Rxe4 33",
+    "chapter": 5,
+    "page_end": 159,
+    "segment_id": "CH5-278",
+    "zh": "26... Qe5 27. Rd1. Rfe8 28. Rxd7. Kh8 29. Qxf7. Qxg5 30. f4. Qg4 31. h3. Qxd7 32. Qxd7. Rxe4 33"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "body",
+    "text": "c8Q+ 1-0 The pawn nail queens.",
+    "chapter": 5,
+    "page_end": 159,
+    "segment_id": "CH5-279",
+    "zh": "c8Q+ 1-0 钉子兵后。"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "body",
+    "text": "Let us look at a game where the pawn-nail is the main aim of the plan of attack and the basis for creating a mating position.",
+    "chapter": 5,
+    "segment_id": "CH5-280",
+    "zh": "让我们看一个对局，其中兵钉子是攻击计划的主要目标，也是创建交配位置的基础。"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "heading",
+    "text": "Spanish Game",
+    "chapter": 5,
+    "segment_id": "CH5-281",
+    "zh": "西班牙开局"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "metadata",
+    "text": "White: R.Teichmann",
+    "chapter": 5,
+    "segment_id": "CH5-282",
+    "zh": "白方：R.泰希曼"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "metadata",
+    "text": "Black: A.Rubinstein",
+    "chapter": 5,
+    "segment_id": "CH5-283",
+    "zh": "黑方：A.鲁宾斯坦"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "metadata",
+    "text": "(Carlsbad 1911)",
+    "chapter": 5,
+    "segment_id": "CH5-284",
+    "zh": "（卡尔斯巴德1911）"
+  },
+  {
+    "page": 159,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. e4. e5 2. Nf3. Nc6 3. Bb5. a6 4. Ba4. Nf6 5. O-O Be7 6. Re1. b5 7. Bb3. d6 8. c3. O-O 9. d3",
+    "chapter": 5,
+    "page_end": 159,
+    "segment_id": "CH5-285",
+    "zh": "1. e4. e5 2. Nf3. Nc6 3. Bb5. a6 4. Ba4. Nf6 5. O-O Be7 6. Re1. b5 7. Bb3. d6 8. c3. O-O 9. d3"
+  },
+  {
+    "page": 159,
+    "side": "right",
+    "kind": "body",
+    "text": "9. h3 followed by d4 is met more frequently in contemporary practice. The modest (in appearance!) move chosen by White in the present game does not mean giving up the advance of the pawn to d4; it only postpones this advance to a later time, with the intention of preparing it more thoroughly. However, such a slow tactic also opens up t the possibility for Black of a harmonious mobilisation of forces and therefore it is no surprise that the present variation is met comparatively rarely.",
+    "chapter": 5,
+    "segment_id": "CH5-286",
+    "zh": "9. h3 后面跟着 d4 在先手相反的实践中更频繁地遇到。白方在本局棋中选择的温和（表面上！）走法并不意味着放弃兵到 d4 的进展；它只是将这一进展推迟到稍后的时间，目的是准备得更彻底。然而，这种缓慢的策略也为黑方提供了和谐调动力量的可能性，因此，目前的变化相对较少遇到也就不足为奇了。"
+  },
+  {
+    "page": 159,
+    "side": "right",
+    "kind": "moves",
+    "text": "9... Na5 10. Bc2. c5 11. Nbd2",
+    "chapter": 5,
+    "segment_id": "CH5-287",
+    "zh": "9... Na5 10. Bc2. c5 11. Nbd2"
+  },
+  {
+    "page": 159,
+    "side": "right",
+    "kind": "body",
+    "text": "Nc6",
+    "chapter": 5,
+    "segment_id": "CH5-288",
+    "zh": "Nc6"
+  },
+  {
+    "page": 159,
+    "side": "right",
+    "kind": "body",
+    "text": "This position was met in a number of games played in the 30's. Black, as shown by practice, should not be in a hurry with the counterattack ... d5, but carefully prepare it with the moves ... Qc7,",
+    "chapter": 5,
+    "segment_id": "CH5-289",
+    "zh": "这个立场在20世纪30年代的许多对局中都得到了满足。实践表明，黑方不应急于反击...d5，而应仔细准备着棋...Qc7，"
+  },
+  {
+    "page": 159,
+    "side": "right",
+    "kind": "moves",
+    "text": ".. Be6 and ... Rad8.",
+    "chapter": 5,
+    "segment_id": "CH5-290",
+    "zh": ".. Be6 and ... Rad8."
+  },
+  {
+    "page": 159,
+    "side": "right",
+    "kind": "body",
+    "text": "In the game Alekhine-Eliskases, (Podebrady 1936) was played 12",
+    "chapter": 5,
+    "segment_id": "CH5-291",
+    "zh": "在对局阿廖欣-Eliskases， (Podebrady 1936) 中，玩了 12"
+  },
+  {
+    "page": 159,
+    "side": "right",
+    "kind": "moves",
+    "text": "Nf1. Re8 13. Ne3. d5? 14. exd5. Nxd5 15. Nxd5. Qxd5 16. d4! exd4 17. Be4",
+    "chapter": 5,
+    "page_end": 159,
+    "segment_id": "CH5-292",
+    "zh": "Nf1. Re8 13. Ne3. d5? 14. exd5. Nxd5 15. Nxd5. Qxd5 16. d4! exd4 17. Be4"
+  },
+  {
+    "page": 159,
+    "side": "right",
+    "kind": "body",
+    "text": "and White had a strong initiative which led to victory already on the 25th move.",
+    "chapter": 5,
+    "segment_id": "CH5-293",
+    "zh": "白方拥有强大的主动权，这在第 25 步棋就已经取得了胜利。"
+  },
+  {
+    "page": 159,
+    "side": "right",
+    "kind": "moves",
+    "text": "12. a4. Bb7",
+    "chapter": 5,
+    "segment_id": "CH5-294",
+    "zh": "12. a4. Bb7"
+  },
+  {
+    "page": 159,
+    "side": "right",
+    "kind": "body",
+    "text": "The development of the queen's bishop on the long diagonal in this variation is 0u very well grounded. The activity of the bishop is very limited due to the d3 and e4 pawns; however the main defect of this idea consists of the dangerous weakening of the f5 square, precisely towards which the knight heads along the routemarch Nf1-g3-f5.",
+    "chapter": 5,
+    "page_end": 160,
+    "segment_id": "CH5-295",
+    "zh": "在此变体中，后的象在长对角线上的发展是 0u 很好的基础。由于d3和e4兵，象的活性非常有限；然而，这个想法的主要缺陷在于 f5 格的危险削弱，而马正是沿着 Nf1-g3-f5 路线前进。"
+  },
+  {
+    "page": 160,
+    "side": "left",
+    "kind": "body",
+    "text": "Black had several comfortable continuations, out of which 12... Be6 deserved the most consideration.",
+    "chapter": 5,
+    "segment_id": "CH5-296",
+    "zh": "黑方有几个舒服的后续手段，其中 12... Be6 最值得考虑。"
+  },
+  {
+    "page": 160,
+    "side": "left",
+    "kind": "moves",
+    "text": "13. Nf1. Qc7 14. Ng3. g6",
+    "chapter": 5,
+    "segment_id": "CH5-297",
+    "zh": "13. Nf1. Qc7 14. Ng3. g6"
+  },
+  {
+    "page": 160,
+    "side": "left",
+    "kind": "body",
+    "text": "The knight cannot be allowed on f5 and he has to create an unpleasant weakness on the king's flank.",
+    "chapter": 5,
+    "segment_id": "CH5-298",
+    "zh": "马不能出现在 f5 上，他必须在王翼上制造一个令人不快的弱点。"
+  },
+  {
+    "page": 160,
+    "side": "left",
+    "kind": "moves",
+    "text": "15. Bg5. Rad8 16. axb5. axb5 17. Qc1. Rfe8 18. h3",
+    "chapter": 5,
+    "page_end": 160,
+    "segment_id": "CH5-299",
+    "zh": "15. Bg5. Rad8 16. axb5. axb5 17. Qc1. Rfe8 18. h3"
+  },
+  {
+    "page": 160,
+    "side": "left",
+    "kind": "body",
+    "text": "The beginning of a great plan of attack, at the basis of which lies the advance of the f-pawn.",
+    "chapter": 5,
+    "segment_id": "CH5-300",
+    "zh": "一个伟大的攻击计划的开始，其基础是冲兵。"
+  },
+  {
+    "page": 160,
+    "side": "left",
+    "kind": "moves",
+    "text": "18... Ra8",
+    "chapter": 5,
+    "segment_id": "CH5-301",
+    "zh": "18... Ra8"
+  },
+  {
+    "page": 160,
+    "side": "left",
+    "kind": "body",
+    "text": "If we recall Black's 15th move then this could be regarded as a very clear loss of tempo. In fact this is not so. White has opened the a-file e and this radically changed the situation, so Rubinstein thought, rather to his advantage in so far as White's intended activity on the king's flank can be countered by play on the a-file by",
+    "chapter": 5,
+    "segment_id": "CH5-302",
+    "zh": "如果我们回想一下黑方的第 15 步棋，那么这可以被视为先手的非常明显的损失。事实上并非如此。白方已经打开了 a线 e，这从根本上改变了局势，因此鲁宾斯坦认为，这对他有利，因为白方在王翼上的预期活动可以通过在 a线上进行反击"
+  },
+  {
+    "page": 160,
+    "side": "left",
+    "kind": "body",
+    "text": "Rxal followed by ... Ra8. 19",
+    "chapter": 5,
+    "segment_id": "CH5-303",
+    "zh": "Rxal 后跟...Ra8。19"
+  },
+  {
+    "page": 160,
+    "side": "left",
+    "kind": "moves",
+    "text": "Qd2. Ra5 and ... Rea8 does not",
+    "chapter": 5,
+    "segment_id": "CH5-304",
+    "zh": "Qd2。Ra5 和... Rea8 不"
+  },
+  {
+    "page": 160,
+    "side": "right",
+    "kind": "body",
+    "text": "change matters.",
+    "chapter": 5,
+    "segment_id": "CH5-305",
+    "zh": "改变很重要。"
+  },
+  {
+    "page": 160,
+    "side": "right",
+    "kind": "body",
+    "text": "And yet this consideration is not well founded. White's plan consists of a transfer of the knight to g4, where it will attack the weakened f6 and h6 squares, but mainly of the advance of the f-pawn.",
+    "chapter": 5,
+    "segment_id": "CH5-306",
+    "zh": "然而这种考虑并没有充分的理由。白方的计划包括将马转移到g4，在那里它将攻击被削弱的f6和h6格，但主要是冲兵。"
+  },
+  {
+    "page": 160,
+    "side": "right",
+    "kind": "body",
+    "text": "A careful look at variations connected with the execution of this plan shows that his threats are created quite quickly. Therefore White voluntarily y concedes the a-file, concentrating all his efforts on an attack of the castled position.",
+    "chapter": 5,
+    "segment_id": "CH5-307",
+    "zh": "仔细观察与该计划执行相关的变化表明，他的威胁很快就产生了。因此白方自愿认输a线，集中所有力量进攻城堡位置。"
+  },
+  {
+    "page": 160,
+    "side": "right",
+    "kind": "moves",
+    "text": "19. Rxa8!",
+    "chapter": 5,
+    "segment_id": "CH5-308",
+    "zh": "19. Rxa8!"
+  },
+  {
+    "page": 160,
+    "side": "right",
+    "kind": "body",
+    "text": "With this exchange, White retains his queen in the centre, from where it would have been diverted in the event of Rxal, and at the same time diverts one of Black's pieces, the bishop or rook, from defence of the king's flank.",
+    "chapter": 5,
+    "segment_id": "CH5-309",
+    "zh": "通过这次交换，白方将他的后保留在中心，如果发生 Rxal，它就会从那里转移，同时将黑方的棋子、象或车之一从防守王翼转移。"
+  },
+  {
+    "page": 160,
+    "side": "right",
+    "kind": "moves",
+    "text": "19... Rxa8 20. Nh2. Bc8 21. f4",
+    "chapter": 5,
+    "segment_id": "CH5-310",
+    "zh": "19... Rxa8 20. Nh2. Bc8 21. f4"
+  },
+  {
+    "page": 160,
+    "side": "right",
+    "kind": "body",
+    "text": "What can Black do against this dangerous offensive? Apart from the reply 21... Ne8, chosen by Rubinstein and proving to be insufficient for defence of the weaknesses in the castled position, Black has available two plans of defence.",
+    "chapter": 5,
+    "page_end": 161,
+    "segment_id": "CH5-311",
+    "zh": "黑方可以采取什么措施来应对这种危险的攻势呢？除了鲁宾斯坦选择的答复21...Ne8并被证明不足以防御城堡位置的弱点之外，黑方还有两种防御计划。"
+  },
+  {
+    "page": 161,
+    "side": "left",
+    "kind": "body",
+    "text": "The first is based on the move 21... exf4, which on the face of it is bad since Black himself opens an artery of attack on the f7 point and helps the enemy queen to get on to this artery. Another plan consists of maintaining the pawn tension \"f4-e5\" and leaving White to decide whether to eliminate this tension by the exchange fxe5 or to further advance the f-pawn to f5.",
+    "chapter": 5,
+    "segment_id": "CH5-312",
+    "zh": "第一个是基于21...exf4这一步棋，从表面上看这步棋很糟糕，因为黑方自己在f7点上打开了一条攻击动脉，并帮助敌人后到达了这条动脉。另一个计划包括维持兵张力“f4-e5”，并让白方决定是通过交换fxe5来消除这种张力，还是进一步将冲起f5。"
+  },
+  {
+    "page": 161,
+    "side": "left",
+    "kind": "body",
+    "text": "With the second plan, the most purposeful move seems 21... Bd7 in order to include the rook in the defence of the king's flank. However, careful analysis shows that after 21. Rf1 with the threat fxe5 the future struggle must turn out unfavourably for Black. On 22... Qd8, which incidentally once again cuts off the rook from the king's flank, possible is 23. f5 Kg7 24. Ng4, and it is difficult to defend the f6 point. However, the continuation 23... h5 (instead of 23... Kg7) with the aim of preventing the knight from going to g4, is unsatisfactory in view of 24. fxg6",
+    "chapter": 5,
+    "segment_id": "CH5-313",
+    "zh": "对于第二个计划，最有目的的举动似乎是 21... Bd7，以便将车纳入王翼的防御中。然而，仔细分析表明，在21Rf1和威胁fxe5之后，未来的斗争必定对黑方不利。22... Qd8，顺便再次切断了车和王翼，可能是23f5Kg724Ng4，很难防守f6点。然而，鉴于 24. fxg6，旨在防止马转到 g4 的后续手段 23... h5（而不是 23... Kg7）并不令人满意。"
+  },
+  {
+    "page": 161,
+    "side": "left",
+    "kind": "moves",
+    "text": "fxg6 25. Bxf6. Bxf6 26. Qh6!",
+    "chapter": 5,
+    "segment_id": "CH5-314",
+    "zh": "fxg6 25. Bxf6. Bxf6 26. Qh6!"
+  },
+  {
+    "page": 161,
+    "side": "left",
+    "kind": "body",
+    "text": "Both these variations and the actual course of the game convince one that it is dangerous for Black to allow the advance f5. There remains to look concretely at the consequences of the \"bad\" reply 21. exf4. Further events would probably have developed like this:",
+    "chapter": 5,
+    "page_end": 161,
+    "segment_id": "CH5-315",
+    "zh": "这些变化和对局的实际进程都让人们相信黑方允许前进是危险的f5。仍有待具体研究“坏”回复 21. exf4 的后果。进一步的事件可能会这样发展："
+  },
+  {
+    "page": 161,
+    "side": "right",
+    "kind": "moves",
+    "text": "21... exf4 22. Qxf4. Qd8 23. Rf1",
+    "chapter": 5,
+    "segment_id": "CH5-316",
+    "zh": "21... exf4 22. Qxf4. Qd8 23. Rf1"
+  },
+  {
+    "page": 161,
+    "side": "right",
+    "kind": "body",
+    "text": "Kg7; then Black could reinforce the f7 point by the move ... Ra7; if 24. Ne2, preparing d4, then possible is 24... Bd7 25. d4 exd4 26. cxd4 Be8 with new defensive resources, since the knight f6 is freed from defence of the f7 point. Of course, White gets an initiative but he does not obtain that forcing attack which he obtains in connection with f5.",
+    "chapter": 5,
+    "segment_id": "CH5-317",
+    "zh": "Kg7；那么黑方可以通过走棋... Ra7来强化f7点；如果 24. Ne2，准备 d4，则可能是 24... Bd7 25. d4. exd4 26. cxd4. Be8 拥有新的防御资源，因为马 f6 不再需要防御f7点。当然，白方获得了主动权，但他没有获得与f5相关的强制攻击。"
+  },
+  {
+    "page": 161,
+    "side": "right",
+    "kind": "body",
+    "text": "On the basis of Rubinstein's plan of defence, the following ideas come out of his actions: the exchangeC of the black-squared bishops (clearing the atmosphere), the concentration of three defenders on the f6 point - the king, the knight, the queen - against three possible White blows: the queen and rook on the f-file and the knight from the g4 square. And yet with this he does not take into account the weakness of the h6 square, which likewise serves as an object of White's attack. However, allowing the pawn nail on the f-file, which in the end will be hammered in on the f6 square, proves to be a decisive help to this attack.",
+    "chapter": 5,
+    "segment_id": "CH5-318",
+    "zh": "根据鲁宾斯坦的防守计划，他的行动产生了以下想法：黑方象的交换（清除气氛），三名防守者集中在f6点上 - 王，马，后 - 对抗三种可能的白方打击：f线上的后和车以及 g4 格上的马。然而，他并没有考虑到h6格的弱点，这同样是白方的攻击目标。然而，允许f线上的钉子兵最终将被锤击在f6格上，事实证明对这次攻击有决定性的帮助。"
+  },
+  {
+    "page": 161,
+    "side": "right",
+    "kind": "moves",
+    "text": "21... Ne8 22. f5",
+    "chapter": 5,
+    "segment_id": "CH5-319",
+    "zh": "21... Ne8 22. f5"
+  },
+  {
+    "page": 161,
+    "side": "right",
+    "kind": "body",
+    "text": "Now White e threatens to increase the pressure by Rf1 followed by Ng4-h6+.",
+    "chapter": 5,
+    "page_end": 161,
+    "segment_id": "CH5-320",
+    "zh": "现在白e威胁要通过Rf1增加压力，然后是Ng4-h6+。"
+  },
+  {
+    "page": 161,
+    "side": "right",
+    "kind": "moves",
+    "text": "22... Bxg5 23. Qxg5. Qe7 24. Qh6. Qf8 25. Qc1. Qg7 26. Rf1. g5",
+    "chapter": 5,
+    "page_end": 161,
+    "segment_id": "CH5-321",
+    "zh": "22... Bxg5 23. Qxg5. Qe7 24. Qh6. Qf8 25. Qc1. Qg7 26. Rf1. g5"
+  },
+  {
+    "page": 161,
+    "side": "right",
+    "kind": "body",
+    "text": "This move, which furthermore gives White the h5 point (and you see that this is an approach to the critical f6 square), makes it easier for his opponent to carry out the attack. The stubborn most defence, preventing the hostile knight rampaging on the weak squares of the king's flank, was 26... h5, but also in this case White has a very strong initiative. Possible is 27. fxg6 fxg6 28. Nf3, invading on g5, or 27. Qd1 with the threat 28. fxg6 fxg6 29. Bb3+.",
+    "chapter": 5,
+    "page_end": 162,
+    "segment_id": "CH5-322",
+    "zh": "此步棋进一步为白方提供了 h5 点（您会发现这是接近关键 f6 格的方法），使他的对手更容易进行攻击。最顽固的防御，防止敌对的马在王翼的弱格上横冲直撞，是26...h5，但在这种情况下白方也有非常强的主动权。可能的是 27. fxg6. fxg6 28. Nf3 入侵 g5，或 27. Qd1 威胁 28. fxg6. fxg6 29. Bb3+。"
+  },
+  {
+    "page": 162,
+    "side": "left",
+    "kind": "moves",
+    "text": "27. Ng4. Nf6",
+    "chapter": 5,
+    "segment_id": "CH5-323",
+    "zh": "27. Ng4. Nf6"
+  },
+  {
+    "page": 162,
+    "side": "left",
+    "kind": "body",
+    "text": "The defence 27... f6 looks more reliable, but on this follows 28",
+    "chapter": 5,
+    "segment_id": "CH5-324",
+    "zh": "防御 27... f6 看起来更可靠，但接下来是 28"
+  },
+  {
+    "page": 162,
+    "side": "left",
+    "kind": "moves",
+    "text": "Bb3+ Kh8 (28... c4 29. dxc4. Na5 30. Qd1) 29. Nh5. Qf8 30. Bd5. Bb7 31. h4. h6 (31... gxh4 32. Nh6) 32. hxg5. hxg5 33. Rf3 with the irre-",
+    "chapter": 5,
+    "page_end": 162,
+    "segment_id": "CH5-325",
+    "zh": "Bb3+ Kh8 (28... c4 29. dxc4. Na5 30. Qd1) 29. Nh5. Qf8 30. Bd5. Bb7 31. h4. h6 (31... gxh4 32. Nh6）32. hxg5。hxg5 33. Rf3 与非"
+  },
+  {
+    "page": 162,
+    "side": "left",
+    "kind": "body",
+    "text": "sistible threat Rh3.",
+    "chapter": 5,
+    "segment_id": "CH5-326",
+    "zh": "可承受的威胁Rh3。"
+  },
+  {
+    "page": 162,
+    "side": "left",
+    "kind": "moves",
+    "text": "28. Nxf6+ Qxf6 29. h4! h6",
+    "chapter": 5,
+    "segment_id": "CH5-327",
+    "zh": "28. Nxf6+ Qxf6 29. h4! h6"
+  },
+  {
+    "page": 162,
+    "side": "left",
+    "kind": "body",
+    "text": "Black cannot hold on for long after 29... gxh4 30. Nh5 Qe7 31",
+    "chapter": 5,
+    "segment_id": "CH5-328",
+    "zh": "黑方在 29... gxh4 30. Nh5. Qe7 31 之后无法长时间坚持"
+  },
+  {
+    "page": 162,
+    "side": "left",
+    "kind": "moves",
+    "text": "Qh6. f6 32. Nxf6+ Kh8 33. Nd5. 30. Nh5. Qd8 31. f6",
+    "chapter": 5,
+    "page_end": 162,
+    "segment_id": "CH5-329",
+    "zh": "Qh6. f6 32. Nxf6+ Kh8 33. Nd5. 30. Nh5. Qd8 31. f6"
+  },
+  {
+    "page": 162,
+    "side": "left",
+    "kind": "body",
+    "text": "\"Hammering in the nail\" after which Black can quietly lay down his arms, since now nothing can come to the aid of the king which finds itself completely isolated.",
+    "chapter": 5,
+    "segment_id": "CH5-330",
+    "zh": "“钉在钉子上”之后，黑方可以安静地放下武器，因为现在没有任何东西可以帮助发现自己完全孤立的王。"
+  },
+  {
+    "page": 162,
+    "side": "right",
+    "kind": "moves",
+    "text": "31... Kh7 32. hxg5. Bg4 33. Ng7. Kg6 34. Bd1. Qd7 35. Nf5. Bxf5 36. exf5+ 1-0",
+    "chapter": 5,
+    "page_end": 162,
+    "segment_id": "CH5-331",
+    "zh": "31... Kh7 32. hxg5. Bg4 33. Ng7. Kg6 34. Bd1. Qd7 35. Nf5. Bxf5 36. exf5+ 1-0"
+  },
+  {
+    "page": 162,
+    "side": "right",
+    "kind": "body",
+    "text": "Before concentrating attention on such an active operation as a pawn storm, it is expedient to look at a broader plan of activity of the phalanx, made up of the e and f-pawns, since the e-pawn finds itself on an open file.",
+    "chapter": 5,
+    "segment_id": "CH5-332",
+    "zh": "在将注意力集中在兵潮这样的主动行动之前，最好先看看由 e 和 f-兵组成的方阵的更广泛的活动计划，因为 e-兵发现自己处于开放线上。"
+  },
+  {
+    "page": 162,
+    "side": "right",
+    "kind": "body",
+    "text": "Here we have a position from Rubinstein-Marshall, Lodz 1908. White's phalanx is ready for a decisive break e6 or f6. Events developed like this:",
+    "chapter": 5,
+    "segment_id": "CH5-333",
+    "zh": "这里我们的位置是从鲁宾斯坦-马歇尔，罗兹 1908。白方方阵已准备好决定性突破 e6 或 f6。事件的发展是这样的："
+  },
+  {
+    "page": 162,
+    "side": "right",
+    "kind": "moves",
+    "text": "27. Bg3. Qa4",
+    "chapter": 5,
+    "segment_id": "CH5-334",
+    "zh": "27. Bg3. Qa4"
+  },
+  {
+    "page": 162,
+    "side": "right",
+    "kind": "body",
+    "text": "Of course it is dangerous to lose time taking the on pawn. However, the attack on the c2 pawn is already to a certain extent a counterattack, but what else can he do to counter White's threatening phalanx? 27... f6 is unsatisfac-",
+    "chapter": 5,
+    "page_end": 162,
+    "segment_id": "CH5-335",
+    "zh": "当然，浪费时间参加兵是很危险的。不过，对c2兵的攻击在一定程度上已经是反击了，但是他还能做什么来对抗白方的威胁方阵呢？27... f6 不满意-"
+  },
+  {
+    "page": 162,
+    "side": "right",
+    "kind": "moves",
+    "text": "tory in view of 28. e6. Qc6 29. Qh5. Rxc2 30. Ne1 or 29... Bc5 30. Qf7+ Kh8 31. e7. h6 32. Nf4. Rxc2 33. Bf2. 28. Rf2. Rb1+ 29. Rf1. Rb2",
+    "chapter": 5,
+    "page_end": 162,
+    "segment_id": "CH5-336",
+    "zh": "考虑到 28. e6. Qc6 29. Qh5. Rxc2 30. Ne1 或 29... Bc5 30. Qf7+ Kh8 31. e7. h6 32. Nf4Rxc2 33. Bf2。28. Rf2. Rb1+ 29. Rf1. Rb2"
+  },
+  {
+    "page": 162,
+    "side": "right",
+    "kind": "body",
+    "text": "No better is 29... Rxf1+ 30",
+    "chapter": 5,
+    "segment_id": "CH5-337",
+    "zh": "没有更好的是 29... Rxf1+ 30"
+  },
+  {
+    "page": 163,
+    "side": "left",
+    "kind": "moves",
+    "text": "Kxf1. Qxa2 31. Nf4. 30. f6! Rxc2",
+    "chapter": 5,
+    "page_end": 163,
+    "segment_id": "CH5-338",
+    "zh": "Kxf1. Qxa2 31. Nf4. 30. f6! Rxc2"
+  },
+  {
+    "page": 163,
+    "side": "left",
+    "kind": "body",
+    "text": "On 30... gxf6 could follow 31",
+    "chapter": 5,
+    "segment_id": "CH5-339",
+    "zh": "30... gxf6 可能会跟随 31"
+  },
+  {
+    "page": 163,
+    "side": "left",
+    "kind": "moves",
+    "text": "Qg4+ Kh8 32. Qxd4. Qxc2 33. Ne1. Qd2 34. Qd7. 31. Qg4. Bf8 32. e6. g6 33 Nel",
+    "chapter": 5,
+    "page_end": 163,
+    "segment_id": "CH5-340",
+    "zh": "Qg4+ Kh8 32. Qxd4. Qxc2 33. Ne1. Qd2 34. Qd7。31. Qg4. Bf8 32. e6. g6 33 内尔"
+  },
+  {
+    "page": 163,
+    "side": "left",
+    "kind": "body",
+    "text": "Rxa2 The phalanx has broken through to the sixth rank and demolished all obstacles in its path.",
+    "chapter": 5,
+    "page_end": 163,
+    "segment_id": "CH5-341",
+    "zh": "Rxa2方阵已经突破到第六横线，并摧毁了前进道路上的所有障碍。"
+  },
+  {
+    "page": 163,
+    "side": "left",
+    "kind": "moves",
+    "text": "34. exf7+ Kxf7 35. Nf3. Nxf6 36. Ng5+ Kg7 37. Rxf6",
+    "chapter": 5,
+    "page_end": 163,
+    "segment_id": "CH5-342",
+    "zh": "34. exf7+ Kxf7 35. Nf3. Nxf6 36. Ng5+ Kg7 37. Rxf6"
+  },
+  {
+    "page": 163,
+    "side": "left",
+    "kind": "body",
+    "text": "It is possible to win also in other ways, for example 37. Qe6 or 37. Be5.",
+    "chapter": 5,
+    "segment_id": "CH5-343",
+    "zh": "也可以通过其他方式获胜，例如 37. Qe6 或 37. Be5。"
+  },
+  {
+    "page": 163,
+    "side": "left",
+    "kind": "moves",
+    "text": "37... 1. Kxf6 38. Qf4+ Ke7 39",
+    "chapter": 5,
+    "segment_id": "CH5-344",
+    "zh": "37... 1. Kxf6 38. Qf4+ Ke7 39"
+  },
+  {
+    "page": 163,
+    "side": "left",
+    "kind": "body",
+    "text": "Qf7+ 1-0 A decisive storm of the opponent's position on the basis of a breakthrough of the pawn phalanx of e and f-pawns was also carried Out by White in the game Aronin- Flohr, (18th USSR Championship 1954).",
+    "chapter": 5,
+    "page_end": 163,
+    "segment_id": "CH5-345",
+    "zh": "Qf7+ 1-0 在阿罗宁- 弗洛尔（1954 年第 18 届苏联锦标赛）的对局中，白方也以 e 和 f-兵的兵阵突破为基础，对对手的位置进行了决定性的强攻。"
+  },
+  {
+    "page": 163,
+    "side": "left",
+    "kind": "body",
+    "text": "The phalanx is already deployed on the frontier, the crossing of which leads to a quick demolition of the opponent's castled position.",
+    "chapter": 5,
+    "segment_id": "CH5-346",
+    "zh": "方阵已经部署在边境上，越过边境可以迅速摧毁对手的城堡阵地。"
+  },
+  {
+    "page": 163,
+    "side": "right",
+    "kind": "moves",
+    "text": "24. e5. Nd7 25. f5. Bc5",
+    "chapter": 5,
+    "segment_id": "CH5-347",
+    "zh": "24. e5. Nd7 25. f5. Bc5"
+  },
+  {
+    "page": 163,
+    "side": "right",
+    "kind": "body",
+    "text": "Black's aim is to blunt the sharp attacking march of the phalanx by exchanging queens. If， for example, 26. f6 then 26... Bxd4+",
+    "chapter": 5,
+    "segment_id": "CH5-348",
+    "zh": "黑方的目标是通过交换后来削弱方阵的猛烈进攻。如果，例如 26. f6 则 26... Bxd4+"
+  },
+  {
+    "page": 163,
+    "side": "right",
+    "kind": "moves",
+    "text": "27. Qxd4. Qb6 and the aim is",
+    "chapter": 5,
+    "segment_id": "CH5-349",
+    "zh": "27. Qxd4. Qb6 目标是"
+  },
+  {
+    "page": 163,
+    "side": "right",
+    "kind": "body",
+    "text": "achieved.",
+    "chapter": 5,
+    "segment_id": "CH5-350",
+    "zh": "实现了。"
+  },
+  {
+    "page": 163,
+    "side": "right",
+    "kind": "moves",
+    "text": "26. Bxc5. Nxc5 27. Qe3. Qb6",
+    "chapter": 5,
+    "segment_id": "CH5-351",
+    "zh": "26. Bxc5. Nxc5 27. Qe3. Qb6"
+  },
+  {
+    "page": 163,
+    "side": "right",
+    "kind": "body",
+    "text": "Once again soliciting an exchange.",
+    "chapter": 5,
+    "page_end": 163,
+    "segment_id": "CH5-352",
+    "zh": "再次求交流。"
+  },
+  {
+    "page": 163,
+    "side": "right",
+    "kind": "moves",
+    "text": "28. Kh1. Rae8 29. f6",
+    "chapter": 5,
+    "segment_id": "CH5-353",
+    "zh": "28. Kh1. Rae8 29. f6"
+  },
+  {
+    "page": 163,
+    "side": "right",
+    "kind": "body",
+    "text": "Threatening 30. fxg7 Kxg7 31. Rf6.",
+    "chapter": 5,
+    "segment_id": "CH5-354",
+    "zh": "威胁 30. fxg7. Kxg7 31. Rf6。"
+  },
+  {
+    "page": 163,
+    "side": "right",
+    "kind": "moves",
+    "text": "29... gxf6 30. Qh6. Ne4 31. Rf4. Rxe5 32. Rxh4 1-0",
+    "chapter": 5,
+    "page_end": 163,
+    "segment_id": "CH5-355",
+    "zh": "29... gxf6 30. Qh6. Ne4 31. Rf4. Rxe5 32. Rxh4 1-0"
+  },
+  {
+    "page": 163,
+    "side": "right",
+    "kind": "body",
+    "text": "The following encounter De",
+    "chapter": 5,
+    "page_end": 163,
+    "segment_id": "CH5-356",
+    "zh": "下面遇到德"
+  },
+  {
+    "page": 163,
+    "side": "right",
+    "kind": "body",
+    "text": "Chigorin and Zukertort tween played in the international tournament at London 1883 should be considered the original game in which the strength of the pawn phalanx on the e and f-files was classically demonstrated. Admittedly, even five years before this, against Bird at the Paris tournament of 1878, Zukertort succeeded in bringing to light, in a comparatively simple form, the activity of such a phalanx.",
+    "chapter": 5,
+    "segment_id": "CH5-357",
+    "zh": "1883年伦敦国际锦标赛中进行的齐果林和祖凯尔托特补间应该被视为原始对局，其中经典地展示了兵阵在e和f线s上的强度。诚然，甚至在五年前，在 1878 年巴黎锦标赛上对阵伯德时，祖凯尔托特就成功地以相对简单的形式揭示了这种方阵的活动。"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "heading",
+    "text": "Spanish Game",
+    "chapter": 5,
+    "segment_id": "CH5-358",
+    "zh": "西班牙开局"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "metadata",
+    "text": "White: Chigorin",
+    "chapter": 5,
+    "segment_id": "CH5-359",
+    "zh": "白方：齐果林"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "metadata",
+    "text": "Black: Zukertort",
+    "chapter": 5,
+    "segment_id": "CH5-360",
+    "zh": "黑方：祖凯尔托特"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "metadata",
+    "text": "(London 1883)",
+    "chapter": 5,
+    "segment_id": "CH5-361",
+    "zh": "（伦敦1883）"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. e4. e5 2. Nf3. Nc6 3. Bb5. Nf6 4. O-O Nxe4 5. d4. Be7 6. d5",
+    "chapter": 5,
+    "page_end": 164,
+    "segment_id": "CH5-362",
+    "zh": "1. e4. e5 2. Nf3. Nc6 3. Bb5. Nf6 4. O-O Nxe4 5. d4. Be7 6. d5"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "body",
+    "text": "The most difficult opening problems arise for Black after 6. Re1",
+    "chapter": 5,
+    "segment_id": "CH5-363",
+    "zh": "最困难的开局问题出现在 6 点之后 Re1"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "moves",
+    "text": "Nd6 7. dxe5. Nxb5 8. a4. 6... Nd6! 7. Bxc6",
+    "chapter": 5,
+    "page_end": 164,
+    "segment_id": "CH5-364",
+    "zh": "Nd6 7. dxe5. Nxb5 8. a4. 6... Nd6! 7. Bxc6"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "body",
+    "text": "On 7. Be2 follows 7... e4, while on 7. dxc6 Nxb5. The best continuation is 7. Nc3.",
+    "chapter": 5,
+    "segment_id": "CH5-365",
+    "zh": "在 7. Be2 上，后面跟着 7... e4，而在 7. dxc6. Nxb5 上。最好的后续手段是 7. Nc3。"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "moves",
+    "text": "7... dxc6 8. dxc6. f6!",
+    "chapter": 5,
+    "segment_id": "CH5-366",
+    "zh": "7... dxc6 8. dxc6. f6!"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "body",
+    "text": "And in fact the phalanx iS already mobilised. Very soon it begins its dangerous advance.",
+    "chapter": 5,
+    "page_end": 164,
+    "segment_id": "CH5-367",
+    "zh": "事实上，方阵已经动员起来。很快它就开始危险的前进。"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "moves",
+    "text": "9. cxb7. Bxb7 10. Be3. O-O 11. Nbd2. Nf7!",
+    "chapter": 5,
+    "page_end": 164,
+    "segment_id": "CH5-368",
+    "zh": "9. cxb7. Bxb7 10. Be3. O-O 11. Nbd2. Nf7!"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "body",
+    "text": "Now, as the e5 pawn is reinforced, everything is ready for an advance of the phalanx, and it is not apparent how it can be successfully countered. All this is a result of White's 6th and 7th moves. Thus the outwardly imperceptible inaccuracies in the opening created a pre-requisite for a dangerous initiative for the opponent.",
+    "chapter": 5,
+    "segment_id": "CH5-369",
+    "zh": "现在，随着e5兵的加强，兵阵向前冲击已经一切就绪，但如何成功反击尚不清楚。这一切都是白方第六步和第七步的结果。因此，开局中表面上难以察觉的不准确之处为对手创造了危险的主动权先决条件。"
+  },
+  {
+    "page": 164,
+    "side": "left",
+    "kind": "moves",
+    "text": "12. Qe2 12... f5 13. Nb3. f4 14. Bc5. e4 15. Nd4. f3!",
+    "chapter": 5,
+    "page_end": 164,
+    "segment_id": "CH5-370",
+    "zh": "12. Qe2 12... f5 13. Nb3. f4 14. Bc5. e4 15. Nd4. f3!"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "The forcing four-move march of the pawn phalanx already yields its fruit. Now 16. gxf3 is bad in view of",
+    "chapter": 5,
+    "segment_id": "CH5-371",
+    "zh": "兵阵的强行四步行军已经结出硕果。现在 16. gxf3 不好"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "moves",
+    "text": "16... Bxc5 17. Ne6. exf3 18. Qc4",
+    "chapter": 5,
+    "segment_id": "CH5-372",
+    "zh": "16... Bxc5 17. Ne6. exf3 18. Qc4"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "Qf6 and Black remains with a material advantage, while the White king's position is totally exposed.",
+    "chapter": 5,
+    "segment_id": "CH5-373",
+    "zh": "Qf6黑方仍保留子力优势，而白方王的位置完全暴露。"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "moves",
+    "text": "16. Qb5. Qc8!",
+    "chapter": 5,
+    "segment_id": "CH5-374",
+    "zh": "16. Qb5. Qc8!"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "With two threats - ... Qg4 and",
+    "chapter": 5,
+    "segment_id": "CH5-375",
+    "zh": "有两个威胁 -... Qg4 和"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "Ba6.",
+    "chapter": 5,
+    "segment_id": "CH5-376",
+    "zh": "Ba6."
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "moves",
+    "text": "17. Rfd1",
+    "chapter": 5,
+    "segment_id": "CH5-377",
+    "zh": "17. Rfd1"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "White defends himself subtlely.",
+    "chapter": 5,
+    "segment_id": "CH5-378",
+    "zh": "白方巧妙地为自己辩护。"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "moves",
+    "text": "If 17... Qg4, then 18. g3. Qh3 19",
+    "chapter": 5,
+    "segment_id": "CH5-379",
+    "zh": "如果 17... Qg4，则 18. g3. Qh3 19"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "Qf1.",
+    "chapter": 5,
+    "segment_id": "CH5-380",
+    "zh": "Qf1."
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "moves",
+    "text": "17... Ba6",
+    "chapter": 5,
+    "segment_id": "CH5-381",
+    "zh": "17... Ba6"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "In order to deprive White of the possibility of the above-mentioned defence.",
+    "chapter": 5,
+    "segment_id": "CH5-382",
+    "zh": "为了剥夺白方进行上述防守的可能性。"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "moves",
+    "text": "18. Qa4",
+    "chapter": 5,
+    "segment_id": "CH5-383",
+    "zh": "18. Qa4"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "Again parrying the threat of 18",
+    "chapter": 5,
+    "segment_id": "CH5-384",
+    "zh": "再次化解18的威胁"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "Qg4, on which follows 19... Nxf3! However, the White king's position, shattered by the phalanx, is so unsatisfactory that it is easy for Black to find other ways to develop the attack.",
+    "chapter": 5,
+    "segment_id": "CH5-385",
+    "zh": "Qg4，其后是19... Nxf3! 然而，白方王被方阵打碎的局面实在是太不理想，以至于黑方很容易找到其他方式来发展进攻。"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "moves",
+    "text": "18... Ng5 19. Nxf3",
+    "chapter": 5,
+    "segment_id": "CH5-386",
+    "zh": "18... Ng5 19. Nxf3"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "On 19. Bxe7 follows mate in a few moves: 19... Nh3+ 20. Kh1 fxg2+ etc.",
+    "chapter": 5,
+    "segment_id": "CH5-387",
+    "zh": "在 19. Bxe7 上，跟随队友走几步：19... Nh3+ 20. Kh1. fxg2+ 等。"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "moves",
+    "text": "19... exf3 20. Rd7",
+    "chapter": 5,
+    "segment_id": "CH5-388",
+    "zh": "19... exf3 20. Rd7"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "Also now, on 20. Bxe7, follows",
+    "chapter": 5,
+    "segment_id": "CH5-389",
+    "zh": "同样现在，20. Bxe7，如下"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "moves",
+    "text": "20... Nh3+ 21. Kh1. fxg2+ 22. Kxg2. Qb7+ 23. Kxh3. Qf3+ 24",
+    "chapter": 5,
+    "page_end": 164,
+    "segment_id": "CH5-390",
+    "zh": "20... Nh3+ 21. Kh1. fxg2+ 22. Kxg2. Qb7+ 23. Kxh3. Qf3+ 24"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "body",
+    "text": "Kh4. Rf4+ with a quick mate.",
+    "chapter": 5,
+    "segment_id": "CH5-391",
+    "zh": "Kh4. Rf4+ 与快速配合。"
+  },
+  {
+    "page": 164,
+    "side": "right",
+    "kind": "moves",
+    "text": "20... fxg2 21. Rxe7. Nh3+ 22. Kxg2. Nf4+ 23. Kf3 Or 23. Kh1. Bb7+. 23... Qh3+",
+    "chapter": 5,
+    "page_end": 165,
+    "segment_id": "CH5-392",
+    "zh": "20... fxg2 21. Rxe7. Nh3+ 22. Kxg2. Nf4+ 23. Kf3 Or 23. Kh1. Bb7+. 23... Qh3+"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "body",
+    "text": "The whole of the final attack on the white squares and open lines has been conditioned by the routemarch of the Black fpawn: ... f5-f4-f3xg2. The White king, surrounded by enemy pieces in the centre of the board, cannot hold out for long.",
+    "chapter": 5,
+    "segment_id": "CH5-393",
+    "zh": "对白格和开放线的最后攻击的整个过程都以黑方 pawn 的行军路线为条件：... f5-f4-f3xg2。白方王被棋盘中央的敌人棋子包围，无法坚持太久。"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "moves",
+    "text": "24. Ke4. Bb7+",
+    "chapter": 5,
+    "segment_id": "CH5-394",
+    "zh": "24. Ke4. Bb7+"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "body",
+    "text": "Another way of finishing the",
+    "chapter": 5,
+    "segment_id": "CH5-395",
+    "zh": "另一种完成方式"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "moves",
+    "text": "game was by 24... Bd3+ 25. Kd4 (25. cxd3. Qxd3+) 25... Rad8+ 26. Kc3. Bb5+ 27. Re3. Nd5+. 25. Kd4. Ne6+ 26. Kc4. Rf4+ 27. Nd4. Nxc5 28. Kxc5. Qh5+ 29. Kc4. Rxd4+ 0-1",
+    "chapter": 5,
+    "page_end": 165,
+    "segment_id": "CH5-396",
+    "zh": "对局进行到 24... Bd3+ 25. Kd4 (25. cxd3. Qxd3+) 25... Rad8+ 26. Kc3。Bb5+ 27. Re3. Nd5+。25. Kd4. Ne6+ 26. Kc4. Rf4+ 27. Nd4。Nxc5 28. Kxc5. Qh5+ 29. Kc4。Rxd4+ 0-1"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "body",
+    "text": "In another classic game, the attack with the e-f pawn phalanx developed in a far more complicated situation, where a phalanx of \"hanging pawns\" in the centre was also operating g for the opposing side, and for some time the struggle assumed a double-edged character.",
+    "chapter": 5,
+    "segment_id": "CH5-397",
+    "zh": "在另一款经典对局中，e-f兵阵的进攻是在更为复杂的情况下展开的，中间的“悬挂兵”方阵也在为对方操作g，并且在一段时间内，斗争呈现出双刃剑的特征。"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "heading",
+    "text": "Queen's Gambit",
+    "chapter": 5,
+    "segment_id": "CH5-398",
+    "zh": "后翼弃兵"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "metadata",
+    "text": "White: A.Halprin",
+    "chapter": 5,
+    "segment_id": "CH5-399",
+    "zh": "白方：A.哈尔普林"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "metadata",
+    "text": "Black: H.Pillsbury",
+    "chapter": 5,
+    "segment_id": "CH5-400",
+    "zh": "黑方：H.皮尔斯伯里"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "metadata",
+    "text": "(Vienna 1898)",
+    "chapter": 5,
+    "segment_id": "CH5-401",
+    "zh": "（维也纳1898）"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. d4. d5 2. Nf3. Nf6 3. e3. c5 4. b3. cxd4 4. exd4. Nc6 5. c4. Bg4 7. Be2. e6",
+    "chapter": 5,
+    "page_end": 165,
+    "segment_id": "CH5-402",
+    "zh": "1. d4. d5 2. Nf3. Nf6 3. e3. c5 4. b3. cxd4 4. exd4. Nc6 5. c4. Bg4 7. Be2. e6"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "body",
+    "text": "Apparently the variation 7...",
+    "chapter": 5,
+    "segment_id": "CH5-403",
+    "zh": "显然是变化7..."
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "moves",
+    "text": "dxc4 8. bxc4. Bxf3 9. Bxf3. Nxd4 10. Bxb7. Rb8 11. Bd5. e5 did not suit",
+    "chapter": 5,
+    "page_end": 165,
+    "segment_id": "CH5-404",
+    "zh": "dxc4 8. bxc4. Bxf3 9. Bxf3. Nxd4 10. Bxb7。Rb8 11. Bd5. e5 不适合"
+  },
+  {
+    "page": 165,
+    "side": "left",
+    "kind": "body",
+    "text": "Pillsbury, though it seems to us that Black obtains a good game. However, instead of 11. Bd5, possible is the quiet 11. Bb2 or 11",
+    "chapter": 5,
+    "segment_id": "CH5-405",
+    "zh": "皮尔斯伯里，尽管在我们看来黑方赢得了一场好棋。然而，代替 11. Bd5，可能是安静的 11. Bb2 或 11"
+  },
+  {
+    "page": 165,
+    "side": "right",
+    "kind": "body",
+    "text": "Be3 which leads to an exchange",
+    "chapter": 5,
+    "segment_id": "CH5-406",
+    "zh": "Be3 导致交换"
+  },
+  {
+    "page": 165,
+    "side": "right",
+    "kind": "moves",
+    "text": "(11... Rxb7 12. Qxd4) and some",
+    "chapter": 5,
+    "segment_id": "CH5-407",
+    "zh": "(11... Rxb7 12. Qxd4) 和一些"
+  },
+  {
+    "page": 165,
+    "side": "right",
+    "kind": "body",
+    "text": "simplification of the sS struggle. Possibly it was precisely this which Pillsbury feared.",
+    "chapter": 5,
+    "segment_id": "CH5-408",
+    "zh": "党卫军斗争的简化。也许皮尔斯伯里所担心的正是这一点。"
+  },
+  {
+    "page": 165,
+    "side": "right",
+    "kind": "moves",
+    "text": "8. O-O dxc4",
+    "chapter": 5,
+    "segment_id": "CH5-409",
+    "zh": "8. O-O dxc4"
+  },
+  {
+    "page": 165,
+    "side": "right",
+    "kind": "body",
+    "text": "A crucial decision. \"Hanging' pawns are formed for White, with all the pluses and minuses of a central 1 \"hanging\" phalanx. It is possible that this decision was dictated by an unwillingness to allow the move c5 with a subsequent advance of the column of White pawns on the queen's flank.",
+    "chapter": 5,
+    "segment_id": "CH5-410",
+    "zh": "一个关键的决定。“悬挂”兵是为白方形成的，具有中央 1“悬挂”方阵的所有优点和缺点。这个决定可能是由于不愿意允许移动 c5，随后白方兵纵队在后翼上前进。"
+  },
+  {
+    "page": 165,
+    "side": "right",
+    "kind": "moves",
+    "text": "9. bxc4. Rc8 10. Bb2. Be7 11. Nbd2. O-O",
+    "chapter": 5,
+    "page_end": 165,
+    "segment_id": "CH5-411",
+    "zh": "9. bxc4. Rc8 10. Bb2. Be7 11. Nbd2. O-O"
+  },
+  {
+    "page": 165,
+    "side": "right",
+    "kind": "body",
+    "text": "Upon this, the opening stage is completed. White's plan must consist of the preparation of the advance of the \"hanging\" phalanx, in particular with the move d5. For this, he needs in the first place to bring his rooks to the centre by Racl and Rfd1. Pillsbury counters this plan with an attack on the king's flank, in conjunction with pressure on the opponent's \"\"hanging\" centre.",
+    "chapter": 5,
+    "page_end": 165,
+    "segment_id": "CH5-412",
+    "zh": "至此，开局阶段结束。白方的计划必须包括准备“悬挂”兵阵向前冲击，特别是d5这一步棋。为此，他首先需要将他的车带到Racl和Rfd1的中心。皮尔斯伯里通过攻击王翼来反击这个计划，同时对对手的“悬挂”中心施加压力。"
+  },
+  {
+    "page": 165,
+    "side": "right",
+    "kind": "moves",
+    "text": "12. Qb3. Qc7 13. Rac1. Rfd8 14",
+    "chapter": 5,
+    "segment_id": "CH5-413",
+    "zh": "12. Qb3. Qc7 13. Rac1. Rfd8 14"
+  },
+  {
+    "page": 165,
+    "side": "right",
+    "kind": "body",
+    "text": "Qe3 At least five considerations can be advanced in favour of this move: White defends the bishop e2 and thereby unpins the knight f3, he increases the pressure on the central point e5, defends the d4 pawn one more time, prevents the thrust ... Qf4, and finally takes the queen away from the threat of ... Na5. And yet the queen move merits censure, above all because it does not represent a link in the execution of the plan, outlined above, of exploiting the favourable side on the \" \"hanging centre. It was necessary for White to play 14. Rfd1, with the aim of playing d5! and then try to carry out the manoeuvre Nf1-e3. In any case his task is to keep the opponent under threat of a pawn a advance and thereby increase the tension in the centre as much as possible.",
+    "chapter": 5,
+    "page_end": 166,
+    "segment_id": "CH5-414",
+    "zh": "Qe3 至少可以考虑五点来支持这一举动：白方防守象 e2，从而解开马 f3，他增加对中心点 e5 的压力，再次防守 d4 兵，阻止推力...Qf4，最终使后远离...Na5的威胁。然而，后的举动值得谴责，首先是因为它并不代表执行上述计划的一个环节，即利用“悬挂中心”的有利一面。白方有必要下14Rfd1，目的是下d5!，然后尝试执行运子Nf1-e3。无论如何，他的任务是让对手受到兵进攻的威胁，从而尽可能增加中路的紧张局势。"
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "moves",
+    "text": "14... Bd6",
+    "chapter": 5,
+    "segment_id": "CH5-415",
+    "zh": "14... Bd6"
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "body",
+    "text": "On top of everything it turns out that the position of the queen on e3 is rather bad. To prevent the threat of ... Bf4 he has to weaken the pawn cover of the castled position.",
+    "chapter": 5,
+    "segment_id": "CH5-416",
+    "zh": "最重要的是，后在 e3 上的位置相当糟糕。为了防止...Bf4的威胁，他必须削弱兵城堡位置的掩护。"
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "moves",
+    "text": "15. g3. Qa5 16. Bd3",
+    "chapter": 5,
+    "segment_id": "CH5-417",
+    "zh": "15. g3. Qa5 16. Bd3"
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "body",
+    "text": "A \"trappy\" move, reckoning on",
+    "chapter": 5,
+    "segment_id": "CH5-418",
+    "zh": "一个“陷阱”的举动，算计"
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "moves",
+    "text": "16... Qxa2? 17. Bc3. It is true that",
+    "chapter": 5,
+    "segment_id": "CH5-419",
+    "zh": "16... Qxa2? 17. Bc3。确实如此"
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "body",
+    "text": "White now threatens the break 17",
+    "chapter": 5,
+    "segment_id": "CH5-420",
+    "zh": "白方现在威胁破发 17"
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "moves",
+    "text": "d5. exd5 18. Bxf6. gxf6 19. Qh6, but",
+    "chapter": 5,
+    "segment_id": "CH5-421",
+    "zh": "d5。exd5 18. Bxf6. gxf6 19. Qh6，但是"
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "body",
+    "text": "this threat is parried by Black with advantage. Possibly it made sense to carry out this operation at once:",
+    "chapter": 5,
+    "segment_id": "CH5-422",
+    "zh": "黑方以优势化解了这一威胁。立即执行此操作可能是有意义的："
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "moves",
+    "text": "16. d5. exd5 17. Bxf6. gxf6 18. Qh6",
+    "chapter": 5,
+    "segment_id": "CH5-423",
+    "zh": "16. d5. exd5 17. Bxf6. gxf6 18. Qh6"
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "body",
+    "text": "and 18... Be7? is not possible in view of 19. Bd3. However, after 18... Bf5 19. Qxf6 Bg6 Black retains good chances: two strong bishops firmly defend his king, while the central position is more favourable for him.",
+    "chapter": 5,
+    "segment_id": "CH5-424",
+    "zh": "鉴于19. Bd3，18... Be7? 是不可能的。然而，18... Bf5 19. Qxf6. Bg6 黑方保留了很好的机会：两个强大的象牢牢防守他的王，而中心位置对他更有利。"
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "moves",
+    "text": "16... ( Qh5 17. Ng5?",
+    "chapter": 5,
+    "segment_id": "CH5-425",
+    "zh": "16... ( Qh5 17. Ng5?"
+  },
+  {
+    "page": 166,
+    "side": "left",
+    "kind": "body",
+    "text": "But this already is a mistake. White does not sense the impending danger; he should return with the bishop to e2 with a subsequent",
+    "chapter": 5,
+    "segment_id": "CH5-426",
+    "zh": "但这已经是一个错误。白方并没有意识到即将到来的危险；他应该返回象到 e2 并随后"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "body",
+    "text": "Rfd1.",
+    "chapter": 5,
+    "segment_id": "CH5-427",
+    "zh": "Rfd1."
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "moves",
+    "text": "17... e5!",
+    "chapter": 5,
+    "segment_id": "CH5-428",
+    "zh": "17... e5!"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "body",
+    "text": "This surprising blow in the centre is only possible because of White's last move. The aim of Black's advance is to gain the f3 square.",
+    "chapter": 5,
+    "segment_id": "CH5-429",
+    "zh": "由于白方的最后一步棋，中间的这一令人惊讶的打击才成为可能。黑方前进的目的是获得f3格。"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "moves",
+    "text": "18. d5",
+    "chapter": 5,
+    "segment_id": "CH5-430",
+    "zh": "18. d5"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "body",
+    "text": "Quite bad is 18. dxe5 Nxe5 19",
+    "chapter": 5,
+    "segment_id": "CH5-431",
+    "zh": "很糟糕的是 18. dxe5. Nxe5 19"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "moves",
+    "text": "Bxe5. Bxe5 20. Qxe5. Rxd3; both ... Rxd2 and ... h6, and ... Be2 with",
+    "chapter": 5,
+    "page_end": 166,
+    "segment_id": "CH5-432",
+    "zh": "Bxe5。Bxe5 20. Qxe5. Rxd3；... Rxd2 和... h6，以及... Be2 与"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "body",
+    "text": "... Ng4 to follow, are threatened.",
+    "chapter": 5,
+    "segment_id": "CH5-433",
+    "zh": "...Ng4跟随，受到威胁。"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "moves",
+    "text": "18... Nd4",
+    "chapter": 5,
+    "segment_id": "CH5-434",
+    "zh": "18... Nd4"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "body",
+    "text": "Black has allowed the advance of the enemy centre pawn, but has plenty of compensation in his invasion of the f3 point and likewise the possibility of advancing the e-f phalanx.",
+    "chapter": 5,
+    "segment_id": "CH5-435",
+    "zh": "黑方允许敌方中心兵前进，但在入侵f3点时有足够的补偿，同样也有推动e、f兵阵前冲的可能性。"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "moves",
+    "text": "19. h4",
+    "chapter": 5,
+    "segment_id": "CH5-436",
+    "zh": "19. h4"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "body",
+    "text": "There is nothing better. 19. Bxd4 exd4 leads to the loss of the knight. 19. Nge4 Nxe4 20. Qxe4",
+    "chapter": 5,
+    "segment_id": "CH5-437",
+    "zh": "没有什么比这更好的了。19. Bxd4. exd4 导致马丢失。19. Nge4. Nxe4 20. Qxe4"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "moves",
+    "text": "Bf5 21. Qe2. Bxd3 22. Qxd3. Ne2+ -",
+    "chapter": 5,
+    "segment_id": "CH5-438",
+    "zh": "Bf5 21. Qe2. Bxd3 22. Qxd3. Ne2+ -"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "body",
+    "text": "to the loss of the exchange. 19. f3 is also unsatisfactory in view of 19... Bc5!",
+    "chapter": 5,
+    "segment_id": "CH5-439",
+    "zh": "到丢掉半子。19. f3 鉴于 19... Bc5! 也不令人满意"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "moves",
+    "text": "19... h6 20. Nge4. Nxe4 21. Nxe4. Nf3+ 22. Kg2. Bb8 23 Rhl",
+    "chapter": 5,
+    "page_end": 166,
+    "segment_id": "CH5-440",
+    "zh": "19... h6 20. Nge4. Nxe4 21. Nxe4. Nf3+ 22. Kg2. Bb8 23 Rhl"
+  },
+  {
+    "page": 166,
+    "side": "right",
+    "kind": "body",
+    "text": "So as to play 24. Be2, which was impossible at once because of 23... Nxh4+. However, Black utilizes this time to activate the phalanx. An immediate 23. Nc3 was comparatively best; however, also in this case Black could play 23... f5, threatening an attack with the phalanx.",
+    "chapter": 5,
+    "page_end": 167,
+    "segment_id": "CH5-441",
+    "zh": "以便演奏 24. Be2，这是不可能的，因为 23... Nxh4+。然而，黑方利用这段时间来激活方阵。立即 23. Nc3 相对最好；然而，在这种情况下，黑方也可以下 23... f5，威胁用方阵进攻。"
+  },
+  {
+    "page": 167,
+    "side": "left",
+    "kind": "moves",
+    "text": "23... f5 24. Nc3. e4 25. Be2. Re8",
+    "chapter": 5,
+    "segment_id": "CH5-442",
+    "zh": "23... f5 24. Nc3. e4 25. Be2. Re8"
+  },
+  {
+    "page": 167,
+    "side": "left",
+    "kind": "body",
+    "text": "Soon there is a further advance of the phalanx, bringing with it \"death 1 and destruction\". White makes an attempt to provoke some activity in the centre and even manages to advance the d-pawn, but this proves inadequate for countering Black's fierce attack.",
+    "chapter": 5,
+    "segment_id": "CH5-443",
+    "zh": "很快，兵阵再次前冲，带来了“死亡1和毁灭”。白方试图在中心挑起一些活动，甚至设法推进d-兵，但这不足以对抗黑方的猛烈进攻。"
+  },
+  {
+    "page": 167,
+    "side": "left",
+    "kind": "moves",
+    "text": "26. Nb5. f4 27. Qa3. e3! 28. d6. Ne5 29. Bxe5. f3+",
+    "chapter": 5,
+    "page_end": 167,
+    "segment_id": "CH5-444",
+    "zh": "26. Nb5. f4 27. Qa3. e3! 28. d6. Ne5 29. Bxe5. f3+"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "body",
+    "text": "The culmination of the breakthrough.",
+    "chapter": 5,
+    "segment_id": "CH5-445",
+    "zh": "突破的顶峰。"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "moves",
+    "text": "30. Kh2. Rxe5",
+    "chapter": 5,
+    "segment_id": "CH5-446",
+    "zh": "30. Kh2. Rxe5"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "body",
+    "text": "Possibly even more energetic is",
+    "chapter": 5,
+    "segment_id": "CH5-447",
+    "zh": "或许更有活力的是"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "moves",
+    "text": "30... Qxe5 and, if 31. d7, then 31",
+    "chapter": 5,
+    "segment_id": "CH5-448",
+    "zh": "30... Qxe5 并且，如果 31. d7，则 31"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "body",
+    "text": "exf2!",
+    "chapter": 5,
+    "segment_id": "CH5-449",
+    "zh": "exf2!"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "moves",
+    "text": "31. Bd3. Bd7 32. fxe3. Qg4",
+    "chapter": 5,
+    "segment_id": "CH5-450",
+    "zh": "31. Bd3. Bd7 32. fxe3. Qg4"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "body",
+    "text": "Threatening mate in two moves. The f-pawn has turned into a \"nail' which completes the rout.",
+    "chapter": 5,
+    "segment_id": "CH5-451",
+    "zh": "威胁二步杀。f-兵已经变成了“钉子”，完成了溃败。"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "moves",
+    "text": "33. Bf1. Rh5",
+    "chapter": 5,
+    "segment_id": "CH5-452",
+    "zh": "33. Bf1. Rh5"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "body",
+    "text": "Once again mate is threatened after ... Rxh4+.",
+    "chapter": 5,
+    "segment_id": "CH5-453",
+    "zh": "在...Rxh4+之后，伴侣再次受到威胁。"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "moves",
+    "text": "34. Rc2. Rxb5",
+    "chapter": 5,
+    "segment_id": "CH5-454",
+    "zh": "34. Rc2. Rxb5"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "body",
+    "text": "Black wins a piece. On 34. Qb2 would have followed 34... Bxb5",
+    "chapter": 5,
+    "segment_id": "CH5-455",
+    "zh": "黑方赢得棋子。在 34. Qb2 上将跟随 34... Bxb5"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "moves",
+    "text": "35. Bh3. Rxh4 36. gxh4. Bxd6 mate. 35. Rd2. Re5 36. Qb2. Rxe3 37. Qxb7. Bc6 38. Qb2. f2 0-1",
+    "chapter": 5,
+    "page_end": 167,
+    "segment_id": "CH5-456",
+    "zh": "35. Bh3. Rxh4 36. gxh4. Bxd6 配合。35. Rd2. Re5 36. Qb2. Rxe3 37. Qxb7。Bc6 38. Qb2. f2 0-1"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "body",
+    "text": "Usually the phalanx breaks through the front and only then do the pieces rush into the attack. In this game it was the other way around. The attack began with the pieces, but then they had need of the pawn phalanx.",
+    "chapter": 5,
+    "segment_id": "CH5-457",
+    "zh": "通常方阵突破正面后，棋子才会冲入攻击。在这场对局中，情况恰恰相反。攻击从棋子开始，但随后他们需要兵阵。"
+  },
+  {
+    "page": 167,
+    "side": "right",
+    "kind": "body",
+    "text": "The attack of a pawn mass on the flanks is figuratively called a storm, but it does actually warrant this name since it develops impetuously, by force, and in the intense heat of the struggle. With castling on opposite sides, at times both opponents rush into the storm and success usually attends the one who first achieves pawn escort and begins to loosen the position of the enemy king. Not infrequently the pawn storm takes place also upon same-side castling or entirely without castling. In such cases the attacking side needs to watch closely for his own security, in voluntarily exposing his own king, and not allow the opponent to complicate the struggle by means of a counterattack.",
+    "chapter": 5,
+    "page_end": 168,
+    "segment_id": "CH5-458",
+    "zh": "兵侧翼的群众攻击被形象地称为风暴，但它实际上确实有这个名称，因为它是在激烈的斗争中以武力猛烈地发展的。由于易位在两侧，有时双方都会冲入风暴，成功通常属于第一个完成兵护送并开始放松敌人王阵势的人。兵潮也经常发生在同侧易位或完全没有易位。在这种情况下，攻击方需要密切关注自身安全，主动暴露自己的王，不要让对手通过反击使斗争复杂化。"
+  },
+  {
+    "page": 168,
+    "side": "left",
+    "kind": "body",
+    "text": "The pawn storm column usually consists of three pawns, advancing side by side on the f, g, h or a, b, c files; ; there is also a two-pawn column. The pawn storm has more chances of success if the g or h pawns in the opponent's castled position have advanced. The contact of the storming column with such pawns takes place two tempi earlier than with pawns on their original squares, and as a consequence the general tempo of attack is apparently accelerated.",
+    "chapter": 5,
+    "segment_id": "CH5-459",
+    "zh": "兵潮栏通常由三个兵组成，在f、g、h或a、b、c线上并列前进；；还有一个两兵列。如果对手城堡位置的g或h兵前进，兵潮成功的机会更大。冲锋纵队与这种兵的接触比与兵在其原始格上的接触要早两个时间，因此总体先手的攻击明显加速。"
+  },
+  {
+    "page": 168,
+    "side": "left",
+    "kind": "body",
+    "text": "It is necessary to carefully calculate a pawn storm. However, this is a far from easy task. In the majority of cases a certain amount of risk is involved in the storm. Even when the pawn column achieves the aim and comes into contact with the opponent's pawns, one has to weigh up the character of the piece battle which must develop after the disappearance of pawns from the battle zone. It must not be forgotten that the advance of the pawn group creates s various positional weaknesses in the rear, and if the storm does not succeed then things might surprisingly ou, q o1 1no uin 1 better off than at the start'. Let us give some illustrations.",
+    "chapter": 5,
+    "segment_id": "CH5-460",
+    "zh": "有必要仔细计算一个兵潮。然而，这绝非易事。在大多数情况下，风暴会带来一定的风险。即使兵纵队达到目的，与对方的兵接触，也必须权衡兵从战区消失后必然展开的棋子战斗的性质。不能忘记的是，兵群前冲在后方造成了各种位置上的弱点，如果风暴没有成功，那么事情可能会出人意料地比开始时更好。让我们举一些例子。"
+  },
+  {
+    "page": 168,
+    "side": "right",
+    "kind": "body",
+    "text": "In Vidmar-Tarrasch (Nurnberg 1906) White begins a pawn storm on the king's flank. The basis for this is the weakening of Black's castled position by the move ... h6 and the cramped position of his bishop on f6. He can do nothing in the centre and this makes the flank attack safe.",
+    "chapter": 5,
+    "segment_id": "CH5-461",
+    "zh": "在 Vidmar-塔拉什 (纽伦堡 1906) 中，白方在王翼上开始兵潮。其基础是黑方的城堡位置被削弱了...h6，以及他的象在f6上的狭窄位置。他在中路无能为力，这使得侧翼进攻变得安全。"
+  },
+  {
+    "page": 168,
+    "side": "right",
+    "kind": "moves",
+    "text": "18. g4. Kf8",
+    "chapter": 5,
+    "segment_id": "CH5-462",
+    "zh": "18. g4. Kf8"
+  },
+  {
+    "page": 168,
+    "side": "right",
+    "kind": "body",
+    "text": "18... Nxe3 is inadequate in view of 19. Qxe3 when White threatens Nxf6+ followed by",
+    "chapter": 5,
+    "segment_id": "CH5-463",
+    "zh": "鉴于 19. Qxe3，当白方威胁 Nxf6+ 后，18... Nxe3 是不充分的"
+  },
+  {
+    "page": 168,
+    "side": "right",
+    "kind": "moves",
+    "text": "Qxh6. If 19... Kh7, then 20. h4. 19. h4. Ng8 20. g5",
+    "chapter": 5,
+    "page_end": 168,
+    "segment_id": "CH5-464",
+    "zh": "Qxh6。如果 19... Kh7，则 20. h4。19. h4. Ng8 20. g5"
+  },
+  {
+    "page": 168,
+    "side": "right",
+    "kind": "body",
+    "text": "If Black's pawn were still on h7, this move would not have the same strength it acquires now.",
+    "chapter": 5,
+    "segment_id": "CH5-465",
+    "zh": "如果黑方的兵仍在h7上，则此步棋不会具有现在所获得的相同强度。"
+  },
+  {
+    "page": 168,
+    "side": "right",
+    "kind": "moves",
+    "text": "20... hxg5 21. hxg5. Be7 22. Ne5",
+    "chapter": 5,
+    "segment_id": "CH5-466",
+    "zh": "20... hxg5 21. hxg5. Be7 22. Ne5"
+  },
+  {
+    "page": 169,
+    "side": "left",
+    "kind": "body",
+    "text": "The storm yields its fruit. The Black king's position has appreciably deteriorated, his knight has been pushed back to g8 and does not have a single move, the f7 and g7 points are weak. White's pieces, on the other hand, are very actively placed, the open h-file can be occupied without difficulty, and also a concrete plan begins to show for the realisation of the positional advantage, for example Bd2 followed by Qf3.",
+    "chapter": 5,
+    "segment_id": "CH5-467",
+    "zh": "风暴结出了果实。黑方王的局面明显恶化，马已被推回g8且无一招，f7和g7点较弱。另一方面，白方的棋子下得非常积极，空位的h线可以毫不费力地占领，并且开始显示出实现位置优势的具体计划，例如Bd2随后是Qf3。"
+  },
+  {
+    "page": 169,
+    "side": "left",
+    "kind": "moves",
+    "text": "22... f6",
+    "chapter": 5,
+    "segment_id": "CH5-468",
+    "zh": "22... f6"
+  },
+  {
+    "page": 169,
+    "side": "left",
+    "kind": "body",
+    "text": "In the event of 22... g6 23. Bd2, the threat of Qf3 is irresistible.",
+    "chapter": 5,
+    "segment_id": "CH5-469",
+    "zh": "如果发生22...g623Bd2，Qf3的威胁是不可抗拒的。"
+  },
+  {
+    "page": 169,
+    "side": "left",
+    "kind": "moves",
+    "text": "23. Ng6+ Kf7 24. Nh8+ Ke8 25. Nc5. f5 26. Qe2. g6 27. Nxg6 and",
+    "chapter": 5,
+    "page_end": 169,
+    "segment_id": "CH5-470",
+    "zh": "23. Ng6+ Kf7 24. Nh8+ Ke8 25. Nc5. f5 26. Qe2. g6 27. Nxg6 and"
+  },
+  {
+    "page": 169,
+    "side": "left",
+    "kind": "body",
+    "text": "Black soon resigned.",
+    "chapter": 5,
+    "segment_id": "CH5-471",
+    "zh": "黑方很快就辞职了。"
+  },
+  {
+    "page": 169,
+    "side": "left",
+    "kind": "body",
+    "text": "Let us look at a few games. The peculiarity of the first of these lies in the fact that White begins a pawn storm on the king's flank even before Black has castled, almost in the opening stage, and in the present case, together with a particular aim - to open the position of the king, it has also the object of preventing Black from castling on the king's side. To place the king under frontal attack from the infantry would, on his part, be foolhardy.",
+    "chapter": 5,
+    "segment_id": "CH5-472",
+    "zh": "让我们看几场对局。其中第一个的特殊性在于，白方甚至在黑方出局之前，几乎在开局阶段就开始了王翼上的兵潮，在目前的情况下，除了一个特定的目标 - 打开王的位置，它还具有阻止黑方短易位的目的。对他来说，让王受到步兵的正面攻击是鲁莽的。"
+  },
+  {
+    "page": 169,
+    "side": "left",
+    "kind": "heading",
+    "text": "Hungarian Defence",
+    "chapter": 5,
+    "segment_id": "CH5-473",
+    "zh": "匈牙利防御"
+  },
+  {
+    "page": 169,
+    "side": "left",
+    "kind": "metadata",
+    "text": "White: A.Alekhine",
+    "chapter": 5,
+    "segment_id": "CH5-474",
+    "zh": "白方：A.阿廖欣"
+  },
+  {
+    "page": 169,
+    "side": "left",
+    "kind": "metadata",
+    "text": "Black: G.Breyer",
+    "chapter": 5,
+    "segment_id": "CH5-475",
+    "zh": "黑方：G.布雷耶"
+  },
+  {
+    "page": 169,
+    "side": "left",
+    "kind": "metadata",
+    "text": "(Mannheim 1914)",
+    "chapter": 5,
+    "segment_id": "CH5-476",
+    "zh": "（曼海姆1914）"
+  },
+  {
+    "page": 169,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. e4. e5 2. Nf3. Nc6 3. Bc4. Be7 4. d4. d6 5. Nc3. Bg4 6. h3. Bxf3",
+    "chapter": 5,
+    "page_end": 169,
+    "segment_id": "CH5-477",
+    "zh": "1. e4. e5 2. Nf3. Nc6 3. Bc4. Be7 4. d4. d6 5. Nc3. Bg4 6. h3. Bxf3"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "body",
+    "text": "The aim of this exchanging operation, in conjunction with the following move, lies in the fact that it obliges White to close the centre. And, in fact, he has to \"lock up\" the centre without delay and set about enlivening the situation on the flank.",
+    "chapter": 5,
+    "segment_id": "CH5-478",
+    "zh": "这一交换操作的目的，连同接下来的步，在于迫使白方关闭中心。而事实上，他必须刻不容缓地“锁定”中锋，并着手活跃边路的局势。"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "moves",
+    "text": "7. Qxf3. Nf6 8. d5. Nb8",
+    "chapter": 5,
+    "segment_id": "CH5-479",
+    "zh": "7. Qxf3. Nf6 8. d5. Nb8"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "body",
+    "text": "Clearly, not 8... Nd4 9. Qd3 and then Be3 when the knight already needs to retreat, but has nowhere to go!",
+    "chapter": 5,
+    "segment_id": "CH5-480",
+    "zh": "显然，不是8...Nd49Qd3然后是Be3，而马已经需要撤退，但无处可去！"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "moves",
+    "text": "9. Be3. Nbd7 10. g4",
+    "chapter": 5,
+    "segment_id": "CH5-481",
+    "zh": "9. Be3. Nbd7 10. g4"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "body",
+    "text": "As is seen from the further course of the game, this thrust introduces a general pawn storm on the king's flank.",
+    "chapter": 5,
+    "segment_id": "CH5-482",
+    "zh": "从对局的进一步进程可以看出，这个推力在王翼上引入了一个通用的兵潮。"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "moves",
+    "text": "10... Nf8 11. h4. Qd7",
+    "chapter": 5,
+    "segment_id": "CH5-483",
+    "zh": "10... Nf8 11. h4. Qd7"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "body",
+    "text": "A dubious move. Black will now be very cramped, and the knight, from f6, has to go to g8, where it is both locked in itself, and also locks in the rook. He should play 11... N6d7, preparing a pawn storm on the queen's flank in the event of White's castling on that side.",
+    "chapter": 5,
+    "segment_id": "CH5-484",
+    "zh": "一个可疑的举动。黑方现在将非常局促，并且马从 f6 必须转到 g8，在那里它既锁定自身，又锁定车。他应该下 11... N6d7，在后翼上准备一个兵潮，以防白方易位在那一侧。"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "moves",
+    "text": "12. Bb5. c6 13. Be2. Bd8",
+    "chapter": 5,
+    "segment_id": "CH5-485",
+    "zh": "12. Bb5. c6 13. Be2. Bd8"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "body",
+    "text": "In the quest for operational space for his pieces. More unpleasant for White would be the reply 13... a6 with the threat ... c5 and a future enlivening of his pawns on the queen's flank. If 14. g5 Ng8 15. Na4, then already good is 15. Bd8, retaining the possibility of playing ... c5 and possibly also ... b5.",
+    "chapter": 5,
+    "segment_id": "CH5-486",
+    "zh": "为他的棋子寻找操作空间。对于白方来说更不愉快的是答复 13... a6 与威胁... c5 以及他在后翼上的兵的未来活跃。如果 14. g5. Ng8 15. Na4，则已经好的是 15. Bd8，保留播放... c5 的可能性，也可能... b5。"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "moves",
+    "text": "14. g5. Ng8 15. O-O-O Bb6 16",
+    "chapter": 5,
+    "segment_id": "CH5-487",
+    "zh": "14. g5. Ng8 15. O-O-O Bb6 16"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "body",
+    "text": "Bxb6",
+    "chapter": 5,
+    "segment_id": "CH5-488",
+    "zh": "Bxb6"
+  },
+  {
+    "page": 169,
+    "side": "right",
+    "kind": "body",
+    "text": "White is carried away with the storm and goes for the exchange, after which he succeeds in forcibly carrying out f4 and adding the f-pawn to the attacking column of the h and g-pawns.",
+    "chapter": 5,
+    "page_end": 170,
+    "segment_id": "CH5-489",
+    "zh": "白方乘风破浪，进行交换，成功强行执行f4，将f-兵加入到h和g-兵的攻击列中。"
+  },
+  {
+    "page": 170,
+    "side": "left",
+    "kind": "moves",
+    "text": "16... axb6 17. Qe3. Qc7 18. f4. Ng6 19. f5. Nf4 20. h5",
+    "chapter": 5,
+    "page_end": 170,
+    "segment_id": "CH5-490",
+    "zh": "16... axb6 17. Qe3. Qc7 18. f4. Ng6 19. f5. Nf4 20. h5"
+  },
+  {
+    "page": 170,
+    "side": "left",
+    "kind": "body",
+    "text": "The storm is in full swing, but Black has managed to transfer one of his inactive knights to the weak f4 square, while he has in prospect the possibility of castling on the queen's side, that is to take his king out of the zone of attack. Perhaps he still need not despair!",
+    "chapter": 5,
+    "segment_id": "CH5-491",
+    "zh": "风暴正在如火如荼地进行，但黑方已设法将其不活跃的马之一转移到较弱的f4格，同时他也展望了长易位的可能性，即将其王带出攻击区域。或许他还不必绝望！"
+  },
+  {
+    "page": 170,
+    "side": "left",
+    "kind": "moves",
+    "text": "20... h6",
+    "chapter": 5,
+    "segment_id": "CH5-492",
+    "zh": "20... h6"
+  },
+  {
+    "page": 170,
+    "side": "left",
+    "kind": "body",
+    "text": "A sharp and risky attempt to counter the column storming its way to the king's position. A pawn battle now flares up at once. The position is so complicated and unusual that it is difficult to suggest any kind of clear defensive plan. Possibly 20... Nxe2+ 21. Qxe2",
+    "chapter": 5,
+    "segment_id": "CH5-493",
+    "zh": "一次尖锐而危险的尝试，试图反击冲向王阵地的纵队。一场兵战斗立即爆发。这个位置是如此复杂和不寻常，以至于很难提出任何明确的防御计划。可能 20... Nxe2+ 21. Qxe2"
+  },
+  {
+    "page": 170,
+    "side": "left",
+    "kind": "moves",
+    "text": "O-O-O 22. Rh3. Kb8 23. Qc4 (If 23. Rd3, then 23... Ne7, and then ...",
+    "chapter": 5,
+    "page_end": 170,
+    "segment_id": "CH5-494",
+    "zh": "O-O-O 22. Rh3. Kb8 23. Qc4（如果 23. Rd3，则 23... Ne7，然后..."
+  },
+  {
+    "page": 170,
+    "side": "left",
+    "kind": "body",
+    "text": "Nc8, and the b6 and d6 squares are reliably defended) 23 3... h6 24",
+    "chapter": 5,
+    "segment_id": "CH5-495",
+    "zh": "Nc8，b6 和 d6 格得到可靠防御） 23 3... h6 24"
+  },
+  {
+    "page": 170,
+    "side": "left",
+    "kind": "moves",
+    "text": "dxc5. bxc5 25. gxh6. Rxh6 etc.",
+    "chapter": 5,
+    "segment_id": "CH5-496",
+    "zh": "dxc5. bxc5 25. gxh6. Rxh6 etc."
+  },
+  {
+    "page": 170,
+    "side": "left",
+    "kind": "body",
+    "text": "White retains attacking possibilities by playing a further a4 and b4, but all the same there is quite a lot of potential resistance remaining for Black. Breyer, apparently, decides to keep a firm hold on his cavalry outpost. In this, clearly, lies the point of the text move.",
+    "chapter": 5,
+    "page_end": 170,
+    "segment_id": "CH5-497",
+    "zh": "白方通过进一步下a4和b4保留了进攻的可能性，但尽管如此，黑方仍然存在相当多的潜在阻力。显然，布雷耶决定牢牢控制他的骑兵前哨。显然，这就是文本移动的重点。"
+  },
+  {
+    "page": 170,
+    "side": "right",
+    "kind": "moves",
+    "text": "21. f6. gxf6 22. g6. Kf8?",
+    "chapter": 5,
+    "segment_id": "CH5-498",
+    "zh": "21. f6. gxf6 22. g6. Kf8?"
+  },
+  {
+    "page": 170,
+    "side": "right",
+    "kind": "body",
+    "text": "Without mentioning the fact that this move is a direct mistake (admittedly, not exploited by White), nothing can justify the journey of the king into the storm region. This may be courageous, but also reckless!",
+    "chapter": 5,
+    "segment_id": "CH5-499",
+    "zh": "且不说这一步棋是一个直接错误（诚然，没有被白方利用），没有任何东西可以证明王进入风暴区的旅程是合理的。这也许是勇敢，但也是鲁莽！"
+  },
+  {
+    "page": 170,
+    "side": "right",
+    "kind": "body",
+    "text": "Black could not take the pawn twice: 22... fxg6 23. hxg6 Nxg6 in view of the pin 24. Bh5. Castling is also unfavourable - 22... O-O-O 23",
+    "chapter": 5,
+    "segment_id": "CH5-500",
+    "zh": "黑方无法两次吃兵：22... fxg6 23. hxg6. Nxg6 考虑到引脚 24. Bh5。易位也是不利的 - 22... O-O-O 23"
+  },
+  {
+    "page": 170,
+    "side": "right",
+    "kind": "moves",
+    "text": "gxf7. Nxe2+ 24. Nxe2. Ne7 25. Rhf1. f5 26. dxc6. bxc6 27. exf5. Nd5 28",
+    "chapter": 5,
+    "page_end": 170,
+    "segment_id": "CH5-501",
+    "zh": "gxf7. Nxe2+ 24. Nxe2. Ne7 25. Rhf1. f5 26. dxc6. bxc6 27. exf5. Nd5 28"
+  },
+  {
+    "page": 170,
+    "side": "right",
+    "kind": "body",
+    "text": "Qa3. However, by continuing 22",
+    "chapter": 5,
+    "segment_id": "CH5-502",
+    "zh": "Qa3。然而，通过继续 22"
+  },
+  {
+    "page": 170,
+    "side": "right",
+    "kind": "moves",
+    "text": "... fxg6 23. hxg6 and only now 23",
+    "chapter": 5,
+    "segment_id": "CH5-503",
+    "zh": "... fxg6 23. hxg6 仅现在 23"
+  },
+  {
+    "page": 170,
+    "side": "right",
+    "kind": "body",
+    "text": "O-O-O, Black, with an extra pawn, can rightfully look forward to the future with confidence. In any event, there would still be a very stubborn struggle in prospect.",
+    "chapter": 5,
+    "segment_id": "CH5-504",
+    "zh": "O-O-O，黑方，加上额外的兵，可以理所当然地充满信心地展望未来。无论如何，前景中仍将存在一场非常顽强的斗争。"
+  },
+  {
+    "page": 170,
+    "side": "right",
+    "kind": "moves",
+    "text": "23. gxf7",
+    "chapter": 5,
+    "segment_id": "CH5-505",
+    "zh": "23. gxf7"
+  },
+  {
+    "page": 170,
+    "side": "right",
+    "kind": "body",
+    "text": "Carried away with his plan to expose the position of the enemy king, White does not notice a surprising new possibility which has presented itself - to win at least a knight by 23. g7+! Kxg7 24 Rhgl+ and the knight must cover, since 24... Kf8 (or 24... Kh7) would lead to an even more deplorable result after 25. Qg3.",
+    "chapter": 5,
+    "segment_id": "CH5-506",
+    "zh": "由于计划暴露敌人王的位置，白方没有注意到出现了一个令人惊讶的新可能性 - 以23. g7+! Kxg7 24 Rhgl+赢得至少一个马，并且马必须覆盖，因为24... Kf8（或24...Kh7）将在 25. Qg3 后导致更糟糕的结果。"
+  },
+  {
+    "page": 170,
+    "side": "right",
+    "kind": "body",
+    "text": "Now Black takes heart and the struggle once again assumes a quite fierce character.",
+    "chapter": 5,
+    "page_end": 171,
+    "segment_id": "CH5-507",
+    "zh": "现在黑方振作起来，斗争再次呈现出相当激烈的特征。"
+  },
+  {
+    "page": 171,
+    "side": "left",
+    "kind": "moves",
+    "text": "23... Ne7 24. Bg4. cxd5 25. exd5. f5 26. Bf3. Qc5 27. Qe1. Kxf7",
+    "chapter": 5,
+    "page_end": 171,
+    "segment_id": "CH5-508",
+    "zh": "23... Ne7 24. Bg4. cxd5 25. exd5. f5 26. Bf3. Qc5 27. Qe1. Kxf7"
+  },
+  {
+    "page": 171,
+    "side": "left",
+    "kind": "body",
+    "text": "And so Black, as before, has an extra pawn, his pieces occupy good positions on the queen's flank, and he has two operation-files - \"a\" and \"c\". All would be well, if it were still possible ... to ensure the safety of his king, but it is just this which is difficult, and possibly even an insoluble problem. White's plan of attack consists of an exchange sacrifice on f4 and an invasion on the e-file.",
+    "chapter": 5,
+    "segment_id": "CH5-509",
+    "zh": "所以黑方和以前一样，多了一个兵，他的棋子在后翼上占据了很好的位置，并且他有两个操作-线-“a”和“c”。如果还能...保证他的王的安全就好了，但这就是困难，甚至可能是一个无法解决的问题。白方的攻击计划包括对 f4 的弃半子和对 e线的入侵。"
+  },
+  {
+    "page": 171,
+    "side": "left",
+    "kind": "moves",
+    "text": "28. Rh4. Ke8 29. Kb1",
+    "chapter": 5,
+    "segment_id": "CH5-510",
+    "zh": "28. Rh4. Ke8 29. Kb1"
+  },
+  {
+    "page": 171,
+    "side": "left",
+    "kind": "body",
+    "text": "So as, after 30. Rxf4 exf4, to not be threatened with an exchange of queens.",
+    "chapter": 5,
+    "segment_id": "CH5-511",
+    "zh": "这样，在 30. Rxf4. exf4 之后，就不会受到交换后的威胁。"
+  },
+  {
+    "page": 171,
+    "side": "left",
+    "kind": "moves",
+    "text": "29... b5",
+    "chapter": 5,
+    "segment_id": "CH5-512",
+    "zh": "29... b5"
+  },
+  {
+    "page": 171,
+    "side": "left",
+    "kind": "body",
+    "text": "He should play 29... Rh7 or 29",
+    "chapter": 5,
+    "segment_id": "CH5-513",
+    "zh": "他应该打 29... Rh7 或 29"
+  },
+  {
+    "page": 171,
+    "side": "left",
+    "kind": "body",
+    "text": "Rg8 (with the aim, after 30",
+    "chapter": 5,
+    "segment_id": "CH5-514",
+    "zh": "Rg8（目标是，30后"
+  },
+  {
+    "page": 171,
+    "side": "left",
+    "kind": "moves",
+    "text": "Rxf4. exf4 31. Qe6, to have the move Rg1). Also 29... Rc8 is",
+    "chapter": 5,
+    "page_end": 171,
+    "segment_id": "CH5-515",
+    "zh": "Rxf4。exf4 31. Qe6，进行移动Rg1）。另外 29... Rc8 是"
+  },
+  {
+    "page": 171,
+    "side": "left",
+    "kind": "body",
+    "text": "worthy of attention.",
+    "chapter": 5,
+    "segment_id": "CH5-516",
+    "zh": "值得关注。"
+  },
+  {
+    "page": 171,
+    "side": "left",
+    "kind": "moves",
+    "text": "30. Rxf4. exf4 31. Qe6. Kd8",
+    "chapter": 5,
+    "segment_id": "CH5-517",
+    "zh": "30. Rxf4. exf4 31. Qe6. Kd8"
+  },
+  {
+    "page": 171,
+    "side": "left",
+    "kind": "body",
+    "text": "There is much that Black does not foresee, but even on the best defence, 31... Rc8, it would be difficult to save the game. Interesting variations are obtained: 31 .",
+    "chapter": 5,
+    "page_end": 171,
+    "segment_id": "CH5-518",
+    "zh": "黑方没有预见到很多事情，但即使是最好的防守，31... Rc8，也很难挽救对局。获得了有趣的变化：31。"
+  },
+  {
+    "page": 171,
+    "side": "right",
+    "kind": "moves",
+    "text": "Rc8 32. Be2. b4 33. Bb5+ Kf8 34. Qf6+ Kg8 35. Bd7 and wins, or 32... Rc7 33. Bxb5+ Kd8 34. Re1. Qb6 (34... Rh7 35. Qg8+) 35. a4. Qc5 36. Qf6. Rg8 37. Qf7. Rh8 38. Qg7. Rg8 39. Qxg8+ and Re8 mate. 32. Nxb5! Qxb5",
+    "chapter": 5,
+    "page_end": 171,
+    "segment_id": "CH5-519",
+    "zh": "Rc8 32. Be2. b4 33. Bb5+ Kf8 34. Qf6+ Kg8 35. Bd7 获胜，或 32... Rc7 33. Bxb5+ Kd834. Re1. Qb6 (34... Rh7 35. Qg8+) 35. a4. Qc5 36. Qf6. Rg8 37. Qf7. Rh8 38. Qg7. Rg839. Qxg8+ 和 Re8 配合。32. Nxb5! Qxb5"
+  },
+  {
+    "page": 171,
+    "side": "right",
+    "kind": "body",
+    "text": "Black is already a rook up, but not for long.",
+    "chapter": 5,
+    "segment_id": "CH5-520",
+    "zh": "黑方已经领先车，但不会持续很长时间。"
+  },
+  {
+    "page": 171,
+    "side": "right",
+    "kind": "moves",
+    "text": "33. Qxd6+ Qd7 Or 33... Ke8 34. Re1. Qd7 35. Qg6+ Kd8 36. Qf6. Rg8 37. d6. 34. Qf6. Rh7 35. d6. Ke8 36. Re1. Ra6 37. Qg6+ Rf7 38. Bd5. Rxd6 39. Qxf7 + Kd8 40. Qf8+ Qe8 41. Qxe8+ Kxe8 42. Bxb7",
+    "chapter": 5,
+    "page_end": 171,
+    "segment_id": "CH5-521",
+    "zh": "33. Qxd6+ Qd7 Or 33... Ke8 34. Re1. Qd7 35. Qg6+ Kd8 36. Qf6. Rg8 37. d6. 34. Qf6. Rh7 35. d6. Ke8 36. Re1. Ra6 37. Qg6+ Rf7 38. Bd5. Rxd6 39. Qxf7 + Kd8 40. Qf8+ Qe8 41. Qxe8+ Kxe8 42. Bxb7"
+  },
+  {
+    "page": 171,
+    "side": "right",
+    "kind": "body",
+    "text": "The White pawns advance irrepressably. Black resigned on the 51st move.",
+    "chapter": 5,
+    "segment_id": "CH5-522",
+    "zh": "白方兵势不可挡地前进。黑方在第51手棋时认输。"
+  },
+  {
+    "page": 171,
+    "side": "right",
+    "kind": "heading",
+    "text": "Sicilian Defence",
+    "chapter": 5,
+    "segment_id": "CH5-523",
+    "zh": "西西里防御"
+  },
+  {
+    "page": 171,
+    "side": "right",
+    "kind": "metadata",
+    "text": "White: : G.Kasparyan",
+    "chapter": 5,
+    "segment_id": "CH5-524",
+    "zh": "白方：: G.卡斯帕里扬"
+  },
+  {
+    "page": 171,
+    "side": "right",
+    "kind": "metadata",
+    "text": "Black: G.Levenfish",
+    "chapter": 5,
+    "segment_id": "CH5-525",
+    "zh": "黑方：G.列文菲什"
+  },
+  {
+    "page": 171,
+    "side": "right",
+    "kind": "metadata",
+    "text": "(10th USSR Championship 1937)",
+    "chapter": 5,
+    "segment_id": "CH5-526",
+    "zh": "（1937年第10届苏联锦标赛）"
+  },
+  {
+    "page": 171,
+    "side": "right",
+    "kind": "moves",
+    "text": "1. e4. c5 2. Ne2. Nc6 3. d4. cxd4 4. Nxd4. Nf6 5. Nc3. d6 6. Bg5. e6 7. Qd2. Be7 8. O-O-O O-O",
+    "chapter": 5,
+    "page_end": 171,
+    "segment_id": "CH5-527",
+    "zh": "1. e4. c5 2. Ne2. Nc6 3. d4. cxd4 4. Nxd4. Nf6 5. Nc3. d6 6. Bg5. e6 7. Qd2. Be7 8. O-O-O O-O"
+  },
+  {
+    "page": 171,
+    "side": "right",
+    "kind": "body",
+    "text": "The opposite-side castling, characteristic for this variation of the Sicilian Defence, predetermines White's plan, which consists of the carrying out of a pawn storm on the king's flank. Not without foundation there is an opinion that there is no need for Black to hurry with the removal of his king to the flank, and in a number of games he carries out castling after a preliminary 8... Nxd4 9. Qxd4, and if 10. f4, then 10... Qa5. Admittedly, also in this case prospects of a pawn attack on the king's position remain for White.",
+    "chapter": 5,
+    "page_end": 172,
+    "segment_id": "CH5-528",
+    "zh": "相对侧易位是西西里防御这种变体的特征，它预先确定了白方的计划，该计划包括在王翼上执行兵潮。并非没有根据的是，有一种观点认为黑方没有必要急于将其王移至侧翼，并且在许多对局中，他在初步8... Nxd4 9. Qxd4之后执行易位，如果是10. f4，则10... Qa5。不可否认，在这种情况下，白方仍然有兵攻击王的位置置的可能性。"
+  },
+  {
+    "page": 172,
+    "side": "left",
+    "kind": "moves",
+    "text": "9. f4. Qa5",
+    "chapter": 5,
+    "segment_id": "CH5-529",
+    "zh": "9. f4. Qa5"
+  },
+  {
+    "page": 172,
+    "side": "left",
+    "kind": "body",
+    "text": "On 9... h6 White replies 10. h4. Deserving attention is 9... e5 - an idea advanced by Geller and successfully tested in several games - which has the aim of making it difficult for White to organise a storm.",
+    "chapter": 5,
+    "segment_id": "CH5-530",
+    "zh": "在 9... h6 白回复 10. h4。值得关注的是 9... e5 - 由盖勒提出并在几场对局中成功测试的想法 - 其目的是使白方难以组织风暴。"
+  },
+  {
+    "page": 172,
+    "side": "left",
+    "kind": "body",
+    "text": "The move in the game is not quite satisfactory. In any case, if such a development of the queen is planned then he should first of all exchange on d4.",
+    "chapter": 5,
+    "segment_id": "CH5-531",
+    "zh": "对局中的动作不太令人满意。无论如何，如果计划对后进行这样的开发，那么他应该首先在d4上进行交换。"
+  },
+  {
+    "page": 172,
+    "side": "left",
+    "kind": "moves",
+    "text": "10. Nb3. Qb6 11. Be2. Rd8 12. g4. Bd7 13. f5. Ne5 14. h4. Rac8 15. Bxf6. Bxf6 16. g5. Be7 17. h5",
+    "chapter": 5,
+    "page_end": 172,
+    "segment_id": "CH5-532",
+    "zh": "10. Nb3. Qb6 11. Be2. Rd8 12. g4. Bd7 13. f5. Ne5 14. h4. Rac8 15. Bxf6. Bxf6 16. g5. Be7 17. h5"
+  },
+  {
+    "page": 172,
+    "side": "left",
+    "kind": "body",
+    "text": "A colourful picture of a storm. Black is excellently mobilised, his knight is placed in the centre of the board on a weak square, both his rooks operate in the direction of the centre, one of them is located on the open c-file which leads straight to the haven of the enemy king. However, White is also attacking with his three-pawn storm-group, and this is his only, but very important, positional plus. With the next moves, his pawns enter into contact with the Black king's defensive cover, bring about necessary exchanges, and then White's piece army, in the first instance his queen and rook, begin to operate very powerfully against the breach which has been created on the file.",
+    "chapter": 5,
+    "page_end": 172,
+    "segment_id": "CH5-533",
+    "zh": "一幅暴风雨的彩色图画。黑方的动员能力非常出色，他的马被放置在棋盘中央的弱格上，他的两个车都朝着中心的方向运作，其中一个位于空旷的c线上，直接通向敌人的避难所王。然而，白方也在用他的三兵潮组进攻，这是他唯一但非常重要的位置优势。接下来的动作中，他的兵与黑方王的防御掩护接触，进行必要的交锋，然后白方的棋子军队，首先是他的后和车，开始非常有力地对抗在线上造成的突破口。"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "moves",
+    "text": "17... Bf8",
+    "chapter": 5,
+    "segment_id": "CH5-534",
+    "zh": "17... Bf8"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "body",
+    "text": "Clearly, not 17... exf5 in view of 18. Nd5.",
+    "chapter": 5,
+    "segment_id": "CH5-535",
+    "zh": "显然，鉴于 18. Nd5，不是 17... exf5。"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "moves",
+    "text": "18. Rdf1. d5",
+    "chapter": 5,
+    "segment_id": "CH5-536",
+    "zh": "18. Rdf1. d5"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "body",
+    "text": "Correct tactics! A flank attack is best met by an attack in the centre. Black sacrifices a pawn (19. fxe6 fxe6 20. exd5) but White does not consider accepting the \"Greek\" gift at the cost of giving up the storm and handing over the initiative to the opponent (20... Bb4).",
+    "chapter": 5,
+    "segment_id": "CH5-537",
+    "zh": "正确的战术！侧翼进攻最好由中央进攻来应对。黑方弃子是兵（19fxe6fxe620exd5），但白方不考虑以放弃风暴并将主动权交给对手（20... Bb4）为代价接受“希腊”礼物。"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "moves",
+    "text": "19. g6. dxe4",
+    "chapter": 5,
+    "segment_id": "CH5-538",
+    "zh": "19. g6. dxe4"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "body",
+    "text": "Black consistently opens the centre, where all his pieces sare operating. The variation 19",
+    "chapter": 5,
+    "page_end": 172,
+    "segment_id": "CH5-539",
+    "zh": "黑方始终打开中心，他所有的棋子都在那里运作。变化19"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "moves",
+    "text": "fxg6 20. hxg6. h6 21. Nxd5. exd5 22. Qxd5+ Be6! 23. Qxe6+ Qxe6 24",
+    "chapter": 5,
+    "page_end": 172,
+    "segment_id": "CH5-540",
+    "zh": "fxg6 20. hxg6. h6 21. Nxd5. exd5 22. Qxd5+ Be6! 23. Qxe6+ Qxe6 24"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "body",
+    "text": "fxe6 relieves the crisis rather in White's favour (24... Nxg6 25. Rf7), though it was acceptable for Black.",
+    "chapter": 5,
+    "segment_id": "CH5-541",
+    "zh": "fxe6缓解了危机，而对白方有利（24... Nxg6 25. Rf7），尽管这对黑方来说是可以接受的。"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "moves",
+    "text": "20. gxh7+ Kh8 21. f6. e3 22. Qe1",
+    "chapter": 5,
+    "segment_id": "CH5-542",
+    "zh": "20. gxh7+ Kh8 21. f6. e3 22. Qe1"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "body",
+    "text": "Worse is 22. fxg7+ Bxg7 and now 23. Qe1 is not possible because of 23... f5!. Now, however, he threatens to take on g7 and then play h6 and Qh4. The reply is therefore forced.",
+    "chapter": 5,
+    "segment_id": "CH5-543",
+    "zh": "更糟糕的是 22. fxg7+ Bxg7 而现在 23. Qe1 是不可能的，因为 23... f5!。然而现在，他威胁要接手g7，然后玩h6和Qh4。因此，这个答复是被迫的。"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "moves",
+    "text": "22... gxf6",
+    "chapter": 5,
+    "segment_id": "CH5-544",
+    "zh": "22... gxf6"
+  },
+  {
+    "page": 172,
+    "side": "right",
+    "kind": "body",
+    "text": "The storm yields its fruit - the",
+    "chapter": 5,
+    "segment_id": "CH5-545",
+    "zh": "风暴结出了果实——"
+  },
+  {
+    "page": 173,
+    "side": "left",
+    "kind": "body",
+    "text": "Black king's position is exposed. The main artery for a piece attack is the g-file and to a certain extent also the f-file.",
+    "chapter": 5,
+    "segment_id": "CH5-546",
+    "zh": "黑方王的位置暴露。棋子攻击的主要动脉是 g线，在某种程度上也是 f线。"
+  },
+  {
+    "page": 173,
+    "side": "left",
+    "kind": "body",
+    "text": "Though Black has purposefully exploited the time which White has spent on the storm (he has opened and seized the centre and worsened the position of the enemy king), White's attack is nevertheless the more dangerous.",
+    "chapter": 5,
+    "segment_id": "CH5-547",
+    "zh": "尽管黑方有目的地利用了白方在风暴上花费的时间（他打开并占领了中心并恶化了敌人的位置王），但白方的攻击仍然更加危险。"
+  },
+  {
+    "page": 173,
+    "side": "left",
+    "kind": "body",
+    "text": "The tension has reached its height, a critical phase of the struggle approaches.",
+    "chapter": 5,
+    "segment_id": "CH5-548",
+    "zh": "紧张局势已经达到顶峰，斗争的关键阶段即将到来。"
+  },
+  {
+    "page": 173,
+    "side": "left",
+    "kind": "moves",
+    "text": "23. Rxf6",
+    "chapter": 5,
+    "segment_id": "CH5-549",
+    "zh": "23. Rxf6"
+  },
+  {
+    "page": 173,
+    "side": "left",
+    "kind": "body",
+    "text": "A pardonable error! In the chaos of events White does not find the best continuation of the attack. This was discovered by Kasparyan himself, who subjected the present position to a thorough analysis. He should play 23. Rhg1.",
+    "chapter": 5,
+    "segment_id": "CH5-550",
+    "zh": "一个可以原谅的错误！在混乱的事件中，白方没有找到最佳的攻击后续手段。这是卡斯帕里扬自己发现的，他对目前的情况进行了彻底的分析。他应该打 23. Rhg1。"
+  },
+  {
+    "page": 173,
+    "side": "left",
+    "kind": "body",
+    "text": "Some of the variations contained in Kasparyan's analysis are very beautiful, for example, 23",
+    "chapter": 5,
+    "segment_id": "CH5-551",
+    "zh": "卡斯帕里扬的分析中包含的一些变化非常漂亮，例如23"
+  },
+  {
+    "page": 173,
+    "side": "left",
+    "kind": "moves",
+    "text": "Rhg1. Kxh7 24. Qh4. Be7 25. Qe4+ Kh8 26. Qf4. Kh7 27. Qxe5! fxe5 28. Rxf7+ Kh8 29. Bd3, or 23... f5 24. Qh4. Ng4 25. Rxg4! fxg4 26. Rxf7. Bg7 27. Rxg7! Kxg7 28. Qe7+ Kh6 29. Qf6+ Kxh5 (29... Kxh7 30. Qg6+ Kh8 31. Bd3) 30. Ne4 with",
+    "chapter": 5,
+    "page_end": 173,
+    "segment_id": "CH5-552",
+    "zh": "Rhg1。Kxh7 24. Qh4. Be7 25. Qe4+ Kh8 26. Qf4. Kh7 27. Qxe5! fxe5 28. Rxf7+ Kh8 29. Bd3，或 23... f5 24. Qh4。Ng4 25. Rxg4! fxg4 26. Rxf7. Bg7 27. Rxg7! Kxg7 28. Qe7+ Kh6 29. Qf6+ Kxh5 (29... Kxh7 30Qg6+ Kh8 31. Bd3) 30. Ne4 与"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "body",
+    "text": "the threats of Ng3 mate and Qg5 mate.",
+    "chapter": 5,
+    "segment_id": "CH5-553",
+    "zh": "Ng3 伴侣和 Qg5 伴侣的威胁。"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "moves",
+    "text": "23... Be7 24. Qf1. Rf8",
+    "chapter": 5,
+    "segment_id": "CH5-554",
+    "zh": "23... Be7 24. Qf1. Rf8"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "body",
+    "text": "With the aim of preventing a sacrifice on f7.",
+    "chapter": 5,
+    "segment_id": "CH5-555",
+    "zh": "目的是防止 f7 上出现弃子。"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "moves",
+    "text": "25. Nd5. Qc6 26. Nxe3. Qe4 27. Rh3. Qxh7",
+    "chapter": 5,
+    "page_end": 173,
+    "segment_id": "CH5-556",
+    "zh": "25. Nd5. Qc6 26. Nxe3. Qe4 27. Rh3. Qxh7"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "body",
+    "text": "Now the Black king is reliably defended, while many weaknesses have been exposed in White's position - a consequence of the failed pawn storm.",
+    "chapter": 5,
+    "segment_id": "CH5-557",
+    "zh": "现在黑方王得到了可靠的防守，而白方的许多弱点已经暴露出来 - 这是失败的兵潮的结果。"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "moves",
+    "text": "28. h6. Rg8 29. Bh5. Rg5 30. Bd1. Rcg8 31. Qf4. Bc6 32. Rh4",
+    "chapter": 5,
+    "page_end": 173,
+    "segment_id": "CH5-558",
+    "zh": "28. h6. Rg8 29. Bh5. Rg5 30. Bd1. Rcg8 31. Qf4. Bc6 32. Rh4"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "body",
+    "text": "Possibly White wanted to prevent the move ... Qe4, but better was 32. Nd2 with the same aim. Unfortunately, the move chosen by Kasparyan leads to a quick denouement.",
+    "chapter": 5,
+    "segment_id": "CH5-559",
+    "zh": "可能白方想阻止这步棋... Qe4，但更好的是 32. Nd2 具有相同的目标。不幸的是，卡斯帕里扬选择的举动导致了快速的结局。"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "moves",
+    "text": "32... R8g6 33. Rf5?",
+    "chapter": 5,
+    "segment_id": "CH5-560",
+    "zh": "32... R8g6 33. Rf5?"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "body",
+    "text": "He could save the exchange by",
+    "chapter": 5,
+    "segment_id": "CH5-561",
+    "zh": "他可以通过以下方式节省交换"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "moves",
+    "text": "33. Rxg6. Nxg6 34. Qb8+. 33... Rxf5 34. Nxf5. Bg5 0-1",
+    "chapter": 5,
+    "page_end": 173,
+    "segment_id": "CH5-562",
+    "zh": "33. Rxg6. Nxg6 34. Qb8+. 33... Rxf5 34. Nxf5. Bg5 0-1"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "body",
+    "text": "In conclusion we present a game illustrating an attack on the king's flank with pawns from his own castled position, involving the advance f4-f5 (... f5-f4) followed by",
+    "chapter": 5,
+    "segment_id": "CH5-563",
+    "zh": "总之，我们提出了一个对局，说明了从兵从他自己的城堡位置对王翼进行攻击，包括前进 f4-f5 (... f5-f4)，然后是"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "moves",
+    "text": "g4, h4, g5 etc. The idea of this sort",
+    "chapter": 5,
+    "segment_id": "CH5-564",
+    "zh": "g4、h4、g5 等。这种想法"
+  },
+  {
+    "page": 173,
+    "side": "right",
+    "kind": "body",
+    "text": "of storm stems from Chigorin who repeatedly carried it out in his opening system 1. e4 e6 2. Qe2, for example in the 4th game of the match with Tarrasch, in several match encounters with Schiffers and others.",
+    "chapter": 5,
+    "segment_id": "CH5-565",
+    "zh": "风暴的起源源于齐果林，他在开局系统1e4e62Qe2中反复执行，例如在与塔拉什对局的第四局中，在与希弗斯等人的几次对局中。"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "heading",
+    "text": "King's Indian Defence",
+    "chapter": 5,
+    "segment_id": "CH5-566",
+    "zh": "老印度防御"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "metadata",
+    "text": "White: S.Flohr",
+    "chapter": 5,
+    "segment_id": "CH5-567",
+    "zh": "白方：S.弗洛尔"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "metadata",
+    "text": "Black: A.Vajda",
+    "chapter": 5,
+    "segment_id": "CH5-568",
+    "zh": "黑方：A.瓦伊达"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "metadata",
+    "text": "(Moscow-Budapest match 1949)",
+    "chapter": 5,
+    "segment_id": "CH5-569",
+    "zh": "（莫斯科-布达佩斯匹配 1949）"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "moves",
+    "text": "1. d4. Nf6 2. c4. d6 3. Nc3. Nbd7 4. e4. e5 5. Nf3. g6 6. Be2. Bg7 7. O-O O-O 8. d5",
+    "chapter": 5,
+    "page_end": 174,
+    "segment_id": "CH5-570",
+    "zh": "1. d4. Nf6 2. c4. d6 3. Nc3. Nbd7 4. e4. e5 5. Nf3. g6 6. Be2. Bg7 7. O-O O-O 8. d5"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "body",
+    "text": "The construction of the wedge predetermines the whole character of the future struggle, which must develop on opposite flanks. Black intends to play ... f5, and on this basis develop a frontal pawn storm; White plans an attack on the queen's flank.",
+    "chapter": 5,
+    "segment_id": "CH5-571",
+    "zh": "楔子的构造预先决定了未来斗争的整体特征，而斗争必须在相反的两翼上发展。黑方打算下...f5，并在此基础上发展出正面兵潮；白方计划攻击后翼。"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "moves",
+    "text": "8... Nc5 9. Nd2. a5 10. Qc2. Bg4 11. Nb3. Bxe2 12. Qxe2",
+    "chapter": 5,
+    "page_end": 174,
+    "segment_id": "CH5-572",
+    "zh": "8... Nc5 9. Nd2. a5 10. Qc2. Bg4 11. Nb3. Bxe2 12. Qxe2"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "body",
+    "text": "The exchange of the queen's bishop is favourable for White, since his \"wedge\" rules over the white squares. The absence of a white-squared bishop for the opponent not only increases his supremecy, but also makes it difficult for Black to carry out a storm in which the white square g4 can be called the critical height of the attacking position.",
+    "chapter": 5,
+    "segment_id": "CH5-573",
+    "zh": "后的象的交换对白方有利，因为他的“楔子”统治着白格。对手没有白方象，不仅增加了自己的霸权，而且也使黑方难以实施白格g4堪称攻势临界高度的强攻。"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "moves",
+    "text": "12... Nxb3",
+    "chapter": 5,
+    "segment_id": "CH5-574",
+    "zh": "12... Nxb3"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "body",
+    "text": "Of course Black is bound to be overcome in the battle for the c5 square. A well-planned move, preparing ... f5 and making activity difficult for White on the queen's flank, was 12... Nfd7.",
+    "chapter": 5,
+    "segment_id": "CH5-575",
+    "zh": "当然，黑方在c5格的战斗中必然会被击败。精心策划的一步棋，准备...f5并使白方在后翼上的活动变得困难，是12...Nfd7。"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "moves",
+    "text": "13. axb3. Qd7 14. Rd1. b6 15. Bd2. Kh8 16. Nb5. Ng8 17. b4. axb4 18. Bxb4. f5",
+    "chapter": 5,
+    "page_end": 174,
+    "segment_id": "CH5-576",
+    "zh": "13. axb3. Qd7 14. Rd1. b6 15. Bd2. Kh8 16. Nb5. Ng8 17. b4. axb4 18. Bxb4. f5"
+  },
+  {
+    "page": 174,
+    "side": "left",
+    "kind": "body",
+    "text": "And so Black commences an attack, but also White obtains a dangerous initiative on the other flank.",
+    "chapter": 5,
+    "page_end": 174,
+    "segment_id": "CH5-577",
+    "zh": "因此黑方开始进攻，但白方在另一侧也获得了危险的主动权。"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "moves",
+    "text": "19. f3. Nf6 20. Bd2. f4",
+    "chapter": 5,
+    "segment_id": "CH5-578",
+    "zh": "19. f3. Nf6 20. Bd2. f4"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "body",
+    "text": "The die is cast. The advance of the h and g-pawns will inevitably follow this pawn.",
+    "chapter": 5,
+    "segment_id": "CH5-579",
+    "zh": "模具已铸成。h和g-兵的前进将不可避免地跟随这个兵。"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "moves",
+    "text": "21. Qf1!",
+    "chapter": 5,
+    "segment_id": "CH5-580",
+    "zh": "21. Qf1!"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "body",
+    "text": "This modest retreat with the queen on one flank will secure control of an open line on the other.",
+    "chapter": 5,
+    "segment_id": "CH5-581",
+    "zh": "这种在一侧翼后的适度撤退将确保控制另一侧的开放战线。"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "moves",
+    "text": "21... g5",
+    "chapter": 5,
+    "segment_id": "CH5-582",
+    "zh": "21... g5"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "body",
+    "text": "Just as one would expect!",
+    "chapter": 5,
+    "segment_id": "CH5-583",
+    "zh": "正如人们所期望的那样！"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "moves",
+    "text": "22. Rxa8. Rxa8 23. Ra1. Rxa1 24. Qxa1. Qc8",
+    "chapter": 5,
+    "page_end": 174,
+    "segment_id": "CH5-584",
+    "zh": "22. Rxa8. Rxa8 23. Ra1. Rxa1 24. Qxa1. Qc8"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "body",
+    "text": "He cannot allow the White queen into a8. On 24... g4, for example, follows 25. Qa8+ Ne8?",
+    "chapter": 5,
+    "segment_id": "CH5-585",
+    "zh": "他不能允许白方后进入a8。例如，在 24... g4 之后是 25. Qa8+ Ne8?"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "moves",
+    "text": "(25... Qe8 26. Nxc7) 26. Nxc7 and",
+    "chapter": 5,
+    "segment_id": "CH5-586",
+    "zh": "(25... Qe8 26. Nxc7) 26. Nxc7 and"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "body",
+    "text": "wins.",
+    "chapter": 5,
+    "segment_id": "CH5-587",
+    "zh": "获胜。"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "moves",
+    "text": "25. Qa7. Ne8 26. b4. Bf8",
+    "chapter": 5,
+    "segment_id": "CH5-588",
+    "zh": "25. Qa7. Ne8 26. b4. Bf8"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "body",
+    "text": "As if preventing the break c5, which actually is dangerous.",
+    "chapter": 5,
+    "segment_id": "CH5-589",
+    "zh": "就好像防止断裂c5一样，这实际上是危险的。"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "moves",
+    "text": "27. Bc3",
+    "chapter": 5,
+    "segment_id": "CH5-590",
+    "zh": "27. Bc3"
+  },
+  {
+    "page": 174,
+    "side": "right",
+    "kind": "body",
+    "text": "An unsuccessful attempt to renew the threat (c5), which Black, making another very useful move, now prevents once and for all. Meanwhile it is entirely unnecessary to prepare the move 27. c5. We take a look at how events would develop in this case: 27...",
+    "chapter": 5,
+    "page_end": 175,
+    "segment_id": "CH5-591",
+    "zh": "更新威胁的不成功尝试（c5），黑方做出了另一个非常有用的举动，现在一劳永逸地阻止了这一行动。同时完全没有必要准备第27步c5。我们来看看这种情况下事件会如何发展：27..."
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "moves",
+    "text": "dxc5 28. Qa1! Bd6 (28... Bg7 29. bxc5. bxc5 30. Bc3. Qd7 31. Na7. Qd6 32. Nc6, and the e5 pawn",
+    "chapter": 5,
+    "page_end": 175,
+    "segment_id": "CH5-592",
+    "zh": "dxc5 28. Qa1! Bd6 (28... Bg7 29. bxc5。bxc5 30. Bc3. Qd7 31. Na7. Qd6 32. Nc6，以及e5 兵"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "body",
+    "text": "perishes all the same) 31. bxc5",
+    "chapter": 5,
+    "segment_id": "CH5-593",
+    "zh": "还是一样灭亡）31. bxc5"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "moves",
+    "text": "Bxc5+ 32. Kf1. Bd6 32. Bc3, winn-",
+    "chapter": 5,
+    "segment_id": "CH5-594",
+    "zh": "Bxc5+ 32. Kf1. Bd6 32. Bc3， winn-"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "body",
+    "text": "ing the e5 pawn and obtaining a clear positional advantage.",
+    "chapter": 5,
+    "segment_id": "CH5-595",
+    "zh": "并取得明显的区位优势。"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "body",
+    "text": "After failing to exploit this moment, White already proves unable to strengthen his position on the queen's flank, whereas after the forced pause the opponent's pawns on the king's flank once again threaten to make themselves felt.",
+    "chapter": 5,
+    "segment_id": "CH5-596",
+    "zh": "在未能利用这一时刻后，白方已经证明无法加强他在后翼上的位置，而在强制暂停后，对手在王翼上的兵再次威胁要让自己感受到。"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "moves",
+    "text": "27... Qd7! 28 Bel",
+    "chapter": 5,
+    "segment_id": "CH5-597",
+    "zh": "27... Qd7! 28 贝尔"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "body",
+    "text": "He should think about neutralising the threatening pawn charge",
+    "chapter": 5,
+    "segment_id": "CH5-598",
+    "zh": "他应该考虑消除威胁性的兵指控"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "moves",
+    "text": "and play 28. g4; if 28... fxg4, then 29. hxg3. Qh3 30. Be1. g4 31. Qa3. It",
+    "chapter": 5,
+    "page_end": 175,
+    "segment_id": "CH5-599",
+    "zh": "并播放28. g4；如果 28... fxg4，则 29. hxg3. Qh3 30. Be1. g4 31. Qa3。它"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "body",
+    "text": "is difficult to say which side has the advantage here. There are weaknesses for both sides in the position, for Black in the first place the c7 point, for White - e4 (after",
+    "chapter": 5,
+    "page_end": 175,
+    "segment_id": "CH5-600",
+    "zh": "这里很难说哪一方更有优势。双方的局面都有弱点，黑方首先是 c7 点，白方 - e4（之后"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "moves",
+    "text": "31. gxf3). 28... Kg8 29. h3 Or 29. Bf2. g4 30. Bxb6. gxf3 and",
+    "chapter": 5,
+    "page_end": 175,
+    "segment_id": "CH5-601",
+    "zh": "31. gxf3). 28... Kg8 29. h3 Or 29. Bf2. g4 30. Bxb6. gxf3 and"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "body",
+    "text": "he cannot take on f3 due to 31...",
+    "chapter": 5,
+    "segment_id": "CH5-602",
+    "zh": "由于 31... 他无法接受 f3"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "moves",
+    "text": "Qg7+ and then ... cxb6. 29... h5",
+    "chapter": 5,
+    "page_end": 175,
+    "segment_id": "CH5-603",
+    "zh": "Qg7+然后...cxb6。29... h5"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "body",
+    "text": "The storm is in full swing, the crossing of the frontier by ... g4 is unstoppable.",
+    "chapter": 5,
+    "segment_id": "CH5-604",
+    "zh": "风暴如火如荼，...g4穿越边境势不可挡。"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "moves",
+    "text": "30. Bf2",
+    "chapter": 5,
+    "segment_id": "CH5-605",
+    "zh": "30. Bf2"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "body",
+    "text": "(see diagram top of next column)",
+    "chapter": 5,
+    "segment_id": "CH5-606",
+    "zh": "（参见下一栏顶部的图表）"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "body",
+    "text": "Threatening Bxb6.",
+    "chapter": 5,
+    "segment_id": "CH5-607",
+    "zh": "威胁Bxb6。"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "moves",
+    "text": "30... g4!",
+    "chapter": 5,
+    "segment_id": "CH5-608",
+    "zh": "30... g4!"
+  },
+  {
+    "page": 175,
+    "side": "left",
+    "kind": "body",
+    "text": "This storming move turns out to be possible and highly unpleasant for White. If now 31. Bxb6, then",
+    "chapter": 5,
+    "segment_id": "CH5-609",
+    "zh": "事实证明，这种猛烈的举动是可能的，但对白方来说却是非常不愉快的。如果现在是 31. Bxb6，那么"
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "moves",
+    "text": "31... gxf3 32. Nxc7. Qg7 33. g4. hxg4 (33... fxg3 is also g0od) 34. Nxe8. Qg6 35. Nf6+ Qxf6 36. hxg4. Qh4 37. Qa2. Qe1+38Kh2",
+    "chapter": 5,
+    "page_end": 175,
+    "segment_id": "CH5-610",
+    "zh": "31... gxf3 32. Nxc7. Qg7 33. g4. hxg4（33... fxg3 也是 g0od）34. Nxe8。Qg6 35. Nf6+ Qxf6 36. hxg4. Qh4 37. Qa2. Qe1+38Kh2"
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "body",
+    "text": "Qxe4.",
+    "chapter": 5,
+    "segment_id": "CH5-611",
+    "zh": "Qxe4."
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "moves",
+    "text": "31. hxg4. hxg4 32. Kf1?",
+    "chapter": 5,
+    "segment_id": "CH5-612",
+    "zh": "31. hxg4. hxg4 32. Kf1?"
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "body",
+    "text": "It was necessary to play 32. Bxb6 gxf3 33. Ba5! in order to make way for the queen to f2. However, Black also retains the better chances here, for example 33...",
+    "chapter": 5,
+    "segment_id": "CH5-613",
+    "zh": "必须演奏 32. Bxb6. gxf3 33. Ba5! 才能为后到 f2 让路。然而，黑方在这里也保留了更好的机会，例如 33..."
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "moves",
+    "text": "fxg2 34. Qf2. Be7 35. Qxg2+ Kf7,",
+    "chapter": 5,
+    "segment_id": "CH5-614",
+    "zh": "fxg2 34. Qf2. Be7 35. Qxg2+ Kf7,"
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "body",
+    "text": "White's bishop on a5 is badly placed; Black threatens to activate his game after ... Bh4-g3.",
+    "chapter": 5,
+    "segment_id": "CH5-615",
+    "zh": "白方 a5 上的象位置不佳；黑方威胁要在... Bh4-g3之后启动他的对局。"
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "moves",
+    "text": "32... Qh7!",
+    "chapter": 5,
+    "segment_id": "CH5-616",
+    "zh": "32... Qh7!"
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "body",
+    "text": "The strongest continuation of the attack! Qh1+ is threatened, which follows (only without check) also on 33. Ke2.The defence 33. Bg1 is better than the others, but also insufficient. Then",
+    "chapter": 5,
+    "segment_id": "CH5-617",
+    "zh": "最强【后续手段攻击！Qh1+ 受到威胁，紧随其后（仅不检查）也在 33. Ke2 上。防御 33. Bg1 比其他人好，但也不足。然后"
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "moves",
+    "text": "33... gxf3 34. gxf3. Qh1 35. Qa3. Nf6 and if 36. Nxc7, then 36...",
+    "chapter": 5,
+    "page_end": 175,
+    "segment_id": "CH5-618",
+    "zh": "33... gxf3 34. gxf3. Qh1 35. Qa3. Nf6 且如果 36. Nxc7，则 36..."
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "body",
+    "text": "Qh3+ followed by ... Nxe4.",
+    "chapter": 5,
+    "segment_id": "CH5-619",
+    "zh": "Qh3+ 后跟...Nxe4。"
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "moves",
+    "text": "33. Qa3. Nf6 34. Ke2. Qh1!",
+    "chapter": 5,
+    "segment_id": "CH5-620",
+    "zh": "33. Qa3. Nf6 34. Ke2. Qh1!"
+  },
+  {
+    "page": 175,
+    "side": "right",
+    "kind": "body",
+    "text": "The tempting 34... Nxe4 would justify itself only in the event of the sacrifice being accepted. How. ever, White would have replied",
+    "chapter": 5,
+    "segment_id": "CH5-621",
+    "zh": "诱人的 34... Nxe4 只有在弃子被接受的情况下才会证明自己是合理的。怎么样。曾经，白方会回答"
+  },
+  {
+    "page": 176,
+    "side": "left",
+    "kind": "body",
+    "text": "35. Qd3 and after 35... Nxf2 36",
+    "chapter": 5,
+    "segment_id": "CH5-622",
+    "zh": "35. Qd3 及之后 35... Nxf2 36"
+  },
+  {
+    "page": 176,
+    "side": "left",
+    "kind": "moves",
+    "text": "Qxh7+ Kxh7 37. Kxf2. g3+ 38. Ke2. Kg6 39. Nxc7. Be7 40. Nb5. Kf5 41",
+    "chapter": 5,
+    "page_end": 176,
+    "segment_id": "CH5-623",
+    "zh": "Qxh7+ Kxh7 37. Kxf2. g3+ 38. Ke2. Kg6 39. Nxc7. Be7 40. Nb5. Kf5 41"
+  },
+  {
+    "page": 176,
+    "side": "left",
+    "kind": "body",
+    "text": "Nc3 followed by Ne4 would probably even win the game.",
+    "chapter": 5,
+    "segment_id": "CH5-624",
+    "zh": "Nc3 紧随其后的 Ne4 甚至可能会赢得对局。"
+  },
+  {
+    "page": 176,
+    "side": "left",
+    "kind": "moves",
+    "text": "35. fxg4. Nxe4 36. Qh3. Qb1",
+    "chapter": 5,
+    "segment_id": "CH5-625",
+    "zh": "35. fxg4. Nxe4 36. Qh3. Qb1"
+  },
+  {
+    "page": 176,
+    "side": "left",
+    "kind": "body",
+    "text": "Threatens mate in three moves.",
+    "chapter": 5,
+    "segment_id": "CH5-626",
+    "zh": "威胁三步杀。"
+  },
+  {
+    "page": 176,
+    "side": "left",
+    "kind": "moves",
+    "text": "37. Be1. Qc2+ 38. Kf1. Qxc4+ 39. Kg1. Qxb5 40. Qh5. Bg7 41. Qf5",
+    "chapter": 5,
+    "page_end": 176,
+    "segment_id": "CH5-627",
+    "zh": "37. Be1. Qc2+ 38. Kf1. Qxc4+ 39. Kg1. Qxb5 40. Qh5. Bg7 41. Qf5"
+  },
+  {
+    "page": 176,
+    "side": "left",
+    "kind": "body",
+    "text": "Qxd5 0-1 After all three Black pawns on the king's flank went into action, White's defence became difficult.",
+    "chapter": 5,
+    "page_end": 176,
+    "segment_id": "CH5-628",
+    "zh": "Qxd5 0-1 王翼上的三黑兵全部行动后，白方的防守变得困难。"
+  },
+  {
+    "page": 176,
+    "side": "left",
+    "kind": "body",
+    "text": "With this we conclude our look at the theme about pawns as an attacking force. It remains to note that, despite the extensive amount of material presented in this chapter and partly also in other sections of the book, the question about the active role of pawns in no way can be considered as exhausted. We came across it once again in the final chapters and particularly in the second part of the work, where we give special consideration to the combinational role of pawns.",
+    "chapter": 5,
+    "page_end": 176,
+    "segment_id": "CH5-629",
+    "zh": "至此，我们总结了将兵作为攻击力量的主题。仍然需要注意的是，尽管本章和本书其他部分提供了大量材料，但关于兵积极作用的问题决不能被认为是详尽无遗的。我们在最后几章中再次遇到它，特别是在工作的第二部分中，我们特别考虑了兵的组合作用。"
+  }
+]

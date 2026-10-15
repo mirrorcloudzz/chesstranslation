@@ -1,0 +1,70 @@
+{
+  "pdf_page": 79,
+  "printed_page": 79,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        738.8,
+        123.5,
+        1034.0,
+        173.4
+      ],
+      "text": "Matingpatterns",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        1489.8,
+        117.3,
+        1542.5,
+        165.9
+      ],
+      "text": "79",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        257.3,
+        268.2,
+        1538.8,
+        315.6
+      ],
+      "text": "For this mate the attacker needs three minor pieces (two bishops and a knight)",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        219.3,
+        320.6,
+        1019.3,
+        369.3
+      ],
+      "text": "and usually a queen as well, which is sacrificed.",
+      "confidence": 0.9809
+    },
+    {
+      "bbox": [
+        254.8,
+        365.5,
+        1540.0,
+        419.2
+      ],
+      "text": "1 Wh1 h5 2 Wxh5! gxh5 3 &h7#. This mating pattern is named after Black-",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        219.3,
+        425.4,
+        956.8,
+        466.6
+      ],
+      "text": "burne, who was the first to mate in this way.",
+      "confidence": 0.9978
+    }
+  ]
+}

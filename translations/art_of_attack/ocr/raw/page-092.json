@@ -1,0 +1,310 @@
+{
+  "pdf_page": 92,
+  "printed_page": 92,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        227.9,
+        128.5,
+        281.8,
+        174.6
+      ],
+      "text": "92",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        659.1,
+        129.7,
+        1159.0,
+        174.6
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9698
+    },
+    {
+      "bbox": [
+        659.1,
+        310.6,
+        691.0,
+        345.6
+      ],
+      "text": "工",
+      "confidence": 0.5817
+    },
+    {
+      "bbox": [
+        564.8,
+        381.7,
+        597.9,
+        414.2
+      ],
+      "text": "W",
+      "confidence": 0.9487
+    },
+    {
+      "bbox": [
+        275.7,
+        880.7,
+        619.9,
+        918.1
+      ],
+      "text": "5 f8+ d7 6 f7+",
+      "confidence": 0.957
+    },
+    {
+      "bbox": [
+        270.8,
+        928.1,
+        1552.3,
+        975.5
+      ],
+      "text": "If 6 Wf7+, then 6...ge7, while 6 Ωe6+ is answered by 6...xe6! 7 xa8",
+      "confidence": 0.9728
+    },
+    {
+      "bbox": [
+        230.3,
+        976.8,
+        1549.8,
+        1026.7
+      ],
+      "text": "f6! 8 xh8 Wh2+ 9 f1 Wh1+ 10 e2 g4 and wins. Lastly, 6 Wd3+ is sim-",
+      "confidence": 0.9785
+    },
+    {
+      "bbox": [
+        227.9,
+        1027.9,
+        559.9,
+        1077.8
+      ],
+      "text": "ply met by 6...d4.",
+      "confidence": 0.95
+    },
+    {
+      "bbox": [
+        270.8,
+        1080.3,
+        1552.3,
+        1127.7
+      ],
+      "text": "6...ge7 7 We3 af8 and Black wins easily, for example after 8 f1 xf7+ 9",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        230.3,
+        1130.2,
+        410.4,
+        1172.6
+      ],
+      "text": "xf7 f8.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        270.8,
+        1233.8,
+        1551.0,
+        1278.7
+      ],
+      "text": "For our final example in this section let us examine the main line of the Moller",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        229.1,
+        1282.4,
+        1553.5,
+        1329.8
+      ],
+      "text": "Attack in the Giuoco Piano. In this White's attack, involving the sacrifice of a",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        225.4,
+        1333.6,
+        1355.0,
+        1381.0
+      ],
+      "text": "knight on h7, is so strong -- or weak - that the game ends in a draw.",
+      "confidence": 0.9731
+    },
+    {
+      "bbox": [
+        267.1,
+        1382.2,
+        1551.0,
+        1427.1
+      ],
+      "text": "1 e4 e5 2 f3 c6 3 皇c4 皇c5 4 c3 f6 5 d4 exd4 6 cxd4 b4+ 7 c3 xe4",
+      "confidence": 0.8999
+    },
+    {
+      "bbox": [
+        225.4,
+        1433.4,
+        512.1,
+        1474.5
+      ],
+      "text": "8 0-0 xc3 9 d5",
+      "confidence": 0.9362
+    },
+    {
+      "bbox": [
+        268.3,
+        1483.3,
+        1551.0,
+        1534.4
+      ],
+      "text": "Moller's strengthening of the attack; 9 bxc3 used to be played, whereupon",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        225.4,
+        1535.6,
+        861.3,
+        1579.3
+      ],
+      "text": "Black obtains the advantage by 9...d5.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        270.8,
+        1584.3,
+        414.1,
+        1626.7
+      ],
+      "text": "9....f6!",
+      "confidence": 0.915
+    },
+    {
+      "bbox": [
+        268.3,
+        1634.2,
+        519.5,
+        1684.1
+      ],
+      "text": "The best reply.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        270.8,
+        1684.1,
+        688.5,
+        1727.8
+      ],
+      "text": "10 e1 e7 11 xe4 d6",
+      "confidence": 0.9588
+    },
+    {
+      "bbox": [
+        269.5,
+        1736.5,
+        1342.8,
+        1785.1
+      ],
+      "text": "If 11...0-0, then 12 d6 is reckoned to give White good prospects.",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        269.5,
+        1782.6,
+        1537.6,
+        1837.5
+      ],
+      "text": "12 Ωg5 xg5 13 xg5 0-0' 14 ②xh7 xh7 15 Wh5+ g8 16 h4 f5 (D)",
+      "confidence": 0.9429
+    },
+    {
+      "bbox": [
+        265.9,
+        1836.3,
+        1551.0,
+        1891.2
+      ],
+      "text": "Instead of 16...f5 Bogoljubow suggested and experimented with 16...f6,",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        225.4,
+        1887.4,
+        509.7,
+        1932.3
+      ],
+      "text": "which is weaker.",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        265.9,
+        1938.6,
+        1552.3,
+        1988.5
+      ],
+      "text": "In the position after 16...f5, White must try to justify the sacrifice of the",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        225.4,
+        1991.0,
+        1555.9,
+        2034.6
+      ],
+      "text": "knight. Admittedly, he controls the square h7, but, at the same time, he cannot",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        221.8,
+        2039.6,
+        1554.7,
+        2090.8
+      ],
+      "text": "prevent the black king from escaping via f7 when it is checked. If the game is",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        224.2,
+        2092.0,
+        1551.0,
+        2136.9
+      ],
+      "text": "continued correctly, White can only obtain perpetual check, not mate. Both 17",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        229.1,
+        2200.6,
+        249.9,
+        2225.5
+      ],
+      "text": "1",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        306.3,
+        2194.3,
+        1542.5,
+        2241.7
+      ],
+      "text": "Current theory reckons 13...h6 to be best, when White is struggling for equality.",
+      "confidence": 0.9957
+    }
+  ]
+}

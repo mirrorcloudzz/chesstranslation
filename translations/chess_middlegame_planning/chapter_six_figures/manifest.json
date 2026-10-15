@@ -1,0 +1,212 @@
+[
+  {
+    "figure": 1,
+    "source_pdf_page": 179,
+    "source_print_page": 177,
+    "crop_reference_1304x1920": [
+      142,
+      466,
+      541,
+      858
+    ],
+    "anchor": "13.0",
+    "caption": "施莱希特（白）对拉斯克（黑），白方行棋",
+    "image": "figure-01.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 2,
+    "source_pdf_page": 181,
+    "source_print_page": 179,
+    "crop_reference_1304x1920": [
+      143,
+      883,
+      542,
+      1276
+    ],
+    "anchor": "49.0",
+    "caption": "黑方走完38... Qc4后的局面",
+    "image": "figure-02.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 3,
+    "source_pdf_page": 182,
+    "source_print_page": 180,
+    "crop_reference_1304x1920": [
+      749,
+      80,
+      1149,
+      473
+    ],
+    "anchor": "86.0",
+    "caption": "白方走完54. Kg2后的局面",
+    "image": "figure-03.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 4,
+    "source_pdf_page": 183,
+    "source_print_page": 181,
+    "crop_reference_1304x1920": [
+      139,
+      797,
+      540,
+      1189
+    ],
+    "anchor": "97.0",
+    "caption": "拉斯克（白）对皮尔斯伯里（黑），白方行棋",
+    "image": "figure-04.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 5,
+    "source_pdf_page": 184,
+    "source_print_page": 182,
+    "crop_reference_1304x1920": [
+      144,
+      920,
+      543,
+      1313
+    ],
+    "anchor": "113.0",
+    "caption": "白方走完29. h3后的局面",
+    "image": "figure-05.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 6,
+    "source_pdf_page": 185,
+    "source_print_page": 183,
+    "crop_reference_1304x1920": [
+      752,
+      939,
+      1152,
+      1332
+    ],
+    "anchor": "136.0",
+    "caption": "尤伟（白）对阿廖欣（黑），白方行棋",
+    "image": "figure-06.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 7,
+    "source_pdf_page": 186,
+    "source_print_page": 184,
+    "crop_reference_1304x1920": [
+      749,
+      1220,
+      1148,
+      1612
+    ],
+    "anchor": "151.0",
+    "caption": "罗曼诺夫斯基（白）对斯塔尔贝里（黑），白方行棋",
+    "image": "figure-07.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 8,
+    "source_pdf_page": 188,
+    "source_print_page": 186,
+    "crop_reference_1304x1920": [
+      144,
+      917,
+      549,
+      1314
+    ],
+    "anchor": "160.0",
+    "caption": "黑方走完39... Kg6后的局面",
+    "image": "figure-08.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 9,
+    "source_pdf_page": 189,
+    "source_print_page": 187,
+    "crop_reference_1304x1920": [
+      139,
+      89,
+      540,
+      483
+    ],
+    "anchor": "170.0",
+    "caption": "黑方走完43... Kf8后的局面",
+    "image": "figure-09.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 10,
+    "source_pdf_page": 189,
+    "source_print_page": 187,
+    "crop_reference_1304x1920": [
+      763,
+      1221,
+      1163,
+      1617
+    ],
+    "anchor": "192.0",
+    "caption": "白方走完47. Ra8+后的局面",
+    "image": "figure-10.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 11,
+    "source_pdf_page": 192,
+    "source_print_page": 190,
+    "crop_reference_1304x1920": [
+      139,
+      432,
+      540,
+      826
+    ],
+    "anchor": "241.0",
+    "caption": "黑方走完30... Qd3后的局面",
+    "image": "figure-11.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 12,
+    "source_pdf_page": 192,
+    "source_print_page": 190,
+    "crop_reference_1304x1920": [
+      753,
+      850,
+      1157,
+      1246
+    ],
+    "anchor": "250.0",
+    "caption": "黑方走完36... Rb7后的局面",
+    "image": "figure-12.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 13,
+    "source_pdf_page": 193,
+    "source_print_page": 191,
+    "crop_reference_1304x1920": [
+      762,
+      101,
+      1162,
+      496
+    ],
+    "anchor": "268.0",
+    "caption": "黑方走完47... Ka6后的局面",
+    "image": "figure-13.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 14,
+    "source_pdf_page": 194,
+    "source_print_page": 192,
+    "crop_reference_1304x1920": [
+      141,
+      268,
+      544,
+      662
+    ],
+    "anchor": "279.0",
+    "caption": "黑方走完49... Ka5后的局面",
+    "image": "figure-14.png",
+    "status": "checked_against_source"
+  }
+]

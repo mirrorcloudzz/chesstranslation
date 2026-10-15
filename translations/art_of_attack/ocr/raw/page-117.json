@@ -1,0 +1,310 @@
+{
+  "pdf_page": 117,
+  "printed_page": 117,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        784.1,
+        128.5,
+        1013.2,
+        177.1
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        1480.0,
+        128.5,
+        1555.9,
+        174.6
+      ],
+      "text": "117",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        532.9,
+        378.0,
+        562.3,
+        415.4
+      ],
+      "text": "B",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        224.2,
+        878.2,
+        1548.6,
+        925.6
+      ],
+      "text": "exchanging queens and without relinquishing the d8-h4 diagonal to White. Cor-",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        221.8,
+        924.4,
+        1393.0,
+        975.5
+      ],
+      "text": "rect, therefore, was 9...2d7 10 e2 e7! 11 0-0 f5 12 Wg3 f6, etc.",
+      "confidence": 0.969
+    },
+    {
+      "bbox": [
+        270.8,
+        976.8,
+        698.3,
+        1020.4
+      ],
+      "text": "10 e2 c6 11 Ωh6 f5?",
+      "confidence": 0.9252
+    },
+    {
+      "bbox": [
+        270.8,
+        1032.9,
+        1302.3,
+        1074.1
+      ],
+      "text": "Black should have played 11...e8. At this point ...f5 is weak.",
+      "confidence": 0.9738
+    },
+    {
+      "bbox": [
+        269.5,
+        1077.8,
+        420.2,
+        1125.2
+      ],
+      "text": "12 g5!",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        267.1,
+        1130.2,
+        1546.1,
+        1180.1
+      ],
+      "text": "By exchanging queens White could have obtained the better endgame pros-",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        221.8,
+        1180.1,
+        1549.8,
+        1232.5
+      ],
+      "text": "pects. However, why should he play for an endgame when he has the opportunity",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        223.0,
+        1232.5,
+        1552.3,
+        1279.9
+      ],
+      "text": "to gain control of the diagonal h4-d8, thereby obtaining the necessary conditions",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        221.8,
+        1281.2,
+        1478.7,
+        1329.8
+      ],
+      "text": "for an attack on the castled king based on a network of weak dark squares?",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        268.3,
+        1329.8,
+        430.0,
+        1372.2
+      ],
+      "text": "12...Wb6",
+      "confidence": 0.9142
+    },
+    {
+      "bbox": [
+        267.1,
+        1382.2,
+        1551.0,
+        1428.4
+      ],
+      "text": "The diagonal cannot be defended: if 12...e7, then 13 xe7 xe7 14 dxc5",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        221.8,
+        1424.6,
+        1522.9,
+        1485.7
+      ],
+      "text": "Wxd3 15 Wxe7 while 12..f6 13 c4+ h8 14 h6 is equally unacceptable'.",
+      "confidence": 0.9624
+    },
+    {
+      "bbox": [
+        268.3,
+        1480.8,
+        687.3,
+        1528.2
+      ],
+      "text": "13 0-0 cxd4 14 cxd4 (D)",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        268.3,
+        1531.9,
+        417.8,
+        1574.3
+      ],
+      "text": "14..e8",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        269.5,
+        1585.5,
+        1551.0,
+        1630.5
+      ],
+      "text": "Some commentators have marked this move out as the decisive mistake and",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        223.0,
+        1635.4,
+        1548.6,
+        1680.4
+      ],
+      "text": "have suggested 14..e6 (preventing c4), but this would make the win easier,",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        223.0,
+        1685.3,
+        1549.8,
+        1731.5
+      ],
+      "text": "e.g. 15 f6 fe8 (or 15...h5 16 Wg5 h7 17 d5 xd5 18 xf5) 16 f4! xd4",
+      "confidence": 0.9489
+    },
+    {
+      "bbox": [
+        225.4,
+        1737.7,
+        1551.0,
+        1782.6
+      ],
+      "text": "(precluding 17 d5; if 16...&xf4 17 Wxf4, Black will find himself unable to de-",
+      "confidence": 0.9695
+    },
+    {
+      "bbox": [
+        220.5,
+        1785.1,
+        1551.0,
+        1836.3
+      ],
+      "text": "fend the focal-point g7, having given up his dark-squared bishop) 17 h5 c6",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        221.8,
+        1832.5,
+        1548.6,
+        1887.4
+      ],
+      "text": "18 c3 Qe5 (18...e7 comes to the same) 19 f6+ xf6 20 皇xf6 h5 21 Wg5",
+      "confidence": 0.9602
+    },
+    {
+      "bbox": [
+        223.0,
+        1883.7,
+        1096.5,
+        1936.1
+      ],
+      "text": "h7 22 &e2 and White decides the game by xh5.",
+      "confidence": 0.9756
+    },
+    {
+      "bbox": [
+        264.6,
+        1938.6,
+        1552.3,
+        1987.2
+      ],
+      "text": "In this analysis, as in other phases of this game, it should be noted that a",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        224.2,
+        1989.7,
+        1548.6,
+        2037.1
+      ],
+      "text": "method has been used which we have already seen in the variations arising from",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        226.7,
+        2104.5,
+        247.5,
+        2129.4
+      ],
+      "text": "1",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        303.8,
+        2098.3,
+        1549.8,
+        2145.7
+      ],
+      "text": "It is hard to see why this latter line is unacceptable. Black may continue with",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        306.3,
+        2146.9,
+        1549.8,
+        2193.1
+      ],
+      "text": "14...e8, threatening 15...e4, and thanks to the move ...f6 Black's kingside",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        303.8,
+        2194.3,
+        896.8,
+        2244.2
+      ],
+      "text": "dark squares are not especially weak.",
+      "confidence": 0.9767
+    }
+  ]
+}

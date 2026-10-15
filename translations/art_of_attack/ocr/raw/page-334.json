@@ -1,0 +1,350 @@
+{
+  "pdf_page": 334,
+  "printed_page": 334,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "12 The attack on the king as an",
+      "bbox": [
+        199.0,
+        300.0,
+        1432.0,
+        377.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "integral part of the game",
+      "bbox": [
+        335.0,
+        400.0,
+        1304.0,
+        481.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "We have examined the various aspects of the attack on the castled king and have",
+      "bbox": [
+        193.0,
+        633.0,
+        1513.0,
+        674.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "covered each topic on the basis of present-day knowledge of the art of chess. This",
+      "bbox": [
+        194.0,
+        683.0,
+        1513.0,
+        726.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "material has been presented with all the difficulties and deficiencies of a pioneer,",
+      "bbox": [
+        194.0,
+        734.0,
+        1512.0,
+        776.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "but with the joy of a discoverer who has seen in new knowledge a confirmation of",
+      "bbox": [
+        194.0,
+        784.0,
+        1517.0,
+        827.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "his faith in the values of chess and his own general theory of the game. The atten-",
+      "bbox": [
+        194.0,
+        835.0,
+        1513.0,
+        875.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tive reader who has battled his way with the writer from chapter to chapter will",
+      "bbox": [
+        194.0,
+        885.0,
+        1514.0,
+        926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have observed the steady widening of the problem of the attack on the king; we",
+      "bbox": [
+        194.0,
+        936.0,
+        1514.0,
+        977.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "began with the basic techniques of combination and have progressed to the kind",
+      "bbox": [
+        195.0,
+        986.0,
+        1515.0,
+        1029.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of understanding which characterizes mastery of the game. The logical path we",
+      "bbox": [
+        195.0,
+        1037.0,
+        1515.0,
+        1079.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have taken has justified its call for a high degree of effort in return for new knowl-",
+      "bbox": [
+        195.0,
+        1088.0,
+        1514.0,
+        1129.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "edge; its purpose is to show us the significance of the attack on the castled king in",
+      "bbox": [
+        195.0,
+        1138.0,
+        1515.0,
+        1180.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the full context of a game of chess. From our examination of the defence against",
+      "bbox": [
+        195.0,
+        1189.0,
+        1516.0,
+        1229.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a kingside attack and of the phases of such an attack, it has become clear that a",
+      "bbox": [
+        196.0,
+        1239.0,
+        1516.0,
+        1280.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "correct attack is conditioned by the situation on all parts of the board and also by",
+      "bbox": [
+        195.0,
+        1290.0,
+        1515.0,
+        1329.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "all that has happened in the earlier course of the game. An attack on the king is",
+      "bbox": [
+        196.0,
+        1340.0,
+        1515.0,
+        1380.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not some strange, exceptional, and daring operation like a grand slam in bridge.",
+      "bbox": [
+        196.0,
+        1390.0,
+        1514.0,
+        1430.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It is an action which is both logical and necessary; an action on which a player",
+      "bbox": [
+        196.0,
+        1441.0,
+        1516.0,
+        1480.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "decides at a certain stage of the game; sometimes, indeed, he must decide on it, if",
+      "bbox": [
+        195.0,
+        1491.0,
+        1519.0,
+        1532.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "his opponent is not to obtain an advantage or if the position is not to fizzle out",
+      "bbox": [
+        196.0,
+        1543.0,
+        1517.0,
+        1584.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "into a draw.",
+      "bbox": [
+        196.0,
+        1597.0,
+        387.0,
+        1626.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Lasker observed long ago that every action is essentially a diversion, a transi-",
+      "bbox": [
+        241.0,
+        1644.0,
+        1515.0,
+        1684.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion from equality to some spatial or temporal commitment. An attack on the",
+      "bbox": [
+        196.0,
+        1695.0,
+        1516.0,
+        1735.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king demands a very large diversion both in terms of the number of pieces in-",
+      "bbox": [
+        196.0,
+        1746.0,
+        1515.0,
+        1785.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "volved and of the degree of commitment arising out of any pawn moves it entails.",
+      "bbox": [
+        197.0,
+        1796.0,
+        1515.0,
+        1836.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A considerable diversion of this kind also logically needs a considerable number",
+      "bbox": [
+        196.0,
+        1847.0,
+        1517.0,
+        1885.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of preconditions, as well as a knowledge of how these conditions are interrelated.",
+      "bbox": [
+        197.0,
+        1898.0,
+        1515.0,
+        1937.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It follows, therefore, that the attack on the castled king is an extremely difficult",
+      "bbox": [
+        197.0,
+        1949.0,
+        1518.0,
+        1987.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "operation, which is based on a perfect mastery of all the forms of chess tech-",
+      "bbox": [
+        197.0,
+        1999.0,
+        1516.0,
+        2039.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "nique. Even in the early stages of the opening the first seeds of the preconditions",
+      "bbox": [
+        197.0,
+        2050.0,
+        1517.0,
+        2089.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for an attack on the king are already being sown, and the tense struggle for the",
+      "bbox": [
+        197.0,
+        2100.0,
+        1517.0,
+        2139.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "central squares is tightly bound up with the successful outcome of the attack or",
+      "bbox": [
+        197.0,
+        2151.0,
+        1519.0,
+        2190.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "defence. The characteristic features of a position, the weaknesses on both sides,",
+      "bbox": [
+        197.0,
+        2201.0,
+        1517.0,
+        2239.0
+      ],
+      "confidence": null
+    }
+  ]
+}

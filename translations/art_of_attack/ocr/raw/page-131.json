@@ -1,0 +1,400 @@
+{
+  "pdf_page": 131,
+  "printed_page": 131,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        639.5,
+        136.0,
+        1143.1,
+        177.1
+      ],
+      "text": "The classic bishop sacrifice",
+      "confidence": 0.9659
+    },
+    {
+      "bbox": [
+        1471.4,
+        128.5,
+        1549.8,
+        174.6
+      ],
+      "text": "131",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        267.1,
+        275.7,
+        1548.6,
+        329.3
+      ],
+      "text": "As can be seen, the principal supporting pieces are the pawn at e5 and the",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        225.4,
+        328.1,
+        1546.1,
+        376.7
+      ],
+      "text": "bishop on the diagonal c1-f4, followed by the knight on d2 or c3 and the rook on",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        223.0,
+        380.5,
+        1546.1,
+        426.6
+      ],
+      "text": "the open e-file. There may be a few other such supporting pieces (e.g. a rook on",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        221.8,
+        429.1,
+        1546.1,
+        476.5
+      ],
+      "text": "f1, if the f-file is open) which have not been provided with examples, but the",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        220.5,
+        479.0,
+        1544.9,
+        527.7
+      ],
+      "text": "reader will already have seen the basic idea -- as a rule at least two active support-",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        223.0,
+        530.2,
+        1544.9,
+        580.1
+      ],
+      "text": "ing pieces are necessary, if the classic bishop sacrifice is to bring the attacker",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        225.4,
+        592.6,
+        361.4,
+        626.2
+      ],
+      "text": "success.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        265.9,
+        631.2,
+        1543.7,
+        678.6
+      ],
+      "text": "This is a simple practical criterion and should help the player to get his ap-",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        225.4,
+        678.6,
+        1547.4,
+        729.8
+      ],
+      "text": "proximate bearings. To make this survey of the sacrifice and the structure of its",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        226.7,
+        729.8,
+        1547.4,
+        775.9
+      ],
+      "text": "necessary conditions as clear as possible, White has been made the attacker in all",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        225.4,
+        779.7,
+        1547.4,
+        827.1
+      ],
+      "text": "the examples; if Black carries out a sacrificial attack on h2, naturally all that has",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        223.0,
+        833.3,
+        730.2,
+        882.0
+      ],
+      "text": "been said applies analogously.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        265.9,
+        880.7,
+        1547.4,
+        928.1
+      ],
+      "text": "To provide further material on the classic bishop sacrifice three master games",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        226.7,
+        931.9,
+        1547.4,
+        978.0
+      ],
+      "text": "will now be examined. The first belongs to the post-war era and provides an ex-",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        224.2,
+        981.8,
+        1548.6,
+        1031.7
+      ],
+      "text": "ample where the sacrifice is quite correct. In the second the young Capablanca",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        224.2,
+        1032.9,
+        1548.6,
+        1079.1
+      ],
+      "text": "sacrifices on h7, but the analysis shows the existence of a loophole in the varia-",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        221.8,
+        1080.3,
+        1551.0,
+        1131.5
+      ],
+      "text": "tion with ...g6 which his opponent failed to notice. In the third, Colle sacrifices",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        224.2,
+        1132.7,
+        1548.6,
+        1181.4
+      ],
+      "text": "and wins both the game and the Brilliancy Prize, even though in fact two of the",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        229.1,
+        1187.6,
+        618.7,
+        1227.5
+      ],
+      "text": "variations are unsound!",
+      "confidence": 0.9823
+    },
+    {
+      "bbox": [
+        708.1,
+        1283.7,
+        1063.4,
+        1327.3
+      ],
+      "text": "Kottnauer - Kotov",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        537.8,
+        1334.8,
+        1236.2,
+        1381.0
+      ],
+      "text": "Match, Prague vs Moscow, Moscow 1946",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        501.1,
+        1387.2,
+        1274.1,
+        1432.1
+      ],
+      "text": "Queen's Gambit Declined, Semi-Slav Defence",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        225.4,
+        1483.3,
+        1547.4,
+        1529.4
+      ],
+      "text": "1 c4 e6 2 d4 d5 3 2c3 c6 4 2f3 2f6 5 e3 bd7 6 .d3 dxc4 7 xc4 b5 8 Qd3",
+      "confidence": 0.9376
+    },
+    {
+      "bbox": [
+        226.7,
+        1539.4,
+        855.1,
+        1578.1
+      ],
+      "text": "a6 9 e4 c5 10 e5 cxd4 11 xb5 axb5",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        269.5,
+        1586.8,
+        1552.3,
+        1635.4
+      ],
+      "text": "Nowadays 11...xe5 is more commonly played and analysed. 11...g4 is not",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        226.7,
+        1636.7,
+        1525.3,
+        1686.6
+      ],
+      "text": "so good because of 12 bxd4 gxe5 13 Qe4 when White has the advantage.",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        269.5,
+        1687.8,
+        629.7,
+        1734.0
+      ],
+      "text": "12 exf6 Wb6 13 fxg7",
+      "confidence": 0.9729
+    },
+    {
+      "bbox": [
+        269.5,
+        1740.2,
+        1549.8,
+        1785.1
+      ],
+      "text": "The incisive quality of this variation is rapidly lost if White continues 13 0-0",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        225.4,
+        1787.6,
+        1548.6,
+        1838.8
+      ],
+      "text": "gxf6 14 Qe4 b7 15 xb7 Wxb7 16 xd4 g8 17 Wf3. Black can then simplify",
+      "confidence": 0.9589
+    },
+    {
+      "bbox": [
+        226.7,
+        1837.5,
+        1552.3,
+        1887.4
+      ],
+      "text": "the position and reach an ending by 17...Wxf3 18 xf3 g4! in which the",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        227.9,
+        1894.9,
+        771.8,
+        1937.3
+      ],
+      "text": "chances are approximately ever.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        270.8,
+        1939.8,
+        943.4,
+        1987.2
+      ],
+      "text": "13...xg7 14 0-0 0-0 15 We2 c5? (D)",
+      "confidence": 0.9671
+    },
+    {
+      "bbox": [
+        270.8,
+        1991.0,
+        1552.3,
+        2039.6
+      ],
+      "text": "According to modern analysis the classic bishop sacrifice is correct at this",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        226.7,
+        2040.9,
+        1551.0,
+        2090.8
+      ],
+      "text": "point and therefore 15...c5? should be censured; instead, the correct continua-",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        226.7,
+        2095.8,
+        1551.0,
+        2136.9
+      ],
+      "text": "tion is 15...b7 16 Qxb5 (the sacrifice at h7 does not work here because of the",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        227.9,
+        2143.2,
+        1554.7,
+        2189.3
+      ],
+      "text": "defence provided by ...f6 in the ...g8 variation) 16...Qxf3 17 gxf3 c5 and if",
+      "confidence": 0.9655
+    },
+    {
+      "bbox": [
+        226.7,
+        2195.6,
+        1544.9,
+        2241.7
+      ],
+      "text": "18 a4 or 18 &c4, then 18...e5 with good positional compensation for the pawn.",
+      "confidence": 0.9872
+    }
+  ]
+}

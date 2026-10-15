@@ -1,0 +1,89 @@
+PDF 85 / PRINTED 83
+
+Philidor Defence
+White:A.Evenson
+Black: A.Alekhine
+(Kiev 1916)
+1 e4 e5 2 Nf3 d6 3 d4 Nf6 4 Nc3
+Nbd7
+One of the principal variations
+of the Philidor Defence has been
+played. However, the position of
+the knight on d7 hampers Black
+and makes difficult the develop-
+ment of his queen's flank. There-
+fore, nowadays, another plan of
+development  is  advanced:  4
+exd4 5 Nxd4 Be7 6 Be2 0-0 7 0-0
+a6 8 a4 c5 9 Nf3 Nc6. Unfortu-
+nately there is still little practical
+experience of it, which does not
+allow any conclusions to be made,
+but in any case it has no less right
+to exist than the stereotyped theo-
+retical variation chosen by Black
+in the present game. Black usually
+has to overcome some difficulties
+in order to come out of it all right
+into the broad scope of the middle-
+game.
+5 Bc4 Be7 6 0-0 0-0 7 dxe5
+White has no reason to fear the
+exchange ... exd4, which would
+only strengthen his position in the
+centre. And yet Evenson's decision
+to open the d-file is easy to under-
+stand since 7 Qe2, advanced in
+practice and approved in opening
+handbooks, justifies itself only
+after the reply given in the refe-
+rence books, 7 ... c6. Meanwhile,
+namely after 7 Qe2, an interesting
+possibility is opened for Black with
+an exchange on d4, for example 7
+83
+
+.. exd4 8 Nxd4 Ne5 9 Bb3 c5 10
+Nf5 Bxf5 11 exf5 Nc6 or Qd7 with
+excellent prospects.
+The move 7 h3 creates the most
+difficulties for Black, which, on 8
+.. Ne5 in the above-mentioned
+variation, allows the retreat 9 Be2
+with the threat to begin an offens-
+ive by f4. On 9 ... d5, possible is
+the simple 10 exd5 Nxd5 11 Nxd5
+Qxd5 12 Nf5! and White's posi-
+tion is preferable. Besides this, the
+move 7 h3 averts the thrust of the
+knight to g4 and thereby secures
+the e3 square for the bishop.
+After Be3, White could move
+the knight away from f3 and attack
+the e5 pawn once again by f4. A
+rough course of events might be: 7
+h3 c6 8 a4 Qc7 (8 ... Nxe4 9 Nxe4
+d5 10 Bxd5 cxd5 11 Nc3 would
+create a lasting weakness for Black
+d5） 9 Be3, and Black is
+on (
+cramped; White, however, threa-
+tens Nh2 or Nd2 with f4 to
+follow.
+After the exchange in the cen-
+tre, made by Evenson, the rooks
+will be attracted to the only open
+d-file, and if neither
+opponent
+succeeds in outstrippipng the other
+in this operation, then one must
+expect a mass exchange - heralding
+the drawing style.
+7 ... dxe5
+White's plan now is obvious - to
+free the way for the rooks to the
+d-file and attempt to double them
+on this line. The way leading to
+this  objective   is   also
+clear. It
+consists of the moves Qe2, Be3 or

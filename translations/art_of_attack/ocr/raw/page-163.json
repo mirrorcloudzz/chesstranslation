@@ -1,0 +1,280 @@
+{
+  "pdf_page": 163,
+  "printed_page": 163,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        360.2,
+        133.5,
+        1565.7,
+        180.9
+      ],
+      "text": "Ranks, files and diagonals in the attack on the castled king 163",
+      "confidence": 0.9809
+    },
+    {
+      "bbox": [
+        240.1,
+        279.4,
+        1565.7,
+        326.8
+      ],
+      "text": "into action and the al-rook would be left behind. The inadequacy of 2 Wg4? is",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        242.6,
+        331.8,
+        1568.2,
+        376.7
+      ],
+      "text": "shown by the following continuation: 2...xh7 3 Wh4+ g8 4 f2 f6! 5 e6 (if 5",
+      "confidence": 0.9731
+    },
+    {
+      "bbox": [
+        242.6,
+        383.0,
+        1568.2,
+        429.1
+      ],
+      "text": "exf6, Black plays 5...xf6, enabling his king to wriggle out via f7) 5...fxg5 6",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        243.8,
+        430.4,
+        1568.2,
+        477.8
+      ],
+      "text": "Wh6 f6 and Black has defended himself; e.g. if 7 Wxg6+ g7 8 h1, then",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        241.4,
+        476.5,
+        1187.2,
+        531.4
+      ],
+      "text": "8...f6, while if 7 h1, then 7...we7 8 Wxg6+ g7, etc.",
+      "confidence": 0.9367
+    },
+    {
+      "bbox": [
+        650.6,
+        618.8,
+        677.5,
+        649.9
+      ],
+      "text": "二",
+      "confidence": 0.8216
+    },
+    {
+      "bbox": [
+        550.1,
+        687.4,
+        575.8,
+        719.8
+      ],
+      "text": "B",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        284.2,
+        1183.9,
+        381.0,
+        1227.5
+      ],
+      "text": "2...f6",
+      "confidence": 0.9212
+    },
+    {
+      "bbox": [
+        283.0,
+        1232.5,
+        1568.2,
+        1284.9
+      ],
+      "text": "If 2...xh7, then 3 Wh1+ g8 4 Wh6 leaves Black without a defence against",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        240.1,
+        1284.9,
+        1565.7,
+        1334.8
+      ],
+      "text": "5 h1 (for 4...f6 is no good on account of 5 Wxg6+). The white queen must be",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        242.6,
+        1337.3,
+        1568.2,
+        1384.7
+      ],
+      "text": "brought to h6, and it makes no difference whether it goes via h1 or h4 (as both",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        242.6,
+        1382.2,
+        1569.4,
+        1435.8
+      ],
+      "text": "Wg4-h4-h6 and f2, Wh1-h6 take three tempi), but in the case of the al-rook,",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        240.1,
+        1435.8,
+        1567.0,
+        1487.0
+      ],
+      "text": "the continuation 2 f2! is better than 2 Wg4?, which does nothing to bring it into",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        240.1,
+        1490.7,
+        357.7,
+        1533.2
+      ],
+      "text": "action.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        284.2,
+        1540.6,
+        1565.7,
+        1586.8
+      ],
+      "text": "Finally, it should be mentioned that a delayed sacrifice at g5 is also of no avail,",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        241.4,
+        1589.3,
+        1568.2,
+        1637.9
+      ],
+      "text": "e.g. 2...xg5 3 Wh1 f6 (or 3...f5 4 e6! f6 5 Wh6 We8 6 h1 and 7 h8+) 4",
+      "confidence": 0.95
+    },
+    {
+      "bbox": [
+        241.4,
+        1637.9,
+        880.9,
+        1687.8
+      ],
+      "text": "Wh6! followed by 5 h1 and 6 h8+.",
+      "confidence": 0.9691
+    },
+    {
+      "bbox": [
+        284.2,
+        1690.3,
+        470.5,
+        1732.7
+      ],
+      "text": "3 Wh1 1-0",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        281.8,
+        1740.2,
+        1102.6,
+        1786.4
+      ],
+      "text": "For if 3...We8 or 3...fxe5, then 4 Wh6 is decisive.",
+      "confidence": 0.9715
+    },
+    {
+      "bbox": [
+        240.1,
+        1846.3,
+        1450.6,
+        1907.4
+      ],
+      "text": "The formation with rook on h1 and pawn on h4",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        238.9,
+        1943.6,
+        1565.7,
+        1993.5
+      ],
+      "text": "Of the various formations on the h-file the most important in practice is undoubt-",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        240.1,
+        1994.7,
+        1567.0,
+        2045.9
+      ],
+      "text": "edly that with a rook on h1 and pawn on h4. It is a good representative example of",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        240.1,
+        2047.1,
+        1563.3,
+        2094.5
+      ],
+      "text": "battery attacks with rook and pawn which are created when the pawn captures an",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        243.8,
+        2102.0,
+        1564.5,
+        2143.2
+      ],
+      "text": "opposing piece and thereby opens up the file for the rook. This situation is often",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        237.7,
+        2148.2,
+        1564.5,
+        2196.8
+      ],
+      "text": "engineered by placing another attacking piece on the square covered by the",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        236.5,
+        2198.1,
+        1565.7,
+        2246.7
+      ],
+      "text": "pawn, creating threats which induce or oblige the opponent to take it. There are",
+      "confidence": 0.9896
+    }
+  ]
+}

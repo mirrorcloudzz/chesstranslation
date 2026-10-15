@@ -1,0 +1,180 @@
+{
+  "pdf_page": 120,
+  "printed_page": 120,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        328.3,
+        118.5,
+        404.3,
+        165.9
+      ],
+      "text": "120",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        757.1,
+        122.3,
+        1258.2,
+        173.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        662.8,
+        376.7,
+        697.1,
+        410.4
+      ],
+      "text": "W",
+      "confidence": 0.8068
+    },
+    {
+      "bbox": [
+        368.8,
+        868.2,
+        789.0,
+        921.9
+      ],
+      "text": "22...xb4 23 Wg3! g4",
+      "confidence": 0.9706
+    },
+    {
+      "bbox": [
+        367.5,
+        923.1,
+        1647.8,
+        979.3
+      ],
+      "text": "Clearly the only answer, for 23...&xg3 cannot be played on account of 24",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        322.2,
+        970.5,
+        430.0,
+        1017.9
+      ],
+      "text": "md8#.",
+      "confidence": 0.8775
+    },
+    {
+      "bbox": [
+        367.5,
+        1024.2,
+        610.1,
+        1065.3
+      ],
+      "text": "24 μxd6 d3",
+      "confidence": 0.9039
+    },
+    {
+      "bbox": [
+        365.1,
+        1069.1,
+        917.6,
+        1122.7
+      ],
+      "text": "Or 24...Wxc4 25 Wf4 and mates.",
+      "confidence": 0.9657
+    },
+    {
+      "bbox": [
+        366.3,
+        1120.2,
+        634.6,
+        1166.4
+      ],
+      "text": "25 Ωxd3 Wc1+",
+      "confidence": 0.928
+    },
+    {
+      "bbox": [
+        363.9,
+        1173.9,
+        928.7,
+        1220.0
+      ],
+      "text": "Not 25...exd3 because of 26 Wf4.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        362.6,
+        1218.8,
+        1644.1,
+        1283.7
+      ],
+      "text": "26 f1 Ic8 27 h3 Wxf1+ 28 h2! Wc1 29 hxg4 hxg4 30 Wxg4 Wh6+ 31",
+      "confidence": 0.9598
+    },
+    {
+      "bbox": [
+        323.4,
+        1273.7,
+        672.6,
+        1318.6
+      ],
+      "text": "g3 c3+ 32 f3 1-0",
+      "confidence": 0.9522
+    },
+    {
+      "bbox": [
+        363.9,
+        1376.0,
+        1642.9,
+        1434.6
+      ],
+      "text": "The first part of this tense game is instructive as an example of the gradual cre-",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        321.0,
+        1429.6,
+        1642.9,
+        1483.3
+      ],
+      "text": "ation of the preconditions necessary for an attack on the castled king, while from",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        318.5,
+        1478.3,
+        1641.7,
+        1534.4
+      ],
+      "text": "the twelfth move onwards, by which time White's control of the dark-square net-",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        318.5,
+        1529.4,
+        1639.2,
+        1585.5
+      ],
+      "text": "work is assured, the course of the game and its analysis provide many useful les-",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        317.3,
+        1581.8,
+        1101.4,
+        1629.2
+      ],
+      "text": "sons on how to carry out an attack of this kind.",
+      "confidence": 0.9918
+    }
+  ]
+}

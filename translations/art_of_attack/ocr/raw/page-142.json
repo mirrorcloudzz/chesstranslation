@@ -1,0 +1,210 @@
+{
+  "pdf_page": 142,
+  "printed_page": 142,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        254.8,
+        290.7,
+        1466.5,
+        376.7
+      ],
+      "text": "7 Ranks, files and diagonals in",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        345.5,
+        388.0,
+        1508.1,
+        482.8
+      ],
+      "text": "the attack on the castled king",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        254.8,
+        626.2,
+        1575.5,
+        674.9
+      ],
+      "text": "An action in the vicinity of the castled king can be carried out by any of the",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        252.4,
+        676.1,
+        1579.2,
+        728.5
+      ],
+      "text": "pieces, but the long-range ones, the queen, rook, and bishop, are the most effec-",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        252.4,
+        724.8,
+        1576.8,
+        775.9
+      ],
+      "text": "tive. They can attack from a distance along the ranks, files, and diagonals. The",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        251.2,
+        775.9,
+        1578.0,
+        829.6
+      ],
+      "text": "line concerned has to be 'captured,' i.e. one's own long-range piece has to be",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        251.2,
+        827.1,
+        1576.8,
+        878.2
+      ],
+      "text": "placed on it, confrontation by the opponent's corresponding piece has to be over-",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        248.7,
+        877.0,
+        1578.0,
+        928.1
+      ],
+      "text": "come, and the line has to be 'cleared' of all enemy influence. Outposts lie on such",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        249.9,
+        928.1,
+        1575.5,
+        978.0
+      ],
+      "text": "lines; batteries and pins take place along them. In a mating attack the line may fi-",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        252.4,
+        979.3,
+        1575.5,
+        1026.7
+      ],
+      "text": "nally witness the execution, i.e. checkmate. In this chapter we shall consider in",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        248.7,
+        1026.7,
+        1575.5,
+        1081.6
+      ],
+      "text": "turn the part played in the attack on the castled king by the ranks, files, and diago-",
+      "confidence": 0.9767
+    },
+    {
+      "bbox": [
+        248.7,
+        1077.8,
+        1181.0,
+        1129.0
+      ],
+      "text": "nals and reveal some typical operations involving them.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        251.2,
+        1183.9,
+        1038.9,
+        1240.0
+      ],
+      "text": "The weakness of the back rank",
+      "confidence": 0.9759
+    },
+    {
+      "bbox": [
+        249.9,
+        1276.2,
+        1578.0,
+        1334.8
+      ],
+      "text": "Of operations on the ranks, the first class to be considered is that aimed at a",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        249.9,
+        1327.3,
+        1306.0,
+        1381.0
+      ],
+      "text": "weakness on the back rank. A few practical examples will help.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        581.9,
+        1536.9,
+        615.0,
+        1568.1
+      ],
+      "text": "W",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        286.7,
+        2034.6,
+        1569.4,
+        2093.3
+      ],
+      "text": "This position is from Bernstein-Capablanca, Exhibition Game, Moscow 1914.",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        240.1,
+        2087.0,
+        1568.2,
+        2140.7
+      ],
+      "text": "It is White's move, and he ought to have realized that because of his weakness on",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        241.4,
+        2135.7,
+        1567.0,
+        2191.8
+      ],
+      "text": "the back rank Black's pawn on c3 was 'taboo'. He should therefore have played 1",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        241.4,
+        2183.1,
+        1475.1,
+        2243.0
+      ],
+      "text": "d4, but he decided not to, and the result was a disaster on his back rank.",
+      "confidence": 0.9948
+    }
+  ]
+}

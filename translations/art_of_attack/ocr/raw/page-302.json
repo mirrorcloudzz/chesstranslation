@@ -1,0 +1,410 @@
+{
+  "pdf_page": 302,
+  "printed_page": 302,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "302",
+      "bbox": [
+        201.0,
+        127.0,
+        264.0,
+        158.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        628.0,
+        130.0,
+        1123.0,
+        170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not have ...Qd5 available; if he plays, for example, 8...Qb6, White's threats take",
+      "bbox": [
+        200.0,
+        272.0,
+        1518.0,
+        320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "effect even more quickly, e.g. 9 Ve4 Q)f8 IO Vg4 Éh8 II Vh5, etc. So Black",
+      "bbox": [
+        199.0,
+        325.0,
+        1519.0,
+        370.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "must resort to defence and not play for ...Qd5.",
+      "bbox": [
+        198.0,
+        376.0,
+        969.0,
+        418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8...f5",
+      "bbox": [
+        243.0,
+        427.0,
+        329.0,
+        458.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "To rid himself of some of the pressure. It also sets a trap, i.e. 9 Vc4 Q)hf8 10",
+      "bbox": [
+        243.0,
+        478.0,
+        1517.0,
+        523.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axf5? Qb6 11 Axe6+ #h8, when White loses his bishop.",
+      "bbox": [
+        197.0,
+        523.0,
+        1170.0,
+        573.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9 exf6 Axf6 10 ve4 Qhf8 11 vg4 12 Vh5 Qh7",
+      "bbox": [
+        242.0,
+        574.0,
+        1154.0,
+        620.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Otherwise 13 Axh6 wins.",
+      "bbox": [
+        242.0,
+        626.0,
+        670.0,
+        661.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13 Äel Xad8 14 g4!, and now we have reached the position which was dealt",
+      "bbox": [
+        244.0,
+        676.0,
+        1516.0,
+        723.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with on page 212. White's heaviest positional commitment in the game, the",
+      "bbox": [
+        196.0,
+        729.0,
+        1515.0,
+        775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "move g4, occurs exactly at the moment when the attack on the castled king has",
+      "bbox": [
+        195.0,
+        779.0,
+        1514.0,
+        826.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "come to a head.",
+      "bbox": [
+        195.0,
+        830.0,
+        453.0,
+        860.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The reader should observe the time sequence of each operation in this game,",
+      "bbox": [
+        239.0,
+        879.0,
+        1512.0,
+        927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "particularly with reference to the degree of commitment. The mild commitment",
+      "bbox": [
+        193.0,
+        930.0,
+        1514.0,
+        973.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "incurred by Xb3 ! , the greater one by e5, and the heaviest one by g4, correspond",
+      "bbox": [
+        194.0,
+        978.0,
+        1512.0,
+        1029.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "exactly to the phases of the attack and to the strength of the threats which White",
+      "bbox": [
+        193.0,
+        1032.0,
+        1512.0,
+        1076.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "has at his disposal.",
+      "bbox": [
+        192.0,
+        1081.0,
+        502.0,
+        1120.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After this example, in which we have seen the temporal relationship between",
+      "bbox": [
+        236.0,
+        1182.0,
+        1510.0,
+        1230.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the various operations designed to create the preconditions for an attack, let us",
+      "bbox": [
+        191.0,
+        1231.0,
+        1509.0,
+        1278.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "turn to a separate examination of each of these operations.",
+      "bbox": [
+        191.0,
+        1286.0,
+        1155.0,
+        1328.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "First, the inducement of weaknesses in the castled position. This is an impor-",
+      "bbox": [
+        235.0,
+        1333.0,
+        1508.0,
+        1383.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tant operation, although it usually forms part of another operation and tends to be",
+      "bbox": [
+        190.0,
+        1384.0,
+        1508.0,
+        1431.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "limited to one or two moves. It can take the form either of the unprovoked or",
+      "bbox": [
+        189.0,
+        1434.0,
+        1509.0,
+        1483.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "faulty weakening of the castled position or of the correct advance of a pawn or",
+      "bbox": [
+        188.0,
+        1484.0,
+        1508.0,
+        1535.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawns in front of the king which, because of faulty play later on, results in an ap-",
+      "bbox": [
+        187.0,
+        1536.0,
+        1506.0,
+        1586.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "preciable weakness (e.g. when a flight square for the king, originally advanta-",
+      "bbox": [
+        187.0,
+        1585.0,
+        1505.0,
+        1635.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "geous, becomes a weakness); then there is the case of the weakness which is",
+      "bbox": [
+        187.0,
+        1637.0,
+        1506.0,
+        1679.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "enforced early on without any loss of tempo, while on the other hand, there are",
+      "bbox": [
+        186.0,
+        1686.0,
+        1506.0,
+        1733.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "weak points which arise in the sacrificial whirlpool of the attack's final phase.",
+      "bbox": [
+        186.0,
+        1737.0,
+        1503.0,
+        1789.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "All these cases show our theme in its wider sense. In the narrower sense, the",
+      "bbox": [
+        185.0,
+        1787.0,
+        1504.0,
+        1836.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "inducement of weaknesses implies an operation on which the attacker spends",
+      "bbox": [
+        185.0,
+        1838.0,
+        1504.0,
+        1889.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "one or more tempi with the sole aim of weakening his opponent's castled posi-",
+      "bbox": [
+        184.0,
+        1891.0,
+        1503.0,
+        1940.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion in a definite way. An operation of this kind which entails an expenditure of",
+      "bbox": [
+        184.0,
+        1938.0,
+        1507.0,
+        1989.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "several tempi represents a very real commitment, and so it usually belongs to a",
+      "bbox": [
+        183.0,
+        1990.0,
+        1504.0,
+        2041.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "stage when most of the conditions necessary for an attack have already been ful-",
+      "bbox": [
+        183.0,
+        2041.0,
+        1501.0,
+        2090.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "filled.",
+      "bbox": [
+        182.0,
+        2090.0,
+        276.0,
+        2120.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "There have already been many examples of the inducement of weaknesses, so",
+      "bbox": [
+        226.0,
+        2141.0,
+        1501.0,
+        2190.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "two will be sufficient here.",
+      "bbox": [
+        181.0,
+        2192.0,
+        623.0,
+        2225.0
+      ],
+      "confidence": null
+    }
+  ]
+}

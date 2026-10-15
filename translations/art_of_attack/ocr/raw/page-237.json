@@ -1,0 +1,410 @@
+{
+  "pdf_page": 237,
+  "printed_page": 237,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The attack on the fianchettoed and queenside castling positions 237",
+      "bbox": [
+        358.0,
+        137.0,
+        1563.0,
+        181.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in terms of tempi, the following picture sums up the differences: the position on",
+      "bbox": [
+        247.0,
+        285.0,
+        1565.0,
+        328.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the queenside which would correspond symmetrically to the one given by short",
+      "bbox": [
+        247.0,
+        334.0,
+        1567.0,
+        379.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "castling (king on gl and rook on f l) is king on bl and rook on c 1, and to reach",
+      "bbox": [
+        247.0,
+        385.0,
+        1566.0,
+        429.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "such a position after castling long would require two tempi. But let us now apply",
+      "bbox": [
+        248.0,
+        435.0,
+        1566.0,
+        479.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a different method of calculation: the player has castled on the kingside and then",
+      "bbox": [
+        248.0,
+        485.0,
+        1566.0,
+        526.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "spends one tempo on the move Ze]. The corresponding position to this on the",
+      "bbox": [
+        249.0,
+        535.0,
+        1567.0,
+        581.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queenside would be king on bl and rook on d l, and for this only one move is",
+      "bbox": [
+        248.0,
+        585.0,
+        1567.0,
+        631.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "needed after castling long. The conclusion to be drawn from this is simple —",
+      "bbox": [
+        249.0,
+        636.0,
+        1568.0,
+        679.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "whenever the rook is well placed on the d-file, castling long is fundamentally as",
+      "bbox": [
+        249.0,
+        686.0,
+        1567.0,
+        728.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "good as castling short; if the rook is in fact needed on the c-file it is weaker by",
+      "bbox": [
+        250.0,
+        736.0,
+        1567.0,
+        781.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "two tempi, while if the rook is needed on a third square it is weaker by only one",
+      "bbox": [
+        249.0,
+        787.0,
+        1568.0,
+        831.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tempo.",
+      "bbox": [
+        250.0,
+        849.0,
+        360.0,
+        881.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In practice castling queenside usually occurs when the rook is well placed on",
+      "bbox": [
+        295.0,
+        888.0,
+        1568.0,
+        932.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the d-file, and indeed the need for it to be placed there is often the prime reason",
+      "bbox": [
+        250.0,
+        939.0,
+        1569.0,
+        978.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for adopting long castling. When reckoned in these terms, the practical differ-",
+      "bbox": [
+        251.0,
+        988.0,
+        1567.0,
+        1032.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ence between long and short castling disappears or becomes insignificant. There",
+      "bbox": [
+        251.0,
+        1039.0,
+        1569.0,
+        1081.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is yet another difference between the two forms of castling, but it is secondary",
+      "bbox": [
+        251.0,
+        1089.0,
+        1569.0,
+        1133.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and concerns the activity of the queen. However, here too the advantages and dis-",
+      "bbox": [
+        252.0,
+        1140.0,
+        1569.0,
+        1182.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "advantages tend to cancel each other out. Thus one can say that castling on the",
+      "bbox": [
+        252.0,
+        1191.0,
+        1570.0,
+        1234.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queenside is almost equal in status to castling on the kingside in general terms of",
+      "bbox": [
+        251.0,
+        1241.0,
+        1573.0,
+        1285.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tempo and security. If there are still players who doubt the security of castling on",
+      "bbox": [
+        252.0,
+        1293.0,
+        1570.0,
+        1335.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the queenside, it might be suggested that their reasons for this are probably of a",
+      "bbox": [
+        252.0,
+        1343.0,
+        1572.0,
+        1385.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "subjective, rather than an objective, nature. That is to say, many players remem-",
+      "bbox": [
+        253.0,
+        1394.0,
+        1570.0,
+        1435.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ber some bad experiences which they have had with castling long and are not",
+      "bbox": [
+        252.0,
+        1444.0,
+        1572.0,
+        1485.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "aware of a very common mistake, one which is repeated over and over again:",
+      "bbox": [
+        253.0,
+        1494.0,
+        1569.0,
+        1535.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "they accept the tempo gained on the d-file by castling long as a gift, without",
+      "bbox": [
+        253.0,
+        1544.0,
+        1573.0,
+        1587.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "wanting to pay the price for it; they neglect the consolidating move #bl, and",
+      "bbox": [
+        253.0,
+        1590.0,
+        1572.0,
+        1637.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then, when their opponent suddenly sweeps down, it is already too late and there",
+      "bbox": [
+        253.0,
+        1645.0,
+        1572.0,
+        1687.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is no time left. The results, of course, are blamed on queenside castling.",
+      "bbox": [
+        254.0,
+        1696.0,
+        1445.0,
+        1735.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In master chess castling on the kingside predominates, but this is not the result",
+      "bbox": [
+        299.0,
+        1747.0,
+        1574.0,
+        1787.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of some fundamental weakness of castling long; the reasons are of another, struc-",
+      "bbox": [
+        254.0,
+        1798.0,
+        1572.0,
+        1837.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tural, kind. Castling on the queenside requires the development of three pieces,",
+      "bbox": [
+        254.0,
+        1848.0,
+        1572.0,
+        1889.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "while in the case of castling short only two need be moved to clear the back rank.",
+      "bbox": [
+        255.0,
+        1899.0,
+        1572.0,
+        1939.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Another important point is that in order to castle on the queenside the queen has",
+      "bbox": [
+        254.0,
+        1950.0,
+        1573.0,
+        1991.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to be moved first, and the best moment for doing this in many openings occurs",
+      "bbox": [
+        255.0,
+        2000.0,
+        1574.0,
+        2039.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rather later, as moving the queen at an early stage of the game can turn out to be a",
+      "bbox": [
+        254.0,
+        2051.0,
+        1576.0,
+        2091.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "loss of a tempo. This is an important reason for the comparative rarity of castling",
+      "bbox": [
+        256.0,
+        2100.0,
+        1575.0,
+        2142.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on the queenside, and the trend is given further impetus by the structure of mod-",
+      "bbox": [
+        256.0,
+        2151.0,
+        1574.0,
+        2193.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ern openings, the majority of which are directed towards a struggle over the",
+      "bbox": [
+        256.0,
+        2201.0,
+        1575.0,
+        2244.0
+      ],
+      "confidence": null
+    }
+  ]
+}

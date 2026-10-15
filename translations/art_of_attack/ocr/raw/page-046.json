@@ -1,0 +1,390 @@
+{
+  "pdf_page": 46,
+  "printed_page": 46,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        210.7,
+        124.7,
+        265.9,
+        170.9
+      ],
+      "text": "46",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        640.7,
+        126.0,
+        1143.1,
+        175.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        262.2,
+        276.9,
+        808.6,
+        314.4
+      ],
+      "text": "14...b6+ 15 b5 xc6 16 xc6",
+      "confidence": 0.977
+    },
+    {
+      "bbox": [
+        258.5,
+        323.1,
+        1076.9,
+        371.7
+      ],
+      "text": "Against 16 c3? or 16 a4?, 16...d4 is decisive.",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        259.7,
+        376.7,
+        580.7,
+        414.2
+      ],
+      "text": "16..b7+ 17 b5",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        254.8,
+        424.1,
+        1540.0,
+        474.0
+      ],
+      "text": "He must not capture! If 17 xb7? then 17...d7 18 Wg4+ d6 and White has",
+      "confidence": 0.9753
+    },
+    {
+      "bbox": [
+        211.9,
+        476.5,
+        735.1,
+        523.9
+      ],
+      "text": "no defence against 19...hb8#.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        258.5,
+        523.9,
+        666.5,
+        568.9
+      ],
+      "text": "17...a6+ 18 c6 1/2-1/2",
+      "confidence": 0.9313
+    },
+    {
+      "bbox": [
+        254.8,
+        575.1,
+        1538.8,
+        630.0
+      ],
+      "text": "Black keeps up perpetual check with the bishop on b7 and a6. White's king",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        211.9,
+        630.0,
+        1160.2,
+        671.1
+      ],
+      "text": "must not venture to a4 because of ...&c4 and then ...b5#.",
+      "confidence": 0.9724
+    },
+    {
+      "bbox": [
+        256.1,
+        677.4,
+        828.2,
+        726.0
+      ],
+      "text": "An original ending to a king hunt!",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        254.8,
+        777.2,
+        1535.1,
+        829.6
+      ],
+      "text": "The next game abounds in dramatic features and gives us an opportunity for",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        209.5,
+        828.3,
+        1532.7,
+        877.0
+      ],
+      "text": "some more remarks on the subject of attacking a king that has lost the right to",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        210.7,
+        880.7,
+        322.2,
+        919.4
+      ],
+      "text": "castle.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        705.7,
+        979.3,
+        1040.1,
+        1029.2
+      ],
+      "text": "Morphy - Barnes",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        385.9,
+        1027.9,
+        1359.9,
+        1081.6
+      ],
+      "text": "Simultaneous Display against Five Masters, London 1859",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        737.5,
+        1082.8,
+        1004.6,
+        1125.2
+      ],
+      "text": "Petroff Defence",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        208.3,
+        1177.6,
+        646.9,
+        1221.3
+      ],
+      "text": "1 e4 e5 2 f3 f6 3 c4",
+      "confidence": 0.932
+    },
+    {
+      "bbox": [
+        252.4,
+        1230.0,
+        1535.1,
+        1284.9
+      ],
+      "text": "Morphy regularly employed this against the Petroff; it does no more than",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        207.0,
+        1282.4,
+        792.7,
+        1329.8
+      ],
+      "text": "leave the position evenly balanced.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        253.6,
+        1332.3,
+        525.6,
+        1373.5
+      ],
+      "text": "3...xe4 4 c3",
+      "confidence": 0.9139
+    },
+    {
+      "bbox": [
+        251.2,
+        1382.2,
+        1046.3,
+        1433.4
+      ],
+      "text": "A dubious gambit originating from Kieseritzky.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        252.4,
+        1432.1,
+        589.3,
+        1475.8
+      ],
+      "text": "4...xc3 5 dxc3 f6!",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        249.9,
+        1483.3,
+        1108.8,
+        1533.2
+      ],
+      "text": "A good, as well as necessary, move in this position.",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        248.7,
+        1529.4,
+        465.6,
+        1574.3
+      ],
+      "text": "6 0-0 We7?!",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        247.5,
+        1581.8,
+        1531.4,
+        1636.7
+      ],
+      "text": "After this White has approximately equal chances. Correct was 6...c6! 7",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        207.0,
+        1630.5,
+        898.0,
+        1685.3
+      ],
+      "text": "h4 g6 8 f4 f5! with advantage to Black.",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        247.5,
+        1681.6,
+        735.1,
+        1729.0
+      ],
+      "text": "7 ②h4 d6 8 Wh5+ d8 9 f4",
+      "confidence": 0.9548
+    },
+    {
+      "bbox": [
+        248.7,
+        1735.2,
+        740.0,
+        1783.9
+      ],
+      "text": "9 g6? fails against 9...We8.",
+      "confidence": 0.9483
+    },
+    {
+      "bbox": [
+        247.5,
+        1781.4,
+        1018.1,
+        1835.0
+      ],
+      "text": "9...e6 10 Ωxe6 Wxe6 11 fxe5 dxe5 12 g6",
+      "confidence": 0.9482
+    },
+    {
+      "bbox": [
+        246.3,
+        1832.5,
+        1533.9,
+        1893.7
+      ],
+      "text": "White regains the pawn, since if 12...We8?, then 13 Wd1+! unpins the knight",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        208.3,
+        1887.4,
+        537.8,
+        1936.1
+      ],
+      "text": "with gain of tempo.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        249.9,
+        1937.3,
+        1260.7,
+        1983.5
+      ],
+      "text": "12...c5+ 13 h1 e8 14 Wxh7 Wg8 15 Wh5 d7 16 b4?",
+      "confidence": 0.9677
+    },
+    {
+      "bbox": [
+        249.9,
+        1989.7,
+        1530.2,
+        2037.1
+      ],
+      "text": "A positional mistake, since he forfeits the chance of c4, without which his",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        205.8,
+        2042.1,
+        955.6,
+        2084.5
+      ],
+      "text": "pawn attack is ineffective. 16 a4 was correct.",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        249.9,
+        2092.0,
+        632.2,
+        2129.4
+      ],
+      "text": "16...d6 17 d2 Wf7",
+      "confidence": 0.9547
+    },
+    {
+      "bbox": [
+        248.7,
+        2139.4,
+        575.8,
+        2186.8
+      ],
+      "text": "Threatening ...f8",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        248.7,
+        2185.6,
+        778.0,
+        2240.5
+      ],
+      "text": "18 Wg4 We6 19 We4 b6! (D)",
+      "confidence": 0.9714
+    }
+  ]
+}

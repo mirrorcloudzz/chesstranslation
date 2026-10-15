@@ -1,0 +1,270 @@
+{
+  "pdf_page": 346,
+  "printed_page": 346,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "346",
+      "bbox": [
+        224.0,
+        121.0,
+        287.0,
+        153.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        650.0,
+        125.0,
+        1144.0,
+        165.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "26 Xf4 27 Qxc4 Vg5 28 Äg3 Vd5 29 vc6 30 Vcl 31 Vb4",
+      "bbox": [
+        267.0,
+        267.0,
+        1540.0,
+        312.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vc7 32 d5! (D)",
+      "bbox": [
+        221.0,
+        314.0,
+        483.0,
+        359.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Apparently, Black has manoeuvred himself into a new defensive position, one",
+      "bbox": [
+        260.0,
+        1025.0,
+        1534.0,
+        1073.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which also affords the possibility of his inconveniencing White's queen further",
+      "bbox": [
+        215.0,
+        1076.0,
+        1535.0,
+        1123.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by ...a5. The only weak side of his manoeuvre is that it does not give sufficient at-",
+      "bbox": [
+        215.0,
+        1125.0,
+        1532.0,
+        1173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tention to centralization. As a result, the alleged pawn weakling on d4 is trans-",
+      "bbox": [
+        214.0,
+        1177.0,
+        1532.0,
+        1224.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "formed — ironically — into an aggressor, punishing Black for his neglect of the",
+      "bbox": [
+        214.0,
+        1226.0,
+        1532.0,
+        1275.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "central squares.",
+      "bbox": [
+        213.0,
+        1277.0,
+        469.0,
+        1316.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "32...a5",
+      "bbox": [
+        258.0,
+        1326.0,
+        371.0,
+        1357.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 32...exd5 33 Vd4 g6 (or 33...g5) 34 Qf5 Black would quickly come to",
+      "bbox": [
+        257.0,
+        1374.0,
+        1531.0,
+        1426.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "grief; equally bad is 32...e5 33 Xfg4 g6 34 Qf5.",
+      "bbox": [
+        212.0,
+        1427.0,
+        1006.0,
+        1471.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "33 ve4 Xd6 34 ve5 g6 35 Vh5!",
+      "bbox": [
+        256.0,
+        1472.0,
+        808.0,
+        1519.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 35 Xc4? Black could bring the attack to a halt by 35...Xc6!.",
+      "bbox": [
+        256.0,
+        1525.0,
+        1281.0,
+        1575.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "35...Xxd5",
+      "bbox": [
+        255.0,
+        1576.0,
+        421.0,
+        1610.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 35...#h7 36 Qg4! gxh5 37 Qf6+ and mates.",
+      "bbox": [
+        255.0,
+        1626.0,
+        1049.0,
+        1672.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "36 Oxd5 exd5 37 Vxh6 ve5 38 Äh4 Vg7 1-0",
+      "bbox": [
+        254.0,
+        1675.0,
+        1038.0,
+        1724.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Colle - Capablanca",
+      "bbox": [
+        683.0,
+        1782.0,
+        1051.0,
+        1824.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Carlsbad, 1929",
+      "bbox": [
+        740.0,
+        1836.0,
+        996.0,
+        1872.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Colle System",
+      "bbox": [
+        756.0,
+        1886.0,
+        977.0,
+        1926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 d4 Qf6 2 Qf3 b6 3 e3 Abi 4 hbd2 e6 5 Ad3 c5 6 0-0 7 c3",
+      "bbox": [
+        208.0,
+        1978.0,
+        1333.0,
+        2024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The formation with pawns on c3, d4, and e3, bishop on d3, and knights on d2",
+      "bbox": [
+        250.0,
+        2034.0,
+        1525.0,
+        2083.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and f3 characterizes the Colle System. White's plan is to force e3-e4 and",
+      "bbox": [
+        205.0,
+        2084.0,
+        1525.0,
+        2130.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then exchange his d2-knight for Black's f6-knight on this same square; he",
+      "bbox": [
+        205.0,
+        2135.0,
+        1525.0,
+        2184.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "thereby creates some of the preconditions for an attack on the king without",
+      "bbox": [
+        204.0,
+        2185.0,
+        1525.0,
+        2235.0
+      ],
+      "confidence": null
+    }
+  ]
+}

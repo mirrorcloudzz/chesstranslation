@@ -1,0 +1,280 @@
+{
+  "pdf_page": 224,
+  "printed_page": 224,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "224",
+      "bbox": [
+        264.0,
+        121.0,
+        328.0,
+        151.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        690.0,
+        123.0,
+        1185.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "f5, where it restricts Black; the fact that this leads to a blocked position is a good",
+      "bbox": [
+        263.0,
+        269.0,
+        1580.0,
+        314.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "thing, since Black's f-pawn can then be fixed at f6 and subsequently 'rolled up'",
+      "bbox": [
+        262.0,
+        320.0,
+        1576.0,
+        364.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by g4 and g5. This is a clear positional plan, which leads to the destruction of",
+      "bbox": [
+        262.0,
+        370.0,
+        1584.0,
+        411.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's pawn chain and thence to a real attack on his castled king. There is no",
+      "bbox": [
+        262.0,
+        420.0,
+        1579.0,
+        463.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bayonet or avalanche here, though pawn moves are still the decisive means of at-",
+      "bbox": [
+        261.0,
+        470.0,
+        1578.0,
+        510.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 U! Adi",
+      "bbox": [
+        308.0,
+        566.0,
+        473.0,
+        600.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black wants to get his bishop to c6, since it cannot settle on the diagonal a2-g8",
+      "bbox": [
+        306.0,
+        621.0,
+        1577.0,
+        665.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "because off5. If l...Ag4, then 2 Xd2 followed by h3 is strong, while l...g6 would",
+      "bbox": [
+        260.0,
+        667.0,
+        1578.0,
+        714.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "be a voluntary weakening of the castled position.",
+      "bbox": [
+        260.0,
+        721.0,
+        1070.0,
+        762.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 f5 ac6 3 Ac4+ 4 g4 b6",
+      "bbox": [
+        304.0,
+        767.0,
+        822.0,
+        811.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black has no satisfactory answer to g5. If 4...h6 5 h4 Qh7, we get 6 g5 fxg5 7",
+      "bbox": [
+        304.0,
+        821.0,
+        1576.0,
+        867.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "hxg5 and then either 7...hxg5 8 Vxg5 and 9 Xhl+ or 7...hxg5 8 Vh3, threaten-",
+      "bbox": [
+        258.0,
+        868.0,
+        1575.0,
+        915.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing 9 Vxh7+.",
+      "bbox": [
+        258.0,
+        916.0,
+        483.0,
+        959.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 g5 fxg5 6 Vxg5 h6",
+      "bbox": [
+        303.0,
+        967.0,
+        655.0,
+        1010.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Otherwise f6 follows.",
+      "bbox": [
+        303.0,
+        1022.0,
+        659.0,
+        1053.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 Vh5 bxc5 8 Qf7+ 9 Qg5+ 10 f6 gxf6 11 Vxh6+ 12 Qxh7",
+      "bbox": [
+        302.0,
+        1067.0,
+        1575.0,
+        1114.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Äxh7 13 Vxf6+ xg7 14 xxe5 1-0",
+      "bbox": [
+        256.0,
+        1117.0,
+        826.0,
+        1162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "As our second concluding remark we cited the case where the player has a",
+      "bbox": [
+        301.0,
+        1173.0,
+        1575.0,
+        1218.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "choice between attacking with his pawns and attacking with his pieces. Every",
+      "bbox": [
+        255.0,
+        1223.0,
+        1574.0,
+        1270.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "practical player will have experienced the difficulty of such a choice, and an im-",
+      "bbox": [
+        254.0,
+        1275.0,
+        1572.0,
+        1317.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mense amount of time has been consumed in master chess on such decisions.",
+      "bbox": [
+        254.0,
+        1326.0,
+        1571.0,
+        1363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The trouble is that it is difficult to set up any general rule, since everything de-",
+      "bbox": [
+        253.0,
+        1374.0,
+        1572.0,
+        1422.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pends on the particular characteristics of the situation concerned. Before discuss-",
+      "bbox": [
+        253.0,
+        1425.0,
+        1571.0,
+        1463.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing this question any further, let us take an example, and then, by varying the",
+      "bbox": [
+        254.0,
+        1475.0,
+        1572.0,
+        1522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawn structure, try to penetrate to the heart of the problem.",
+      "bbox": [
+        252.0,
+        1530.0,
+        1231.0,
+        1569.0
+      ],
+      "confidence": null
+    }
+  ]
+}

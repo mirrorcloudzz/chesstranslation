@@ -1,0 +1,280 @@
+{
+  "pdf_page": 312,
+  "printed_page": 312,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "312",
+      "bbox": [
+        218.0,
+        130.0,
+        280.0,
+        160.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        644.0,
+        131.0,
+        1138.0,
+        171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "slowly-advancing queenside pawn majority. It may be said here that modern",
+      "bbox": [
+        217.0,
+        279.0,
+        1534.0,
+        319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "knowledge of the importance of tension in the centre is the main deterrent against",
+      "bbox": [
+        216.0,
+        329.0,
+        1535.0,
+        371.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "kingside attacks nowadays.",
+      "bbox": [
+        216.0,
+        379.0,
+        666.0,
+        418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13 Af5 b5 14 Xf3",
+      "bbox": [
+        264.0,
+        425.0,
+        565.0,
+        460.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A rook manoeuvre characteristic of the Pillsbury Attack. Its first aim is to",
+      "bbox": [
+        261.0,
+        481.0,
+        1533.0,
+        520.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "provoke a weakening of the enemy king position in the shape of either ...g6 or",
+      "bbox": [
+        215.0,
+        531.0,
+        1534.0,
+        572.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...h6.",
+      "bbox": [
+        217.0,
+        580.0,
+        295.0,
+        609.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The feebleness of Black's defensive resources — a consequence of his earlier",
+      "bbox": [
+        260.0,
+        680.0,
+        1533.0,
+        721.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "failure to play 12...Äe8 instead of 12...c4? — is shown in the alternative line",
+      "bbox": [
+        215.0,
+        727.0,
+        1532.0,
+        768.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14...b4 15 Qa4 h6 16 Axh6 gxh6 17 Xg3+ Éh8 18 Qxd7 oxd7 19 Vh5 and",
+      "bbox": [
+        219.0,
+        775.0,
+        1531.0,
+        821.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White wins. Therefore, Black cannot appease his opponent with the somewhat",
+      "bbox": [
+        214.0,
+        831.0,
+        1532.0,
+        872.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lesser evil of ...h6 but will be forced to play ...g6.",
+      "bbox": [
+        214.0,
+        881.0,
+        1027.0,
+        922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 Xh3 g6",
+      "bbox": [
+        261.0,
+        928.0,
+        435.0,
+        969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 15...h6 then 16 Axh6 gxh6 17 Xg3+ Éf8 18 Axd7 axd7 19 Vh5 and",
+      "bbox": [
+        259.0,
+        978.0,
+        1530.0,
+        1022.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mates, while 15...Qf8 is answered by 16 Axf6 Axf6 17 Axh7+ Qxh7 18 Vh5.",
+      "bbox": [
+        213.0,
+        1027.0,
+        1495.0,
+        1072.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 Abl axe5",
+      "bbox": [
+        260.0,
+        1077.0,
+        493.0,
+        1112.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "From bad to worse; 16...Qf8 offered a better chance of resistance.",
+      "bbox": [
+        257.0,
+        1128.0,
+        1352.0,
+        1168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17 fxe5 Qd7 18 Axel xxe7 19 Vf3 Qf8 20 xn Vd7 21 Vf6 b4 (D)",
+      "bbox": [
+        259.0,
+        1178.0,
+        1421.0,
+        1226.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22 Qa4",
+      "bbox": [
+        252.0,
+        1883.0,
+        380.0,
+        1918.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White has a won game anyway, but this is not the best move. Correct was 22",
+      "bbox": [
+        251.0,
+        1939.0,
+        1524.0,
+        1980.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qe2 followed by either Qf4-h5 or Qg3-f5. Sacrificing the knight is the typical",
+      "bbox": [
+        206.0,
+        1983.0,
+        1523.0,
+        2037.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "way to exploit positions of this kind; one of the critical variations runs 22 Qe2",
+      "bbox": [
+        206.0,
+        2042.0,
+        1523.0,
+        2080.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vc7 (or 22...Vd8 23 Vh4 xc7 24 Xf6) 23 Of4 Xd8 24 Qh5! gxh5 (or 24...Qe6",
+      "bbox": [
+        205.0,
+        2084.0,
+        1523.0,
+        2137.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25 Vh4 gxh5 26 Vf6! and wins) 25 Axh7+ Qxh7 26 xg3+ 27 Vh8#.",
+      "bbox": [
+        205.0,
+        2135.0,
+        1454.0,
+        2186.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22...Vc7 23 Qc5 Ac8 24 Xh6 as",
+      "bbox": [
+        249.0,
+        2186.0,
+        806.0,
+        2225.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "pdf_page": 212,
+  "printed_page": 212,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "212",
+      "bbox": [
+        289.0,
+        135.0,
+        351.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        715.0,
+        138.0,
+        1209.0,
+        178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "So as to answer the threatened 19 Xxh7 with 19...Axe5!.",
+      "bbox": [
+        332.0,
+        284.0,
+        1274.0,
+        320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19 Qg4",
+      "bbox": [
+        333.0,
+        329.0,
+        459.0,
+        372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Thanks to Black's error the attack has again got under way, and the game now",
+      "bbox": [
+        330.0,
+        385.0,
+        1604.0,
+        430.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'plays itself'.",
+      "bbox": [
+        289.0,
+        434.0,
+        504.0,
+        472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...Xfc8 20 b5 21 Ae7 22 Qh6+ 23 oxf7 Ac5 24 xxh7 Ad4",
+      "bbox": [
+        332.0,
+        481.0,
+        1603.0,
+        523.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25 Vxe6 Ag7",
+      "bbox": [
+        285.0,
+        529.0,
+        518.0,
+        573.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White now played 26 Qd6 and won in a few moves. By 26 Qh8 he could have",
+      "bbox": [
+        329.0,
+        581.0,
+        1602.0,
+        629.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "forced Black to resign at once.",
+      "bbox": [
+        284.0,
+        635.0,
+        787.0,
+        675.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'7;",
+      "bbox": [
+        1130.0,
+        824.0,
+        1159.0,
+        841.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4",
+      "bbox": [
+        1035.0,
+        922.0,
+        1047.0,
+        936.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from the game Alekhine-Weenink, Prague 1931. In this case",
+      "bbox": [
+        321.0,
+        1338.0,
+        1594.0,
+        1384.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "too White produces the bayonet in the form of:",
+      "bbox": [
+        276.0,
+        1388.0,
+        1052.0,
+        1430.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Alekhine, in My Best Games of Chess 1924-1937, says of this move: 'This lit-",
+      "bbox": [
+        319.0,
+        1489.0,
+        1592.0,
+        1535.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tle pawn threatens by its further advance to set on fire the black king's residence —",
+      "bbox": [
+        274.0,
+        1539.0,
+        1593.0,
+        1587.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and cannot possibly be stopped from that dark design.'",
+      "bbox": [
+        273.0,
+        1589.0,
+        1177.0,
+        1635.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Vd6 2 Ag6",
+      "bbox": [
+        320.0,
+        1634.0,
+        566.0,
+        1679.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black had intended to meet 2 g5 with 2...Vd5, but the intermediate move 2",
+      "bbox": [
+        317.0,
+        1690.0,
+        1590.0,
+        1733.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ag6 puts paid to that idea.",
+      "bbox": [
+        271.0,
+        1736.0,
+        713.0,
+        1780.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...Zf8 3 g5!",
+      "bbox": [
+        316.0,
+        1788.0,
+        527.0,
+        1831.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The bayonet has its point in both the bishop on f6 and the pawn on h6, and",
+      "bbox": [
+        315.0,
+        1842.0,
+        1588.0,
+        1891.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "nothing can be done about it.",
+      "bbox": [
+        270.0,
+        1893.0,
+        749.0,
+        1931.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...Axd4",
+      "bbox": [
+        314.0,
+        1938.0,
+        465.0,
+        1973.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 3...Vd5 4 gxf6 Xxf6, White cannot exchange queens, it is true, but he has 5",
+      "bbox": [
+        314.0,
+        1988.0,
+        1586.0,
+        2040.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Äd3 Qhf8 6 Af7, holding on to the booty he has won.",
+      "bbox": [
+        267.0,
+        2038.0,
+        1169.0,
+        2088.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4 gxh6 Qdf6 5 hxg7+ exg7 6 Vh6+ 7 Qxd4 Vxd4 8 Ab2 1-0.",
+      "bbox": [
+        312.0,
+        2090.0,
+        1478.0,
+        2137.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's only possible attempt at resistance, 8...Vd7, is defeated by 9 Xd3 Vg7",
+      "bbox": [
+        312.0,
+        2145.0,
+        1584.0,
+        2197.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "IO Axf6 and mate in three moves.",
+      "bbox": [
+        270.0,
+        2190.0,
+        832.0,
+        2230.0
+      ],
+      "confidence": null
+    }
+  ]
+}

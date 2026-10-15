@@ -1,0 +1,1171 @@
+{
+  "chapter_pages": {
+    "英译者序": 3,
+    "导言": 4,
+    "计划": 5,
+    "第一章 威廉·斯坦尼茨的两场胜局": 63,
+    "第二章 计划的各个阶段": 71,
+    "第三章 a线上的战斗": 89,
+    "第四章 中心及其战略意义": 102,
+    "第五章 进一步谈兵的积极行动": 152,
+    "第六章 重子斗争": 189,
+    "第七章 调动与主动权": 208,
+    "第八章 双象": 231,
+    "代后记": 242
+  },
+  "figure_pages": {
+    "1": 5,
+    "2": 6,
+    "3": 9,
+    "4": 10,
+    "5": 11,
+    "6": 12,
+    "7": 13,
+    "8": 15,
+    "9": 16,
+    "10": 18,
+    "11": 20,
+    "12": 21,
+    "13": 22,
+    "14": 23,
+    "15": 24,
+    "16": 25,
+    "17": 26,
+    "18": 28,
+    "19": 28,
+    "20": 29,
+    "21": 33,
+    "22": 35,
+    "23": 36,
+    "24": 37,
+    "25": 38,
+    "26": 39,
+    "27": 40,
+    "28": 41,
+    "29": 42,
+    "30": 42,
+    "31": 43,
+    "32": 44,
+    "33": 45,
+    "34": 46,
+    "35": 48,
+    "36": 49,
+    "37": 50,
+    "38": 51,
+    "39": 52,
+    "40": 54,
+    "41": 55,
+    "42": 56,
+    "44": 56,
+    "43": 57,
+    "46": 58,
+    "45": 58,
+    "47": 60,
+    "48": 61,
+    "49": 62,
+    "50": 64,
+    "51": 66,
+    "52": 68,
+    "53": 69,
+    "54": 70,
+    "55": 72,
+    "56": 74,
+    "57": 75,
+    "58": 76,
+    "59": 78,
+    "60": 79,
+    "61": 81,
+    "62": 82,
+    "63": 83,
+    "64": 84,
+    "65": 86,
+    "66": 87,
+    "67": 88,
+    "68": 89,
+    "69": 90,
+    "70": 91,
+    "71": 92,
+    "72": 94,
+    "73": 95,
+    "74": 96,
+    "75": 98,
+    "76": 99,
+    "77": 101,
+    "78": 103,
+    "79": 104,
+    "80": 106,
+    "81": 107,
+    "82": 108,
+    "83": 109,
+    "84": 110,
+    "85": 112,
+    "86": 114,
+    "87": 115,
+    "88": 116,
+    "89": 117,
+    "90": 120,
+    "91": 121,
+    "92": 124,
+    "93": 126,
+    "94": 128,
+    "95": 129,
+    "96": 130,
+    "97": 131,
+    "98": 132,
+    "99": 133,
+    "101": 134,
+    "100": 135,
+    "102": 136,
+    "103": 137,
+    "104": 138,
+    "105": 139,
+    "106": 141,
+    "107": 143,
+    "108": 144,
+    "109": 145,
+    "110": 146,
+    "111": 147,
+    "112": 148,
+    "113": 149,
+    "114": 150,
+    "115": 152,
+    "116": 153,
+    "117": 154,
+    "118": 155,
+    "119": 157,
+    "120": 158,
+    "121": 160,
+    "122": 161,
+    "123": 162,
+    "124": 164,
+    "125": 166,
+    "126": 167,
+    "127": 169,
+    "128": 170,
+    "129": 171,
+    "130": 172,
+    "131": 173,
+    "132": 173,
+    "133": 175,
+    "134": 177,
+    "135": 178,
+    "136": 178,
+    "137": 179,
+    "138": 180,
+    "139": 181,
+    "140": 182,
+    "141": 184,
+    "142": 185,
+    "143": 186,
+    "144": 188,
+    "145": 190,
+    "146": 192,
+    "147": 193,
+    "148": 194,
+    "149": 195,
+    "150": 197,
+    "151": 198,
+    "152": 199,
+    "153": 200,
+    "154": 201,
+    "155": 203,
+    "156": 204,
+    "157": 205,
+    "158": 206,
+    "159": 208,
+    "160": 209,
+    "161": 210,
+    "162": 211,
+    "163": 212,
+    "164": 213,
+    "165": 214,
+    "166": 215,
+    "167": 216,
+    "168": 218,
+    "169": 219,
+    "170": 220,
+    "171": 221,
+    "172": 224,
+    "173": 226,
+    "174": 228,
+    "175": 229,
+    "176": 232,
+    "177": 234,
+    "178": 235,
+    "179": 236,
+    "180": 237,
+    "181": 238,
+    "182": 239,
+    "183": 240
+  },
+  "figures": [
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-009-diagram-1.png",
+      "caption": "白方行棋",
+      "reference": "02_planning_basic_understanding_zh.md: 白方走。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-009-diagram-2.png",
+      "caption": "白方行棋",
+      "reference": "02_planning_basic_understanding_zh.md: 当前局面正属于这一类型。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-013-diagram-1.png",
+      "caption": "白方走完 4. Bg5 后的局面",
+      "reference": "03_planning_concrete_ideas_zh.md: 3... Bb7 4. Bg5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-013-diagram-2.png",
+      "caption": "黑方走完 11... g6 后的局面",
+      "reference": "03_planning_concrete_ideas_zh.md: 10. Qf3 Nc6? 11. Qh3 g6?"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-015-diagram-1.png",
+      "caption": "黑方走完 15... Ng7 后的局面",
+      "reference": "03_planning_concrete_ideas_zh.md: 14. Rfe1 g6? 15. Bf1 Ng7?"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-016-diagram-1.png",
+      "caption": "黑方走完 29... Qc8 后的局面",
+      "reference": "03_planning_concrete_ideas_zh.md: 27. Rxa5 Na6 28. Qa3 Nab8 29. Ra7 Qc8"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-017-diagram-1.png",
+      "caption": "白方走完 9. Bb2 后的局面",
+      "reference": "03_planning_concrete_ideas_zh.md: 6... Ngf6 7. O-O Be7 8. b3 O-O 9. Bb2"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-018-diagram-1.png",
+      "caption": "黑方走完 12... Bb4 后的局面",
+      "reference": "03_planning_concrete_ideas_zh.md: 10... e4 11. Nd2 Bxe2 12. Qxe2 Bb4!"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-019-diagram-1.png",
+      "caption": "白方走完 21. Be1 后的局面",
+      "reference": "03_planning_concrete_ideas_zh.md: 19. Qd3 Rae8 20. Nb1 Ng6 21. Be1?"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-022-diagram-1.png",
+      "caption": "白方走完 9. O-O 后的局面",
+      "reference": "04_planning_dynamics_zh.md: `9. O-O`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-024-diagram-1.png",
+      "caption": "白方走完 22. Qxd2 后的局面",
+      "reference": "04_planning_dynamics_zh.md: 20... c5 21. R4d2 Rxd2 22. Qxd2"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-025-diagram-1.png",
+      "caption": "白方走完 10. O-O 后的局面",
+      "reference": "04_planning_dynamics_zh.md: `10. O-O`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-026-diagram-1.png",
+      "caption": "黑方走完 17... Be8 后的局面",
+      "reference": "04_planning_dynamics_zh.md: 16... Rfd8 17. f4 Be8"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-027-diagram-1.png",
+      "caption": "白方走完 21. Ne4 后的局面",
+      "reference": "04_planning_dynamics_zh.md: 19. Bxf6 Bxf6 20. Nxf6+ gxf6 21. Ne4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-027-diagram-2.png",
+      "caption": "黑方走完 24... R8d6 后的局面",
+      "reference": "04_planning_dynamics_zh.md: `24... R8d6`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-028-diagram-1.png",
+      "caption": "",
+      "reference": "05_planning_harmony_zh.md: 为了说明这一观点，请看下面这个简单局面。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-029-diagram-1.png",
+      "caption": "斯塔尔琴科夫（白）对罗曼诺夫斯基（黑），黑方行棋",
+      "reference": "05_planning_harmony_zh.md: 这一局面出自1929年列宁格勒举行的斯塔尔琴科夫—罗曼诺夫斯基之战。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-031-diagram-2.png",
+      "caption": "苏埃京（白）对安托申（黑），白方行棋",
+      "reference": "05_planning_harmony_zh.md: 以下局面取自苏埃京—安托申之战"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-031-diagram-1.png",
+      "caption": "白方走完 33. Qd2 后的局面",
+      "reference": "05_planning_harmony_zh.md: 29... Bh3 30. Qf3 Qe7 31. Kf1 Bg4 32. Qd3 Re8 33. Qd2"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-032-diagram-1.png",
+      "caption": "黑方走完 15... Qc7 后的局面",
+      "reference": "05_planning_harmony_zh.md: `15. Qxf5 Qc7`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-036-diagram-1.png",
+      "caption": "黑方走完 20... Nh5 后的局面",
+      "reference": "05_planning_harmony_zh.md: 16... Nf6 17. Rf2 h5 18. h3 h4 19. Nh1 Kg7 20. Rff1 Nh5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-038-diagram-1.png",
+      "caption": "斯梅斯洛夫（白）对鲁达科夫斯基（黑），白方行棋",
+      "reference": "06_squares_weak_points_zh.md: 下面用一个例子说明。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-039-diagram-1.png",
+      "caption": "祖巴列夫（白）对鲁宾斯坦（黑），白方行棋",
+      "reference": "06_squares_weak_points_zh.md: 图示局面取自祖巴列夫对鲁宾斯坦一局"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-040-diagram-1.png",
+      "caption": "白方走完 18. Qe3 后的局面",
+      "reference": "07_squares_eternal_knight_zh.md: 此前白方刚走了`18. Qe3`。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-041-diagram-1.png",
+      "caption": "黑方走完 33... Rfb8 后的局面",
+      "reference": "07_squares_eternal_knight_zh.md: 26. Kf1 a4 27. a3 c5 28. Rd2 b5 29. cxb5 Nxb5 30. Be6+ Kg7 31. hxg6 hxg6 32. Kg2 Nd4 33. Bg4 Rfb8"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-042-diagram-1.png",
+      "caption": "白方走完 14. Bg5 后的局面",
+      "reference": "07_squares_eternal_knight_zh.md: `14. Bg5`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-043-diagram-1.png",
+      "caption": "黑方走完 19... cxd6 后的局面",
+      "reference": "07_squares_eternal_knight_zh.md: `19. exd6 cxd6`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-043-diagram-2.png",
+      "caption": "布龙斯坦（白）对鲍特维尼克（黑），白方行棋",
+      "reference": "07_squares_eternal_knight_zh.md: 在布龙斯坦与鲍特维尼克1951年世界冠军赛的第16局中，形成了图示局面。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-044-diagram-2.png",
+      "caption": "黑方走完 54... Rg8 后的局面",
+      "reference": "07_squares_eternal_knight_zh.md: `54... Rg8`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-044-diagram-1.png",
+      "caption": "特尔普戈夫（白）对布龙斯坦（黑），白方行棋",
+      "reference": "07_squares_eternal_knight_zh.md: 在特尔普戈夫对布龙斯坦一局"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-045-diagram-1.png",
+      "caption": "黑方走完 43... Nd4 后的局面",
+      "reference": "07_squares_eternal_knight_zh.md: `42. h5 g5 43. Qf2 Nd4`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-046-diagram-1.png",
+      "caption": "皮尔斯伯里（白）对齐果林（黑），白方行棋",
+      "reference": "08_squares_weak_sixth_rank_zh.md: 皮尔斯伯里对齐果林一局"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-046-diagram-2.png",
+      "caption": "罗曼诺夫斯基（白）对斯莫罗德斯基（黑），白方行棋",
+      "reference": "08_squares_weak_sixth_rank_zh.md: 图示局面取自罗曼诺夫斯基对斯莫罗德斯基一局"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-047-diagram-1.png",
+      "caption": "黑方走完 39... Ke7 后的局面",
+      "reference": "08_squares_weak_sixth_rank_zh.md: 36... Ke8 37. Nb6 Rc7 38. Nac4 Bd7 39. Nd6+ Ke7"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-049-diagram-1.png",
+      "caption": "黑方走完 26... Nd3 后的局面",
+      "reference": "08_squares_weak_sixth_rank_zh.md: `25... Ne5 26. Bf3 Nd3!`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-050-diagram-2.png",
+      "caption": "黑方走完 24... d5 后的局面",
+      "reference": "08_squares_weak_sixth_rank_zh.md: 得以围绕白方e4孤兵在中心展开反击。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-050-diagram-1.png",
+      "caption": "黑方走完 30... d4 后的局面",
+      "reference": "08_squares_weak_sixth_rank_zh.md: `27... Qe6 28. Re2 f5 29. Nh1 f4 30. Rd1 d4`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-051-diagram-1.png",
+      "caption": "阿廖欣（白）对米凯纳斯（黑），黑方行棋",
+      "reference": "08_squares_weak_sixth_rank_zh.md: 图示局面产生于阿廖欣对米凯纳斯一局"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-052-diagram-1.png",
+      "caption": "黑方走完 26... cxd5 后的局面",
+      "reference": "08_squares_weak_sixth_rank_zh.md: 16. Ne2 Nf8 17. a5 b5 18. g3 Rh8 19. Kg2 Kg8 20. Rh1 Kf7 21. Nf4 Rg8 22. b3 Nh7 23. c4 Bd7 24. Rac1 Bf8 25. Be2 Nc8 26. cxd5 cxd5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-054-diagram-1.png",
+      "caption": "白方走完 8. Qd5 后的局面",
+      "reference": "10_lines_zh.md: 7... f5 8. Qd5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-055-diagram-1.png",
+      "caption": "阿廖欣（白）对塔塔科维尔（黑），白方行棋",
+      "reference": "10_lines_zh.md: 下面来看几个富有启发性的例子。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-055-diagram-2.png",
+      "caption": "黑方走完 31... Qf3 后的局面",
+      "reference": "10_lines_zh.md: `31... Qf3!`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-056-diagram-1.png",
+      "caption": "白方走完 34. gxf3 后的局面",
+      "reference": "10_lines_zh.md: `33. Nxf3 Nxf3+ 34. gxf3`"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-056-diagram-2.png",
+      "caption": "施密特（白）对齐果林（黑），白方行棋",
+      "reference": "10_lines_zh.md: 他的许多对局都建立在这一攻击基础之上。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-057-diagram-1.png",
+      "caption": "白方走完 32. Nf2 后的局面",
+      "reference": "10_lines_zh.md: 27... Rg6 28. c4 Rg4 29. Bc1 Qc6 30. Rg1 Rh8 31. Rb2 Qf3 32. Nf2"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-057-diagram-2.png",
+      "caption": "黑方走完 23... Qc6 后的局面",
+      "reference": "10_lines_zh.md: 21. Qd2 d4 22. Ne1 Qe8 23. Nd3 Qc6"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-059-diagram-1.png",
+      "caption": "白方走完 23. c4 后的局面",
+      "reference": "10_lines_zh.md: 19. Rf1 Qg4 20. Nd2 Re2 21. Ne4 Qf3 22. Qa5 Rxe4 23. c4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-059-diagram-2.png",
+      "caption": "齐果林（白）对塔拉什（黑），黑方行棋",
+      "reference": "10_lines_zh.md: 图示为白方齐果林第40回合`40. Nf2`后的局面。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapter\\diagrams\\page-060-diagram-1.png",
+      "caption": "黑方走完 46... Rcc2 后的局面",
+      "reference": "10_lines_zh.md: 44... Rxb2 45. g5 hxg5 46. hxg5 Rcc2"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-063-diagram-1.png",
+      "caption": "黑方走完10... c6后的局面",
+      "reference": "11_chapter_one_steinitz_zh.md: 10. Bb3 c6"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-065-diagram-1.png",
+      "caption": "黑方走完20... h5后的局面",
+      "reference": "11_chapter_one_steinitz_zh.md: 20. g5 h5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-067-diagram-1.png",
+      "caption": "黑方走完5... O-O后的局面",
+      "reference": "11_chapter_one_steinitz_zh.md: 5. e3 O-O"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-068-diagram-1.png",
+      "caption": "黑方走完13... f4后的局面",
+      "reference": "11_chapter_one_steinitz_zh.md: 13... f4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-068-diagram-2.png",
+      "caption": "黑方走完23... Bd8后的局面",
+      "reference": "11_chapter_one_steinitz_zh.md: 23. g5 Bd8"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-071-diagram-1.png",
+      "caption": "黑方走完9... bxc6后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 9. Bxc6 bxc6"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-073-diagram-1.png",
+      "caption": "黑方走完22... a5后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 22. Rb1 a5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-074-diagram-1.png",
+      "caption": "黑方走完26... Bxa4后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 26... Bxa4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-075-diagram-1.png",
+      "caption": "黑方走完33... Rf8后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 32... f6 33. Qb2 Rf8"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-077-diagram-1.png",
+      "caption": "黑方走完7... g6后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 7... g6"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-078-diagram-1.png",
+      "caption": "黑方走完14... O-O后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 14. Bb3 O-O"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-081-diagram-1.png",
+      "caption": "黑方走完27... b4后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 27... b4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-082-diagram-2.png",
+      "caption": "黑方走完28... Re6后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 28... Re6"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-082-diagram-1.png",
+      "caption": "黑方走完32... c5后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 32... c5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-084-diagram-1.png",
+      "caption": "黑方走完48... Qf3后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 48. Kb1 Qf3"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-087-diagram-1.png",
+      "caption": "黑方走完18... Nh5后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 18. Bf2 Nh5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-087-diagram-2.png",
+      "caption": "白方走完29. Qc1后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 29. Qc1"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\tmp\\pdfs\\middlegame_chapters12\\diagrams\\page-088-diagram-1.png",
+      "caption": "黑方走完39... Rd1后的局面",
+      "reference": "12_chapter_two_stages_zh.md: 39. Kh1 Rd1"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_three_figures\\figure-01.png",
+      "caption": "马尔科（白）对穆勒（黑），白方行棋",
+      "reference": "CH3-7"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_three_figures\\figure-02.png",
+      "caption": "拉斯克（白）对肖瓦尔特（黑），黑方行棋",
+      "reference": "CH3-14–15"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_three_figures\\figure-03.png",
+      "caption": "卡帕布兰卡（白）对特雷巴尔（黑），白方行棋",
+      "reference": "CH3-24"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_three_figures\\figure-04.png",
+      "caption": "卡帕布兰卡（白）对阿廖欣（黑），白方行棋",
+      "reference": "CH3-39"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_three_figures\\figure-05.png",
+      "caption": "白方走完13. Nd2后的局面",
+      "reference": "CH3-65–66"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_three_figures\\figure-06.png",
+      "caption": "黑方走完20... b5后的局面",
+      "reference": "CH3-83"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_three_figures\\figure-07.png",
+      "caption": "黑方走完33... Raa2后的局面",
+      "reference": "CH3-103"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_three_figures\\figure-08.png",
+      "caption": "黑方走完13... d5后的局面",
+      "reference": "CH3-133–134"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_three_figures\\figure-09.png",
+      "caption": "黑方走完24... a5后的局面",
+      "reference": "CH3-156"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_three_figures\\figure-10.png",
+      "caption": "白方走完38. Bh4后的局面",
+      "reference": "CH3-176"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-102-diagram-1.png",
+      "caption": "白方走完14. Ne5后的局面",
+      "reference": "14. Ne5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-103-diagram-1.png",
+      "caption": "白方走完12. Qf3后的局面",
+      "reference": "12. Qf3"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-105-diagram-1.png",
+      "caption": "黑方走完18... Rac8后的局面",
+      "reference": "18. Qxc4 Rac8?"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-106-diagram-1.png",
+      "caption": "白方走完20. Ng1后的局面",
+      "reference": "白方刚走完20. Ng1。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-106-diagram-2.png",
+      "caption": "米泽斯（白）对比耶卡尔（黑），白方走棋",
+      "reference": "在米泽斯对比耶卡尔一局中（奥斯坦德，1907年），出现了类似的局面。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-108-diagram-1.png",
+      "caption": "黑方走完6... Nc6后的局面",
+      "reference": "6... Nc6"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-108-diagram-2.png",
+      "caption": "黑方走完21... Nb4后的局面",
+      "reference": "21. Nc3 Nb4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-110-diagram-1.png",
+      "caption": "黑方走完22... Rfc8后的局面",
+      "reference": "22... Rfc8"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-111-diagram-1.png",
+      "caption": "黑方走完9... O-O后的局面",
+      "reference": "9... O-O?"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-112-diagram-1.png",
+      "caption": "黑方走完20... Nxg7后的局面",
+      "reference": "20. Bxg7 Nxg7"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-114-diagram-1.png",
+      "caption": "白方走完28. bxa4后的局面",
+      "reference": "28. bxa4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-115-diagram-1.png",
+      "caption": "白方走完6. fxe5后的局面",
+      "reference": "6. fxe5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-117-diagram-1.png",
+      "caption": "白方走完12. e4后的局面",
+      "reference": "12. e4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-118-diagram-1.png",
+      "caption": "黑方走完3... Nf6后的局面",
+      "reference": "3. Nc3 Nf6"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-121-diagram-1.png",
+      "caption": "黑方走完6... d5后的局面",
+      "reference": "6. cxb5 d5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-124-diagram-1.png",
+      "caption": "白方走完6. Bg5后的局面",
+      "reference": "6. Bg5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-125-diagram-1.png",
+      "caption": "白方走完21. Rh6后的局面",
+      "reference": "21. Rh6"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-126-diagram-1.png",
+      "caption": "白方走完13. exd4后的局面",
+      "reference": "13. exd4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-127-diagram-1.png",
+      "caption": "黑方走完18... Rc7后的局面",
+      "reference": "18... Rc7"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-128-diagram-1.png",
+      "caption": "索科尔斯基（白）对鲍特维尼克（黑），白方走棋",
+      "reference": "下例是索科尔斯基对鲍特维尼克一局"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-128-diagram-2.png",
+      "caption": "塔拉什（白）对齐果林（黑），白方走棋",
+      "reference": "图示局面出自1893年塔拉什对齐果林对抗赛第19局。"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-129-diagram-1.png",
+      "caption": "拉文斯基（白）对罗曼诺夫斯基（黑），白方走棋",
+      "reference": "在拉文斯基对罗曼诺夫斯基一局中（列宁格勒，1926年）"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-130-diagram-1.png",
+      "caption": "黑方走完31... e5后的局面",
+      "reference": "31... e5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-130-diagram-2.png",
+      "caption": "肖瓦尔特（白）对布莱克本（黑），白方走棋",
+      "reference": "肖瓦尔特对布莱克本一局（纽伦堡，1896年）"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-131-diagram-1.png",
+      "caption": "黑方走完11... c5后的局面",
+      "reference": "11. O-O c5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-132-diagram-1.png",
+      "caption": "白方走完17. g4后的局面",
+      "reference": "17. g4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-133-diagram-1.png",
+      "caption": "白方走完11. Be3后的局面",
+      "reference": "11. Be3"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-134-diagram-1.png",
+      "caption": "黑方走完24... Qc6后的局面",
+      "reference": "24. e3 Qc6"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-136-diagram-1.png",
+      "caption": "白方走完12. Bf1后的局面",
+      "reference": "12. Bf1"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-137-diagram-1.png",
+      "caption": "黑方走完26... c4后的局面",
+      "reference": "26... c4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-138-diagram-1.png",
+      "caption": "白方走完12. Be2后的局面",
+      "reference": "12. Be2"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-139-diagram-1.png",
+      "caption": "黑方走完24... a5后的局面",
+      "reference": "24. Rd4 a5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-140-diagram-1.png",
+      "caption": "白方走完12. e4后的局面",
+      "reference": "12. e4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-140-diagram-2.png",
+      "caption": "黑方走完15... Rad8后的局面",
+      "reference": "15. Rad1 Rad8"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-141-diagram-1.png",
+      "caption": "白方走完22. b4后的局面",
+      "reference": "22. b4?"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-142-diagram-1.png",
+      "caption": "黑方走完10... exd5后的局面",
+      "reference": "10. cxd5 exd5"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_four_figures\\page-143-diagram-1.png",
+      "caption": "白方走完21. e4后的局面",
+      "reference": "21. e4"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-01.png",
+      "caption": "兵楔的基本兵形",
+      "reference": "4.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-02.png",
+      "caption": "黑方走完7... e5后的局面",
+      "reference": "12.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-03.png",
+      "caption": "黑方走完13... Kh8后的局面",
+      "reference": "20.1"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-04.png",
+      "caption": "白方走完10. h4后的局面",
+      "reference": "31.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-05.png",
+      "caption": "黑方走完11... f5后的局面",
+      "reference": "75.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-06.png",
+      "caption": "黑方走完8... d4后的局面",
+      "reference": "97.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-07.png",
+      "caption": "黑方走完13... Nh5后的局面",
+      "reference": "134.1"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-08.png",
+      "caption": "白方走完21. f4后的局面",
+      "reference": "150.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-09.png",
+      "caption": "白方走完33. Rxf5后的局面",
+      "reference": "164.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-10.png",
+      "caption": "白方走完9. h4后的局面",
+      "reference": "202.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-11.png",
+      "caption": "黑方走完13... c6后的局面",
+      "reference": "247.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-12.png",
+      "caption": "马洛契（白）对皮尔斯伯里（黑），黑方行棋",
+      "reference": "261.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-13.png",
+      "caption": "黑方走完18... Ra8后的局面",
+      "reference": "301.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-14.png",
+      "caption": "白方走完21. f4后的局面",
+      "reference": "310.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-15.png",
+      "caption": "白方走完31. f6后的局面",
+      "reference": "329.1"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-16.png",
+      "caption": "鲁宾斯坦（白）对马歇尔（黑），白方行棋",
+      "reference": "333.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-17.png",
+      "caption": "鲁宾斯坦（白）对马歇尔（黑），白方行棋",
+      "reference": "341.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-18.png",
+      "caption": "阿罗宁（白）对弗洛尔（黑），白方行棋",
+      "reference": "346.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-19.png",
+      "caption": "白方走完12. Qe2后的局面",
+      "reference": "370.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-20.png",
+      "caption": "白方走完17. Ng5后的局面",
+      "reference": "425.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-21.png",
+      "caption": "黑方走完25... Re8后的局面",
+      "reference": "442.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-22.png",
+      "caption": "黑方走完29... f3+后的局面",
+      "reference": "444.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-23.png",
+      "caption": "维德马尔（白）对塔拉什（黑），白方行棋",
+      "reference": "461.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-24.png",
+      "caption": "维德马尔（白）对塔拉什（黑），黑方行棋",
+      "reference": "466.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-25.png",
+      "caption": "白方走完20. h5后的局面",
+      "reference": "490.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-26.png",
+      "caption": "黑方走完31... Kd8后的局面",
+      "reference": "517.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-27.png",
+      "caption": "白方走完17. h5后的局面",
+      "reference": "532.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-28.png",
+      "caption": "黑方走完22... gxf6后的局面",
+      "reference": "544.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-29.png",
+      "caption": "黑方走完18... f5后的局面",
+      "reference": "576.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_five_figures\\figure-30.png",
+      "caption": "黑方走完30... g4后的局面",
+      "reference": "608.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-01.png",
+      "caption": "施莱希特（白）对拉斯克（黑），白方行棋",
+      "reference": "13.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-02.png",
+      "caption": "黑方走完38... Qc4后的局面",
+      "reference": "49.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-03.png",
+      "caption": "白方走完54. Kg2后的局面",
+      "reference": "86.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-04.png",
+      "caption": "拉斯克（白）对皮尔斯伯里（黑），白方行棋",
+      "reference": "97.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-05.png",
+      "caption": "白方走完29. h3后的局面",
+      "reference": "113.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-06.png",
+      "caption": "尤伟（白）对阿廖欣（黑），白方行棋",
+      "reference": "136.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-07.png",
+      "caption": "罗曼诺夫斯基（白）对斯塔尔贝里（黑），白方行棋",
+      "reference": "151.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-08.png",
+      "caption": "黑方走完39... Kg6后的局面",
+      "reference": "160.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-09.png",
+      "caption": "黑方走完43... Kf8后的局面",
+      "reference": "170.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-10.png",
+      "caption": "白方走完47. Ra8+后的局面",
+      "reference": "192.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-11.png",
+      "caption": "黑方走完30... Qd3后的局面",
+      "reference": "241.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-12.png",
+      "caption": "黑方走完36... Rb7后的局面",
+      "reference": "250.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-13.png",
+      "caption": "黑方走完47... Ka6后的局面",
+      "reference": "268.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_six_figures\\figure-14.png",
+      "caption": "黑方走完49... Ka5后的局面",
+      "reference": "279.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-01.png",
+      "caption": "拉斯克（白）对伯恩（黑），白方行棋",
+      "reference": "10.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-02.png",
+      "caption": "白方走完41. Qf3后的局面",
+      "reference": "18.1"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-03.png",
+      "caption": "拉斯克（白）对萨尔韦（黑），白方行棋",
+      "reference": "28.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-04.png",
+      "caption": "黑方走完27... Qe8后的局面",
+      "reference": "36.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-05.png",
+      "caption": "白方走完38. Rh4后的局面",
+      "reference": "58.1"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-06.png",
+      "caption": "白方走完14. Bd3后的局面",
+      "reference": "80.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-07.png",
+      "caption": "白方走完35. Ra3后的局面",
+      "reference": "97.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-08.png",
+      "caption": "黑方走完56... Kg8后的局面",
+      "reference": "110.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-09.png",
+      "caption": "黑方走完20... Qe7后的局面",
+      "reference": "126.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-10.png",
+      "caption": "黑方走完45... Re8后的局面",
+      "reference": "151.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-11.png",
+      "caption": "黑方走完62... Qc5后的局面",
+      "reference": "174.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-12.png",
+      "caption": "布莱克本（白）对阿尔宾（黑），白方行棋",
+      "reference": "180.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-13.png",
+      "caption": "白方走完82. Rb1后的局面",
+      "reference": "197.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-14.png",
+      "caption": "黑方走完29... Nb4后的局面",
+      "reference": "259.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-15.png",
+      "caption": "白方走完17. Rh3后的局面",
+      "reference": "291.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-16.png",
+      "caption": "黑方走完10... O-O后的局面",
+      "reference": "337.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_seven_figures\\figure-17.png",
+      "caption": "白方走完18. a4后的局面",
+      "reference": "356.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_eight_figures\\figure-01.png",
+      "caption": "分析变化：黑方走完15... c5后的局面，白方行棋",
+      "reference": "18.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_eight_figures\\figure-02.png",
+      "caption": "波戈留波夫（白）对雅诺夫斯基（黑），白方行棋",
+      "reference": "52.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_eight_figures\\figure-03.png",
+      "caption": "白方走完30. Rb1后的局面",
+      "reference": "64.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_eight_figures\\figure-04.png",
+      "caption": "科托夫（白）对卡什丹（黑），黑方行棋",
+      "reference": "81.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_eight_figures\\figure-05.png",
+      "caption": "黑方走完27... Ne6后的局面",
+      "reference": "95.1"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_eight_figures\\figure-06.png",
+      "caption": "黑方走完11... Rfd8后的局面",
+      "reference": "123.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_eight_figures\\figure-07.png",
+      "caption": "白方走完18. g4后的局面",
+      "reference": "127.0"
+    },
+    {
+      "path": "C:\\Users\\12059\\Documents\\Codex\\chess\\translations\\chess_middlegame_planning\\chapter_eight_figures\\figure-08.png",
+      "caption": "黑方走完31... Bxd6后的局面",
+      "reference": "147.0"
+    }
+  ],
+  "caption_changes": [
+    {
+      "before": "白方走完 21. Be1? 后的局面",
+      "after": "白方走完 21. Be1 后的局面"
+    },
+    {
+      "before": "黑方走完13... d5!后的局面",
+      "after": "黑方走完13... d5后的局面"
+    },
+    {
+      "before": "黑方走完24... a5!后的局面",
+      "after": "黑方走完24... a5后的局面"
+    },
+    {
+      "before": "白方走完10. h4!后的局面",
+      "after": "白方走完10. h4后的局面"
+    },
+    {
+      "before": "白方走完17. Ng5?后的局面",
+      "after": "白方走完17. Ng5后的局面"
+    },
+    {
+      "before": "白方走完17. Rh3?后的局面",
+      "after": "白方走完17. Rh3后的局面"
+    },
+    {
+      "before": "黑方走完27... Ne6?后的局面",
+      "after": "黑方走完27... Ne6后的局面"
+    },
+    {
+      "before": "白方走完18. g4?后的局面",
+      "after": "白方走完18. g4后的局面"
+    }
+  ],
+  "hidden_notes": [
+    "译注：实际上，从现代引擎的角度看，黑方到这里为止没有犯下任何实质性错误。但是，正如作者所言，单纯出子而缺乏对局面危险之处的认识，导致这个在引擎看来仍属均势的局面，实际上已经陷入危机。",
+    "译注：从残局的观点来看，由于a线距离王城非常远，而轻子对于通路兵，尤其是边线通路兵的防守能力较弱，如果在此处的战斗发生大量重子兑换，后翼一旦出现通路兵将是决定性的。在围绕a线斗争的过程中执行兑换或者兵的突破时，必须时刻考虑到这一点。"
+  ],
+  "source_counts": {
+    "英译者序": 6,
+    "导言": 4,
+    "计划": 747,
+    "第一章　威廉·斯坦尼茨的两场胜局": 108,
+    "第二章　计划的各个阶段": 231,
+    "第三章　a线上的战斗": 169,
+    "第四章　中心及其战略意义": 704,
+    "第五章　进一步谈兵的积极行动": 508,
+    "第六章　重子斗争": 237,
+    "第七章　调动与主动权": 321,
+    "第八章　双象": 138,
+    "代后记": 2
+  },
+  "output": "C:\\Users\\12059\\Documents\\Codex\\chess\\output\\pdf\\chess_middlegame_planning_complete_zh_proof_v1.pdf"
+}

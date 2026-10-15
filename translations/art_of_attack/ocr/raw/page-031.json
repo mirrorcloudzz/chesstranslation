@@ -1,0 +1,180 @@
+{
+  "pdf_page": 31,
+  "printed_page": 31,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        349.2,
+        119.8,
+        1370.9,
+        167.2
+      ],
+      "text": "The attack on the king that has lost the right to castle",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        1460.4,
+        118.5,
+        1514.3,
+        164.7
+      ],
+      "text": "31",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        231.6,
+        265.7,
+        872.3,
+        311.9
+      ],
+      "text": "18...e8 19 2f6+ f7 20 g5+ f8",
+      "confidence": 0.9061
+    },
+    {
+      "bbox": [
+        230.3,
+        316.9,
+        1279.0,
+        363.0
+      ],
+      "text": "If 20..xf6, then 21 We6+, followed by mate in a few moves.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        235.2,
+        370.5,
+        382.2,
+        409.2
+      ],
+      "text": "21 a3!",
+      "confidence": 0.9603
+    },
+    {
+      "bbox": [
+        232.8,
+        421.6,
+        1515.5,
+        462.8
+      ],
+      "text": "Excellent! White has a mating attack ready and needs only to get rid of Black's",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        188.7,
+        469.1,
+        503.5,
+        510.2
+      ],
+      "text": "threat of ...Wxe1#.",
+      "confidence": 0.9329
+    },
+    {
+      "bbox": [
+        234.0,
+        516.5,
+        1075.7,
+        560.1
+      ],
+      "text": "21...Wxa3 22 We6 d8 23 Wf7+! xf7 24 e6#",
+      "confidence": 0.9665
+    },
+    {
+      "bbox": [
+        498.6,
+        727.3,
+        524.4,
+        758.5
+      ],
+      "text": "B",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        235.2,
+        1225.0,
+        1516.7,
+        1268.7
+      ],
+      "text": "This position is from the game Kotov-Bondarevsky, Leningrad 1936, when",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        188.7,
+        1273.7,
+        1519.2,
+        1323.6
+      ],
+      "text": "these future grandmasters were playing in a first-category tournament. Black, to",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        191.1,
+        1328.6,
+        1277.8,
+        1367.2
+      ],
+      "text": "move, directed the second and third acts of the drama as follows:",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        236.5,
+        1373.5,
+        1347.7,
+        1415.9
+      ],
+      "text": "1...f4+ 2 xf4 Wf2+ 3 d3 Wxd4+ 4 xd4 c5+ 5 d3 ②xe5#",
+      "confidence": 0.9529
+    },
+    {
+      "bbox": [
+        502.3,
+        1581.8,
+        535.4,
+        1613.0
+      ],
+      "text": "W",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        237.7,
+        2083.3,
+        1518.0,
+        2125.7
+      ],
+      "text": "This position is from the game Alekhine-Feldt, blindfold simultaneous dis-",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        193.6,
+        2131.9,
+        840.4,
+        2179.3
+      ],
+      "text": "play, Tarnopol 1916. White continued:",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        235.2,
+        2181.8,
+        1519.2,
+        2228.0
+      ],
+      "text": "1 f7! xf7 (otherwise 2 Wxe6, etc.) 2 Wxe6+! (drawing the king out still",
+      "confidence": 0.9825
+    }
+  ]
+}

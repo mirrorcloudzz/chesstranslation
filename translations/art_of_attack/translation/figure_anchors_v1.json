@@ -1,0 +1,110 @@
+[
+  {
+    "figure_id": "AA-p007-fig01",
+    "anchor_segment": "IN-11",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p008-fig01",
+    "anchor_segment": "IN-13",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p009-fig01",
+    "anchor_segment": "IN-20",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p011-fig01",
+    "anchor_segment": "IN-27",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p015-fig01",
+    "anchor_segment": "CH1-12",
+    "caption": "黑方走完10... d4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p016-fig01",
+    "anchor_segment": "CH1-20",
+    "caption": "白方走完9. Bb3后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p017-fig01",
+    "anchor_segment": "CH1-27",
+    "caption": "汉森（白）对伦丁（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p017-fig02",
+    "anchor_segment": "CH1-32",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p018-fig01",
+    "anchor_segment": "CH1-42",
+    "caption": "拉文斯基（白）对帕诺夫（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p020-fig01",
+    "anchor_segment": "CH1-65",
+    "caption": "白方走完16. Rac1后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p020-fig02",
+    "anchor_segment": "CH1-71",
+    "caption": "黑方走完21... Ke8后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p022-fig01",
+    "anchor_segment": "CH1-95",
+    "caption": "黑方走完9... Qc4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p023-fig01",
+    "anchor_segment": "CH1-103",
+    "caption": "黑方走完12... Bd6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p024-fig01",
+    "anchor_segment": "CH1-111",
+    "caption": "瓦赖因（白）对姓名不详棋手（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p024-fig02",
+    "anchor_segment": "CH1-115",
+    "caption": "阿斯盖尔松（白）对劳德（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p025-fig01",
+    "anchor_segment": "CH1-126",
+    "caption": "白方走完15. Nb6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p026-fig01",
+    "anchor_segment": "CH1-145",
+    "caption": "黑方走完10... b6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p027-fig01",
+    "anchor_segment": "CH1-153",
+    "caption": "白方走完20. b4后的局面",
+    "status": "context_verified"
+  }
+]

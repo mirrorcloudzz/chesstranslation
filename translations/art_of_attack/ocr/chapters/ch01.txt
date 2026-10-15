@@ -1,0 +1,376 @@
+The attack against the uncastled king
+
+
+[PDF page 14]
+1 The attack against the
+uncastled king
+Making a mating attack on a king which had not yet castled was one of the joys of
+chess players in the past. These days the victim of such an attack is usually some-
+one playing a master in a simultaneous display who has failed to castle at the
+right time.
+The initial position of the king before it castles contains two main weaknesses.
+One is that it is exposed if the e-file is opened up; the second is that the square f7
+in Black's position (f2 is the corresponding weak point for White) is vulnerable,
+since it is covered by the king alone. It is therefore natural that the vast majority
+of attacks on an uncastled king exploit one of these weaknesses.
+The attack along the e-file
+The first and most fundamental condition for an attack along the e-file is that the
+opponent's king should be on that file, and that for some reason it is impossible
+or difficult for it to move away. If all the adjacent squares are occupied by the
+king's own pieces or controlled by the opponent's, its escape is absolutely impos-
+sible. However, if the player is simpiy being prevented from castling, but other
+squares are not covered, the movement of the king is only relatively restricted; in
+other words, it can move at the cost of losing the right to castle. Castling can also
+be thwarted indirectly: for instance, if the king has to guard one of the pieces
+which is protecting it (e.g. on e7 in Black's case).
+The second condition for an attack of this kind depends on the attacker's own
+circumstances. First of all, the e-file should be open, or it should at any rate be in
+the attacker's power to open it; the attacker should also either have a piece which
+can control a file (a rook or queen) on the file or be able quickly to post one on it.
+Besides this, he usually needs to strengthen his pressure on the e-file, for instance
+by doubling rooks or by attacking one of his opponent's pieces which is on the
+file and protecting the king.
+From these necessary conditions it transpires that in an attack along the e-file
+there tends to be a chain of defence, and the attack is carried out against the cen-
+tral unit of the chain, that is, the piece protecting the king. If this piece is on the
+square directly in front of the king (e7 or e2), the attacker may be able to mate by
+
+[PDF page 15]
+capturing it with his queen (or rook), i.e. by making the square into the focal-
+point.
+An attack on the e-file tends to occur most frequently at an early stage of the
+game. The following miniature is an example of how rapidly this kind of attack
+may develop after an opening mistake:
+Meesen - H. Muller
+Correspondence Game, 1928/9
+English Opening
+1 c4 e5 2 c3 f63 f3 c6 4 d4 exd4 5 xd4 b4 6 ②xc6 bxc67 g3? We7
+A good move, which counters White's plan (g2 and 0-0) by attacking along
+the e-file. If White were now to play 8 e3, such an attack would admittedly not
+follow, but he would still be weakening his position.
+8 g2 a6 9 Wd3 d5 10 b3 d4! (D)
+[AA-p015-fig01]
+An interesting move; Black abandons his attack on the e-file for the time be-
+ing, transferring his pressure to the weakened diagonal a5-e1. If White now takes
+the c6-pawn and then the a8-rook, Black can win a piece by ...&xc3+ and
+...xal.
+11 Wxd4 μd8
+Forcing the queen to give up the defence of the knight.
+12 xc6+ f8 13 d5 xd5! 0-1
+White resigns, since 14 cxd5 is followed by 14...Wxe2#. Play returns to the e-
+file at the final point of victory.
+With an attack along the e-file, the main difficulty can often be the actual
+
+[PDF page 16]
+opening up of the file, especially if everything else has already been achieved, as,
+for example, in the following game:
+Chigorin - Burn
+Ostend, 1906
+King's Gambit Declined
+1 e4 e5 2 f4 c5 3 f3 d6 4 皇c4 2f6 5 c3 0-0 6 d3 2c6 7 We2 e8 8 f5 d5 9
+b3 (D)
+[AA-p016-fig01]
+This position contains the three elements already referred to (king on e1,
+queen on e2 and the black rook on e8), and it is only a question of opening up the
+e-file. This aim can be promoted by the sacrifice of Black's bishop on f5:
+9...xf5!
+After 10 exf5 e4, the important point is that White cannot avoid opening up
+the e-file since removing his knight would be followed by 11...exd3. But if Black
+had played more weakly with 9...dxe4? 10 dxe4 Qxf5 11 exf5 e4, he would have
+lost the chance of playing ..exd3, and White could have moved his knight and
+avoided opening up the file.
+The play after 10..e4 is no longer of interest; White could still try 11 d1
+exf3 12 Wxf3, after which 12...e5 followed by 13...g4 or 13...d4 would lead
+to a great advantage for Black.
+In the game itself, White declined the sacrifice by 10 g5, but lost quickly:
+10...dxe4 11 dxe4 xe4 12 Wc4 Wd5 13 Wb5 f2+ 0-1
+If the e-file is already open and the last defender is a piece on e2 (or e7 for
+Black) then the operation often takes the form of a systematic attempt to
+
+[PDF page 17]
+undermine the defence of the critical square, thus making e2 into a focal-point.
+The following diagram gives an example of this kind of operation:
+[AA-p017-fig01]
+This position is from the game Hansen-Lundin, Oslo 1928.
+1...xd4! 2 xd4 xd4 3 cxd4
+Alternatives were 3 0-0-0 xe2+ and 3 d1 Wxe2+, etc.
+3...b4
+To avoid mate White now had to consent to the loss of his queen by 4 f2, but
+he resigned after 4...xd2 5 xg4+ f5 6 xd2 fxg4 7 he1 Wxd4+ 8 e3
+Wxb2+ 9 ±f1 e8 0-1.
+[AA-p017-fig02]
+This position supplies a convenient example of the method of play against a
+piece protecting the king.
+White, to move, must discover the correct way to increase his pressure against
+the bishop on e7. He would not achieve enough by 1 We2 f8 2 Qxe7+ xe7 3
+
+[PDF page 18]
+g5 f5, and Black has defended himself successfully. 1 Ke2 would similarly
+be useless, while if 1 xe7+ xe7 2 f6 (or 2 We2 f6 and then ...f8), Black
+would still be able to maintain the balance by playing 2...d7 (3 We2 c6, etc.).
+White's only correct move is:
+1 f6!
+In this way White not only prevents Black from castling but also stops him
+from countering with ...f6.
+1...0-0 would be answered by 2 xe7 xe7 3 We2! e8 4 Wd2 h7 5 g5+
+g8 6 e6! fxe6 7 Wh6 f5 8 Wxg6+, and White wins.
+1...f8 2 xe7+!
+A rook sacrifice of this type is often necessary if an attack along the e-file is to
+be forced home. It is essentially a question of freeing the square e1 for the second
+rook, while the first, in being sacrificed, eliminates one of the pieces defending
+e7'.
+2...xe7 3 We2 Wd7
+If 3...d7, then 4 e1 e8 5 Wb5+ c8 6 Wc4 d5 7 We2 d7 8 e5+, and
+White wins.
+4 e1 We6 5 Wb5+ c6 6 Wxb7, and White wins.
+White's play in the following position (Ravinsky-Panov, Moscow 1943) is an
+excellent example of a well-conducted attack along the e-file.
+[AA-p018-fig01]
+ 2 Wd3! is even more convincing. Black can only prevent the deadly 3 xe7+
+1
+xe7 4 e1 by 2...d7, but after 3 Wb5+ his position collapses immediately.
+In Vukovic's main line, 4..0-0-0 5 Qxe7 de8 would enable Black to fight on.
+
+[PDF page 19]
+1 xd7! ②xd7 2 xe6 fxe6 3 Wxe6+ e7
+If 3...d8, then 4 g5+ c7 5 Wc6+ b8 6 f4+ c7 7 xc7+ Wxc7 8
+Wa8#.
+4 e1 Wc5 5 b4! f8?
+Better would have been 5...Wxb4 6 g5 Wxe1+ 7 Wxe1 f6, when Black has
+excellent drawing chances. After the text move he loses in all variations.
+6 g4!
+Avoiding exchanges and keeping an eye on c8.
+6...Wc3 7 xe7+!
+A new and decisive sacrifice.
+7..xe7 8 Qg5+ d6 9 Wd1+ c7 10 Qf4+ b6 11 Wd6+ *a7 12 We7+
+c7 13 xc7
+Simpler, of course, would have been 13 Qe3+ b8 14 Wd8+ c8 15 Wb6#.
+13...Wa1+ 14 f1 g6 15 Wc5+ b7 16 a5 f8
+Or 16...c8 17 Wb6+ a8 18 xa6+ b8 19 c7+ and 20 xa1.
+17 Wb6+ 1-0
+If 17...a8, then 18 Wc6+ b8 19 Qc7+, mating in a few moves.
+The following brilliancy by Steinitz is an example of a game in which White
+plays consistently to build up pressure on the e-file and finally makes his decisive
+breakthrough there.
+Steinitz - von Bardeleben
+Hastings, 1895
+Giuoco Piano
+1 e4 e5 2 f3 c6 3 &c4 皇c5 4 c3 2f6 5 d4 exd4 6 cxd4 b4+ 7 c3 d5
+Nowadays one would play 7...xe4, which is better.
+8 exd5 xd5 9 0-0 Ωe6 10 Qg5 Ωe7? 11 臭xd5
+White now carries out a series of exchanges to keep up the pressure along the
+e-file and prevent Black from castling.
+11...xd5 12 xd5 Wxd5 13 xe7 xe7 14 e1 f6
+Black realizes that he cannot succeed in castling, since if 14...Wd7, White will
+increase his pressure on e7 by 15 We2. In playing 14..f6, Black aims at 'artificial
+castling' by means of ...f7 followed by ...he8 and ...g8; the move also limits
+the activity of White's knight. However, these are all excuses made in a situation
+which is already unhealthy for Black as a result of his weak 10th move.
+15 We2 Wd7 16 ac1 (D)
+16...c6?
+
+[PDF page 20]
+[AA-p020-fig01]
+Better would have been 16...d8; the text move does not prevent d4-d5,
+which White now plays with the aim of clearing d4 for his knight'.
+17 d5! cxd5 18 d4 f7 19 ②e6 hc8 20 Wg4 g6 21 g5+!
+The beginning of a great combination, one of the finest in 19th-century chess.
+The black king now has to go back on to the dangerous e-file.
+21...e8 (D)
+[AA-p020-fig02]
+22 xe7+! f8
+White's sacrificial assault on e7 crowns his attack on the e-file. As a result of
+his weakness on that file, Black consented to weaken his position elsewhere, as
+frequently happens once a basic defect has appeared. If he were to play
+22...xe7, then 23 e1+ d6 24 Wb4+ c7 (or 24...c5 25 e6+) 25 e6+
+According to contemporary analysis, Black could have equalised by 16...f7,
+but White could have gained the advantage earlier by 16 ad1!.
+
+[PDF page 21]
+b8 26 Wf4+ wins, so Black decides to decline the sacrifice, hoping to exploit
+the fact that he is himself threatening to mate on c1.
+23 f7+ 由g8
+23...Wxf7 would, of course, be followed by xc8+.
+24 μg7+!
+Black cannot get rid of this impudent rook, since if 24...xg7, then 25
+Wxd7+, 0r if 24...wxg7, then 25 xc8+.
+24...h8 25 μxh7+ 1-0
+At this point Steinitz's opponent left the tournament hall and never reap-
+peared. By these offensive means he hoped to deprive Steinitz of 'a piece of im-
+mortality', but the textbooks have noted White's intentions all the same:
+25...g8 26 g7+ h8 27 Wh4+ xg7 28 wh7+ f8 29 Wh8+ e7 30
+曾g7+ e8 31 g8+ e7 32 f7+ d8 33 f8+ e8 34 ②f7+ d7 35 d6#
+The attack on the square f7
+Black's weakest square on the board before castling is f7 (f2 for White). Even in
+the opening stages, threats of a sacrificial assault on f7 (or f2) are common; they
+are usually connected with an attack on the king or even with the idea of mate, in
+which case the square becomes the focal-point of a mating attack.
+Later on, after castling kingside, the rook protects this vulnerable square and
+its weakness is greatly diminished, while after castling queenside the weakness
+of the square has no connection with a mating attack.
+The most straightforward examples of assaults on f7 are to be seen at the be-
+ginning of certain open games, especially in the Petroff Defence and the Philidor
+Defence. We shall examine one example of this kind:
+1 e4 e5 2 f3 d6 3 c4 e7?
+Let us allow Black to play this bad move so as to reach a typical crisis over the
+square f7 as quickly as possible.
+4 g5 d5 5 exd5 xd5 6 Wf3
+6 d4 is also good.
+6...Wxg5
+After 6...e6 7 xe6 fxe6 8 Wh5+ Black loses a pawn and the right to castle.
+7 Ωxd5
+and Black loses at least a pawn. If 7...f5, then 8 xb7 e4 9 Wb3 Wxg2 10 f1
+and White wins.
+Naturally, various attacks can be made on the uncastled king other than via the
+e-file or f7; these are only two of the commonest and most typical methods. The
+
+[PDF page 22]
+following example shows how a threat along the e-file can be indirectly com-
+bined with pre-castling attacks of another kind.
+Keres - Kotov
+Budapest Ct, 1950
+Sicilian Najdorf
+1 e4 c5 2 2f3 d6 3 d4 cxd4 4 xd4 ②f6 5 2c3 a6 6 e2 Wc7 7 g5 ②bd7 8
+0-0 e6 9 h5 Wc4? (D)
+[AA-p022-fig01]
+Here White carried out the following Sicilian trick, the kind of thing at which
+Keres was a master:
+10 2xe6! Wxe6 11 2d5
+Black now went on to parry the threat of c7+ with 11...d8?, and after 12
+g4 We5 13 f4 Wxe4 14 Qxd7 xd7 15 xf6 he found himself in a hopeless
+position.
+An alternative was to let the e-file be opened up by 11...xd5 12 exd5 Wf5 13
+e1+ e5 14 f4, which would perhaps have been less unpleasant for Black, e.g.
+14...g6 15 fxe5 (15 g4 is weaker on account of 15...Wxg5 16 fxg5 g7, etc.)
+15...dxe5 16 We2 f6, etc'.
+A few further examples will show different aspects of the attack against the
+square f7:
+Indeed, after 16 We2 the reply 16...Wxg5 just leaves Black a piece up. Keres
+himself gave the continuation 13 We1+ (instead of 13 e1+) 13...e5 14 f4 h6
+15 fxe5 Wxg5 16 exd6+ as leading t0 a winning attack for White.
+
+[PDF page 23]
+Keres - Winter
+Warsaw OL, 1935
+Sicilian, 2...f6
+1 e4 c5 2 f3 f6 3 e5 d5 4 2c3 e6 5 ②xd5 exd5 6 d4 d6 7 g5 Wa5+ 8 c3
+cxd4 9 d3 dxc3 10 0-0 cxb2 11 b1 dxe5 12 xe5 d6 (D)
+[AA-p023-fig01]
+In this position White decided the game by sacrificing his knight on f7:
+13 2xf7! xf7 14 Wh5+
+A sacrificial assault on f7 must as a rule be followed up by aggressive action,
+so as not to allow Black time to consolidate (e.g. with an artificial castling by
+means of ...f8 and ...g8). The advantage of the capture is twofold: the king, in
+moving to f7, loses the right to castle and is exposed still further; at the same
+time, a weakness appears on the diagonal h5-e8. Such features should be quickly
+and energetically exploited, since they are on the whole of a transitory nature.
+14...g6
+If 14...*f8, then 15 fe1 d7 16 Wf3+ g8 17 e7 xe7 18 xe7, etc. Or if
+14...e6, then 15 f5+! xf5 16 d2+ is strongest.
+15 xg6+ hxg6 16 Wxh8 f5 17 fe1 Qe4 18 xe4! dxe4 19 Wf6+ 1-0
+Since if 19...g8 (or 19...e8 20 We6+ f8 21 h6#) then 20 Wxg6+ f8
+21 Wxd6+, followed by further checks and mate.
+The position on the following page is from the game Varein-NN. Here White
+carried out the following combination:
+1 .xf7+ xf7 2 ②d5!
+This double attack on Black's b4-bishop and f4-pawn promotes a further at-
+tack on the exposed king by means of a rapid deployment of the queen's bishop;
+
+[PDF page 24]
+[AA-p024-fig01]
+the position of Black's dark-squared bishop and queen helps White to gain some
+important tempi.
+2...e7 3 Qxf4 Wh4 4 2f3 Wh1+ 5 f2 Wxa1 6 e5+ e8 7 Wh5+ g6 8
+xc7+ f8 9 wh6+ g8 10 ②e8 f8 11 2f6#
+[AA-p024-fig02]
+The continuation in this position, which arose in the game Asgeirsson-Raud,
+Munich OL 1936, is an example of an attack by Black on White's weak square at
+f2.
+1...xf2! 2 xf2 g4+ 3 e1
+If 3 g3, then Black follows up the attack with 3...Wc7+, and White's king is
+too exposed.
+3...xe3 4 Wd2 d4 5 d1 xg2+ 6 *f2 ②h4 7 f1 Qh3 8 g1 ad8 9 g3
+d3 10 xd3 xf3 11 xf3 Wh4+ 12 g3 xd3 13 Wxd3 Wf4+ 14 Wf3 Wd2+
+15 g1 e1+ 0-1
+Black mates next move.
+
+[PDF page 25]
+A similar assault on f2 by two knights from e5 and g4 earned Black the First
+Brilliancy Prize in the following game:
+Réti - H. Wolf
+Teplitz-Schonau, 1922
+Queen's Gambit Declined, Orthodox Defence
+1 d4 d5 2 c4 e6 3 c3 f6 4 g5 臭e7 5 e3 0-0 6 f3 bd7 7 c1 c6 8 Wc2 a6
+9 c5?!
+Here this method of blocking the position is unsound because of Black's cen-
+tral advance with ...e5. Nowadays one would play 9 a3 or 9 cxd5.
+9...e5! 10 dxe5 g4 11 xe7 Wxe7 12 2a4 e8
+The pawn on e5 will not escape Black's clutches.
+13 d3 h6 14 2d4 dxe5 15 b6? (D)
+[AA-p025-fig01]
+A mistake which allows Black to strike at f2. White should have castled,
+though even his position would still have been somewhat inferior.
+15...2xf2! 16 h7+
+The critical continuation here is 16 xf2 g4+ 17 e1 (17 g3 would allow
+17...We5+ 18 h4 Wg5+ etc.) 17...Wxe3+ 18 ②e2 f5! 19 xf5 Wf2+ 20 d2
+xe2+ 21 c3 Wxc5+ and Black wins.
+16...h8 17 0-0
+Now 17 xf2 would be even weaker, e.g. 17...g4+ 18 e1 Wxe3+ 19 e2
+Wf2+, etc. White therefore attempts to save himself by castling, reckoning that
+Black will lose not only his knight but also his rook. However, Black has calcu-
+lated further:
+17...fg4 18 xa8 xe3 19 We2
+
+[PDF page 26]
+If 19 Wb1 then 19...xf1 20 xf1 (or 20 xf1 Wxc5) 20...g6 and Black ac-
+quires both a material and a positional advantage!
+19...xf1 20 b1 xh2 21 b6 ef3+! 22 gxf3
+If 22 h1 then 22...g4! is strongest.
+22...Wg5+ 23 xh2 xe2+ 24 xe2 We5+ 25 g3 Wxb2+ 26 c2 Wxb1 27
+e2 e6 28 f4 g6 29 a8 h5 30 c7 h4 31 2h1 Wd3 32 f2 f5 0-1
+To conclude the present chapter, the following game of Rubinstein's will serve
+to demonstrate a few more features connected with the f7/f2 sacrifice:
+Euwe - Rubinstein
+The Hague, 1921
+Sicilian Defence, 2...f6
+1 e4 c5 2 2f3 f6 3 e5 2d5 4 d4
+Better is 4 c3.
+4...cxd4 5 Wxd4 e6 6 c4?
+A weak move; 6 Qc4 is correct.
+6...2c6 7 Wd1 2de7! 8 d2 2g6 9 We2
+After 9 Qc3 Wc7 White must also move his queen to e2, thereby blocking his
+bishop.
+9...Wc7 10 c3 b6 (D)
+By developing his own pieces calmly, Black is making the best possible use of
+the difficulties experienced by White, who now cannot even fianchetto, e.g. 11
+g3? b7 12 g2 cxe5, etc.
+[AA-p026-fig01]
+
+[PDF page 27]
+11 h4 d6! 12 exd6 xd6
+Black is now both better developed and more powerful in the centre. White's
+troubles would only be further increased after 13 Qxg7 g8 14 Qc3 f4.
+13 bd2 2f4 14 We3 c5 15 We4 f5 16 Wc2
+The queen's sixth move - not a good augury, as H. Kmoch remarks in his com-
+mentary.
+16...0-0 17 g3 g6 18 h5
+Because of White's weakness in the centre, the pursuit of this knight ends in
+its centralization.
+18...ge5 19 xe5 xe5 20 b4 (D)
+[AA-p027-fig01]
+White cannot castle queenside because of the bishop's attack on f2, so he tries
+to employ power tactics. However, the use of force from a weaker position usu-
+ally prompts a still more forceful reply from one's opponent. Rubinstein, natu-
+rally, does not withdraw his bishop, but captures on f2. In exchange for a piece he
+gets two pawns and an attack, which is more than sufficient in this position, see-
+ing that he is the better developed and that the extra pawns are in the centre.
+20...xf2+! 21 xf2 g4+ 22 e2
+The king cannot go to el or g1 because of 22...Wxg3+, while 22 g2 allows
+22...e3+.
+22...Wxg3 23 d4 b7 24 μh3 Wd6 25 Wc3 e5
+White has averted the direct mating attack, but now Black's centralized pawns
+come into their own. In such positions they are as valuable as pieces.
+26 g1 f4 27 c5 Wh6 28 e1 e4 29 h4 Wg5 30 Wh3 e3! 31 xe3 fxe3 32
+c4+ h8 33 2f1 Wf6 0-1
+In the tumult of battle it is the point at which the white king's original wound
+was inflicted, i.e. f2, that is finally decisive.

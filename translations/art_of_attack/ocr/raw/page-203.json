@@ -1,0 +1,290 @@
+{
+  "pdf_page": 203,
+  "printed_page": 203,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        449.0,
+        130.0,
+        1397.0,
+        172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "203",
+      "bbox": [
+        1510.0,
+        130.0,
+        1571.0,
+        161.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A laborious defence; this knight has to cover n, while the other goes to f1 to",
+      "bbox": [
+        300.0,
+        278.0,
+        1574.0,
+        318.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "defend h2.",
+      "bbox": [
+        255.0,
+        332.0,
+        428.0,
+        362.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...Qfg4 17 Axg4 mxg4 18 hfl Vg5",
+      "bbox": [
+        303.0,
+        374.0,
+        954.0,
+        419.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This move is aimed against the square g2; Black's plan is to advance the d-",
+      "bbox": [
+        300.0,
+        428.0,
+        1573.0,
+        469.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawn and open the long diagonal for the b7-bishop.",
+      "bbox": [
+        255.0,
+        480.0,
+        1110.0,
+        521.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19 h3 Qh6 20 hf5 21 Qh2 (D)",
+      "bbox": [
+        303.0,
+        525.0,
+        919.0,
+        567.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "B",
+      "bbox": [
+        563.0,
+        734.0,
+        584.0,
+        760.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...d4!",
+      "bbox": [
+        302.0,
+        1235.0,
+        427.0,
+        1265.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's central mass makes another vigorous contribution to the attack. The",
+      "bbox": [
+        301.0,
+        1285.0,
+        1575.0,
+        1323.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "d-pawn now advances to d3, where it controls White's support square e2. If 22",
+      "bbox": [
+        256.0,
+        1335.0,
+        1574.0,
+        1375.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "exd4 e3, both 23 fxe3 and 23 Xgl are answered by 23...Vg3!.",
+      "bbox": [
+        256.0,
+        1380.0,
+        1282.0,
+        1425.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22 Acl d3",
+      "bbox": [
+        301.0,
+        1434.0,
+        481.0,
+        1468.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Still better is 22...Qg3+ 23 egl d3, for then 24 Vc4+ can be met without loss",
+      "bbox": [
+        302.0,
+        1482.0,
+        1574.0,
+        1526.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of tempo by 24.,.Ad5.",
+      "bbox": [
+        256.0,
+        1534.0,
+        625.0,
+        1577.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23 vc4+ 24 Ab2 hg3+ 25 Ad5 26 Va4 Qe2+ 27 Xf7 28",
+      "bbox": [
+        301.0,
+        1583.0,
+        1575.0,
+        1626.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Va6 h5 29 b6 Qg3+ 30 axb6 31 Vxb6 d2 32 Xn Qxfl 33 oxfl Ae6 34",
+      "bbox": [
+        256.0,
+        1634.0,
+        1575.0,
+        1677.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axh3 35 gxh3 Äf3 36 Qg3 h4 37 Af6 Vxf6 38 Xxh3+ 0-1.",
+      "bbox": [
+        345.0,
+        1684.0,
+        1463.0,
+        1728.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It is an irony of fate that the person to experience the might of the centre in this",
+      "bbox": [
+        302.0,
+        1791.0,
+        1574.0,
+        1830.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "game should have been Tarrasch, a great devotee of the centre and a noted expo-",
+      "bbox": [
+        256.0,
+        1842.0,
+        1574.0,
+        1881.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "nent of central pawn strategy. Such drastic examples of an action by the whole",
+      "bbox": [
+        256.0,
+        1892.0,
+        1575.0,
+        1931.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "central mass in the attack on the castled king will not be found in contemporary",
+      "bbox": [
+        256.0,
+        1943.0,
+        1575.0,
+        1981.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "master practice. The technique of playing against the centre has been so per-",
+      "bbox": [
+        256.0,
+        1993.0,
+        1574.0,
+        2032.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fected that one can no longer succeed by the single expedient of following the",
+      "bbox": [
+        256.0,
+        2044.0,
+        1575.0,
+        2082.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pattern of the game above. Masters no longer accept gambits like the Blumen-",
+      "bbox": [
+        255.0,
+        2094.0,
+        1574.0,
+        2133.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "feld; on all occasions they examine the extent of the compensation or the possi-",
+      "bbox": [
+        256.0,
+        2145.0,
+        1574.0,
+        2183.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bility of play against the centre, either by counterattacking it with pawns, or by",
+      "bbox": [
+        256.0,
+        2195.0,
+        1575.0,
+        2234.0
+      ],
+      "confidence": null
+    }
+  ]
+}

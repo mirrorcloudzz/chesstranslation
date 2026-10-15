@@ -1,0 +1,300 @@
+{
+  "pdf_page": 106,
+  "printed_page": 106,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        243.8,
+        127.2,
+        317.3,
+        169.7
+      ],
+      "text": "106",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        671.4,
+        129.7,
+        1172.5,
+        177.1
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        578.3,
+        381.7,
+        612.6,
+        414.2
+      ],
+      "text": "W",
+      "confidence": 0.897
+    },
+    {
+      "bbox": [
+        238.9,
+        879.5,
+        1563.3,
+        930.6
+      ],
+      "text": "take the rook with his queen, and this would in fact have won the game, as the",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        237.7,
+        930.6,
+        678.7,
+        976.8
+      ],
+      "text": "following analysis shows:",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        284.2,
+        979.3,
+        1337.9,
+        1026.7
+      ],
+      "text": "6 Wg5+ h8 7 Wh6+ $g8 8 d4 xc1 9 Wxc1! We5 10 f5",
+      "confidence": 0.9529
+    },
+    {
+      "bbox": [
+        281.8,
+        1030.4,
+        1564.5,
+        1085.3
+      ],
+      "text": "There is now an attack on the two focal-points h7 and g7, combined in some",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        240.1,
+        1084.1,
+        735.1,
+        1124.0
+      ],
+      "text": "variations with another on f7.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        278.1,
+        1131.5,
+        1563.3,
+        1182.6
+      ],
+      "text": "If Black plays 10...e4, there follows 11 xe4 dxe4 12 Wg5+ $h8 13 d7!",
+      "confidence": 0.9605
+    },
+    {
+      "bbox": [
+        236.5,
+        1180.1,
+        1562.1,
+        1237.5
+      ],
+      "text": "when Black has no proper defence against the threat of 14 Wh6+ and 15 e7+",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        232.8,
+        1225.0,
+        1481.2,
+        1293.6
+      ],
+      "text": "winning his queen, e.g. if 13..e8, then 14 Wh5+ *g8 15 wxf7+ mating.",
+      "confidence": 0.9707
+    },
+    {
+      "bbox": [
+        280.6,
+        1279.9,
+        664.0,
+        1324.8
+      ],
+      "text": "10...h7 11 Wh6 Ee8",
+      "confidence": 0.9111
+    },
+    {
+      "bbox": [
+        280.6,
+        1331.1,
+        1283.9,
+        1382.2
+      ],
+      "text": "The only way to meet the threat of 12 e7+ and 13 Wxh7#.",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        279.3,
+        1379.7,
+        544.0,
+        1424.6
+      ],
+      "text": "12 d6! xd6",
+      "confidence": 0.9701
+    },
+    {
+      "bbox": [
+        272.0,
+        1420.9,
+        1562.1,
+        1495.7
+      ],
+      "text": "Neither 12...g5 13 xe8 nor 12..e7 13 xh7+ h8 14 f5 hold out any",
+      "confidence": 0.9655
+    },
+    {
+      "bbox": [
+        232.8,
+        1484.5,
+        495.0,
+        1529.4
+      ],
+      "text": "hope for Black.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        276.9,
+        1531.9,
+        1146.7,
+        1588.0
+      ],
+      "text": "13 xh7+ $h8 14 g6+ with the final mate on f7.",
+      "confidence": 0.9662
+    },
+    {
+      "bbox": [
+        274.4,
+        1634.2,
+        1557.2,
+        1695.3
+      ],
+      "text": "Into the second group fall focal-points of the same colour which do not qualify",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        231.6,
+        1687.8,
+        1558.4,
+        1741.5
+      ],
+      "text": "as 'a network of squares'. The most typical case is that of h7 and f7, and in the",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        230.3,
+        1735.2,
+        1559.6,
+        1796.4
+      ],
+      "text": "next example we shall examine the most typical attack by the queen and bishop",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        231.6,
+        1788.9,
+        670.2,
+        1835.0
+      ],
+      "text": "against these two squares.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        272.0,
+        1835.0,
+        1024.2,
+        1893.7
+      ],
+      "text": "In the following diagram White begins with:",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        272.0,
+        1883.7,
+        394.5,
+        1929.9
+      ],
+      "text": "1 Wh5",
+      "confidence": 0.8761
+    },
+    {
+      "bbox": [
+        273.2,
+        1938.6,
+        1554.7,
+        1996.0
+      ],
+      "text": "He is threatening to sacrifice his bishop on h6 because all the essential precon-",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        230.3,
+        1984.7,
+        1555.9,
+        2048.4
+      ],
+      "text": "ditions for such a sacrifice have been fulfilled, as will be seen from the following",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        230.3,
+        2040.9,
+        1555.9,
+        2094.5
+      ],
+      "text": "analysis. We shall examine those replies by Black which lead to the characteristic",
+      "confidence": 0.9752
+    },
+    {
+      "bbox": [
+        229.1,
+        2092.0,
+        1555.9,
+        2145.7
+      ],
+      "text": "formation of white queen on h6 and bishop on the b1-h7 diagonal. We shall leave",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        229.1,
+        2141.9,
+        1555.9,
+        2194.3
+      ],
+      "text": "aside the replies 1...We6 and 1...f6, the first of which is bad because of 2 f5 and",
+      "confidence": 0.9809
+    },
+    {
+      "bbox": [
+        226.7,
+        2190.6,
+        726.5,
+        2240.5
+      ],
+      "text": "the second because of 2 Wg6.",
+      "confidence": 0.9795
+    }
+  ]
+}

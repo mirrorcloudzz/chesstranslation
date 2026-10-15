@@ -1,0 +1,84 @@
+PDF 71 / PRINTED 69
+
+even more stages. On the other
+, practice knows also
+hand,
+one-
+stage plans. These are most often
+met in games where incomplete
+where  conditions
+plans occur, 
+change, and that is why separate
+parts of the game turn out to have
+no logical connection with each
+other.
+We devote the present chapter
+to plans in which weak squares and
+open lines serve as the main purpo-
+seful objective.
+In accordance with this state-
+ment, the plan, with these object-
+ives in view, can be sub-divided
+into the following stages:
+1: the struggle for the creation of
+weak  squares
+s (or open lines)
+ for the capture
+2: the struggle
+(occupation)  of  weak  squares or
+lines
+3: the realisation of the advantage
+ensuing  from  the occupation of
+weak squares or open lines.
+We begin with a game played as
+far back as the Petersburg tourna-
+ment of 1909.
+Spanish
+Game
+White:
+R.Teichman
+Black:(
+O.Bernstein
+1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6 4
+Bb5 d6 5 d4 Bd7 6 0-0 Be7 7
+Rel exd4
+It has been well known since the
+time of the game Tarrasch-Marco
+(Dresden 1892) that castling for
+Black, at the present moment,
+entails the loss of a pawn after 8
+Bxc6 Bxc6 9 dxe5 dxe5 10 Qxd8
+69
+
+Raxd8 11 Nxe5, since 11 ... Bxe4
+12 Nxe4 Nxe4  is not possible
+because of 13 Nd3.
+8 Nxd4 0-0 9 Bxc6 bxc6
+This position can rightfully be
+called a theoretical opening. It has
+been met in practice hundreds of
+times and even important authori-
+ties diverge in their opinions when
+evaluating it. Em. Lasker fre-
+1 and with great success
+quently
+employed this variation for Black.
+However, many people reckoned
+that the presence of the central
+advanced e-pawn for White, some
+advantage in space, and finally a
+weakness of the Black
+certain
+pawns on the queen's flank which
+might play a role in the endgame -
+all this makes White's chances
+more promising.
+The diagrammed position is the
+intitial point of planning for both
+opponents. White sets his sights
+on the advance e5. There were
+even attempts to make this at
+once, but it became clear that,
+after 10 e5 dxe5 11 Rxe5 Bd6, the
+position of Black's pieces is im-
+proved, while White loses part of

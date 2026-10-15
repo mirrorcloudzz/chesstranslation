@@ -1,0 +1,390 @@
+{
+  "pdf_page": 43,
+  "printed_page": 43,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        403.1,
+        126.0,
+        1419.9,
+        168.4
+      ],
+      "text": "The attack on the king that has lost the right to castle",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        1513.1,
+        126.0,
+        1567.0,
+        167.2
+      ],
+      "text": "43",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        284.2,
+        268.2,
+        412.9,
+        315.6
+      ],
+      "text": "30 μc2",
+      "confidence": 0.9407
+    },
+    {
+      "bbox": [
+        285.5,
+        320.6,
+        1563.3,
+        368.0
+      ],
+      "text": "White obviously cannot play 30 Wxf5 since then 30...a5+ leads to mate; in-",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        241.4,
+        373.0,
+        1560.8,
+        419.2
+      ],
+      "text": "stead, he gives up his f-pawn and then by retreating his king quickly to al safe-",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        242.6,
+        424.1,
+        567.2,
+        469.1
+      ],
+      "text": "guards his position.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        285.5,
+        470.3,
+        926.2,
+        514.0
+      ],
+      "text": "30...Wxf4 31 b2 a5 32 a1 Wc4?",
+      "confidence": 0.9705
+    },
+    {
+      "bbox": [
+        283.0,
+        521.4,
+        1563.3,
+        568.9
+      ],
+      "text": "A further mistake; he could still have fought for a draw by 32...Wf3!. The",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        242.6,
+        576.3,
+        1076.9,
+        617.5
+      ],
+      "text": "square c4 is naturally more suitable for the knight.",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        284.2,
+        621.2,
+        470.5,
+        666.2
+      ],
+      "text": "33 e6 c6",
+      "confidence": 0.938
+    },
+    {
+      "bbox": [
+        281.8,
+        668.6,
+        1569.4,
+        722.3
+      ],
+      "text": "After 33...c6 34 Wd1 b7 35 e5 Black cannot play 35...xe6 because of",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        241.4,
+        724.8,
+        932.3,
+        768.4
+      ],
+      "text": "36 xg7 g8 37 xe6+ and White wins.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        285.5,
+        774.7,
+        498.6,
+        815.9
+      ],
+      "text": "34 Wd1 h5?",
+      "confidence": 0.9521
+    },
+    {
+      "bbox": [
+        286.7,
+        827.1,
+        1102.6,
+        868.2
+      ],
+      "text": "A terrible move; he should have played 34...d8.",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        287.9,
+        877.0,
+        744.9,
+        918.1
+      ],
+      "text": "35 g1! h7 36 xg7! 1-0",
+      "confidence": 0.9717
+    },
+    {
+      "bbox": [
+        284.2,
+        924.4,
+        1564.5,
+        970.5
+      ],
+      "text": "Since if 36...xg7, then 37 Wxh5+ followed by 38 Wh8+ and White forces",
+      "confidence": 0.97
+    },
+    {
+      "bbox": [
+        238.9,
+        983.0,
+        336.9,
+        1017.9
+      ],
+      "text": "mate.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        283.0,
+        1075.3,
+        1560.8,
+        1124.0
+      ],
+      "text": "In addition to this strange game, I shall extract from the treasury of chess curi-",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        241.4,
+        1129.0,
+        1565.7,
+        1170.1
+      ],
+      "text": "osities three more encounters which have particular relevance to the theme of a",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        238.9,
+        1177.6,
+        1565.7,
+        1223.8
+      ],
+      "text": "king's successful wandering. The series opens with a game between Hamppe and",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        236.5,
+        1227.5,
+        1564.5,
+        1274.9
+      ],
+      "text": "Meitner, in which the pursued king seeks asylum among the enemy pawns and is",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        237.7,
+        1278.7,
+        1560.8,
+        1327.3
+      ],
+      "text": "successful to the extent that the opponent cannot obtain anything beyond perpet-",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        240.1,
+        1329.8,
+        410.4,
+        1368.5
+      ],
+      "text": "ual check.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        719.2,
+        1428.4,
+        1081.8,
+        1474.5
+      ],
+      "text": "Hamppe - Meitner",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        789.0,
+        1479.5,
+        1010.7,
+        1524.4
+      ],
+      "text": "Vienna, 1872",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        785.3,
+        1530.7,
+        1015.6,
+        1573.1
+      ],
+      "text": "Vienna Game",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        240.1,
+        1631.7,
+        682.4,
+        1669.1
+      ],
+      "text": "1 e4 e5 2 c3 c5 3 a4",
+      "confidence": 0.9496
+    },
+    {
+      "bbox": [
+        279.3,
+        1677.9,
+        1565.7,
+        1732.7
+      ],
+      "text": "3 f3, which was often played by Anderssen, is the soundest answer to",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        237.7,
+        1731.5,
+        1562.1,
+        1780.2
+      ],
+      "text": "2...&c5. Hamppe's move is of doubtful value because of the bishop sacrifice on",
+      "confidence": 0.9665
+    },
+    {
+      "bbox": [
+        235.2,
+        1783.9,
+        289.1,
+        1825.1
+      ],
+      "text": "f2.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        283.0,
+        1832.5,
+        453.3,
+        1875.0
+      ],
+      "text": "3...血xf2+",
+      "confidence": 0.8722
+    },
+    {
+      "bbox": [
+        279.3,
+        1884.9,
+        1562.1,
+        1932.3
+      ],
+      "text": "In return for the bishop, Black obtains a promising attack on the king, which is",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        241.4,
+        1937.3,
+        738.8,
+        1979.8
+      ],
+      "text": "deprived of the right to castle.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        279.3,
+        1982.2,
+        640.7,
+        2025.9
+      ],
+      "text": "4 xf2 Wh4+ 5 e3",
+      "confidence": 0.9719
+    },
+    {
+      "bbox": [
+        276.9,
+        2029.6,
+        1563.3,
+        2087.0
+      ],
+      "text": "If 5 g3 then 5..Wxe4 6 We2 Wxa4 (not 6...Wxh1 because of 7 f3 and 8 g2)",
+      "confidence": 0.9536
+    },
+    {
+      "bbox": [
+        234.0,
+        2082.0,
+        1457.9,
+        2135.7
+      ],
+      "text": "7 Wxe5+ e7 8 Wxg7 g8 9 Wxh7 d6 and Black has the better position.",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        280.6,
+        2129.4,
+        678.7,
+        2184.3
+      ],
+      "text": "5...Wf4+ 6 d3 d5 (D)",
+      "confidence": 0.955
+    },
+    {
+      "bbox": [
+        276.9,
+        2183.1,
+        394.5,
+        2230.5
+      ],
+      "text": "7 ℃c3",
+      "confidence": 0.7881
+    }
+  ]
+}

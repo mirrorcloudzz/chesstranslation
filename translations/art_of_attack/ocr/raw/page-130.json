@@ -1,0 +1,290 @@
+{
+  "pdf_page": 130,
+  "printed_page": 130,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        276.9,
+        116.0,
+        352.8,
+        163.4
+      ],
+      "text": "130",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        705.7,
+        121.0,
+        1208.0,
+        173.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9653
+    },
+    {
+      "bbox": [
+        610.1,
+        373.0,
+        645.6,
+        406.7
+      ],
+      "text": "W",
+      "confidence": 0.9008
+    },
+    {
+      "bbox": [
+        313.6,
+        867.0,
+        1593.9,
+        924.4
+      ],
+      "text": "The bishop has nowhere to retreat to, while if 2 We2, then 2...&xf3 3 Wxf3",
+      "confidence": 0.9644
+    },
+    {
+      "bbox": [
+        268.3,
+        914.4,
+        1597.6,
+        980.5
+      ],
+      "text": "Wxh7, i.e. Black accepts the sacrifice as soon as he has eliminated White's",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        265.9,
+        965.5,
+        1205.5,
+        1027.9
+      ],
+      "text": "knight, for without that White's attack is worth nothing.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        311.2,
+        1016.7,
+        689.8,
+        1067.8
+      ],
+      "text": "2...Wxd1 3 fxd1 g6!",
+      "confidence": 0.9668
+    },
+    {
+      "bbox": [
+        311.2,
+        1067.8,
+        1593.9,
+        1130.2
+      ],
+      "text": "White now has no satisfactory defence against the threat of...g7 and ...h8,",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        268.3,
+        1121.5,
+        948.3,
+        1172.6
+      ],
+      "text": "and this gives Black the better prospects.",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        268.3,
+        1227.5,
+        1177.4,
+        1291.1
+      ],
+      "text": "A practical criterion for the sacrifice",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        264.6,
+        1321.1,
+        1587.8,
+        1384.7
+      ],
+      "text": "We shall now attempt to establish a practical rule for positions of the type given",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        263.4,
+        1373.5,
+        1585.3,
+        1434.6
+      ],
+      "text": "on pages 122-129, a means by which players can orientate themselves quickly",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        263.4,
+        1423.4,
+        1587.8,
+        1484.5
+      ],
+      "text": "and fairly accurately. Positions similar to that on page 121, i.e. with a rook on h1",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        263.4,
+        1473.3,
+        1589.0,
+        1534.4
+      ],
+      "text": "and pawn on h4, will be left aside for the time being and will be dealt with in",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        263.4,
+        1523.2,
+        1587.8,
+        1586.8
+      ],
+      "text": "chapter 7. It should also be remarked that in the positions on pages 122-129 the",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        262.2,
+        1574.3,
+        1584.1,
+        1634.2
+      ],
+      "text": "basic condition that the defender should not be able to reject the sacrifice un-",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        258.5,
+        1620.5,
+        1586.6,
+        1687.8
+      ],
+      "text": "scathed was fulfilled. It should further be added that the arrangement of Black's",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        258.5,
+        1675.4,
+        1585.3,
+        1736.5
+      ],
+      "text": "pieces in those positions did not depart greatly from the normal, while White, in",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        257.3,
+        1725.3,
+        1584.1,
+        1787.6
+      ],
+      "text": "addition to the essential light-squared bishop, the queen, and the knight on f3,",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        256.1,
+        1776.4,
+        1584.1,
+        1838.8
+      ],
+      "text": "had at his disposal a number of other supporting pieces to sustain his attack.",
+      "confidence": 0.9781
+    },
+    {
+      "bbox": [
+        257.3,
+        1827.6,
+        800.0,
+        1877.5
+      ],
+      "text": "Listed in categories, these were:",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        300.2,
+        1877.5,
+        1396.7,
+        1938.6
+      ],
+      "text": "Pawn at e5 and bishop at c1 on pages 122, 124 (bottom) and 125;",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        300.2,
+        1927.4,
+        993.6,
+        1986.0
+      ],
+      "text": "Pawn at e5 and bishop at f4 on page 126;",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        298.9,
+        1978.5,
+        1149.2,
+        2035.9
+      ],
+      "text": "Pawn at e5 and knight at d2 on page 127 (bottom);",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        296.5,
+        2027.2,
+        994.8,
+        2088.3
+      ],
+      "text": "Pawn at e5 and knight at c3 on page 128;",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        296.5,
+        2079.5,
+        853.9,
+        2133.2
+      ],
+      "text": "Pawns at e5 and h4 on page 129;",
+      "confidence": 0.9723
+    },
+    {
+      "bbox": [
+        295.3,
+        2129.4,
+        1150.4,
+        2190.6
+      ],
+      "text": "Rook at e1 and bishop at f4 on page 124 (top); and",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        296.5,
+        2181.8,
+        1080.6,
+        2238.0
+      ],
+      "text": "Rook at el and bishop at c1 on page 127 (top).",
+      "confidence": 0.9871
+    }
+  ]
+}

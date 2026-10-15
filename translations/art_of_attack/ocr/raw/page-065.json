@@ -1,0 +1,240 @@
+{
+  "pdf_page": 65,
+  "printed_page": 65,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        359.0,
+        123.5,
+        1421.2,
+        172.2
+      ],
+      "text": "On castling and attacking the castled position in general",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        219.3,
+        272.0,
+        1538.8,
+        318.1
+      ],
+      "text": "development of a number of particular types of sacrificial attacks, but without in",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        216.9,
+        318.1,
+        1538.8,
+        371.7
+      ],
+      "text": "general reaching Morphy's level. Steinitz was concerned with perfecting defen-",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        215.6,
+        371.7,
+        1538.8,
+        420.4
+      ],
+      "text": "sive technique, and his influence on the style of the period was slowly beginning",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        215.6,
+        421.6,
+        1540.0,
+        467.8
+      ],
+      "text": "to make the attack on the castled king fade from master chess. Lasker, too, the",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        216.9,
+        474.0,
+        1538.8,
+        517.7
+      ],
+      "text": "new World Champion, was even in his youth already turning away from forcing",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        216.9,
+        522.7,
+        1541.2,
+        570.1
+      ],
+      "text": "such attacks, preferring to aim at perfection in the endgame. At the end of the",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        216.9,
+        571.3,
+        1542.5,
+        621.2
+      ],
+      "text": "century, however, there were three great masters who defended the thesis of at-",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        216.9,
+        621.2,
+        1546.1,
+        671.1
+      ],
+      "text": "tacking chess and who in doing so clearly showed themselves to be supporters of",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        216.9,
+        672.4,
+        1538.8,
+        718.5
+      ],
+      "text": "the attack on the castled king. These were Chigorin, Tarrasch and Pillsbury, each",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        218.1,
+        723.5,
+        1540.0,
+        767.2
+      ],
+      "text": "of whom in his own way heiped to enrich the technique of attack. Chigorin illus-",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        219.3,
+        770.9,
+        1541.2,
+        822.1
+      ],
+      "text": "trated particularly the power of the positional sacrifice in his games; Tarrasch's",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        216.9,
+        824.6,
+        1541.2,
+        872.0
+      ],
+      "text": "thesis was that the rapid development of the pieces and a strong centre were the",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        216.9,
+        872.0,
+        1547.4,
+        921.9
+      ],
+      "text": "basic requisites for an attack on the castled king; while Pillsbury created a kind of",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        218.1,
+        924.4,
+        1542.5,
+        973.0
+      ],
+      "text": "synthesis of the attacking style and the positional and endgame play of Steinitz",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        216.9,
+        973.0,
+        1540.0,
+        1021.7
+      ],
+      "text": "and Lasker. In other words, the American grandmaster showed how a rapid",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        218.1,
+        1026.7,
+        1540.0,
+        1071.6
+      ],
+      "text": "switch can be made from attack to a simplification which gives the better ending.",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        218.1,
+        1076.6,
+        1540.0,
+        1121.5
+      ],
+      "text": "In this way all the basic elements of a perfected technique for attacking the cas-",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        218.1,
+        1124.0,
+        1543.7,
+        1173.9
+      ],
+      "text": "tled king were set out, and after a short period of stagnation in the first two de-",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        220.5,
+        1176.4,
+        1541.2,
+        1223.8
+      ],
+      "text": "cades of the present century there followed the real blossoming of the dynamic",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        220.5,
+        1226.3,
+        1541.2,
+        1272.4
+      ],
+      "text": "style with the arrival of Capablanca and Alekhine. This development is still rele-",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        218.1,
+        1276.2,
+        1543.7,
+        1323.6
+      ],
+      "text": "vant to the theme of the attack on the castled king today, and more will be said",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        221.8,
+        1332.3,
+        730.2,
+        1368.5
+      ],
+      "text": "about it at the end of the book.",
+      "confidence": 0.9792
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "pdf_page": 64,
+  "printed_page": 64,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        283.0,
+        119.8,
+        336.9,
+        164.7
+      ],
+      "text": "64",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        713.0,
+        121.0,
+        1214.1,
+        168.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.968
+    },
+    {
+      "bbox": [
+        325.9,
+        268.2,
+        469.2,
+        310.6
+      ],
+      "text": "9 cxd4?",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        330.8,
+        320.6,
+        1609.8,
+        365.5
+      ],
+      "text": "Weakly played. By 9 g5 (an intermediate move!) 9...We8 10 cxd4 White",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        285.5,
+        369.3,
+        1607.4,
+        419.2
+      ],
+      "text": "would have obtained a winning position. (Greco and other authors right up to the",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        284.2,
+        417.9,
+        1608.6,
+        469.1
+      ],
+      "text": "middle of the nineteenth century did not see the intermediate move 9 Qg5, so",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        281.8,
+        466.6,
+        1306.0,
+        516.5
+      ],
+      "text": "that 8 e5 came to be regarded in the textbooks as a mistake!')",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        328.3,
+        520.2,
+        754.7,
+        560.1
+      ],
+      "text": "9...2xd4! 10 ②xd4 Wh4",
+      "confidence": 0.8807
+    },
+    {
+      "bbox": [
+        325.9,
+        570.1,
+        1401.6,
+        618.8
+      ],
+      "text": "This is Greco's trick. White has two exposed spots, at h2 and f2.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        328.3,
+        618.8,
+        461.9,
+        661.2
+      ],
+      "text": "11 e3",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        323.4,
+        663.7,
+        1608.6,
+        724.8
+      ],
+      "text": "Greco naturally also gives the continuation 11 f3 Wxf2+ followed by",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        285.5,
+        721.0,
+        1160.2,
+        767.2
+      ],
+      "text": "12...Wg1+ and a smothered mate by the knight at f2.",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        327.1,
+        769.7,
+        812.3,
+        813.4
+      ],
+      "text": "11...Wxh2+ 12 $fl Wh1+?!",
+      "confidence": 0.9008
+    },
+    {
+      "bbox": [
+        323.4,
+        822.1,
+        1607.4,
+        870.7
+      ],
+      "text": "In carrying his attack further Greco does not notice all the finesses. 12...xe3+",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        283.0,
+        873.2,
+        1067.1,
+        918.1
+      ],
+      "text": "followed by ...d6 would have been better here'.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        324.7,
+        920.6,
+        986.2,
+        968.0
+      ],
+      "text": "13 e2 Wxg2 14 g1 xe3 15 xe3?",
+      "confidence": 0.9592
+    },
+    {
+      "bbox": [
+        325.9,
+        973.0,
+        1603.7,
+        1021.7
+      ],
+      "text": "This way White loses two valuable pawns, and Greco concludes his analysis",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        283.0,
+        1017.9,
+        1607.4,
+        1071.6
+      ],
+      "text": "with 15...xd4+ 16 xd4 Wxf2+ 17 c3 We3+ 18 d3 Wxe5+, with advan-",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        283.0,
+        1075.3,
+        514.6,
+        1116.5
+      ],
+      "text": "tage to Black.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        322.2,
+        1122.7,
+        1606.2,
+        1172.6
+      ],
+      "text": "Instead of 15 xe3?, the correct continuation is 15 xg2 xd1 16 f5, when",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        280.6,
+        1172.6,
+        1603.7,
+        1226.3
+      ],
+      "text": "Black must find the reply 16...d5! 17 xg7 Qh3!, if he is to retain the better pros-",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        280.6,
+        1226.3,
+        1607.4,
+        1274.9
+      ],
+      "text": "pects (though even here there is still some uncertainty after 18 g3 Qxf2 19",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        279.3,
+        1272.4,
+        1604.9,
+        1327.3
+      ],
+      "text": "xh3 dxc4 20 ②d2, etc.). If he played 16...xb2 17 h6+ h8 18 xf7+, he",
+      "confidence": 0.9783
+    },
+    {
+      "bbox": [
+        281.8,
+        1326.1,
+        1582.9,
+        1377.2
+      ],
+      "text": "would have to consent to a draw, since 18...xf7 is probably not a good idea?.",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        323.4,
+        1427.1,
+        1602.5,
+        1475.8
+      ],
+      "text": "In step with the general advance in chess skill there can also be seen an ad-",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        279.3,
+        1479.5,
+        1604.9,
+        1526.9
+      ],
+      "text": "vance in the technique of attacking the castled king, first with Philidor and then,",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        276.9,
+        1529.4,
+        1603.7,
+        1576.8
+      ],
+      "text": "particularly, with Morphy. The romantic reaction which followed led to the",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        281.8,
+        1659.1,
+        297.7,
+        1679.1
+      ],
+      "text": "1",
+      "confidence": 0.5586
+    },
+    {
+      "bbox": [
+        360.2,
+        1651.7,
+        1603.7,
+        1697.8
+      ],
+      "text": "Black should meet 9 g5 by 9...dxc3!. After 10 xe7 xf2+ 11 $f1 cxb2 12",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        361.4,
+        1696.6,
+        1604.9,
+        1749.0
+      ],
+      "text": "c3 (12 a3 xe1 also favours Black) 12...xe1 (12...bxa1W 13 Wxa1 xe1",
+      "confidence": 0.9562
+    },
+    {
+      "bbox": [
+        357.7,
+        1737.7,
+        1604.9,
+        1805.1
+      ],
+      "text": "14 d5 is unclear) 13 d5 xe7 14 xe7+ $h8 Black has a clear advantage",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        356.5,
+        1790.1,
+        1604.9,
+        1850.0
+      ],
+      "text": "in view of the threats of 15..bxa1W and 15...e3+. White's strongest move is 9",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        357.7,
+        1843.8,
+        1600.0,
+        1898.7
+      ],
+      "text": "b4!, but an analysis of the resulting complications (which lead to a roughly",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        360.2,
+        1894.9,
+        1603.7,
+        1947.3
+      ],
+      "text": "equal position) would take us too far afield. Perhaps those old analysts knew a",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        362.6,
+        1947.3,
+        700.8,
+        1984.7
+      ],
+      "text": "thing or two after all!",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        272.0,
+        1993.5,
+        301.4,
+        2032.1
+      ],
+      "text": "2",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        357.7,
+        1989.7,
+        1603.7,
+        2045.9
+      ],
+      "text": "A baffling comment, as after 12...xe3+ 13 fxe3 d6 14 f3 White starts to con-",
+      "confidence": 0.9658
+    },
+    {
+      "bbox": [
+        359.0,
+        2043.4,
+        1437.1,
+        2090.8
+      ],
+      "text": "solidate his extra material. Greco's continuation appears best to me.",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        272.0,
+        2089.5,
+        301.4,
+        2128.2
+      ],
+      "text": "3",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        359.0,
+        2090.8,
+        1596.4,
+        2143.2
+      ],
+      "text": "After 18...xf7 19 &xf7 b6!, followed by ...a6+ and developing the rook,",
+      "confidence": 0.969
+    },
+    {
+      "bbox": [
+        356.5,
+        2139.4,
+        1600.0,
+        2193.1
+      ],
+      "text": "Black is virtually winning - three pawns for the exchange and a pair of active",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        357.7,
+        2189.3,
+        790.2,
+        2235.5
+      ],
+      "text": "bishops is surely too much.",
+      "confidence": 0.9831
+    }
+  ]
+}

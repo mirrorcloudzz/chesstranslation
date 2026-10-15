@@ -1,0 +1,270 @@
+{
+  "pdf_page": 246,
+  "printed_page": 246,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "246",
+      "bbox": [
+        284.0,
+        126.0,
+        347.0,
+        157.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        710.0,
+        130.0,
+        1204.0,
+        171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l) 21 a4! c6 (if 21...Äd6 22 Oxd6 Vxd6 23 Äb3+ Q)b6, White wins easily by",
+      "bbox": [
+        331.0,
+        274.0,
+        1599.0,
+        326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24 a5) 22 Xb3! (not 22 Vxc6? because of 22...Vb7, forcing the exchange of",
+      "bbox": [
+        282.0,
+        323.0,
+        1602.0,
+        376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queens and thus bringing the attack to a halt; nor does 22 Qa7 work, e.g.",
+      "bbox": [
+        280.0,
+        377.0,
+        1597.0,
+        427.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22...Vxa7 23 Äb3+ Qb6! 24 Xxb6+ •a8, when White has to exchange queens,",
+      "bbox": [
+        280.0,
+        421.0,
+        1597.0,
+        476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "leaving Black once again with the better game; obviously the intermediate",
+      "bbox": [
+        280.0,
+        476.0,
+        1597.0,
+        524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23...Qb6! is the key element here) 22...Vg5+ 23 Qd2+ 24 *a2. Now Black",
+      "bbox": [
+        279.0,
+        522.0,
+        1598.0,
+        571.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is unable to take the rook on b3 with check, so White wins easily, e.g. 24...Ve7",
+      "bbox": [
+        278.0,
+        577.0,
+        1595.0,
+        626.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25 Vb6+ Vb7 26 Vxd8+, etc .",
+      "bbox": [
+        278.0,
+        621.0,
+        797.0,
+        665.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) 21 Qa7!2 Äd6 22 Äb3+ Qb6 (forced, since 22...Xb6 is defeated by 23",
+      "bbox": [
+        323.0,
+        668.0,
+        1594.0,
+        728.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qc6#) 23 a4 Ag7 (or 23...Vd7 24 05 ! 25 va7+ 26 a5) 24 05! and",
+      "bbox": [
+        276.0,
+        722.0,
+        1595.0,
+        774.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White wins.",
+      "bbox": [
+        275.0,
+        778.0,
+        473.0,
+        809.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21 Ad6 22 Äb3 Ähe8 23 a4 Af5 24 Qa7 Adi 25 as Vd2 26 axb6 xel+",
+      "bbox": [
+        321.0,
+        825.0,
+        1593.0,
+        871.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "27 c6 28 Qb5! cxb5 29 Va7+ 1-0",
+      "bbox": [
+        275.0,
+        875.0,
+        930.0,
+        914.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "29...#c8 30 Va8+ Ab8 leads to the picturesque 31 Va6#. In this 'posthumous",
+      "bbox": [
+        320.0,
+        925.0,
+        1592.0,
+        979.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "finale' of the game Black's king and rook are back once again in the original long",
+      "bbox": [
+        274.0,
+        980.0,
+        1591.0,
+        1032.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "castling position !",
+      "bbox": [
+        273.0,
+        1030.0,
+        556.0,
+        1069.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I",
+      "bbox": [
+        266.0,
+        1950.0,
+        277.0,
+        1979.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2",
+      "bbox": [
+        261.0,
+        2049.0,
+        279.0,
+        2078.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's best defence is 24...Äd7, when White must find 25 f4! Vf6 (25...gxf3 26",
+      "bbox": [
+        344.0,
+        1953.0,
+        1581.0,
+        2002.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Q)xf3 deflects the knight from the attack on b3) 26 Xc3 ! to keep an advantage.",
+      "bbox": [
+        343.0,
+        1995.0,
+        1542.0,
+        2051.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Recent analysis by Kasparov reveals a third possibility: 21 Äb3 Vg5+ 22",
+      "bbox": [
+        343.0,
+        2052.0,
+        1498.0,
+        2100.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qd2+ 23 0xb3+ 24 cxb3 Ad6 25 Va7+ 26 Oxd6+ Äxd6 (26...cxd6",
+      "bbox": [
+        342.0,
+        2094.0,
+        1579.0,
+        2147.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "27 f4! gxf3 28 Qxf3 and the rook reaches c l) 27 Va8+ 28 Vxh8 with two",
+      "bbox": [
+        343.0,
+        2145.0,
+        1579.0,
+        2190.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "extra pawns.",
+      "bbox": [
+        341.0,
+        2200.0,
+        538.0,
+        2232.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "pdf_page": 166,
+  "printed_page": 166,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        257.3,
+        107.3,
+        334.5,
+        153.4
+      ],
+      "text": "166",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        687.3,
+        113.5,
+        1187.2,
+        159.7
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        258.5,
+        260.7,
+        1584.1,
+        310.6
+      ],
+      "text": "the g-file. In this case the rook is potentially active on two files at the same time",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        258.5,
+        311.9,
+        872.3,
+        360.5
+      ],
+      "text": "and develops great power as a result.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        591.7,
+        514.0,
+        626.0,
+        546.4
+      ],
+      "text": "W",
+      "confidence": 0.8244
+    },
+    {
+      "bbox": [
+        296.5,
+        1013.0,
+        1578.0,
+        1065.3
+      ],
+      "text": "The above position arose in the game Vukovic-Dr Vajda, Debrecen 1925.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        252.4,
+        1064.1,
+        1407.7,
+        1115.2
+      ],
+      "text": "Black had just threatened White's bishop by ..h6, and White replied:",
+      "confidence": 0.9801
+    },
+    {
+      "bbox": [
+        296.5,
+        1114.0,
+        393.3,
+        1153.9
+      ],
+      "text": "1 h4!",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        292.8,
+        1162.7,
+        1576.8,
+        1218.8
+      ],
+      "text": "If Black accepts the sacrifice, then after 1...hxg5 2 hxg5 g6 3 gxf6 xf6 4 e5",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        251.2,
+        1212.6,
+        1547.4,
+        1268.7
+      ],
+      "text": "White obtains an attacking position without having to surrender any material.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        297.7,
+        1263.7,
+        629.7,
+        1306.1
+      ],
+      "text": "1...μe8 2 e5 b7",
+      "confidence": 0.933
+    },
+    {
+      "bbox": [
+        295.3,
+        1314.8,
+        1575.5,
+        1372.2
+      ],
+      "text": "Consistently refusing the gift offered him on g5, Black hopes to persuade the",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        251.2,
+        1366.0,
+        1576.8,
+        1423.4
+      ],
+      "text": "bishop eventually to retreat. However, he is in any case in a poor position, as a re-",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        249.9,
+        1417.1,
+        1576.8,
+        1473.3
+      ],
+      "text": "sult of his premature advance ...c4 earlier in the game. With his pawn on c5 Black",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        248.7,
+        1467.0,
+        1573.1,
+        1521.9
+      ],
+      "text": "would still have some say in the centre, and a central action is usually a valuable",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        247.5,
+        1518.2,
+        1571.9,
+        1574.3
+      ],
+      "text": "antidote against an attack on the castled king. With the pawn on c4, Black is only",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        248.7,
+        1568.1,
+        1574.3,
+        1623.0
+      ],
+      "text": "able to undertake slow operations on the queenside, and they are not sufficient to",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        246.3,
+        1618.0,
+        764.5,
+        1662.9
+      ],
+      "text": "counterbalance White's attack.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        289.1,
+        1666.6,
+        419.0,
+        1709.0
+      ],
+      "text": "3 h3!",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        287.9,
+        1717.8,
+        1570.6,
+        1775.2
+      ],
+      "text": "A manoeuvre designed to bring the rook into the game as quickly as possible;",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        242.6,
+        1768.9,
+        1389.3,
+        1823.8
+      ],
+      "text": "it is characteristic of the formation with rook on h1 and pawn on h4.",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        290.4,
+        1818.8,
+        422.7,
+        1861.2
+      ],
+      "text": "3...f8",
+      "confidence": 0.9621
+    },
+    {
+      "bbox": [
+        289.1,
+        1870.0,
+        1568.2,
+        1926.1
+      ],
+      "text": "Black lacks a good answer to the threat of &xh6. After 3...xg2 4 g3 his sit-",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        243.8,
+        1918.6,
+        1569.4,
+        1977.3
+      ],
+      "text": "uation deteriorates still further, while if 3...f8, then 4 xh6 gxh6 5 xf7 xf7",
+      "confidence": 0.9668
+    },
+    {
+      "bbox": [
+        243.8,
+        1967.3,
+        1298.7,
+        2025.9
+      ],
+      "text": "6 Wg6+ f8 7 Wxh6+ f7 8 g6+ g8 9 g3 leads to mate.",
+      "confidence": 0.9762
+    },
+    {
+      "bbox": [
+        286.7,
+        2018.4,
+        510.9,
+        2068.3
+      ],
+      "text": "4 皇xh6! (D)",
+      "confidence": 0.8864
+    },
+    {
+      "bbox": [
+        287.9,
+        2068.3,
+        427.6,
+        2114.5
+      ],
+      "text": "4...h5",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        285.5,
+        2122.0,
+        1085.5,
+        2176.9
+      ],
+      "text": "If 4...gxh6, then 5 g3+ soon decides the issue.",
+      "confidence": 0.9801
+    },
+    {
+      "bbox": [
+        284.2,
+        2168.1,
+        453.3,
+        2221.8
+      ],
+      "text": "5 We2 g6",
+      "confidence": 0.9505
+    }
+  ]
+}

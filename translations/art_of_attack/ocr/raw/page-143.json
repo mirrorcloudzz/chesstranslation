@@ -1,0 +1,170 @@
+{
+  "pdf_page": 143,
+  "printed_page": 143,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        352.8,
+        124.7,
+        1560.8,
+        179.6
+      ],
+      "text": "Ranks, files and diagonals in the attack on the castled king 143",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        283.0,
+        274.4,
+        1075.7,
+        319.4
+      ],
+      "text": "1 xc3? xc3 2 xc3 xc3 3 xc3 Wb2! 0-1",
+      "confidence": 0.9735
+    },
+    {
+      "bbox": [
+        280.6,
+        321.8,
+        1568.2,
+        373.0
+      ],
+      "text": "But not 3...Wb1+? 4 Wfl, in which case 4...d1 is impossible because of",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        236.5,
+        373.0,
+        1567.0,
+        422.9
+      ],
+      "text": "Black's weakness on his own back rank. However, the move 3...Wb2, typical of",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        238.9,
+        425.4,
+        1563.3,
+        474.0
+      ],
+      "text": "Capablanca, solves the problem completely: White resigned, for he is unable to",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        236.5,
+        470.3,
+        1564.5,
+        527.7
+      ],
+      "text": "take the queen and his own rook and queen are threatened; if 4 Wd3 or 4 d3,",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        238.9,
+        528.9,
+        577.0,
+        572.6
+      ],
+      "text": "then 4...wa1+ wins.",
+      "confidence": 0.9315
+    },
+    {
+      "bbox": [
+        550.1,
+        733.5,
+        583.2,
+        766.0
+      ],
+      "text": "W",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        285.5,
+        1230.0,
+        1568.2,
+        1278.7
+      ],
+      "text": "This position is from Mikenas-Maroczy, Folkestone 1933. White, to move,",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        242.6,
+        1281.2,
+        1359.9,
+        1329.8
+      ],
+      "text": "advanced his e-pawn to exploit Black's weakness on the back rank.",
+      "confidence": 0.9757
+    },
+    {
+      "bbox": [
+        283.0,
+        1329.8,
+        1344.0,
+        1376.0
+      ],
+      "text": "1 e6 2b6 2 e7 e8 3 d8! xd8 4 e8w+ and mate next move.",
+      "confidence": 0.9718
+    },
+    {
+      "bbox": [
+        555.0,
+        1541.9,
+        584.4,
+        1568.1
+      ],
+      "text": "W",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        287.9,
+        2039.6,
+        1570.6,
+        2087.0
+      ],
+      "text": "In this position, which occurred in the game Najdorf-Julio Bolbochan, Mar",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        247.5,
+        2095.8,
+        1567.0,
+        2133.2
+      ],
+      "text": "del Plata 1948, White exploited Black's back-row weakness by an operation in",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        247.5,
+        2145.7,
+        1204.3,
+        2186.8
+      ],
+      "text": "which his passed pawn played a typically prominent part.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        290.4,
+        2193.1,
+        539.1,
+        2234.2
+      ],
+      "text": "1 xd8! xd8",
+      "confidence": 0.9289
+    }
+  ]
+}

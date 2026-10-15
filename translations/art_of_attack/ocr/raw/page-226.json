@@ -1,0 +1,280 @@
+{
+  "pdf_page": 226,
+  "printed_page": 226,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "226",
+      "bbox": [
+        221.0,
+        120.0,
+        285.0,
+        152.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) 1 Äel! (D)",
+      "bbox": [
+        220.0,
+        267.0,
+        457.0,
+        309.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        649.0,
+        125.0,
+        1144.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Not I Adl because of l...Aa6! 2 Xel Ad3 followed by ...Ah7, etc.",
+      "bbox": [
+        264.0,
+        319.0,
+        1383.0,
+        369.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Vd7 2 Vh5+ 3 g6 4 Vh4 Vg7",
+      "bbox": [
+        257.0,
+        1020.0,
+        992.0,
+        1072.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If here 4...Qh7, then 5 Äh3 Oxg5 6 Vh8+ would win. In this line 5...Xe7 is",
+      "bbox": [
+        254.0,
+        1072.0,
+        1528.0,
+        1122.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "met by 6 Vh6 Xg7 7 Oxh7 Äxh7 8 Vxg6+ Xg7 9 Vh5 Äh7 10 Ah6 Q)c6 11",
+      "bbox": [
+        208.0,
+        1121.0,
+        1524.0,
+        1173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg6+ 12 Ag5 and 13 Af6+.",
+      "bbox": [
+        207.0,
+        1170.0,
+        772.0,
+        1217.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 Äh3 Obd7",
+      "bbox": [
+        252.0,
+        1222.0,
+        470.0,
+        1258.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Against anything else White's bishop decides the game by reaching f6, e.g.",
+      "bbox": [
+        250.0,
+        1278.0,
+        1524.0,
+        1333.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...Qc6 6 Qf3 7 Ah6 Vd7 8 Ag5, etc.",
+      "bbox": [
+        205.0,
+        1322.0,
+        937.0,
+        1373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6 Ad2",
+      "bbox": [
+        250.0,
+        1374.0,
+        359.0,
+        1409.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Opening the way for the other rook, for which the f-file, for instance, has at-",
+      "bbox": [
+        249.0,
+        1429.0,
+        1522.0,
+        1480.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tractions.",
+      "bbox": [
+        203.0,
+        1480.0,
+        353.0,
+        1510.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...c5 7 cxd4 8 cxd4 as",
+      "bbox": [
+        247.0,
+        1530.0,
+        717.0,
+        1566.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8...Äac8 does not work at once because of 9 Äf3 Xe7 IO Ab4.",
+      "bbox": [
+        247.0,
+        1578.0,
+        1282.0,
+        1626.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9 b4",
+      "bbox": [
+        246.0,
+        1631.0,
+        319.0,
+        1661.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A simple device to hinder ...Äac8; 9...a4 is answered by IO b5, and the white",
+      "bbox": [
+        244.0,
+        1682.0,
+        1519.0,
+        1733.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishop gains control of b4. Black now tries to put up a stand with ...Xe7 and",
+      "bbox": [
+        199.0,
+        1731.0,
+        1519.0,
+        1782.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...Qh7.",
+      "bbox": [
+        200.0,
+        1776.0,
+        315.0,
+        1812.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9...Äe7 10 vg4 ac6 11 Ve2",
+      "bbox": [
+        243.0,
+        1830.0,
+        726.0,
+        1873.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black is tied up on the kingside, and White's best plan consists of trebling on",
+      "bbox": [
+        242.0,
+        1883.0,
+        1517.0,
+        1941.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the h-file. White carries out the necessary regrouping in such a way that not only",
+      "bbox": [
+        196.0,
+        1934.0,
+        1516.0,
+        1992.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is Black's bishop prevented from penetrating but also his rook's invasion along",
+      "bbox": [
+        195.0,
+        1985.0,
+        1515.0,
+        2043.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Here Vukovié overlooks that White can mate in two by 7 Vf6+. However, his",
+      "bbox": [
+        197.0,
+        2093.0,
+        1513.0,
+        2146.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "thesis is basically correct, because the stronger move 4...Vg7 casts doubt on",
+      "bbox": [
+        276.0,
+        2143.0,
+        1513.0,
+        2193.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's attack.",
+      "bbox": [
+        275.0,
+        2191.0,
+        511.0,
+        2222.0
+      ],
+      "confidence": null
+    }
+  ]
+}

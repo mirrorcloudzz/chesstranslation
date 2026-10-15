@@ -1,0 +1,1408 @@
+Defending against the attack on the castled king
+
+
+[PDF page 247]
+Defending against the attack
+10
+on the castled king
+In presenting, up to here, the various aspects of the attack on the castled king we
+have looked at the operation from the attacker's point of view. However, it is also
+true that the defence against such an attack has its own principles and particular
+characteristics, and it is therefore fitting that we should also try to discuss this de-
+fence systematically.
+Chess literature tends for the most part to talk of active and passive defence as
+being the two main types of defence. Steinitz also introduced the term 'self-
+defence', and H. Kmoch (in his work The Art of Defence) speaks of 'automatic
+defence'. Although it is now fairly well established, this division is not really the
+happiest one for teaching purposes; moreover, when it is a question of defence
+against an attack on the castled king, it is an imprecise one.
+I think it better to talk of direct and indirect defence of the castled position, in
+which case the direct defence is predominantly 'passive' and the indirect always
+'active'. The difference between these kinds of defence is usually clearly
+marked, since the former involves the defence of the actual castling area or the
+removal of one's opponent's aggressive pieces, while in the latter case it is a
+question of actions further away from the castled position, which the defender
+uses to keep the attacker so busy that he fails to pursue his attack to its conclu-
+Sion.
+In actual play direct defensive moves usually occur in conjunction with those
+of an indirect kind, and the main rule is that direct defence should be economical
+and that indirect should be executed at the right moment. Economy in direct de-
+fence consists of not making superfluous moves and not employing an unneces-
+sarily large number of pieces in defence. The right moment for indirect defence
+is fairly difficult to gauge, since it is normally determined by two interacting fac-
+tors; on the one hand, when direct defence has reached the limits that necessary
+economy allows, and on the other, when the attacker has really made a move
+which commits him fairly strongly, i.e. he has staked his money on the success of
+the attack.
+First, we shall set out clearly the various elements which go to make up each
+type of defence.
+
+[PDF page 248]
+A. Direct Defence
+1) Protecting the squares of the castled position, including so-called over-
+protection.
+2) Transforming the castled position by moving the pawns in front of the
+king, a particular case being the setting-up of a blocked position.
+3) Altering the castled position by moving the king. Here it should be kept in
+mind that each move by the king changes the situation, changes the conditions
+necessary for an attack and, above all, changes the possible focal-points. King
+moves fall into the following graded categories:
+a) The consolidating move (e.g. Ébl in the case of queenside castling and
+in the case of kingside castling);
+b) A more radical alteration of the situation as a result of moving the king
+(e.g. to n, thus producing a so-called 'semi-castled' position);
+c) A king's flight, i.e. when it goes out in front of the castled position. Steinitz
+called this the king's self-defence, an older and more correct term than that of
+'automatic defence' applied by Kmoch.
+4) Defence by means of repulsing one's opponent's pieces, through their cap-
+ture, exchange, or ejection from powerful positions.
+B. Indirect Defence
+Before considering the ways of using the indirect method we must first of all ex-
+amine three aspects of such a defence. The first is purely spatial, i.e. whether the
+defender carries out his own counterattack in the centre or on the wings; the sec-
+ond is concerned with the degree of the threat; and the third with the question of
+whether the indirect action turns at some point into the direct method of defence.
+In the following review we shall combine these three aspects:
+l) The defender carnes out a counterattack on the opposite side, where the at-
+tacker has castled. In such a case his action is usually itself an attack on the cas-
+tled king, the position being one where the players have castled on opposite
+sides.
+2) An action on the opposite side first of all prepares the ground (files, ranks,
+etc.), and then turns into an outflanking manoeuvre against the attacker's castled
+position, i.e. while the attacker is attacking along the files, the defender gains
+control of the attacker's first or second rank.
+In this case, as in '1', the critical question is naturally either who will be the
+first to force mate or which of the two attacks will be brought to a halt through the
+diversion of pieces to provide a direct defence.
+
+[PDF page 249]
+3) An action on any part of the board with the aim of gaining material.
+Such an action obviously only has a point when a forced mate is not part of the
+attacker's plan. The critical continuation then is that which costs the defender the
+least. For instance, if he can 'pacify the attacker's wrath' at the price of a knight,
+then a counterattack which brings him a rook is worthwhile.
+In practice the most important case is where the attacker sacrifices; the de-
+fender's repertoire is then greatly increased, since he is given various ways in
+which to return material in order to counter the attacker's plan. This method of
+returning material is extremely important; the extent to which it is possible af-
+fects the type of sacrifice which can be made, and the sacrifice is also a signal to
+the defender to counter with a sacrifice which would previously have been out of
+the question.
+4) The counterattack results in material equality, but the question of position
+still remains open. Mate cannot be forced, both attacks are brought to a halt, and
+eventual simplification leads towards an ending. The resulting position, which is
+often extremely difficult to assess beforehand, is then decisive.
+5) The defender's counterattack does not lead to a mating attack, nor to mate-
+rial or positional advantages, but instead consists of an eventual transition to the
+direct method.
+As a rule, this takes the form of either attacking the enemy pieces 'from the
+rear' or of gaining control of a file or diagonal so as to cover a certain square in
+one's king position (e.g. when the white queen has captured the square c7 and
+from there covers the focal-point h2).
+6) A special case of the kind of counterattack mentioned in '3' is provided by
+the advance of a queenside pawn majority. Its aim is to promote a pawn to a
+queen, and such an advantage justifies the most generous surrender of material in
+order to curb the attacker's forces.
+7) Retaliation in the centre can have the features of sections '3' to '5' either
+separately or combined. The following possibilities are particularly worth noting
+here:
+a) A central thrust demolishes or weakens the attacker's formation there and
+prepares the ground for further operations by the defender, or it enables him to
+transpose to direct defence 'via a turning manoeuvre' ;
+b) The destruction of the pawn centre eliminates its auxiliary function with
+regard to an attack on the castled king. For example, the disappearance of a pawn
+on e5 can also mean the end of an attack on the castled king, if the pawn is vital to
+a certain continuation;
+c) Because of the danger of a central thrust, many attackers at a suitable mo-
+ment deliberately create a blocked position in the centre. As a rule such a central
+
+[PDF page 250]
+formation cannot be rapidly activated except by the sacrifice of a piece. If the at-
+tacker has already used a sacrifice in attack, the defender is presented with an op-
+portunity of making a return sacrifice in the centre. For example, the defender's
+knight on c6 is sacrificed for White's pawns on e5 and d4, thereby creating the
+necessary conditions for various kinds of defence without loss of material;
+d) The destruction of the attacker's centre usually gives the defender the pros-
+pect of better conditions for positional play, as mentioned in section '4'. For it is
+not only that the opponent's centre pawns disappear, but the actual central
+squares also come under the defender's control; consequently, if the attack is
+held, the considerable positional advantage enjoyed by the defender persists,
+even when the material is equally balanced, until well into the endgame.
+This outline of defensive methods brings out above all else the richness of
+their variety and the flexible way in which they can be combined. Because of
+this, defence as a whole is harder than attack, and its finesses are as a rule more
+concealed than those of the attacker, a point already noticed long ago by Lasker.
+The importance of the centre must be particularly emphasized as the critical area
+where the decisive step is often made. The great variety of possibilities afforded
+by a defence based on an action against the centre gives such an operation first
+place in the defender's repertoire, and so every attacker must be able to calculate
+accurately what is likely to happen in the centre during an attack on the castled
+king.
+Defence by over-protection
+Passing now to some examples of direct defence, let us examine the following
+position, which can arise in the Closed Defence to the Ruy Lopez.
+[AA-p250-fig01]
+
+[PDF page 251]
+It is Black's move; he has to think how to supplement the direct defence of his
+king position, especially in view of White's threat of 1 Qh2 followed by 2 f4 and
+3 f5. Black plays:
+l...Qd8 2 Qh2 f6
+Now 3 f4 can be met by 3...Qf7. Moreover, he can also answer most other
+moves by 3...Qf7, setting up a distinctive position with a 'double knight fian-
+chetto'.
+This position offers very strong resistance against all kinds of attack, and the
+reason for this lies in the over-protection of the squares f5, g5, and h5, at which
+points White might have been able to execute a breakthrough. These squares are
+now covered both by Black's pawns and his knights, an example of 'prophylactic
+over-protection' , to use Nimzowitsch's phrase.
+The over-protection which Black achieves by transferring his knight to f 7 is in
+this case neither a passive nor an uneconomical means of defence. It is not diffi-
+cult to establish that Black's knight on b7 has no better position anywhere than
+on f7 (if ...c4, for example, White plays b4 and does not allow ...Qc5); it is better
+to use the knight for defence, freeing Black's other pieces for later queenside ac-
+tivity. In some cases over-protection can mean economical direct defence; on the
+other hand, depending on the position, it may be superfluous.
+Defence by blockade
+A blocked pawn formation means a general reduction in the number of actions
+possible in any position, and as a result blockade is often the weapon employed
+by the weaker side. A means of defence which stands out as particularly impor-
+tant is the blockade of the pawns in front of the king.
+[AA-p251-fig01]
+
+[PDF page 252]
+The continuation from the above position shows us first of all a typical case of
+defence by blockade, and then the way to overcome this method of defence.
+Although White has the superior position with all his pieces directed against
+Black's kingside, he still can not achieve anything by 'normal' methods. If 1 g6,
+Black plays l...h6, while if I h6, then 1...g6; in both cases blocking the pawns
+brings the attack to a halt. Attempts to break through by sacrificing a knight can
+simply be ignored by Black. Thus after I g6 h6 2 Qf3 Ad7 3 Qg5 Black does not
+take the knight but waits; while if I h6 g6 2 Qh5, Black again does not need to
+take, for by playing 2...#h8 3 Qf6 Vf7 he can hold the draw.
+White's only chance in this position is:
+1 Qhg6 Adi
+Clearly, the knight cannot be taken. I ...#f7 is met by 2 h6 and a breakthrough,
+since if 2...hxg6, then 3 h7 Ae7 4 Vh4 followed by 5 Qxg6.
+2 zghl!
+White must play with great precision and thoroughly prepare for the break-
+through by h6 and hxg7. If he tries 2 h6 immediately, then Black replies 2...hxg6;
+then 3 hxg7 Axg7 is not dangerous , while after 3 h7+ 4 Xh6 gxh6 5 gxh6
+White's attack will probably not succeed.
+2...c6 3 Vh2 Xb7 4 h6 hxg6 5 hxg7 Axg7 6 Xh8+ and White wins.
+Defence by elimination
+Many examples could be given of defence based on the diversion or elimination
+of important attacking pieces, since such operations are often undertaken; how-
+ever, they are limited on the whole to one or two moves and do not normally pro-
+vide a complete system of defence but only force the attacker to remodel or
+reorganize his attack. Thus, for example, in the quite normal case where the at-
+tacker's knight has to retreat from g5 when faced with ...h6, the problem of de-
+fence has not as a rule been fundamentally solved, but rather the attacker has
+been obliged to redirect his attack, either by transferring his target from h7 to h6
+or g7 or else by strengthening the pressure on h7 along the diagonal bl-h7. Spe-
+Cial examples and analysis are not necessary in the case of such straightforward
+diversion of opposing pieces. We are interested here in those special cases when
+the diversion or elimination of the attacker's pieces represents the essence of the
+defence and is in fact fundamental in driving back the attacking force. The
+1 Although after 4 Vh4 followed by Vh7+ White wins the g6-pawn, when the re-
+sulting position appears very unpleasant for Black. However, it is true that
+White risks nothing by building his position up further before playing h6.
+
+[PDF page 253]
+simplest example of this is the exchange of queens, which is usually to the ad-
+vantage of the defender and in many cases altogether eliminates the danger of at-
+tack. The queen is generally an essential piece in a mating attack and it is
+therefore useful to the defender if it is removed. However, other pieces too can be
+essential to an attack and can be the target of a defensive plan based on elimina-
+tion. One of the most typical instances involves the attacker's bishop which is
+covering a network of weak squares. Such a visitor should, as soon as circum-
+stances permit, be dismissed from the castling area or be eliminated by ex-
+change. The following diagram shows a case of a bishop commanding a network
+of squares, and we give two possible continuations: the one actually taken, where
+Black misses the opportunity to defend himself by tackling the bishop; and an al-
+ternative one, which indicates the correct method of defence.
+[AA-p253-fig01]
+This position comes from the game Blackburne-Schwarz, Berlin 1881, and it
+is White's move. He is a pawn down and, in addition, he has the inferior pawn
+structure. On the other hand, he enjoys far greater activity for his pieces and has
+prospects of controlling the network of weak dark squares around the enemy
+king. It is exactly with this in mind that he plays:
+1 Af6 Qf4+?
+Black throws away the chance of defending himself by eliminating the bishop
+on f6 (with l...Ae7!) and falls into a trap.
+2 Vxf4! Axf4 3 Äxh5 gxh5 4 Zxh5 and there is no remedy against mate on
+In the original edition, this diagram was incorrectly given without the black
+1
+pawn on b5. Vukovié's comments have been modified to take account of this
+correction.
+
+[PDF page 254]
+The essential attacking piece here is the bishop on f6 and it should have been
+eliminated. Therefore the only correct course is l...Ae7! (D).
+[AA-p254-fig01]
+After 2 Ae5 (or 2 Axe6 fxe6 3 Vg5 Axf6 4 Vxf6 Vd8 ! and Black is the better
+placed) 2...Ad6 White has nothing better than 3 Af6 and a repetition of moves;
+on any other move the elimination of White's dark-squared bishop affords Black
+a complete defence and the prospect of victory on the basis of his other advan-
+tages. Thus after 3 f4 Axe5 4 dxe5 hg7 White has nothing, while he is too weak
+for 3 Äxh5? because of 3...gxh5 4 Xxh5 Axe5 5 dxe5 Äd4, whereupon the threat
+of ...Qf4+ destroys all his hopes.
+Before we leave the theme of defence by elimination, the reader must be
+warned of the mistakes which are often made in applying this method. Many
+players defend themselves by endeavouring to exchange all the attacker's ag-
+gressive pieces. Such a formula can easily lead to defeat. As a rule, one should
+aim to exchange those pieces which are essential to the execution of the at-
+tacker's mating threats, while on the other hand one should preserve those of
+one's own pieces which are carrying out an important defensive function. We
+have already seen how important it is to preserve the fianchettoed bishop, and
+much the same can be said for a knight at f6 covering the important square h7.
+The king's self-defence
+There is a graded scale which can be applied to the king's self-defence starting
+from the so-called consolidating move and ending with the full flight of the king
+to the other side of the board. Examples have already been given of the former
+type, so we shall begin with cases where the king is already definitely on the
+move, even though it may only be along the edge of the castling area. The next
+
+[PDF page 255]
+diagram is a typical example of self-defence by classically simple means: faced
+with White's pressure on h7, Black defends his pawn by advancing it and is not
+concerned about the square h7 itself; Black' s king reduces the value of the square
+by moving, for it no longer comes into consideration as a focal-point.
+[AA-p255-fig01]
+This position is from Bogoljubow-Réti, Carlsbad 1923. Black played:
+1...h6! 2 Axf6 Axf6 3 Vh7+
+The Black king defends itself by flight; if now 4 Vh8+ #e7, White's position
+would only be made worse by his loss of a tempo. In the actual game White's ini-
+tiative dissolved after 4 Xcdl Äed8 5 6 Qce2 Zh8 7 Vc2 a5, and,
+thanks to the good self-defence effected by his king, Black soon obtained rather
+the better game.
+Another example of self-defence can be provided by my analysis of one of the
+critical positions in the game Reshevsky-Botvinnik, World Championship Tour-
+nament, The Hague/Moscow 1948.
+[AA-p255-fig02]
+
+[PDF page 256]
+Botvinnik (Black) played here l...Qg8?, which is an absolutely passive
+method of defence. It means that Black's king is left in the corner, and White is
+offered the chance to prepare the opening of the e-file by a pawn sacrifice based
+on Af6+. After the moves 2 Xel Vf7 3 c3 Qa5 4 hf4 Äc6 White made the mis-
+take of playing 5 Af6+ too early, without the preparatory 5 Zge3!, and thus did
+not make correct use of Black's error; we will therefore not concern ourselves
+with the game's actual course.
+Correct would have been l...#g8!, followed perhaps by ...Ét7, in which case
+the black king is only apparently 'courting danger'; in fact, it avoids all the
+difficulties associated with being in the corner and itself provides assistance in
+covering the important light squares e6 and g6; moreover, with the dark-square
+network alone White can clearly achieve nothing. Black is also left with an initia-
+tive on the queenside, where he is positionally set to win. If the reader tests the
+different variations after l...#g8, he will convince himself of the strength of the
+black king's self-defence in this position.
+Capablanca - Ragozin
+Moscow, 1935
+Nimzo-Indian Defence
+1 d4 Q)f6 2 c4 e6 3 Qc3 Ab4 4 a3 Axc3+ 5 bxc3 d6
+5...c5 and 5...0-0 are more common nowadays.
+Capablanca is happy to avoid 'auxiliary pawn moves' , and here he prepares e4
+with the aid of the queen and not by f3.
+6...O-0 7 e4 e5 8 Ad3 9 Qc6 10 d5
+White should have answered 8...c5 with an immediate d5, whereas now Black
+ought to have played 10...Qa5 followed by ...b6 and ...Aa6, according to the
+well-known plan for attacking c4. He moved the knight to e7 in order to prepare
+...f5, but in this position Black is too weak for that.
+11 f3 hd7
+However one looks at it, Black is getting into a cramped and difficult position.
+He cannot make ...f5 work, as is shown by the following variation: II ...Qe8 12
+g4 g6 13 Ah6 Qg7 14 0-0-0 f5? 15 gxf5 gxf5 16 Xdgl Xf7 17 exf5 Axf5 18
+Axg7 when White wins.
+12 06 13 g4 (D)
+13...f6?
+The beginning of a faulty plan. Black intends to move his king away from the
+endangered kingside. He does in fact succeed in conveying it without difficulty
+
+[PDF page 257]
+[AA-p257-fig01]
+as far as a8, but in doing so he condemns himself to a passive game with no pros-
+pect of activity. Counterplay is possible only on the queenside, based on ...b5.
+That is where Black' s chances lie, and consequently his king does not belong on
+the queen's wing but should stay where it is; the pawns in front of the king should
+not be touched, in order that he may retain as much chance as possible of defend-
+ing himself by blocking the position. Correct therefore was 13...Ad7 planning
+...Qa4 followed by ...a6 and ...b5. If White plays 14 a4 then 14...Ve8 15 a5 Qbc8
+followed by ...Äb8 and ...b5, etc.
+14 Qg3 15 Qg8 16 f4 17 f5 Ve7 18 Vg2!
+Capablanca handles the game supremely calmly. His strategy results in his
+knight being established on the advanced post g7.
+18...#d8 19 Qh5 20 gxf6 gxf6 21 Qg7 Adi 22 h5 23 h6 (D)
+Now Black has a 'short castled position on the queenside'. White has every-
+thing else.
+[AA-p257-fig02]
+
+[PDF page 258]
+24 Äf7 25 Xbl Vf8 26 Ae2 27 Ah5 Äe7 28 va2 Vd8 29 Ad2 Qa4
+30 Vb3 Qb6 31 a4!
+It is an irony of fate that Black's wandering king can be reached by an attack
+on the queenside too! If he now plays 31...Axa4, there follows 32 Va2 Ad7 (or
+32...Vd7 33 Xxb6 axb6 34 Adl) 33 Qe6 Axe6 34 dxe6, and Black has no reply
+to If 7 and Axg8.
+31...Xb8 32 as Qc8 33 Va2 Vf8 34 Ae3 b6 35 a6
+Black, who has been 'breathing through his gills' for a long time already, is
+now left with only his queen to move.
+35...Vd8 36 Éd2 Vf8 37 Zb2 Vd8 38 Vbl b5
+At last he has had enough! Any further passive play would have permitted
+White to organize a winning breakthrough on the g-file.
+39 cxb5 Qb6 40 va2 c4 41 Va3 vc7 42 Äf8 43 Xbg2 Vb8 44 Vb4
+Äd8 45 zg3 xn 46 Axe6
+Or 46...Äc8 47 Axb6 axb6 48 a7! and Black loses his knight or is mated.
+47 dxe6 xc7
+Otherwise Af7 is decisive.
+48 vxd6 49 Adl 1-0
+49...Qbc8 could be answered by 50 Vb4 Qb6 51 Xg7 Qbc8 52 Äd7, etc.
+Pawn majority on the wing
+Passing now to the theme of indirect defence, we first of all examine a counterat-
+tack by means of a pawn majority on the queenside. An analysis of a classic mas-
+terpiece will be helpful here.
+Pillsbury - Tarrasch
+Hastings, 1895
+Queen's Gambit Declined, Orthodox Defence
+1 d4 d5 2 c4 e6 3 Qc3 Qf6 4 Ag5 Ae7 5 Qf3 Obd7 6 0-0 7 e3
+These days it is considered more accurate to play ...b6 before committing the
+b8-knight to d7.
+8 cxd5 exd5 9 Ad3 Abi 10 0-0 c5 11 zel?!
+A move which does not belong to the system and only wastes time. At this
+point Pillsbury usually played II Qe5 and his opponents allowed him to
+strengthen the position of his knight by f4. Marco later showed that after I I Qe5
+one should play II...Qxe5 12 dxe5 Qe8 13 Af4 g6 14 Ah6 Qg7 15 f4 d4! an-
+swering 16 f5 with 16...Ag5.
+
+[PDF page 259]
+Today 11 Ve2 is considered strongest.
+Thus Black creates a pawn majority on the wing but surrenders his influence
+in the centre. It is now known that the situation in the centre is the more impor-
+tant; moreover, against an attack on the castled king it is easier to build up a
+counterattack using the centre rather than by means of a slow advance of the
+wing pawns.
+Instead of 1 1...c4'? Black could have played, for example, I l...a6, which is in
+keeping with the system and does not immediately forsake the centre in the pro-
+cess. The modern answer would be I l...Qe4, with the aim of clarifying the situa-
+tion.
+12 Abl a6 13 Qe5 (D)
+[AA-p259-fig01]
+Because of Black's mistake this move is now extremely strong, since White is
+able to consolidate the knight on e5 and use it as the basis for a later attack on the
+king. 13...Qxe5 will not do now, since 14 dxe5 is extremely awkward for Black.
+13...b5 14 f4
+This formation with a knight on e5 and pawns on d4 and f4 is called the
+'Pillsbury attack', and it was in this game that the attack originated. Pillsbury
+was still experimenting with his idea here, hence his unsystematic move II
+Black prepares to defend his king position by ...Qf8.
+15 Vf3 hf8 16 17 Axel Äxe7
+More precise, in fact, is 17...Vxe7 as will be seen from the note to Black's
+nineteenth move.
+18 Axe4
+
+[PDF page 260]
+Pillsbury's contemporaries were a little surprised by this exchange, which he
+used to make regularly in this system. In fact, the move is absolutely logical from
+the positional point of view. White cannot worry Black any more as regards his
+control of e4, and it is better that the square should be occupied by a blocked
+pawn than an active knight. In view of Black's complete hold on e4, White's
+bishop on bl cannot be better employed than in dispatching Black's knight. This
+is an example of the logic, consistency, and lack of prejudice which runs through
+Pillsbury's style.
+18...dxe4 19 Vg3'. f6
+This move has been censured by earlier commentators because 'White's
+knight retreats with gain of tempo' , but closer investigation shows that the move
+is not a bad one, or rather that Black has nothing better. 19...f5 would be danger-
+ous (because of White's eventual assault with g4), but otherwise it is difficult to
+find a natural way of parrying White's threat of 20 f5 followed by Qf4 or f6. It is
+important to note that 19...Vd6 20 f5 f6 fails because of 21 Qg6! Zd7 22 hgf4,
+when White has realized his aim of posting a knight on f4 without having to ex-
+change queens. On the other hand, 19...Vc7 contains some dangers on account
+of 20 b3. If Black had recaptured with his queen on the seventeenth move,
+19...Vd6 would now work, for 20 f5 f6 would force the exchange of queens. A
+small and instructive detail!
+20 21 f5'. Vd7 22 xn Äd8
+Black is planning . Vd6, but he should have noted that White will be unable
+to play the fundamentally important move hf4 for some time (because of
+Vxf5). He could therefore have devoted the tempo to preparing ...b4, e.g. by
+22...Äc8.
+23 Xf4 (D)
+[AA-p260-fig01]
+
+[PDF page 261]
+Here we shall stop a moment to describe the course of the game so far and to
+point out the characteristic features of the position.
+Black released his pressure on the centre early on and thereby allowed White
+considerable freedom in arranging his pieces for an attack on the king. Against
+this attack Black built up a typical, direct defensive position which offers consid-
+erable, but not absolute, resistance. His principal weapon in the event of a further
+concentration of White's pieces is, however, an indirect defence in the shape of
+the advance of the pawn majority on the queenside. Against a whole series of at-
+tacking plans Black has successful replies in the form of retaliation on the flank;
+a particular point is that White cannot force the move Qf4. It was because of this
+that Pillsbury decided on 23 Äf4, i.e. he now abandons his preparations for Qf4
+and regroups with the apparent intention of attacking e4.
+23...Vd6 24 Vh4 Xde8 25 Qc3?
+A weak move, for Black could now have played 25...b4 26 Qa4 Ad5 27 Qc5
+Qd7 28 axd7 Xxd7, after which there is nothing left of White's attack, while on
+the queenside Black has moved closer to his goal. 25 was better, to prepare
+g4. Admittedly, if 25...#g8!, then 26 g4 does not work (because of 26...g5 27
+fxg6 Qxg6 28 Vxf6 Qxf4! 29 Vxd6 Qxe2+ and 30...Qxc1, with a whole fistful
+of pieces for the queen); however, White can play 26 Vh3, to be followed by
+Xh4, g4, and hf4, etc.
+25...Ad5? (D)
+[AA-p261-fig01]
+Not only does this throw away the chance of playing ...b4, it also allows White
+the following opportunity to simplify the position: 26 a4 b4 27 mxd5 Vxd5 28
+Qxf6 gxf6 29 Vxf6+ Äg7 30 Äg4 Vf7 31 Vxg7+ Vxg7 32 Xxg7 exg7 33
+Äxc4, when the ending favours White.
+26 Qn
+
+[PDF page 262]
+White also retains the better prospects this way, though best would in fact have
+been 26 a4 as given above.
+26...Vc6
+Black could well have played 26...b4 and if 27 Qe2 then 27...a5. 27 hcxe49
+would fail against 27...Vc6 followed, after a knight retreat, by 28...Xxe3. How-
+ever, the text move is also correct.
+27 xn?
+A tactical mistake, since the rook is not well placed here.
+27..." 28 Qe2 va4?
+This loses important tempi. Correct was 28...c3! 29 b3! (if 29 bxc3 then
+29...Ac4 followed by ...Axe2 and ...bxc3, after which Black's position is prefer-
+able) 29...a5 when Black proceeds along similar lines to those in the actual game
+(i.e. by ...Xa8 and ...a4, etc.) but much more quickly.
+29 Qg4 Qd7 30 Nn (D)
+The move is not a bad one, although it would not inspire commentators nowa-
+days to pour on it the praise with which it was once honoured. The point is that by
+30 Qcl c3 31 b3 White obtains a position analogous to that actually reached, and
+the only difference is that 30 Ä4f2 sets a trap for 30...Vxa2. However, even that
+trap is not so terrible, for after 31 Qt4 If 7 32 Q)g6+ #g8! (Réti only analyses
+the inferior 32...Axg6?) 33 axe7+ Xxe7 34 Vg3 35 h3 (otherwise ...h5
+wins the knight) 35...Va5 Black still retains good prospects of counterplay, and it
+is not certain whether White can use his small material advantage to any real ef-
+fect.
+[AA-p262-fig01]
+30...#g8 31 c3 32 b3 vc6 33 h3
+Preparing for Qh2 and then g4-g5.
+33...a5 34 Qh2 a4 35 g4?
+
+[PDF page 263]
+A mistake which luckily is not properly exploited. It was not yet time for a
+bayonet attack by g4. White should have played 35 bxa4 or else brought his
+queen back to the defence via g4 and d 1.
+35...axb3 36 axb3 Xa8 37 g5
+Since he lacks a satisfactory defence against ...Xa3 and ...Xxb3, White has no
+choice but to try to force home his attack on the enemy king.
+37...Äa3 38 Qg4 Axb3?
+A decisive mistake, entirely altering the situation. Black should at this point
+have thought a little about defence himself, leaving the tit-bit on b3, which could
+not run away, until later. Correct was 38...fxg5! 39 Vxg5 hf6 when both 40 Q)e5
+Vd6 and 40 Xg2 leave Black the better placed. The essence of Black's de-
+fence in this case is the correctly-timed blockade of White's f-pawn by ...0f6,
+without which there would be no answer to a breakthrough by White on that criti-
+cal square (f6).
+39 xg2!
+The move which decides the game, since it threatens both gxf6 and oxf6+.
+39...#h8
+After 39...fxg5 40 Vxg5, 40...Q)f6 is no longer feasible, and accordingly the
+breakthrough by f6 wins in all variations.
+40 gxf6 gxf6?!
+This loses quickly. A better resistance and even some chances of a draw were
+offered by the continuation 40...Qxf6 41 me5 Ve8 42 Oxb3 Äxb3 43 Qg6+
+44 axe7+ Vxe7 45 vg3.
+41 Qxb3 Xxb3 (D)
+[AA-p263-fig01]
+42 Qh6! xg7 43 Äxg7 44 Vg3+! exh6 45 Vd5
+45...c2 would also be met by 46 Ägl.
+
+[PDF page 264]
+46 xgl Vxf5 47 Vh4+ Vh5 48 Vf4+ vg5 49 xxg5 fxg5 50 Vd6+ 51
+Vxd7 c2
+Black allows himself to be mated, but after 51 ...Äbl+ 52 ég2 Äb2+ 53 ég3
+ég6 Black must lose eventually.
+52 Vxh7#
+This famous game has its place in chess literature as a classic example of an at-
+tack on the castled king which is stronger than the counterattack on the queen-
+side. But in the light of my annotations, which differ fundamentally from all
+annotations hitherto, from Tarrasch to Réti, this game takes on a new appearance.
+Black's numerous opportunities to strengthen his game at various stages point
+rather to the equal balance between the attack and the indirect defence, and it was
+only the decisive mistake on the thirty-eighth move which swung the balance in
+White's favour. This view of the game also qualifies it as a good example of the
+importance of indirect defence against an attack on the castled king, and of the
+part played by operations with wing pawns in particular.
+Indirect defence by means of advancing a pawn majority on the queenside was
+at one time held in high esteem and was more often practised than nowadays; the
+real reason for this is that we have acquired a better understanding of the centre
+and the technique of centralization, thanks to the hypermodern school. It is clear
+that the player who has a majority on the wing, when the material is equally bal-
+anced, will usually not have the greater influence or pressure in the centre, nor
+will he have the necessary conditions for a central action. A majority on the wing
+is created at the expense of the centre and means giving up lateral pressure on the
+centre, and that is the sort of which the masters of today are reluctant to
+adopt. The struggle for the centre is a characteristic feature of all present-day
+openings, and the centralization of the pieces is an important theme of modern
+positional play; as a result, a majority on the wing appears nowadays more as a
+by-product of a particular strategy than its primary aim (for example, in the Ex-
+change Variation of the Grünfeld Defence).
+Thus, concern for the centre is driving majority actions out of use, and it
+should be added that an indirect defence against an attack on the castled king is
+more effective and holds better prospects of success in the form of a central ac-
+tion than one using wing pawns. This is shown by the following general consid-
+erations.
+l) Advancing pawns on the opposite wing is a slow process, since, as a rule,
+the whole pawn chain must move forward for a passed pawn to be created.
+2) The attacker knows which pawn is going to be dangerous and so can ar-
+range to contain it economically, either by preparing to block the pawn with a
+
+[PDF page 265]
+piece or by planning ahead to sacrifice a piece for the passed pawn, which in fact
+means surrendering the piece in return for a considerable number of tempi.
+3) Advancing pawns on the opposite wing is an action which is furthest in
+distance from the threatened castled position and which is the hardest to combine
+with, or transform into, direct defence.
+These are the general deficiencies of indirect defence using the wing pawns,
+and they limit its use mainly to the following cases:
+a) The attack on the castled king develops slowly, demanding a regrouping or
+perhaps a series of pawn moves; it does not lead to a forced mate, for a defence
+can be bought at the price of material;
+b) Direct defence is on the whole sufficient but it may be usefully combined
+with something else; in other words, the defender has some tempi left over which
+he can devote to alternative actions, including those using the wing pawns.
+These, then, are the general factors which speak for, or against, indirect de-
+fence by means of the wing pawns, but in this case too the reader must overcome
+any inclination to think merely in terms of formulae, since the essence of a for-
+mula often consists of 'exceptions which prove the rule'.
+Defence by counterattack
+Venturing further into the broad field of indirect defence, we next concern our-
+selves with a series of cases in which methods other than a pawn thrust in the cen-
+tre are used. We shall examine five examples from the point of view of the
+following factors:
+1) The area of the counterattack and the conditions underlying it.
+2) The part played by the material situation in relation to positional consider-
+ations.
+3) The interweaving of indirect defence with direct and the switching from
+one to the other.
+4) The dependence of timing and the form of defence on the state of the at-
+tacker's commitments.
+The following position is from the game K.Treybal-H.Wolf, Teplitz-Schönau
+1922. Black, to move, has the task of organizing a defence against an attack on
+his king position. A single glance is enough to show that he has no move to make
+in the way of direct defence. The only move in keeping with that would be
+I ...#h7, but that would simply make White's attack easier. For example, White
+will in any case play Xf4-h4 and then (with the king on h7) the square g5 will be
+available for his queen, besides which there is a threat of Acl followed by Xxh6
+
+[PDF page 266]
+[AA-p266-fig01]
+with check. Therefore, indirect defence must be used to obstruct White's plan to
+gain control of h6. With that aim, only an action on the queenside can be consid-
+ered, for Black cannot achieve anything in the centre.
+1...a5 2 Xf4 a4 3 xan axb3 4 axb3 Äa2!
+Very well played ! Black first of all makes it difficult for White to redeploy his
+queen and bishop, a course which is necessary for an attack on h6; moreover,
+there is an eventual threat of ...Xxb2 followed by ...Qd3.
+Suddenly Black threatens 6...Qxc4•, he has worked up a definite counterat-
+tack, and White is still quite a long way from having any serious threats on the
+kingside.
+Black has succeeded in persuading White's queen to leave the attacking diag-
+onal. 6 Äxh6 would not have worked because of 6...Xxb2 7 Vg5 Vg4 and White
+has nothing. An interesting possibility was 6 Qf5, which probably leads to a
+draw; objectively, this would not have been at all bad, for Black could have
+gained some advantage after White's actual move. The analysis runs 6 Q)f5 gxf5
+(6...Äxb2 fails against 7 Qxh6+ Axh6 8 Vxh6) 7 Äxh6 Xxb2 8 Vg5+ Qg6 9
+Xxg6+ fxg6 IO Vxg6+ 1 1 Äf4 (this attempt does not give more than perpet-
+ual check, which White would also obtain by 1 1 Vh5+) 11...Äbl+ 12 Xb2+
+13 Xbl+ (if 13...Vxe4+ 14 Xxe4 fxe4, White wins by 15 f 7!) 14 Éd2 Äb2+
+15 Écl Äbl+! 16 •xbl Xxb3+ 17 •a2 Äb2+1 18 (or 18 •xb2 Ve5+ and
+19...Vxf4) 18...Äa2+, and White's king cannot escape from perpetual check.
+6...Qxc4?
+I Black can play for a win by 17...Äh3! since after 18 gxh3 Vxc4+ he can win the
+rook on f4 with a serie; of checks.
+
+[PDF page 267]
+The wrong turning, since White now plays Acl with gain of tempo, placing
+the bishop on the diagonal where it really belongs. The correct continuation of
+the defence consisted in giving, not taking, material, e.g. 6...Xxb2! 7 Vxb2
+mxc4 8 Vc3 (or 8 Vcl Qe5 9 Xxh6 Äxb3 after which both IO Vg5 Vg4 and 10
+Xf5 Q)g4 are in Black's favour) 8...Qe5 9 Xbl c4 10 b4 Vxf6 11 Äh3 Ag7 and
+Black has the better prospects. Wolf, of course, was not the master to decide on
+'giving' when he could 'take'. His saying was: 'Why should I sacrifice when no-
+body sacrifices for me!?' But the consistent implementation of a plan with a
+sound positional basis often demands sacrificial conceptions, as in the analysis
+above, which is both typical and instructive. We can see here how an element of
+direct defence is also involved — the elimination of White's bishop, which plays
+an essential part in his mating plans. White's attack then flags, whereupon Black
+takes some pawns, centralizes his position, and brands White's rook on h4 as
+misplaced; the defence welds the various elements of the position into a single
+whole.
+7 Acl (D)
+[AA-p267-fig01]
+7...Qe5
+In sharp positions like this everything should be considered, including moves
+like 7...g5. The latter represents a simultaneous combination of direct and indi-
+rect defence: Black drives back the rook, blocks the diagonal of the enemy
+bishop, and frees the square g6 for the knight — all direct elements — while the in-
+direct appears in certain continuations where Black's g-pawn takes part in a
+counterattack. Let us look at some ways in which White can go astray after
+7...g5. First of all, the 'natural' move 8 Xh5? is unsatisfactory because of 8...Qe5
+9 Axg5 (after 9 Qf5 ag4! the attack on the e-pawn gains a tempo) 9...Äxb3 10
+Vcl Xxg3 11 hxg3 Vg4.
+
+[PDF page 268]
+Nor is 8 Qf5? gxh4 9 Vf3 Qe5 10 Vh5 good, e.g. IO...Äxb3 II mxh6+ (or II
+Axh6 Äbb2!) I l...Axh6 12 Vxh6 Vg4 when the clearing of the g-file enables
+Black to cover the focal-point at g7. The g-pawn takes an active role in the con-
+tinuation 8 Xh3 g4 9 bxc4 gxh3 when the threat of ...Xxg2+ costs White a deci-
+Sive tempo.
+The correct response to 7...g5 is 8 Xh3 ! g4 (if 8...Qe5 then 9 Q)f5 after which
+the b-pawn is protected) and now 9 Xh5 ! (instead of 9 bxc4 as above) 9...Qe5 IO
+Axh6 Axh6 (if IO...Xxb3 then II Vcl wins) II Äxh6 Xxb3 12 Vcl Qg6 13
+Xh8+ mxh8 14 Vh6 and White wins. Here White's play against the focal-point
+g 7 is unhindered, since g4 is blocked by Black's own pawn.
+8 Axh6 Axh6?
+At the very least, this is a tactical mistake; for, by 8...Xxb3 Black could have
+presented White with an exceptionally difficult problem and involved him in
+considerable risk if he persisted in playing for a win. The text move, however,
+gives White no difficulties and allows him to win easily.
+Grünfeld and Becker, the authors of the tournament book — one of the best in
+the literature of the game — rightly censure Black's move, but their analysis of the
+continuation 8...Äxb3 ! is not correct. In the variation which they conclude with a
+drawn ending Black can eventually win, while in that which they consider won
+for Black the position can be resolved in White's favour. These lines together
+with my analysis will interest the reader as general studies of the middlegame.
+Here is a diagram after the alternative 8...Xxb3! (D).
+[AA-p268-fig01]
+Grünfeld and Becker reach a draw as follows: 9 Axf8 g5 ! (otherwise Ag7 and
+mate) IO Xh5 Äxc3 11 Ag7 Qg6 12 0f5. In their opinion Black now has no de-
+fence against perpetual check by Qh6+. In fact, Black still has something to say
+and can play 12...Äxg2+! 13 (if 13 exg2 then 13...Vxe4+ and Black has no
+
+[PDF page 269]
+trouble picking up the rook on h5) 13...Xxh2+ 14 #xh2 (or 14 Xxh2 Vxe4+ fol-
+lowed by ...Qh4) 14...Ve5+ 15 •gl Äg3+ 16 (16 Qxg3 Vxg3+ 17
+Vg4 followed by ...Vxe4+, ...c4, etc.) 16...Xf3+ 17 egl (or 17 ég2 Xxf5 18
+exf5 Ve2+ 19 Xn hf4+) 17...Äxfl+ 18 exfl Vf4+ and White loses either his
+rook or his knight.
+The second line given by the same commentators aims to show that 8...Äxb3 !
+cannot be answered by 9 Vcl because of 9...Qg4 10 Axf8 Äbb2 1 1 Ag7 Xxg2+
+12 Xxh2+ 13 Xxh2 Äxh2+ 14 egl Va2 and Black wins. But if White, in-
+stead of 1 1 Ag7?, plays I I Vxb2! Äxb2 12 Ag7 then Black loses. Correct after 9
+Vcl is at once 9...Xbb2 whereupon IO Axf8 does not work because of 10...Äxg2+
+II Qg41
+Now here is my analysis. First of all, let me explain why 9 Axf8? g5! IO Vc l,
+not mentioned by the commentators, does not work. Black replies IO...gxh4 and
+then 11 Vh6 is useless on account of II...Vg4 while II Vg5+ fails against
+11...#xf8 12 hf5 Äbb2! when White's attack is halted — he cannot get any fur-
+ther than Vh6+ and mg7+ because of the threat of mate that faces him on g2 and
+h2. A third possibility is 11 Qf5 Xbb2! 12 Qe7+ Vxe7 13 Vg5+ (if 13 Vxb2
+then 13...Ve6) 13...#xf8 14 fxe7+ when it can be seen that White has
+achieved nothing. In return for his rooks Black will win the queen and the pawns
+on g2 and e7, thus obtaining an advantage in the ending.
+The above diagram is a hard nut to crack, and the way to attempt it is as fol-
+lows: 9 Vcl! Xbb2! IO Vxb2! Xxb2 II Axf8 g5 12 Äh5 Qg6 13 Ag7. Now
+White has the same position as in the first line above but with a tempo less and a
+rook more. He wins in the following variations:
+1) 13...c4 14 hf5 Äxg2+ (otherwise me7+ wins) 15 #xg21 Vxe4+ 16
+Ve5+ 17 g4+ (if 17...Vc3+ the king escapes from the checks on gl) 18
+19 v b6+ 20 Xn ! Vt)l+ 21 •g 2 22 # g 3 23 • x g4
+Vdl+ (or 23...Qe5+ 24 Qf3+ 25 *h6) 24 Xf3! Qe5+ 25 Qxf3+ 26
+Vd2+ 27 Q)e3 Vd4+ 28 #xf3 and White wins.
+2) 13...Vg4 14 Xh6 Äb8 (parrying the threat of Xxg6) 15 Xel Äe8 16 Qf5
+Xxe4 (otherwise Äxg6) 17 Qe7+ Äxe7 18 fxe7 Qxe7 19 Af6 and White wins.
+3) 13...Xb8 14 hf5 Xe8 (if 14...Vxe4, then a round of checks by the knight —
+Qh6+, Oxf7+, hh6+, Qf5+ — and finally f 7+ leads to the win of the queen) 15
+Qh6+ 16 nxf7+ 17 Ve5 18 h4 (or 18...Äf8 19 f7+
+20 Äh7#) 19 Xh6 20 f7+ 21 Äxg6+ 22 f8V and again White
+wins.
+1
+15 ! wins straight away.
+
+[PDF page 270]
+Of Black's other moves the most difficult to deal with is 13...Vc4, threatening
+14...Vc2. White is then able to draw by 14 Xal Xa2 15 Xbl Äb21 16 Xal etc., but
+can he also win? This may be left to the reader to examine; we shall return to the
+game, where Black played 8...Axh6? (D).
+[AA-p270-fig01]
+9 Äxh6 Vxb3
+Black also loses after 9...Xxb3 10 Vcl Qg4 II Vg5! Äbb2 12 Xxg6+.
+IO VCI
+Now the main defect in Black's eighth move can be seen: White is at once
+threatening 11 Xh8+.
+10...Qg4 11 Qf5! Äe8 12 Xh4 Xxe4 13 Qe7+ Xxe7 14 fxe7 Xe2 15 Äxg4
+ve3+ 16 Vxe3 xxe3 17 Zxg6+! 18 xgf6 1-0
+[AA-p270-fig02]
+1
+In this line 15...Vd4+ 16 Éhl Xal wins for Black — indeed, White seems to be
+struggling after 13...Vc4.
+
+[PDF page 271]
+This position, from the game Yates-Marco, The Hague 1921, arose after the
+moves 1 e4 e5 2 Qf3 d6 3 d4 4 Ac4 c6 5 Ae7 6 h6 7 Ae3 agf6 8
+Ab3 Vc7 9 Qd2 g5 10 a4 Qf8 11 as 12 Qf4 13 f3 zg8 14 Qn Ae6
+15 Qg3 (D). Black has played his favourite Hanham Variation of the Philidor,
+obtaining the advantage and an attack on the white king; this is the natural result
+of White's extravagant ffeatment of the opening (unmotivated moves a5 and f3 at
+an earlier stage of the game). Marco (Black), to move, spoils his position by pro-
+voking d5 which he does in order to continue with a sacrifice in the old 'paprika
+15...Vd7?
+Black had excellent prospects of carrying out an attack using his pawns
+(15...g4 or 15...h5) without any material risk, but he has seen the chance of a
+bishop sacrifice on h3 with play against the focal-point g2 and cannot resist it.
+16 d5
+White rightly falls in with Black's intentions and forces him to continue with
+...Ah3.
+16...Ah3 (D)
+[AA-p271-fig01]
+17 gxh3?
+White decides to accept the sacrifice and to employ direct defence against the
+attack on his king. With good play he could certainly have come through by this
+method, but the right way to refute the offer is not by accepting it but by applying
+indirect defence in the shape of a counterattack on the queenside. After d5 there
+is also some point to the earlier advance a5, since an attack can now be made on
+Black's pawn chain at b7 and c6, as a result of which White obtains the better
+pawn structure and an advantage in space on the queenside and also frees the
+square d5 for a piece. The analysis runs 17 a6! Oxg2 (if 17...Axg2
+
+[PDF page 272]
+then 18 axb7 Vxb7 19 Aa4 when White wins the exchange and gains space,
+while if Black advances his b-pawn, then 18 dxc6 Vc8 represents a strengthen-
+ing of White's position, after which the conditions for accepting the sacrifice are
+extremely good) 18 axb7 Vxb7 19 dxc6 (if 19 Aa4 as mentioned by Tartakower
+in The Hypermodern Game, Black would reply 19...Qxe3 20 Xxe3 Ad7)
+19...Vc8 20 Q)d5! (a typical example of play on the principle that the most im-
+portant feature of the position, in this case White's pressure on the queenside,
+takes priority; it should be observed that in pursuing this policy White must also
+be prepared to lose the exchange) 20...Qxel (it might seem more consistent for
+Black not to make this capture but to press on with his assault; in fact, the chief
+attacking moves do not work, e.g. 20...h5 21 Qxf6+ and 22 Oxh5, 20...g4 21
+Qxe7 •xe7 22 Qf5+ and White stands better and finally 20...hxd5 21 Axd5 af-
+ter which 21...Vc7, to prevent the advance of the c-pawn, is strongly answered
+by 22 b4) 21 Vxel Ae6 (Black must abandon his attack on the king and defend
+himself in the centre and on the queenside; the decisive factor is that 21...g4 is
+useless because of 22 f4) 22 Va5 Axd5 23 Axd5 oxd5 24 Vxd5 Ve6 (other-
+wise c 7!) 25 b4! and White has an overwhelming game.
+The chief feature of this line is the complete absence of direct defence. White
+gives up the pawn on g2 and the exchange, which effectively blunts Black's at-
+tack, while his excellently-founded action on the queenside gains in power with
+every move.
+17...Vxh3 (D)
+[AA-p272-fig01]
+18 Vd2?
+After this excessively passive move Black has the better chances. In such posi-
+tions it is often important to oppose the attacker's queen with one's own — in this
+case on fl. It was with this aim that Maroczy proposed 18 Xe2! g4 19 Vfl.
+
+[PDF page 273]
+Naturally, White gladly offers the exchange in order to weaken the attack by giv-
+ing back some material while at the same time still retaining some material ad-
+vantage. Thus after 19...gxf3 20 Vxf3 Oxe2+ 21 axe2 Black's only move to
+prevent White from consolidating completely is 21...Q)g4, but then White imme-
+diately gets the chance to counterattack, i.e. 22 dxc6! Vxh2+ 23 Qxe.3+ 24
+Vxe3. The further sharpening of the attack by 24...Ah4 would be dangerous be-
+cause of 25 cxb7.
+We shall examine two more variations arising out of 19...gxf3 20 Vxf3 (D):
+[AA-p273-fig01]
+1) 20...Q6h5 21 Axf4! exf4 22 dxc6. Black cannot win a piece now, since
+22...fxg3? permits the white queen to capture on f 7, while 22...Qxg3 can be met
+by 23 Xg2. Black must be modest and play 22...bxc6, allowing White to consoli-
+date by 23 Äg2. The risk involved in 22...0-0-0 is illustrated by the continuation
+23 Qd5 ! Oxg3 (23...fxg3 24 Vf5+ Vxf5 25 Oxe7+ 26 exf5 favours White)
+24 axe7+ 25 xg2 he2+ 26 Vxe2 f3 27 c7+ 28 hd5+ 29 hf4!,
+with a characteristic switch from indirect to direct defence; after 29...Äxg2+ 30
+Vxg2 White captures the pawn on f3 and remains the better placed I !.
+2) 20...Äg4 (covering the square f4, lessening the danger on f7. and preparing
+...h5-h4) 21 a6! (logically switching to the positional motif on the queenside and
+thus exploiting the slower tempo of Black's attack betrayed by the move ...Xg4)
+21...b6 (after 21...0-0-0'?22 axb7+ 23 dxc6 Black would be in great difficul-
+ties) 22 dxc6 h5 23 ! (having made good his superiority on the queen's wing,
+White goes over to direct defence; he returns the extra piece in order to simplify
+into a favourable ending) 23...h4 (Black would recover less material by 23...Qxe2
+24 Qcxe2, since then 24...h4 is met by 25 Vfl, when White clarifies the position
+I Actually this just wins for White.
+
+[PDF page 274]
+at the further expense of his e-pawnl) 24 Axf4 exf4 (the alternative 24...Äxf4 25
+Vg2 is equally in White's favour) 25 Vfl Äxg3 26 Vxh3 Xxh3 27 ég2 f3+ 28
+*xh3 fxe2 29 Xel with a clear advantage to White.
+Now we return to the game after 18 Vd2 (D).
+[AA-p274-fig01]
+18...Q6h5?
+Commentators have praised this move, which, however, could have allowed
+White to escape. Correct was 18...h5! which excludes the possibility of simplifi-
+cation and wins back the piece without giving up the attack .
+19 VD?
+White misses the chance to liquidate the position which Maroczy pointed
+out: 19 Oxh5! Vxf3 20 Axf4 (forced) 20...gxf4+ 21 ag3 fxg3 22 h3! and
+Black's attack loses its power. He must be satisfied with winning the exchange by
+22...Vf2+ 23 Vxn gxf2+ 24 •xn Ah4+ 25 Axel 26 Axel with a probable
+draw.
+19...g4 20
+Interesting is 20 Qxh5 axh5 21 Vg2 (or 21 f4 g3!) 21...gxf3! 22 Vxg8+ Éd7
+when White's queen has not a single square on the g-file from which to defend
+20...gxf3 21 Agl Ah4 22 Axf4 exf4 23 mxh5 Axo 24 Äxg8+ 25 Oxf4
+Vh4 26 xg7
+I
+This is still not totally clear after 25...Xxg3 26 Qxg3 Vg4, but White can im-
+prove earlier by 25 QI ! Xxg3 26 Vxg3 with an instant win.
+2
+I do not see how this wins back the piece. White can play (amongst other prom-
+ising ideas) 19 Ac4 h4 20 Afl Vd7 21 dxc6 bxc6 22 Of-5, and Black has noth-
+ing to show for his sacrifice.
+
+[PDF page 275]
+Or 26 Xxa8 Ag3 27 h3 Axf4.
+26...#f8 27 Xxf7+ #xf7 28 dxc6+ 29 Oe6+ 30 bxc6 0-1
+This game won the Second Brilliancy Prize.
+[AA-p275-fig01]
+In this position Black is to move and must discover a defence against White's
+two threats of Qh5 and Q)f5. It is fairly easy to reach the conclusion that there is
+not a large choice; only two moves are worth considering — l...f5 and l...#h8.
+The first appears more natural than the second, but in fact only the second pro-
+vides an adequate defence. If l...f5?, White replies 2 Axf5 ! , after which 2...Xxf5
+does not work because of 3 Oxf5 gxf5 4 Vg5+ 7 5 Vf6+ (or 5...#g8 6
+Xf3) 6 e6, and Black loses; nor is 2..gxf5 satisfactory, e.g. 3 Qh5 Äd7 4 e6,
+when the rook is lost, since if 4...Xe7, then 5 Äf3 is decisive: the one course re-
+maining, therefore, is to decline the sacrifice by 2...Qe7, but then White plays 3
+Ad3, threatening f5 as well as Qh5,
+l...f5? is weak because it 'opens up the position', with the result that White's
+queen becomes even more effective and is always creating new threats. On the
+other hand, l...#h8, which is also primarily a form of direct defence, should en-
+able Black, provided he can survive the immediate pressure, to make good his
+material advantage and territorial superiority on the queenside. Let us now exam-
+ine this second move.
+1...#h8! 2 Qf5
+After 2 Qh5 Äg8 3 Qf6 (otherwise 3...Af8 3...Xg7 4 Zf3 Black can just de-
+fend himself in time by 4...Vc3 5 Ädl Ae7 and if 6 Äh3, then 6...Axf6.
+2...Äg8 3 Xf3 gxf5
+Forced, since even 3...Af8 does not prevent White from sacrificing his queen
+on h7 and mating with the rook on the h-flle.
+4 Äh3 Äg7 5 Axf5 (D)
+
+[PDF page 276]
+[AA-p276-fig01]
+Now White threatens 6 Axh7 and 7 Ag6+ followed by mate with the queen at
+h8, but Black is a knight up at this stage, so the possibility of defence by giving
+back material arises. As a result of this increase in his resources, Black's defence
+turns suddenly from direct to indirect, only in the end to return again, after the
+'detour' , to direct defence.
+5...Vd2! 6 g3
+If 6 Äg3, then 6...Ädg8; anything else is answered by the same manoeuvre as
+now follows.
+6...Axe3 7 Axh7 Axf4! 8 Vh5
+Or 8 Vxf4 Vxf4 9 Af5+ eg8 10 gxf4 Qd4 11 Ad3 c5, when Black stands
+better.
+8...Ah6 9 Af5 axe5 10 Vxh6+ Vxh6 11 Äxh6+ ég8 and Black has a win-
+1
+ning advantage .
+In this example too we observe how a successful defence is flexible and unites
+a diversity of elements. Direct and indirect defence alternate, the attacker's
+I Although Vukovié is correct with his general principles, the above example is
+hardly a convincing demonstration; whatever Black plays, he cannot hope to
+defend the position with most of his pieces stuck far away on the queenside. Af-
+ter l...Éh8 White can play 2 f5! Qxe5 3 Qh5 Äg8 4 fxg6 fxg6 5 Vg5! Q)d7 6
+with a decisive attack, for example 6...Vc3 7 Ädl Xdf8 8 Äxd7 Vxd3 9
+Ve5+ and mates. Moreover, even one of Vukovié's own lines favours White:
+after 2 Qh5 Xg8 3 Qf6 Xg7 4 Xf3 Vc3 5 Xdl Ae7 White need not allow the
+capture on f6 but can simply play 6 Vh4! threatening 7 Xh3. Black has nothing
+better than 6...h5 7 Vg5 Axf6 8 exf6 Xh7 9 f5 Ve5, but after 10 h4! he is clearly
+in serious trouble as his rook on h7 is totally out of play.
+
+[PDF page 277]
+sacrifice provokes a counter-sacrifice from the defender, and in the end the basic
+soundness of Black's position proves itself.
+[AA-p277-fig01]
+This position is from the game Rossolimo-Pachman, Hilversum 1947. It is
+Black's move; he has a promising game and ought really to continue along posi-
+tional lines, e.g. l...a5 2 a4 e4 3 Ve2 b6, etc. Instead, he decides to 'invest his ad-
+vantage in an attack on the king', though the conditions for this are not
+particularly suitable.
+1...f4!? 2 exf4 exf4 3
+Black opened his attack at the cost of his advantage in the centre. Now White,
+by ridding himself of his doubled pawns, eliminates the last element of Black's
+positional superiority, with the result that the latter has only his kingside attack
+3...Vf7 4 Ae4
+As a general rule, the fianchettoed bishop protecting the castled position
+should not be touched, but here it is a question of gaining a tempo in order to play
+cxd6 before Qd2. If at once 4 cxd6, Black replies 4...f3, attacking the bishop on
+4...Vh5
+If 4...f3, White is not obliged to go in for the double-edged 5 Axh7+. He also
+has 5 cxd6 cxd6 6 Zd2 Ag4 7 Vc4, forcing the exchange of queens.
+5 cxd6 cxd6
+Black's position is not strong enough for the uncompromising 5...f3 6 Qd2
+Ag4. White would continue 7 Xabi, not allowing his opponent to escape from
+his material commitments; at the same time, he has a direct defence at hand in the
+shape of an attack on Black's queen by Xb5. After, for instance, 7...Xf6 8 Xxb7
+Black's obligations are too great in proportion to the force of his attack.
+
+[PDF page 278]
+Consequently, if 8...Xh6, White can permit himself 9 h4, a weakening which
+does not entail danger, since 9...g5 can be countered by IO Xb5. If instead
+8.. Vh3, then 9 Oxf3 Axf3 (otherwise Qh4 and Ag2) IO Axf3 Äh6 11 Xel
+leads to a win for White.
+6 Q)d2
+Now ...f3 is no longer possible.
+6...Äf6 7 Af3 Ag4 (D)
+[AA-p278-fig01]
+8 Axg4?
+This exchange involves the loss of a tempo. White should have switched at
+once to a counterattack on the queenside, where he is the better placed, for exam-
+ple 8 Xabl! Xh6 9 h4. Then, as we saw above, 9...g5 does not work, nor does
+9...a6 because of IO Äxb7 g5 1 1 Vc4+. Lastly, there is 9...d5 10 Xxb7, and again
+10...g5 is insufficient since after II Axd5+ 12 If 7 Ae2 13 Vf5 White
+wins.
+This is an example of how indirect defence, by clearing the ground on the
+queenside, makes it easier to revert to direct defence at the critical moment.
+8...Vxg4 9 Vf3 Vh3 10 Qe4?!
+Here too IO Xabl would probably have been better.
+IO...Xh6 11 Vg2 Vh5 12 g4
+After a period of timid play White aims to save himself by blocking the posi-
+tion.
+12...Vh4 13 Äabl xg6?!
+This move and, in particular, the next, are not the best. Black should have
+played 13...Äe8 14 Zt'el (otherwise ...Äxe4) 14...Äe7, which would have en-
+abled him to retain a slight advantages
+14 h3 h5'?
+
+[PDF page 279]
+Admittedly, this forces f 3, which shuts the long diagonal to White's queen, but
+on the other hand, it undertakes an attacking obligation for which there is insuffi-
+cientjustification. The point is that Black is obliged to obtain some concrete ad-
+vantage before his pawn at h5 becomes an anxiety and he is forced to strengthen
+White's position by exchanging it on g4. After this mistake White is the better
+placed and should in the end make his presence felt on the queenside.
+15 f3 Qa5 (D)
+[AA-p279-fig01]
+16 #112
+Though this does not mar White's position much, it would have been stronger
+to have played 16 Xb5 ! hc4 17 Vf2!, when Black's discomfort over the h-pawn
+is revealed in various ways. Thus, 17...Vxf2+ 18 Xxn hxg4 19 fxg4 leaves two
+pawns en prise, one of which will obviously fall, while if 17...Vxh3, then 18
+Qg5 Vg3+ (or 18...Äxg5 19 Xxg5 hxg4 20 Vh2 Vxh2+ 21 •xh2 Qe31 22 Xbl
+gxf3 23 •gl is good for White) 19 Vxg3 fxg3 20 gxh5 a6 21 hxg6 axb5 22 Xel
+and White is the better placed.
+This line, wherein the union of direct and indirect defence is especially close,
+would have been a much better way of handling the position than the passive one
+actually chosen.
+16...Qc4 17 xgl?
+The decisive error. He should have played 17 VD; then 17...Ve7 (17...Vxf2+
+eventually loses a pawn) 18 gxh5 Äh6 19 Agl Xxh5 20 Xxb7! Äxh3+ (or
+20...Vxb7 21 hf6+) 21 •xh3 Vxb7 22 Vh4 leaves the advantage with White.
+21...Qd2! leads to a rook and pawn ending which is winning for Black. White
+1
+can improve earlier in this variation, but only to the extent of holding the bal-
+ance. It is therefore doubtful if 16 Äb5 was any stronger than the move played.
+
+[PDF page 280]
+17...d5! 18 Ve2
+1
+This loses material, but even the more stubborn 18 Qc5 would not help much
+The deciding point here is that 18 Vn does not work because of 18...Vxf2+
+19 Q)xt2 Qd2!. and White loses the exchange.
+18...hxg4 19 fxg4 Äe6 20 Vf2 Ve7 21 Äxb7 Vxb7 22 Qc5 Ve7 23 Oxe6
+Vxe6 24 Vxf4 Äf8 25 Vg3 Qd2 0-1
+[AA-p280-fig01]
+In this position White played:
+He is clearly preparing to deploy the rook on g3 or h3 in order to attack the op-
+posing king. Moves of this type belong on the whole to a rather more advanced
+stage of the game, when all the other pieces have been developed; they are also
+good in closed positions, where the opponent has no chance of counterattacking
+on an open file. However, even here this sortie on the part of the rook does not en-
+tail a very serious commitment for White, since the rook can turn back if it does
+not succeed in its mission.
+1...Ac6 2 xg3
+This parries the threat of 3 Ah6 without weakening the castled position.
+2...Ae4 3 Ah6 Ag6 is not so good because of 4 Axg6 hxg6 5 Ae3, when White
+has attacking chances along the h-file.
+3 Ae3 Ae4
+Black is still applying prophylactic direct defence, since the conditions are not
+yet favourable for a counterattack; the exchange of light-squared bishops ought
+to lessen the force of the attack and at the same time clear the squares on the c-file
+for an eventual counterattack.
+I Actually White can resign after the reply 18...Qe3.
+
+[PDF page 281]
+4 Xh3?!
+This threatens Axe4 followed by Vh5, but it does not take sufficient account
+of temporal factors, with the result that the initiative now passes to Black. It
+would have been better to contest the c-file by 4 Xcl.
+4...Vd5 5 f3
+The second logical step along a dangerous path: if the attack does not succeed,
+White will obviously suffer from the lack of communication between his rooks.
+5...Axd3 6 Vxd3 (D)
+[AA-p281-fig01]
+6...Ad6?
+Up to here Black has correctly carried through a direct defence without weak-
+ening his pawn position, at the same time keeping his trumps in reserve (the c-file
+and control of the central post at d5). All this has been entirely appropriate to the
+fairly modest commitments taken on by White. Now he mistakenly supposes that
+the moment for a counterattack has arrived and makes a careless move, which
+White could have punished. The situation required direct defence to be contin-
+ued for one more move, namely, by a renewed consolidation of the king's posi-
+tion by 6...#g8. The reason is that Black may eventually be forced (by Ag5) to
+play ...g6, after which Ah6 would threaten the rook protecting f7. This point can
+be covered by the king after ...ég8; consequently, Black may then use both his
+rooks on the c-file, while retaining a sufficient direct defence of the castled posi-
+tion by ...g6, if necessary. 6...h6 would be weaker on account of 7 g4, while
+6...Xc7 is also incorrect, e.g. 7 Ag5 h6 8 Af4 followed by g4.
+7 Af4?
+This throws away the chance of victory which was afforded by 7 Qd7 !. Owing
+to the threat of Qxf6, Black loses the exchange. He is not helped by 7...Axh2+ 8
+Xxh2! (not 8 exh2? Vxd7 9 Ag5, since Black defends himself by 9...Vc7+ and
+
+[PDF page 282]
+10...Vc2!) 8...Vxd7 9 Ag5, when he either loses his knight or is mated. After the
+1
+erroneous text move Black reasserts his advantage .
+7...g6 8 g4
+Black was threatening 8...Qh5; if 8 Ah6, Black can of course reply 8...Axe5.
+8...xc7 9 Ve3 Äfc8
+Black's counterattack is growing rapidly in strength.
+10 Ag5 Axe5 11 dxe5 Qg8
+This is not a defensive move but a preparation for later action against the
+bishop by means of ...h6.
+12 xg3
+White concedes that his attack has been beaten off and tries to provide some
+resistance on the second rank. After 12 Af6+ Qxf6 13 exf6 Vc5 Black has the
+better ending.
+12...xc2 13 xg2 xxg2+ 14 #xg2 xc2+ 15 ég7! 16 Au
+The bishop is in danger! A sad fate for an unsuccessful attacker!
+16...h6 17 h4 h5! 18 gxh5
+Otherwise Black opens up White's king position by ...hxg4.
+18...Qe7 19 Vb3
+19 h6+ would not help White either.
+19...Qf5+ 20
+He could have put up a better fight by 20 Éh3, though even then Black's game
+is overwhelming.
+20...xc4 21
+If 21 Ädl, Black can play 21...Vxdl !.
+21...Xxf4+ 22 *xf4 Vd4+ 23 VO! 24 Vd2+ 25 Äf4 Vd8+ 26
+Vxh4#
+If one leaves aside Black's unpunished mistake on the sixth move, then the
+whole course of the game is a good illustration of the relationship between the
+scale of the attacker's commitment and the method of defence employed. In the
+first phase White is not heavily committed by his rook's excursion and Black car-
+ries out a cautious direct defence without compromising his king position. He
+also maintains his hold on the c-file and the centre and eliminates one enemy unit
+— the light-squared bishop. With f3 and g4 White has already taken on greater ob-
+ligations and so the time is ripe for indirect defence by means of an action along
+the c-file. As soon as another unit is eliminated (the knight on e5) it is all over
+with White's attack, whereas the counterattack grows from move to move, with
+1 White has an even simpler win by 7 Ag5!, after which Black must surrender a
+piece to avoid being mated on h7.
+
+[PDF page 283]
+the lack of communication between the white rooks as the main cause of White' s
+misfortune.
+Defence by a central thrust
+Attacks on the castled king in which the situation in the centre does not play a
+greater or lesser part are extremely rare, and as a rule it is precisely the soundness
+of the attacker's central formation which provides the basis for his attack. If this
+formation is not sound enough, the defender may use indirect defence against it
+in the first instance, aimed against the central formation's most vulnerable point.
+Why is it that the centre is quite so important and sensitive in the particular
+case of an attack on the castled king? Because this kind of attack is one of the
+most complex and many-sided operations in chess, demanding the maximum
+collaboration of the pieces and a control over all possible consequences right up
+to the endgame. The centre is the most versatile area on the chessboard; it pro-
+vides the best conditions for the full co-operation of the pieces — the basis on
+which positional play is founded and a prerequisite for a favourable endgame.
+Many-sidedness is the common property belonging to a sound attack on the cas-
+tled king and to the centre, and this accounts for their mutual interdependence.
+Correct defence must also be many-sided — this we have seen in the last series of
+examples — and so each 'little crack in the centre' is more important to the de-
+fence than a variety of other weaknesses on the attacker's side.
+In some of the examples so far we have seen the centre acting as the basis of an
+attack, while in others the defender has employed indirect defence based on de-
+stroying the attacker's centre by sacrificing a piece. We have noticed particularly
+the case where the defender strives to centralize his pieces — giving a position
+which as a rule makes possible a combination of direct defence and the indirect
+form on the other flank. It still remains for us to look at the case of defence by
+means of a pawn thrust against the attacker's central formation.
+Before we pass on to examples, we must be clear that we are concerned here
+with a central thrust of a particular kind. For why should such a thrust be signifi-
+cant just at the critical phase of the attack? Why did the player not employ it ear-
+lier? The point is precisely that we are dealing here with cases where in fact the
+central thrust is not useful before the crisis, because the attacker has good replies
+to it. Only when he has increased his commitments and deployed his pieces for
+the attack does the moment for a thrust in the centre arise; and very often this oc-
+curs at a precise, given moment, not a move earlier or later.
+The following famous game provides a good example of a defensive thrust in
+the centre.
+
+[PDF page 284]
+Alekhine - Botvinnik
+Nottingham, 1936
+Sicilian Defence, Dragon Variation
+1 e4 c5 2 Qf3 d6 3 (14 cxd4 4 Qxd4 0f6 5 g6 6 Ae2 Agi 7 ae3 8
+03 Ae6 9 f4 0-0 10 g4 (D)
+[AA-p284-fig01]
+In choosing the pawn avalanche as a means of attacking the castled king at an
+early stage of the game, White has undertaken a considerable obligation to carry
+out his attack incisively to the end. For if Black has his say, his counterattack will
+find a mass of weak points, files, and diagonals in White's territory; if an end-
+game is reached, White's advanced pawns may easily become 'cannon-fodder'.
+The moment of undertaking an obligation is also the moment of crisis, the mo-
+ment for the thrust in the centre, which in the Sicilian as a whole, and in this posi-
+tion particularly, is unstable. Botvinnik perceived the correct moment and struck
+with IO...d5!.
+IO...d5!
+Let us first see why ...d5 is correct at the precise moment when White plays
+g4. Let us suppose he has played IO 0-0 and examine the difference.
+1) IO 0-0 d5? 11 e5 Qe8 (11...d4 does not work, since White can simply take
+the pawn) 12 Af3 Qc7 13 Qc5, when Black must accept the weakening of his
+position by mxe6 fxe6, since 13...d4 is defeated by 14 Axc6.
+2) 10 g4 d5! 11 e5 d4! (now this move is good) 12 Qxd4 (or 12 exf6 Axf6,
+when Black wins the piece back with the better game) 12...Qxd4 13 Axd4
+Qxg4! 14 Axg4 Axg4, and Black preserves the material balance while gaining
+the advantage with regard to space, position, and time. There is undoubtedly a
+great difference between the first and second instances of ...d5.
+
+[PDF page 285]
+Now the question arises why ...d5! is necessary in answer to IO g4 and what
+happens if Black does not employ the defensive central thrust. This can be an-
+swered by citing the continuation of the game Foltys-Eliskases, Podebrad 1936,
+where in the same position Black met IO g4 with 10...Qa5 aiming at the square
+c4. The continuation was 11 g5 Qe8 12 Ad4 (in the game Kan-Botvinnik, Mos-
+cow, 1936, 12 Vd2 was played, but Foltys' move is better) 12...Xc8 13 h4 Qc4
+14 Axc4 Xxc4 15 Vd3 Xc8 16 0-0-0 Vd7 17 Xd2 Ag4 (to combat h5, but it sur-
+renders d5 to the enemy knight) 18 Qd5 b6 19 f5! (the avalanche begins to move;
+Black cannot take the pawn, since the eventual Oxe7+ is decisive) 19...e6 20
+Axg7 21 f6+ 22 Xd8 23 Qd4 Va4 24 25 h5 gxh5 26
+Ädh2 Xd7 27 e5 (threatening 28 Vxh7+ •xh7 29 Xxh5+ mating) 27...xxe7 28
+xxh5 Axh5 29 Xxh5 1-0
+Now to return to the Nottingham game, in which Botvinnik did not allow him-
+self to be smothered in this way.
+Clearly, this is the only alternative to 1 1 e5 which has already been analysed.
+If 11 exd5 oxd5 12 Oxd5, Black would gladly exchange queens by 12...Vxd5,
+thus winning the b-pawn, to say nothing of the ending.
+11...Ac8
+Though the bishop has to withdraw, it is still aggressively placed as far as
+White's weak pawns at f5 and g4 are concerned.
+12 exd5 04
+There is to be no more talk of an attack on the king; the players are now con-
+cerned with a struggle for the centre pawn and the d5-square. If White holds out,
+he can expect success, but if Black overcomes the advancing pawn, the first
+player's prospects are poor.
+13 d6? (D)
+Whenever Alekhine made an unexpected move the world of commentators
+dutifully gave it one or two exclamation marks. This happened in the case of this
+move too, which abandons the struggle for the square d5 and, in fact, also risks
+losing the game.
+A better line here is 13 Af3! gxf5 14 a3 fxg4 15 Ag2. Suggested long ago by
+Dr Euwe, this was tried in the 2nd match game between Fischer and Reshevsky,
+New York 1961 when White secured an advantage after 15...Qa6 16 Vd3 e6 17
+0-0-0 axd5 18 h3 g3 19 Ähgl Vd6 20 Axd5 exd5 21 Oxd5 22 Af4 Vg6.
+Now Fischer played 23 Vd2 but 23 Vf3! seems to me to be even stronger.
+13...Vxd6?
+Alekhine's original assertion that 13...exd6! was impossible because of 14 a3
+mc6 15 g5 Qe8? 16 f6 etc., has remained unchallenged in chess literature. It is
+
+[PDF page 286]
+[AA-p286-fig01]
+clear, however, that in this kind of situation it is worth looking to see whether the
+sacrifice of a piece will work or not. Indeed, sound logic argues that it must work,
+for the whole variation quoted by Alekhine so strengthens Black's position that
+it is worth his giving up a knight for two pawns. Above all, White's position is
+exposed as a result of his pawn advances: the thrust d6 leaves him without a
+'backbone' in the centre; the reply ...exd6 opens up the e-file and the diagonal
+d8-h4, while g5 relinquishes control of the c8-h3 diagonal to Black's c8-bishop.
+The sacrifice can take a number of forms, but I shall give the one which seems
+best to me. It runs 13...exd6! 14 a3 mc6 15 g5 Äe8! with the following possibili-
+ties:
+l) 16 gxf6 Äxe3 17 fxg7 (or 17 Qd5 Xe5 18 fxg7 Vh4+ 19 Axf5! and
+Black has a strong attack) 17...Vh4+ 18 (or 18 Axf5) 18...Vh6 19
+and Black has excellent chances. He has no need to consent to a draw by
+19...Vh4+ 20 Éd2 Vh6, but can play for a win with 19...Axf5.
+2) 16 Ad4 mxd4 17 Qxd4 Qg4 18 f6 Axf6 19 gxf6 Vxf6 20 Afl Vh4+ 21
+Qe3 22 0f3 Vh6 and Black wins.
+3) 16 An 17 (or 17 f6Qxc3 18 bxc3 Ag4 19 Va5 20 Ad4
+oxd4 21 Vxd4 Vxg5 22 fxg7 Axe2 23 Oxe2 Vg2 and Black wins) 17...Äxe4
+18 f6 Ag4 19 Va5+ 20 Vd2 Ve5 21 Vxb2 22 Axg4 xxg4 23 xa2
+Vb5+ 24 Qe2 (alternatives are 24 Qd3 Vd5 and 24 Vd3 Vxg5) 24...Xe4 25
+fxg7 Äxe2 26 Vxe2 Vbl+ with advantage to Black.
+Botvinnik must certainly have prepared the move IO...d5 ! in his private analy-
+sis and so should have known all the important continuations. He had probably
+not reckoned with 13 d6?, and when Alekhine confronted him with it, did not
+venture on 13...exd6 but was bluffed into playing the drawing move 13...Vxd6?.
+All great masters, from Homer onwards, have engaged in a little bluff at times.
+14 Ac5 Vf4!
+
+[PDF page 287]
+14...Vxd1+ would have been weaker, e.g. 15 Äxdl mc6 (not 15...hxc2+ 16
+#d2!) and then White really can play 16 g5 Qd7 17 f6.
+15 Xn Vxh2
+The breakthrough in the centre has allowed Black's queen to infiltrate into
+White's position, which was weakened by the move g4. Perpetual check is now
+already in sight.
+16 Axb4 Oxg4! 17 Axg4
+An attempt to defend by 17 oe4 Vh4+ 18 hf2? would result in unfortunate
+consequences, i.e. 18...Qe3 19 Vd2 Vxb4!, etc.
+17...Vg3+ 18 Xn
+Not 18 Éd2 Ah6+! nor 18 Vxg4+ and 19...Vxb4.
+19 20 1/2-1/2
+[AA-p287-fig01]
+This position is from the game Kotov-Keres, Budapest Ct 1950. White's at-
+tack is extremely dangerous, his main threat being Abl followed by Vc2. It is
+Black's move, and the moment is clearly suitable for a thrust in the centre, where
+Black has not yet engaged his opponent. Keres decided on 1...d5?, but the correct
+choice was l...d6!, as we shall see later. Let us first follow the course the game
+actually took.
+1...d5? 2 Abl! (he surrenders both the pawn and the square c4 to Black and
+threatens Vc2) 2...g5 (if 2...Axc4, then 3 Vc2 g6 4 Vd2 5 Af6 Qb3 6
+Q)g5+ eg8 7 Vf4 Oxal 8 Vh4 h5 9 Vxh5 ! followed by mate with the bishop on
+1-17) 3 Vc2 Qg6 4 Qf4! gxh4 5 xe8 6 Qh8! Äe7 7 Vh7+ 8 f4 9
+f5 exf5 10 0-0 Ac8 11 Axf5 Axf5 12 Äxf5 13 Xxf7 Éd7 14 Vf5+ #c615
+Vf6+ Éd7 16 e6+ (or 16...#d6 17 Xxe7 Vxe7 18 Qf7+, winning the
+queen) 17 xxe7 Vxh8 18 xxc7+ (or 18...#xc7 19 Ve7+ 20 Xfl) 19
+Ve7 as 20 Vd7+ 21 Xbl 1-0
+
+[PDF page 288]
+After I ...d5?, what is the outstanding feature of the play? Thanks to this move
+Black won the pawn on c4, but he neither obtained a proper counterattack nor did
+he harass White's 'captain in the centre' , his pawn on e5. White's attack flowed
+on unchecked. So the move 1...d5? had only the form of a central thrust and, in
+essence, did not greatly alter the situation. The true central thrust here, which
+does in fact parry the attack, is 1...d6! — this has White's e-pawn as its target. Let
+us look at the variations that arise from this.
+1...d6! (D)
+[AA-p288-fig01]
+2 Abl
+White could, admittedly, maintain his wedge in the centre by 2 f4, but Black
+would profit from this in two ways: f4 is closed to White's knight, while the con-
+tinuation 2...Ve8 3 Vdl Axc4 4 Abl hf5 5 Vc2 Vc6 shows that Black also has
+a tempo more here, since the white queen has needed two moves to reach c2; the
+combination of these factors turns things in Black's favour.
+2...dxe5 3 dxe5
+Now 3 Vc2 can of course be answered by 3...f5.
+3...Ve8 4 Vc2 5 Qu
+Or 5 0-0 Axc4 6 Xel Q)b3 7 Xa2 Qd4! 8 cxd4 Axa2 9 Axa2 Qxh4, when
+White is left with neither an attack nor any compensation for the exchange.
+5...Qxc4
+The counterattack in the centre by ...d6 has attained its object: now White can-
+not sustain both his attack and his pawn on e5. He cannot achieve anything by 6
+Qh5 mcxe5 7 Af6 because of 7...Qd3+ 8 Édl Ab5 9 a4 Axa4 10 Xxa4 Vxa4
+and Black wins. If 6 axg6 fxg6 7 Ag3, Black plays 7...Äd8, after which the
+threats of ...Xd2 and ...ze3 guarantee him a material advantage. Should White
+take the g-pawn, then the exchange of queens leads to a won ending for Black.
+
+[PDF page 289]
+The various continuations which result from the thrust l...d6! provide good
+examples of the following themes:
+1) the destruction of the centre when this centre is essential to the attack; in
+this case Black also gained space for a counterattack via the centre;
+2) liquidating the position to bring about a favourable ending on the basis of
+the defender's strength in the centre.
+Particular attention should be paid to those cases where the central thrust does
+not lead immediately to a decision but merely serves to maintain the tension in
+the centre. The next example illustrates the significance of this method of de-
+fence.
+The diagram below is taken from the game Marshall-Burn, Paris 1900. The
+opening ran as follows: 1 d4 d5 2 c4 e6 3 Qc3 Qf6 4 Ag5 Ae7 5 e3 0-0 6 Qf3 b6
+(nowadays this is usually preceded by ...h6) 7 Ad3 Ab7 8 cxd5 exd5 9 Axf6
+(the so-called Albin-Marshall Attack in the Queen's Gambit) 9...Axf6 10 h4 (D)
+[AA-p289-fig01]
+Here Burn timidly played 10...g6?; this was followed by 11 h5 Äe8 12 hxg6
+hxg6 13 Vc2 Ag7? (he should have played 13...#g7 and if 14 0-0-0 then
+14...Xh8) 14 Axg6 fxg6 15 vxg6 hd7 16 Vf6 17 Äh8+ #xh818 Vh7#.
+In playing IO...g6? Burn probably wished to exclude the possibility of the
+classic bishop sacrifice; IO...h6? would not have been correct on account of 1 1
+g4. But is the sacrifice really threatened? And has Black no better move to pre-
+vent it than one which weakens his king position? It is an interesting fact here
+that there is no threat of a sacrifice at all in the original position, yet, if Black
+plays 10...Äe8 or 10...5d7, it is already, in practice anyway, rather dangerous, al-
+though it would still really be incorrect. Let us now play Black's most natural
+move, 10...c5!, and see why the sacrifice is incorrect: 11 Axh7+ #xh7 12 Qg5+
+
+[PDF page 290]
+#h6! (not 12...#g6 because of 13 Vd3+ nor 12...#g8 on account of 13 Vh5) 13
+Qe2 (White's most incisive move) 13...g6 14 Qf4 Axg5! (otherwise 15 h5 is
+strong; 14...#g7 fails against 15 Qge6+) 15 hxg5+ •g 7 (if 15...#xg5 then 16
+Xh5+ affords good attacking prospects) 16 Äh6 (had Black played ...Qd7 rather
+than ...c5 on his tenth move, White would now have a chance with 16 Vg4)
+16...Äh8!l (16...Vxg5 allows White to get some material back by 17 Äxg6+) 17
+Xxg6+ (or 17 Vg4 Xxh6 18 gxh6+ #h7) 17...fxg6 18 Qe6+ 19 mxd8
+Ähl+ 20 Éd2 Xxdl+ 21 Xxdl Ac8 22 dxc5 #f8! 23 c6 24 c7 aa6 with ad-
+vantage to Black.
+Accordingly, there was no threat of a sacrifice and Burn's 10...g6? simply
+weakened the position without any necessity; this is always a much more danger-
+ous thing than a forced weakening, as Tartakower so finely expressed in his
+Hypermodern. (For compulsion creates antitheses and hence the possibility of
+counterplay or compensation, while in the case of a voluntary weakening there is
+only a naked weak spot without compensation ! )
+We shall now examine an example of play from the above diagram, where
+Black correctly maintains the tension in the centre as a means of defence, while
+avoiding as much as possible any weakening of his king position.
+10...c5 11 g4
+White sees that 11 Vc2 g6 12 h5 can be answered by 12...Ve8 protecting g6
+and threatening ...cxd4. If he then continues with 13 0-0-0 Black resolves the
+central tension and starts an attack on the castled king (by 13...c4 14 Ae2 b5,
+etc.) which is stronger than White's. II Vbl meets a similar response — and
+White can no longer castle queenside.
+11...xe8
+Putting pressure on White's d-pawn; now 12 g5 fails against 12...Axd4.
+12
+The pressure in the centre has made White resort to artificial castling.
+12...g6 (D)
+This weakening is necessary and well-founded here, and therefore not an er-
+ror. Black perceives the prospects that his light-squared bishop has on the long
+diagonal, and to open this up he needs to maintain the pressure against d4; to
+achieve this his dark-squared bishop must also remain on its long diagonal, and
+accordingly the square g7 must be vacated to provide against g5. Black is natu-
+rally not afraid of the 'hanging pawns' arising from dxc5; indeed he actually
+16...Ac8 may be even stronger. By covering e6, Black eliminates the Äxg6+
+1
+trick and can safely take on g5 next move.
+
+[PDF page 291]
+[AA-p291-fig01]
+wants to induce them. In the presence of the two bishops such pawns are not usu-
+ally considered a weakness in any case; here there is the additional matter of
+forcing open the light-squared diagonal.
+The move 12...Qc6 is worth mentioning too; this also increases the pressure
+on the square d4, but it allows 13 g5 after which 13...cxd4 is insufficient on ac-
+count of 14 gxf6 dxc3 15 Axh7+!. The classic bishop sacrifice, incorrect on the
+eleventh move and replaced by g4, has appeared in a correct form in an altered
+1
+situation .
+13 g5 Agi 14 h5 15 Xh4
+White holds his ground in the centre and at the same time prepares for an even-
+tual doubling on the h-file.
+15...Äc8
+Not for the sake of the c-file, but to bring the rook to e7, where it will be
+equally well placed for attack and defence.
+16 Qb4
+Black gives up the pressure on the centre temporarily in order to drive White's
+bishop back to bl, thus making it more difficult for the rook on al to go into ac-
+tion; this is important, since without both the rooks it is hard to carry out an attack
+on Black's 'artificially-fianchettoed' king position.
+17 Abl
+If 17 Ab5 Black would be able to play 17...Äe4! aiming to eliminate the en-
+emy rook, which is very annoying for him at h4. White could not accept the sacri-
+fice, e.g. 18 mxe4 dxe4 19 Qd2 cxd4!, etc.
+17...xc7 18 a3
+1 Vukovié offers no analysis to support his view that the sacrifice is correct in this
+position. It still looks unsound to me.
+
+[PDF page 292]
+18 05 Xce7 19 axa7? would be incorrect in view of 19...Aa6 20 a3 Xxa7 21
+axb4 Afl+.
+18...Qc6 19 hxg6
+White takes this pawn at a moment when 19...fxg6 would still be dangerous
+because of the possibility of 20 Xxh7. If White waits any longer, hxg6 will lose
+its effect and the answer ...fxg6 will be good, opening up the f-file to Black's ad-
+vantage. If 19 dxc5 Black has the powerful reply 19...Qe5 !.
+19...hxg6 20 Qe2 Xce7 21 hf4 cxd4
+The tension in the centre served Black well while he was defending. Now he
+turns to attack with the intention of conquering both the d-pawn and the square
+on which it stands.
+22 exd4 (D)
+If 22 mxd4, Black can either play 22...Qe5 or 22...Qxd4 23 exd4 Äel.
+[AA-p292-fig01]
+22...xe4! 23 Axe4
+If White does not accept the sacrifice, he loses his d-pawn.
+23...dxe4 24 Qh2
+Or 24 Qe5 Q)xd4 when Black is attacking the knight on e5 as well.
+24...Qxd4 25 vxg5+ 26 Äg4 Vf5 27 Va4 Ac6 28 Vxa7 hf3+ and
+Black wins.

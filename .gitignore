@@ -1,0 +1,34 @@
+# Machine-local environments and installed dependencies (preserved on disk).
+.venv/
+venv/
+node_modules/
+
+# Regenerable Python/tool caches.
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local credentials and environment overrides.
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Operating-system metadata.
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Downloaded/installed local OCR, chess and translation runtimes.
+/tmp/chessdeps/
+/tmp/ocrdeps/
+/tmp/translation_deps/
+/tmp/hf/
+/tmp/marian_en_zh_ct2/
+/tmp/tessdata/
+
+# Keep originals, translations, OCR/page images, figures, proofs, scripts,
+# skill backups and other historical working files under version control.

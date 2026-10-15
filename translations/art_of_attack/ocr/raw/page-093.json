@@ -1,0 +1,180 @@
+{
+  "pdf_page": 93,
+  "printed_page": 93,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        757.1,
+        124.7,
+        986.2,
+        170.9
+      ],
+      "text": "Focal-points",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        1476.3,
+        123.5,
+        1524.1,
+        164.7
+      ],
+      "text": "93",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        198.5,
+        268.2,
+        1529.0,
+        319.4
+      ],
+      "text": "Wh7+ (variation A) and 17 h3 (B) lead to a draw, while the rest end in a win for",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        197.2,
+        321.8,
+        1380.7,
+        369.3
+      ],
+      "text": "Black. These other, poorer, continuations are given under (C) and (D).",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        512.1,
+        527.7,
+        544.0,
+        560.1
+      ],
+      "text": "W",
+      "confidence": 0.9224
+    },
+    {
+      "bbox": [
+        202.1,
+        1021.7,
+        428.8,
+        1070.3
+      ],
+      "text": "A) 17 wh7+",
+      "confidence": 0.8858
+    },
+    {
+      "bbox": [
+        245.0,
+        1076.6,
+        1529.0,
+        1120.2
+      ],
+      "text": "This is the oldest method, tried out in innumerable games and ending in a",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        200.9,
+        1127.7,
+        298.9,
+        1170.1
+      ],
+      "text": "draw.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        246.3,
+        1175.1,
+        536.6,
+        1218.8
+      ],
+      "text": "17...f7 18 h6",
+      "confidence": 0.949
+    },
+    {
+      "bbox": [
+        246.3,
+        1225.0,
+        1216.6,
+        1273.7
+      ],
+      "text": "18 Me1 is not good because of 18...g6 19 h6 Wg5, etc.",
+      "confidence": 0.9593
+    },
+    {
+      "bbox": [
+        249.9,
+        1276.2,
+        595.4,
+        1323.6
+      ],
+      "text": "18...g8 19 e1 (D)",
+      "confidence": 0.9266
+    },
+    {
+      "bbox": [
+        512.1,
+        1485.7,
+        537.8,
+        1518.2
+      ],
+      "text": "B",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        249.9,
+        1983.5,
+        404.3,
+        2028.4
+      ],
+      "text": "19...Wf8",
+      "confidence": 0.9025
+    },
+    {
+      "bbox": [
+        248.7,
+        2034.6,
+        1530.2,
+        2080.8
+      ],
+      "text": "Maroczy, and later Bogoljubow, tried to find a win for Black at this point with",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        204.6,
+        2080.8,
+        1535.1,
+        2131.9
+      ],
+      "text": "19...f8 but further analyses have shown that White has a draw by 20 h3! Qd7",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        204.6,
+        2133.2,
+        1536.3,
+        2180.6
+      ],
+      "text": "(if 20...f4 then 21 h4 is in White's favour) 21 he3 c8 22 Qd3 g6 (if",
+      "confidence": 0.9675
+    },
+    {
+      "bbox": [
+        205.8,
+        2180.6,
+        1532.7,
+        2231.7
+      ],
+      "text": "22...b6, White wins by 23 xf5 xd5 24 xd7! xe3 - or 24...Wxd7 25",
+      "confidence": 0.9761
+    }
+  ]
+}

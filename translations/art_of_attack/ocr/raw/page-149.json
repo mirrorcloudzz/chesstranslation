@@ -1,0 +1,380 @@
+{
+  "pdf_page": 149,
+  "printed_page": 149,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        340.6,
+        124.7,
+        1547.4,
+        174.6
+      ],
+      "text": "Ranks, files and diagonals in the attack on the castled king 149",
+      "confidence": 0.9755
+    },
+    {
+      "bbox": [
+        226.7,
+        275.7,
+        1032.8,
+        319.4
+      ],
+      "text": "xc4) 5 d7 followed by a repetition of moves.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        268.3,
+        319.4,
+        1548.6,
+        373.0
+      ],
+      "text": "Also weak is 1..f8? 2 g4 xa2 3 h6! gxh6 4 f6 g7 5 d8+ f8 6d7!,",
+      "confidence": 0.9465
+    },
+    {
+      "bbox": [
+        225.4,
+        374.2,
+        757.1,
+        422.9
+      ],
+      "text": "again with a draw by repetition.",
+      "confidence": 0.9665
+    },
+    {
+      "bbox": [
+        268.3,
+        421.6,
+        911.5,
+        472.8
+      ],
+      "text": "2 g4 xa2 3 e5 g8 4 d8+ f8",
+      "confidence": 0.9646
+    },
+    {
+      "bbox": [
+        268.3,
+        472.8,
+        721.6,
+        522.7
+      ],
+      "text": "Or 4...h7 5 g6, mating.",
+      "confidence": 0.9362
+    },
+    {
+      "bbox": [
+        269.5,
+        522.7,
+        458.2,
+        567.6
+      ],
+      "text": "5 xc4 b5",
+      "confidence": 0.9683
+    },
+    {
+      "bbox": [
+        273.2,
+        576.3,
+        573.4,
+        616.3
+      ],
+      "text": "Or 5...f7 6 b8.",
+      "confidence": 0.9261
+    },
+    {
+      "bbox": [
+        269.5,
+        618.8,
+        1549.8,
+        669.9
+      ],
+      "text": "6 句e5 xb2 7 g6 xc2+ 8 f3 c3+ 9 g4 c4+ 10 h3 f7 11 xf8+",
+      "confidence": 0.9358
+    },
+    {
+      "bbox": [
+        229.1,
+        682.4,
+        575.8,
+        719.8
+      ],
+      "text": "and Black must lose.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        269.5,
+        726.0,
+        1543.7,
+        769.7
+      ],
+      "text": "As we have seen, the 'escape holes' did not work; in this position they repre-",
+      "confidence": 0.9785
+    },
+    {
+      "bbox": [
+        225.4,
+        773.4,
+        1549.8,
+        825.8
+      ],
+      "text": "sent too great a weakness, so the only correct continuation is 1...g8!, which re-",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        227.9,
+        825.8,
+        1553.5,
+        873.2
+      ],
+      "text": "moves the danger on the back rank without weakening the pawn position. What",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        225.4,
+        877.0,
+        1551.0,
+        923.1
+      ],
+      "text": "is more, Black must also avoid moving his pawns if White continues with his",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        227.9,
+        925.6,
+        1549.8,
+        974.3
+      ],
+      "text": "sharpest reply, 2 h6! (since if 2...gxh6, White can draw by 3 g4). He should in-",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        226.7,
+        975.5,
+        1553.5,
+        1025.4
+      ],
+      "text": "stead play the solid 2...&f8, after which he can reap his pawn harvest with",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        229.1,
+        1025.4,
+        1552.3,
+        1075.3
+      ],
+      "text": "...xa2, etc. Another typical variation is 2 g4 (instead of 2 h6) 2...xa2 3 e5",
+      "confidence": 0.9734
+    },
+    {
+      "bbox": [
+        227.9,
+        1076.6,
+        1552.3,
+        1125.2
+      ],
+      "text": "xb2 4 d8+ f8 5 d7 xc2+ 6 f3 f7. Now one can appreciate the signifi-",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        227.9,
+        1125.2,
+        1551.0,
+        1177.6
+      ],
+      "text": "cance of White's lack of an outpost for his knight -- he wins the bishop by 7 xf8",
+      "confidence": 0.9799
+    },
+    {
+      "bbox": [
+        230.3,
+        1181.4,
+        873.5,
+        1223.8
+      ],
+      "text": "but Black, with 7...b3, wins the game'.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        273.2,
+        1227.5,
+        1552.3,
+        1276.2
+      ],
+      "text": "The sensitivity of ‘escape holes' of this kind can best be seen if White's pawn",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        229.1,
+        1279.9,
+        1557.2,
+        1326.1
+      ],
+      "text": "on h5 is moved to h4. Then, as well as 1...g8, Black may also play 1...h6, a fact",
+      "confidence": 0.9757
+    },
+    {
+      "bbox": [
+        231.6,
+        1334.8,
+        1279.0,
+        1376.0
+      ],
+      "text": "of which the reader may convince himself by his own analysis.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        231.6,
+        1439.6,
+        1078.1,
+        1490.7
+      ],
+      "text": "The weakness of the second rank",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        230.3,
+        1535.6,
+        1547.4,
+        1576.8
+      ],
+      "text": "The second rank, on which the pawns stand at the start of the game, is generally",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        230.3,
+        1585.5,
+        1554.7,
+        1626.7
+      ],
+      "text": "as weak as the back rank; the pawns stand on it but do not protect it. There is,",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        225.4,
+        1629.2,
+        1558.4,
+        1682.9
+      ],
+      "text": "however, a difference, in that the second rank is harder to 'clear' prior to its being",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        230.3,
+        1687.8,
+        1555.9,
+        1729.0
+      ],
+      "text": "used by a rook or queen because the pawns tend to get in the way, just as trees in a",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        227.9,
+        1734.0,
+        1557.2,
+        1781.4
+      ],
+      "text": "forest tend to obstruct a clear view. Consequently, weaknesses on the second",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        226.7,
+        1785.1,
+        1557.2,
+        1832.5
+      ],
+      "text": "rank most frequently appear on individual squares or focal-points, and it is rarer",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        227.9,
+        1837.5,
+        1557.2,
+        1883.7
+      ],
+      "text": "to find a general weakness affecting the whole rank. The latter phenomenon,",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        312.4,
+        1952.3,
+        1557.2,
+        1994.7
+      ],
+      "text": "This is all rather confusing. After what Vukovic considers to be Black's best",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        312.4,
+        1998.5,
+        1557.2,
+        2044.6
+      ],
+      "text": "continuation, 1..g8 2 g4 xa2, White can play 3 h6 forcing 3...f8 (or else",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        314.9,
+        2044.6,
+        1557.2,
+        2095.8
+      ],
+      "text": "perpetual check), but after 1...&f8 2 g4 xa2, which Vukovic condemns on",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        313.6,
+        2098.3,
+        1555.9,
+        2141.9
+      ],
+      "text": "account of 3 h6, Black can reach exactiy the same position by playing 3...g8!.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        312.4,
+        2143.2,
+        1557.2,
+        2189.3
+      ],
+      "text": "The truth of the matter is that 1..g8 and 1...&f8 work equally well, because",
+      "confidence": 0.9581
+    },
+    {
+      "bbox": [
+        313.6,
+        2195.6,
+        1029.1,
+        2239.2
+      ],
+      "text": "neither weakens the kingside pawn structure.",
+      "confidence": 0.9914
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "pdf_page": 256,
+  "printed_page": 256,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "256",
+      "bbox": [
+        314.0,
+        112.0,
+        376.0,
+        143.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        740.0,
+        117.0,
+        1234.0,
+        158.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Botvinnik (Black) played here l...Qg8?, which is an absolutely passive",
+      "bbox": [
+        355.0,
+        261.0,
+        1627.0,
+        314.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "method of defence. It means that Black's king is left in the corner, and White is",
+      "bbox": [
+        310.0,
+        312.0,
+        1626.0,
+        358.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "offered the chance to prepare the opening of the e-file by a pawn sacrifice based",
+      "bbox": [
+        310.0,
+        361.0,
+        1626.0,
+        411.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on Af6+. After the moves 2 Xel Vf7 3 c3 Qa5 4 hf4 Äc6 White made the mis-",
+      "bbox": [
+        309.0,
+        407.0,
+        1624.0,
+        457.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "take of playing 5 Af6+ too early, without the preparatory 5 Zge3!, and thus did",
+      "bbox": [
+        308.0,
+        460.0,
+        1624.0,
+        512.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not make correct use of Black's error; we will therefore not concern ourselves",
+      "bbox": [
+        308.0,
+        513.0,
+        1623.0,
+        557.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with the game's actual course.",
+      "bbox": [
+        307.0,
+        562.0,
+        805.0,
+        601.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Correct would have been l...#g8!, followed perhaps by ...Ét7, in which case",
+      "bbox": [
+        350.0,
+        612.0,
+        1622.0,
+        662.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the black king is only apparently 'courting danger'; in fact, it avoids all the",
+      "bbox": [
+        305.0,
+        663.0,
+        1621.0,
+        711.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "difficulties associated with being in the corner and itself provides assistance in",
+      "bbox": [
+        304.0,
+        713.0,
+        1621.0,
+        763.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "covering the important light squares e6 and g6; moreover, with the dark-square",
+      "bbox": [
+        303.0,
+        764.0,
+        1620.0,
+        817.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "network alone White can clearly achieve nothing. Black is also left with an initia-",
+      "bbox": [
+        303.0,
+        814.0,
+        1619.0,
+        860.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tive on the queenside, where he is positionally set to win. If the reader tests the",
+      "bbox": [
+        302.0,
+        863.0,
+        1619.0,
+        910.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "different variations after l...#g8, he will convince himself of the strength of the",
+      "bbox": [
+        301.0,
+        913.0,
+        1619.0,
+        967.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "black king's self-defence in this position.",
+      "bbox": [
+        301.0,
+        963.0,
+        981.0,
+        1008.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Capablanca - Ragozin",
+      "bbox": [
+        744.0,
+        1068.0,
+        1169.0,
+        1113.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Moscow, 1935",
+      "bbox": [
+        836.0,
+        1123.0,
+        1075.0,
+        1158.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Nimzo-Indian Defence",
+      "bbox": [
+        765.0,
+        1172.0,
+        1145.0,
+        1206.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 d4 Q)f6 2 c4 e6 3 Qc3 Ab4 4 a3 Axc3+ 5 bxc3 d6",
+      "bbox": [
+        298.0,
+        1261.0,
+        1181.0,
+        1308.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...c5 and 5...0-0 are more common nowadays.",
+      "bbox": [
+        340.0,
+        1317.0,
+        1114.0,
+        1365.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Capablanca is happy to avoid 'auxiliary pawn moves' , and here he prepares e4",
+      "bbox": [
+        338.0,
+        1417.0,
+        1610.0,
+        1473.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with the aid of the queen and not by f3.",
+      "bbox": [
+        294.0,
+        1467.0,
+        944.0,
+        1514.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...O-0 7 e4 e5 8 Ad3 9 Qc6 10 d5",
+      "bbox": [
+        337.0,
+        1518.0,
+        1053.0,
+        1558.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White should have answered 8...c5 with an immediate d5, whereas now Black",
+      "bbox": [
+        336.0,
+        1569.0,
+        1611.0,
+        1617.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ought to have played 10...Qa5 followed by ...b6 and ...Aa6, according to the",
+      "bbox": [
+        291.0,
+        1619.0,
+        1608.0,
+        1675.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "well-known plan for attacking c4. He moved the knight to e7 in order to prepare",
+      "bbox": [
+        290.0,
+        1670.0,
+        1607.0,
+        1727.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...f5, but in this position Black is too weak for that.",
+      "bbox": [
+        290.0,
+        1720.0,
+        1130.0,
+        1761.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11 f3 hd7",
+      "bbox": [
+        335.0,
+        1766.0,
+        511.0,
+        1802.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "However one looks at it, Black is getting into a cramped and difficult position.",
+      "bbox": [
+        332.0,
+        1821.0,
+        1604.0,
+        1878.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "He cannot make ...f5 work, as is shown by the following variation: II ...Qe8 12",
+      "bbox": [
+        287.0,
+        1871.0,
+        1605.0,
+        1924.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "g4 g6 13 Ah6 Qg7 14 0-0-0 f5? 15 gxf5 gxf5 16 Xdgl Xf7 17 exf5 Axf5 18",
+      "bbox": [
+        286.0,
+        1919.0,
+        1603.0,
+        1974.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axg7 when White wins.",
+      "bbox": [
+        284.0,
+        1967.0,
+        692.0,
+        2010.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 06 13 g4 (D)",
+      "bbox": [
+        331.0,
+        2019.0,
+        686.0,
+        2065.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13...f6?",
+      "bbox": [
+        330.0,
+        2073.0,
+        454.0,
+        2104.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The beginning of a faulty plan. Black intends to move his king away from the",
+      "bbox": [
+        327.0,
+        2124.0,
+        1601.0,
+        2180.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "endangered kingside. He does in fact succeed in conveying it without difficulty",
+      "bbox": [
+        282.0,
+        2175.0,
+        1600.0,
+        2233.0
+      ],
+      "confidence": null
+    }
+  ]
+}

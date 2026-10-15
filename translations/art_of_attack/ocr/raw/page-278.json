@@ -1,0 +1,290 @@
+{
+  "pdf_page": 278,
+  "printed_page": 278,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "278",
+      "bbox": [
+        251.0,
+        132.0,
+        312.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        678.0,
+        134.0,
+        1173.0,
+        174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Consequently, if 8...Xh6, White can permit himself 9 h4, a weakening which",
+      "bbox": [
+        250.0,
+        279.0,
+        1570.0,
+        324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "does not entail danger, since 9...g5 can be countered by IO Xb5. If instead",
+      "bbox": [
+        250.0,
+        332.0,
+        1570.0,
+        373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8.. Vh3, then 9 Oxf3 Axf3 (otherwise Qh4 and Ag2) IO Axf3 Äh6 11 Xel",
+      "bbox": [
+        251.0,
+        377.0,
+        1566.0,
+        423.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "leads to a win for White.",
+      "bbox": [
+        250.0,
+        433.0,
+        657.0,
+        462.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6 Q)d2",
+      "bbox": [
+        294.0,
+        477.0,
+        404.0,
+        511.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now ...f3 is no longer possible.",
+      "bbox": [
+        294.0,
+        533.0,
+        811.0,
+        572.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...Äf6 7 Af3 Ag4 (D)",
+      "bbox": [
+        294.0,
+        579.0,
+        679.0,
+        621.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 Axg4?",
+      "bbox": [
+        291.0,
+        1284.0,
+        438.0,
+        1326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This exchange involves the loss of a tempo. White should have switched at",
+      "bbox": [
+        290.0,
+        1339.0,
+        1566.0,
+        1380.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "once to a counterattack on the queenside, where he is the better placed, for exam-",
+      "bbox": [
+        245.0,
+        1391.0,
+        1563.0,
+        1434.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ple 8 Xabl! Xh6 9 h4. Then, as we saw above, 9...g5 does not work, nor does",
+      "bbox": [
+        245.0,
+        1436.0,
+        1564.0,
+        1483.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9...a6 because of IO Äxb7 g5 1 1 Vc4+. Lastly, there is 9...d5 10 Xxb7, and again",
+      "bbox": [
+        245.0,
+        1487.0,
+        1564.0,
+        1537.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10...g5 is insufficient since after II Axd5+ 12 If 7 Ae2 13 Vf5 White",
+      "bbox": [
+        248.0,
+        1540.0,
+        1563.0,
+        1579.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "wins.",
+      "bbox": [
+        244.0,
+        1601.0,
+        329.0,
+        1620.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This is an example of how indirect defence, by clearing the ground on the",
+      "bbox": [
+        288.0,
+        1642.0,
+        1563.0,
+        1687.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queenside, makes it easier to revert to direct defence at the critical moment.",
+      "bbox": [
+        243.0,
+        1693.0,
+        1498.0,
+        1730.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8...Vxg4 9 Vf3 Vh3 10 Qe4?!",
+      "bbox": [
+        288.0,
+        1738.0,
+        812.0,
+        1781.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Here too IO Xabl would probably have been better.",
+      "bbox": [
+        288.0,
+        1791.0,
+        1141.0,
+        1835.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "IO...Xh6 11 Vg2 Vh5 12 g4",
+      "bbox": [
+        289.0,
+        1840.0,
+        768.0,
+        1885.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After a period of timid play White aims to save himself by blocking the posi-",
+      "bbox": [
+        287.0,
+        1895.0,
+        1560.0,
+        1943.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion.",
+      "bbox": [
+        241.0,
+        1946.0,
+        312.0,
+        1975.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12...Vh4 13 Äabl xg6?!",
+      "bbox": [
+        288.0,
+        1991.0,
+        708.0,
+        2036.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This move and, in particular, the next, are not the best. Black should have",
+      "bbox": [
+        285.0,
+        2047.0,
+        1560.0,
+        2086.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "played 13...Äe8 14 Zt'el (otherwise ...Äxe4) 14...Äe7, which would have en-",
+      "bbox": [
+        240.0,
+        2094.0,
+        1559.0,
+        2137.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "abled him to retain a slight advantages",
+      "bbox": [
+        240.0,
+        2147.0,
+        870.0,
+        2188.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 h3 h5'?",
+      "bbox": [
+        287.0,
+        2197.0,
+        453.0,
+        2227.0
+      ],
+      "confidence": null
+    }
+  ]
+}

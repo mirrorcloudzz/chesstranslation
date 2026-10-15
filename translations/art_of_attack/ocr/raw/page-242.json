@@ -1,0 +1,290 @@
+{
+  "pdf_page": 242,
+  "printed_page": 242,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "242",
+      "bbox": [
+        231.0,
+        117.0,
+        294.0,
+        148.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        657.0,
+        122.0,
+        1152.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) 4 Zhel Äac8 5 Äe3 Vb5! (yet another threat arising from the position of",
+      "bbox": [
+        274.0,
+        264.0,
+        1551.0,
+        316.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the rook at c8!) 6 bxa3 Vbl#.",
+      "bbox": [
+        229.0,
+        315.0,
+        721.0,
+        355.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) 4 Oel Xd4 5 Vg5 Vb4 and mates.",
+      "bbox": [
+        274.0,
+        363.0,
+        909.0,
+        409.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4) 4 Ael! (relatively the best method of defence) 4...Äxdl+ (if 4...Vf5 5",
+      "bbox": [
+        271.0,
+        415.0,
+        1544.0,
+        465.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xxd8+ Xxd8, White has the reply 6 Ve4!) 5 •xdl Xd8+ 6 Ad2 (if 6 Écl,",
+      "bbox": [
+        226.0,
+        465.0,
+        1544.0,
+        516.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...Äd3 is decisive) 6...Axb2 7 fxg7 Xc8 and White must either give back the",
+      "bbox": [
+        226.0,
+        516.0,
+        1544.0,
+        567.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "piece or consent to 8 Q)a4 Vc2+ 9 Vd3+ IO •el Acl! II Vb4 a5 12 Vf4",
+      "bbox": [
+        224.0,
+        566.0,
+        1543.0,
+        610.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xc4, when Black wins.",
+      "bbox": [
+        224.0,
+        615.0,
+        607.0,
+        653.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...b5 5 Vxa3",
+      "bbox": [
+        269.0,
+        664.0,
+        504.0,
+        700.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 Vxb51 is defeated by 5...Äab8! 6 Vxc5 Axb2#. Still another of the numer-",
+      "bbox": [
+        269.0,
+        709.0,
+        1541.0,
+        761.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ous mating patterns in this kind of position!",
+      "bbox": [
+        223.0,
+        770.0,
+        945.0,
+        813.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...Vf5 0-1",
+      "bbox": [
+        268.0,
+        815.0,
+        454.0,
+        851.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "For if 6 Vb3, then 6...Äac8 and 7...Vbl#.",
+      "bbox": [
+        267.0,
+        866.0,
+        960.0,
+        907.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Z",
+      "bbox": [
+        1095.0,
+        1001.0,
+        1155.0,
+        1058.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position comes from Euwe-Colle, Amsterdam 1926. It is Black's move",
+      "bbox": [
+        258.0,
+        1576.0,
+        1532.0,
+        1622.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and he hits at White's castled position by means of a bishop sacrifice.",
+      "bbox": [
+        213.0,
+        1627.0,
+        1367.0,
+        1676.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Axa3! 2 Axf6 gxf6 3",
+      "bbox": [
+        260.0,
+        1673.0,
+        671.0,
+        1718.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 3 bxa3, then 3...Qe5, while if 3 Vxd7+ #f8, White is threatened by",
+      "bbox": [
+        257.0,
+        1725.0,
+        1530.0,
+        1781.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...Vxc3+ and so has no time for Vxb7.",
+      "bbox": [
+        213.0,
+        1771.0,
+        857.0,
+        1814.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...axb2! 4 Qa2",
+      "bbox": [
+        255.0,
+        1823.0,
+        540.0,
+        1860.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 4 exb2, then 4...Vb4+ 5 Éc2 Qe5 6 Oxe5 Ae4.",
+      "bbox": [
+        255.0,
+        1874.0,
+        1111.0,
+        1918.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...Qe5 5 Oxe5 Ad5 6 Vxd5 exd5 7 Oxd7 Xa8 0-1",
+      "bbox": [
+        254.0,
+        1924.0,
+        1133.0,
+        1969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Vukovié does not mention the far more resilient defence 5 Vb3, when Black",
+      "bbox": [
+        212.0,
+        2040.0,
+        1527.0,
+        2087.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "has to play very precisely to retain an advantage: 5...b4 6 Ae3 Vc7 7 Xxd8+",
+      "bbox": [
+        290.0,
+        2090.0,
+        1526.0,
+        2136.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Äxd8 8 Qd4 Äb8! 9 bxa3 bxc3 IO Q)b5 Vc6 II a4 a6 12 Vc3 Vxg2 13 Ädl",
+      "bbox": [
+        289.0,
+        2134.0,
+        1522.0,
+        2188.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "axb5 and White's king remains extremely exposed.",
+      "bbox": [
+        290.0,
+        2187.0,
+        1097.0,
+        2231.0
+      ],
+      "confidence": null
+    }
+  ]
+}

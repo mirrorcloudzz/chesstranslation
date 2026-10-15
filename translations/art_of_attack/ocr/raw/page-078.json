@@ -1,0 +1,150 @@
+{
+  "pdf_page": 78,
+  "printed_page": 78,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        220.5,
+        112.3,
+        275.7,
+        158.4
+      ],
+      "text": "78",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        650.6,
+        118.5,
+        1154.1,
+        169.7
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.97
+    },
+    {
+      "bbox": [
+        263.4,
+        259.5,
+        1548.6,
+        323.1
+      ],
+      "text": "Play proceeded as follows: 10...c5+ 11 $h1 g3+ 12 hxg3 Wg5 13 f5 h5!",
+      "confidence": 0.9613
+    },
+    {
+      "bbox": [
+        219.3,
+        311.9,
+        1548.6,
+        375.5
+      ],
+      "text": "and now if 14 xg5, then 14...hxg4+ and mate; in the game White played 14",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        219.3,
+        363.0,
+        1049.9,
+        415.4
+      ],
+      "text": "gxh5 but resigned after 14...Wxf5 15 g4 Wf2 0-1.",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        263.4,
+        414.2,
+        1547.4,
+        472.8
+      ],
+      "text": "The next position arose in the game Reti-Tartakower, Vienna 1910 after the",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        216.9,
+        460.3,
+        1547.4,
+        519.0
+      ],
+      "text": "moves 1 e4 c6 2 d4 d5 3 c3 dxe4 4 xe4 f6 5 Wd3 e5 6 dxe5 Wa5+ 7 Qd2",
+      "confidence": 0.9687
+    },
+    {
+      "bbox": [
+        219.3,
+        506.5,
+        628.5,
+        563.9
+      ],
+      "text": "Wxe5 8 0-0-0 xe4 (D)",
+      "confidence": 0.9311
+    },
+    {
+      "bbox": [
+        553.8,
+        723.5,
+        581.9,
+        751.0
+      ],
+      "text": "W",
+      "confidence": 0.9396
+    },
+    {
+      "bbox": [
+        786.5,
+        1213.8,
+        981.3,
+        1255.0
+      ],
+      "text": "Reti's Mate",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        249.9,
+        1314.8,
+        1533.9,
+        1382.2
+      ],
+      "text": "The game concluded: 9 Wd8+! xd8 10 g5+ c7 (or 10...e8 11 d8#) 11",
+      "confidence": 0.9622
+    },
+    {
+      "bbox": [
+        207.0,
+        1363.5,
+        322.2,
+        1410.9
+      ],
+      "text": "复d8#.",
+      "confidence": 0.8453
+    },
+    {
+      "bbox": [
+        539.1,
+        1580.6,
+        573.4,
+        1614.2
+      ],
+      "text": "W",
+      "confidence": 0.8741
+    },
+    {
+      "bbox": [
+        715.5,
+        2070.8,
+        1027.9,
+        2120.7
+      ],
+      "text": "Blackburne's Mate",
+      "confidence": 0.993
+    }
+  ]
+}

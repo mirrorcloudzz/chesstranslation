@@ -1,0 +1,281 @@
+{
+  "chapter": 8,
+  "halfmoves": 195,
+  "games": 4,
+  "errors": [],
+  "positions": {
+    "19.0": "r1b4r/pp2kppp/1b2q3/2p1N3/4PP2/Q1P5/P5PP/RN3RK1 b - - 0 16",
+    "21.0": "r1br4/pp2kppp/1b2q3/2p1N3/2P1PP2/Q7/P5PP/RN3RK1 b - - 0 17",
+    "23.0": "r1br1k2/pp4pp/1b2q3/2pNp3/2P1PP2/Q7/P5PP/R4RK1 w - - 2 20",
+    "29.0": "r1br1k2/pp4pp/1b2q3/2pNp3/2P1PP2/Q7/P5PP/1R3RK1 b - - 3 20",
+    "33.0": "r2r1k2/pp1b2pp/1b5q/2pNpP2/2P1P3/Q7/P5PP/1R3RK1 w - - 1 22",
+    "35.0": "r2r1k2/pp1b2pp/1b5q/2pNpP2/2P1P3/QR6/P5PP/5RK1 b - - 2 22",
+    "53.0": "2rrb1k1/1p2bppp/pq2p3/4n3/1P1NB3/P3PQ2/1B3PPP/2RR2K1 w - - 2 20",
+    "55.0": "2rrb1k1/1p2bppB/pq2p3/4n3/1P1N4/P3PQ2/1B3PPP/2RR2K1 b - - 0 20",
+    "58.0": "2rr2k1/1p3pp1/pq2pb2/7Q/bP1N4/P3P3/1B3PPP/2R1R1K1 b - - 4 24",
+    "59.1": "2rr2k1/5pp1/p2qpb2/1p6/1P1N4/P3PQ1P/1Bb2PP1/2R1R1K1 w - - 0 27",
+    "62.0": "2rr2k1/5pp1/p2qpb2/1p6/bP1N4/P3PQ1P/1B3PP1/2R1R1K1 b - - 3 28",
+    "64.0": "2r3k1/5pp1/p2qpb2/1p6/bPrN4/P3PQ1P/5PP1/BR2R1K1 b - - 7 30",
+    "66.0": "2r3k1/5pp1/p2q1b2/1p2p3/bPrN4/P3PQ1P/5PP1/BR2R1K1 w - - 0 31",
+    "69.0": "2r3k1/1b3pp1/p2q1b2/1p2p3/1Pr3Q1/P3P2P/4NPP1/B1R1R1K1 w - - 6 34",
+    "71.0": "6k1/1b3pp1/p2q1b2/1p2p3/1Pr2PQ1/P3P2P/4N1P1/B3R1K1 b - - 0 35",
+    "72.1": "6k1/1b3pp1/p4b2/1p2p3/1P2rP2/P3P1QP/3qN1P1/B3R1K1 w - - 3 37",
+    "75.0": "6k1/1b3pp1/p7/1p1qb3/1P3PQ1/P3r2P/4N1P1/4R1K1 w - - 0 40",
+    "77.0": "6k1/1b3pp1/p7/1p1qr3/1P4Q1/P6P/4N1PK/4R3 b - - 1 41",
+    "79.0": "6k1/6p1/p4p2/1p2r3/1Pb4P/P7/3qNQPK/4R3 w - - 3 45",
+    "85.0": "2br1rk1/pp2ppb1/2p2np1/N2nB2p/3P4/2N1PB2/PP3PPP/R4RK1 w - - 0 18",
+    "87.0": "2br1rk1/p3ppb1/1p4p1/N1p3np/3P4/1BP1P2P/P4PPB/R4RK1 w - - 0 23",
+    "92.0": "5rk1/p2rppb1/bpN3p1/2p3np/3P4/1BP1PP1P/P5PB/R4RK1 w - - 1 25",
+    "94.0": "1r4k1/p2rppb1/bp4p1/2p3np/3P4/1BP1PP1P/P5PB/R4RK1 w - - 0 26",
+    "95.1": "1B4k1/p2rppb1/1p2n1p1/2p4p/3P4/1BP1PP1P/P5P1/R4K2 w - - 1 28",
+    "97.1": "1B4k1/p2rppb1/1p2n1p1/7p/3p4/1BP1PP1P/P5P1/1R3K2 w - - 0 29",
+    "100.0": "1R6/1r2p1bk/4p1p1/1p5p/p2P4/4PPBP/P3K1P1/8 b - - 1 35",
+    "102.0": "1B6/4p1bk/4p1p1/7p/pp1P4/4PP1P/P3K1P1/8 w - - 0 37",
+    "104.0": "1B6/4p2k/4p2b/8/pp1P1PP1/3K4/P7/8 b - - 0 41",
+    "109.0": "r1b1kb1r/pp3ppp/1qn1pn2/2pp4/3P1B2/2PBP3/PP1N1PPP/1R1QK1NR b Kkq - 6 7",
+    "114.0": "r3kb1r/pp1b1ppp/1qn1pn2/2pp4/3P4/2PBP1B1/PP1N1PPP/1R1QK1NR b Kkq - 8 8",
+    "119.0": "r4rk1/pp1bbppp/1qn1pn2/2pp4/3P1P2/2PBP3/PP1N1BPP/1R1QK1NR b K - 2 10",
+    "123.0": "2rr2k1/pp1bbppp/1qn1pn2/2pp4/3P1P2/2PBPQ2/PP1N1BPP/1R2K1NR w K - 5 12",
+    "125.0": "2rr2k1/pp1b1ppp/1qnbpn2/2pp4/3P1P2/2PBPQ1P/PP1NNBP1/1R2K2R b K - 0 17",
+    "127.0": "2r1r1k1/pp1b1ppp/1qnbpn2/2pp4/3P1PP1/2PBPQ1P/PP1NNB2/1R2K2R b K - 0 18",
+    "129.0": "2r1r1k1/pp1b1ppp/1qnb1n2/2ppP3/5PP1/2PBPQ1P/PP1NNB2/1R2K2R b K - 0 19",
+    "130.1": "2r3k1/pp1b1ppp/1qnb1n2/2ppr3/5PP1/2PBPQ1P/PP1NNB2/1R2K2R w K - 0 20",
+    "133.0": "2r1n1k1/pp1b1ppp/1qnb4/2ppP1P1/8/2PBPQ1P/PP1NNB2/1R2K2R b K - 0 21",
+    "135.0": "2r1n1k1/pp1b1pp1/1q1b4/2ppn1PQ/8/2P1P2P/PP1NNB2/1R2K2R w K - 2 24",
+    "137.0": "2r1n1k1/pp1b1pp1/1q1b4/2ppn1PQ/5N2/2P1P2P/PP1N1B2/1R2K2R b K - 3 24",
+    "139.0": "2r1n1k1/pp3pp1/1q1b4/2ppnbP1/5N2/2P1P2P/PP1N1B2/1R1QK2R b K - 5 25",
+    "141.0": "2r1n1k1/pp3pp1/1q1b4/2pp1bP1/5N2/2PnP2P/PP1N1B2/1R1QK2R w K - 6 26",
+    "143.0": "2r1n1k1/pp3pp1/1q1b4/3p2P1/2p5/2PbPN1P/PP3B2/1R1QK2R w K - 0 28",
+    "145.0": "3r2k1/pp2bpp1/1q1B4/3p2P1/2pN2Q1/2PbP2P/PP6/1R2K2R b K - 0 31",
+    "147.0": "3r2k1/pp3pp1/1q1b4/3p2P1/2pN2Q1/2PbP2P/PP6/1R2K2R w K - 0 32",
+    "153.0": "4r1k1/pp4p1/1q6/2bp1pPP/2pN2Q1/2PbP3/PP1K4/1R5R w - f6 0 35",
+    "155.0": "4r1k1/pp4p1/1q6/2bp1pPP/2pN1Q2/2PbP3/PP1K4/1R5R b - - 1 35",
+    "159.0": "6k1/pp4p1/3b4/q2p2PP/3NrP1R/1PPb4/5Q2/2K5 w - - 1 42"
+  },
+  "analysis_checks": [
+    {
+      "game": 1,
+      "start": 19,
+      "black": 1,
+      "line": "Rxd5 exd5",
+      "status": "legal"
+    },
+    {
+      "game": 1,
+      "start": 19,
+      "black": 1,
+      "line": "Ke8 Rab1 Bd7 Qg3 Qg6 Qh4 Qf7 fxe5",
+      "status": "legal"
+    },
+    {
+      "game": 1,
+      "start": 19,
+      "black": 1,
+      "line": "Ke8 Rab1 Bd7 Qg3 Qg6 Qh4 Kf8 fxe5",
+      "status": "legal"
+    },
+    {
+      "game": 1,
+      "start": 20,
+      "black": 1,
+      "line": "Rb8 f5 Qh6 f6 Rxd5 exd5 gxf6 Rxb6 axb6 Qa7 Qe3+ Kh1 Qe2 Rc1 Qd2 Rg1",
+      "status": "legal"
+    },
+    {
+      "game": 1,
+      "start": 20,
+      "black": 1,
+      "line": "Rb8 f5 Qd6 f6 g6 Qe3",
+      "status": "legal"
+    },
+    {
+      "game": 1,
+      "start": 22,
+      "black": 1,
+      "line": "Kg8 Rh3 Qg5 Rg3 Qh6 f6 g6 Qc3 Be6 f7+ Bxf7 Ne7+",
+      "status": "legal"
+    },
+    {
+      "game": 1,
+      "start": 22,
+      "black": 1,
+      "line": "Kg8 Rh3 Qg5 Rg3 Qh6 f6 g6 Qc3 Be6 f7+ Bxf7 Nf6 Kf8 Rgf3",
+      "status": "legal"
+    },
+    {
+      "game": 1,
+      "start": 22,
+      "black": 1,
+      "line": "Kg8 Rh3 Qg5 Rg3 Qh6 f6 g6 Qc3 Be6 f7+ Bxf7 Nf6 Kf8 h3",
+      "status": "legal"
+    },
+    {
+      "game": 1,
+      "start": 22,
+      "black": 1,
+      "line": "Kg8 Rh3 Qg5 Rg3 Qh6 f6 g6 Qc3 Qh5 f7+ Kh8 Nf6 Qh6 Nxd7 Rxd7 Qxe5+",
+      "status": "legal"
+    },
+    {
+      "game": 1,
+      "start": 22,
+      "black": 1,
+      "line": "Kg8 Rh3 Qg5 Rg3 Qh6 f6 g6 Qc3 Qh5 f7+ Kf8 Nf6 Qh6 Qxe5 Bc6 Rh3",
+      "status": "legal"
+    },
+    {
+      "game": 1,
+      "start": 22,
+      "black": 1,
+      "line": "Qd2 Rd3 Qe2 f6 g6 Qc1 Qh5 Nxb6 axb6 Qd2 Ke8 Rd1",
+      "status": "legal"
+    },
+    {
+      "game": 1,
+      "start": 22,
+      "black": 1,
+      "line": "Qd2 Rd3 Qa5 Qc1",
+      "status": "legal"
+    },
+    {
+      "game": 2,
+      "start": 24,
+      "black": 0,
+      "line": "Rxc8 Rxc8 Rc1 Rxc1+ Bxc1 e5 Nf5 Qc6 Bd2 Qc2 Be1 Qb1",
+      "status": "legal"
+    },
+    {
+      "game": 2,
+      "start": 28,
+      "black": 0,
+      "line": "Nf3 Rxc1 Rxc1 Bd1",
+      "status": "legal"
+    },
+    {
+      "game": 2,
+      "start": 31,
+      "black": 0,
+      "line": "Qg3 Qd7 Nf3",
+      "status": "legal"
+    },
+    {
+      "game": 2,
+      "start": 35,
+      "black": 0,
+      "line": "Qh5 g6",
+      "status": "legal"
+    },
+    {
+      "game": 2,
+      "start": 35,
+      "black": 0,
+      "line": "Qf5 Be4",
+      "status": "legal"
+    },
+    {
+      "game": 2,
+      "start": 35,
+      "black": 0,
+      "line": "Qg3 Bh4 Qh2 f6",
+      "status": "legal"
+    },
+    {
+      "game": 2,
+      "start": 36,
+      "black": 1,
+      "line": "exf4 Nxf4 Rc1",
+      "status": "legal"
+    },
+    {
+      "game": 2,
+      "start": 41,
+      "black": 1,
+      "line": "Rg5 Nf4",
+      "status": "legal"
+    },
+    {
+      "game": 3,
+      "start": 22,
+      "black": 1,
+      "line": "Ne4 Rfc1",
+      "status": "legal"
+    },
+    {
+      "game": 3,
+      "start": 24,
+      "black": 1,
+      "line": "Bb7 Ne5 Bxe5 Bxe5 Ba6 Rfc1",
+      "status": "legal"
+    },
+    {
+      "game": 3,
+      "start": 25,
+      "black": 1,
+      "line": "Bxf1 Nxd7 Rd8 Nxb6 Bxg2 Kxg2 axb6 Bc7",
+      "status": "legal"
+    },
+    {
+      "game": 4,
+      "start": 7,
+      "black": 0,
+      "line": "Qb3 c4 Qxb6 axb6 Be2 b5",
+      "status": "legal"
+    },
+    {
+      "game": 4,
+      "start": 8,
+      "black": 0,
+      "line": "Ngf3 Be7 O-O O-O Ne5",
+      "status": "legal"
+    },
+    {
+      "game": 4,
+      "start": 10,
+      "black": 0,
+      "line": "Ngf3 Ng4 Qe2 f5",
+      "status": "legal"
+    },
+    {
+      "game": 4,
+      "start": 19,
+      "black": 0,
+      "line": "g5 e4 Qg2 Nh5 Bc2 cxd4 cxd4 Nb4",
+      "status": "legal"
+    },
+    {
+      "game": 4,
+      "start": 19,
+      "black": 1,
+      "line": "Bxe5 g5",
+      "status": "legal"
+    },
+    {
+      "game": 4,
+      "start": 21,
+      "black": 0,
+      "line": "e4 dxe4 Bxe4 Re7 O-O",
+      "status": "legal"
+    },
+    {
+      "game": 4,
+      "start": 24,
+      "black": 0,
+      "line": "Ng3 Nd3+",
+      "status": "legal"
+    },
+    {
+      "game": 4,
+      "start": 25,
+      "black": 0,
+      "line": "Nxd5 Qa6",
+      "status": "legal"
+    },
+    {
+      "game": 4,
+      "start": 35,
+      "black": 0,
+      "line": "gxf6 Qxf6 Qg3 Bd6 Qf3",
+      "status": "legal"
+    }
+  ]
+}

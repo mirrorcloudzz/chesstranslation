@@ -1,0 +1,280 @@
+{
+  "pdf_page": 196,
+  "printed_page": 196,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "196",
+      "bbox": [
+        273.0,
+        129.0,
+        332.0,
+        160.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        696.0,
+        129.0,
+        1190.0,
+        169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Prize at the Saltsjöbaden Interzonal tournament in 1948. In the above position,",
+      "bbox": [
+        268.0,
+        279.0,
+        1586.0,
+        319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White continued:",
+      "bbox": [
+        267.0,
+        328.0,
+        552.0,
+        358.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This eliminates the pawn on g 7 (in this case the sacrifice does not take place",
+      "bbox": [
+        313.0,
+        428.0,
+        1587.0,
+        467.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on that square but indirectly at f4). Black accepts the sacrifice in order not to be",
+      "bbox": [
+        268.0,
+        478.0,
+        1587.0,
+        516.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "left a pawn down.",
+      "bbox": [
+        268.0,
+        528.0,
+        561.0,
+        566.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Äxf4 2 mxf4 exf4 3 Axh7+!",
+      "bbox": [
+        315.0,
+        573.0,
+        843.0,
+        609.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Eliminating the pawn on h7 as well — by a direct sacrifice. Beyond that, in fact,",
+      "bbox": [
+        312.0,
+        630.0,
+        1585.0,
+        669.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "there is no mate in sight. However, Black's weakness on the second rank and the",
+      "bbox": [
+        268.0,
+        680.0,
+        1587.0,
+        718.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "power of the manoeuvre Xad1-d7, by which it must be exploited, are evident.",
+      "bbox": [
+        267.0,
+        727.0,
+        1554.0,
+        770.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...#xh7 4 Vh5+ 5 Xadl (D)",
+      "bbox": [
+        313.0,
+        775.0,
+        921.0,
+        817.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "72>7.12",
+      "bbox": [
+        883.0,
+        1182.0,
+        944.0,
+        1201.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black has three minor pieces for a rook and two pawns, but his knights are",
+      "bbox": [
+        310.0,
+        1535.0,
+        1584.0,
+        1578.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "badly placed, whereas the position is just right for White's rooks.",
+      "bbox": [
+        265.0,
+        1585.0,
+        1347.0,
+        1626.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "With 5...Vf6, Black attempts to lessen the force of the attack by returning",
+      "bbox": [
+        309.0,
+        1630.0,
+        1584.0,
+        1680.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "some material, but he is unsuccessful because his knights continue to find them-",
+      "bbox": [
+        265.0,
+        1687.0,
+        1583.0,
+        1728.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "selves on awkward squares. Other lines were no better, e.g.:",
+      "bbox": [
+        265.0,
+        1737.0,
+        1254.0,
+        1779.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l) 5...Qd4 6 cxd4 cxd4 7 Xfel! hf6 8 Ve5 9 Äxd4 and White wins.",
+      "bbox": [
+        313.0,
+        1782.0,
+        1540.0,
+        1824.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) 5...Qd6 6 Vg4+ 7 7 Xfel Ac8 8 Vxf4+ also wins.",
+      "bbox": [
+        309.0,
+        1833.0,
+        1261.0,
+        1877.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) 5...Vc8 (if 5...Ve7, then 6 Xfel, while if5...Vc7, then 6 Vg4+ and 7 Xd7)",
+      "bbox": [
+        309.0,
+        1883.0,
+        1582.0,
+        1932.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6 Äfel Q)f6 7 Vg5+ •f 7 8 Xd6 Vh8 9 Äee6 is also decisive.",
+      "bbox": [
+        263.0,
+        1933.0,
+        1283.0,
+        1977.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6 Xd7+ 7 Xxb7 Qd8",
+      "bbox": [
+        307.0,
+        1985.0,
+        744.0,
+        2020.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 7...Qd6 8 Äh7 Of 7 9 Xxf7+ Vxf7 IO Vh8+ Vg8 11 Vf6+ followed by 12",
+      "bbox": [
+        308.0,
+        2033.0,
+        1582.0,
+        2084.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxc6 and White wins.",
+      "bbox": [
+        262.0,
+        2083.0,
+        637.0,
+        2120.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 Xd7 Qf7 9 Vd5 Äb8 10 f3 11 Äe3! 1-0",
+      "bbox": [
+        307.0,
+        2135.0,
+        1089.0,
+        2173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If II...Qg5, then 12 h4 Qh3+ 13 gxh3 Vg6+ 14 Vg5 is decisive.",
+      "bbox": [
+        307.0,
+        2185.0,
+        1396.0,
+        2233.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "pdf_page": 165,
+  "printed_page": 165,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Ranks, files and diagonals in the attack on the castled king 165",
+      "bbox": [
+        341.0,
+        133.0,
+        1543.0,
+        174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 Vh5 6 Axe6 Xxe6",
+      "bbox": [
+        271.0,
+        276.0,
+        702.0,
+        312.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 6...fxe6 7 g6 Qe7 8 f5 exf5 9 Ag5, etc].",
+      "bbox": [
+        272.0,
+        320.0,
+        990.0,
+        370.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 f5 Xe8 8 g6 9 Ag5+ and Black either loses his queen or is mated, e.g.",
+      "bbox": [
+        271.0,
+        377.0,
+        1544.0,
+        420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9...f6 10 Axf6+ gxf6 11 Vh7+ 12 Vf7#.",
+      "bbox": [
+        227.0,
+        425.0,
+        988.0,
+        470.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position arose in the game Boden-Bird, London 1869. White played a",
+      "bbox": [
+        272.0,
+        1136.0,
+        1548.0,
+        1175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "move which made clear his ardent wish that Black should take the bishop on g5.",
+      "bbox": [
+        228.0,
+        1187.0,
+        1517.0,
+        1225.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Qf4 fxg5?",
+      "bbox": [
+        275.0,
+        1232.0,
+        480.0,
+        1275.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black takes the bishop, even though there is no danger at the moment. He",
+      "bbox": [
+        273.0,
+        1288.0,
+        1547.0,
+        1326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "could have played, for example, l...a6 2 Qcd5 b5 3 h5, after which there is a real",
+      "bbox": [
+        228.0,
+        1332.0,
+        1547.0,
+        1376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "threat of Qg6+. This can be parried by 3...h6, and if 4 Qg6+, then 4...#h72.",
+      "bbox": [
+        228.0,
+        1377.0,
+        1493.0,
+        1427.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A typical method of 'clearing' the file before the battery opens fire with hxg5.",
+      "bbox": [
+        273.0,
+        1490.0,
+        1528.0,
+        1529.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...hxg6 3 hxg5+ Qh6 4 gxh6 Ag5+ 5 Axh6",
+      "bbox": [
+        273.0,
+        1535.0,
+        1120.0,
+        1578.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 5...gxh6, then 6 Qe4 eg7 (or 6...#g8 7 Xxh6 Axh6 8 Vxg6+ Ag7 9 Vf7+",
+      "bbox": [
+        273.0,
+        1585.0,
+        1548.0,
+        1630.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mating) 7 Xxh6! exh6 8 Oxg5! Vxg5 (or 8...#g7 9 Qe4) 9 Ähl+ Vh5 10",
+      "bbox": [
+        227.0,
+        1636.0,
+        1548.0,
+        1680.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxg6#.",
+      "bbox": [
+        227.0,
+        1686.0,
+        354.0,
+        1730.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6 Vxg6 7 f6 ve8 8 f7 Vf8 9 Xxh6+ gxh6 10 Zhl xxe611 Vxe6 12",
+      "bbox": [
+        272.0,
+        1736.0,
+        1548.0,
+        1780.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qe4 Xc7 13 Qg5+ and mates.",
+      "bbox": [
+        227.0,
+        1787.0,
+        732.0,
+        1831.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The diverse character of the formation with rook on hl and pawn on h4 is well",
+      "bbox": [
+        272.0,
+        1894.0,
+        1547.0,
+        1934.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by the following examples where the rook is switched from the h- to",
+      "bbox": [
+        405.0,
+        1945.0,
+        1548.0,
+        1983.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        231.0,
+        2053.0,
+        243.0,
+        2082.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2",
+      "bbox": [
+        228.0,
+        2152.0,
+        246.0,
+        2181.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this line, Black can still resist with 7...Ée7, so White should prefer 7 Vh8+",
+      "bbox": [
+        310.0,
+        2050.0,
+        1548.0,
+        2092.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 g6+ •xg6 9 Vh5+ IO fxe5+, winning immediately.",
+      "bbox": [
+        388.0,
+        2097.0,
+        1312.0,
+        2140.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Although White then wins easily by 5 Zgxe7 Oxe7 6 Axf6 gxf6 7 Q)xf6+",
+      "bbox": [
+        310.0,
+        2148.0,
+        1467.0,
+        2191.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 Vf4 Q)g8 9 Qxg8 *xg8 IO f6.",
+      "bbox": [
+        312.0,
+        2196.0,
+        826.0,
+        2239.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "pdf_page": 59,
+  "printed_page": 59,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        377.3,
+        126.0,
+        1439.5,
+        169.7
+      ],
+      "text": "On castling and attacking the castled position in general",
+      "confidence": 0.9763
+    },
+    {
+      "bbox": [
+        1481.2,
+        127.2,
+        1558.4,
+        169.7
+      ],
+      "text": "59",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        229.1,
+        273.2,
+        1558.4,
+        316.9
+      ],
+      "text": "is more important that the knight should remain on c3. For example, after 6",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        230.3,
+        315.6,
+        1557.2,
+        371.7
+      ],
+      "text": "xd1 b5 7 a4 Black is not obliged to continue with .b4, whereas after 6 xd1",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        229.1,
+        370.5,
+        1555.9,
+        421.6
+      ],
+      "text": "b5 7 a4 he has nothing better than 7...b4, whereupon White obtains the advantage",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        231.6,
+        421.6,
+        613.8,
+        465.3
+      ],
+      "text": "by 8 4b1 a6 9 2d2.",
+      "confidence": 0.8982
+    },
+    {
+      "bbox": [
+        273.2,
+        472.8,
+        1551.0,
+        519.0
+      ],
+      "text": "In this instance White, in playing xd1, does not gain the *centralizing tempo",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        232.8,
+        523.9,
+        1555.9,
+        568.9
+      ],
+      "text": "which he did on the thirteenth move in the previous example, but he prefers to",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        227.9,
+        573.8,
+        1123.5,
+        618.8
+      ],
+      "text": "lose his chance to castle just to keep his knight on c3.",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        276.9,
+        627.5,
+        1557.2,
+        668.6
+      ],
+      "text": "Many occasions for renouncing castling in this way arise in practice, but one",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        230.3,
+        673.6,
+        1558.4,
+        721.0
+      ],
+      "text": "should avoid taking the king too far afield. This comment applies to so-called",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        234.0,
+        724.8,
+        1554.7,
+        770.9
+      ],
+      "text": "'queenless middlegames' and not to true endgames, in which the king is nearly",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        231.6,
+        774.7,
+        1555.9,
+        822.1
+      ],
+      "text": "always better placed in the centre. One should keep one's eyes open and weigh",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        230.3,
+        828.3,
+        1554.7,
+        873.2
+      ],
+      "text": "up the opponent's opportunities for an attack on one's king, for they can easily",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        229.1,
+        875.7,
+        1559.6,
+        924.4
+      ],
+      "text": "develop in ‘queenless middlegames'. Safety from attack and a genuine prospect",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        232.8,
+        926.9,
+        1554.7,
+        974.3
+      ],
+      "text": "of making further piece exchanges - these are the two important criteria affecting",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        229.1,
+        975.5,
+        1034.0,
+        1020.4
+      ],
+      "text": "a decision on the forfeiture of the right to castle.",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        273.2,
+        1024.2,
+        1558.4,
+        1074.1
+      ],
+      "text": "The cases I have mentioned in which castling can be justifiably postponed or",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        231.6,
+        1075.3,
+        1557.2,
+        1124.0
+      ],
+      "text": "dispensed with are meant to induce the reader to think about the problem more",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        229.1,
+        1127.7,
+        1555.9,
+        1171.4
+      ],
+      "text": "deeply, for every rule in chess should be applied flexibly. To make a correct deci-",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        227.9,
+        1178.9,
+        1554.7,
+        1226.3
+      ],
+      "text": "sion on exactly when to castle one needs considerable knowledge and experi-",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        231.6,
+        1235.0,
+        321.0,
+        1269.9
+      ],
+      "text": "ence.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        273.2,
+        1277.4,
+        1554.7,
+        1327.3
+      ],
+      "text": "Finally, one more hint: even in cases where there is justification for a delay in",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        229.1,
+        1329.8,
+        1555.9,
+        1376.0
+      ],
+      "text": "castling, it is still a good thing to have the opportunity to castle quickly on one",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        229.1,
+        1379.7,
+        1554.7,
+        1425.9
+      ],
+      "text": "side at least. When the pieces have been moved out on one side of the back rank,",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        226.7,
+        1427.1,
+        1558.4,
+        1480.8
+      ],
+      "text": "we have an opportunity to castle ‘at hand', and this castling will cost just one",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        226.7,
+        1480.8,
+        1557.2,
+        1528.2
+      ],
+      "text": "tempo. However, if there is one piece which has still not left the back rank then",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        229.1,
+        1530.7,
+        1557.2,
+        1579.3
+      ],
+      "text": "obviously castling will cost us two tempi. Now there is a big difference between",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        229.1,
+        1584.3,
+        1557.2,
+        1628.0
+      ],
+      "text": "one tempo and two, if one's opponent can discover some concealed means for a",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        226.7,
+        1633.0,
+        1554.7,
+        1677.9
+      ],
+      "text": "sudden attack on the king before it has reached its castled residence! For this rea-",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        229.1,
+        1686.6,
+        1553.5,
+        1727.8
+      ],
+      "text": "son it is good policy to get ready to castle as soon as possible, and then consider",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        230.3,
+        1734.0,
+        911.5,
+        1777.7
+      ],
+      "text": "whether it can still be put off for a while.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        227.9,
+        1833.8,
+        1529.0,
+        1902.4
+      ],
+      "text": "The basic elements of the attack on the castled king",
+      "confidence": 0.9729
+    },
+    {
+      "bbox": [
+        226.7,
+        1933.6,
+        1552.3,
+        1986.0
+      ],
+      "text": "The attack on the castled king is a particular type of mating attack, but in practice",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        226.7,
+        1987.2,
+        1484.9,
+        2034.6
+      ],
+      "text": "it is the most important, since castling takes place in the majority of games.",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        268.3,
+        2035.9,
+        1557.2,
+        2085.8
+      ],
+      "text": "In considering an attack of this kind, we must begin with a general survey of",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        227.9,
+        2088.3,
+        1552.3,
+        2133.2
+      ],
+      "text": "the action involved, acquainting ourselves, on the one hand, with the basic char-",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        226.7,
+        2138.2,
+        1552.3,
+        2184.3
+      ],
+      "text": "acteristics of the actual castled position itself and, on the other, with the good and",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        227.9,
+        2188.1,
+        907.8,
+        2233.0
+      ],
+      "text": "bad aspects of an attack on that position.",
+      "confidence": 0.9919
+    }
+  ]
+}

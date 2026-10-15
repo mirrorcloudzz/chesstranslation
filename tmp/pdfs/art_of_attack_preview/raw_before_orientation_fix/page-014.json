@@ -1,0 +1,110 @@
+{
+  "pdf_page": 14,
+  "printed_page": 14,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        145.8,
+        486.5,
+        1470.2,
+        547.6
+      ],
+      "text": "  s a sond sodo s o  e q  s np ",
+      "confidence": 0.5287
+    },
+    {
+      "bbox": [
+        145.8,
+        588.8,
+        1471.4,
+        652.4
+      ],
+      "text": "  o n n       o (  y )  e g ",
+      "confidence": 0.5571
+    },
+    {
+      "bbox": [
+        140.9,
+        742.3,
+        1423.6,
+        804.6
+      ],
+      "text": "o s   sp p s  e  n  p ",
+      "confidence": 0.5132
+    },
+    {
+      "bbox": [
+        639.5,
+        798.4,
+        1465.3,
+        852.0
+      ],
+      "text": " s    )   s ",
+      "confidence": 0.5684
+    },
+    {
+      "bbox": [
+        142.1,
+        839.6,
+        1468.9,
+        905.7
+      ],
+      "text": "d an p   n s  n ee  e  a as",
+      "confidence": 0.5215
+    },
+    {
+      "bbox": [
+        136.0,
+        1143.9,
+        1465.3,
+        1210.1
+      ],
+      "text": "issod si nn uosai sos sg nenn pue 'a ren uo aa pinous su s uuoddo",
+      "confidence": 0.5297
+    },
+    {
+      "bbox": [
+        792.7,
+        1284.9,
+        1462.8,
+        1356.0
+      ],
+      "text": "ia  e  t",
+      "confidence": 0.5574
+    },
+    {
+      "bbox": [
+        136.0,
+        1445.8,
+        1464.0,
+        1511.9
+      ],
+      "text": "      si n      si n ",
+      "confidence": 0.5737
+    },
+    {
+      "bbox": [
+        133.5,
+        1549.4,
+        1460.4,
+        1610.5
+      ],
+      "text": " aenbs au seu si puosas au dn peuado si a-a au j pasodxa si i iey s auo",
+      "confidence": 0.5992
+    },
+    {
+      "bbox": [
+        133.5,
+        1705.3,
+        1457.9,
+        1756.5
+      ],
+      "text": "     sr o s ss e  s t d ",
+      "confidence": 0.5112
+    }
+  ]
+}

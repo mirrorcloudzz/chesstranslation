@@ -1,0 +1,280 @@
+{
+  "pdf_page": 221,
+  "printed_page": 221,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        421.0,
+        125.0,
+        1370.0,
+        169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...Qg8 (D)",
+      "bbox": [
+        275.0,
+        272.0,
+        491.0,
+        315.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "221",
+      "bbox": [
+        1484.0,
+        125.0,
+        1542.0,
+        155.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A pawn attack on the kingside is a valuable weapon for White in the Scheven-",
+      "bbox": [
+        278.0,
+        1026.0,
+        1552.0,
+        1070.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ingen Variation, while Black's best response is a counter-stroke in the centre by",
+      "bbox": [
+        234.0,
+        1077.0,
+        1552.0,
+        1120.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...d5. Black is somewhat behind in preparing for this thrust, and consequently",
+      "bbox": [
+        236.0,
+        1128.0,
+        1552.0,
+        1168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White is able to set in motion his pawn attack. 17 Ae3 was, by the way, also solid",
+      "bbox": [
+        233.0,
+        1175.0,
+        1554.0,
+        1218.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and good.",
+      "bbox": [
+        235.0,
+        1233.0,
+        395.0,
+        1271.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17...Ac6?",
+      "bbox": [
+        282.0,
+        1278.0,
+        446.0,
+        1313.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A weak move, which considerably helps White in regrouping his forces, be-",
+      "bbox": [
+        280.0,
+        1329.0,
+        1553.0,
+        1369.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cause 18 Qce2! now immediately threatens c3. Correct was 17...Äfd8 preparing",
+      "bbox": [
+        235.0,
+        1376.0,
+        1554.0,
+        1420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...d5.",
+      "bbox": [
+        237.0,
+        1435.0,
+        315.0,
+        1464.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18 Qce2! Ab5 19 Ad2 d5",
+      "bbox": [
+        283.0,
+        1479.0,
+        725.0,
+        1515.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...Qxc2? would not have worked because of 20 Xcl Xac8 21 Ac3! Qe3 22",
+      "bbox": [
+        285.0,
+        1526.0,
+        1555.0,
+        1566.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vd4.",
+      "bbox": [
+        235.0,
+        1581.0,
+        320.0,
+        1616.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20 Ac3!",
+      "bbox": [
+        281.0,
+        1632.0,
+        417.0,
+        1667.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black has in fact managed to play ...d5, but White has made good use of the",
+      "bbox": [
+        281.0,
+        1684.0,
+        1555.0,
+        1724.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "time and now, besides his bayonet (the pawn on g5), he also has a 'long sabre' in",
+      "bbox": [
+        236.0,
+        1734.0,
+        1555.0,
+        1774.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the shape of his dark-squared bishop on the long diagonal !",
+      "bbox": [
+        236.0,
+        1785.0,
+        1207.0,
+        1826.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20...dxe4 21 f6 22 Oxg7! (D)",
+      "bbox": [
+        282.0,
+        1831.0,
+        867.0,
+        1874.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Grandmaster Tolush, himself an officer, uses his weapons well. After the",
+      "bbox": [
+        282.0,
+        1886.0,
+        1556.0,
+        1924.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'bayonet' and the 'sabre', here comes a suicide 'bomb'. The sacrifice is correct",
+      "bbox": [
+        240.0,
+        1936.0,
+        1558.0,
+        1978.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and characteristic of an attack based on a pawn avalanche.",
+      "bbox": [
+        237.0,
+        1988.0,
+        1203.0,
+        2026.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22...Axe2",
+      "bbox": [
+        282.0,
+        2035.0,
+        450.0,
+        2070.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The correctness of the sacrifice has its basis in the powerful threat of Qd4, as",
+      "bbox": [
+        282.0,
+        2083.0,
+        1557.0,
+        2127.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "can be seen in the following variation: 22...#xg7 23 hd4! Ac4 (or 23...Vd7 24",
+      "bbox": [
+        237.0,
+        2133.0,
+        1557.0,
+        2178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axe4 and if 24...Ac6 in order to prevent 25 Vh5, then 25 Oxc6 Vxdl 26 Xfxdl",
+      "bbox": [
+        237.0,
+        2183.0,
+        1554.0,
+        2228.0
+      ],
+      "confidence": null
+    }
+  ]
+}

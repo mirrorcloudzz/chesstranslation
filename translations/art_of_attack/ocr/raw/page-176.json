@@ -1,0 +1,290 @@
+{
+  "pdf_page": 176,
+  "printed_page": 176,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "176",
+      "bbox": [
+        234.0,
+        117.0,
+        293.0,
+        149.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        657.0,
+        122.0,
+        1152.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of one's opponent's pieces; hence, there may be considerable difficulty in open-",
+      "bbox": [
+        228.0,
+        266.0,
+        1546.0,
+        317.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing up a file. If, on the other hand, it has to be closed, an outpost as a rule has to be",
+      "bbox": [
+        227.0,
+        316.0,
+        1547.0,
+        364.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "established; on the diagonals, however, outposts are the exception, since the",
+      "bbox": [
+        226.0,
+        367.0,
+        1546.0,
+        416.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'open-shut' game is easily carried out by the pawns. It is in this, ultimately, that",
+      "bbox": [
+        229.0,
+        417.0,
+        1547.0,
+        468.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the whole 'subtlety and far-sightedness' of the diagonal lies. We shall open a se-",
+      "bbox": [
+        226.0,
+        467.0,
+        1544.0,
+        518.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ries of examples with a case of pinning on a diagonal. The pinning here is in fact",
+      "bbox": [
+        224.0,
+        518.0,
+        1545.0,
+        567.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a temporary episode within the whole operation of 'clearing up' on the diagonal,",
+      "bbox": [
+        225.0,
+        570.0,
+        1543.0,
+        618.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and the end comes with the line being completely breached when the pinned",
+      "bbox": [
+        224.0,
+        618.0,
+        1543.0,
+        669.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "piece is captured.",
+      "bbox": [
+        223.0,
+        668.0,
+        510.0,
+        707.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vago",
+      "bbox": [
+        897.0,
+        1196.0,
+        1144.0,
+        1262.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position comes from the game Tolush-Renter, Estonian Championship",
+      "bbox": [
+        259.0,
+        1372.0,
+        1534.0,
+        1427.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1945. It is White to move.",
+      "bbox": [
+        218.0,
+        1422.0,
+        645.0,
+        1457.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Qxg7",
+      "bbox": [
+        260.0,
+        1468.0,
+        387.0,
+        1512.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This draws Black's king out to g7 and at the same time opens up the diagonal",
+      "bbox": [
+        257.0,
+        1524.0,
+        1532.0,
+        1578.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of the white bishop on b2.",
+      "bbox": [
+        212.0,
+        1574.0,
+        644.0,
+        1617.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l...#xg7 2 Ve7",
+      "bbox": [
+        256.0,
+        1621.0,
+        596.0,
+        1665.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 2...Ve6, then 3 f5.",
+      "bbox": [
+        256.0,
+        1671.0,
+        597.0,
+        1713.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 vg4+ 4",
+      "bbox": [
+        255.0,
+        1721.0,
+        508.0,
+        1765.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this way White wins the enemy bishop, but the correct method of exploiting",
+      "bbox": [
+        255.0,
+        1777.0,
+        1529.0,
+        1832.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the position would have been to aim consistently for a breakthrough on the",
+      "bbox": [
+        209.0,
+        1827.0,
+        1529.0,
+        1880.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "square f6, e.g. 4 Vg5 Äc6 5 f5 Äg8 (or 5...Xd8 6 Xel and if 6...Xdd6, then 7 Vh6",
+      "bbox": [
+        209.0,
+        1875.0,
+        1528.0,
+        1927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "followed by Xf4 wins; otherwise the manoeuvre Äf4-g4 is at once decisive ) 6",
+      "bbox": [
+        207.0,
+        1927.0,
+        1528.0,
+        1981.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vh6 Ac8 7 h4 b5 (Black has no better move; for example, ...Xg7 and ...Qe8 will",
+      "bbox": [
+        207.0,
+        1973.0,
+        1527.0,
+        2030.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not save him because of f6) 8 h5 a5 9 Äfd2 b4 (the combination which White has",
+      "bbox": [
+        207.0,
+        2031.0,
+        1526.0,
+        2077.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Black might defend by 6...Zdd6 7 Vh6 Vd8, and if 8 Äf4 then 8...Xd1. In view",
+      "bbox": [
+        209.0,
+        2135.0,
+        1525.0,
+        2181.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of the uncertainties of this approach, Tolush's method appears sounder.",
+      "bbox": [
+        287.0,
+        2185.0,
+        1416.0,
+        2234.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "pdf_page": 326,
+  "printed_page": 326,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "326",
+      "bbox": [
+        253.0,
+        136.0,
+        316.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        680.0,
+        137.0,
+        1175.0,
+        177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'Not seeing in front of one's nose'",
+      "bbox": [
+        252.0,
+        290.0,
+        1108.0,
+        342.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It is a good thing to co-ordinate one's moves in an 'integrated action', but one",
+      "bbox": [
+        251.0,
+        386.0,
+        1571.0,
+        427.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "should always try to see what is 'in front of one's nose' ; that is, if one can mate at",
+      "bbox": [
+        251.0,
+        436.0,
+        1572.0,
+        475.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "once, one should do so and not philosophize about pawns. This somehow hap-",
+      "bbox": [
+        251.0,
+        487.0,
+        1569.0,
+        531.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pened once to Dr Vidmar, who (as White) reached the following position against",
+      "bbox": [
+        249.0,
+        537.0,
+        1571.0,
+        580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Yates at London, 1922.",
+      "bbox": [
+        250.0,
+        587.0,
+        632.0,
+        622.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is one in which White can win easily, but in a misguided moment",
+      "bbox": [
+        290.0,
+        1292.0,
+        1567.0,
+        1336.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "he hit on the idea of 'combining everything into an integral whole' , i.e. he wanted",
+      "bbox": [
+        245.0,
+        1342.0,
+        1565.0,
+        1385.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "both to attack and, at the same time, to 'cash in' on Black's e-pawn. As a result of",
+      "bbox": [
+        245.0,
+        1392.0,
+        1568.0,
+        1437.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "this faulty desire to achieve two ends a drawn position was reached, which Black,",
+      "bbox": [
+        245.0,
+        1443.0,
+        1563.0,
+        1486.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "however, proceeded to spoil and eventually to lose.",
+      "bbox": [
+        244.0,
+        1493.0,
+        1089.0,
+        1535.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Let us look first at the course the game took.",
+      "bbox": [
+        289.0,
+        1544.0,
+        1027.0,
+        1586.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 d5?! Aa8 2 Vh3 h6 3 Äfg4 4 Qxe4? Vf8 5 Qxf6+",
+      "bbox": [
+        291.0,
+        1590.0,
+        1278.0,
+        1635.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In his book A Half-Century at the Chessboard the great Yugoslav master re-",
+      "bbox": [
+        288.0,
+        1645.0,
+        1562.0,
+        1691.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cords that he spent three-quarters of an hour thinking at this point and then de-",
+      "bbox": [
+        242.0,
+        1696.0,
+        1562.0,
+        1741.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cided on the sacrifice. After his incorrect capture of the e-pawn there was no",
+      "bbox": [
+        242.0,
+        1746.0,
+        1563.0,
+        1791.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "other choice left.",
+      "bbox": [
+        242.0,
+        1796.0,
+        520.0,
+        1827.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...Vxf6 6 Äg6 Vf8?",
+      "bbox": [
+        287.0,
+        1841.0,
+        645.0,
+        1885.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This is a mistake; Black now lost after 7 Vg4! Vf7 8 Vg5 (otherwise",
+      "bbox": [
+        286.0,
+        1896.0,
+        1562.0,
+        1943.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxh6+ wins) 9 f6 Vxd5 10 Xhxh6+ 1-0.",
+      "bbox": [
+        240.0,
+        1942.0,
+        932.0,
+        1985.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black could have drawn by playing the natural move 6...Vxb2, e.g. 7 Xhxh6+",
+      "bbox": [
+        286.0,
+        1999.0,
+        1562.0,
+        2045.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ég8 8 Äh8+ #f7, and if 9 Xxg7+, then 9...Vxg7 IO Äh7 Axd5, when White has",
+      "bbox": [
+        240.0,
+        2044.0,
+        1561.0,
+        2093.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "nothing better than perpetual check.",
+      "bbox": [
+        240.0,
+        2100.0,
+        835.0,
+        2141.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In the book mentioned above Dr Vidmar emphasizes how in this game the at-",
+      "bbox": [
+        285.0,
+        2150.0,
+        1559.0,
+        2197.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack on the black king and the pressure on his e-pawn 'combined together to form",
+      "bbox": [
+        239.0,
+        2201.0,
+        1560.0,
+        2247.0
+      ],
+      "confidence": null
+    }
+  ]
+}

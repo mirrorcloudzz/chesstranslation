@@ -1,0 +1,260 @@
+{
+  "pdf_page": 22,
+  "printed_page": 22,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        308.7,
+        127.2,
+        362.6,
+        174.6
+      ],
+      "text": "22",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        738.8,
+        131.0,
+        1238.6,
+        178.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9569
+    },
+    {
+      "bbox": [
+        310.0,
+        278.2,
+        1631.9,
+        330.6
+      ],
+      "text": "following example shows how a threat along the e-file can be indirectly com-",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        311.2,
+        330.6,
+        1097.7,
+        374.2
+      ],
+      "text": "bined with pre-castling attacks of another kind.",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        834.3,
+        427.9,
+        1107.5,
+        472.8
+      ],
+      "text": "Keres - Kotov",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        814.7,
+        480.3,
+        1127.1,
+        525.2
+      ],
+      "text": "Budapest Ct, 1950",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        835.5,
+        530.2,
+        1108.8,
+        575.1
+      ],
+      "text": "Sicilian Najdorf",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        307.5,
+        623.7,
+        1631.9,
+        677.4
+      ],
+      "text": "1 e4 c5 2 2f3 d6 3 d4 cxd4 4 xd4 ②f6 5 2c3 a6 6 e2 Wc7 7 g5 ②bd7 8",
+      "confidence": 0.9464
+    },
+    {
+      "bbox": [
+        307.5,
+        673.6,
+        713.0,
+        726.0
+      ],
+      "text": "0-0 e6 9 h5 Wc4? (D)",
+      "confidence": 0.9494
+    },
+    {
+      "bbox": [
+        642.0,
+        884.5,
+        675.1,
+        918.1
+      ],
+      "text": "W",
+      "confidence": 0.8599
+    },
+    {
+      "bbox": [
+        345.5,
+        1383.5,
+        1624.5,
+        1434.6
+      ],
+      "text": "Here White carried out the following Sicilian trick, the kind of thing at which",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        302.6,
+        1434.6,
+        642.0,
+        1479.5
+      ],
+      "text": "Keres was a master:",
+      "confidence": 0.9741
+    },
+    {
+      "bbox": [
+        346.7,
+        1480.8,
+        763.3,
+        1525.7
+      ],
+      "text": "10 2xe6! Wxe6 11 2d5",
+      "confidence": 0.9097
+    },
+    {
+      "bbox": [
+        343.0,
+        1531.9,
+        1630.7,
+        1588.0
+      ],
+      "text": "Black now went on to parry the threat of c7+ with 11...d8?, and after 12",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        302.6,
+        1579.3,
+        1627.0,
+        1639.2
+      ],
+      "text": "g4 We5 13 f4 Wxe4 14 Qxd7 xd7 15 xf6 he found himself in a hopeless",
+      "confidence": 0.9683
+    },
+    {
+      "bbox": [
+        300.2,
+        1636.7,
+        450.9,
+        1679.1
+      ],
+      "text": "position.",
+      "confidence": 0.9672
+    },
+    {
+      "bbox": [
+        343.0,
+        1682.9,
+        1627.0,
+        1739.0
+      ],
+      "text": "An alternative was to let the e-file be opened up by 11...xd5 12 exd5 Wf5 13",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        298.9,
+        1731.5,
+        1625.8,
+        1793.9
+      ],
+      "text": "e1+ e5 14 f4, which would perhaps have been less unpleasant for Black, e.g.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        300.2,
+        1785.1,
+        1625.8,
+        1841.3
+      ],
+      "text": "14...g6 15 fxe5 (15 g4 is weaker on account of 15...Wxg5 16 fxg5 g7, etc.)",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        296.5,
+        1830.1,
+        735.1,
+        1888.7
+      ],
+      "text": "15...dxe5 16 We2 f6, etc'.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        343.0,
+        1938.6,
+        1622.1,
+        1991.0
+      ],
+      "text": "A few further examples will show different aspects of the attack against the",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        300.2,
+        1991.0,
+        474.1,
+        2033.4
+      ],
+      "text": "square f7:",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        378.6,
+        2094.5,
+        1625.8,
+        2151.9
+      ],
+      "text": "Indeed, after 16 We2 the reply 16...Wxg5 just leaves Black a piece up. Keres",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        381.0,
+        2145.7,
+        1623.3,
+        2194.3
+      ],
+      "text": "himself gave the continuation 13 We1+ (instead of 13 e1+) 13...e5 14 f4 h6",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        382.2,
+        2191.8,
+        1422.4,
+        2245.5
+      ],
+      "text": "15 fxe5 Wxg5 16 exd6+ as leading t0 a winning attack for White.",
+      "confidence": 0.9777
+    }
+  ]
+}

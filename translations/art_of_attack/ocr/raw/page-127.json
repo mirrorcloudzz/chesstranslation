@@ -1,0 +1,190 @@
+{
+  "pdf_page": 127,
+  "printed_page": 127,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        607.7,
+        121.0,
+        1119.8,
+        169.7
+      ],
+      "text": "The classic bishop sacrifice",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        1448.1,
+        118.5,
+        1522.9,
+        164.7
+      ],
+      "text": "127",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        504.8,
+        375.5,
+        537.8,
+        406.7
+      ],
+      "text": "W",
+      "confidence": 0.8772
+    },
+    {
+      "bbox": [
+        238.9,
+        872.0,
+        404.3,
+        923.1
+      ],
+      "text": "4 wg3 f4",
+      "confidence": 0.8457
+    },
+    {
+      "bbox": [
+        240.1,
+        921.9,
+        769.4,
+        971.8
+      ],
+      "text": "4...f6 is answered by 5 xe6.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        241.4,
+        975.5,
+        551.3,
+        1016.7
+      ],
+      "text": "5 xf4 f5 6 h3!",
+      "confidence": 0.9438
+    },
+    {
+      "bbox": [
+        241.4,
+        1022.9,
+        1133.3,
+        1069.1
+      ],
+      "text": "White must be careful; on 6 Wd3+ Black has 6...f6.",
+      "confidence": 0.9778
+    },
+    {
+      "bbox": [
+        241.4,
+        1075.3,
+        374.9,
+        1117.7
+      ],
+      "text": "6...We8",
+      "confidence": 0.9507
+    },
+    {
+      "bbox": [
+        240.1,
+        1125.2,
+        1005.8,
+        1168.9
+      ],
+      "text": "There is no future in 6...e5 because of 7 dxe5.",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        240.1,
+        1171.4,
+        809.8,
+        1218.8
+      ],
+      "text": "7 h7 Wh5 8 Wd3+ xf4 9 g3#.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        508.4,
+        1382.2,
+        541.5,
+        1414.6
+      ],
+      "text": "W",
+      "confidence": 0.9253
+    },
+    {
+      "bbox": [
+        243.8,
+        1880.0,
+        746.1,
+        1928.6
+      ],
+      "text": "1 Ωxh7+ xh7 2 g5+ g6",
+      "confidence": 0.9151
+    },
+    {
+      "bbox": [
+        242.6,
+        1936.1,
+        1525.3,
+        1977.3
+      ],
+      "text": "In this instance White has no dark-squared bishop, which is what usually rules",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        196.0,
+        1982.2,
+        1527.8,
+        2032.1
+      ],
+      "text": "Out the continuation ...h6, but even so White can win after 2...h6 by 3 Wg4,",
+      "confidence": 0.9758
+    },
+    {
+      "bbox": [
+        196.0,
+        2033.4,
+        1530.2,
+        2083.3
+      ],
+      "text": "threatening an immediate Wh4+. However, ...g8 is also a critical continuation,",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        199.7,
+        2085.8,
+        1527.8,
+        2134.4
+      ],
+      "text": "owing to the protection which Black's queen gives to the focal-point f7. Never-",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        198.5,
+        2131.9,
+        1526.5,
+        2181.8
+      ],
+      "text": "theless, after 2...g8 3 Wh5 e8 4 df3 d8 5 h4 d7 6 Wh7+ f8 7 ae1",
+      "confidence": 0.9528
+    },
+    {
+      "bbox": [
+        199.7,
+        2188.1,
+        1524.1,
+        2231.7
+      ],
+      "text": "White's attack is too strong and Black cannot extract his king, for example",
+      "confidence": 0.9915
+    }
+  ]
+}

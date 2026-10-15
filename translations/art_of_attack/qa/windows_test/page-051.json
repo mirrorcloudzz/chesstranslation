@@ -1,0 +1,340 @@
+{
+  "pdf_page": 51,
+  "printed_page": 51,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "3 On castling and attacking the",
+      "bbox": [
+        213.0,
+        294.0,
+        1452.0,
+        374.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "castled position in general",
+      "bbox": [
+        305.0,
+        395.0,
+        1331.0,
+        475.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The origin of castling",
+      "bbox": [
+        211.0,
+        633.0,
+        744.0,
+        685.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Castling, the most distinctive move in the whole of chess, affects the nature of",
+      "bbox": [
+        212.0,
+        724.0,
+        1534.0,
+        766.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mating attacks in various ways and because of its importance in this connection,",
+      "bbox": [
+        212.0,
+        774.0,
+        1530.0,
+        818.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the general significance of the move is worth examining.",
+      "bbox": [
+        212.0,
+        826.0,
+        1152.0,
+        867.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Castling is not of any great antiquity. It is also obvious that such a complex and",
+      "bbox": [
+        257.0,
+        875.0,
+        1532.0,
+        918.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "distinctive operation as the modern castling move was not born in a day, but",
+      "bbox": [
+        212.0,
+        926.0,
+        1533.0,
+        968.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rather developed gradually from century to century with the evolution of the",
+      "bbox": [
+        212.0,
+        976.0,
+        1532.0,
+        1018.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rules of the game themselves.",
+      "bbox": [
+        212.0,
+        1030.0,
+        702.0,
+        1068.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In the Indian game of chaturanga (pre-chess) there is no trace of the move, nor",
+      "bbox": [
+        258.0,
+        1078.0,
+        1533.0,
+        1118.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "can it be found in the Arab shatranj. The first traces of any unusual or exceptional",
+      "bbox": [
+        213.0,
+        1128.0,
+        1532.0,
+        1167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "movement being made by the king, out of which the castling move evolved, are",
+      "bbox": [
+        213.0,
+        1179.0,
+        1533.0,
+        1218.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to be found in mediaeval European chess, which in its first stages can be de-",
+      "bbox": [
+        213.0,
+        1229.0,
+        1531.0,
+        1269.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "scribed as the first and not very significant revision of shatranj towards providing",
+      "bbox": [
+        214.0,
+        1280.0,
+        1532.0,
+        1319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the pieces with greater mobility. A historical source attesting to this first revision",
+      "bbox": [
+        214.0,
+        1330.0,
+        1533.0,
+        1371.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is a work by the Lombard monk Jacobus de Cessolis, in which are recorded the",
+      "bbox": [
+        214.0,
+        1380.0,
+        1533.0,
+        1421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rules governing the movements of the individual chess pieces at the time. There it",
+      "bbox": [
+        213.0,
+        1431.0,
+        1534.0,
+        1472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is stated that king, queen, and pawns have the right to make an initial move of two",
+      "bbox": [
+        214.0,
+        1481.0,
+        1534.0,
+        1522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "squares as well as the normal one. From this early reform the double opening",
+      "bbox": [
+        214.0,
+        1532.0,
+        1533.0,
+        1573.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "step taken by the pawn survives to this day, while in the case of the queen it be-",
+      "bbox": [
+        215.0,
+        1583.0,
+        1533.0,
+        1624.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "came obsolete when the piece was given its present powers of movement during",
+      "bbox": [
+        214.0,
+        1634.0,
+        1534.0,
+        1674.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the great reform of the game at the end of the fifteenth century. In the case of the",
+      "bbox": [
+        214.0,
+        1685.0,
+        1534.0,
+        1725.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king it was further developed and altered until it eventually took its present-day",
+      "bbox": [
+        214.0,
+        1736.0,
+        1534.0,
+        1776.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "shape as castling.",
+      "bbox": [
+        215.0,
+        1788.0,
+        501.0,
+        1827.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "There is extensive confirmation of the introduction of the king's move from",
+      "bbox": [
+        259.0,
+        1836.0,
+        1535.0,
+        1874.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "other sources after Cessolis, though the particular conditions governing the move",
+      "bbox": [
+        215.0,
+        1887.0,
+        1535.0,
+        1926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vary. The form most frequently recorded is that where the king moves like a",
+      "bbox": [
+        215.0,
+        1937.0,
+        1536.0,
+        1977.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "knight ('Freudensprung'), with the limitation that it is not allowed to go beyond",
+      "bbox": [
+        215.0,
+        1988.0,
+        1535.0,
+        2029.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the second rank. The next form, which made its appearance in Italy in the six-",
+      "bbox": [
+        215.0,
+        2039.0,
+        1533.0,
+        2078.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "teenth century, already included a movement by the rook in the same move — a",
+      "bbox": [
+        215.0,
+        2090.0,
+        1536.0,
+        2130.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "step nearer to the castling of today. The king's use of the knight's jump disap-",
+      "bbox": [
+        216.0,
+        2140.0,
+        1533.0,
+        2181.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pears at this point and the rules state that the king is free to move from el to gl or",
+      "bbox": [
+        215.0,
+        2191.0,
+        1536.0,
+        2231.0
+      ],
+      "confidence": null
+    }
+  ]
+}

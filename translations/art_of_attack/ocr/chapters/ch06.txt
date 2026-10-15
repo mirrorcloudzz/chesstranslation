@@ -1,0 +1,589 @@
+The classic bishop sacrifice
+
+
+[PDF page 121]
+6 The classic bishop sacrifice
+This sacrifice deserves a chapter to itself, because it is the oldest and most ex-
+plored of all the sacrifices involved in the attack on the castled king and also be-
+cause it provides particularly good illustrations of the role of h7 and f7 as mating
+and secondary focal-points.
+The earliest instance of the sacrifice of the bishop on h7 followed by g5+ oc-
+curs in Gioacchino Greco's handbook of 1619, but the first systematic review of
+it was made by E. Voellmy in his article ‘On attacking the castled king' in the
+Schweizerischen Schachzeitung in 1911. Some writers give it the name of
+Greco's sacrifice, for which there are some grounds, while others call it Colle's
+sacrifice, for which there is in fact no justification, as Colle never played a good
+game which contained the sacrifice in spite of the fact that he often used it. I think
+the term 'classic bishop sacrifice' more appropriate, since this indicates both its
+early origins and also the basic simplicity of the idea underlying it.
+Greco reaches the position below in his handbook after making six not partic-
+ularly intelligent moves.
+[AA-p121-fig01]
+Now comes the blow: 1 Ωxh7+! xh7 2 g5+ g8 (if 2...xg5, then 3
+hxg5+ g6 4 Wh5+ +f5 5 Wh3+ g6 6 Wh7#; 2...h6 3 ②xe6+ costs Black
+his queen; thirdly, after 2...g6 3 h5+ there is a choice between 3...h6 4
+More commonly called the Greek Gift sacrifice, although the reason for apply-
+ing this term specifically to the sacrifice on h7 is unclear.
+
+[PDF page 122]
+xe6+ and 3..*f5 4 g4#) 3 Wh5 e8 (or 3...xg5 4 hxg5 f5 5 g6) 4 Wh7+ f8
+5 Wh8#.
+Let us now consider the next, rather more natural, position, where the classic
+sacrifice is again successful.
+[AA-p122-fig01]
+1 Ωxh7+ $xh7 2 g5+
+Here, as in other examples of the classic bishop sacrifice, there are three main
+variations arising from the sacrifice, i.e. those beginning with ...g8, ...h6,
+and ..g6. These three variations must be carefully examined on every occa-
+sion, for if any one of them contains a loophole, the whole combination falls to
+the ground.
+1) variation with ...g8
+2...*g8 3 Wh5 e8 4 Wxf7+ h8 5 Wh5+ g8 6 Wh7+ f8 7 Wh8+ e7 8
+Wxg7#.
+This variation contains, as its main feature, a typical example of an attack us-
+ing h7 and f7 as secondary focal-points with the queen finally mating on g7, a
+common enough pattern after this sacrifice.
+2) variation with ...h6
+2...h6 3 xe6+ and 4 xd8, etc.
+This naturally succeeds because Black's queen is on d8, but even with the
+queen on a5 the move 2...h6 would have no prospects. In that case White would
+win by, e.g. 3 Wg4 h8 (otherwise Wh4+ and Wh7#) 4 xe6+ and 5 Wxg7#.
+3) variation with ..g6
+2...g6 3 h4
+This is the strongest move here; in other cases ...g6 may be best met by Wg4.
+Black's reply is forced.
+
+[PDF page 123]
+3...h8 4 h5+! xh5 5 Wd3+ f5 6 exf6+ xf6 7 Wf3+ e7 8 Wf7+ d6 9
+Wxh5 and White wins.
+One could now produce a series of examples, pursuing different variations ac-
+cording to the various elements in each position, but it is more to the point at once
+to pose the question as to how to judge the correctness of the sacrifice, first with
+reference to White's position and then to Black's.
+Necessary conditions for the classic bishop sacrifice
+White must firstly have a queen, a bishop and a knight. The light-squared bishop
+must be able to reach h7 in order to force the tempo of the attack, though it is not
+essential that it should put Black in check or take a pawn in so doing. The knight
+should be within easy and safe reach of the square g5, and the queen within reach
+of h5, though in some cases it is enough for it to be able to get to some other
+square on the h-file.
+As far as Black's position is concerned, there should be two pawns standing
+intact at f7 and g7 (g7 may on rare occasions be occupied by a bishop instead of a
+pawn); the h-pawn should be on h7 (on h5 in exceptional cases), but it may be
+that there is no h-pawn at all. The position of Black's queen on d8 and a rook on
+f8 points to, but does not absolutely guarantee, the correctness of the sacrifice.
+What is more important is that Black's knight should not be able to reach f6 and
+that neither his queen nor bishop should be able to occupy the h7-b1 diagonal un-
+harmed.
+These are the basic conditions which need to be taken into account. In the ex-
+amples which follow we shall examine to what extent each of these conditions is
+fulfilled; the positions are chosen in such a way as to show which is the critical
+continuation in each example, i.e. the one that is in doubt because a certain condi-
+tion is apparently unfulfilled.
+The variation with ...g8 is critica!
+In the following position the sacrifice is correct:
+1 xh7+ xh7 2 g5+ g8
+The continuation 2...h6 obviously fails; while if 2...g6, then 3 Wd3+ f6
+(3...f5 4 Wg3! wins, for Black cannot play 4...f6 because of 5 xe6#) 4 We4
+threatens both 5 Zh7+ and 5 xe6, and 4...e7 does not work because of 5
+Wxe6+ fxe6 6 xe6#.
+3 Wh5 f6
+An example of the defence of the focal-point h7 by the knight, but in this case
+
+[PDF page 124]
+[AA-p124-fig01]
+White's position is strong enough (thanks to the activity of his bishop on f4 and
+rook on el) to withstand the loss of time.
+4 Wh4 e8
+If 4...g6, then 5 Wh6!, followed by 6 &e5 and e3-h3, wins, while 4...c7
+would be met by 5 Qe5, etc.
+5 Ωe5 we7
+If 5...f8, then 6 Wh8+ and 7 Wxg7 is decisive.
+6 e3 d8 7 h3 and White mates.
+In the position in the next diagram an important condition regarding the ...g8
+variation has apparently not been fulfilled, since the diagonal from c8 to f5 is
+open to Black's bishop. However, White has the possibility of We4+ as well as
+other active factors in his favour, and therefore the sacrifice still succeeds.
+[AA-p124-fig02]
+1 Ωxh7+! xh7 2 ②g5+ g8
+
+[PDF page 125]
+Both 2..h6 and 2...*g6 are bad, the latter being met by 3 We4+ f5 4 Wh4 f4
+5 Wh7+ xg5 6 h4+ g4 7 f3+ g3 8 g6+ xh4 9 f2, etc.
+3 We4!
+But not 3 Wh5? &f5!.
+3..f5 4 Wh4 f7 5 Wh8+! xh8 6 xf7+ g8 7 xd8 and White wins.
+Here the boxed-in position of Black's rook and the possibility of We4+ fol-
+lowed by Wh4 fully compensate for the absence of one of the basic conditions.
+[AA-p125-fig01]
+In this position Black has an extra tempo in which to defend himself after
+...g8 because his rook is already on e8, but White's position is so strong in other
+respects that his sacrifice still leads to a successful breakthrough.
+1 Ωxh7+ xh7 2 ②g5+ $g8 3 Wh5 f8
+A difficulty for Black is that he cannot defend the f7-square; if, for example,
+3...We7, then 4 Wh7+ and 5 Wh8# while if 3...f6, then 4 Wf7+ h8 5 e3, etc.
+4 Wxf7+ h8 5 e3 and White wins.
+These three examples represent only a small section of a large number of pos-
+sible cases in which the crucial continuation is ...g8. How large the variety of
+these positions is and how sensitive they are to minute changes can be illustrated
+by the following observation: if, in any of the previous three diagrams, White's
+h-pawn is moved to h4, the bishop sacrifice is no longer correct. In the first two
+diagrams (on page 124) this is because the queen is prevented from getting to h4,
+while in the diagram above it is because White's rook can no longer create threats
+along the h-file. Having the pawn on h4 rather than h2 is an obstacle in the varia-
+tion with ..g8; on the other hand, we shall see how it assists White in the varia-
+tion with ...g6.
+5 e6 is even stronger, when 5...Wxg5 is forced to avoid mate.
+
+[PDF page 126]
+The variation with ...g6 is critica!
+Here the critical continuation is ...g6, while that with ...g8 involves less diffi-
+culty.
+[AA-p126-fig01]
+1 Ωxh7+ xh7 2 ②g5+ g6
+If 2...g8 3 Wh5 e8, White should keep his eyes well open and stop himself
+from charging in with 4 Wxf7+?, since then Black has an adequate defence in
+4...h8 5 Wh5+ g8 6 Wh7+ f8 7 Wh8+ ②g8 8 h7+ f7. The finesse lies
+in not taking the pawn on f7 but playing 4 Wh7+! f8 5 Wh8+ g8 6 h7+ e7
+7 g5+ f6 8 wxg7#!
+3 Wg4! f5 4 Wg3 We8 5 h4!
+Only now does White play this move and force ...Mh8; after the earlier 3 h4
+h8 4 Wg4 f5 5 Wg3, Black could have countered with 5...Wg8.
+5...h8 6 xe6+ f7 7 Wxg7+ xe6 8 Wf6+ d7 9 Wd6#.
+This is a characteristic outcome of the continuation ...g6; with the king on
+g6, the pawn on h4 is an assistance to White, as it usually is when Black adopts
+this defence.
+In the next case White has no pawn on e5, but the presence of his rook on the
+open e-file ensures success against ...g8. In the variation with ...g6 White is
+made to work for victory.
+1 xh7+ xh7 2 ②g5+ g6 3 Wg4 f5
+If 3...f6, then 4 Wh4 h8' 5 Wf4+, etc. is strongest.
+Here 4...g6 is much stronger, when White has nothing better than to repeat
+moves. Thus White should instead meet 3...f6 by 4 e4+ e7 5 Wxg7 dxe4
+(the only chance) 6 g5+ e8 7 &xd8 xd8 8 xe4 with a winning position.
+
+[PDF page 127]
+[AA-p127-fig01]
+4 wg3 f4
+4...f6 is answered by 5 xe6.
+5 xf4 f5 6 h3!
+White must be careful; on 6 Wd3+ Black has 6...f6.
+6...We8
+There is no future in 6...e5 because of 7 dxe5.
+7 h7 Wh5 8 Wd3+ xf4 9 g3#.
+[AA-p127-fig02]
+1 Ωxh7+ xh7 2 g5+ g6
+In this instance White has no dark-squared bishop, which is what usually rules
+Out the continuation ...h6, but even so White can win after 2...h6 by 3 Wg4,
+threatening an immediate Wh4+. However, ...g8 is also a critical continuation,
+owing to the protection which Black's queen gives to the focal-point f7. Never-
+theless, after 2...g8 3 Wh5 e8 4 df3 d8 5 h4 d7 6 Wh7+ f8 7 ae1
+White's attack is too strong and Black cannot extract his king, for example
+
+[PDF page 128]
+7..e7 8 ②g6+ fxg6 9 Wxg7+ f7 10 2xf7 Wb6 11 d6+ $d8 12 xe8 xe8
+13 e3, etc.
+3 Wg4 f5 4 Wh4
+The absence of Black's queen from d8 makes this move possible. Black is now
+obliged to sacrifice in return, since otherwise White will decide the issue with 5
+Wh7+ and an eventual mate.
+4...xe5 5 dxe5 Wxe5 6 df3 Wc7 7 ae1 and White wins.
+[AA-p128-fig01]
+This position differs fundamentally from those considered so far and touches
+on some new aspects of the sacrificial combination.
+1 xh7+ xh7 2 g5+ g6
+If 2...h6, both 3 xf7+ and 3 Wg4 f5 4 ce4 lead to victory. Instead of
+the dark-squared bishop White has the knight on c3 as an active supporting piece,
+which proves its value in numerous variations. Consider, for example, 2...g8 3
+Wh5 Wd3, where the fact that White has the move 4 ce4 is decisive.
+3 Wg4 f5 4 exf6
+4 Wg3 is not so strong in this position.
+4...xf6
+An obviously important point here and in similar positions is that Black loses
+his queen after 4...gxf6 5 xe6+, etc.
+5 ce4+ e5 6f4+ d5 7 Wd1+ *c68 ac1+ *b5 9 c5+ mating quickly.
+The variation with ...h6 is critical
+This continuation is usually difficult for the attacker if he does not have a second
+bishop and has his h-pawn at h4, and is consequently without the possibility of
+Wg4 and Wh4+.
+
+[PDF page 129]
+Here is an example:
+[AA-p129-fig01]
+1 xh7+ xh7 2 g5+ +h6
+Against either of the other continuations White wins easily, but against the
+text move he has to work hard; victory cannot be forced here, though he has a
+promising attack.
+3 f4!
+This is probably White's strongest move. After 3 Wd2 We7! White can re-
+establish material equality by 4 xe6+ and 5 xf8, but Black is then the better
+placed.
+3...e7 4 h5 g6 5 hxg6 xg6 6 Wg4 g7 7 f5! exf5 8 xf5
+White's threats include 9 xf7+ and 9 e6, as well as 9 Wh5, so he should win.
+If 8...c8, then 9 Wh5 is decisive.
+Declining the sacrifice
+One of the necessary conditions for the success of the classic bishop sacrifice, as
+of any sacrifice at all, is the opponent's inability to obtain an advantage by reject-
+ing the sacrifice altogether. The attacker must therefore consider what will hap-
+pen if his opponent plays ...h8 and does not take the bishop. The following
+diagram shows an example of this.
+1 xh7+?
+Instead of trying to sacrifice his bishop (which is incorrect in this position,
+since Black can successfully decline it) White should have played 1 Qe2 with
+the intention of making use of his pair of bishops and centralizing his knight by
+Zd4.
+1...h8! 2 g5
+
+[PDF page 130]
+[AA-p130-fig01]
+The bishop has nowhere to retreat to, while if 2 We2, then 2...&xf3 3 Wxf3
+Wxh7, i.e. Black accepts the sacrifice as soon as he has eliminated White's
+knight, for without that White's attack is worth nothing.
+2...Wxd1 3 fxd1 g6!
+White now has no satisfactory defence against the threat of...g7 and ...h8,
+and this gives Black the better prospects.
+A practical criterion for the sacrifice
+We shall now attempt to establish a practical rule for positions of the type given
+on pages 122-129, a means by which players can orientate themselves quickly
+and fairly accurately. Positions similar to that on page 121, i.e. with a rook on h1
+and pawn on h4, will be left aside for the time being and will be dealt with in
+chapter 7. It should also be remarked that in the positions on pages 122-129 the
+basic condition that the defender should not be able to reject the sacrifice un-
+scathed was fulfilled. It should further be added that the arrangement of Black's
+pieces in those positions did not depart greatly from the normal, while White, in
+addition to the essential light-squared bishop, the queen, and the knight on f3,
+had at his disposal a number of other supporting pieces to sustain his attack.
+Listed in categories, these were:
+Pawn at e5 and bishop at c1 on pages 122, 124 (bottom) and 125;
+Pawn at e5 and bishop at f4 on page 126;
+Pawn at e5 and knight at d2 on page 127 (bottom);
+Pawn at e5 and knight at c3 on page 128;
+Pawns at e5 and h4 on page 129;
+Rook at e1 and bishop at f4 on page 124 (top); and
+Rook at el and bishop at c1 on page 127 (top).
+
+[PDF page 131]
+As can be seen, the principal supporting pieces are the pawn at e5 and the
+bishop on the diagonal c1-f4, followed by the knight on d2 or c3 and the rook on
+the open e-file. There may be a few other such supporting pieces (e.g. a rook on
+f1, if the f-file is open) which have not been provided with examples, but the
+reader will already have seen the basic idea -- as a rule at least two active support-
+ing pieces are necessary, if the classic bishop sacrifice is to bring the attacker
+success.
+This is a simple practical criterion and should help the player to get his ap-
+proximate bearings. To make this survey of the sacrifice and the structure of its
+necessary conditions as clear as possible, White has been made the attacker in all
+the examples; if Black carries out a sacrificial attack on h2, naturally all that has
+been said applies analogously.
+To provide further material on the classic bishop sacrifice three master games
+will now be examined. The first belongs to the post-war era and provides an ex-
+ample where the sacrifice is quite correct. In the second the young Capablanca
+sacrifices on h7, but the analysis shows the existence of a loophole in the varia-
+tion with ...g6 which his opponent failed to notice. In the third, Colle sacrifices
+and wins both the game and the Brilliancy Prize, even though in fact two of the
+variations are unsound!
+Kottnauer - Kotov
+Match, Prague vs Moscow, Moscow 1946
+Queen's Gambit Declined, Semi-Slav Defence
+1 c4 e6 2 d4 d5 3 2c3 c6 4 2f3 2f6 5 e3 bd7 6 .d3 dxc4 7 xc4 b5 8 Qd3
+a6 9 e4 c5 10 e5 cxd4 11 xb5 axb5
+Nowadays 11...xe5 is more commonly played and analysed. 11...g4 is not
+so good because of 12 bxd4 gxe5 13 Qe4 when White has the advantage.
+12 exf6 Wb6 13 fxg7
+The incisive quality of this variation is rapidly lost if White continues 13 0-0
+gxf6 14 Qe4 b7 15 xb7 Wxb7 16 xd4 g8 17 Wf3. Black can then simplify
+the position and reach an ending by 17...Wxf3 18 xf3 g4! in which the
+chances are approximately ever.
+13...xg7 14 0-0 0-0 15 We2 c5? (D)
+According to modern analysis the classic bishop sacrifice is correct at this
+point and therefore 15...c5? should be censured; instead, the correct continua-
+tion is 15...b7 16 Qxb5 (the sacrifice at h7 does not work here because of the
+defence provided by ...f6 in the ...g8 variation) 16...Qxf3 17 gxf3 c5 and if
+18 a4 or 18 &c4, then 18...e5 with good positional compensation for the pawn.
+
+[PDF page 132]
+[AA-p132-fig01]
+16 Ωxh7+!
+Here is an example of the classic bishop sacrifice on h7 in a position which
+differs from those examined hitherto. First of all, a bishop, and not a pawn, is on
+g7, while Black's queen is on b6 and not on d8. Let us now look at the conditions
+for success in each of the variations. Clearly, ...h8 does not come into consider-
+ation at all, nor does moving the king to h6, but the variation with ...g8 gives
+rise to a few doubts, since the bishop's presence on g7 prevents the well-known
+harrying of the king by Wh8+. We shall see later on how really critical this varia-
+tion is and that White's success hangs on a thread. The ..g6 variation presents
+an even harder prospect, for White has only one of the supporting pieces men-
+tioned above (bishop at c1) at his disposal and still needs an extra tempo to make
+up the necessary pair with e1. Furthermore, Black's queen is not imperilled on
+b6 by the battery of queen on g4 and knight on g5, as is the case when it is on d8;
+moreover, Black's considerable strength in the centre and on the queenside opens
+up the possibility of defending by returning the material and exploiting the posi-
+tional compensation obtained for it. According to our scheme, then, the continu-
+ation ...g6 represents a danger to White, and we should have to doubt the
+success of the attack if it were not for one more factor which helps White: the fact
+that a bishop, and not a pawn, stands at g7 means that an attack on that square en-
+tails the loss of a piece and not of a pawn. While the bishop on g7 helps Black in
+the ...g8 variation, with ...g6 it acts as a drawback which compensates for the
+deficiencies in White's position already referred to. These points will be best il-
+luminated by further analysis.
+16...xh7 17 g5+ g6
+Let us now consider the alternative continuation, 17...g8. After 18 Wh5 d8
+19 Wxf7+ h8 all the commentators (including the author in his Modern Open-
+ing Theory) have given a win for White by 20 f4 Wb7 21 f3?. However, there is
+
+[PDF page 133]
+a flaw in this, in that Black can embark upon 21...Wxf7 22 xf7+ g8 23 xd8,
+obtaining excellent compensation for the exchange, e.g. 23...d7 24 b4 a4 25
+b7 c6 26 c5 (or 26 a5) 26...xf3 27 gxf3 d3 28 b1 c3 and Black wins
+the c1-bishop at the very least. This scotches the idea of 21 f3?; a better move,
+therefore, is 21 Wg6, though after 21..g8 22 f3 We7 23 h3 f8 (otherwise
+24 h8+!) White only has a draw by 24 h7+ g8 25 g5, etc. If he plays for a
+material advantage with 24 h8+? Qxh8 25 h7+ Wxh7 26 Wxh7, then
+26...&g7 brings his attack to a standstill, after which Black's threats make them-
+selves felt.
+These variations, however, do not comprise a full coverage of 17...g8; in-
+stead of 20 f4 White has a better move, i.e. 20 f4!. Here is an analysis:
+1) 20...d7 21 xe6 wins.
+2) 20...d3 21 Wg6! picks up the knight.
+3) 20...Wb7 fails against 21 c7.
+4) 20...e5 21 xe5 Wh6 22 we7! 皇e6 23 Qxg7+ Wxg7 24 Wxc5 winning.
+5) 20...Ia7 21 Wg6 g8 22 e5 Wb7 (the queen must defend the bishop on
+g7, since otherwise White plays 23 Wh7+ followed by Ωxg7+ and Wh8+) 23
+ac1 a6 24 xc8! Wxc8 (or 24...xc8 25 d6! and there is no defence against
+26 h7#) 25 Wh7+ f8 26 皇xg7+ xg7 27 h8+ g8 28 f6+ and 29 f7#.
+As can be seen, a considerable analytical effort was needed to overcome a de-
+fence built round the fianchetto, and more will be said about this in a separate
+chapter.
+18 g4 f5 19 g3 (D)
+[AA-p133-fig01]
+A critical stage of the game. It is now evident that the position of his bishop at
+g7 is an embarrassment to Black, since there is an immediate threat of Zxe6+
+with a double attack on g7 and f8.
+
+[PDF page 134]
+In the actual game Black played 19...f6, but that move, like 19...f6, does
+not cause White as much difficulty as 19...f7!, as the following variations
+show:
+1)19...f6 20 xe6+ f7 21 xf8 xf8 22 Wg6 e4! (Black's strongest
+defence; White cannot now play 23 f3 because of 23...d3+ 24 h1 d2 and Black
+has at least equal chances') 23 h6+ e7 24 f3 d3+ 25 h1 f2+ 26 xf2 Wxf2
+27 Wh7+ e6 28 Wg8+ e5 29 We8+ d4 30 Wc6, with advantage to White.
+2) 19...f7! (this move was suggested by Kovaliev, who considered that it
+saved Black's game, but his analysis did not take into account the important in--
+termediate move 20 b4!) 20 b4! and now:
+2a) 20...d7 21 xe6+ h7 (or 21...f6 22 c7! and White wins) 22 e1
+②f6 23 g5+ g8 24 ②xf7 xf7 25 e7+ xe7 26 Wxg7+ e6 27 g5 and
+White's attack cannot be withstood.
+2b) 20...②a4 21 h4! e5 22 h5+ f6 23 e1 e7 24 f4 exf4 25 h7+ f7
+26 xe7+ xe7 27 Wxg7+. White's attack is extremely strong and the advance
+of his h-pawn must be decisive. This analysis does not exhaust the position en-
+tirely but it does illustrate White's excellent chances.
+19...f6 20 臭f4! (D)
+[AA-p134-fig01]
+Keres had already analysed 16 Qxh7+ and its consequences before this game
+took place. At this point he gave the continuation 20 Wh4? on which Black plays
+This is a considerable exaggeration. After 25 fxe4 dxc1 W 26 axc 1 White has a
+material advantage and a strong attack -- indeed this line seems clearer than 23
+Qh6+.
+27...$d6 is a much better defence. After 28 f8+ e6 29 Wg8+ e5 White is
+2
+deprived of the check on e8 and so the position remains unclear.
+
+[PDF page 135]
+20..h8 and White gets no more than perpetual check. Kotov knew of this anal-
+ysis, which explains why he went in for 15.c5?. Now Kottnauer shows that
+White has a stronger move than 20 Wh4? and in doing so demonstrates that not
+even the analysis of great masters is always reliable.
+20...e7
+If 20...d7 White wins at once by 21 xe6 Wxe6 22 ae1 Wd5 23 Wg5+ f7
+24 e7+.
+21 ac1 a7
+If 21...b4, which rules out an attack by 22 b4, White plays 22 h7 f7 23
+Wg6 with the decisive threat of 24 g5.
+22 fe1 d7
+If 22...f6 White wins by 23 h7 f7 (or 23...e4 24 xe4) 24 xf6 xf6
+25 b4 etc.
+23 b4 a6 24 ②xe6 Ωxe6 25 Wxg7+ f7 26 g5+ +d7 27 Wh8 Wb8 28
+Wxd4+ 1-0
+Capablanca - Molina
+Buenos Aires, 1911
+Queen's Gambit Declined, Orthodox Defence
+1 d4 d5 2 c4 e6 3 c3 f6 4 g5 bd7 5 e3 c6 6 ②f3 e7 7 cxd5 ②xd5 8
+xe7 xe7
+Black's opening play is not to be taken as a model; on 7 cxd5 the reply 7...exd5
+would have been better, and at this point he should certainly have played
+8...Wxe7 instead of recalling his knight.
+9 Ωd3 c5 10 0-0 0-0 11 dxc5?!
+This move only has a point if the sacrifice on h7 is correct, otherwise it makes
+it easier for Black to equalize. Since the sacrifice is unsound, 11 c1 would have
+been the right course.
+11...xc5 12 xh7+?!
+The young victor from San Sebastian naturally does not consent to make a
+peaceful move like 12 Qe2 against an Argentine amateur. However unsound
+the sacrifice is, his opponent will see to it for himself that his own position is
+spoilt...
+12...xh7 13 g5+ g6 (D)
+Somewhat more convincing is 22 c7! Wc6 (forced, as the queen must defend
+both c5 and d6) 23 xe6! xe6 24 Wxg7+ e8 25 We5 with an easy win. The
+move 21...a7 is designed partly to prevent &c7.
+
+[PDF page 136]
+[AA-p136-fig01]
+Black is correct to choose the ..g6 variation and the reader - armed with the
+guidance given a few pages back - will notice that White's chances of success in
+this case are dubious, since he does not have the two necessary supporting pieces,
+but only one, and a fairly weak one at that (the knight on c3).
+14 Wg4 f5
+As a lover of fine combinations from his earliest youth, Capablanca here
+quotes the following continuation: 14...e5? 15 e6+ f6 16 f4! e4 (or 16...c6
+17 Wg5+ +xe6 18 f5+ d7 19 fd1+ ②d4 20 Wxg7 when White will get one
+piece back and have three pawns for his knight plus a winning attack against
+Black's exposed king) 17 Wg5+ xe6 18 We5+ +d7 19 fd1+ ②d3 20 2xe4
+$c6 21 xd3 Wxd3 22 c1+ and mate in a few moves.
+15 Wg3 h6?
+This game has entered the anthologies as one of Capablanca's famous feats
+because commentators have passed this obviously incorrect move by in silence.
+By 15...f6! Black could have shown that the bishop sacrifice was unsound.
+White can then still exert some pressure (after 16 ad1 Qd7 or 16 b4 a6), but
+he has not got the time to strengthen his attack decisively, since Black threatens
+to consolidate his position (e.g. 16 e4 g6 or 16 f4 Kh8). White must therefore
+take the exchange by 16 h7+ with the result that his attack comes to a halt,
+leaving him without sufficient compensation for Black's material advantage'.
+In addition to 15...f6!, another move which is better than the one played is
+15..f4, which would force White to play for a draw, i.e. 16 exf4 f5 17 Wg4
+Oh6 18 wg3 f5, etc².
+This comment is unjustified, since after 15..f6 16 ad1 Qd7 White wins by
+1
+17 b4 a6 18 e4.
+This comment is correct, so both 15...h6 and 15...f4 should lead to a draw.
+2
+
+[PDF page 137]
+16 Wh4+ g6 17 Wh7+ f6
+If 17..xg5 then 18 Wxg7+ h5 (or 18...g6 19 f4+) and White obtains a
+mating attack by 19 f4 or 19 e2.
+18 e4!
+In order, on 18...h8, to have the reply 19 e5+ xg5 20 f4+, etc. If 18...e5,
+then 19 ad1 We8 20 d6+ is strong.
+18...g6 (D)
+[AA-p137-fig01]
+19 exf5?
+This makes it easier for Black to defend himself and throws away the opportu-
+nity of e5+; it is uncertain whether White now has the advantage or not. Capa-
+blanca in his commentary correctly notes that 19 exf5 was not the best move, but
+he recommends instead 19 f4?, which would not have been good either; Black re-
+plies 19...Wd4+ (Capablanca only gives 19...fxe4? 20 ad1 Wb6, when White
+wins with 21 d6) 20 $h1 xe4 21 cxe4+ fxe4 22 ad1 Wa4, and White's at-
+tack begins to wane; moreover, Black threatens 23...h8'.
+Correct would have been at once 19 Zad1, with the following variations:
+1) 19...Wb6 is simply met by 20 exf5.
+2) 19...②d3 20 f4 Wd4+ (if 20...h8, then 21 e5+ wins) 21 h1 f2+ (or
+21...fxe4 22 cxe4+ $e7 23 Wxg6) 22 xf2 Wxf2 23 e5+ e7 24 Wxg7+ e8
+25 Wc7 and mates.
+3) 19...We8 20 f4 fxe4 21 cxe4+ xe4 22 xe4+ e7 (or 22...f5 23
+g3+² f6 24 h5+, etc.) 23 ②d6 and White wins.
+White has no trouble forcing a draw at the end of this line, for example by 23
+1
+c1 or 23 b3, but he cannot gain the advantage.
+23 Wh3+ xe4 24 Wd3# is quicker.
+2
+
+[PDF page 138]
+4) 19...Wxd1 20 xd1 h8 21 e5+ xg5 22 h4+ and White wins.
+19...exf5 20 ad1 d3!
+Against other moves 21 d5+ would be decisive; but White is now really
+threatened with ...h8 and has to withdraw his queen, which means that the
+strongest weapon in his attack has been beaten back.
+21 Wh3 のdf4?
+Black throws away his chance. With 21...gf4 (22 Wh4 h8) he could have
+given White a lot of trouble and perhaps even won the game.
+22 Wg3 Wc7 23 Efe1 (D)
+[AA-p138-fig01]
+23...Ze2+?
+This loses a piece, but Black would probably lose whatever he played'. Thus if
+23...e6, then 24 xe6+ xe6 25 d5#, while if 23...d7, White simplifies the
+position by 24 ②d5+! xd5 25 ②h7+ f7 26 Wxc7 ②xc7 27 xd7+ g8 28
+xf8 xf8 29 xc7.
+24 xe2 Wxg3 25 h7+
+The famous intermediate move!
+25...f7 26 hxg3 h8 27 g5+ f6 28 f4 1-0
+This game, here given a proper critical commentary for the first time, provides
+yet another blow against the legend of 'the infallible Cuban'.
+Another interesting point is that Capablanca often undertook attacks against
+the castled king in his earlier years, but extremely rarely as he became older. This
+was to a certain extent the result of the progressively greater ability of his
+The strongest defence is 23...d8!, which prevents 24 b5 owing to 24...e2+.
+1
+In this case White would have a draw at best.
+
+[PDF page 139]
+opponents and a general rise in standards, but it was perhaps even more because
+of a gradual waning of enthusiasm under the weight of increasing self-criticism.
+Unlike Capablanca, Alekhine played in his own style from his youth right till the
+end, accepting the risk of difficult attacks against the castled king even against
+strong opponents.
+Colle - O'Hanlon
+Nice, 1930
+Colle System
+1 d4 d5 2 2f3 f6 3 e3 c5 4 c3 e6 5 d3 d6 6 2bd2 2bd7 7 0-0 0-0 8 e1
+e8
+This does little harm, but 8...Wb6 is better, according to theory.
+9 e4 dxe4 10 ②xe4 xe4 11 xe4 cxd4 12 xh7+? (D)
+[AA-p139-fig01]
+A great lover of the classic sacrifice, Colle here too is unable to control his
+temperamental penchant for sacrifice, though even at a quick glance it is appar-
+ent that the presence of Black's knight on d7 is a danger in both the main varia-
+tions, while a valuable tempo is saved in the ...g8 variation by the rook's being
+on e8. Correct would have been either 12 xd4 or 12 cxd4 .
+12...xh7 13 g5+ g6
+So far all is well, since in the event of 13...g8 the sacrifice is half correct, that
+is, White can obtain a draw. After 13...g8 14 Wh5 e5 15 xe5 xe5 16
+Wxf7+ White can get perpetual check, but no more than that. Black is no better
+off if he tries a different line in this variation, e.g. 14...Wf6 (instead of 14...e5)
+As we shall see, Vukovic is far too pessimistic about this sacrifice.
+
+[PDF page 140]
+15 Wh7+ f8 16 e4 We5 17 cxd4, whereupon 17..Wxh2+ is forced, for
+17...Wd5 is not feasible because of 18 Wh8+ e7 19 g5+ f6 20 Wxg7+, with a
+massacre of Black's pawns'.
+14...f6? is very weak indeed on account of 15 Wxf7+ h8 16 e4.
+14 h4 (D)
+Obviously, this is the only continuation which can present Black with any dif-
+ficulties; 14 Wg4 holds out no prospects here because of the reply 14...f5 15 Wh4
+②f6.
+[AA-p140-fig01]
+14...h8?
+The decisive mistake. Black was probably only reckoning on 15 Wd3+ f5 16
+xe6+ f6, and did not see that White also had 15 xe6+!. Correct was 14...f5!
+15 h5+ (or 15 xe6 Wxh4 16 f4+ xf4 17 xe8 Wh2+ 18 f1 Wh1+ 19 e2
+Wxd1+ 20 xd1 e5! and Black stands better) 15...f6 16 Wxd4+ Qe5 17
+xe52 xe5 18 h7+ +f7 19 g5+ g8 20 Wxe5 Wd1+ when Black is the ex-
+change ahead and should win.
+15 xe6+! f6 (D)
+First of all, Vukovic's line 13...g8 14 Wh5 e5 15 xe5 xe5 16 Wxf7+ is
+not a draw, but a forced win for White after 16...h8 17 Wh5+ g8 18 b3, and
+the arrival of the bishop on a3 completes the mating net. His other suggestion,
+14...Wf6 15 Wh7+ f8 16 e4 We5 is in fact Black's best defence, but even
+here White need not take the draw, but can very well play for a win by 17 f4!
+Wd5 18 c4 Wc6 19 f5!. After 19...f6 20 xf6 gxf6 21 g5!, for example,
+White has an extremely dangerous attack. Thus Colle's sacrifice gives White a
+very promising attack even against perfect defence, so Vukovic's acerbic com-
+ments regarding Colle's play (see page 121) seem rather unjustified.
+
+[PDF page 141]
+If 15...fxe6 then 16 Wd3+ wins, e.g. 16...h5 17 g4+ followed by a quick
+mate or 16...f6 17 Wf3+ f4 18 Wxf4+ with a slightly delayed, though still re-
+lentless, pursuit ending in mate.
+[AA-p141-fig01]
+16 h5+ h6
+Or 16...xh5 17 wd3+ and 18 Wh7#.
+17 xd6 Wa5 18 xf7+ h7 19 g5+ g8 20 Wb3+ 1-0
+We have used this game to illustrate a case where the classic bishop sacrifice
+was incorrect. The tournament jury, however, awarded it the First Brilliancy
+Prize. This was immediately after Alekhine's reign of terror at San Remo and be-
+fore the Carnival.
+17 Wh4! is a huge improvement which leaves Black defenceless, e.g. 17...Wa5
+2
+(17...e7 18 Wb4+ f6 19 f4 Qc7 20 Wd4+ e5 21 Wc4 mates) 18 f4 c7 19
+xe6+ $f7 20 2g5+ f8 21 xe8+ xe8 22 We1+ f8 23 We6 Wc5+ 24
+e3 We7 25 h6 and wins.

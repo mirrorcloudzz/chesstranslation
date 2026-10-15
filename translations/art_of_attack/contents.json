@@ -1,0 +1,156 @@
+[
+  {
+    "id": "front",
+    "title": "Front and back covers",
+    "pdf_start": 1,
+    "pdf_end": 2,
+    "print_start": null,
+    "print_end": null
+  },
+  {
+    "id": "contents",
+    "title": "Contents",
+    "pdf_start": 3,
+    "pdf_end": 3,
+    "print_start": 3,
+    "print_end": 3
+  },
+  {
+    "id": "symbols",
+    "title": "Symbols",
+    "pdf_start": 4,
+    "pdf_end": 4,
+    "print_start": 4,
+    "print_end": 4
+  },
+  {
+    "id": "preface",
+    "title": "Preface by John Nunn",
+    "pdf_start": 5,
+    "pdf_end": 5,
+    "print_start": 5,
+    "print_end": 5
+  },
+  {
+    "id": "introduction",
+    "title": "Introduction",
+    "pdf_start": 6,
+    "pdf_end": 13,
+    "print_start": 6,
+    "print_end": 13
+  },
+  {
+    "id": "ch01",
+    "title": "The attack against the uncastled king",
+    "pdf_start": 14,
+    "pdf_end": 27,
+    "print_start": 14,
+    "print_end": 27
+  },
+  {
+    "id": "ch02",
+    "title": "The attack on the king that has lost the right to castle",
+    "pdf_start": 28,
+    "pdf_end": 50,
+    "print_start": 28,
+    "print_end": 50
+  },
+  {
+    "id": "ch03",
+    "title": "On castling and attacking the castled position in general",
+    "pdf_start": 51,
+    "pdf_end": 65,
+    "print_start": 51,
+    "print_end": 65
+  },
+  {
+    "id": "ch04",
+    "title": "Mating patterns",
+    "pdf_start": 66,
+    "pdf_end": 79,
+    "print_start": 66,
+    "print_end": 79
+  },
+  {
+    "id": "ch05",
+    "title": "Focal-points",
+    "pdf_start": 80,
+    "pdf_end": 120,
+    "print_start": 80,
+    "print_end": 120
+  },
+  {
+    "id": "ch06",
+    "title": "The classic bishop sacrifice",
+    "pdf_start": 121,
+    "pdf_end": 141,
+    "print_start": 121,
+    "print_end": 141
+  },
+  {
+    "id": "ch07",
+    "title": "Ranks, files, and diagonals in the attack on the castled king",
+    "pdf_start": 142,
+    "pdf_end": 182,
+    "print_start": 142,
+    "print_end": 182
+  },
+  {
+    "id": "ch08",
+    "title": "Pieces and pawns in the attack on the castled king",
+    "pdf_start": 183,
+    "pdf_end": 230,
+    "print_start": 183,
+    "print_end": 230
+  },
+  {
+    "id": "ch09",
+    "title": "The attack on the fianchettoed and queenside castling positions",
+    "pdf_start": 231,
+    "pdf_end": 246,
+    "print_start": 231,
+    "print_end": 246
+  },
+  {
+    "id": "ch10",
+    "title": "Defending against the attack on the castled king",
+    "pdf_start": 247,
+    "pdf_end": 292,
+    "print_start": 247,
+    "print_end": 292
+  },
+  {
+    "id": "ch11",
+    "title": "The phases of the attack on the castled king",
+    "pdf_start": 293,
+    "pdf_end": 333,
+    "print_start": 293,
+    "print_end": 333
+  },
+  {
+    "id": "ch12",
+    "title": "The attack on the king as an integral part of the game",
+    "pdf_start": 334,
+    "pdf_end": 349,
+    "print_start": 334,
+    "print_end": 349
+  },
+  {
+    "id": "players",
+    "title": "Index of Players",
+    "pdf_start": 350,
+    "pdf_end": 352,
+    "print_start": 350,
+    "print_end": 352,
+    "last_page_region": "y < 1380 in native 1725 x 2475 bitmap"
+  },
+  {
+    "id": "openings",
+    "title": "Index of Openings",
+    "pdf_start": 352,
+    "pdf_end": 352,
+    "print_start": 352,
+    "print_end": 352,
+    "first_page_region": "y >= 1380 in native 1725 x 2475 bitmap"
+  }
+]

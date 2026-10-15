@@ -1,0 +1,39 @@
+Symbols
+
+
+[PDF page 4]
+Symbols
+check
++
+checkmate
+#
+capture
+X
+brilliant move
+!!
+!
+good move
+!?
+interesting move
+dubious move
+?!
+bad move
+？
+??
+blunder
+championship
+Ch
+Ct
+candidates event
+OL
+olympiad
+1-0
+the game ends in a win for White
+the game ends in a draw
+1/2-1/2
+the game ends in a win for Black
+0-1
+(n)
+nth match game
+(D)
+see next diagram

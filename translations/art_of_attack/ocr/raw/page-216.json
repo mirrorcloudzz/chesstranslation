@@ -1,0 +1,290 @@
+{
+  "pdf_page": 216,
+  "printed_page": 216,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "216",
+      "bbox": [
+        254.0,
+        132.0,
+        317.0,
+        164.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 Af5 xe8",
+      "bbox": [
+        300.0,
+        277.0,
+        499.0,
+        311.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        680.0,
+        133.0,
+        1174.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Kmoch, in his fine book on Rubinstein, thinks that even here ...a6 and ...b5",
+      "bbox": [
+        299.0,
+        332.0,
+        1569.0,
+        367.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "would have been better, but the black pawn can hardly reach b4, since after",
+      "bbox": [
+        253.0,
+        382.0,
+        1571.0,
+        421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12...a6 13 g4 there is an immediate threat of Axf6 followed by g5, picking up the",
+      "bbox": [
+        256.0,
+        428.0,
+        1570.0,
+        472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "booty on h7. If, for example, Black plays 13...g6 then 14 Axd7 followed at once",
+      "bbox": [
+        252.0,
+        478.0,
+        1570.0,
+        521.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by Ah6 gives White a strong initiative.",
+      "bbox": [
+        252.0,
+        528.0,
+        896.0,
+        571.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The text move prepares the way for ...Qf8, so White immediately takes the",
+      "bbox": [
+        296.0,
+        578.0,
+        1570.0,
+        623.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "knight on f6 to prevent this.",
+      "bbox": [
+        252.0,
+        633.0,
+        709.0,
+        671.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13 Axf6 Oxf6 14 g4!",
+      "bbox": [
+        299.0,
+        678.0,
+        655.0,
+        721.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Thus a 'small avalanche' is formed on the fourth rank. Soon it will become",
+      "bbox": [
+        296.0,
+        733.0,
+        1569.0,
+        765.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'great' on the fifth, and finally 'terrible' when it reaches the sixth en masse.",
+      "bbox": [
+        254.0,
+        783.0,
+        1499.0,
+        822.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14...Ad6 15 g5 Qe4 16 h5",
+      "bbox": [
+        298.0,
+        829.0,
+        742.0,
+        871.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The fifth rank has been reached without Black having moved an inch on the",
+      "bbox": [
+        295.0,
+        883.0,
+        1568.0,
+        923.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queenside.",
+      "bbox": [
+        250.0,
+        934.0,
+        423.0,
+        971.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If Black now plays 16...Qxg5, there follows 17 Oxg5 Vxg5 18 Axh7+",
+      "bbox": [
+        296.0,
+        979.0,
+        1487.0,
+        1024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19 h6! gxh6 20 Xdgl, etc.",
+      "bbox": [
+        254.0,
+        1031.0,
+        680.0,
+        1073.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...Ve7 17 Ädgl a6 (D)",
+      "bbox": [
+        297.0,
+        1079.0,
+        715.0,
+        1122.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black reckons that nothing is threatened and devotes a tempo to his slow coun-",
+      "bbox": [
+        291.0,
+        1790.0,
+        1563.0,
+        1834.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "terattack on the queenside. Admittedly, White would get nowhere by moving his",
+      "bbox": [
+        245.0,
+        1841.0,
+        1563.0,
+        1886.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawns at this point: if 18 h6, the position is blocked by 18...g6; while if 18 g6,",
+      "bbox": [
+        244.0,
+        1892.0,
+        1562.0,
+        1936.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then 18...fxg6 followed by ...h6. However, White has another device, namely the",
+      "bbox": [
+        244.0,
+        1942.0,
+        1563.0,
+        1986.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sacrifice of his bishop, which enables the pawns to go ahead happily and without",
+      "bbox": [
+        245.0,
+        1991.0,
+        1563.0,
+        2035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "any fear of being blocked.",
+      "bbox": [
+        244.0,
+        2042.0,
+        675.0,
+        2081.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18 Axh7+! #xh7 19 g6+",
+      "bbox": [
+        291.0,
+        2088.0,
+        715.0,
+        2132.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 19...fxg6 20 Qxe4 dxe4 21 Og5+ and if 21...#g8 then 22 Vxc4+ or if",
+      "bbox": [
+        289.0,
+        2139.0,
+        1565.0,
+        2186.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...#h6, then 22 hf7+ Vxf7 23 hxg6+ mating.",
+      "bbox": [
+        244.0,
+        2189.0,
+        1051.0,
+        2235.0
+      ],
+      "confidence": null
+    }
+  ]
+}

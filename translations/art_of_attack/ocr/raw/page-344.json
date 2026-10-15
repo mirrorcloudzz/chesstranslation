@@ -1,0 +1,300 @@
+{
+  "pdf_page": 344,
+  "printed_page": 344,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "344",
+      "bbox": [
+        244.0,
+        129.0,
+        307.0,
+        160.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        670.0,
+        130.0,
+        1165.0,
+        170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "x",
+      "bbox": [
+        662.0,
+        301.0,
+        707.0,
+        352.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "X",
+      "bbox": [
+        928.0,
+        302.0,
+        972.0,
+        353.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "stresses Black's inability to stop the advance of the h-pawn while White is tying",
+      "bbox": [
+        241.0,
+        882.0,
+        1558.0,
+        924.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "him down on the queenside.",
+      "bbox": [
+        240.0,
+        932.0,
+        705.0,
+        971.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24...Xac8 25 xc4 26 Xhcl 27 h4 f5",
+      "bbox": [
+        285.0,
+        978.0,
+        1058.0,
+        1015.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Capablanca had reckoned on the following transition into a won ending:",
+      "bbox": [
+        284.0,
+        1032.0,
+        1556.0,
+        1077.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "27...xc7 28 h5 Äec8 29 h6 Ad6 30 Vxa5+ 31 xxc7 xxc7 32 Äxc7 Axc7",
+      "bbox": [
+        240.0,
+        1079.0,
+        1557.0,
+        1119.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "33 f4 Ad8 34 g4 Af6 35 g5 Ah8 36 e4 37 f5 followed by g6-g7.",
+      "bbox": [
+        240.0,
+        1129.0,
+        1402.0,
+        1177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "28 Vg7 xe7 29 ve5 xc6",
+      "bbox": [
+        284.0,
+        1178.0,
+        707.0,
+        1222.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This loses at once, but 29...Äec7 has no future either in view of 30 h5.",
+      "bbox": [
+        283.0,
+        1233.0,
+        1448.0,
+        1271.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "30 Xxc5 1-0",
+      "bbox": [
+        283.0,
+        1281.0,
+        489.0,
+        1315.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "For, if 30...Äxc5 then 31 Vd6+ is decisive.",
+      "bbox": [
+        283.0,
+        1332.0,
+        993.0,
+        1369.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Capablanca's virtuosity in integrating all the features of the position into a co-",
+      "bbox": [
+        283.0,
+        1385.0,
+        1555.0,
+        1429.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "herent whole is worthy of close attention.",
+      "bbox": [
+        237.0,
+        1436.0,
+        923.0,
+        1475.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Alekhine - Kmoch",
+      "bbox": [
+        721.0,
+        1538.0,
+        1068.0,
+        1571.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "San Remo, 1930",
+      "bbox": [
+        760.0,
+        1591.0,
+        1031.0,
+        1625.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Nimzo-Indian Defence",
+      "bbox": [
+        704.0,
+        1642.0,
+        1085.0,
+        1673.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 d4 Qf6 2 c4 e6 3 Ab4 4 Ad2",
+      "bbox": [
+        238.0,
+        1734.0,
+        851.0,
+        1772.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "One of the most harmless continuations.",
+      "bbox": [
+        281.0,
+        1790.0,
+        947.0,
+        1823.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...O-0 5 e3 d5 6 hf3 c5 7 a3 Axc3 8 Axc3 9 10 xxc3 cxd4",
+      "bbox": [
+        280.0,
+        1837.0,
+        1555.0,
+        1877.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11 exd4 Qc6 12 Ae2",
+      "bbox": [
+        237.0,
+        1886.0,
+        592.0,
+        1922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 12 c5 then Black can immediately play 12...e5.",
+      "bbox": [
+        280.0,
+        1942.0,
+        1095.0,
+        1984.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12...dxc4 13 Axc4 Vf6",
+      "bbox": [
+        282.0,
+        1988.0,
+        674.0,
+        2024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White has not achieved very much in the opening. In view of the reduction in",
+      "bbox": [
+        279.0,
+        2043.0,
+        1554.0,
+        2085.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "material his spatial advantage offers no more than approximate compensation for",
+      "bbox": [
+        234.0,
+        2094.0,
+        1555.0,
+        2137.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the isolated pawn.",
+      "bbox": [
+        234.0,
+        2144.0,
+        532.0,
+        2183.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 0-0 Xd8 15 Zd3 Ad7 16 zel",
+      "bbox": [
+        281.0,
+        2191.0,
+        824.0,
+        2226.0
+      ],
+      "confidence": null
+    }
+  ]
+}

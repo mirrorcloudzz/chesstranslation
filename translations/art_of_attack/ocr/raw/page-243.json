@@ -1,0 +1,380 @@
+{
+  "pdf_page": 243,
+  "printed_page": 243,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The attack on the fianchettoed and queenside castling positions 243",
+      "bbox": [
+        326.0,
+        135.0,
+        1530.0,
+        178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The following game serves as a demonstration both of how castling queenside",
+      "bbox": [
+        258.0,
+        283.0,
+        1533.0,
+        325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "forms part of a plan of development and of how an attack can be carried out",
+      "bbox": [
+        214.0,
+        333.0,
+        1535.0,
+        376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "against such a position.",
+      "bbox": [
+        215.0,
+        387.0,
+        599.0,
+        427.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Lasker - Marshall",
+      "bbox": [
+        706.0,
+        483.0,
+        1041.0,
+        516.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "St. Petersburg Final, 1914",
+      "bbox": [
+        657.0,
+        535.0,
+        1090.0,
+        573.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Petroff Defence",
+      "bbox": [
+        743.0,
+        586.0,
+        1004.0,
+        616.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 e4 e5 2 Of3 Qf6 3 Qxe5 d6 4 Qf3 5 ve2",
+      "bbox": [
+        218.0,
+        680.0,
+        1060.0,
+        719.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Morphy's old move; it is sound enough, though it gives White no more than a",
+      "bbox": [
+        260.0,
+        735.0,
+        1536.0,
+        778.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "microscopic advantage.",
+      "bbox": [
+        216.0,
+        790.0,
+        605.0,
+        828.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...ve7 6 d3 hf6 7 Ag5 Ae6?!",
+      "bbox": [
+        261.0,
+        834.0,
+        789.0,
+        876.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Correct, of course, is 7...Vxe2+ 8 Axe2 Ae7 or 7...hbd7. Avoiding the ex-",
+      "bbox": [
+        261.0,
+        881.0,
+        1534.0,
+        925.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "change of queens favours White, whose position is the better developed. One",
+      "bbox": [
+        216.0,
+        936.0,
+        1536.0,
+        979.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "might say that Lasker knew which opponents it paid to play drawing variations",
+      "bbox": [
+        216.0,
+        987.0,
+        1535.0,
+        1029.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "against!",
+      "bbox": [
+        217.0,
+        1042.0,
+        343.0,
+        1080.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 Qc3 Qbd7 9 0-0-0",
+      "bbox": [
+        262.0,
+        1086.0,
+        613.0,
+        1121.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Castling on the queenside is completely justified in this position, where the",
+      "bbox": [
+        262.0,
+        1138.0,
+        1536.0,
+        1180.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishop is hemmed in at fl. Moreover, on the d-file the rook supports the d-pawn",
+      "bbox": [
+        217.0,
+        1189.0,
+        1536.0,
+        1231.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in moving to d4 and then threatening to advance to d5.",
+      "bbox": [
+        217.0,
+        1241.0,
+        1121.0,
+        1282.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9...h6 10 Ah4 g5 11 Ag3 Qh5 12 d4 Qxg3 13 hxg3 g4 14 Qh4!?",
+      "bbox": [
+        262.0,
+        1286.0,
+        1375.0,
+        1331.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A risky and adventurous move, typical of Lasker's play in the middlegame.",
+      "bbox": [
+        263.0,
+        1341.0,
+        1535.0,
+        1382.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The knight clearly has no good way of getting away from the h4-square, a cir-",
+      "bbox": [
+        217.0,
+        1392.0,
+        1535.0,
+        1433.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cumstance which could have helped Black to equalize. Better would have been",
+      "bbox": [
+        218.0,
+        1443.0,
+        1536.0,
+        1482.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 Qd2.",
+      "bbox": [
+        222.0,
+        1490.0,
+        354.0,
+        1525.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14...d5?",
+      "bbox": [
+        265.0,
+        1546.0,
+        398.0,
+        1576.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A decisive mistake. Black should have played 14...Qb6! and if 15 d5 then",
+      "bbox": [
+        263.0,
+        1589.0,
+        1537.0,
+        1633.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15...Ad7. Against other attempts by White, the reply ...Vg5 plays an important",
+      "bbox": [
+        222.0,
+        1639.0,
+        1539.0,
+        1685.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "part. However, moves like 14...Qb6! were not to Marshall's taste. What he really",
+      "bbox": [
+        218.0,
+        1691.0,
+        1537.0,
+        1736.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "enjoyed was setting a trap for his opponent!",
+      "bbox": [
+        218.0,
+        1747.0,
+        942.0,
+        1787.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 Vb5! 0-0-0 (D)",
+      "bbox": [
+        266.0,
+        1793.0,
+        577.0,
+        1835.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Castling is forced, since 15...Vb4 comes to grief after 16 Oxd5 Vxb5 17",
+      "bbox": [
+        264.0,
+        1841.0,
+        1537.0,
+        1887.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qxc7+. It was probably because of this trap that Marshall played 14...d5?, but",
+      "bbox": [
+        219.0,
+        1895.0,
+        1540.0,
+        1938.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Lasker naturally refuses to be diverted by the d-pawn and calmly plays for an at-",
+      "bbox": [
+        219.0,
+        1948.0,
+        1538.0,
+        1989.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack on the castled position with 16 Va51.",
+      "bbox": [
+        219.0,
+        1989.0,
+        914.0,
+        2039.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Vukovié doesn't actually say what the trap is — the point is that after 15...0-0-0,",
+      "bbox": [
+        224.0,
+        2108.0,
+        1538.0,
+        2145.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 oxd5 fails to 16...Axd5 17 Vxd5 Vg5+ 18 Vxg5 hxg5 and the knight is",
+      "bbox": [
+        307.0,
+        2151.0,
+        1540.0,
+        2193.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lost.",
+      "bbox": [
+        303.0,
+        2207.0,
+        366.0,
+        2235.0
+      ],
+      "confidence": null
+    }
+  ]
+}

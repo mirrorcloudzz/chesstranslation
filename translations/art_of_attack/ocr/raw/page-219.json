@@ -1,0 +1,290 @@
+{
+  "pdf_page": 219,
+  "printed_page": 219,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        439.0,
+        132.0,
+        1389.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "219",
+      "bbox": [
+        1502.0,
+        132.0,
+        1565.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black does not appreciate the real nature of the position and is not taking",
+      "bbox": [
+        291.0,
+        280.0,
+        1565.0,
+        319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "measures to obtain counterplay at the right time by means of an outpost on one of",
+      "bbox": [
+        245.0,
+        329.0,
+        1569.0,
+        369.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the central squares. He even surrenders control of the important e4 and e5",
+      "bbox": [
+        246.0,
+        380.0,
+        1564.0,
+        420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "squares to White, and as a result suddenly comes up against the storm of an at-",
+      "bbox": [
+        247.0,
+        430.0,
+        1565.0,
+        471.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack on his castled king. The correct course was 8...cxd4 9 exd4 Qxe5 10 dxe5",
+      "bbox": [
+        246.0,
+        475.0,
+        1565.0,
+        520.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qd7 11 Vh5 f5! when Black can meet 12 f3 by 12...Vc7 and 12 g4 by 12...Qc5",
+      "bbox": [
+        246.0,
+        525.0,
+        1565.0,
+        569.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13 Ac2 Qe4.",
+      "bbox": [
+        250.0,
+        577.0,
+        467.0,
+        613.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "B",
+      "bbox": [
+        554.0,
+        835.0,
+        575.0,
+        861.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Throughout the opening stage of the game the conditions required to justify a",
+      "bbox": [
+        292.0,
+        1336.0,
+        1569.0,
+        1375.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'bayonet attack' have been gradually accumulating. One group of these condi-",
+      "bbox": [
+        251.0,
+        1387.0,
+        1566.0,
+        1426.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tions has already been noted in the shape of Black's inferior moves and his lack",
+      "bbox": [
+        247.0,
+        1438.0,
+        1569.0,
+        1476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of concern to control at least one of the important squares e5 and e4. The other",
+      "bbox": [
+        248.0,
+        1489.0,
+        1569.0,
+        1527.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "group can be revealed by an analysis of the structure of White's position. This is",
+      "bbox": [
+        248.0,
+        1539.0,
+        1568.0,
+        1578.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "clearly distinguished by good piece play together with a modest but sound pawn",
+      "bbox": [
+        247.0,
+        1590.0,
+        1568.0,
+        1629.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "formation in the centre. Indeed, its essence lies in the very soundness of the for-",
+      "bbox": [
+        247.0,
+        1640.0,
+        1567.0,
+        1679.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mation c3, d4, and e3, with the strong protection which it gives to the square d4.",
+      "bbox": [
+        247.0,
+        1691.0,
+        1567.0,
+        1730.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If this solidity in the centre did not exist, Black would be able at the last moment",
+      "bbox": [
+        247.0,
+        1741.0,
+        1570.0,
+        1780.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to organize a counterattack in the centre as an answer to White's attack on his",
+      "bbox": [
+        247.0,
+        1792.0,
+        1568.0,
+        1831.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "castled king.",
+      "bbox": [
+        247.0,
+        1843.0,
+        455.0,
+        1881.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "His security against such a central counterattack — generally the main weapon",
+      "bbox": [
+        293.0,
+        1893.0,
+        1569.0,
+        1933.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in an active defence against an attack on the castled king — gives White great free-",
+      "bbox": [
+        247.0,
+        1944.0,
+        1568.0,
+        1983.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "dom in his attack on the castled position and is basically the main justification for",
+      "bbox": [
+        247.0,
+        1994.0,
+        1570.0,
+        2033.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the move 9 g4!.",
+      "bbox": [
+        247.0,
+        2045.0,
+        504.0,
+        2083.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9...Qxe5",
+      "bbox": [
+        292.0,
+        2090.0,
+        439.0,
+        2125.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 9...Qd7 White will continue with g5 as in the game.",
+      "bbox": [
+        293.0,
+        2140.0,
+        1196.0,
+        2184.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10 dxe5 Qd7 11 g5! Qf8",
+      "bbox": [
+        295.0,
+        2190.0,
+        719.0,
+        2233.0
+      ],
+      "confidence": null
+    }
+  ]
+}

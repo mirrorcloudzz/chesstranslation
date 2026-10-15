@@ -1,0 +1,39 @@
+Preface by John Nunn
+
+
+[PDF page 5]
+Preface by John Nunn
+Attacking the enemy king is one of the most exciting parts of chess, but it is also
+one of the hardest to play accurately. Every chess player has had the experience
+of seeing a promising-looking attack crumble into dust, whereupon the enemy
+counter-attack sweeps aside everything in its path. Vukovic's excellent book The
+Art of Attack in Chess is a thought-provoking attempt to explain why some at-
+tacks succeed while other fail to reach their goal. The author himself points out
+that not everything in chess can be reduced to a set of rules, but the general prin-
+ciples he establishes in this book provide excellent guidance on when to launch
+an attack and how to ensure that it has the maximum chance of success.
+As usual with classic books I have edited, I will take a little time to explain ex-
+actly how I have prepared this new edition. First and foremost is the conversion
+to algebraic notation. In addition to this, I have added 128 extra diagrams and in
+some cases, where it seemed appropriate, I have added further moves from the
+quoted games (for example, by giving the actual finish instead of 'and White won
+in another ten moves'). I have lightly edited the rather ponderous English of the
+original translation, and brought the method of displaying variations into line
+with current practice. The index of the original book included only complete
+games, but I have also indexed the game excerpts. In two of the complete games,
+Alekhine-Asztalos and Alekhine-Kmoch, I have brought the moves of the game
+into line with the move-order given in the original tournament books.
+There are also a fair number of analytical footnotes (readers should note that
+where there is no room for a footnote on a particular page, the footnote appears
+On the following page). I hope readers will not form the opinion that Vukovie's
+analysis was especially unsound -- this is certainly not the case. The fact is that
+most authors are prepared to quote the annotations of famous players uncriti-
+cally, but Vukovic brought his own talents to bear and subjected all the positions
+to careful analysis. Quite often the results were startling; in the well-known game
+Alekhine-Botvinnik, Nottingham 1936 he found a flaw which had eluded the
+many annotators who simply accepted the version of events Alekhine gave in the
+tournament book. Inevitably, the high percentage of original analysis implies a
+greater risk of the occasional slip, but personally I far prefer original comment to
+a bland recital of the *party line'. In any case, it is Vukovic's general principles
+which will prove of most value to the practical player, and here there can be no
+argument about the enduring quality of his work.

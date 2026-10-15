@@ -1,0 +1,270 @@
+{
+  "pdf_page": 29,
+  "printed_page": 29,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        372.4,
+        123.5,
+        1394.2,
+        168.4
+      ],
+      "text": "The attack on the king that has lost the right to castle",
+      "confidence": 0.9732
+    },
+    {
+      "bbox": [
+        1486.1,
+        122.3,
+        1536.3,
+        164.7
+      ],
+      "text": "29",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        254.8,
+        268.2,
+        1536.3,
+        313.1
+      ],
+      "text": "Unavoidable, since if 13 d2, then 13..xe3 14 xa5 xd1, and Black wins",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        208.3,
+        311.9,
+        1351.3,
+        373.0
+      ],
+      "text": "a piece; this also happens after 13 Wd2 xe3 14 Wxa5 xg2+, etc.",
+      "confidence": 0.9711
+    },
+    {
+      "bbox": [
+        256.1,
+        371.7,
+        912.7,
+        412.9
+      ],
+      "text": "13...2db4 14 xf5 Wxf5 15 g4 d3+",
+      "confidence": 0.94
+    },
+    {
+      "bbox": [
+        254.8,
+        421.6,
+        1536.3,
+        464.1
+      ],
+      "text": "The second act (a short one) starts: the king has to move again. White decides",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        213.2,
+        470.3,
+        1536.3,
+        514.0
+      ],
+      "text": "on 16 g3?, a weak move, but even after the stronger 16 f1, Black retains the",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        211.9,
+        520.2,
+        643.2,
+        568.9
+      ],
+      "text": "advantage with 16...Wb5.",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        256.1,
+        567.6,
+        480.3,
+        620.0
+      ],
+      "text": "16 g3? (D)",
+      "confidence": 0.9767
+    },
+    {
+      "bbox": [
+        520.7,
+        777.2,
+        546.4,
+        809.6
+      ],
+      "text": "B",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        259.7,
+        1276.2,
+        1536.3,
+        1317.3
+      ],
+      "text": "16...xd4! 17 gxf5 xf5+ 0-1 as Black mates in 2 moves : 18 g4 h5+ 19",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        214.4,
+        1323.6,
+        1540.0,
+        1371.0
+      ],
+      "text": "h3 (or 19 g5 h6#) 19...f2# (As an old chess player said on a similar occa-",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        211.9,
+        1376.0,
+        1362.4,
+        1422.1
+      ],
+      "text": "sion, 'He's lucky to be mated, otherwise he would lose his queen...').",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        256.1,
+        1474.5,
+        1540.0,
+        1524.4
+      ],
+      "text": "We called hunting the king about the board 'the second act of the drama'.",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        213.2,
+        1528.2,
+        1540.0,
+        1571.8
+      ],
+      "text": "However, it must be stressed that it is not the actual fact that the king has to move",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        213.2,
+        1578.1,
+        1538.8,
+        1624.2
+      ],
+      "text": "about that is of prime importance, but the extent to which its position is weak-",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        211.9,
+        1628.0,
+        1537.6,
+        1674.1
+      ],
+      "text": "ened. Instead of travelling all over the board it may happen that the king merely",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        211.9,
+        1681.6,
+        1540.0,
+        1722.8
+      ],
+      "text": "roams a little and gets itself tied up in a small space of two or three squares, while",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        215.6,
+        1731.5,
+        1536.3,
+        1772.7
+      ],
+      "text": "the opponent harries it with checks and thus manages to bring up his pieces with",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        213.2,
+        1777.7,
+        1540.0,
+        1827.6
+      ],
+      "text": "gain of time. A typical case where checks help to 'nourish the development of the",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        214.4,
+        1833.8,
+        915.2,
+        1875.0
+      ],
+      "text": "attack' arises in the following short game:",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        638.3,
+        1929.9,
+        1116.1,
+        1973.5
+      ],
+      "text": "Clemens - Eisenschmidt",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        710.6,
+        1982.2,
+        1041.4,
+        2025.9
+      ],
+      "text": "St Petersburg, 1890",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        753.5,
+        2032.1,
+        997.3,
+        2073.3
+      ],
+      "text": "Evans Gambit",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        214.4,
+        2129.4,
+        1538.8,
+        2173.1
+      ],
+      "text": "1 e4 e5 2 f3 c6 3 且c4 c5 4 b4 xb4 5 c3 皇c5 6 d4 exd4 7 cxd4 b6 8 0-0",
+      "confidence": 0.939
+    },
+    {
+      "bbox": [
+        213.2,
+        2175.6,
+        1133.3,
+        2230.5
+      ],
+      "text": "d6 9 c3 d7? 10 e5 dxe5 11 μe1 ge7 12 g5 (D)",
+      "confidence": 0.9761
+    }
+  ]
+}

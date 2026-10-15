@@ -1,0 +1,280 @@
+{
+  "pdf_page": 208,
+  "printed_page": 208,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "208",
+      "bbox": [
+        264.0,
+        119.0,
+        326.0,
+        150.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        690.0,
+        121.0,
+        1185.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Keres did not notice the stronger move 23 Qd4! either during the game or in",
+      "bbox": [
+        309.0,
+        267.0,
+        1581.0,
+        314.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "his commentary. Moving the knight to g5 keeps up the tempo of the attack but",
+      "bbox": [
+        262.0,
+        319.0,
+        1582.0,
+        363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "leads to no more than a skirmish on the focal-points h7 and f 7, whereas moving it",
+      "bbox": [
+        262.0,
+        369.0,
+        1581.0,
+        415.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to d4, although less immediately forceful, opens up the more productive prospect",
+      "bbox": [
+        262.0,
+        419.0,
+        1581.0,
+        465.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of play against the focal-point g7, which is quite clearly the weakest point in",
+      "bbox": [
+        261.0,
+        469.0,
+        1579.0,
+        514.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's castled position.",
+      "bbox": [
+        261.0,
+        519.0,
+        662.0,
+        558.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 23 hd4! Black is virtually obliged to continue 23...Qf8 24 Ac2 Qg6 25",
+      "bbox": [
+        306.0,
+        564.0,
+        1577.0,
+        615.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axg6 fxg6 when 26 öe6 wins the exchange, leaving him with insufficient com-",
+      "bbox": [
+        260.0,
+        614.0,
+        1578.0,
+        663.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pensation in return. Black's other continuations are weaker, e.g. 23...Qc5",
+      "bbox": [
+        259.0,
+        671.0,
+        1577.0,
+        715.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(23...Qxe5? 24 Äxe5 Vxe5 does not work because of 25 Vxd8+) 24 Qf5 Qe4 (if",
+      "bbox": [
+        260.0,
+        715.0,
+        1582.0,
+        764.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24...öxb3, White wins by 25 Vg5) 25 Äxe4 dxe4 26 Vg5 (or 26...g6 27 e6",
+      "bbox": [
+        260.0,
+        765.0,
+        1578.0,
+        816.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ad51 28 Axd5 followed by Qe7+ and Qxd5, etc.) 27 Vxg7+ 28 e6 fxe6 29",
+      "bbox": [
+        259.0,
+        810.0,
+        1577.0,
+        865.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg8+ and 30 Vxe6#.",
+      "bbox": [
+        258.0,
+        865.0,
+        617.0,
+        909.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23...Qf8?",
+      "bbox": [
+        297.0,
+        1569.0,
+        461.0,
+        1605.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The move which loses the game. Correct was 23...h6 after which there is some",
+      "bbox": [
+        296.0,
+        1625.0,
+        1570.0,
+        1667.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "doubt whether White can win. Keres carries on from 23...h6 with, among other",
+      "bbox": [
+        251.0,
+        1675.0,
+        1571.0,
+        1725.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "continuations, 24 e6 hxg5 25 exf7+ *xf7 26 Xe7+ •g8 27 Vh5 (if 27 Vxg5 or",
+      "bbox": [
+        250.0,
+        1726.0,
+        1571.0,
+        1777.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "27 Vd4, Black plays 27...Vc3, while 27 Äxg7+ exg7 28 Vxg5+ is insufficient",
+      "bbox": [
+        251.0,
+        1771.0,
+        1570.0,
+        1825.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on account of 28...Éh8 when White has not got the time to play Ze7) 27...Vc3?",
+      "bbox": [
+        250.0,
+        1825.0,
+        1569.0,
+        1876.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "after which White obtains the advantage by 28 Vf7+ and 29 X7e3. However, in-",
+      "bbox": [
+        249.0,
+        1878.0,
+        1567.0,
+        1926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "stead of 27...Vc3?, Black can play 27...Vf4 ! , and after 28 Zxd7 (alternatives are",
+      "bbox": [
+        249.0,
+        1925.0,
+        1568.0,
+        1975.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "28 g3 Vf5 and 28 Vg6 Vf6) 28...Äxd7 29 xe8+ Vf8 ! 30 Xxf8+ exf8 White not",
+      "bbox": [
+        249.0,
+        1974.0,
+        1568.0,
+        2022.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "only cannot win but even has the worst of it. The analysis can admittedly be",
+      "bbox": [
+        248.0,
+        2030.0,
+        1567.0,
+        2080.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Black can unexpectedly turn the tables by 27...Vc3! 28 exf7+ *h8, but White",
+      "bbox": [
+        251.0,
+        2134.0,
+        1567.0,
+        2179.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "can improve just before: 27 Qe7+ Éf8 28 Vf6 wins.",
+      "bbox": [
+        329.0,
+        2183.0,
+        1163.0,
+        2222.0
+      ],
+      "confidence": null
+    }
+  ]
+}

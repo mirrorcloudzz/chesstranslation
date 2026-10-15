@@ -1,0 +1,1121 @@
+Focal-points
+
+
+[PDF page 80]
+5 Focal-points
+The series of examples examined in the chapter on mating patterns has given us a
+good idea of the difficulties a defender encounters when his forces (especially
+the pawns in front of his castled king) are poorly placed and when the attacker's
+one aim is to fill the various 'holes and cracks' in the weakened enemy defences
+with his own pieces and thus obtain an even tighter grip. It follows from this that
+the squares in the immediate vicinity of the king, where the drama of the mating
+attack usually reaches its climax, play a special role. If the attacker threatens
+mate or actually mates on these squares, they are mating focal-points, but if he
+only harries the king from them or uses them as points from which to break into
+the castled position, they are called strategic or auxiliary focal-points. It may be
+that there is more than one mating focal-point, and in that case we speak of com-
+pound focal-points. If there are many focal-points (both mating and strategic) on
+squares of the same colour, we speak of a network of weak squares.
+Generally speaking, every focal-point is a weak square in the defender's terri-
+tory and a potentially strong one for the attacker. In addition to the focal-points
+there are also other squares in the castling area which have a specific function,
+e.g. blocked squares, particularly those occupied by the defender's pawns, and
+also any weak squares on which the attacker can safely post his pieces.
+As an illustration of this, take the following position (which we have already
+seen earlier). Here we have the following scheme:
+[AA-p080-fig01]
+
+[PDF page 81]
+mating squares: g8 and f8;
+mating focal-points: h7 and h8;
+auxiliary focal-point: h7 (after Black parries mate by ...&e7)
+attacker's strong squares: f7, g6 and h7;
+blocked squares: g7 and later e7.
+The focal-point at g7
+As usual, when referring to specific squares we assume that White is the attacker.
+It is understood that if Black is the attacker, then the discussion applies equally to
+the square g2.
+The most important focal-points where castling kingside is concerned are g7
+and h7, since these squares are more accessible to the attacker than the others in
+the castling area. Of the two, h7 is the more frequent object of attack (since it co-
+mes under fire from the bishop operating from d3, a natural point of develop-
+ment, while the king's knight can reach g5, for example, more easily than f5 or
+h5). However, attacks against g7 are the more dangerous. The reasons for this
+are very simple: the queen can mate more easily from g7 than h7 (owing to the
+king's ability to flee to f8), but as well as this, a weakness on g7 usually brings
+with it two more on f6 and h6, while one on h7 generally only entails a single ex-
+tra one at g6. Every player of any experience is well acquainted with this fact and
+knows that ...g6 involves a greater weakening than ...h6. On the other hand, h7 is
+usually harder to defend than g7, which the king's bishop can support in two
+ways (from f8 or f6).
+The next position illustrates a typical example of an action against the square
+g7:
+[AA-p081-fig01]
+
+[PDF page 82]
+White, to play, has excellent prospects for an attack on g7. His knight is al-
+ready observing the square, while his queen and bishop are in a position to
+threaten it in one move. An extremely useful point is the fact that the queen has
+the choice of attacking from either c3 or g3. Nevertheless, the situation is not
+quite as simple as that, and White must be prepared to sacrifice his bishop on h6
+if he is to obtain a winning position; by simply playing 1 Wg3, White would only
+gain a relatively small advantage, e.g. 1...g6 2 g5 Wc5 3 f6+ xf6 4 xf6,
+when Black can counter with 4...h6 followed by ...h7. Only 1 &h6! guarantees
+complete success; the main reason why it is better to move the bishop rather than
+the queen is that in order to attack g7 the bishop has only the one move to h6,
+whereas the queen has a choice between c3 and g3. Thus the bishop enters the
+fray first, while the queen waits to see which will be better, depending on Black's
+reply. Thus:
+1 Ωh6! g6
+If 1..gxh6, then 2 Wc3 f6 (if 2...f8, then 3 f6+ leads to a quick conclusion)
+3 Wg3+ g4 (otherwise the queen mates on g7) 4 Wxg4+ f7 5 Wg7+ e6 6
+f4+ d7 7 d5 followed by 8 xf6+. In this variation the queen is most effec-
+tive if it goes first to c3 and then to g3.
+If 1...f8, then White plays 2 xg7 xg7 3 Wg3 f8 4 xg7+ e7 5 Wg5+
+f8 6 d3 or 6 2f6.
+2 Wc3 f6 3 xf6+ and White wins, for after 3...xf6 4 Wxf6 Black has no de-
+fence against mate on g7.
+In order not to be unfair to Black, who tends to suffer in books such as this,
+here are some actual cases where White came to grief on the analogous square --
+g2.
+[AA-p082-fig01]
+
+[PDF page 83]
+This position arose in the game Coria-Capablanca, Buenos Aires 1914. Black,
+to move, attacks g2:
+1...h3! 2 e3 xg2 3 f5
+White played this in desperation; if 3 xg2 Wg5 4 f3, Black plays 4...h3+
+and wins White's queen - a typical trick in positions such as this.
+3...xe4 4 g3 h3#.
+[AA-p083-fig01]
+This position is taken from Field-Tenner, New York 1933. It is Black's move.
+1...f4 2 xe4' Wh3! 0-1
+The attack on g2, with its threat of mate, is carried on regardless. White re-
+signed since he sees that 3 gxh3 is followed by 3...xh3#.
+The following position arose in the game Boleslavsky-Ufimtsev, Semi-finals
+USSR Championship, Omsk 1944. The Soviet master and geologist Ufimtsev,
+playing Black, overcame his great opponent as follows:
+1...e4! 2 Wa5
+After 2 &xb6 xd2 White cannot play 3 xd2 because of the attack on g2, so
+he would lose either his bishop on b6 or his knight on f3.
+2...hg8 3 e1
+Not 3 Qxb6 because of 3...xg2+ 4 h1 xh2+ 5 xh2 xf2#.
+3...μxg2+ 4 xg2 d2!
+Black threatens 5...xg2+ 6 h1 xh2+ 7 *g1 h1#. If 5 f3, then 5...Wxe3+
+wins.
+It is interesting to note that White cannot save himself, even with another sec-
+1
+ond move, e.g. 2 d3 e2+ 3 h1 xg2+ 4 $xg2 Wf3+ 5 h3 exd3 6 Wd2
+g5 or 2 We3 xg2 3 d2 f4.
+
+[PDF page 84]
+[AA-p084-fig01]
+5 Wd5 &xd5 6 cxd5 Wxb2 7 Ωxd2 Wxa1 8 Qf3 Ωxh2+ 0-1
+White has escaped being mated, but has to surrender owing to the great mate-
+rial losses he has suffered.
+The next two games illustrate the attack on the castled king, with g2 (or g7) as
+the focal-point.
+Vygodchikov - Alekhine
+Correspondence Game, 1908/9
+Ruy Lopez
+1 e4 e5 2 f3 ②c6 3 b5 a6 4 鱼a4 2f6 5 0-0 皇c5
+The Moller Variation, against which White can gain a slight advantage by
+playing 6 c3. In continuing 6 xe5, as he does here, White makes the defence
+somewhat easier for Black.
+6 xe5 xe5 7 d4 xe4! 8 e1 e7 9 xe4 g6 10 c3?!
+10 c4 is stronger.
+10...0-0 11 d5 d6 12 Wf3 f5?
+Instead of this weak move, correct is 12...b5! 13 b3 b7 with the better
+prospects for Black.
+13 b3! h8
+13...fxe4 is impossible because of 14 e7+ h8 15 xg6+ and 16 Wh3+.
+Alekhine now has an inferior position.
+14 e2 f4 (D)
+15 c4?
+The beginning of a bad plan. It admittedly brings White material gains but at
+the same time exposes him to a relentless attack on his castled position. Correct
+
+[PDF page 85]
+[AA-p085-fig01]
+was 15 d2 c6 (after 15...h4 16 Wh5 f3 White can happily reply 17 e4) 16
+b4! xb4 17 xb4 d5 18 ae1 and White has the advantage'.
+15...c6 16 c5?
+A further mistake; 16 c3 would have been preferable.
+16...b8 17 b6 d5!
+Now all Black's pieces come into play except the rook, and this Alekhine logi-
+cally gives up, for he does not need it.
+18 ②xa8 h4 (D)
+[AA-p085-fig02]
+19 Wc3
+If 19 Wh5 then 19...g6 20 Wh6 Qg4 threatening both 21...Qxe2 and
+21...f52.
+Vukovic's line loses a piece after 17...a5 18 &d3 a4 19 c4 d5, so the move ac-
+tually played is probably best.
+
+[PDF page 86]
+19...f3 20 μe5
+In an attempt to contain Black's attack, White gives back some of the extra
+material, but there is no longer any way out.
+20...xe5 21 dxe5 xg2
+Naturally, Black takes on g2 with the knight and not the pawn, for he does not
+want to block the square g2, which is to be the focal-point of the attack.
+22 Wd4 Wd7 23 e6 Wxe6 24 皇d2 Wg6 25 皇c2
+White gives up still more, but the destruction is not halted!
+25...xc2 26 h1 Wg6 27 g1 h3 28 b6 (D)
+[AA-p086-fig01]
+28...f4
+Black no longer plays for mate but instead simplifies to obtain a winning posi-
+tion.
+29 xg6 Ωg2+ 30 xg2 fxg2+ 31 g1 ②e2+ 32 xg2 xd4 0-1
+Alekhine - Lasker
+Zurich, 1934
+Queen's Gambit Declined, Orthodox Defence
+1 d4 d5 2 c4 e6 3 c3 2f6 4 f3 e7 5 g5 bd7 6 e3 0-0 7 c1 c6 8 皇d3
+dxc4 9 xc4 2d5 10 xe7 Wxe7 11 2e4
+Alekhine's move; it is equally as good as 11 0-0.
+11...5f6 12 g3 e5
+Alekhine gave 20...△f5 followed by 21...xd4 in his notes. Indeed, after
+2
+Vukovic's 20...g4, White may play 21 e5! xe5 22 dxe5, threatening 23
+xf4, when Black's attack collapses.
+
+[PDF page 87]
+12...Wb4+ 13 Wd2 Wxd2+ is sounder, with a queenless middlegame, which
+Capablanca drew as Black in seven games against Alekhine in their 1927 World
+Championship Match.
+13 0-0 exd4 (D)
+[AA-p087-fig01]
+14 f5
+This move is slightly weaker than the straightforward 14 exd4, which poses
+Black problems.
+14...Wd8 15 ②3xd4 e5 16 b3 xf5 17 xf5 Wb6
+Unnecessarily misplacing the queen. Correct was 17...g6 18 d6 (or 18 Wd6
+Ke8) 18...We7, when Black can put up a good defence.
+18 Wd6 ed7 19 fd1 ad8 20 Wg3 (D)
+The decisive battle for the focal-point g7 begins.
+[AA-p087-fig02]
+20...g6 21 Wg5 h8
+
+[PDF page 88]
+White threatened 22 d6; if 21...Wb5, then 22 e7+ g7 23 Wxb5 cxb5 24
+c7 is in White's favour.
+22 ②d6 g7 23 e4!
+A strong move, which not only prepares e5 but also clears the third rank so that
+White can bring a rook into the attack.
+23...g8 (D)
+This hastens the end, but 23...e8 was just as inadequate in view of 24 Zf5+
+followed by 25 We7'.
+[AA-p088-fig01]
+24 d3! f6
+If 24...h6, there follows the other variation of Alekhine's elegant combination:
+25 f5+ @h7 26 xh6 f6 (or 26...xh6 27 h3) 27 f5! fxg5 28 h3+ mating.
+25 f5+ +h8 26 Wxg6! 1-0
+Since 26...hxg6 is answered by 27 h3+ and mate.
+A pointed end to a game which contained some typical manoeuvres in the
+struggle by the queen and knight for the focal-point g7.
+Further examples of play against the focal-point g7 are contained in the chap-
+ter on fianchettoed positions.
+The focal-point h7
+While the attacker cannot easily target g7, the square h7 is often exposed to dan-
+ger even in the opening stages of a game, although attacks based on h7 as a fo-
+cal-point are generally not so dangerous as those aimed at g7. This important
+point has already been noted, together with the reason for it, i.e. the fact that the
+24 Zxb7, winning a piece, is even more convincing.
+
+[PDF page 89]
+king can escape from g8 to f8, whereas to avoid the threat of the queen on g7 the
+king has to travel further (to e8 or e7). Because of this, the main task involved in
+attacks on the focal-point g7 is the 'clearing' of that square, while the possible
+escape of the king is a minor worry. In attacks on h7 the 'clearing' is usually the
+easier task, while the attacker's main preoccupation is to stop the king escaping:
+this means essentially that he should have a new focal-point in view, if the attack
+is to be successful. In other words, the possible escape of the king turns the pri-
+mary focal-point h7 into a secondary one, so that a new, real focal-point becomes
+necessary. It is worth keeping this important fact in mind, since in practice the
+majority of possible attacks on h7 founder precisely on the king's use of the sim-
+ple defensive expedient of running away.
+These factors, which apply to most attacks on h7, are well illustrated by the
+following example.
+[AA-p089-fig01]
+White, to move, begins with 1 Wb1!. Black's queen has to guard the square e8,
+and so has only two replies:
+1) 1...Wd7 2 e7! (after 2 xe8+? Wxe8 3 Wh7+ *f8 White's attack comes
+to a dead end, since the black king has e7 to escape to) 2...Wxe7 (2...xe7 has the
+same effect, while if 2...Wd8, then 3 Wh7+ followed by 4 #xf7#) 3 Wh7+ f8 4
+Wh8#.
+2) 1..Wc6 2 d5 Wc8 3 xe8+ (this is all right now, but 3 e7? would not do
+because of 3...xg5) 3...Wxe8 4 Wh7+ f8 5 d6, and Black cannot avoid mate
+next move by 6 Wh8#.
+White's combination, then, has two variations, and the point of each is to de-
+prive Black's king of an escape to e7, either by blocking it or playing d6. The
+square h7 appears here as a secondary focal-point, while the crucial factor in the
+combination is the mate when the king reaches f8.
+
+[PDF page 90]
+There is in fact such an abundance of attacks against the castled king with a
+real or secondary focal-point at h7, and they differ so widely, that an attempt to
+systematize them would take us too far afield; let us be content with a few general
+examples, and then deal in more detail with 'the classic bishop sacrifice on h7',
+which in practice is the most important kind of attack on the focal-point h7.
+[AA-p090-fig01]
+This position arose in Szabo-Kotov, Groningen 1946. It is White's move, and
+he effects the ‘clearing' of the focal-point h7 by eliminating the knight on f6:
+1 d5! exd5 2 xf6 f5
+The only reply, though an inadequate one.
+3 Wxf5 g6
+White now continued with 4 Wxg6+ fxg6 5 Qxd5+ f7 6 xe7 and won on
+the basis of his material advantage, but 4 &xe7 gxf5 5 &xf8 would have been
+even clearer.
+[AA-p090-fig02]
+
+[PDF page 91]
+Here we have a straightforward example of the creation of a mating position
+by directing the queen and a pawn against the focal-point h7, followed by a typi-
+cal new mate after the black king has escaped.
+1 xh7+ xh7 2 Wh5+ *g83 g6 e8 4 Wh7+ f8 5 Wh8+ e7 6 Wxg7#.
+[AA-p091-fig01]
+In this position Black aims to drive White's rook from f4 and then proceed
+with ...g3, creating a threat against h2. He plays:
+1..e5 2 xe5
+If 2 d4 xf4 3 Qxf4, Black continues 3..g3 4 Wf3 Wh2+ 5 f1 Wh1+ 6 e2
+f6 7 wxg3 g4+ 8 e3 c1+ 9 d3 Wf1+ 10 c2 xc4 and wins.
+If 2 Wf3 xf4 3 Wxf4 We1+ 4 h2 (both 4 f1 h7 and 4 Wf1 Wxf1+ 5
+xf1 h7 are in Black's favour) 4...f6! 5 xh8, Black wins by 5...g3+ 6 Wxg3
+Dg4+.
+2...dxe5 3 f7
+If 3 f1, Black plays 3...0-0-0 and then ...g3, forcing mate. At once 3...g3
+would not be good because of 4 Qf7+ and 5 Wh5.
+3...g3
+This move is now playable; indeed, it is obligatory, since after 3...0-0-0 4 d3
+g3 Black is a tempo behind with his attack; White then has the following defence,
+a characteristic one in such positions: 5 Qe3 Wh2+ 6 f1 Wh1+ 7 g1, and
+Black's attack has come to nothing.
+4 Wf3 g4! (D)
+A typical method of preparing the mating net; one should not check if this
+only simplifies the opponent's defence. It should be noted that checking at h2 and
+then h1 loses a tempo. Black's aim is to oblige the white king to move to fl of its
+own free will, and then give check with the queen directly at h1, without stopping
+at h2.
+
+[PDF page 92]
+[AA-p092-fig01]
+5 f8+ d7 6 f7+
+If 6 Wf7+, then 6...ge7, while 6 Ωe6+ is answered by 6...xe6! 7 xa8
+f6! 8 xh8 Wh2+ 9 f1 Wh1+ 10 e2 g4 and wins. Lastly, 6 Wd3+ is sim-
+ply met by 6...d4.
+6...ge7 7 We3 af8 and Black wins easily, for example after 8 f1 xf7+ 9
+xf7 f8.
+For our final example in this section let us examine the main line of the Moller
+Attack in the Giuoco Piano. In this White's attack, involving the sacrifice of a
+knight on h7, is so strong -- or weak - that the game ends in a draw.
+1 e4 e5 2 f3 c6 3 皇c4 皇c5 4 c3 f6 5 d4 exd4 6 cxd4 b4+ 7 c3 xe4
+8 0-0 xc3 9 d5
+Moller's strengthening of the attack; 9 bxc3 used to be played, whereupon
+Black obtains the advantage by 9...d5.
+9....f6!
+The best reply.
+10 e1 e7 11 xe4 d6
+If 11...0-0, then 12 d6 is reckoned to give White good prospects.
+12 Ωg5 xg5 13 xg5 0-0' 14 ②xh7 xh7 15 Wh5+ g8 16 h4 f5 (D)
+Instead of 16...f5 Bogoljubow suggested and experimented with 16...f6,
+which is weaker.
+In the position after 16...f5, White must try to justify the sacrifice of the
+knight. Admittedly, he controls the square h7, but, at the same time, he cannot
+prevent the black king from escaping via f7 when it is checked. If the game is
+continued correctly, White can only obtain perpetual check, not mate. Both 17
+Current theory reckons 13...h6 to be best, when White is struggling for equality.
+1
+
+[PDF page 93]
+Wh7+ (variation A) and 17 h3 (B) lead to a draw, while the rest end in a win for
+Black. These other, poorer, continuations are given under (C) and (D).
+[AA-p093-fig01]
+A) 17 wh7+
+This is the oldest method, tried out in innumerable games and ending in a
+draw.
+17...f7 18 h6
+18 Me1 is not good because of 18...g6 19 h6 Wg5, etc.
+18...g8 19 e1 (D)
+[AA-p093-fig02]
+19...Wf8
+Maroczy, and later Bogoljubow, tried to find a win for Black at this point with
+19...f8 but further analyses have shown that White has a draw by 20 h3! Qd7
+(if 20...f4 then 21 h4 is in White's favour) 21 he3 c8 22 Qd3 g6 (if
+22...b6, White wins by 23 xf5 xd5 24 xd7! xe3 - or 24...Wxd7 25
+
+[PDF page 94]
+f3+ - 25 Ωe6 e7 26 xe3) 23 h4 g7 24 Wh8+ g8 25 Wh7, repeating
+moves. Possibly one could also play for a win here with 25 Wh6+ f7 26 e6.
+20 b5
+20 e2 is weaker, since after 20...de8 Black's king escapes to d8.
+20...h8
+20...c6? is bad because of 21 dxc6 while if 20...a6?, then 21 ee6 axb5 22
+hf6+ with advantage to White.
+21 Wxh8 gxh6 22 Wh7+ *f6 23 xe7! Wxe7 24 Wxh6+, and White forces
+perpetual check.
+B) 17 μh3
+White's other sound continuation, discovered by Keres.
+17...f4!
+According to Keres, all other moves give White the advantage.
+18 g4 fxg3 19 Wh7+ $f7 20 Wh5+ g8 21 Wh7+ with perpetual check.
+Against 20...g6 Keres gives 21 Wh7+ e8 22 xg3 and White stands better,
+but Black can improve by 21...f6 22 Wh4+ f7 and draws. Black would proba-
+bly not be able to venture on 22...g5 23 Wh6+ g6 24 h5 gxf2+ 25 xf2 since
+if 25...e5+ White can boldly play 26 e3.
+Now we examine White's weaker continuations.
+C) 17 e2? e8! 18 μe1
+18 Wh8+ f7 19 h5+ is not sufficient for a draw on account of 19...g6.
+18...f8 19 b5
+Or 19 Wh8+ Dg8!.
+19...d7 20 e6 g8! and White's attack is driven back'.
+D) 17 e1? g6! 18 μh3 (D)
+18...f6!
+18...f4 is weaker because of 19 e6 and so is 18...f4?, e.g. 19 Wh7+ f7 20
+he3 g6 21 Wh5 followed by e7+, etc².
+At the end of this line 21 Wxf5+ f6 22 Qxd7 Wxd7 23 xf6+ wins for White,
+1
+so Black must search for an improvement earlier. 17...2g6 18 Wh7+ f7 19
+h6 f4 20 Ωh5+ xh5 21 Wg6+ g8 22 Wxh5 gxh6 23 Wg6+ with a draw
+may well be Black's best, so 17 Qe2 probably doesn't deserve a question mark.
+However 21...Wf6 seems to defend, e.g. 22 e7+ g8 or 22 e6 xe6 23 xe6
+2
+Wxb2 24 Wxg6+ g8. Therefore White should prefer 21 g3! Wf6 22 e6!
+xe6 23 dxe6+ e8 24 xg6 with advantage.
+
+[PDF page 95]
+[AA-p095-fig01]
+19 g3
+This is relatively the best way out for White. 19 Me6 xe6 20 Wh7+ f8 21
+dxe6 d5 is inadequate for White, and he loses.
+Keres played 19 Wh7+ f7 20 e6 in several correspondence games and he
+gives this continuation in his handbook Theorie der Schacheroffnungen. Never-
+theless, Black can then win by 20...f8 21 Wh5+ g6, etc. This simple continua-
+tion was, strangely enough, not noticed by Keres's 'correspondence customers',
+and Euwe also fails to record it in his opening works, giving instead a draw by
+20...xe6? 21 dxe6+ xe6 22 xe6+ xe6 23 Wxg6+ Wf6 24 e3+, etc.
+19...e5
+The only reply. 19...f7? 20 e6! is in White's favour, for he wins back his
+sacrificed piece and keeps up his attack.
+20 f4
+Neither 20 xe5 dxe5 21 d6+ e6 nor 20 Wg5 Wf8 leads anywhere.
+20...2f7 21 ge3 Ωd7
+White's attack has come to a halt and Black has an adequate defence, for ex-
+ample if 22 e7, then 22...h6 followed by 23...f7.
+The reader will find further examples concerning the focal-point h7 in the next
+chapter, which deals with the classic bishop sacrifice. These examples provide a
+typical illustration of the part played by the square h7 as a mating and secondary
+focal-point.
+The auxiliary focal-point f7
+Mention has already been made of the vulnerability of the square f7 before cas-
+tling, and now we shall examine the part played by an assault on that square after
+
+[PDF page 96]
+the king has castled. First of all, it should be remarked that the square f7 is only in
+exceptional cases the focal-point in the true sense, i.e. the square from which
+mate is effected. However, it is very often an auxiliary focal-point, which is at-
+tacked either in order to drive the king away from g8 or, by means of a sacrifice,
+to draw the king on to the actual square itself.
+The following position from the game Tylor-Koltanowski, Hastings 1930
+arose after the moves 1 d4 f6 2 f3 d6 3 2c3 bd7 4 e4 e5 5 c4 e7 6 0-0
+0-0 7 We2 exd4 8 xd4 e8 (D).
+[AA-p096-fig01]
+White, by attacking f7, drew Black's king out from the safety of its castled po-
+sition.
+9 Ωxf7+! xf7 10 ②e6
+Making use of the familiar feature of the hemmed-in queen.
+10...xe6 11 Wc4+ d5 12 exd5+ f7
+The king cannot advance to e5 because of 13 Wf4# nor to f5 because of 13
+Wd3+ with a mating attack, while if 12...d6, there follows 13 b5+ @e5 14
+e1+ f5 15 wd3+ $g4 16 wh3#.
+13 d6+
+After 13...f8 the king has returned to its shelter, but now the trouble over the
+hemmed-in queen reappears: 14 dxc7 and Black loses, since after 14...b6 15
+cxd8w xc4 16 Wd4 the old white queen dies but a new one comes to life.
+Black therefore played 13...d5, but after 14 dxe7 xe7 15 d5 his position
+was hopeless.
+The following position from the game Burn-E. Cohn, Breslau 1912 illustrates
+a faulty attack on f7. It was White's move and he played:
+1 2xf7!?
+
+[PDF page 97]
+[AA-p097-fig01]
+Malicious old men said that this was the only sacrifice ever risked by the cau-
+tious master Burn in his whole chess career. To this observation one might add,
+'and even then it wasn't correct', as will shortly be seen.
+1...xf7 2 wh5+ g8?
+This presents White with a tempo, which is decisive. After the correct 2...f8!
+one cannot see how White's attack can succeed, for example 3 &xf6 Ωxf6 4
+Wxh7 ac8! 5 d5 g5 6 Wh8+ e7, and Black can defend himself satisfacto-
+rily.
+3 Ωxf6 Ωxf6 4 Wxh7+ f8 5 d5
+Black now loses, since if he moves his knight, White plays 6 xf6+.
+5...We5 6 dxe6 Wxe3+ 7 h1 Wxe6 8 Ωg6 1-0, for at the very least Black
+loses the exchange, e.g. after 8...Wg8. The alternatives 8...Mec8 9 de1, 8..e7
+9 de1! Wg8 10 xf6+ gxf6 11 Wxe7# and 8...Wc6 9 Wh8+ +e7 10 fe1+ are
+evenworseforBlack.
+[AA-p097-fig02]
+
+[PDF page 98]
+This position arose in the game Capablanca-R. Mla, Buenos Aires 1911.
+White's combination contains a thrust against the focal-point f7 as a preparation
+for the decisive action based on the real focal-point at h7.
+1 &xf6!
+Interesting, though inadequate, is the alternative possibility 1 xf6+? gxf6 2
+Wh5 fxg5 3 Wh6 d4! 4 xd4 e5 5 xe5 f6 6 xg6 Wd7, and White loses a piece
+without getting enough in return'.
+1...gxf6 2 h6+ g7 3 ②hxf7
+Gaining an important tempo by the attack on the e-pawn.
+3...We8 4 Wh5
+The capture on f7 has helped to weaken the b1-h7 diagonal, on which lies the
+real focal-point at h7.
+4...fxg5 5 Wh6+! g8
+If 5...xf7, then 6 Wxh7+ f6 7 xg6 Wxg6 8 fxg5+ e5 (or 8...xg5 9
+h4+!) 9 Wc7+ e4 10 xf8 and White wins.
+6 xg5 1-0
+Black presumably saw 6...We7 7 xg6 hxg6 8 Wxg6+ Wg7 9 Wxe6+ h8 10
+2
+f3, and decided to abandon resistance'.
+Black might have tried to continue with 6...f7 7 xg6 hxg6 8 Wxg6+ @f8 9
+xe6+ e7, admittedly without any real prospects of survival, e.g. 10 c1! Qd6
+11 g5, etc.
+[AA-p098-fig01]
+In fact this line is also winning for White, since at the end White can continue 7
+1
+xf6 xf6 (7...hxg6 8 xg6+) 8 xh7+ f7 9 g8+ xg8 10 Wxf6 with the
+decisive material advantage of +4& v 2.
+Vukovic overlooks the mate in two by 10...Wa1+, but of course White had sev-
+2
+eral genuine winning lines, e.g. 10 Wh3+ g8 11 e6.
+
+[PDF page 99]
+This position occurred in the game Najdorf-Ivkov from the last round of the
+tournament at Mar del Plata 1955.
+Black, to move, correctly decided to sacrifice his knight on f2, obtaining two
+pawns and a powerful attack against the exposed white king:
+16...xf2! 17 xf2 xe4 18 b2 c5 19 g1!
+White finds the best defence and withdraws his king to h1. If White had tried
+to retain his material advantage with 19 f3?, the answer would have been
+19...e6 20 ②c2 g5+ 21 g3 xb2 22 xb2 Wc5! with a decisive attack.
+19...2e6 20 h1 xd4 21 xd4 xd4!
+Not 21..xe1?22 Wxe1 xd4 because of23 We8+ g7 24 We3! c5 25 We7+
+$g8 26 xd4 cxd4 27 c5 followed by 28 c4+ and White wins.
+22 xd4 Wxd4 23 Wxd4 xd4
+Black has re-established the material balance and is rather the better placed;
+after a few more moves he settled for a draw, since that was all he needed for first
+place.
+Janowski and Soldatenkov - Lasker and Taubenhaus
+Consultation Game, Paris, 1909
+Danish Gambit
+1 e4 e5 2 d4 exd4 3 c3 dxc3 4 c4 cxb2 5 Ωxb2 f6?!
+Better is 5...d5 6 xd5 f6 and if7 xf7+ then 7...xf7 8 Wxd8 b4+, etc.
+6 e5 皇b4+ 7 c3 We7 8 e2 ②e4? (D)
+[AA-p099-fig01]
+This leads to the exchange of the only two minor pieces Black has developed,
+which inevitably adds to White's advantage in development. 8...g4 was worth
+considering, and even 8...Wxe5 would have been better than the move played.
+
+[PDF page 100]
+9 0-0 xc3 10 Ωxc3 xc3 11 xc3 0-0 12 d5! Wxe5
+Black would also be in difficulties after 12...Wd8 13 Wh5 d6 14 f4 but there
+would at least be a hope of recovery then, whereas the course actually taken
+holds no prospects whatever.
+13 e1 Wd6 14 Wh5 c6
+White threatened 15 xc7 Wxc7 16 Wxf7+ xf7 17 e8#. Both 14...h6 15
+ad1! and 14...c6 15 e4! were bad for Black, while if 14...g6, then 15 Wh6
+c6 16 e4 with an irresistible attack.
+15 ②c7 g6
+15...Wxc7 provokes a catastrophe on the focal-point f7, i.e. 16 Wxf7+ and 17
+e8#.
+16 Wh6 Wxc7 (D)
+[AA-p100-fig01]
+17 xf7+!
+The assault on f7 is now carried out as effectively by the bishop as it was by
+the queen in the variation above.
+17...xf7 18 Wxh7+ f6
+The partnership finished off the game as follows:
+19 Wh4+ g7 20 e7+ f7 21 Wd4+ f8² 22 Wh8+ xe7 23 e1+ d6
+24 We5#.
+Lasker came to grief in several games against Janowski through accepting
+sacrifices against his own principles. It is possible that Lasker was riled by the
+touch of impudence which can be seen in Janowski's moves and of which there
+was even more in his behaviour as a whole.
+19 We7+ f5 20 Wxf8+ mates more quickly.
+1
+Or 21...g8 22 e8+ f8 23 xf8+ xf8 24 Wf6+ g8 25 e1, etc.
+2
+
+[PDF page 101]
+Complex focal-points
+Just as a successful combination derives essentially from the multiple effects of
+single moves, so attacks on the castled king are also more likely to succeed if
+they are built up with the assistance of threats against a number of different
+squares. We shall find that in many attacks of this kind the attacker tries to corner
+the king by creating a second or even a third focal-point. There have already been
+cases of such complex focal-points in previous examples, but we shall now ex-
+amine the matter more closely.
+We have already mentioned the part piayed by secondary focal-points and by
+the combination of this kind of focal-point with a real one. However, here we will
+examine only the combining of two or more real focal-points, i.e. squares from
+which a player either actually mates or could do so in a variation. These real com--
+plex focal-points can be divided up as follows:
+1) The focal-points are adjacent squares of different colours (e.g. g7 and h7).
+2) The focal-points are nearby squares of the same colour (e.g. h7 and f7).
+3) The focal-points are of the same colour and make up a whole complex or
+network of squares (e.g. f6, g7 and h8).
+In general, one or more of the attacker's pieces control both focal-points,
+while the rest, in the course of the attack, transfer their influence from one focal-
+point to the other, preferably in the shortest time possible (i.e. one move). As far
+as simultaneous influence over two squares of different colours is concerned, for
+practical purposes only the queen comes into consideration, and in exceptional
+cases the rook; but if the focal-points are of the same colour, both the knight and,
+in particular, the bishop are effective. All the pieces are capable of transferring
+the attack from one focal-point to the other, though the bishop is unable to do this
+if the focal-points are of different colours. The bishop is, however, well suited to
+the case of focai-points of the same colour, while when the focal-points belong to
+the third group, it is indeed the classic piece by which the whole network is domi-
+nated.
+When play is based on focal-points of different colours, the attack may be
+switched rapidly from one of the squares to the other. However, the commoner
+and more important cases are those in which there are two separate stages, the at-
+tack on the first focal-point being exhausted before the player transfers it deci-
+sively to the second. This transfer is often combined with a transformation of the
+mating pattern. An example of this is given in the following diagram (D).
+White, to move, begins with a sharp threat against the focal-point g7.
+1 f6 h8
+
+[PDF page 102]
+[AA-p102-fig01]
+In order to be able to meet 2 Wh6 by 2...g8. 1...Wc6 is weaker because of 2
+f3' and Black has only made his position worse.
+2 Wh6 g8
+White can clearly go no further in his threats against g7, but a new opportunity
+now offers itself -- a rapid preparation for mate on h7, for which the queen is al-
+ready excellently placed; all that is needed is to bring a rook on to the h-file.
+3 μf3! xf3
+Forced, since there was a threat not only of 4 h3 (against which, for example,
+3...Wc6 would have helped?) but also of 4 Wxh7+ and 5 h3#.
+4 gxf3 d5
+The new threat of a queen sacrifice followed by Zh2# wipes out Black's de-
+fence. White does not play 5 h2 now, in which case Black would give up his
+queen for the rook, but 5 f4, when Black can only stave off mate for a move or
+two by sacrificing his queen at f4.
+In the following diagram we have an instructive example of play using focal-
+points of different colours. The threat against the focal-point h7 is replaced by
+one against g7. Then comes the decisive moment in the main variation -- a sudden
+simultaneous attack on h7 and g7. In one sub-variation there even appears a third
+focal-point at f7.
+1 αh1 g8!
+By 1...&xg3+ 2 e2 Black would only make the defence more difficult for
+himself. In playing I...g8! he attempts to defend by running with his king, i.e.
+he surrenders h7 to White and hopes for the continuation 2 Wxh7+? f8 3 Wh8+
+2 Wh6 forces immediate mate.
+1
+I cannot see why it would have helped.
+2
+
+[PDF page 103]
+[AA-p103-fig01]
+e7, which leads to a complete consolidation of the black king's position; the ta-
+bles are then turned and Black threatens ...c3 followed by play on the queenside
+against the weak spots in White's camp. Therefore, White does not capture on
+h7, but hits on a manoeuvre to open up the d3-h7 diagonal by the lethal f6.
+2 αh5!
+The passive 2 h3 would be weak, while 2 h4?is clearly no good because of
+2...xg3+ and 3...xh4.
+The text move threatens 3 g5+ fxg5 4 f6 with the double threat of 5 Wg7#
+and 5 xh7+ *h8 6 g6+ $g8 7 Wh7+ f8 8 Wxf7#. This main variation, cul-
+minating in simultaneous threats against h7 and g7 can, it is true, be countered by
+2...Wd6, but that allows 3 Wxh7+, 4 Wh8+, and 5 Wxc8, when White is a rook
+up. After 2...xg3+ 3 e2 Black can do nothing in the face of g5+ and f6.
+However, he discovers a subtle defence, which is typical for such positions.
+2..Wc7 (D)
+[AA-p103-fig02]
+
+[PDF page 104]
+This protects the third focal-point at f7, which is important as the final mating
+square in the combination beginning with 3 g5+; thus after 3...fxg5 4 f6 &xf6 5
+Qxh7+ there is no mate. But White still has one trump card left.
+3 b6!
+Attacking Black's queen, which is overloaded with duties at the key square c7:
+it is obliged to guard the rook (against the possibility of Wxh7+ and Wh8+) and
+also watch the square f7. Black therefore played:
+3...wd7
+If 3..&xg3+, White would in this case have to play 4 f3!'.
+4 μh4
+A simple move and one which shows that Black's queen has yet another func-
+tion - to maintain control of the b8-h2 diagonal. There is now an irresistible
+threat of g4+; 4...xg3+ 5 xg3 Wd6+ 6 f3 Wf8 is useless due to 7 Wxh7#.
+An excellent example of the shift of threats from one focal-point to another,
+and at the same time a lesson in the troubles facing a piece which is overburdened
+with different functions.
+[AA-p104-fig01]
+In this position, from Szabo-van Scheltinga, Hilversum 1947, White won in
+interesting fashion.
+1 Dg5 g6 2 ②d5
+White's first move, with its attack on h7, forced a weakening on the long diag-
+onal, and his subsequent manoeuvres aim to bring the queen to that diagonal.
+Black should try 3..Wc1!, creating serious counter-threats and preventing 4
+1
+g5+ fxg5 5 f6 because of 5...#c2+ 6 xc2 Wxc2+, followed by 7...g6.
+White should continue 4 h4 c2+ 5 xc2 Wxc2+ 6 g1 Wxf5 7 Wh5 with a
+large advantage, but of course there is no mate.
+
+[PDF page 105]
+2...Wa3 3 Ωxb5 axb5 4 c3 Wa5 5 e6! 2xe6 6 xe6 Ωxe6 7 Wd4+ f6 8
+xf6
+Now White threatens to decide the issue by Zh5+ and mate at the focal-point
+g7. Black's only answer is to attack the white queen.
+8...Wb6 9 We5 Wd6 10 μxc7! 1-0
+After 10... Wxe5 the attack returns to the original focal-point at h7 in the shape
+of 11 xh7#.
+[AA-p105-fig01]
+This position arose in the game V. Vukovic-Endzelins from the match between
+Yugoslavia and Latvia at the 1936 Munich Olympiad. White first obtained free-
+dom of action for himself by blocking the long light diagonal.
+1 d5! exd5
+If 1...xd5, then 2 Wg5 g6 3 xg6, etc.
+2 ②e2 We6 3 Qxg7! xg7 4 Wg5+ h8 5 Wh4+
+White checks from h4 rather than h6 to give Black the chance to make a mis-
+take. Endzelins did in fact fall for it and played 5..g7?; this was followed by 6
+d4, and Black lost his queen, since f5+ leads to a terrible catastrophe on the
+focal-point g7. The rest of the actual game is of no interest (it finished 6...#g8 7
+g5+ $f8 8 ②xe6+ e7 9 g7 xg7 10 Wxg7 g8 11 e1+ 1-0), but what
+does interest is an analysis of Black's more tenacious reply 5...g8 (D).
+Rellstab in his book of the tournament states that White would then have to
+satisfy himself with perpetual check, but this is not correct. Admittedly, after 6
+d4 xc1! 7 xc1 We5 8 f5 Black has the reply 8...e4!, an interesting ex-
+ample of a move with a double defensive purpose with reference to the focal-
+points h7 and g7, around which White's attack revolves. Further attempts, e.g. by
+9 Wg4+ h8 10 f3, are dangerous for White because of 10...&c8!, while other
+short-cuts also have obstacles in their way. It was, however, White's intention to
+
+[PDF page 106]
+[AA-p106-fig01]
+take the rook with his queen, and this would in fact have won the game, as the
+following analysis shows:
+6 Wg5+ h8 7 Wh6+ $g8 8 d4 xc1 9 Wxc1! We5 10 f5
+There is now an attack on the two focal-points h7 and g7, combined in some
+variations with another on f7.
+If Black plays 10...e4, there follows 11 xe4 dxe4 12 Wg5+ $h8 13 d7!
+when Black has no proper defence against the threat of 14 Wh6+ and 15 e7+
+winning his queen, e.g. if 13..e8, then 14 Wh5+ *g8 15 wxf7+ mating.
+10...h7 11 Wh6 Ee8
+The only way to meet the threat of 12 e7+ and 13 Wxh7#.
+12 d6! xd6
+Neither 12...g5 13 xe8 nor 12..e7 13 xh7+ h8 14 f5 hold out any
+hope for Black.
+13 xh7+ $h8 14 g6+ with the final mate on f7.
+Into the second group fall focal-points of the same colour which do not qualify
+as 'a network of squares'. The most typical case is that of h7 and f7, and in the
+next example we shall examine the most typical attack by the queen and bishop
+against these two squares.
+In the following diagram White begins with:
+1 Wh5
+He is threatening to sacrifice his bishop on h6 because all the essential precon-
+ditions for such a sacrifice have been fulfilled, as will be seen from the following
+analysis. We shall examine those replies by Black which lead to the characteristic
+formation of white queen on h6 and bishop on the b1-h7 diagonal. We shall leave
+aside the replies 1...We6 and 1...f6, the first of which is bad because of 2 f5 and
+the second because of 2 Wg6.
+
+[PDF page 107]
+[AA-p107-fig01]
+First of all, the naive capture 1...Wxb4?. This is defeated by the sacrifice 2
+xh6 gxh6 3 Wxh6, threatening mate on h7. This could be parried by 3...e8,
+but Black then has to pay for the unprotected focal-point at f7 after 4 h7+ h8
+5 g6+ g8 6 wh7+ +f8 7 Wxf7#.
+We have seen that the square f7 must be protected by the queen, since the rook
+on f8 has to move after the sacrifice, which suggests 1...b6 or 1...a7. These
+to0 are answered by 2 &xh6 gxh6 3 Wxh6, and if 3...e8, then 4 Wh7+ and 5
+Wh8#; nor is there any future in 3..f6 4 exf6 xf6 5 xe7 xh6 6 xb7.
+Black realizes that his queen is not well placed on e7 because it blocks this es-
+cape square and thus enables White to mate with his queen on h8. Black can try
+to move his queen away, but in such a way that it still protects the focal-point f7:
+1...Wc7 2 xh6 gxh6 3 Wxh6 e8 (or 3...f6 4 exf6, with the decisive threat of 5
+e7) 4 ac1 Wd7 5 h7+ h8 6 f5+ and White wins the queen.
+From this it can be seen that Black's queen could not even have gone to d7 on
+the first move.
+We can now cut our speculation short; there only remain 1...e8 and 1...d8.
+That 1...d8 is no good can be seen after 2 Qxh6 gxh6 3 Wxh6, since then
+3...We6 cannot be played because of 4 Wg5+.
+Thus we arrive at the main variation:
+1...e8
+After this move the sacrifice of the bishop on h6 is somewhat more compli-
+cated, but it is still White's best continuation. On the other hand, 2 Qf4 is also
+g0od; less useful here (as on the first move) is 2 Wg4 because of 2...h8 3 Wxd4
+d8 4 Wc3 b6 and Black can hold his own.
+2 Ωxh6 gxh6 3 Wxh6 We6
+This is the right reply. After 4 &h7+ h8 White now gets nowhere by 5
+g6+, while the other discovered checks fail because White's queen is attacked
+
+[PDF page 108]
+by Black's; furthermore, if 5 Wh5, Black has the reply 5...g7 6 f5 Wh6 with
+an adequate defence.
+White's later play is interesting, even if it is no longer as typical of this kind of
+attack as the possibilities cited hitherto.
+4 Wh7+ f8 5 f5 (D)
+White's queen is now best placed where it is, on h7; further checks would only
+make it easier for Black to defend himself.
+[AA-p108-fig01]
+5...Wc6
+After 5...Wd5 6 Wh6+ Black cannot play 6..g8 due to 7 h7+ and 8 e4+,
+while 6...e7 7 e4 wins the black bishop, for 7...Wd7 is defeated by 8 e6.
+5...Wb6 is of no use either, since 6 ac 1! leaves Black without a reasonable re-
+ply, e.g. if 6...e7, then 7 e6 fxe6 8 xe6 is quickly decisive.
+6 e4 Wb6 7 xb7 Wxb7 8 e6 and White wins.
+The threat is 9 Wh8+ e7 10 exf7+ and the reply 8...d6 fails against 9 e7+
+and 10 wh8#.
+This analysis shows what great power there is in the formation of queen at h6
+and bishop at d3 when combined with a rook at e1 and a pawn at e5. The various
+operations connected with the focal-points h7 and f7 are well worth remember-
+ing, since opportunities to use them arise frequently in actual games. Since the
+defender must move his rook from f8 when mate is threatened at h7, it is clearly a
+decisive factor whether or not the focal-point f7 is protected by other pieces. An
+alternative defence involves ...f6 or ...f5, but the success of such a reply depends
+on the other features of the position, which must be carefully assessed.
+The main feature of the third group is the network of weak squares of the
+same colour; here the attacker's bishop is, as a rule, the piece which controls the
+
+[PDF page 109]
+focal-points permanently, while the others are used for manoeuvring purposes. It
+should be noted that control over a network of squares is also an important factor
+in positional play, but in attacks on the castled king it is particularly effective.
+The reason for this is a positional one, since control over a network is often of a
+fairly permanent nature. The most essential precondition is to 'clear' the network
+not only of the influence of the opponent's bishop (either by eliminating it or
+driving it away) but also of possible resistance from the opponent's pawns at im-
+portant points in the network.
+When the attacker has 'cleared' the network and fixed the position, the attack-
+ing operation proper follows; the squares which are candidate focal-points can
+easily be determined, while the other squares in the network may serve as sec-
+ondary focal-points or else as strong squares for the attacker to post his pieces on.
+[AA-p109-fig01]
+In the above diagram the network of dark squares is already 'cleared' and cov-
+ered by White's bishop, which is firmly installed at f6. The network consists of
+the squares f6, g7 and h8, and also the connected squares f8 and h6. The squares
+g7 and h8 are candidates as focal-points, f6 is a strong square for the attacker's
+pieces while f8 and h6 can serve as secondary focal-points or strong squares. All
+this concentration of white power encircles the unfortunate black king, which
+has no real prospect of extricating itself from the net and escaping to the
+queenside, since e7 is also controlled by White. Black does not even have a
+dark-squared bishop to provide resistance on the network, and because of the
+blocked position in the centre he cannot undertake a counterattack; he is confined
+to defending himself. The only minor piece he has left is a knight, but this piece
+can in fact exercise considerable defensive influence in positions of this kind.
+If White's domination is based on a dark-square network, Black still has one
+thing on which he can logically rely - the solid structure of his position on the
+
+[PDF page 110]
+light squares. In some such cases the success of an attack depends on the ability
+to break down resistance on the light squares by means of a sacrifice. This fea-
+ture appears in the analysis of the above position, which, by virtue of its simplic-
+ity and its typical character, will well repay study.
+It is Black's move, and his first concern is to provide a defence against White's
+manoeuvre Wd2-h6, which threatens to bring about disaster on the focal-point
+g7. Various attempts at defence by Black and attacking stratagems by White, all
+of them typical and consequently instructive, will now be examined in a series of
+continuations.
+A) 1...h6
+Black is contemplating a defensive system with his king on h7 and his knight
+on g8, which could be reached after, say, 2 Wd2 h7 3 e3 Ze7 4 h3 g8.
+White can then assert his superiority by 5 &g5 h5 6 g4, but 1...h6 can be better
+punished as follows:
+2 e3! h73h3 ②e7 4 xh6+! xh65 Wg4 h76 Wh3+ g8 7 Wh8#.
+Here we see the part played by the focal-points at h6 and h8.
+B) 1...h5 2 Wd2 h7 (D)
+Forced, as White threatened mate by 3 Wh6; if 2...f8, then 3 Wh6+ also mates.
+[AA-p110-fig01]
+3唯g5
+The simplest answer, as it prevents ..e7 for a decisive tempo. Also good is 3
+g4, for 3...hxg4 is met by 4 Wg5 and mate. If 3 e3, Black can defend himself
+more stubbornly with 3...e7 4 h3 f5 5 g4 Zh6 followed by 6...g8.
+3...c7 4 e3 e7 5 μh3 f5
+Otherwise White mates by 6 xh5+!.
+
+[PDF page 111]
+6 g4 μg8
+Or 6...h6 7 xh5, etc.
+7 gxf5 gxf5 8 αxh5#.
+In this example it is the resistance on the light squares that is overcome.
+C) 1...We8
+Black's queen is hoping to defend from f8.
+2 αe3 Wf8 3 h3 h6 4 Wd2 h7 5 g5 h5 6 We2 e7 7 Bxh5+! gxh5 8
+Wxh5+ g8 9 f6 g6 10 e1, and Black has no answer to the threat of e3-h3
+followed by Wh8+ and mate.
+This is an important mating pattern in such positions.
+D) 1...2e7 2 Wd2 We8
+Or 2...2f5 3 g4 g7 4 Wh6 e8 5 e3, threatening both 6 h3 and 6 Wxh7+.
+3 e3 Wf8 4 h3 c7
+This position can also arise in variation C.
+5 Wg5 b5 6 Wh4
+White may also play 6 g4, 7 h6, and 8 Wh4.
+6..h5 7 Wg5 h7 8 xh5+! gxh5 9 Wxh5+ Wh6 10 Wxf7+ and mate.
+Yet another instructive mating pattern!
+E) 1...f8
+The black king tries to slip out of the net via e8.
+2 d2 e8 3 Wh6 e7 (D)
+Or 3...d8 4 Wxh7 Wa4 5 Wg8+ $d7 6 Wf8 with a decisive attack on the new
+focal-point at e7.
+[AA-p111-fig01]
+
+[PDF page 112]
+4 Wxh7 Wa4 5 e3
+At this point White gains nothing from checking, but must instead bring his
+rook to f3.
+5...Wc2 6 f3 Wxb2 7 f1 Wa3
+This parries the threat of 8 Qxe7, but now 8 g5 f5 9 g4 decides the game.
+In this variation the black king wriggled out to the edge of the network of weak
+dark squares, but even there he met his fate, its cause being the last square in the
+network, e7.
+We shall not leave the above diagram yet, because a feature of very great prac-
+tical importance should be pointed out. This is the benefit derived by White from
+the action of his rook on the h-file. Without an opportunity of making the ma-
+noeuvre e3-h3, White cannot take Black's position by storm, because he lacks a
+threat against h7; if this does not exist, Black does not have to weaken his posi-
+tion, since he can easily ward off the threats against g7 alone. So even in this
+case, where there is a definite 'same-colour network', there is still a part to be
+played by alternative focal-points on squares of different colours (h7 or f7), and
+this applies in most practical cases. The weaknesses on the squares of the net-
+work are usually only the more sensitive ones, which does not mean that squares
+of the other colour will necessarily be safe - the king may succumb on them too!
+We have noted the important part played by the rook on the h-file in the varia-
+tions above, and we shall now go on to examine how positions of this kind can be
+exploited if there is no chance of employing a rook. Suppose that we move
+White's h-pawn from h2 to h4 in the above diagram; this gives a new situation of
+a type which often arises in practice, for the h-pawn is frequently advanced dur-
+ing the game. The pawn's being on h4 considerably blunts White's attack, and 1
+h4? in the diagrammed position would be a poor move. Nevertheless, even with
+the pawn on h4 White has the better game, although he can only exploit his ad-
+vantage slowly and Black retains chances of attacking on the queenside. Indeed,
+if Black's position on that side were a little further advanced, one could conclude
+that he would be able to preserve the balance. However, as things stand White is
+still the stronger, and we shall examine one continuation arising out of the new
+situation.
+The modified diagram (with the pawn on h4) is given on the following page.
+1...b5 2 Wd2 We8 3 e3
+In this case too White's rook belongs on h3, even though his attack along the
+h-file is only a 'thing of the future'.
+3...Wf8 4 h3 a5
+4...h5 would be to White's advantage, since it would simplify his task of open-
+ing up the g- and h-files, for example 5 g4 hxg4 6 ±h2 a5 7 h5 followed by 8 hxg6
+
+[PDF page 113]
+[AA-p113-fig01]
+(but not 8 h6? because of 8...h7, and Black is at once in a safe position!) with a
+decisive attack.
+5 h5 b4 6 g3
+White's plan, a typical one in positions of this kind, is to play g2 and then
+ah1. The immediate 6 hxg6 would be weaker, for Black would reply 6...fxg6
+opening up the second rank for defensive purposes. White must first of all post
+his heavy pieces in their assault positions and only then venture on hxg6.
+6...a4 7 a3!
+Otherwise Black obtains good prospects with ...a3.
+7...bxc3 8 bxc3 (D)
+[AA-p113-fig02]
+8...Da5
+A raid by a black rook along the b-file will not succeed, since both rooks are
+needed to defend the second rank, as can be seen from the following variation:
+8...ab8 9 g2 b3 10 ah1 c7 11 Wg5 xa3 (or 11...Wxa3 12 Wh6 Wf8 13
+
+[PDF page 114]
+Wxh7+ xh7 14 hxg6+ $xg6 15 h5 and mate) 12 hxg6 fxg6 13 xh7 xh7 14
+Wxg6+ g7 15 Qxg7 Wxg7 16 We8+ and White wins. Black could, it is true,
+play 11...b2, in which case the above combination would not work; however, it
+would not stop the manoeuvre h4-f4.
+9 Wg5 b3 10 e1 c7
+Clearly, 10...h6 is bad because of 11 hxg6.
+11 g2 aa7 12 eh1 ab7 13 h4! d7 14 μf4 dc7
+Black is unable to parry the combination which White has prepared. If White
+had previously made an incorrect exchange on g6, ...We8 would now be the an-
+swer to everything; in the present position this move would be answered by 15
+Wh6 Wf8 16 Wxh7+ xh7 17 hxg6+ xg6 18 g4+ f5 19 h5+ xg4 20
+g5#.
+15 hxg6 fxg6 16 Wxg6+! hxg6 17 h8+ f7 18 d8+ and White finally
+wins.
+It is well worth remembering this analysis, especially the method of delaying
+the attack with the h-pawn is and how the winning position is prepared by a cal-
+culated deployment of the pieces. The reader will be reminded of this extremely
+important practical technique in the section on the role of the rook files in the at-
+tack on the castled king.
+As for the part played by the network of weak squares in attacks on the castled
+king, one more diagram and one interesting master game will be given as exam-
+ples.
+[AA-p114-fig01]
+This position is from the game Euwe-Flohr, Amsterdam 1939. White's bishop
+has reached the square f6, but the network is still guarded by the opponent's
+dark-squared bishop, which is preparing to effect a delayed fianchetto by ..&g7.
+For this reason forceful play by White is indicated.
+
+[PDF page 115]
+1 c5!
+With the idea of eliminating the dark-squared bishop. If Black plays 1...&xc5,
+then 2 dxc5 uncovers an attack on the bishop at d7, which Black cannot defend,
+e.g. if 2...Wc7, the manoeuvre We3-h6 is decisive.
+1...Wxa2 2 h5! e5
+If 2...gxh5, then 3 Wg3+ wins, while 2...g7 is answered by 3 xg7 xg7 4
+xh7+ xh7 5 Wxf7+, followed by 6 d3. Also interesting is 2...h6 3 e5! h7 4
+We3 Wxb2 5 d3 Wb1+ 6 f1 g5 (if 6...gxh5, then 7 We4+ and 8 g3+ wins;
+otherwise Black is mated by 7 xh6+ xh6 8 Wxh6+ $xh6 9 h3#) 7 We4+
+g8 8 xg5+ hxg5 9 h3, etc. The move played parries the threat of 3 Wh3.
+3 dxe5 .e6 4 Wf4 Wxb2 5 f1 e7
+He still cannot play 5...g7, because of 6 xg7 and 7 Wh6+.
+6 Wh4
+Euwe notes in his commentary that Black's queen is fairly well placed on b2
+(by controlling f2 and f6 it prevents Wh6 being played at once) and cites as more
+precise 6 b1 Wd4 (if 6...Wxb1, then 7 Wh6) 7 b4! Wd8 8 Wh4, etc. 6 d3
+would also win more quickly than the move played.
+6....c5!
+The great defensive master's last trump: 7 xh7? is now no good because of
+7...Wxf2+. Even so, Black is lost; the process merely takes a little longer.
+7 h6 a5
+If 7...g4, then 8 d3 with the threat of 9 e3!.
+8 d3 皇xf2+
+Otherwise White will play 9 f3.
+9 Wxf2 Wxf2+ 10 xf2 (D)
+[AA-p115-fig01]
+10...a4
+
+[PDF page 116]
+The situation now becomes critical; White must get his rook to h3 before
+Black's pawn promotes to a queen.
+If 10...a6, there is insufficient time for 11 &e2 because of ...b6-b3, nor is
+11 f3 b6 12 f4 strong enough owing to 12...g5! 13 f5 c8, and the black
+king escapes to d7. Strongest, after 10...a6, is 11 g4 &xg4 12 h3!, etc.
+11 Ωe2
+White can also win by 11 g4 Qxg4 12 h3. After the text move Black cannot
+reply 11...a3 because of 12 g4 a2 13 xh7, so he tries to prolong the game by a
+desperate rook sacrifice.
+11...a5 12 g4 xe5 13 xe5 c4 14 dh3 xe2 15 f6 e6 16 e5 xg4
+17 xh7 xf6+ 18 exf6 1-0
+The rook has no difficulty in controlling the pawns, e.g. 13...xh3 19 xh3
+b5 20 c3 b4 21 xc6 b3 22 b6, etc.
+Pilnik - Najdorf
+Mar del Plata, 1942
+Caro-Kann Defence
+1 e4 c6 2 d4 d5 3 c3 dxe4 4 xe4 f6
+Sounder is 4...&f5 or 4...d7 followed by ...gf6.
+5 xf6+ exf6
+The doubling of the pawns on the f-file represents a slight weakness in Black's
+position whichever pawn he recaptures with.
+6 c3 d6 7 Qd3 0-0 8 Wh5
+Black could answer this with 8...f5 (9 &xf5? g6) and so ward off White's at-
+tack without weakening his castied position. Indeed, 8...f5 not only avoids weak-
+ening Black's position, it also falls in with his correct positional plan, i.e. the
+front f-pawn is used to control squares on the e-file, while the back one (at f7)
+stays at home and guards any weaknesses which the front one leaves behind it. If
+the front pawn is exchanged in some tussle over a square, Black has got rid of the
+doubled pawns and the fear of an inferior ending.
+8 Wc2 was sounder.
+8...g6
+Though less precise than 8...f5 this is still not a mistake.
+9 Wh4 (D)
+9...c5?
+Fundamentally inappropriate, since White is stronger on the queenside and in
+particular has a firm hold on d4. Black should have left any operations on the
+queen's wing to White and instead prepared for ...f5 and ...'d7-f6, but without
+
+[PDF page 117]
+[AA-p117-fig01]
+exchanging queens and without relinquishing the d8-h4 diagonal to White. Cor-
+rect, therefore, was 9...2d7 10 e2 e7! 11 0-0 f5 12 Wg3 f6, etc.
+10 e2 c6 11 Ωh6 f5?
+Black should have played 11...e8. At this point ...f5 is weak.
+12 g5!
+By exchanging queens White could have obtained the better endgame pros-
+pects. However, why should he play for an endgame when he has the opportunity
+to gain control of the diagonal h4-d8, thereby obtaining the necessary conditions
+for an attack on the castled king based on a network of weak dark squares?
+12...Wb6
+The diagonal cannot be defended: if 12...e7, then 13 xe7 xe7 14 dxc5
+Wxd3 15 Wxe7 while 12..f6 13 c4+ h8 14 h6 is equally unacceptable'.
+13 0-0 cxd4 14 cxd4 (D)
+14..e8
+Some commentators have marked this move out as the decisive mistake and
+have suggested 14..e6 (preventing c4), but this would make the win easier,
+e.g. 15 f6 fe8 (or 15...h5 16 Wg5 h7 17 d5 xd5 18 xf5) 16 f4! xd4
+(precluding 17 d5; if 16...&xf4 17 Wxf4, Black will find himself unable to de-
+fend the focal-point g7, having given up his dark-squared bishop) 17 h5 c6
+18 c3 Qe5 (18...e7 comes to the same) 19 f6+ xf6 20 皇xf6 h5 21 Wg5
+h7 22 &e2 and White decides the game by xh5.
+In this analysis, as in other phases of this game, it should be noted that a
+method has been used which we have already seen in the variations arising from
+It is hard to see why this latter line is unacceptable. Black may continue with
+1
+14...e8, threatening 15...e4, and thanks to the move ...f6 Black's kingside
+dark squares are not especially weak.
+
+[PDF page 118]
+[AA-p118-fig01]
+the diagram on page 109; namely, in creating threats against a dark-square net-
+work, White repeatedly makes use of sacrifices on squares of the other colour.
+These sacrifices fulfil the task of breaking up clusters of pawns which otherwise
+impede the attacker's access to the weak squares on the network itself. The link-
+age between the operations on the networks of different colours should be noted;
+on one network the intention is to keep the attacking pieces in the strongest and
+most permanent positions possible, while on the other they are sacrificed when
+the situation demands.
+It should finally be pointed out that, instead of the move played, 14...Wxb2?
+would have been bad because of 15 fb1 Wa3 16 b3 Wa5 17 f6 e8 18 c4,
+when White's prospects for an attack are greatly improved.
+15 c4 h5 (D)
+There was a threat of 16 Ωxf7+ xf7 17 Wxh7+ $e6 18 d5+ xd5 19
+ad1+. If 15...Qe6, then 16 d5 would naturally follow.
+[AA-p118-fig02]
+
+[PDF page 119]
+16 ae1?
+After this move Black gains drawing chances. In such an attractive position
+one would expect to find a safe and clear way to victory. White here has all the
+necessary ingredients for success: control over a dark-square network; advantage
+in development; two pieces to break up the cluster on the light squares (bishop at
+c4 and knight at e2); and as well as all this, a pawn in the centre that prevents
+Black from using his e5 square as a post for his pieces!
+Stronger and simpler would have been 16 Qf6!, as the following lines show:
+1)16...e7 17 Wg5 xf6 18 wxg6+.
+2) 16...e6 17 d5 xd5 18 xd5 xe2 19 Wg5 f8 20 ae1! Wb5 (or
+20...d4 21 Wh6+ e8 22 xc6, etc.) 21 f3 xe1 22 xe1 ②e5 23 h6+
+e8 24 xe5 and 25 Wh8+.
+3) 16...e4 17 Wg5 f8 18 Zc3!, and the black rook has n0 good square to
+go to: 18...xd4 is inadequate because of 19 fe1, while 18...g4 is answered by
+19 Wh6+ e8 20 xf7+ xf7 21 g7+ e8 (or 21...e6 22 d5#) 22 ae1+
+and mate is unavoidable.
+16...e4 17 f4 Wxd4 18 xe4 fxe4?
+This pawn blocks the fourth rank to White's advantage. Black should have
+played 18...Wxe4, when 19 xg6 Wxh4 20 xh4 leads to an ending in which
+White is the better placed, but Black can still salvage a draw by 20...Qe6 21 d3
+(or 21 &e2 *g7! when 22 xh5 fails against 22...f6 and 23...h8) 21...f4 threat-
+ening both the a-pawn and 22...g7 followed by 23...f6.
+19 xh5!
+Breaking up Black's light-square complex.
+19...gxh5 20 f6! Wc5
+Forced; if 20...Wxc4 then White wins by 21 Wxh5 while if 20...@e5 then 21
+Wg5+ is decisive.
+21 μd1! f8 (D)
+The only reply. If 21...e6 then 22 d5! Wxc4 (or 22...xd5 23 Wxh5) 23
+Wg5+ f8 24 xd6 and mates, while 21...e7 22 d5 xf6 loses to 23 Wg3+.
+22 b4!
+Obliging the knight to abandon its watch on d8. That White's bishop on c4 is
+still ‘taboo' can be seen from 22...Wxc4 23 Wxh5 e8 24 xd6 Wc1+ 25 d1,
+and Black loses his queen.
+This move is refuted by 2o...Wxf2+!! and Black forces mate himself. However,
+1
+Vukovic's attacking plan is basically correct, except that White has to exercise
+a little more care: 20 Wh6+ $e8 21 Wg7 d8 22 ae1 and now 22...Wxf2+ 23
+xf2 xe1+ 24 αf1 c5+ fails, because after 25 d4 the bishop is defended.
+
+[PDF page 120]
+[AA-p120-fig01]
+22...xb4 23 Wg3! g4
+Clearly the only answer, for 23...&xg3 cannot be played on account of 24
+md8#.
+24 μxd6 d3
+Or 24...Wxc4 25 Wf4 and mates.
+25 Ωxd3 Wc1+
+Not 25...exd3 because of 26 Wf4.
+26 f1 Ic8 27 h3 Wxf1+ 28 h2! Wc1 29 hxg4 hxg4 30 Wxg4 Wh6+ 31
+g3 c3+ 32 f3 1-0
+The first part of this tense game is instructive as an example of the gradual cre-
+ation of the preconditions necessary for an attack on the castled king, while from
+the twelfth move onwards, by which time White's control of the dark-square net-
+work is assured, the course of the game and its analysis provide many useful les-
+sons on how to carry out an attack of this kind.

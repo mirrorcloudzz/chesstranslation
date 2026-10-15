@@ -1,0 +1,410 @@
+{
+  "pdf_page": 285,
+  "printed_page": 285,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        447.0,
+        118.0,
+        1345.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "285",
+      "bbox": [
+        1483.0,
+        117.0,
+        1544.0,
+        149.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now the question arises why ...d5! is necessary in answer to IO g4 and what",
+      "bbox": [
+        273.0,
+        266.0,
+        1549.0,
+        309.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "happens if Black does not employ the defensive central thrust. This can be an-",
+      "bbox": [
+        227.0,
+        316.0,
+        1547.0,
+        360.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "swered by citing the continuation of the game Foltys-Eliskases, Podebrad 1936,",
+      "bbox": [
+        229.0,
+        365.0,
+        1548.0,
+        409.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "where in the same position Black met IO g4 with 10...Qa5 aiming at the square",
+      "bbox": [
+        229.0,
+        412.0,
+        1549.0,
+        459.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "c4. The continuation was 11 g5 Qe8 12 Ad4 (in the game Kan-Botvinnik, Mos-",
+      "bbox": [
+        229.0,
+        464.0,
+        1548.0,
+        508.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cow, 1936, 12 Vd2 was played, but Foltys' move is better) 12...Xc8 13 h4 Qc4",
+      "bbox": [
+        229.0,
+        511.0,
+        1549.0,
+        559.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 Axc4 Xxc4 15 Vd3 Xc8 16 0-0-0 Vd7 17 Xd2 Ag4 (to combat h5, but it sur-",
+      "bbox": [
+        234.0,
+        564.0,
+        1549.0,
+        607.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "renders d5 to the enemy knight) 18 Qd5 b6 19 f5! (the avalanche begins to move;",
+      "bbox": [
+        229.0,
+        616.0,
+        1549.0,
+        661.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black cannot take the pawn, since the eventual Oxe7+ is decisive) 19...e6 20",
+      "bbox": [
+        230.0,
+        665.0,
+        1551.0,
+        711.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axg7 21 f6+ 22 Xd8 23 Qd4 Va4 24 25 h5 gxh5 26",
+      "bbox": [
+        230.0,
+        715.0,
+        1551.0,
+        763.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ädh2 Xd7 27 e5 (threatening 28 Vxh7+ •xh7 29 Xxh5+ mating) 27...xxe7 28",
+      "bbox": [
+        230.0,
+        765.0,
+        1550.0,
+        811.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "xxh5 Axh5 29 Xxh5 1-0",
+      "bbox": [
+        231.0,
+        820.0,
+        651.0,
+        854.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now to return to the Nottingham game, in which Botvinnik did not allow him-",
+      "bbox": [
+        276.0,
+        869.0,
+        1551.0,
+        911.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "self to be smothered in this way.",
+      "bbox": [
+        232.0,
+        924.0,
+        765.0,
+        961.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Clearly, this is the only alternative to 1 1 e5 which has already been analysed.",
+      "bbox": [
+        277.0,
+        1021.0,
+        1551.0,
+        1064.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 11 exd5 oxd5 12 Oxd5, Black would gladly exchange queens by 12...Vxd5,",
+      "bbox": [
+        233.0,
+        1065.0,
+        1552.0,
+        1112.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "thus winning the b-pawn, to say nothing of the ending.",
+      "bbox": [
+        232.0,
+        1123.0,
+        1139.0,
+        1164.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11...Ac8",
+      "bbox": [
+        280.0,
+        1172.0,
+        424.0,
+        1206.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Though the bishop has to withdraw, it is still aggressively placed as far as",
+      "bbox": [
+        277.0,
+        1223.0,
+        1553.0,
+        1265.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's weak pawns at f5 and g4 are concerned.",
+      "bbox": [
+        233.0,
+        1276.0,
+        1035.0,
+        1316.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 exd5 04",
+      "bbox": [
+        281.0,
+        1323.0,
+        503.0,
+        1358.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "There is to be no more talk of an attack on the king; the players are now con-",
+      "bbox": [
+        278.0,
+        1376.0,
+        1553.0,
+        1414.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cerned with a struggle for the centre pawn and the d5-square. If White holds out,",
+      "bbox": [
+        234.0,
+        1426.0,
+        1553.0,
+        1467.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "he can expect success, but if Black overcomes the advancing pawn, the first",
+      "bbox": [
+        234.0,
+        1476.0,
+        1556.0,
+        1518.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "player's prospects are poor.",
+      "bbox": [
+        234.0,
+        1530.0,
+        687.0,
+        1569.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13 d6? (D)",
+      "bbox": [
+        282.0,
+        1580.0,
+        463.0,
+        1617.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Whenever Alekhine made an unexpected move the world of commentators",
+      "bbox": [
+        279.0,
+        1628.0,
+        1555.0,
+        1668.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "dutifully gave it one or two exclamation marks. This happened in the case of this",
+      "bbox": [
+        234.0,
+        1679.0,
+        1555.0,
+        1720.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "move too, which abandons the struggle for the square d5 and, in fact, also risks",
+      "bbox": [
+        235.0,
+        1730.0,
+        1555.0,
+        1770.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "losing the game.",
+      "bbox": [
+        235.0,
+        1784.0,
+        506.0,
+        1822.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A better line here is 13 Af3! gxf5 14 a3 fxg4 15 Ag2. Suggested long ago by",
+      "bbox": [
+        280.0,
+        1827.0,
+        1556.0,
+        1871.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Dr Euwe, this was tried in the 2nd match game between Fischer and Reshevsky,",
+      "bbox": [
+        235.0,
+        1882.0,
+        1555.0,
+        1921.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "New York 1961 when White secured an advantage after 15...Qa6 16 Vd3 e6 17",
+      "bbox": [
+        235.0,
+        1927.0,
+        1555.0,
+        1971.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "0-0-0 axd5 18 h3 g3 19 Ähgl Vd6 20 Axd5 exd5 21 Oxd5 22 Af4 Vg6.",
+      "bbox": [
+        235.0,
+        1976.0,
+        1555.0,
+        2023.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now Fischer played 23 Vd2 but 23 Vf3! seems to me to be even stronger.",
+      "bbox": [
+        235.0,
+        2028.0,
+        1471.0,
+        2074.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13...Vxd6?",
+      "bbox": [
+        283.0,
+        2080.0,
+        473.0,
+        2116.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Alekhine's original assertion that 13...exd6! was impossible because of 14 a3",
+      "bbox": [
+        281.0,
+        2133.0,
+        1556.0,
+        2174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mc6 15 g5 Qe8? 16 f6 etc., has remained unchallenged in chess literature. It is",
+      "bbox": [
+        236.0,
+        2181.0,
+        1557.0,
+        2225.0
+      ],
+      "confidence": null
+    }
+  ]
+}

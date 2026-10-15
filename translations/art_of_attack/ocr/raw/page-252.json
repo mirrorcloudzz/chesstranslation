@@ -1,0 +1,390 @@
+{
+  "pdf_page": 252,
+  "printed_page": 252,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "252",
+      "bbox": [
+        300.0,
+        116.0,
+        362.0,
+        147.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        726.0,
+        122.0,
+        1221.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The continuation from the above position shows us first of all a typical case of",
+      "bbox": [
+        341.0,
+        266.0,
+        1619.0,
+        318.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "defence by blockade, and then the way to overcome this method of defence.",
+      "bbox": [
+        296.0,
+        315.0,
+        1557.0,
+        362.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Although White has the superior position with all his pieces directed against",
+      "bbox": [
+        340.0,
+        366.0,
+        1616.0,
+        420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's kingside, he still can not achieve anything by 'normal' methods. If 1 g6,",
+      "bbox": [
+        295.0,
+        416.0,
+        1612.0,
+        471.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black plays l...h6, while if I h6, then 1...g6; in both cases blocking the pawns",
+      "bbox": [
+        294.0,
+        466.0,
+        1613.0,
+        521.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "brings the attack to a halt. Attempts to break through by sacrificing a knight can",
+      "bbox": [
+        294.0,
+        516.0,
+        1612.0,
+        571.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "simply be ignored by Black. Thus after I g6 h6 2 Qf3 Ad7 3 Qg5 Black does not",
+      "bbox": [
+        293.0,
+        567.0,
+        1612.0,
+        619.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "take the knight but waits; while if I h6 g6 2 Qh5, Black again does not need to",
+      "bbox": [
+        292.0,
+        618.0,
+        1611.0,
+        668.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "take, for by playing 2...#h8 3 Qf6 Vf7 he can hold the draw.",
+      "bbox": [
+        291.0,
+        668.0,
+        1312.0,
+        711.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's only chance in this position is:",
+      "bbox": [
+        335.0,
+        719.0,
+        978.0,
+        763.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Qhg6 Adi",
+      "bbox": [
+        337.0,
+        764.0,
+        555.0,
+        807.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Clearly, the knight cannot be taken. I ...#f7 is met by 2 h6 and a breakthrough,",
+      "bbox": [
+        334.0,
+        819.0,
+        1607.0,
+        874.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "since if 2...hxg6, then 3 h7 Ae7 4 Vh4 followed by 5 Qxg6.",
+      "bbox": [
+        289.0,
+        869.0,
+        1293.0,
+        920.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 zghl!",
+      "bbox": [
+        332.0,
+        916.0,
+        468.0,
+        957.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White must play with great precision and thoroughly prepare for the break-",
+      "bbox": [
+        331.0,
+        969.0,
+        1604.0,
+        1021.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "through by h6 and hxg7. If he tries 2 h6 immediately, then Black replies 2...hxg6;",
+      "bbox": [
+        286.0,
+        1019.0,
+        1603.0,
+        1076.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then 3 hxg7 Axg7 is not dangerous , while after 3 h7+ 4 Xh6 gxh6 5 gxh6",
+      "bbox": [
+        285.0,
+        1068.0,
+        1604.0,
+        1126.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's attack will probably not succeed.",
+      "bbox": [
+        284.0,
+        1120.0,
+        969.0,
+        1164.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...c6 3 Vh2 Xb7 4 h6 hxg6 5 hxg7 Axg7 6 Xh8+ and White wins.",
+      "bbox": [
+        328.0,
+        1167.0,
+        1464.0,
+        1218.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Defence by elimination",
+      "bbox": [
+        284.0,
+        1276.0,
+        861.0,
+        1331.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Many examples could be given of defence based on the diversion or elimination",
+      "bbox": [
+        280.0,
+        1371.0,
+        1598.0,
+        1422.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of important attacking pieces, since such operations are often undertaken; how-",
+      "bbox": [
+        279.0,
+        1422.0,
+        1597.0,
+        1476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ever, they are limited on the whole to one or two moves and do not normally pro-",
+      "bbox": [
+        278.0,
+        1474.0,
+        1596.0,
+        1531.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vide a complete system of defence but only force the attacker to remodel or",
+      "bbox": [
+        278.0,
+        1524.0,
+        1598.0,
+        1574.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "reorganize his attack. Thus, for example, in the quite normal case where the at-",
+      "bbox": [
+        276.0,
+        1576.0,
+        1595.0,
+        1625.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tacker's knight has to retreat from g5 when faced with ...h6, the problem of de-",
+      "bbox": [
+        276.0,
+        1625.0,
+        1594.0,
+        1681.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fence has not as a rule been fundamentally solved, but rather the attacker has",
+      "bbox": [
+        275.0,
+        1675.0,
+        1594.0,
+        1727.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "been obliged to redirect his attack, either by transferring his target from h7 to h6",
+      "bbox": [
+        275.0,
+        1726.0,
+        1593.0,
+        1781.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "or g7 or else by strengthening the pressure on h7 along the diagonal bl-h7. Spe-",
+      "bbox": [
+        273.0,
+        1777.0,
+        1591.0,
+        1837.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Cial examples and analysis are not necessary in the case of such straightforward",
+      "bbox": [
+        272.0,
+        1827.0,
+        1592.0,
+        1885.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "diversion of opposing pieces. We are interested here in those special cases when",
+      "bbox": [
+        271.0,
+        1878.0,
+        1591.0,
+        1933.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the diversion or elimination of the attacker's pieces represents the essence of the",
+      "bbox": [
+        271.0,
+        1929.0,
+        1590.0,
+        1981.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "defence and is in fact fundamental in driving back the attacking force. The",
+      "bbox": [
+        269.0,
+        1978.0,
+        1589.0,
+        2035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Although after 4 Vh4 followed by Vh7+ White wins the g6-pawn, when the re-",
+      "bbox": [
+        272.0,
+        2086.0,
+        1587.0,
+        2141.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sulting position appears very unpleasant for Black. However, it is true that",
+      "bbox": [
+        351.0,
+        2138.0,
+        1588.0,
+        2186.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White risks nothing by building his position up further before playing h6.",
+      "bbox": [
+        350.0,
+        2185.0,
+        1510.0,
+        2240.0
+      ],
+      "confidence": null
+    }
+  ]
+}

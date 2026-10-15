@@ -1,0 +1,270 @@
+{
+  "pdf_page": 215,
+  "printed_page": 215,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        444.0,
+        139.0,
+        1394.0,
+        180.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 10...Axd6, then 11 gxf6 is decisive.",
+      "bbox": [
+        296.0,
+        283.0,
+        926.0,
+        325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "215",
+      "bbox": [
+        1507.0,
+        141.0,
+        1568.0,
+        172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11 Q)e4 Vd8 12 Adl 1-0. Black cannot prevent the collapse of the weak point",
+      "bbox": [
+        298.0,
+        332.0,
+        1571.0,
+        376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "f6. If 12...Qd7, then 13 gxf6 Axf6 14 Xxd7 Vxd7 15 Oxf6+.",
+      "bbox": [
+        251.0,
+        382.0,
+        1278.0,
+        425.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this example three phases in White's attack should be noted. The first is the",
+      "bbox": [
+        296.0,
+        438.0,
+        1570.0,
+        475.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "creation of the advancing pawn avalanche, the second consists of the deployment",
+      "bbox": [
+        250.0,
+        487.0,
+        1571.0,
+        526.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of White's pieces, and the third is the actual execution or breakthrough.",
+      "bbox": [
+        251.0,
+        537.0,
+        1437.0,
+        576.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The avalanche alone cannot, as a rule, be decisive, and its greatest enemy is",
+      "bbox": [
+        295.0,
+        588.0,
+        1569.0,
+        626.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the danger of blockade. Combating this danger depends gor the most part on",
+      "bbox": [
+        251.0,
+        638.0,
+        1570.0,
+        677.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "piece play, and this takes two main forms: allowing the position to be blocked",
+      "bbox": [
+        250.0,
+        688.0,
+        1570.0,
+        727.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and then breaking it up by sacrificing a piece; or first sacrificing the piece and",
+      "bbox": [
+        251.0,
+        738.0,
+        1570.0,
+        777.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then pushing forward with the pawn avalanche without any fear of its being",
+      "bbox": [
+        251.0,
+        789.0,
+        1570.0,
+        828.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "blocked. In the following games we shall see these methods being applied; de-",
+      "bbox": [
+        250.0,
+        839.0,
+        1568.0,
+        878.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "stroying the enemy pawn cover is essentially the main combinative element.",
+      "bbox": [
+        251.0,
+        889.0,
+        1515.0,
+        927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Rubinstein - Teichmann",
+      "bbox": [
+        680.0,
+        988.0,
+        1138.0,
+        1020.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vienna Match (4), 1908",
+      "bbox": [
+        716.0,
+        1041.0,
+        1105.0,
+        1077.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Queen's Gambit Declined, Orthodox Defence",
+      "bbox": [
+        529.0,
+        1090.0,
+        1288.0,
+        1126.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 d4 d5 2 c4 e6 3 Qc3 Qf6 4 Ag5 Qbd7 5 e3 Ae7 6 Qf3 0-0 7 Vc2 b6",
+      "bbox": [
+        252.0,
+        1185.0,
+        1459.0,
+        1228.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7...c5 is better.",
+      "bbox": [
+        294.0,
+        1240.0,
+        534.0,
+        1270.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 cxd5 exd5 9 Ad3 Abi 10 0-0-0 c5 11 h4 c4? (D)",
+      "bbox": [
+        294.0,
+        1286.0,
+        1159.0,
+        1330.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Logically, Black must attack on the queenside, but his plan is too slow. Before",
+      "bbox": [
+        294.0,
+        1342.0,
+        1568.0,
+        1382.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "he can set up the avalanche formation with pawns on c4 and b4, White will have a",
+      "bbox": [
+        248.0,
+        1393.0,
+        1569.0,
+        1433.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "flourishing attack since his pieces are more active than Black's. Correct was",
+      "bbox": [
+        248.0,
+        1443.0,
+        1567.0,
+        1482.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I l...cxd4 in preparation for ...a6, ...b5 and ...Xc8; that would have constituted a",
+      "bbox": [
+        252.0,
+        1492.0,
+        1569.0,
+        1532.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "more powerful threat.",
+      "bbox": [
+        248.0,
+        1544.0,
+        605.0,
+        1582.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "pdf_page": 54,
+  "printed_page": 54,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        267.1,
+        119.8,
+        317.3,
+        160.9
+      ],
+      "text": "54",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        695.9,
+        121.0,
+        1193.3,
+        167.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9585
+    },
+    {
+      "bbox": [
+        312.4,
+        268.2,
+        706.9,
+        314.4
+      ],
+      "text": "Black, to move, played:",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        313.6,
+        313.1,
+        466.8,
+        359.3
+      ],
+      "text": "1...2xe4",
+      "confidence": 0.9145
+    },
+    {
+      "bbox": [
+        311.2,
+        364.3,
+        1590.2,
+        416.7
+      ],
+      "text": "White's best would now be 2 xe4 d5 3 d3 dxe4 4 Qxe4, in which case the",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        265.9,
+        419.2,
+        1590.2,
+        467.8
+      ],
+      "text": "prospects would remain even. However, before taking the knight on e4 White de-",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        265.9,
+        467.8,
+        1590.2,
+        521.4
+      ],
+      "text": "cides to use his bishop to prevent his opponent from castling - an idea which, in",
+      "confidence": 0.9744
+    },
+    {
+      "bbox": [
+        267.1,
+        520.2,
+        638.3,
+        565.1
+      ],
+      "text": "this position, is faulty.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        308.7,
+        565.1,
+        706.9,
+        611.3
+      ],
+      "text": "2 xf7+ xf7 3 xe4",
+      "confidence": 0.9604
+    },
+    {
+      "bbox": [
+        310.0,
+        620.0,
+        1585.3,
+        668.6
+      ],
+      "text": "At first sight White's plan appears to have succeeded, since, as well as main-",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        267.1,
+        671.1,
+        1587.8,
+        717.3
+      ],
+      "text": "taining the material balance, he has prevented Black from castling. However, the",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        264.6,
+        717.3,
+        1586.6,
+        772.2
+      ],
+      "text": "further play shows that Black can carry out *artificial castling' without difficulty",
+      "confidence": 0.9708
+    },
+    {
+      "bbox": [
+        264.6,
+        770.9,
+        1509.4,
+        819.6
+      ],
+      "text": "and has made a clear gain in that he is left with strong pawns in the centre.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        308.7,
+        817.1,
+        780.4,
+        868.2
+      ],
+      "text": "3...d5 4 ②g3 f8 5 d3 g8",
+      "confidence": 0.9391
+    },
+    {
+      "bbox": [
+        307.5,
+        872.0,
+        1584.1,
+        921.9
+      ],
+      "text": "Now the superiority of Black's position is quite obvious, and one can easily",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        267.1,
+        925.6,
+        1586.6,
+        970.5
+      ],
+      "text": "appreciate the part played by ^artificial castling'; Black has admittedly expended",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        264.6,
+        973.0,
+        1587.8,
+        1020.4
+      ],
+      "text": "three moves on it, but White has derived no advantage from this fact, since he has",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        261.0,
+        1016.7,
+        1590.2,
+        1075.3
+      ],
+      "text": "made three moves of even less value, i.e. Qxf7+, xe4, and g3. In a sense,",
+      "confidence": 0.9785
+    },
+    {
+      "bbox": [
+        264.6,
+        1074.1,
+        1494.7,
+        1122.7
+      ],
+      "text": "Black was castling while White was transferring his knight from c3 to g3.",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        262.2,
+        1172.6,
+        1080.6,
+        1241.2
+      ],
+      "text": "The correct moment for castling",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        262.2,
+        1273.7,
+        1589.0,
+        1327.3
+      ],
+      "text": "Beginners are often advised to castle as quickly as possible. This is a useful and",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        262.2,
+        1327.3,
+        1584.1,
+        1376.0
+      ],
+      "text": "sensible piece of advice in the majority of instances. Certainly, less experienced",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        262.2,
+        1376.0,
+        1585.3,
+        1429.6
+      ],
+      "text": "players offend against this general precept extremely often, postponing castling",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        262.2,
+        1428.4,
+        1584.1,
+        1475.8
+      ],
+      "text": "unnecessarily and as a result suddenly finding themselves in an awkward situa-",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        261.0,
+        1475.8,
+        1584.1,
+        1526.9
+      ],
+      "text": "tion, by which time it is far too late to castle. The present writer once made a sta-",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        258.5,
+        1525.7,
+        1586.6,
+        1580.6
+      ],
+      "text": "tistical survey of late castling using a number of simultaneous games and came to",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        259.7,
+        1575.6,
+        1584.1,
+        1629.2
+      ],
+      "text": "the conclusion that a common characteristic of so-called 'simultaneous massa-",
+      "confidence": 0.9699
+    },
+    {
+      "bbox": [
+        258.5,
+        1626.7,
+        1582.9,
+        1680.4
+      ],
+      "text": "cres' (when the master wins all, or nearly all, of the games) was precisely the",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        256.1,
+        1676.6,
+        1581.7,
+        1731.5
+      ],
+      "text": "lateness of castling. Around the twelfth move of one such simultaneous display",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        258.5,
+        1729.0,
+        1585.3,
+        1778.9
+      ],
+      "text": "the situation was as follows: the master had castled on eighteen of the boards and",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        258.5,
+        1781.4,
+        1582.9,
+        1827.6
+      ],
+      "text": "not yet on two, while his opponents had castled on three boards but not on the",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        256.1,
+        1827.6,
+        1581.7,
+        1883.7
+      ],
+      "text": "rest. The result: 20-0 to the master - a real massacre! This is a typical example",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        257.3,
+        1878.7,
+        1582.9,
+        1933.6
+      ],
+      "text": "which indicates the disadvantages resulting from a delay in castling. In other si-",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        258.5,
+        1932.3,
+        1581.7,
+        1982.2
+      ],
+      "text": "multaneous displays, where masters had a harder task and poorer results, the sta-",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        257.3,
+        1982.2,
+        1581.7,
+        2030.9
+      ],
+      "text": "tistics on castling, taken around the twelfth to fifteenth moves, on the whole",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        256.1,
+        2030.9,
+        764.5,
+        2079.5
+      ],
+      "text": "showed smaller discrepancies.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        301.4,
+        2083.3,
+        1578.0,
+        2134.4
+      ],
+      "text": "The general rule that one should castle as soon as possible is therefore quite in",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        258.5,
+        2133.2,
+        1579.2,
+        2186.8
+      ],
+      "text": "order, though it must at once be emphasized that there are also many exceptions",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        254.8,
+        2185.6,
+        1581.7,
+        2235.5
+      ],
+      "text": "to it. Every chess player of greater experience is well acquainted with those",
+      "confidence": 0.9845
+    }
+  ]
+}

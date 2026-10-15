@@ -1,0 +1,290 @@
+{
+  "pdf_page": 263,
+  "printed_page": 263,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        457.0,
+        124.0,
+        1354.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "263",
+      "bbox": [
+        1493.0,
+        123.0,
+        1554.0,
+        155.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A mistake which luckily is not properly exploited. It was not yet time for a",
+      "bbox": [
+        282.0,
+        271.0,
+        1558.0,
+        312.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bayonet attack by g4. White should have played 35 bxa4 or else brought his",
+      "bbox": [
+        237.0,
+        322.0,
+        1557.0,
+        364.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queen back to the defence via g4 and d 1.",
+      "bbox": [
+        237.0,
+        374.0,
+        913.0,
+        415.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "35...axb3 36 axb3 Xa8 37 g5",
+      "bbox": [
+        283.0,
+        422.0,
+        773.0,
+        463.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Since he lacks a satisfactory defence against ...Xa3 and ...Xxb3, White has no",
+      "bbox": [
+        284.0,
+        470.0,
+        1558.0,
+        513.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "choice but to try to force home his attack on the enemy king.",
+      "bbox": [
+        238.0,
+        524.0,
+        1247.0,
+        564.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "37...Äa3 38 Qg4 Axb3?",
+      "bbox": [
+        284.0,
+        571.0,
+        697.0,
+        614.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A decisive mistake, entirely altering the situation. Black should at this point",
+      "bbox": [
+        283.0,
+        624.0,
+        1560.0,
+        664.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have thought a little about defence himself, leaving the tit-bit on b3, which could",
+      "bbox": [
+        238.0,
+        675.0,
+        1559.0,
+        715.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not run away, until later. Correct was 38...fxg5! 39 Vxg5 hf6 when both 40 Q)e5",
+      "bbox": [
+        239.0,
+        719.0,
+        1557.0,
+        765.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vd6 and 40 Xg2 leave Black the better placed. The essence of Black's de-",
+      "bbox": [
+        239.0,
+        773.0,
+        1558.0,
+        816.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fence in this case is the correctly-timed blockade of White's f-pawn by ...0f6,",
+      "bbox": [
+        239.0,
+        820.0,
+        1558.0,
+        865.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "without which there would be no answer to a breakthrough by White on that criti-",
+      "bbox": [
+        240.0,
+        875.0,
+        1558.0,
+        914.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cal square (f6).",
+      "bbox": [
+        239.0,
+        929.0,
+        487.0,
+        968.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "39 xg2!",
+      "bbox": [
+        285.0,
+        976.0,
+        417.0,
+        1017.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The move which decides the game, since it threatens both gxf6 and oxf6+.",
+      "bbox": [
+        284.0,
+        1021.0,
+        1539.0,
+        1067.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "39...#h8",
+      "bbox": [
+        285.0,
+        1076.0,
+        435.0,
+        1110.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 39...fxg5 40 Vxg5, 40...Q)f6 is no longer feasible, and accordingly the",
+      "bbox": [
+        285.0,
+        1124.0,
+        1560.0,
+        1168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "breakthrough by f6 wins in all variations.",
+      "bbox": [
+        240.0,
+        1180.0,
+        923.0,
+        1219.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "40 gxf6 gxf6?!",
+      "bbox": [
+        285.0,
+        1230.0,
+        531.0,
+        1269.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This loses quickly. A better resistance and even some chances of a draw were",
+      "bbox": [
+        285.0,
+        1280.0,
+        1560.0,
+        1320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "offered by the continuation 40...Qxf6 41 me5 Ve8 42 Oxb3 Äxb3 43 Qg6+",
+      "bbox": [
+        241.0,
+        1325.0,
+        1560.0,
+        1369.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "44 axe7+ Vxe7 45 vg3.",
+      "bbox": [
+        327.0,
+        1376.0,
+        753.0,
+        1420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "41 Qxb3 Xxb3 (D)",
+      "bbox": [
+        285.0,
+        1428.0,
+        609.0,
+        1469.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "42 Qh6! xg7 43 Äxg7 44 Vg3+! exh6 45 Vd5",
+      "bbox": [
+        287.0,
+        2133.0,
+        1295.0,
+        2178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "45...c2 would also be met by 46 Ägl.",
+      "bbox": [
+        286.0,
+        2186.0,
+        904.0,
+        2228.0
+      ],
+      "confidence": null
+    }
+  ]
+}

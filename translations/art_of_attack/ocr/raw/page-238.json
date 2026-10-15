@@ -1,0 +1,410 @@
+{
+  "pdf_page": 238,
+  "printed_page": 238,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "238",
+      "bbox": [
+        248.0,
+        131.0,
+        310.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        675.0,
+        134.0,
+        1170.0,
+        175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "central squares. In this the c-pawn plays an important part both in covering the",
+      "bbox": [
+        246.0,
+        281.0,
+        1566.0,
+        328.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "d-pawn and in effecting a lateral attack; this delays the queen's development on",
+      "bbox": [
+        245.0,
+        331.0,
+        1565.0,
+        378.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the one hand, and also slightly weakens the queenside on the other, consequently",
+      "bbox": [
+        246.0,
+        381.0,
+        1564.0,
+        430.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "reducing the circumstances which favour castling long.",
+      "bbox": [
+        244.0,
+        432.0,
+        1160.0,
+        476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "There are quite a few situations in the openings when castling on the queen-",
+      "bbox": [
+        289.0,
+        482.0,
+        1563.0,
+        530.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "side can be usefully applied, and in some cases one can say that it in fact repre-",
+      "bbox": [
+        244.0,
+        532.0,
+        1562.0,
+        580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sents the best solution to the basic problem of building up the position. We shall",
+      "bbox": [
+        244.0,
+        583.0,
+        1563.0,
+        628.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "now list the main factors which would usually endorse the choice of long castling",
+      "bbox": [
+        243.0,
+        632.0,
+        1562.0,
+        681.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in a game:",
+      "bbox": [
+        243.0,
+        682.0,
+        412.0,
+        720.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1) The pawn position on the kingside has already been weakened, while that",
+      "bbox": [
+        291.0,
+        733.0,
+        1562.0,
+        777.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on the queenside is sound; this may incline the player towards castling long. (If",
+      "bbox": [
+        242.0,
+        783.0,
+        1564.0,
+        831.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "castling on the kingside is quite impossible or is obstructed, then naturally there",
+      "bbox": [
+        241.0,
+        834.0,
+        1560.0,
+        881.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is no choice at all.)",
+      "bbox": [
+        241.0,
+        884.0,
+        554.0,
+        922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) The opponent's forces (pieces or pawns, or both) are favourably placed for",
+      "bbox": [
+        286.0,
+        934.0,
+        1560.0,
+        982.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "an attack on the short castled position, but unfavourably for one on the long cas-",
+      "bbox": [
+        240.0,
+        985.0,
+        1558.0,
+        1033.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tled position.",
+      "bbox": [
+        239.0,
+        1035.0,
+        453.0,
+        1073.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) The kingside is not sufficiently developed, while on the queenside the back",
+      "bbox": [
+        284.0,
+        1085.0,
+        1559.0,
+        1132.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rank is already clear. If this is the case when the situation demands castling as",
+      "bbox": [
+        237.0,
+        1135.0,
+        1556.0,
+        1185.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "soon as possible, then castling takes place on the queenside.",
+      "bbox": [
+        238.0,
+        1187.0,
+        1231.0,
+        1231.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4) One's opponent has castled on the kingside, and the weaknesses in his cas-",
+      "bbox": [
+        281.0,
+        1236.0,
+        1555.0,
+        1281.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tled position can only be properly exploited by means of an assault by one or",
+      "bbox": [
+        236.0,
+        1287.0,
+        1556.0,
+        1336.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "more pawns. If in such a case castling on the queenside is readily available and",
+      "bbox": [
+        235.0,
+        1339.0,
+        1555.0,
+        1385.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "there are no other factors militating against it, one castles long rather than short.",
+      "bbox": [
+        235.0,
+        1387.0,
+        1552.0,
+        1435.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "An assault by the h-pawn with the aim of opening up the h-file for the rook is of-",
+      "bbox": [
+        234.0,
+        1438.0,
+        1552.0,
+        1484.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ten the answer to a fianchettoed king position, and in this case too castling on the",
+      "bbox": [
+        234.0,
+        1489.0,
+        1553.0,
+        1539.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queenside is indicated.",
+      "bbox": [
+        233.0,
+        1540.0,
+        608.0,
+        1577.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5) A rapid deployment of the rook on the d-file gains an important tempo or",
+      "bbox": [
+        278.0,
+        1590.0,
+        1553.0,
+        1641.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "some other advantage, and in such a case castling long can afford an excellent so-",
+      "bbox": [
+        233.0,
+        1641.0,
+        1551.0,
+        1687.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lution.",
+      "bbox": [
+        232.0,
+        1690.0,
+        336.0,
+        1720.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The factors listed here are only intended as general hints for the player, and the",
+      "bbox": [
+        275.0,
+        1791.0,
+        1550.0,
+        1842.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "particular characteristics of the actual position should be surveyed each time one",
+      "bbox": [
+        229.0,
+        1842.0,
+        1549.0,
+        1891.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "makes a choice between castling moves. Black, particularly, should be careful if",
+      "bbox": [
+        229.0,
+        1893.0,
+        1552.0,
+        1942.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "he intends to castle on the queenside, since experience has shown that the neces-",
+      "bbox": [
+        228.0,
+        1944.0,
+        1547.0,
+        1990.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sary conditions for long castling more often arise for White than for Black. When",
+      "bbox": [
+        229.0,
+        1996.0,
+        1548.0,
+        2039.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's long castling coincides with short castling by White one gets a case of",
+      "bbox": [
+        228.0,
+        2045.0,
+        1551.0,
+        2095.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "opposite-side castled positions; this leads to an intensification of the game,",
+      "bbox": [
+        227.0,
+        2096.0,
+        1546.0,
+        2147.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which naturally favours the better developed side, and this in the majority of",
+      "bbox": [
+        227.0,
+        2145.0,
+        1550.0,
+        2197.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cases is White.",
+      "bbox": [
+        226.0,
+        2196.0,
+        472.0,
+        2227.0
+      ],
+      "confidence": null
+    }
+  ]
+}

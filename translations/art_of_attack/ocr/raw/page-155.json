@@ -1,0 +1,290 @@
+{
+  "pdf_page": 155,
+  "printed_page": 155,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        328.3,
+        119.8,
+        1533.9,
+        168.4
+      ],
+      "text": "Ranks, files and diagonals in the attack on the castled king 155",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        210.7,
+        263.2,
+        1537.6,
+        316.9
+      ],
+      "text": "analysis: 13...b6! 14 e2 a7 15 b1 (after 15 e4 dxe4 White could not con-",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        209.5,
+        315.6,
+        1537.6,
+        364.3
+      ],
+      "text": "tinue with 16 fxe4 because of 16...xd4 while after 16 xe4 White would not be",
+      "confidence": 0.9684
+    },
+    {
+      "bbox": [
+        210.7,
+        370.5,
+        1538.8,
+        412.9
+      ],
+      "text": "able to drive the enemy bishop away from f6; note also that since there was a",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        208.3,
+        416.7,
+        1538.8,
+        467.8
+      ],
+      "text": "threat of 15...c5, there is no time for further preparations, e.g. by 15 &f5)",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        210.7,
+        467.8,
+        1533.9,
+        515.2
+      ],
+      "text": "15..c7 16 Qf5 c5! and Black has the better prospects; on 17 dxc5 he naturally",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        209.5,
+        514.0,
+        1538.8,
+        570.1
+      ],
+      "text": "plays 17..bxc5, while if 17 Wd2, he makes the consistent reply 17...c6!, with-",
+      "confidence": 0.9589
+    },
+    {
+      "bbox": [
+        211.9,
+        566.4,
+        1536.3,
+        617.5
+      ],
+      "text": "out having anything to fear from 18 dxc5 bxc5 19 Wxd5?, since by 19...Wb8 he",
+      "confidence": 0.9823
+    },
+    {
+      "bbox": [
+        209.5,
+        620.0,
+        1537.6,
+        667.4
+      ],
+      "text": "can build up a powerful attack against White's king position. The essence of this",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        213.2,
+        668.6,
+        1540.0,
+        718.5
+      ],
+      "text": "analysis lies in Black opening up files by ...b6 and ...c5. We shall see how Black",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        208.3,
+        721.0,
+        1537.6,
+        768.4
+      ],
+      "text": "returns to this motif later on in the game and by opening up these files finally set-",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        210.7,
+        772.2,
+        438.6,
+        815.9
+      ],
+      "text": "tles the issue.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        254.8,
+        820.8,
+        392.0,
+        863.3
+      ],
+      "text": "14 b1",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        256.1,
+        869.5,
+        1536.3,
+        918.1
+      ],
+      "text": "More precise would be 14 e2 immediately, but even against the move played",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        207.0,
+        919.4,
+        1535.1,
+        971.8
+      ],
+      "text": "it is too late for Black to play ...b6, etc., because he has lost a tempo by playing",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        211.9,
+        975.5,
+        360.2,
+        1013.0
+      ],
+      "text": "13...a5?.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        256.1,
+        1016.7,
+        942.1,
+        1067.8
+      ],
+      "text": "14...d7 15 2e2 Wb6 16 f5 μfd8 (D)",
+      "confidence": 0.941
+    },
+    {
+      "bbox": [
+        521.9,
+        1225.0,
+        556.2,
+        1258.7
+      ],
+      "text": "W",
+      "confidence": 0.9114
+    },
+    {
+      "bbox": [
+        257.3,
+        1725.3,
+        436.2,
+        1767.7
+      ],
+      "text": "17 xd7?",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        257.3,
+        1778.9,
+        1537.6,
+        1825.1
+      ],
+      "text": "White misses the opportunity to advance his e-pawn to e5; after 17 e4! dxe4",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        211.9,
+        1827.6,
+        1537.6,
+        1877.5
+      ],
+      "text": "18 fxe4 f8 19 e5 Qe7 20 hg1 White's advantage is obvious. The exchange on",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        214.4,
+        1882.4,
+        699.6,
+        1922.4
+      ],
+      "text": "d7 makes Black's task easier.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        257.3,
+        1928.6,
+        564.8,
+        1972.3
+      ],
+      "text": "17...xd7 18 4",
+      "confidence": 0.9319
+    },
+    {
+      "bbox": [
+        256.1,
+        1983.5,
+        1537.6,
+        2028.4
+      ],
+      "text": "If White attempts to prepare e4 by 18 d3, etc., Black has ...ad8 to exert suf-",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        214.4,
+        2034.6,
+        1538.8,
+        2075.8
+      ],
+      "text": "ficient pressure on White's pawn at d4. For this reason White decides on an at-",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        213.2,
+        2083.3,
+        1541.2,
+        2129.4
+      ],
+      "text": "tack against the castled king with pieces alone, unaided by an aggressive central",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        211.9,
+        2133.2,
+        1427.3,
+        2180.6
+      ],
+      "text": "pawn formation, and as a result his prospects of success are not so great.",
+      "confidence": 0.9704
+    },
+    {
+      "bbox": [
+        256.1,
+        2181.8,
+        1270.5,
+        2228.0
+      ],
+      "text": "18...d6 19 hg1 h8 20 g4 g8 21 dg1 Wc7 22 d3!",
+      "confidence": 0.9542
+    }
+  ]
+}

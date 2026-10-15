@@ -1,0 +1,428 @@
+{
+  "section": {
+    "id": "openings",
+    "title": "Index of Openings",
+    "pdf_start": 352,
+    "pdf_end": 352,
+    "print_start": 352,
+    "print_end": 352,
+    "first_page_region": "y >= 1380 in native 1725 x 2475 bitmap"
+  },
+  "status": "OCR_preparation_not_proofread",
+  "pages": [
+    {
+      "pdf_page": 352,
+      "source_image": "source_pages/page-352.png",
+      "lines": [
+        {
+          "text": "Index of Openings",
+          "bbox": [
+            305.0,
+            1400.0,
+            868.0,
+            1473.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l026",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Blumenfeld Counter-Gambit 202",
+          "bbox": [
+            300.0,
+            1520.0,
+            821.0,
+            1558.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l027",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Caro-Kann Defence 78, 1 16",
+          "bbox": [
+            299.0,
+            1567.0,
+            743.0,
+            1607.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l028",
+          "pdf_page": 352,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "text": "Colle System 139, 346",
+          "bbox": [
+            298.0,
+            1613.0,
+            656.0,
+            1651.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l029",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Danish Gambit 99",
+          "bbox": [
+            296.0,
+            1660.0,
+            584.0,
+            1693.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l030",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "English Opening 15",
+          "bbox": [
+            295.0,
+            1707.0,
+            609.0,
+            1748.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l031",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Evans Gambit 29",
+          "bbox": [
+            294.0,
+            1754.0,
+            566.0,
+            1787.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l032",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "French Defence 36, 170",
+          "bbox": [
+            293.0,
+            1801.0,
+            673.0,
+            1839.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l033",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Giuoco Piano 19, 55, 63, 92",
+          "bbox": [
+            293.0,
+            1847.0,
+            735.0,
+            1888.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l034",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Grunfeld Defence 34",
+          "bbox": [
+            292.0,
+            1894.0,
+            624.0,
+            1928.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l035",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "King's Gambit Accepted 49",
+          "bbox": [
+            292.0,
+            1941.0,
+            731.0,
+            1984.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l036",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "King's Gambit Declined 16",
+          "bbox": [
+            290.0,
+            1988.0,
+            724.0,
+            2025.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l037",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Nimzo-Indian Defence 256, 344",
+          "bbox": [
+            288.0,
+            2035.0,
+            798.0,
+            2077.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l038",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Petroff Defence 46, 243",
+          "bbox": [
+            288.0,
+            2082.0,
+            663.0,
+            2121.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l039",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Philidor Defence 77, 271",
+          "bbox": [
+            286.0,
+            2129.0,
+            679.0,
+            2168.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l040",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Queen's Gambit Declined 153, 289, 337",
+          "bbox": [
+            286.0,
+            2175.0,
+            907.0,
+            2219.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l041",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Orthodox Defence 25, 86, 135, 215,",
+          "bbox": [
+            1029.0,
+            1535.0,
+            1598.0,
+            1580.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l065",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "258, 311, 316, 341",
+          "bbox": [
+            1024.0,
+            1582.0,
+            1314.0,
+            1619.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l066",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Semi-Slav Defence 131",
+          "bbox": [
+            1027.0,
+            1629.0,
+            1396.0,
+            1665.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l067",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Semi-Tarrasch Defence 204",
+          "bbox": [
+            1026.0,
+            1676.0,
+            1465.0,
+            1712.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l068",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Tarrasch Defence 198",
+          "bbox": [
+            1024.0,
+            1723.0,
+            1368.0,
+            1758.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l069",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Queen's Pawn Game 218",
+          "bbox": [
+            984.0,
+            1768.0,
+            1382.0,
+            1805.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l070",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Ruy Lopez 77, 84",
+          "bbox": [
+            983.0,
+            1816.0,
+            1264.0,
+            1854.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l071",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Sicilian Defence",
+          "bbox": [
+            983.0,
+            1863.0,
+            1242.0,
+            1896.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l072",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "2...Qf6 23, 26",
+          "bbox": [
+            1021.0,
+            1906.0,
+            1244.0,
+            1946.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l073",
+          "pdf_page": 352,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "text": "Closed Variation 28",
+          "bbox": [
+            1019.0,
+            1957.0,
+            1331.0,
+            1992.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l074",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Dragon Variation 284, 313",
+          "bbox": [
+            1018.0,
+            2004.0,
+            1438.0,
+            2044.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l075",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Scheveningen Variation 220",
+          "bbox": [
+            1018.0,
+            2051.0,
+            1462.0,
+            2091.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l076",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Najdorf Variation 22",
+          "bbox": [
+            1017.0,
+            2098.0,
+            1343.0,
+            2134.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l077",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Sokolsky Opening 199",
+          "bbox": [
+            977.0,
+            2144.0,
+            1336.0,
+            2186.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l078",
+          "pdf_page": 352,
+          "review_flags": []
+        },
+        {
+          "text": "Vienna Game 38, 43",
+          "bbox": [
+            975.0,
+            2190.0,
+            1297.0,
+            2228.0
+          ],
+          "confidence": null,
+          "id": "AA-p352-l079",
+          "pdf_page": 352,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": []
+    }
+  ]
+}

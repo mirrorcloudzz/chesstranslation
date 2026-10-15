@@ -1,0 +1,300 @@
+{
+  "pdf_page": 108,
+  "printed_page": 108,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        251.2,
+        123.5,
+        327.1,
+        169.7
+      ],
+      "text": "108",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        681.2,
+        126.0,
+        1184.7,
+        177.1
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        252.4,
+        272.0,
+        1578.0,
+        325.6
+      ],
+      "text": "by Black's; furthermore, if 5 Wh5, Black has the reply 5...g7 6 f5 Wh6 with",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        253.6,
+        326.8,
+        606.4,
+        370.5
+      ],
+      "text": "an adequate defence.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        296.5,
+        373.0,
+        1584.1,
+        429.1
+      ],
+      "text": "White's later play is interesting, even if it is no longer as typical of this kind of",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        253.6,
+        427.9,
+        916.4,
+        470.3
+      ],
+      "text": "attack as the possibilities cited hitherto.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        296.5,
+        471.5,
+        704.5,
+        520.2
+      ],
+      "text": "4 Wh7+ f8 5 f5 (D)",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        297.7,
+        525.2,
+        1574.3,
+        578.8
+      ],
+      "text": "White's queen is now best placed where it is, on h7; further checks would only",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        254.8,
+        578.8,
+        964.2,
+        618.8
+      ],
+      "text": "make it easier for Black to defend himself.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        945.8,
+        717.3,
+        982.6,
+        747.2
+      ],
+      "text": "二",
+      "confidence": 0.6109
+    },
+    {
+      "bbox": [
+        584.4,
+        782.2,
+        611.3,
+        814.6
+      ],
+      "text": "B",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        292.8,
+        1277.4,
+        426.3,
+        1321.1
+      ],
+      "text": "5...Wc6",
+      "confidence": 0.8435
+    },
+    {
+      "bbox": [
+        289.1,
+        1326.1,
+        1571.9,
+        1386.0
+      ],
+      "text": "After 5...Wd5 6 Wh6+ Black cannot play 6..g8 due to 7 h7+ and 8 e4+,",
+      "confidence": 0.9705
+    },
+    {
+      "bbox": [
+        247.5,
+        1378.5,
+        1515.5,
+        1434.6
+      ],
+      "text": "while 6...e7 7 e4 wins the black bishop, for 7...Wd7 is defeated by 8 e6.",
+      "confidence": 0.9698
+    },
+    {
+      "bbox": [
+        291.6,
+        1430.9,
+        1571.9,
+        1484.5
+      ],
+      "text": "5...Wb6 is of no use either, since 6 ac 1! leaves Black without a reasonable re-",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        243.8,
+        1477.0,
+        1283.9,
+        1536.9
+      ],
+      "text": "ply, e.g. if 6...e7, then 7 e6 fxe6 8 xe6 is quickly decisive.",
+      "confidence": 0.9713
+    },
+    {
+      "bbox": [
+        286.7,
+        1528.2,
+        1114.9,
+        1583.1
+      ],
+      "text": "6 e4 Wb6 7 xb7 Wxb7 8 e6 and White wins.",
+      "confidence": 0.9686
+    },
+    {
+      "bbox": [
+        286.7,
+        1580.6,
+        1571.9,
+        1639.2
+      ],
+      "text": "The threat is 9 Wh8+ e7 10 exf7+ and the reply 8...d6 fails against 9 e7+",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        246.3,
+        1633.0,
+        483.9,
+        1675.4
+      ],
+      "text": "and 10 wh8#.",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        286.7,
+        1684.1,
+        1571.9,
+        1740.2
+      ],
+      "text": "This analysis shows what great power there is in the formation of queen at h6",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        246.3,
+        1736.5,
+        1571.9,
+        1788.9
+      ],
+      "text": "and bishop at d3 when combined with a rook at e1 and a pawn at e5. The various",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        243.8,
+        1786.4,
+        1571.9,
+        1840.0
+      ],
+      "text": "operations connected with the focal-points h7 and f7 are well worth remember-",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        242.6,
+        1837.5,
+        1570.6,
+        1891.2
+      ],
+      "text": "ing, since opportunities to use them arise frequently in actual games. Since the",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        243.8,
+        1886.2,
+        1569.4,
+        1942.3
+      ],
+      "text": "defender must move his rook from f8 when mate is threatened at h7, it is clearly a",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        242.6,
+        1936.1,
+        1569.4,
+        1993.5
+      ],
+      "text": "decisive factor whether or not the focal-point f7 is protected by other pieces. An",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        241.4,
+        1986.0,
+        1570.6,
+        2045.9
+      ],
+      "text": "alternative defence involves ...f6 or ...f5, but the success of such a reply depends",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        240.1,
+        2037.1,
+        1423.6,
+        2093.3
+      ],
+      "text": "on the other features of the position, which must be carefully assessed.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        285.5,
+        2139.4,
+        1567.0,
+        2193.1
+      ],
+      "text": "The main feature of the third group is the network of weak squares of the",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        240.1,
+        2189.3,
+        1568.2,
+        2246.7
+      ],
+      "text": "same colour; here the attacker's bishop is, as a rule, the piece which controls the",
+      "confidence": 0.9844
+    }
+  ]
+}

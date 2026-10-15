@@ -1,0 +1,280 @@
+{
+  "pdf_page": 84,
+  "printed_page": 84,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        225.4,
+        128.5,
+        279.3,
+        174.6
+      ],
+      "text": "84",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        655.5,
+        131.0,
+        1154.1,
+        175.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9433
+    },
+    {
+      "bbox": [
+        559.9,
+        383.0,
+        584.4,
+        415.4
+      ],
+      "text": "B",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        268.3,
+        877.0,
+        1297.4,
+        925.6
+      ],
+      "text": "5 Wd5 &xd5 6 cxd5 Wxb2 7 Ωxd2 Wxa1 8 Qf3 Ωxh2+ 0-1",
+      "confidence": 0.9492
+    },
+    {
+      "bbox": [
+        269.5,
+        931.9,
+        1542.5,
+        980.5
+      ],
+      "text": "White has escaped being mated, but has to surrender owing to the great mate-",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        223.0,
+        980.5,
+        666.5,
+        1025.4
+      ],
+      "text": "rial losses he has suffered.",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        265.9,
+        1080.3,
+        1546.1,
+        1132.7
+      ],
+      "text": "The next two games illustrate the attack on the castled king, with g2 (or g7) as",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        224.2,
+        1131.5,
+        480.3,
+        1177.6
+      ],
+      "text": "the focal-point.",
+      "confidence": 0.9753
+    },
+    {
+      "bbox": [
+        648.1,
+        1231.3,
+        1118.6,
+        1278.7
+      ],
+      "text": "Vygodchikov - Alekhine",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        627.3,
+        1287.4,
+        1144.3,
+        1328.6
+      ],
+      "text": "Correspondence Game, 1908/9",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        787.8,
+        1334.8,
+        977.7,
+        1383.5
+      ],
+      "text": "Ruy Lopez",
+      "confidence": 0.9478
+    },
+    {
+      "bbox": [
+        223.0,
+        1433.4,
+        1102.6,
+        1477.0
+      ],
+      "text": "1 e4 e5 2 f3 ②c6 3 b5 a6 4 鱼a4 2f6 5 0-0 皇c5",
+      "confidence": 0.9042
+    },
+    {
+      "bbox": [
+        264.6,
+        1482.0,
+        1542.5,
+        1540.6
+      ],
+      "text": "The Moller Variation, against which White can gain a slight advantage by",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        220.5,
+        1535.6,
+        1548.6,
+        1586.8
+      ],
+      "text": "playing 6 c3. In continuing 6 xe5, as he does here, White makes the defence",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        221.8,
+        1590.5,
+        673.8,
+        1628.0
+      ],
+      "text": "somewhat easier for Black.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        263.4,
+        1631.7,
+        1297.4,
+        1685.3
+      ],
+      "text": "6 xe5 xe5 7 d4 xe4! 8 e1 e7 9 xe4 g6 10 c3?!",
+      "confidence": 0.9742
+    },
+    {
+      "bbox": [
+        264.6,
+        1686.6,
+        553.8,
+        1731.5
+      ],
+      "text": "10 c4 is stronger.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        264.6,
+        1735.2,
+        830.6,
+        1777.7
+      ],
+      "text": "10...0-0 11 d5 d6 12 Wf3 f5?",
+      "confidence": 0.9606
+    },
+    {
+      "bbox": [
+        261.0,
+        1782.6,
+        1544.9,
+        1837.5
+      ],
+      "text": "Instead of this weak move, correct is 12...b5! 13 b3 b7 with the better",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        219.3,
+        1837.5,
+        555.0,
+        1883.7
+      ],
+      "text": "prospects for Black.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        262.2,
+        1884.9,
+        504.8,
+        1929.9
+      ],
+      "text": "13 b3! h8",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        262.2,
+        1937.3,
+        1542.5,
+        1989.7
+      ],
+      "text": "13...fxe4 is impossible because of 14 e7+ h8 15 xg6+ and 16 Wh3+.",
+      "confidence": 0.9731
+    },
+    {
+      "bbox": [
+        219.3,
+        1989.7,
+        863.7,
+        2037.1
+      ],
+      "text": "Alekhine now has an inferior position.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        259.7,
+        2034.6,
+        504.8,
+        2087.0
+      ],
+      "text": "14 e2 f4 (D)",
+      "confidence": 0.9774
+    },
+    {
+      "bbox": [
+        261.0,
+        2089.5,
+        382.2,
+        2131.9
+      ],
+      "text": "15 c4?",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        259.7,
+        2138.2,
+        1546.1,
+        2195.6
+      ],
+      "text": "The beginning of a bad plan. It admittedly brings White material gains but at",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        218.1,
+        2191.8,
+        1544.9,
+        2241.7
+      ],
+      "text": "the same time exposes him to a relentless attack on his castled position. Correct",
+      "confidence": 0.9905
+    }
+  ]
+}

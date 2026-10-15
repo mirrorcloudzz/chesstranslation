@@ -1,0 +1,300 @@
+{
+  "pdf_page": 41,
+  "printed_page": 41,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        385.9,
+        122.3,
+        1407.7,
+        168.4
+      ],
+      "text": "The attack on the king that has lost the right to castle",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        1495.9,
+        121.0,
+        1551.0,
+        167.2
+      ],
+      "text": "41",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        272.0,
+        270.7,
+        546.4,
+        313.1
+      ],
+      "text": "21...Wg5+ 22 f4",
+      "confidence": 0.9235
+    },
+    {
+      "bbox": [
+        269.5,
+        320.6,
+        1549.8,
+        363.0
+      ],
+      "text": "White has to consent to this move, which exposes his king still further; 22",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        226.7,
+        368.0,
+        1552.3,
+        416.7
+      ],
+      "text": "f2? is not good on account of 22...Wh4+ 23 f1 (neither 23 e3 Wh6+ nor 23",
+      "confidence": 0.9477
+    },
+    {
+      "bbox": [
+        225.4,
+        416.7,
+        1552.3,
+        466.6
+      ],
+      "text": "g1 d2 is any better) 23...Wh3+ 24 f2 Wxh2+ 25 @e3 Wd2+ 26 e4 g5 and",
+      "confidence": 0.942
+    },
+    {
+      "bbox": [
+        225.4,
+        472.8,
+        423.9,
+        512.7
+      ],
+      "text": "Black wins.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        269.5,
+        519.0,
+        567.2,
+        563.9
+      ],
+      "text": "22...g2 23 皇d6",
+      "confidence": 0.9546
+    },
+    {
+      "bbox": [
+        265.9,
+        565.1,
+        1552.3,
+        618.8
+      ],
+      "text": "If 23 We4 then 23...Wxa2! 24 d6 d7 and Black succeeds in consolidating",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        224.2,
+        622.5,
+        1551.0,
+        668.6
+      ],
+      "text": "the position of his king while remaining a pawn ahead. Also interesting is 23",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        224.2,
+        668.6,
+        1552.3,
+        719.8
+      ],
+      "text": "Wc2 Wh3+ 24 e4 f5+ 25 exf6 gxf6. The opening up of the e-file is of no help to",
+      "confidence": 0.9761
+    },
+    {
+      "bbox": [
+        224.2,
+        721.0,
+        1552.3,
+        768.4
+      ],
+      "text": "White, since his king has nowhere to go; in view of the threat of mate he is forced",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        224.2,
+        770.9,
+        877.2,
+        818.3
+      ],
+      "text": "to play 26 f5, on which 26...②e5 wins.",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        270.8,
+        822.1,
+        591.7,
+        863.3
+      ],
+      "text": "23...Wh3+ 24 e4",
+      "confidence": 0.9355
+    },
+    {
+      "bbox": [
+        269.5,
+        872.0,
+        1551.0,
+        921.9
+      ],
+      "text": "To engineer a possible escape for the king via d2 White would have to give up",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        224.2,
+        923.1,
+        1549.8,
+        971.8
+      ],
+      "text": "his h-pawn; moreover, there would also be a permanent danger of the exchange",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        231.6,
+        978.0,
+        1342.8,
+        1015.4
+      ],
+      "text": "of queens. For this reason he prefers to embark on new adventures.",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        268.3,
+        1019.2,
+        618.7,
+        1070.3
+      ],
+      "text": "24...f5+ 25 d5 (D)",
+      "confidence": 0.9748
+    },
+    {
+      "bbox": [
+        532.9,
+        1228.8,
+        558.7,
+        1262.4
+      ],
+      "text": "B",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        272.0,
+        1731.5,
+        1549.8,
+        1776.4
+      ],
+      "text": "This position caused amazement among some of the spectators, who attempted",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        227.9,
+        1787.6,
+        1551.0,
+        1825.1
+      ],
+      "text": "to get the manager of the tournament to intervene, since it was clear that White's",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        225.4,
+        1836.3,
+        1551.0,
+        1877.5
+      ],
+      "text": "piece on d5 was his queen and that on b1 his king! The position is, of course, a",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        223.0,
+        1884.9,
+        1551.0,
+        1929.9
+      ],
+      "text": "strange one; what is also unusual is that within seven moves the white king has",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        220.5,
+        1933.6,
+        1548.6,
+        1981.0
+      ],
+      "text": "reached a1. Clearly, it is helped in this by Black, who checks unnecessarily in-",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        224.2,
+        1987.2,
+        1553.5,
+        2028.4
+      ],
+      "text": "stead of building up a mating net. Black played 25...Wg2+?, when the correct",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        220.5,
+        2033.4,
+        1552.3,
+        2082.0
+      ],
+      "text": "move was 25...c8!. In that case White's king would get into trouble on the c-",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        223.0,
+        2085.8,
+        1547.4,
+        2130.7
+      ],
+      "text": "file, which it would have to cross to extract itself from the scrape it has got into.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        223.0,
+        2136.9,
+        1551.0,
+        2180.6
+      ],
+      "text": "The following variations illustrate the strength of the rook move and are at the",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        221.8,
+        2186.8,
+        1531.4,
+        2235.5
+      ],
+      "text": "same time instructive as regards play against an exposed king: 25..c8! and now:",
+      "confidence": 0.9879
+    }
+  ]
+}

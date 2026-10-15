@@ -1,0 +1,330 @@
+{
+  "pdf_page": 98,
+  "printed_page": 98,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        226.7,
+        122.3,
+        275.7,
+        164.7
+      ],
+      "text": "98",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        655.5,
+        122.3,
+        1156.5,
+        169.7
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9682
+    },
+    {
+      "bbox": [
+        270.8,
+        269.5,
+        1554.7,
+        319.4
+      ],
+      "text": "This position arose in the game Capablanca-R. Mla, Buenos Aires 1911.",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        226.7,
+        320.6,
+        1551.0,
+        371.7
+      ],
+      "text": "White's combination contains a thrust against the focal-point f7 as a preparation",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        225.4,
+        371.7,
+        1187.2,
+        417.9
+      ],
+      "text": "for the decisive action based on the real focal-point at h7.",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        268.3,
+        417.9,
+        414.1,
+        462.8
+      ],
+      "text": "1 &xf6!",
+      "confidence": 0.8868
+    },
+    {
+      "bbox": [
+        269.5,
+        470.3,
+        1552.3,
+        522.7
+      ],
+      "text": "Interesting, though inadequate, is the alternative possibility 1 xf6+? gxf6 2",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        227.9,
+        516.5,
+        1552.3,
+        573.8
+      ],
+      "text": "Wh5 fxg5 3 Wh6 d4! 4 xd4 e5 5 xe5 f6 6 xg6 Wd7, and White loses a piece",
+      "confidence": 0.9619
+    },
+    {
+      "bbox": [
+        227.9,
+        572.6,
+        793.9,
+        621.2
+      ],
+      "text": "without getting enough in return'.",
+      "confidence": 0.9718
+    },
+    {
+      "bbox": [
+        273.2,
+        622.5,
+        795.1,
+        666.2
+      ],
+      "text": "1...gxf6 2 h6+ g7 3 ②hxf7",
+      "confidence": 0.932
+    },
+    {
+      "bbox": [
+        268.3,
+        673.6,
+        1221.5,
+        722.3
+      ],
+      "text": "Gaining an important tempo by the attack on the e-pawn.",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        272.0,
+        723.5,
+        525.6,
+        764.7
+      ],
+      "text": "3...We8 4 Wh5",
+      "confidence": 0.9682
+    },
+    {
+      "bbox": [
+        267.1,
+        772.2,
+        1552.3,
+        825.8
+      ],
+      "text": "The capture on f7 has helped to weaken the b1-h7 diagonal, on which lies the",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        225.4,
+        828.3,
+        588.1,
+        869.5
+      ],
+      "text": "real focal-point at h7.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        269.5,
+        872.0,
+        649.3,
+        919.4
+      ],
+      "text": "4...fxg5 5 Wh6+! g8",
+      "confidence": 0.9602
+    },
+    {
+      "bbox": [
+        265.9,
+        923.1,
+        1548.6,
+        974.3
+      ],
+      "text": "If 5...xf7, then 6 Wxh7+ f6 7 xg6 Wxg6 8 fxg5+ e5 (or 8...xg5 9",
+      "confidence": 0.9625
+    },
+    {
+      "bbox": [
+        223.0,
+        973.0,
+        981.3,
+        1020.4
+      ],
+      "text": "h4+!) 9 Wc7+ e4 10 xf8 and White wins.",
+      "confidence": 0.9747
+    },
+    {
+      "bbox": [
+        267.1,
+        1022.9,
+        472.9,
+        1070.3
+      ],
+      "text": "6 xg5 1-0",
+      "confidence": 0.9499
+    },
+    {
+      "bbox": [
+        268.3,
+        1075.3,
+        1549.8,
+        1124.0
+      ],
+      "text": "Black presumably saw 6...We7 7 xg6 hxg6 8 Wxg6+ Wg7 9 Wxe6+ h8 10",
+      "confidence": 0.9609
+    },
+    {
+      "bbox": [
+        223.0,
+        1124.0,
+        909.1,
+        1175.1
+      ],
+      "text": "f3, and decided to abandon resistance'.",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        873.5,
+        1120.2,
+        896.8,
+        1142.7
+      ],
+      "text": "2",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        265.9,
+        1175.1,
+        1547.4,
+        1226.3
+      ],
+      "text": "Black might have tried to continue with 6...f7 7 xg6 hxg6 8 Wxg6+ @f8 9",
+      "confidence": 0.9754
+    },
+    {
+      "bbox": [
+        221.8,
+        1221.3,
+        1549.8,
+        1279.9
+      ],
+      "text": "xe6+ e7, admittedly without any real prospects of survival, e.g. 10 c1! Qd6",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        224.2,
+        1273.7,
+        441.1,
+        1326.1
+      ],
+      "text": "11 g5, etc.",
+      "confidence": 0.9723
+    },
+    {
+      "bbox": [
+        556.2,
+        1465.8,
+        580.7,
+        1499.5
+      ],
+      "text": "B",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        221.8,
+        2001.0,
+        242.6,
+        2025.9
+      ],
+      "text": "1",
+      "confidence": 0.6851
+    },
+    {
+      "bbox": [
+        301.4,
+        1996.0,
+        1546.1,
+        2044.6
+      ],
+      "text": "In fact this line is also winning for White, since at the end White can continue 7",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        300.2,
+        2038.4,
+        1548.6,
+        2098.3
+      ],
+      "text": "xf6 xf6 (7...hxg6 8 xg6+) 8 xh7+ f7 9 g8+ xg8 10 Wxf6 with the",
+      "confidence": 0.9568
+    },
+    {
+      "bbox": [
+        301.4,
+        2092.0,
+        996.0,
+        2135.7
+      ],
+      "text": "decisive material advantage of +4& v 2.",
+      "confidence": 0.9676
+    },
+    {
+      "bbox": [
+        218.1,
+        2143.2,
+        242.6,
+        2175.6
+      ],
+      "text": "2",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        300.2,
+        2139.4,
+        1544.9,
+        2191.8
+      ],
+      "text": "Vukovic overlooks the mate in two by 10...Wa1+, but of course White had sev-",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        300.2,
+        2189.3,
+        1181.0,
+        2238.0
+      ],
+      "text": "eral genuine winning lines, e.g. 10 Wh3+ g8 11 e6.",
+      "confidence": 0.985
+    }
+  ]
+}

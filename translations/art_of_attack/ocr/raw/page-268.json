@@ -1,0 +1,290 @@
+{
+  "pdf_page": 268,
+  "printed_page": 268,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "268",
+      "bbox": [
+        251.0,
+        121.0,
+        313.0,
+        153.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        678.0,
+        127.0,
+        1172.0,
+        169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Nor is 8 Qf5? gxh4 9 Vf3 Qe5 10 Vh5 good, e.g. IO...Äxb3 II mxh6+ (or II",
+      "bbox": [
+        293.0,
+        268.0,
+        1563.0,
+        324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axh6 Äbb2!) I l...Axh6 12 Vxh6 Vg4 when the clearing of the g-file enables",
+      "bbox": [
+        247.0,
+        316.0,
+        1566.0,
+        374.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black to cover the focal-point at g7. The g-pawn takes an active role in the con-",
+      "bbox": [
+        247.0,
+        372.0,
+        1564.0,
+        419.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tinuation 8 Xh3 g4 9 bxc4 gxh3 when the threat of ...Xxg2+ costs White a deci-",
+      "bbox": [
+        246.0,
+        420.0,
+        1564.0,
+        472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sive tempo.",
+      "bbox": [
+        246.0,
+        472.0,
+        432.0,
+        511.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The correct response to 7...g5 is 8 Xh3 ! g4 (if 8...Qe5 then 9 Q)f5 after which",
+      "bbox": [
+        289.0,
+        523.0,
+        1563.0,
+        568.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the b-pawn is protected) and now 9 Xh5 ! (instead of 9 bxc4 as above) 9...Qe5 IO",
+      "bbox": [
+        244.0,
+        572.0,
+        1563.0,
+        623.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axh6 Axh6 (if IO...Xxb3 then II Vcl wins) II Äxh6 Xxb3 12 Vcl Qg6 13",
+      "bbox": [
+        243.0,
+        617.0,
+        1560.0,
+        677.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xh8+ mxh8 14 Vh6 and White wins. Here White's play against the focal-point",
+      "bbox": [
+        242.0,
+        668.0,
+        1562.0,
+        728.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "g 7 is unhindered, since g4 is blocked by Black's own pawn.",
+      "bbox": [
+        242.0,
+        724.0,
+        1232.0,
+        773.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 Axh6 Axh6?",
+      "bbox": [
+        286.0,
+        770.0,
+        548.0,
+        806.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "At the very least, this is a tactical mistake; for, by 8...Xxb3 Black could have",
+      "bbox": [
+        285.0,
+        825.0,
+        1559.0,
+        873.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "presented White with an exceptionally difficult problem and involved him in",
+      "bbox": [
+        239.0,
+        876.0,
+        1558.0,
+        923.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "considerable risk if he persisted in playing for a win. The text move, however,",
+      "bbox": [
+        239.0,
+        925.0,
+        1556.0,
+        976.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gives White no difficulties and allows him to win easily.",
+      "bbox": [
+        238.0,
+        974.0,
+        1168.0,
+        1024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Grünfeld and Becker, the authors of the tournament book — one of the best in",
+      "bbox": [
+        283.0,
+        1024.0,
+        1556.0,
+        1072.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the literature of the game — rightly censure Black's move, but their analysis of the",
+      "bbox": [
+        237.0,
+        1074.0,
+        1555.0,
+        1129.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "continuation 8...Äxb3 ! is not correct. In the variation which they conclude with a",
+      "bbox": [
+        236.0,
+        1125.0,
+        1555.0,
+        1177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "drawn ending Black can eventually win, while in that which they consider won",
+      "bbox": [
+        235.0,
+        1175.0,
+        1553.0,
+        1229.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for Black the position can be resolved in White's favour. These lines together",
+      "bbox": [
+        235.0,
+        1225.0,
+        1554.0,
+        1282.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with my analysis will interest the reader as general studies of the middlegame.",
+      "bbox": [
+        234.0,
+        1277.0,
+        1550.0,
+        1333.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Here is a diagram after the alternative 8...Xxb3! (D).",
+      "bbox": [
+        233.0,
+        1327.0,
+        1102.0,
+        1376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Grünfeld and Becker reach a draw as follows: 9 Axf8 g5 ! (otherwise Ag7 and",
+      "bbox": [
+        267.0,
+        2033.0,
+        1540.0,
+        2091.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mate) IO Xh5 Äxc3 11 Ag7 Qg6 12 0f5. In their opinion Black now has no de-",
+      "bbox": [
+        220.0,
+        2081.0,
+        1538.0,
+        2135.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fence against perpetual check by Qh6+. In fact, Black still has something to say",
+      "bbox": [
+        219.0,
+        2133.0,
+        1538.0,
+        2193.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and can play 12...Äxg2+! 13 (if 13 exg2 then 13...Vxe4+ and Black has no",
+      "bbox": [
+        219.0,
+        2184.0,
+        1537.0,
+        2235.0
+      ],
+      "confidence": null
+    }
+  ]
+}

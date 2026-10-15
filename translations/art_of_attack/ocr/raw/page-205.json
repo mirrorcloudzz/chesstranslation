@@ -1,0 +1,290 @@
+{
+  "pdf_page": 205,
+  "printed_page": 205,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        451.0,
+        127.0,
+        1399.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "205",
+      "bbox": [
+        1512.0,
+        128.0,
+        1573.0,
+        159.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mentions 15...Vf6 in his book on Keres, continuing with 16 e5 Vh6? 17 Vxh6",
+      "bbox": [
+        257.0,
+        269.0,
+        1575.0,
+        312.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gxh6, according to the pattern of the game Reshevsky-Fine, Hastings 1937; in",
+      "bbox": [
+        258.0,
+        324.0,
+        1575.0,
+        363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "that game, however, Black' s knight was on c6 and his queen 's rook on d8, so that",
+      "bbox": [
+        257.0,
+        374.0,
+        1576.0,
+        413.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "his simplifying manoeuvre was in order. In this position, though, White would",
+      "bbox": [
+        257.0,
+        425.0,
+        1575.0,
+        463.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "continue 18 d5 exd5 19 Axd5 Axd5 20 Äxd5 Qc5 21 Xd6, and the pawn on h6",
+      "bbox": [
+        257.0,
+        470.0,
+        1575.0,
+        514.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "begins to totter, since 21...ég7 or 21...he6 is answered by 22 Q)h4 followed by",
+      "bbox": [
+        257.0,
+        519.0,
+        1575.0,
+        564.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "hf5.",
+      "bbox": [
+        257.0,
+        570.0,
+        334.0,
+        605.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 Vf4 Vc7 17 Vh4 Xfd8 (D)",
+      "bbox": [
+        304.0,
+        619.0,
+        817.0,
+        662.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18 ze3?",
+      "bbox": [
+        302.0,
+        1325.0,
+        439.0,
+        1359.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's pawn centre, which has now been standing on the board for a number",
+      "bbox": [
+        300.0,
+        1380.0,
+        1574.0,
+        1420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of moves, provides a typical illustration of the sensitivity of such formations. The",
+      "bbox": [
+        256.0,
+        1431.0,
+        1573.0,
+        1471.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "crisis has been mounting from move to move, and the question now is whether",
+      "bbox": [
+        255.0,
+        1481.0,
+        1574.0,
+        1522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the time is ripe for e5 or whether the position still needs reinforcing. White can-",
+      "bbox": [
+        255.0,
+        1532.0,
+        1572.0,
+        1572.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not wait much longer, since Black has a strong card to play on the queenside,",
+      "bbox": [
+        256.0,
+        1582.0,
+        1572.0,
+        1624.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "namely ...b5 and ...a5, etc. Keres decides on reinforcement and in doing so makes",
+      "bbox": [
+        255.0,
+        1632.0,
+        1572.0,
+        1674.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a mistake. Correct was 18 e5 immediately; reinforcement would perhaps also",
+      "bbox": [
+        255.0,
+        1683.0,
+        1573.0,
+        1725.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have worked, but in the shape of 18 Xd3.",
+      "bbox": [
+        254.0,
+        1731.0,
+        933.0,
+        1772.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 18 e5 there are two main ways open to Black (lines 3 and 4 below):",
+      "bbox": [
+        299.0,
+        1784.0,
+        1515.0,
+        1824.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l) 18...Axf3? is bad due to 19 exf6, when the threat of 20 Vg5 wins apiece.",
+      "bbox": [
+        303.0,
+        1829.0,
+        1536.0,
+        1876.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) 18...Qe8 is not good, e.g. 19 Qg5 h6 20 Q)xe6 fxe6 21 Axe6+ 22 d5",
+      "bbox": [
+        299.0,
+        1879.0,
+        1571.0,
+        1924.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with a large advantage for White.",
+      "bbox": [
+        254.0,
+        1935.0,
+        804.0,
+        1974.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) 18...Qd5 19 hg5 h6 20 Qe4 Qc3 (otherwise 21 Qd6) 21 Qxc3 (21 Q)f6+",
+      "bbox": [
+        299.0,
+        1980.0,
+        1572.0,
+        2025.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is probably insufficient in view of 21...#h8) 21...Vxc3 22 Äe3 Vb4 (if 22...Vc6,",
+      "bbox": [
+        254.0,
+        2032.0,
+        1571.0,
+        2076.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then 23 Äg3) 23 Xg3 24 Vg4 (24 Ac2 is also good) 24...Vf8 25 h4 Äc7 26",
+      "bbox": [
+        254.0,
+        2082.0,
+        1572.0,
+        2127.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "f4 Xcd7 (alternatives are 26...g6 27 h5 and 26...Ad5 27 f5) 27 f5 exf5 28 Vxf5",
+      "bbox": [
+        254.0,
+        2134.0,
+        1570.0,
+        2176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xxd4 29 Xxd4 Xxd4 30 e6 with advantage to White.",
+      "bbox": [
+        253.0,
+        2184.0,
+        1127.0,
+        2227.0
+      ],
+      "confidence": null
+    }
+  ]
+}

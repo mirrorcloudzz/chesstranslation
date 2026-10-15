@@ -1,0 +1,300 @@
+{
+  "pdf_page": 338,
+  "printed_page": 338,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "338",
+      "bbox": [
+        228.0,
+        148.0,
+        290.0,
+        179.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15...a5 16 a3 a4",
+      "bbox": [
+        275.0,
+        296.0,
+        541.0,
+        326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        654.0,
+        148.0,
+        1148.0,
+        187.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now 17 Qh5 can be met by 17...Va5. However, as a result of Black's advance",
+      "bbox": [
+        272.0,
+        341.0,
+        1546.0,
+        385.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of the a-pawn, his pawn structure on the queenside has lost its flexibility, which in",
+      "bbox": [
+        227.0,
+        397.0,
+        1546.0,
+        436.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "its turn makes it easier for White to favourably resolve the tension in the cenfre.",
+      "bbox": [
+        227.0,
+        448.0,
+        1506.0,
+        486.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17 Va5 18 Vcl Adi 19",
+      "bbox": [
+        274.0,
+        492.0,
+        765.0,
+        528.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This threatens Qc4-b6 and thus induces Black to play ...b5, which leads to a",
+      "bbox": [
+        271.0,
+        543.0,
+        1547.0,
+        586.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "blocked position on the queenside and restricts his counterplay in the event of",
+      "bbox": [
+        227.0,
+        599.0,
+        1549.0,
+        637.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's launching an attack on the kingside.",
+      "bbox": [
+        226.0,
+        649.0,
+        961.0,
+        687.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...b5 20 Ae4 (D)",
+      "bbox": [
+        274.0,
+        694.0,
+        591.0,
+        735.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": ".4",
+      "bbox": [
+        1090.0,
+        1160.0,
+        1103.0,
+        1177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A series of preconditions for an attack on the king has been created: the weak-",
+      "bbox": [
+        270.0,
+        1404.0,
+        1542.0,
+        1444.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ness represented by the black pawn at h6; the aggressive placing of White's",
+      "bbox": [
+        225.0,
+        1454.0,
+        1543.0,
+        1496.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pieces; his control of the centre; and Black's limited resources on the queenside.",
+      "bbox": [
+        223.0,
+        1504.0,
+        1542.0,
+        1547.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White, however, is not in a hurry to attack, for he sees that he can use his pressure",
+      "bbox": [
+        223.0,
+        1555.0,
+        1544.0,
+        1598.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on c6 to improve the deployment of his own pieces and, at the same time, to con-",
+      "bbox": [
+        224.0,
+        1605.0,
+        1542.0,
+        1646.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "strict his opponent's.",
+      "bbox": [
+        224.0,
+        1656.0,
+        566.0,
+        1695.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20...Vc7 21 Vc3 Ae8 22 Ze2!",
+      "bbox": [
+        269.0,
+        1701.0,
+        787.0,
+        1737.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White is thinking of the square b4.",
+      "bbox": [
+        268.0,
+        1757.0,
+        842.0,
+        1796.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22...Äa6 23",
+      "bbox": [
+        269.0,
+        1803.0,
+        463.0,
+        1837.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Against the threatening line-up of white knight at b4 and queen at f3 Black has",
+      "bbox": [
+        268.0,
+        1858.0,
+        1542.0,
+        1900.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "only two expedients, namely, the direct weakening of his king position by ...f6 or",
+      "bbox": [
+        223.0,
+        1908.0,
+        1543.0,
+        1952.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "an indirect weakening in the form of the exchange of his knight, which defends",
+      "bbox": [
+        223.0,
+        1959.0,
+        1542.0,
+        2002.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the square h7. Black decided on the latter course.",
+      "bbox": [
+        223.0,
+        2009.0,
+        1037.0,
+        2048.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24 Qxd7 Xxd7 25 Qd3 Äd8 26 Af8",
+      "bbox": [
+        268.0,
+        2055.0,
+        973.0,
+        2093.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black is sure that the enduring pressure on the diagonal against h7 will oblige",
+      "bbox": [
+        268.0,
+        2110.0,
+        1543.0,
+        2154.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "him to play ...g6. Logically, therefore, he decides upon a delayed fianchetto as",
+      "bbox": [
+        222.0,
+        2161.0,
+        1542.0,
+        2203.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the best means of putting up some resistance.",
+      "bbox": [
+        222.0,
+        2211.0,
+        973.0,
+        2251.0
+      ],
+      "confidence": null
+    }
+  ]
+}

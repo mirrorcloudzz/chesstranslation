@@ -1,0 +1,270 @@
+{
+  "pdf_page": 206,
+  "printed_page": 206,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "206",
+      "bbox": [
+        236.0,
+        125.0,
+        299.0,
+        156.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        663.0,
+        127.0,
+        1158.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4) 18...Qd7 19 Qg5 Qf8 20 Äe3 h6 21 Qh3 and White has a promising at-",
+      "bbox": [
+        279.0,
+        270.0,
+        1552.0,
+        319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack.",
+      "bbox": [
+        234.0,
+        325.0,
+        310.0,
+        354.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18 Äd3 may be even stronger than the move which we have just examined, for",
+      "bbox": [
+        283.0,
+        371.0,
+        1554.0,
+        417.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with his rook on d3 White threatens e5 immediately. Thus 18...b5 is answered by",
+      "bbox": [
+        234.0,
+        424.0,
+        1552.0,
+        469.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19 e5 and if 19...Qd7, then 20 Qg5 Qf8 21 Qxh7 Oxh7 22 Xh31, while if",
+      "bbox": [
+        237.0,
+        469.0,
+        1556.0,
+        515.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...Qd5, then 20 Qg5 h6 21 Qe4 followed by Qd6. After 18 Xd3 Black would",
+      "bbox": [
+        237.0,
+        519.0,
+        1552.0,
+        566.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have to play 18...h6, in which case 19 e5 hd5 20 Q)d2 gives White the advantage.",
+      "bbox": [
+        233.0,
+        572.0,
+        1548.0,
+        620.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "All these continuations serve to illusfrate my thesis on the critical nature of the",
+      "bbox": [
+        277.0,
+        626.0,
+        1551.0,
+        667.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "full pawn centre; objectively, White's success was quite possible, but one impre-",
+      "bbox": [
+        232.0,
+        676.0,
+        1550.0,
+        721.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cise move (18 Xe3?) and everything has evaporated, as we shall see.",
+      "bbox": [
+        231.0,
+        724.0,
+        1364.0,
+        768.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now e5 is no longer a threat (because of the double attack after 19 e5 Qd5 20",
+      "bbox": [
+        276.0,
+        827.0,
+        1550.0,
+        866.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qg5 h6) and so Black is able to make progress on the queenside.",
+      "bbox": [
+        230.0,
+        871.0,
+        1308.0,
+        921.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19 Adel 20 a4 b4? (D)",
+      "bbox": [
+        278.0,
+        924.0,
+        716.0,
+        966.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "While this is positionally attractive, it allows the initiative to slip out of",
+      "bbox": [
+        274.0,
+        978.0,
+        1552.0,
+        1024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's hands, with the result that White comes back into the game with pros-",
+      "bbox": [
+        230.0,
+        1028.0,
+        1547.0,
+        1075.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pects which are worth a draw at least. Black should have played 20...bxa4 21",
+      "bbox": [
+        228.0,
+        1079.0,
+        1544.0,
+        1123.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axa4 h6 when White's attack would have petered out: 22 e5? (22 g4 does not",
+      "bbox": [
+        228.0,
+        1123.0,
+        1548.0,
+        1174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "work because of 22...Vf4 while if 22 h3, Black plays 22...Vc4 23 Ab3 Vb4)",
+      "bbox": [
+        228.0,
+        1175.0,
+        1546.0,
+        1224.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22...Qd5 23 Xe4 Qe7 24 Xg4 Axf3 25 gxf3 hf5 with advantage to Black.",
+      "bbox": [
+        228.0,
+        1223.0,
+        1474.0,
+        1275.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21 d5!",
+      "bbox": [
+        265.0,
+        1936.0,
+        371.0,
+        1966.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The immediate 21 e5 was not good, but it becomes favourable when pre-",
+      "bbox": [
+        264.0,
+        1987.0,
+        1538.0,
+        2037.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ceded by d5, for then the black knight's access to the d5-square is blocked, while",
+      "bbox": [
+        219.0,
+        2037.0,
+        1539.0,
+        2084.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Black can defend by 22...Ae4! 23 Vxe4 hg5, winning the exchange. Thus 21",
+      "bbox": [
+        222.0,
+        2142.0,
+        1534.0,
+        2191.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Äg3 is a better attacking attempt, with an unclear position.",
+      "bbox": [
+        300.0,
+        2189.0,
+        1223.0,
+        2236.0
+      ],
+      "confidence": null
+    }
+  ]
+}

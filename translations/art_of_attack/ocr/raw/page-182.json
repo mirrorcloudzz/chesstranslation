@@ -1,0 +1,230 @@
+{
+  "pdf_page": 182,
+  "printed_page": 182,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "182",
+      "bbox": [
+        238.0,
+        116.0,
+        295.0,
+        147.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        660.0,
+        118.0,
+        1154.0,
+        158.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this position, which arose in Geller-Kotov, USSR Championship (Moscow)",
+      "bbox": [
+        277.0,
+        266.0,
+        1550.0,
+        309.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1955, White sacrificed a pawn to obtain control of the long diagonal and thereby",
+      "bbox": [
+        236.0,
+        316.0,
+        1550.0,
+        361.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gain the possibility to break through with a winning attack.",
+      "bbox": [
+        232.0,
+        367.0,
+        1210.0,
+        409.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 b3! Qb4 17 Abl",
+      "bbox": [
+        278.0,
+        413.0,
+        615.0,
+        448.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black accepts the pawn sacrifice, a decision which not only costs him a series",
+      "bbox": [
+        276.0,
+        468.0,
+        1549.0,
+        511.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of tempi but also causes him to yield control of the long diagonal to White.",
+      "bbox": [
+        231.0,
+        518.0,
+        1478.0,
+        561.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18 Ab2 19 d5 c4 20 bxc4 bxc4 21 Axe4 Äxe4 22 23 Vh5 h6",
+      "bbox": [
+        278.0,
+        564.0,
+        1549.0,
+        604.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24 0f5! Äxel+ 25 Xxel hxg5",
+      "bbox": [
+        230.0,
+        613.0,
+        736.0,
+        657.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25...g6 fails against 26 Vxh6! Axh6 27 Oxh6+ Éf8 28 Qh7#. If 25...c3,",
+      "bbox": [
+        275.0,
+        664.0,
+        1547.0,
+        710.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White wins by 26 Xe7t cxb2 27 Oxh6+ .",
+      "bbox": [
+        229.0,
+        715.0,
+        914.0,
+        757.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "26 xe3 Ac'd",
+      "bbox": [
+        274.0,
+        765.0,
+        479.0,
+        799.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "There was a threat of 27 Xh3 f6 28 Vg6, etc. If 26...f6, then 27 Vg6! (not 27",
+      "bbox": [
+        273.0,
+        817.0,
+        1546.0,
+        864.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axf6 because of 27...Vf7!) 27...g4 28 Qh6+ 29 Oxg4, etc. If 26...g4, then",
+      "bbox": [
+        228.0,
+        865.0,
+        1547.0,
+        914.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "27 Qh6+ gxh6 28 Vxg4+ with mate in three moves.",
+      "bbox": [
+        228.0,
+        915.0,
+        1098.0,
+        960.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "27 Axg7! axg7 28 Äe8+ 1-0",
+      "bbox": [
+        273.0,
+        966.0,
+        765.0,
+        1009.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "For 28...Af8 is answered by 29 Xxf8+ and 30 Vh8#.",
+      "bbox": [
+        272.0,
+        1016.0,
+        1154.0,
+        1061.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I",
+      "bbox": [
+        222.0,
+        2088.0,
+        233.0,
+        2116.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 26 Äe7, Black has the surprising defence 26...Axd5 !, when 27 Xxc7 cxb2",
+      "bbox": [
+        300.0,
+        2087.0,
+        1538.0,
+        2130.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "28 Vdl Axa2 promotes the pawn. Therefore, 26 Q)e7+ Vxe7 27 Äxe7 Axd5 28",
+      "bbox": [
+        301.0,
+        2131.0,
+        1536.0,
+        2177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Oxf7! is better, when White should win.",
+      "bbox": [
+        300.0,
+        2180.0,
+        939.0,
+        2219.0
+      ],
+      "confidence": null
+    }
+  ]
+}

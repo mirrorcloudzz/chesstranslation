@@ -1,0 +1,300 @@
+{
+  "pdf_page": 33,
+  "printed_page": 33,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        378.6,
+        122.3,
+        1399.1,
+        167.2
+      ],
+      "text": "The attack on the king that has lost the right to castle",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        1488.5,
+        121.0,
+        1542.5,
+        165.9
+      ],
+      "text": "33",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        521.9,
+        370.5,
+        552.5,
+        409.2
+      ],
+      "text": "B",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        262.2,
+        873.2,
+        1540.0,
+        918.1
+      ],
+      "text": "From the game D. Byrne-Fischer, New York Rosenwald 1957. Bobby Fischer,",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        218.1,
+        924.4,
+        1540.0,
+        965.5
+      ],
+      "text": "at the time a boy of thirteen, carried out an attack on the white king (which is no",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        216.9,
+        975.5,
+        1227.6,
+        1016.7
+      ],
+      "text": "longer able to castle) by means of a brilliant queen sacrifice:",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        263.4,
+        1024.2,
+        1540.0,
+        1065.3
+      ],
+      "text": "1...e6! 2 xb6 (if 2 Wxc3, then 2...Wxc5, while if 2 xe6, then 2...Wb5+)",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        218.1,
+        1072.8,
+        1543.7,
+        1117.7
+      ],
+      "text": "2...xc4+ 3 g1 ②e2+ 4 f1 xd4+ 5 g1 e2+ 6 f1 ②c3+ 7 g1 axb6 8",
+      "confidence": 0.9318
+    },
+    {
+      "bbox": [
+        218.1,
+        1121.5,
+        1518.0,
+        1170.1
+      ],
+      "text": "Wb4 a4 9 Wxb6 xd1, and Black won on the basis of his material superiority.",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        261.0,
+        1225.0,
+        1541.2,
+        1269.9
+      ],
+      "text": "The pursuit of a king that has lost the right to castle is not, however, always",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        215.6,
+        1274.9,
+        1541.2,
+        1321.1
+      ],
+      "text": "such a successful undertaking as in the examples quoted. There have in fact been",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        219.3,
+        1328.6,
+        1537.6,
+        1369.7
+      ],
+      "text": "many occasions when the hunted king has come out the winner by successfully",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        216.9,
+        1374.7,
+        1542.5,
+        1423.4
+      ],
+      "text": "escaping to safety, and when the whole of his flight turns out in the end to be arti-",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        211.9,
+        1427.1,
+        736.3,
+        1472.0
+      ],
+      "text": "ficial castling on a large scale!",
+      "confidence": 0.9497
+    },
+    {
+      "bbox": [
+        263.4,
+        1482.0,
+        1538.8,
+        1523.2
+      ],
+      "text": "A player who is pursuing a king in such circumstances must therefore keep his",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        216.9,
+        1528.2,
+        1540.0,
+        1574.3
+      ],
+      "text": "eyes open to make sure that the prey does not elude him. Two factors are particu-",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        215.6,
+        1578.1,
+        1543.7,
+        1626.7
+      ],
+      "text": "larly important: the tempo of the attack and slowly but surely building up a mat-",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        218.1,
+        1631.7,
+        1546.1,
+        1672.9
+      ],
+      "text": "ing net from which the king has no escape. As a matter of fact, this net is often of",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        214.4,
+        1679.1,
+        1542.5,
+        1725.3
+      ],
+      "text": "more importance than tempi, and quiet moves which ‘spin the threads' often",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        218.1,
+        1731.5,
+        1542.5,
+        1776.4
+      ],
+      "text": "point the correct way, whereas many juicy checks may prove to be mistakes. The",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        214.4,
+        1780.2,
+        1542.5,
+        1825.1
+      ],
+      "text": "position of the king that has lost the right to castle represents, as it were, the at-",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        215.6,
+        1832.5,
+        1541.2,
+        1875.0
+      ],
+      "text": "tacker's capital, which he has acquired at the price of sacrifices or positional dis-",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        215.6,
+        1878.7,
+        1543.7,
+        1932.3
+      ],
+      "text": "advantages. The attacker should retain his hold on this capital without worrying",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        215.6,
+        1932.3,
+        1541.2,
+        1978.5
+      ],
+      "text": "too much about 'short-term gains' in the form of tempting checks; the decisive",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        215.6,
+        1986.0,
+        1181.0,
+        2027.2
+      ],
+      "text": "point in the end is whether the king is going to fall or not.",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        257.3,
+        2032.1,
+        1546.1,
+        2080.8
+      ],
+      "text": "These remarks are intended to inspire the reader to be cautious in his pursuit of",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        216.9,
+        2084.5,
+        1541.2,
+        2128.2
+      ],
+      "text": "a king that has lost the right to castle. Two maxims here oppose each other: the",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        214.4,
+        2133.2,
+        1542.5,
+        2179.3
+      ],
+      "text": "first instructs one to keep up the tempo of the attack by means of checks in order",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        214.4,
+        2184.3,
+        1543.7,
+        2230.5
+      ],
+      "text": "to give the king no time to recover its breath; the second warns that it is important",
+      "confidence": 0.996
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "pdf_page": 266,
+  "printed_page": 266,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "266",
+      "bbox": [
+        288.0,
+        114.0,
+        352.0,
+        146.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        716.0,
+        121.0,
+        1211.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with check. Therefore, indirect defence must be used to obstruct White's plan to",
+      "bbox": [
+        276.0,
+        869.0,
+        1595.0,
+        926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gain control of h6. With that aim, only an action on the queenside can be consid-",
+      "bbox": [
+        275.0,
+        919.0,
+        1593.0,
+        971.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ered, for Black cannot achieve anything in the centre.",
+      "bbox": [
+        274.0,
+        969.0,
+        1160.0,
+        1016.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...a5 2 Xf4 a4 3 xan axb3 4 axb3 Äa2!",
+      "bbox": [
+        321.0,
+        1017.0,
+        1011.0,
+        1059.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Very well played ! Black first of all makes it difficult for White to redeploy his",
+      "bbox": [
+        318.0,
+        1070.0,
+        1591.0,
+        1127.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queen and bishop, a course which is necessary for an attack on h6; moreover,",
+      "bbox": [
+        271.0,
+        1122.0,
+        1589.0,
+        1175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "there is an eventual threat of ...Xxb2 followed by ...Qd3.",
+      "bbox": [
+        271.0,
+        1169.0,
+        1212.0,
+        1220.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Suddenly Black threatens 6...Qxc4•, he has worked up a definite counterat-",
+      "bbox": [
+        315.0,
+        1270.0,
+        1586.0,
+        1324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack, and White is still quite a long way from having any serious threats on the",
+      "bbox": [
+        268.0,
+        1321.0,
+        1587.0,
+        1374.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "kingside.",
+      "bbox": [
+        267.0,
+        1371.0,
+        415.0,
+        1409.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black has succeeded in persuading White's queen to leave the attacking diag-",
+      "bbox": [
+        310.0,
+        1472.0,
+        1583.0,
+        1533.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "onal. 6 Äxh6 would not have worked because of 6...Xxb2 7 Vg5 Vg4 and White",
+      "bbox": [
+        265.0,
+        1521.0,
+        1583.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "has nothing. An interesting possibility was 6 Qf5, which probably leads to a",
+      "bbox": [
+        263.0,
+        1573.0,
+        1583.0,
+        1631.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "draw; objectively, this would not have been at all bad, for Black could have",
+      "bbox": [
+        262.0,
+        1624.0,
+        1582.0,
+        1676.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gained some advantage after White's actual move. The analysis runs 6 Q)f5 gxf5",
+      "bbox": [
+        262.0,
+        1675.0,
+        1579.0,
+        1734.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(6...Äxb2 fails against 7 Qxh6+ Axh6 8 Vxh6) 7 Äxh6 Xxb2 8 Vg5+ Qg6 9",
+      "bbox": [
+        262.0,
+        1721.0,
+        1579.0,
+        1785.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xxg6+ fxg6 IO Vxg6+ 1 1 Äf4 (this attempt does not give more than perpet-",
+      "bbox": [
+        260.0,
+        1771.0,
+        1578.0,
+        1836.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ual check, which White would also obtain by 1 1 Vh5+) 11...Äbl+ 12 Xb2+",
+      "bbox": [
+        259.0,
+        1826.0,
+        1579.0,
+        1879.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13 Xbl+ (if 13...Vxe4+ 14 Xxe4 fxe4, White wins by 15 f 7!) 14 Éd2 Äb2+",
+      "bbox": [
+        262.0,
+        1875.0,
+        1578.0,
+        1932.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 Écl Äbl+! 16 •xbl Xxb3+ 17 •a2 Äb2+1 18 (or 18 •xb2 Ve5+ and",
+      "bbox": [
+        261.0,
+        1923.0,
+        1576.0,
+        1981.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...Vxf4) 18...Äa2+, and White's king cannot escape from perpetual check.",
+      "bbox": [
+        261.0,
+        1973.0,
+        1533.0,
+        2035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...Qxc4?",
+      "bbox": [
+        301.0,
+        2024.0,
+        468.0,
+        2061.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Black can play for a win by 17...Äh3! since after 18 gxh3 Vxc4+ he can win the",
+      "bbox": [
+        258.0,
+        2133.0,
+        1573.0,
+        2186.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rook on f4 with a serie; of checks.",
+      "bbox": [
+        335.0,
+        2184.0,
+        875.0,
+        2221.0
+      ],
+      "confidence": null
+    }
+  ]
+}

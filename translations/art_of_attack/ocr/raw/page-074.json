@@ -1,0 +1,180 @@
+{
+  "pdf_page": 74,
+  "printed_page": 74,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        366.3,
+        124.7,
+        416.5,
+        167.2
+      ],
+      "text": "74",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        796.3,
+        126.0,
+        1296.2,
+        173.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9714
+    },
+    {
+      "bbox": [
+        410.4,
+        272.0,
+        1693.1,
+        326.8
+      ],
+      "text": "The pair of rooks which 'grunt out check' on the seventh rank but cannot get a",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        367.5,
+        326.8,
+        1415.0,
+        370.5
+      ],
+      "text": "sight of mate were once nicknamed 'blind swine'by Janowski.",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        408.0,
+        375.5,
+        1690.7,
+        426.6
+      ],
+      "text": "An acquaintance with typical mating patterns is extremely useful when mak-",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        365.1,
+        427.9,
+        1691.9,
+        474.0
+      ],
+      "text": "ing a quick survey of the board in an actual game. The addition of further mate-",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        362.6,
+        475.3,
+        1690.7,
+        527.7
+      ],
+      "text": "rial to the position can be especially useful, for then one can see which changes",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        361.4,
+        525.2,
+        1642.9,
+        576.3
+      ],
+      "text": "help to prevent mate and which enrich the mating patterns in new situations.",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        365.1,
+        631.2,
+        1058.5,
+        692.4
+      ],
+      "text": "Less usuai mating patterns",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        365.1,
+        724.8,
+        1689.5,
+        779.7
+      ],
+      "text": "Of the large number of less usual, and even exotic, mating patterns, I have chosen",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        363.9,
+        777.2,
+        1478.7,
+        827.1
+      ],
+      "text": "ones which bear some nickname or which can easily be given one.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        695.9,
+        984.3,
+        725.3,
+        1020.4
+      ],
+      "text": "B",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        910.3,
+        1220.0,
+        1166.3,
+        1266.2
+      ],
+      "text": "Epaulette Mate",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        405.5,
+        1328.6,
+        1685.8,
+        1383.5
+      ],
+      "text": "The epaulettes are, of course, the two black rooks on the king's shoulders. The",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        359.0,
+        1381.0,
+        1333.0,
+        1430.9
+      ],
+      "text": "next mate also gets its name from its outward appearance.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        694.7,
+        1590.5,
+        719.2,
+        1621.7
+      ],
+      "text": "B",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        906.6,
+        2078.3,
+        1166.3,
+        2119.5
+      ],
+      "text": "'Swallow's tail'",
+      "confidence": 0.9741
+    }
+  ]
+}

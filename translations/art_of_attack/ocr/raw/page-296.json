@@ -1,0 +1,410 @@
+{
+  "pdf_page": 296,
+  "printed_page": 296,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "296",
+      "bbox": [
+        249.0,
+        121.0,
+        312.0,
+        152.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        676.0,
+        124.0,
+        1170.0,
+        165.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "main threat, after which White would be left only with pawn weaknesses, to say",
+      "bbox": [
+        247.0,
+        271.0,
+        1566.0,
+        319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "nothing of the dangers which would arise on the diagonal a8-h1.",
+      "bbox": [
+        247.0,
+        322.0,
+        1315.0,
+        366.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A slightly lesser degree of commitment would be entailed by White's ma-",
+      "bbox": [
+        291.0,
+        372.0,
+        1564.0,
+        417.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "noeuvring his al-rook to h3 via el and e3, but it can be shown that such a dis-",
+      "bbox": [
+        246.0,
+        422.0,
+        1563.0,
+        461.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "placement of the rook would in fact be premature; Black could easily parry the",
+      "bbox": [
+        245.0,
+        472.0,
+        1565.0,
+        519.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "threats involved and then himself prepare for the counter-thrust ...b5 (e.g. by",
+      "bbox": [
+        245.0,
+        522.0,
+        1564.0,
+        570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...Qf8 and ...Xac8) thereby opening up the c-file, over which the white rook on",
+      "bbox": [
+        247.0,
+        566.0,
+        1564.0,
+        614.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "h3 no longer has any influence. Because of this Botvinnik decided on a third",
+      "bbox": [
+        244.0,
+        622.0,
+        1564.0,
+        662.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "plan, which involved the least degree of commitment; this consisted of transfer-",
+      "bbox": [
+        243.0,
+        672.0,
+        1562.0,
+        714.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ring the c3-knight via dl and f2 to h3 and thence on to g5. Admittedly, there is a",
+      "bbox": [
+        242.0,
+        722.0,
+        1564.0,
+        769.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "definite commitment here too — in the shape of the number of tempi used; how-",
+      "bbox": [
+        243.0,
+        772.0,
+        1561.0,
+        819.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ever, Black cannot really take advantage of this, and there is the additional point",
+      "bbox": [
+        242.0,
+        823.0,
+        1563.0,
+        871.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "that the threat posed by the position of the knight on g5 is quite genuine and can-",
+      "bbox": [
+        242.0,
+        873.0,
+        1561.0,
+        920.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not be easily parried. Now here is the course that the game took:",
+      "bbox": [
+        242.0,
+        924.0,
+        1309.0,
+        969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Ve2!",
+      "bbox": [
+        289.0,
+        969.0,
+        402.0,
+        1005.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "First White thoroughly eliminates the possibility of Black's playing .,.b5.",
+      "bbox": [
+        286.0,
+        1025.0,
+        1501.0,
+        1073.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Qf8 2 xa7",
+      "bbox": [
+        288.0,
+        1070.0,
+        612.0,
+        1107.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...Qe8 would probably have been better.",
+      "bbox": [
+        285.0,
+        1120.0,
+        971.0,
+        1166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 Vb8 4 Qh3 h6",
+      "bbox": [
+        285.0,
+        1170.0,
+        653.0,
+        1207.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now there is a weakness in the black king position as well. White still presses",
+      "bbox": [
+        284.0,
+        1225.0,
+        1558.0,
+        1275.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on.",
+      "bbox": [
+        239.0,
+        1284.0,
+        287.0,
+        1305.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 Og5! hxg5 6 fxg5",
+      "bbox": [
+        283.0,
+        1321.0,
+        618.0,
+        1367.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This is of course already the second phase, since White is committed materi-",
+      "bbox": [
+        282.0,
+        1377.0,
+        1556.0,
+        1422.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ally; at the same time, his attack breaks through. If now 6...Q6h7 7 Qxf7 Oxg5",
+      "bbox": [
+        237.0,
+        1428.0,
+        1555.0,
+        1479.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(or 7...Axg5 8 Axh7+ mxh7 9 Vxe61) 8 Vh5 mgh7, then 9 d5 exd5 10 hh6+",
+      "bbox": [
+        237.0,
+        1473.0,
+        1556.0,
+        1524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11 Vf7 hf6 12 Vg8+ and 13 Qf7#.",
+      "bbox": [
+        328.0,
+        1524.0,
+        928.0,
+        1570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...Q8d7 7 oxf72",
+      "bbox": [
+        280.0,
+        1570.0,
+        583.0,
+        1611.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In fact, it would have been simpler and quicker to play 7 Qxd7 Äxd7 8 gxf6",
+      "bbox": [
+        280.0,
+        1629.0,
+        1555.0,
+        1681.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axf6 9 Xxf6 gxf6 IO Vg4+ 11 Aa3+ Äd6 12 Vf4 13 c5.",
+      "bbox": [
+        234.0,
+        1674.0,
+        1357.0,
+        1722.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7...#xf7 8 g6+ 9 Vxe6+ 10 Vh3+ 11 Af5 Qf8 12 ae6+",
+      "bbox": [
+        279.0,
+        1725.0,
+        1553.0,
+        1774.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qxe613 Vxe6+ 14 Vh3+ ég815 xxf6! Axf6 16 Vh7+ #f817 Xel ae5",
+      "bbox": [
+        233.0,
+        1775.0,
+        1553.0,
+        1826.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18 Vh8+ 19 vxg7+ 20 Vxe5+ Éd7 21 Vf5+ 22 d5+ 23",
+      "bbox": [
+        235.0,
+        1826.0,
+        1553.0,
+        1876.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Aa3+ u ve4+ 25 Ab4+ 26 Vbl#",
+      "bbox": [
+        231.0,
+        1877.0,
+        1103.0,
+        1920.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I This allows 9...Ac8, when no win is apparent, so White should prefer 9 Q)xd8",
+      "bbox": [
+        235.0,
+        1992.0,
+        1550.0,
+        2042.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxd8 IO Vxe6+ II Kael with a large advantage.",
+      "bbox": [
+        313.0,
+        2037.0,
+        1180.0,
+        2089.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 Recent analysis has shown that this further sacrifice is quite wrong, in that",
+      "bbox": [
+        230.0,
+        2091.0,
+        1551.0,
+        2143.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black could later play 8...#8! with fair defensive chances. Therefore White",
+      "bbox": [
+        313.0,
+        2141.0,
+        1550.0,
+        2185.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "should have chosen 7 Qxd7, as given by Vukovié.",
+      "bbox": [
+        313.0,
+        2189.0,
+        1108.0,
+        2233.0
+      ],
+      "confidence": null
+    }
+  ]
+}

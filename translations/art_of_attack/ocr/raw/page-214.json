@@ -1,0 +1,290 @@
+{
+  "pdf_page": 214,
+  "printed_page": 214,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "214",
+      "bbox": [
+        289.0,
+        129.0,
+        351.0,
+        159.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        715.0,
+        130.0,
+        1209.0,
+        170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "considerable prospect of the position's being loosened up a little and that the f-",
+      "bbox": [
+        287.0,
+        279.0,
+        1604.0,
+        320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawn will acquire a dynamic potential.",
+      "bbox": [
+        286.0,
+        329.0,
+        929.0,
+        368.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Qc5 2 Abl as 3 Qfd7 4 g5 f6?!",
+      "bbox": [
+        333.0,
+        373.0,
+        1015.0,
+        417.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...Qf8 would probably have been better. Moves which weaken the position,",
+      "bbox": [
+        331.0,
+        423.0,
+        1602.0,
+        471.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "such as ...f6, should not be resorted to unless absolutely necessary. After 4...Qf8",
+      "bbox": [
+        286.0,
+        478.0,
+        1602.0,
+        520.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 Wf3 Black would, of course, already be compelled to play 5...f6.",
+      "bbox": [
+        285.0,
+        523.0,
+        1388.0,
+        570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 h4 Af8?",
+      "bbox": [
+        330.0,
+        575.0,
+        506.0,
+        609.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Certainly weaker than 5...hf8; on his next move Black puts the bishop back",
+      "bbox": [
+        330.0,
+        626.0,
+        1604.0,
+        674.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on e7 and so loses two tempi. However, even after 5...Qf8 White's attack would",
+      "bbox": [
+        285.0,
+        678.0,
+        1602.0,
+        720.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "be overwhelming.",
+      "bbox": [
+        284.0,
+        731.0,
+        579.0,
+        769.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6 xgl ae7 (D)",
+      "bbox": [
+        329.0,
+        776.0,
+        581.0,
+        818.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Tarrasch was not a master who would lightly agree to the loss of a tempo, but",
+      "bbox": [
+        328.0,
+        831.0,
+        1602.0,
+        874.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in this case he was clearly convinced that his original plan had no prospects. This",
+      "bbox": [
+        283.0,
+        880.0,
+        1601.0,
+        924.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is evident from White's threat (Black's bishop is still on f8) 7 Vg4 (not 7 Vh5",
+      "bbox": [
+        283.0,
+        930.0,
+        1599.0,
+        974.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "followed by 8 g6? because of 8...h6, and Black would be saved by the blocked",
+      "bbox": [
+        282.0,
+        980.0,
+        1599.0,
+        1024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position ) 7...#h8 8 Axc5 dxc5 9 Qe4, when Black's defences give way under",
+      "bbox": [
+        281.0,
+        1027.0,
+        1600.0,
+        1076.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the pressure against the squares f6 and d6.",
+      "bbox": [
+        281.0,
+        1082.0,
+        979.0,
+        1121.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 Vh5 Qf8 8 Äg3 za8",
+      "bbox": [
+        319.0,
+        1781.0,
+        707.0,
+        1827.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "There are no useful moves that Black can make in his cramped position. After,",
+      "bbox": [
+        318.0,
+        1838.0,
+        1591.0,
+        1885.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for example, 8...Qcd7 9 Äcgl Xc8 10 Qe4 he finds himself in a sad state, with-",
+      "bbox": [
+        273.0,
+        1884.0,
+        1591.0,
+        1933.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "out a satisfactory defence against the threat of II gxf6 Axf6 12 Vh6.",
+      "bbox": [
+        273.0,
+        1939.0,
+        1425.0,
+        1983.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9 Axc5 dxc5 10 d6! Vxd6",
+      "bbox": [
+        317.0,
+        1984.0,
+        767.0,
+        2021.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In fact the plan of Vh5 and g6 should also bring success, as after the reply ...h6",
+      "bbox": [
+        353.0,
+        2095.0,
+        1590.0,
+        2145.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        275.0,
+        2096.0,
+        286.0,
+        2125.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White can break through in King's Indian style by Axh6 followed by g7, with a",
+      "bbox": [
+        353.0,
+        2146.0,
+        1590.0,
+        2192.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "crushing attack.",
+      "bbox": [
+        352.0,
+        2195.0,
+        599.0,
+        2232.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "pdf_page": 50,
+  "printed_page": 50,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        264.6,
+        108.5,
+        314.9,
+        150.9
+      ],
+      "text": "50",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        689.8,
+        113.5,
+        1193.3,
+        165.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9675
+    },
+    {
+      "bbox": [
+        595.4,
+        366.8,
+        619.9,
+        396.7
+      ],
+      "text": "B",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        297.7,
+        858.3,
+        1579.2,
+        929.4
+      ],
+      "text": "White actually encourages Black to carry out his threat to win the queen, pro-",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        252.4,
+        910.7,
+        774.3,
+        965.5
+      ],
+      "text": "ducing an original riposte to it.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        294.0,
+        959.3,
+        1145.5,
+        1016.7
+      ],
+      "text": "21...xe4+ 22 Qxe4 f3 23 Wxf3! gxf3 24 Ωf5+",
+      "confidence": 0.96
+    },
+    {
+      "bbox": [
+        295.3,
+        1010.5,
+        1576.8,
+        1075.3
+      ],
+      "text": "White now wins the other rook, leaving the black queen boxed in at g2. White",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        248.7,
+        1060.4,
+        1573.1,
+        1126.5
+      ],
+      "text": "conducts the ending with what is in effect an extra piece and, logically enough,",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        248.7,
+        1112.8,
+        800.0,
+        1162.7
+      ],
+      "text": "takes his king into battle as well.",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        294.0,
+        1161.4,
+        1574.3,
+        1221.3
+      ],
+      "text": "24...e6 25 d5 e5+ 26 e4 h5 27 dxe6+ e8 28 f6 h4 29 xe5 dxe5 30",
+      "confidence": 0.9706
+    },
+    {
+      "bbox": [
+        248.7,
+        1210.1,
+        644.4,
+        1262.4
+      ],
+      "text": "xe5 hxg3 31 f6 1-0",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        290.4,
+        1263.7,
+        927.4,
+        1318.6
+      ],
+      "text": "The final position deserves a diagram.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        574.6,
+        1470.8,
+        607.7,
+        1505.7
+      ],
+      "text": "B",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        280.6,
+        1971.0,
+        1562.1,
+        2037.1
+      ],
+      "text": "Black is lost, since he has no proper defence against &g6+ followed by e7+",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        236.5,
+        2017.2,
+        1565.7,
+        2092.0
+      ],
+      "text": "and e8w, etc. Black's play throughout this game is an example of how not to con-",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        234.0,
+        2067.1,
+        830.6,
+        2129.4
+      ],
+      "text": "duct an attack on a wandering king.",
+      "confidence": 0.9931
+    }
+  ]
+}

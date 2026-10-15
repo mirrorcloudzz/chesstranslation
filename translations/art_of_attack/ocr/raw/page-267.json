@@ -1,0 +1,290 @@
+{
+  "pdf_page": 267,
+  "printed_page": 267,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        462.0,
+        132.0,
+        1359.0,
+        176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "267",
+      "bbox": [
+        1498.0,
+        131.0,
+        1560.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The wrong turning, since White now plays Acl with gain of tempo, placing",
+      "bbox": [
+        287.0,
+        276.0,
+        1562.0,
+        323.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the bishop on the diagonal where it really belongs. The correct continuation of",
+      "bbox": [
+        243.0,
+        329.0,
+        1566.0,
+        374.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the defence consisted in giving, not taking, material, e.g. 6...Xxb2! 7 Vxb2",
+      "bbox": [
+        243.0,
+        374.0,
+        1563.0,
+        422.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mxc4 8 Vc3 (or 8 Vcl Qe5 9 Xxh6 Äxb3 after which both IO Vg5 Vg4 and 10",
+      "bbox": [
+        244.0,
+        424.0,
+        1564.0,
+        472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xf5 Q)g4 are in Black's favour) 8...Qe5 9 Xbl c4 10 b4 Vxf6 11 Äh3 Ag7 and",
+      "bbox": [
+        244.0,
+        475.0,
+        1564.0,
+        525.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black has the better prospects. Wolf, of course, was not the master to decide on",
+      "bbox": [
+        244.0,
+        531.0,
+        1564.0,
+        574.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'giving' when he could 'take'. His saying was: 'Why should I sacrifice when no-",
+      "bbox": [
+        248.0,
+        581.0,
+        1563.0,
+        626.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "body sacrifices for me!?' But the consistent implementation of a plan with a",
+      "bbox": [
+        245.0,
+        631.0,
+        1566.0,
+        676.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sound positional basis often demands sacrificial conceptions, as in the analysis",
+      "bbox": [
+        246.0,
+        681.0,
+        1564.0,
+        726.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "above, which is both typical and instructive. We can see here how an element of",
+      "bbox": [
+        246.0,
+        731.0,
+        1568.0,
+        775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "direct defence is also involved — the elimination of White's bishop, which plays",
+      "bbox": [
+        246.0,
+        782.0,
+        1565.0,
+        821.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "an essential part in his mating plans. White's attack then flags, whereupon Black",
+      "bbox": [
+        247.0,
+        832.0,
+        1566.0,
+        877.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "takes some pawns, centralizes his position, and brands White's rook on h4 as",
+      "bbox": [
+        247.0,
+        883.0,
+        1565.0,
+        927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "misplaced; the defence welds the various elements of the position into a single",
+      "bbox": [
+        246.0,
+        933.0,
+        1566.0,
+        978.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "whole.",
+      "bbox": [
+        247.0,
+        991.0,
+        355.0,
+        1019.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 Acl (D)",
+      "bbox": [
+        292.0,
+        1036.0,
+        465.0,
+        1076.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7...Qe5",
+      "bbox": [
+        295.0,
+        1741.0,
+        420.0,
+        1776.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In sharp positions like this everything should be considered, including moves",
+      "bbox": [
+        296.0,
+        1793.0,
+        1569.0,
+        1835.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "like 7...g5. The latter represents a simultaneous combination of direct and indi-",
+      "bbox": [
+        251.0,
+        1843.0,
+        1569.0,
+        1886.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rect defence: Black drives back the rook, blocks the diagonal of the enemy",
+      "bbox": [
+        250.0,
+        1894.0,
+        1570.0,
+        1933.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishop, and frees the square g6 for the knight — all direct elements — while the in-",
+      "bbox": [
+        251.0,
+        1945.0,
+        1569.0,
+        1987.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "direct appears in certain continuations where Black's g-pawn takes part in a",
+      "bbox": [
+        251.0,
+        1995.0,
+        1572.0,
+        2037.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "counterattack. Let us look at some ways in which White can go astray after",
+      "bbox": [
+        251.0,
+        2046.0,
+        1572.0,
+        2085.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7...g5. First of all, the 'natural' move 8 Xh5? is unsatisfactory because of 8...Qe5",
+      "bbox": [
+        252.0,
+        2090.0,
+        1570.0,
+        2138.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9 Axg5 (after 9 Qf5 ag4! the attack on the e-pawn gains a tempo) 9...Äxb3 10",
+      "bbox": [
+        253.0,
+        2142.0,
+        1572.0,
+        2188.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vcl Xxg3 11 hxg3 Vg4.",
+      "bbox": [
+        252.0,
+        2194.0,
+        671.0,
+        2239.0
+      ],
+      "confidence": null
+    }
+  ]
+}

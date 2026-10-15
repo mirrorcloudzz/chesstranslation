@@ -1,0 +1,4545 @@
+[
+  {
+    "segment_id": "FM-1",
+    "section": "front_preface",
+    "page": 1,
+    "page_end": 1,
+    "kind": "title",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Art of Attack in Chess",
+    "zh": "国际象棋进攻的艺术",
+    "source_ids": [],
+    "source_scan_paths": [
+      "source_pages/page-001.png"
+    ],
+    "source_mapping_precision": "scan_page_only"
+  },
+  {
+    "segment_id": "FM-2",
+    "section": "front_preface",
+    "page": 1,
+    "page_end": 1,
+    "kind": "metadata",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Vladimir Vuković",
+    "zh": "弗拉基米尔·武科维奇",
+    "source_ids": [],
+    "source_scan_paths": [
+      "source_pages/page-001.png"
+    ],
+    "source_mapping_precision": "scan_page_only"
+  },
+  {
+    "segment_id": "FM-3",
+    "section": "front_preface",
+    "page": 1,
+    "page_end": 1,
+    "kind": "metadata",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "EVERYMAN CHESS",
+    "zh": "Everyman Chess出版社",
+    "source_ids": [
+      "AA-p001-l005"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-001.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "FM-4",
+    "section": "front_preface",
+    "page": 2,
+    "page_end": 2,
+    "kind": "heading",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Art of Attack",
+    "zh": "进攻的艺术",
+    "source_ids": [
+      "AA-p002-l001"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-002.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "FM-5",
+    "section": "front_preface",
+    "page": 2,
+    "page_end": 2,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "One of the finest chess books ever written, the Art of Attack has been transcribed into algebraic notation for the first time. In this revised edition of the great classic, the author expounds both the basic principles and the most complex forms of attack on the king. A study of this masterpiece will add power and brilliance to any chess enthusiast's play.",
+    "zh": "《进攻的艺术》是国际象棋著作中的杰作之一，本版首次将书中棋谱改为代数记谱。在这部经典著作的修订版中，作者既阐明了杀王进攻的基本原则，也深入讲解了其中最复杂的形式。研读这部名著，会让每一位国际象棋爱好者的走法更有力量，也更富于精彩的构思。",
+    "source_ids": [
+      "AA-p002-l006",
+      "AA-p002-l007",
+      "AA-p002-l008",
+      "AA-p002-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-002.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "FM-6",
+    "section": "front_preface",
+    "page": 2,
+    "page_end": 2,
+    "kind": "metadata",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "EVERYMAN CHESS\nwww.everymanchess.com\nPublished in the UK by Gloucester Publishers plc\nDistributed in the US by the Globe Pequot Press\n£16.99 / $24.95\nISBN 1-85744-400-0\n9781857444001",
+    "zh": "Everyman Chess出版社\nwww.everymanchess.com\n英国出版：Gloucester Publishers plc\n美国发行：Globe Pequot Press\n原版封底标价：16.99英镑 / 24.95美元\nISBN 1-85744-400-0\n9781857444001",
+    "source_ids": [
+      "AA-p002-l012",
+      "AA-p002-l013",
+      "AA-p002-l015"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-002.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "FM-7",
+    "section": "front_preface",
+    "page": 3,
+    "page_end": 3,
+    "kind": "heading",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Contents",
+    "zh": "目录",
+    "source_ids": [
+      "AA-p003-l001"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-003.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "FM-8",
+    "section": "front_preface",
+    "page": 3,
+    "page_end": 3,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Symbols — 4\nPreface by John Nunn — 5\nIntroduction — 6\n1 The attack against the uncastled king — 14\n2 The attack on the king that has lost the right to castle — 28\n3 On castling and attacking the castled position in general — 51\n4 Mating patterns — 66\n5 Focal-points — 80\n6 The classic bishop sacrifice — 121",
+    "zh": "符号说明——4\n约翰·纳恩编者序——5\n导言——6\n第一章　攻击尚未易位的王——14\n第二章　攻击失去易位权的王——28\n第三章　易位与攻击易位局面概论——51\n第四章　将杀模式——66\n第五章　杀王焦点——80\n第六章　经典弃象——121",
+    "source_ids": [
+      "AA-p003-l002",
+      "AA-p003-l003",
+      "AA-p003-l004",
+      "AA-p003-l005",
+      "AA-p003-l007",
+      "AA-p003-l008",
+      "AA-p003-l009",
+      "AA-p003-l010",
+      "AA-p003-l011",
+      "AA-p003-l012",
+      "AA-p003-l013",
+      "AA-p003-l014",
+      "AA-p003-l015",
+      "AA-p003-l016",
+      "AA-p003-l018",
+      "AA-p003-l019",
+      "AA-p003-l020"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-003.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "FM-9",
+    "section": "front_preface",
+    "page": 3,
+    "page_end": 3,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "7 Ranks, files, and diagonals in the attack on the castled king — 142\n8 Pieces and pawns in the attack on the castled king — 183\n9 The attack on the fianchettoed and queenside castling positions — 231\n10 Defending against the attack on the castled king — 247\n11 The phases of the attack on the castled king — 293\n12 The attack on the king as an integral part of the game — 334\nIndex of Players — 350\nIndex of Openings — 352",
+    "zh": "第七章　攻击易位王时的横线、直线与斜线——142\n第八章　攻击易位王时的棋子与兵——183\n第九章　攻击侧翼出象与长易位的局面——231\n第十章　抵御针对易位王的进攻——247\n第十一章　攻击易位王的各个阶段——293\n第十二章　杀王进攻：对局不可分割的一部分——334\n棋手索引——350\n开局索引——352",
+    "source_ids": [
+      "AA-p003-l021",
+      "AA-p003-l022",
+      "AA-p003-l023",
+      "AA-p003-l024",
+      "AA-p003-l025",
+      "AA-p003-l027",
+      "AA-p003-l028",
+      "AA-p003-l029",
+      "AA-p003-l030",
+      "AA-p003-l031",
+      "AA-p003-l032",
+      "AA-p003-l033",
+      "AA-p003-l034",
+      "AA-p003-l035",
+      "AA-p003-l036",
+      "AA-p003-l037",
+      "AA-p003-l038"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-003.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "FM-10",
+    "section": "front_preface",
+    "page": 4,
+    "page_end": 4,
+    "kind": "heading",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Symbols",
+    "zh": "符号说明",
+    "source_ids": [
+      "AA-p004-l001"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-004.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "FM-11",
+    "section": "front_preface",
+    "page": 4,
+    "page_end": 4,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "+ — check\n# — checkmate\nx — capture\n!! — brilliant move\n! — good move\n!? — interesting move\n?! — dubious move\n? — bad move\n?? — blunder",
+    "zh": "+——将军\n#——将杀\nx——吃子\n!!——妙着\n!——好棋\n!?——有趣的一步\n?!——可疑的一步\n?——坏棋\n??——漏着",
+    "source_ids": [
+      "AA-p004-l003",
+      "AA-p004-l005",
+      "AA-p004-l007",
+      "AA-p004-l009",
+      "AA-p004-l011",
+      "AA-p004-l013",
+      "AA-p004-l015",
+      "AA-p004-l017",
+      "AA-p004-l019"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-004.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "FM-12",
+    "section": "front_preface",
+    "page": 4,
+    "page_end": 4,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Ch — championship\nCt — candidates event\nOL — olympiad\n1-0 — the game ends in a win for White\n½-½ — the game ends in a draw\n0-1 — the game ends in a win for Black\n(n) — nth match game\n(D) — see next diagram",
+    "zh": "Ch——锦标赛\nCt——候选人赛\nOL——奥林匹克团体赛\n1-0——白方获胜\n½-½——和棋\n0-1——黑方获胜\n(n)——对抗赛的第n局\n(D)——见下图",
+    "source_ids": [
+      "AA-p004-l021",
+      "AA-p004-l022",
+      "AA-p004-l023",
+      "AA-p004-l024",
+      "AA-p004-l025",
+      "AA-p004-l026",
+      "AA-p004-l027",
+      "AA-p004-l028",
+      "AA-p004-l029",
+      "AA-p004-l030",
+      "AA-p004-l031",
+      "AA-p004-l032",
+      "AA-p004-l033",
+      "AA-p004-l034",
+      "AA-p004-l035"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-004.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "PF-1",
+    "section": "front_preface",
+    "page": 5,
+    "page_end": 5,
+    "kind": "title",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Preface by John Nunn",
+    "zh": "约翰·纳恩编者序",
+    "source_ids": [
+      "AA-p005-l001"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-005.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "PF-2",
+    "section": "front_preface",
+    "page": 5,
+    "page_end": 5,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Attacking the enemy king is one of the most exciting parts of chess, but it is also one of the hardest to play accurately. Every chess player has had the experience of seeing a promising-looking attack crumble into dust, whereupon the enemy counter-attack sweeps aside everything in its path. Vuković's excellent book The Art of Attack in Chess is a thought-provoking attempt to explain why some attacks succeed while other fail to reach their goal. The author himself points out that not everything in chess can be reduced to a set of rules, but the general principles he establishes in this book provide excellent guidance on when to launch an attack and how to ensure that it has the maximum chance of success.",
+    "zh": "攻击对方的王，是国际象棋中最令人兴奋的内容之一，也是最难走得准确的内容之一。每位棋手都经历过这样的情形：原本看似大有希望的进攻，转眼间土崩瓦解，对手随即发动反击，势不可挡。武科维奇的佳作《国际象棋进攻的艺术》试图解释，为什么有些进攻能够成功，有些却无法达到目的；他的探讨发人深省。作者本人也指出，国际象棋并非所有事情都能归纳为一套规则，但他在本书中提出的一般原则，对何时发动进攻、怎样让进攻尽可能取得成功，提供了极有价值的指导。",
+    "source_ids": [
+      "AA-p005-l002",
+      "AA-p005-l003",
+      "AA-p005-l004",
+      "AA-p005-l005",
+      "AA-p005-l006",
+      "AA-p005-l007",
+      "AA-p005-l008",
+      "AA-p005-l009",
+      "AA-p005-l010"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-005.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "PF-3",
+    "section": "front_preface",
+    "page": 5,
+    "page_end": 5,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "As usual with classic books I have edited, I will take a little time to explain exactly how I have prepared this new edition. First and foremost is the conversion to algebraic notation. In addition to this, I have added 128 extra diagrams and in some cases, where it seemed appropriate, I have added further moves from the quoted games (for example, by giving the actual finish instead of 'and White won in another ten moves'). I have lightly edited the rather ponderous English of the original translation, and brought the method of displaying variations into line with current practice.",
+    "zh": "与我编订其他经典著作时一样，这里也略作说明，介绍新版具体做了哪些工作。首先，也是最重要的一项，是将棋谱改为代数记谱。此外，我增添了128幅棋图，并在适当的地方补入了所引对局的后续走法，例如，不再只写“白方又走了十步便获胜”，而是列出实战的收尾过程。我还对原英译本较为冗赘的文字作了小幅润色，并按照现行惯例调整了分析变化的呈现方式。",
+    "source_ids": [
+      "AA-p005-l011",
+      "AA-p005-l012",
+      "AA-p005-l013",
+      "AA-p005-l014",
+      "AA-p005-l015",
+      "AA-p005-l016",
+      "AA-p005-l017",
+      "AA-p005-l018"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-005.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "PF-4",
+    "section": "front_preface",
+    "page": 5,
+    "page_end": 5,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The index of the original book included only complete games, but I have also indexed the game excerpts. In two of the complete games, Alekhine-Asztalos and Alekhine-Kmoch, I have brought the moves of the game into line with the move-order given in the original tournament books.",
+    "zh": "原书索引只收录完整对局，我则把对局片段也列入了索引。在阿廖欣对阿斯塔洛什、阿廖欣对克莫赫这两盘完整例局中，我还依据原始比赛专著所载的次序，调整了实战走法的顺序。",
+    "source_ids": [
+      "AA-p005-l018",
+      "AA-p005-l019",
+      "AA-p005-l020",
+      "AA-p005-l021"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-005.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "PF-5",
+    "section": "front_preface",
+    "page": 5,
+    "page_end": 5,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "There are also a fair number of analytical footnotes (readers should note that where there is no room for a footnote on a particular page, the footnote appears on the following page). I hope readers will not form the opinion that Vuković's analysis was especially unsound — this is certainly not the case. The fact is that most authors are prepared to quote the annotations of famous players uncritically, but Vuković brought his own talents to bear and subjected all the positions to careful analysis.",
+    "zh": "本版还加入了相当数量的分析脚注。请读者注意：某页若容不下脚注，它就会排在下一页。我希望读者不要因此认为武科维奇的分析特别不可靠——事实绝非如此。实际情况是，多数作者乐于不加审视地引用著名棋手的评注，而武科维奇发挥自己的才智，对书中每个局面都作了认真分析。",
+    "source_ids": [
+      "AA-p005-l022",
+      "AA-p005-l023",
+      "AA-p005-l024",
+      "AA-p005-l025",
+      "AA-p005-l026",
+      "AA-p005-l027",
+      "AA-p005-l028"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-005.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "PF-6",
+    "section": "front_preface",
+    "page": 5,
+    "page_end": 5,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Quite often the results were startling; in the well-known game Alekhine-Botvinnik, Nottingham 1936 he found a flaw which had eluded the many annotators who simply accepted the version of events Alekhine gave in the tournament book. Inevitably, the high percentage of original analysis implies a greater risk of the occasional slip, but personally I far prefer original comment to a bland recital of the 'party line'. In any case, it is Vuković's general principles which will prove of most value to the practical player, and here there can be no argument about the enduring quality of his work.",
+    "zh": "分析的结果往往令人惊讶。例如，在1936年诺丁汉的阿廖欣对鲍特维尼克这盘名局中，他找出了一处漏洞；许多评注者只是接受阿廖欣在比赛专著中的说法，因而都没有发现它。独立分析所占的比重越大，偶尔出错的风险自然也越高。但就我个人而言，与平淡地复述众口一词的说法相比，我更欣赏独立的评注。无论如何，对实战棋手最有价值的，还是武科维奇提出的一般原则；在这一点上，他著作的持久价值是毋庸置疑的。",
+    "source_ids": [
+      "AA-p005-l028",
+      "AA-p005-l029",
+      "AA-p005-l030",
+      "AA-p005-l031",
+      "AA-p005-l032",
+      "AA-p005-l033",
+      "AA-p005-l034",
+      "AA-p005-l035"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-005.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-1",
+    "section": "introduction",
+    "page": 6,
+    "page_end": 6,
+    "kind": "title",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Introduction",
+    "zh": "导言",
+    "source_ids": [
+      "AA-p006-l001"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-006.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-2",
+    "section": "introduction",
+    "page": 6,
+    "page_end": 6,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Action is the essential basis on which the game of chess is founded and any action which contains a threat — i.e. attack in its widest sense — stands out as a prominent feature of the game. To the outside observer, a chess game is dominated by the conflict between the two players. The ultimate aim of each player is, as a rule, the mating of the opponent's king, and an action with this aim, whether it is direct or indirect, is called an attack (in a narrower sense of the word) or a mating attack; that is the subject of this book.",
+    "zh": "国际象棋以行动为根本，而凡是制造威胁的行动——也就是最广义的进攻——都是对局中的突出特征。在旁观者眼中，一盘棋的主线就是双方的交锋。通常，每位棋手的最终目标都是将杀对方的王；以此为目的的行动，无论直接还是间接，都称为狭义的进攻，或杀王进攻。这正是本书的主题。",
+    "source_ids": [
+      "AA-p006-l002",
+      "AA-p006-l003",
+      "AA-p006-l004",
+      "AA-p006-l005",
+      "AA-p006-l006",
+      "AA-p006-l007",
+      "AA-p006-l008"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-006.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-3",
+    "section": "introduction",
+    "page": 6,
+    "page_end": 6,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Being the most important action in chess and the central element of the game in ancient times, attack appears at all stages of the game's development and in various forms of perfection. Moreover, it can be said that the reforms which have been made in the rules of chess have always been in the direction of increasing and stimulating the opportunities for attack.",
+    "zh": "进攻是国际象棋中最重要的行动，在古代更是对局的核心。因此，在国际象棋发展的各个阶段，我们都能看到进攻以不同形式出现，并逐渐趋于完善。甚至可以说，国际象棋规则历次改革的方向，始终都是增加进攻机会，鼓励进攻。",
+    "source_ids": [
+      "AA-p006-l009",
+      "AA-p006-l010",
+      "AA-p006-l011",
+      "AA-p006-l012",
+      "AA-p006-l013"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-006.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-4",
+    "section": "introduction",
+    "page": 6,
+    "page_end": 6,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The great reform of c. 1485, which created modern European chess, was particularly responsible for opening up new opportunities for attack and ushered in a period of rich development in chess technique. For three centuries of chess history, attack predominated over defence in the practice of the great players, and mastery at that time meant skill in conducting an attack. Only with Philidor did the first positional ideas appear, and with them more mature defensive strategies; these were to find in Steinitz a century later a legislator of genius.",
+    "zh": "约1485年的重大改革奠定了现代欧洲国际象棋的形态，尤其为进攻开辟了新的可能，也由此开启了棋艺蓬勃发展的时期。在此后三个世纪里，伟大棋手的实战始终是进攻压倒防守；当时所谓高超的棋艺，主要就是善于组织进攻。直到菲利多的时代，最初的局面思想才开始出现，更成熟的防守策略也随之诞生。一个世纪之后，斯坦尼茨以天才般的洞察力，为这些思想确立了系统的原则。",
+    "source_ids": [
+      "AA-p006-l014",
+      "AA-p006-l015",
+      "AA-p006-l016",
+      "AA-p006-l017",
+      "AA-p006-l018",
+      "AA-p006-l019",
+      "AA-p006-l020"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-006.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-5",
+    "section": "introduction",
+    "page": 6,
+    "page_end": 7,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "During the classic era of chess from Morphy to Steinitz and on to Lasker the value placed on attack gradually decreased, for with greater positional understanding the foundations were also provided for the perfection of defensive technique. This, however, was followed by a new period in which Capablanca, and particularly Alekhine, perfected the technique of attack, above all that of the attack on the castled position, founded on exact positional play. With Alekhine the aggressive and dynamic style of play reached a zenith; in the period which followed the tide again turned away gradually from the risks of the direct attack in search of new paths.",
+    "zh": "在从墨菲到斯坦尼茨，再到拉斯克的古典时期，人们对进攻的重视逐渐下降，因为对局面认识的加深，也为防守技术的完善奠定了基础。然而，随后又出现了一个新的时期：卡帕布兰卡，尤其是阿廖欣，以准确的局面走法为基础，完善了进攻技术，特别是攻击易位局面的技术。积极、富于动态变化的棋风，在阿廖欣手中达到了顶峰。此后，潮流又逐渐避开直接进攻所带来的风险，转而寻找新的道路。",
+    "source_ids": [
+      "AA-p006-l021",
+      "AA-p006-l022",
+      "AA-p006-l023",
+      "AA-p006-l024",
+      "AA-p006-l025",
+      "AA-p006-l026",
+      "AA-p006-l027",
+      "AA-p006-l028",
+      "AA-p006-l029"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-006.png",
+      "source_pages/page-007.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-6",
+    "section": "introduction",
+    "page": 6,
+    "page_end": 7,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The main reason for this is not to be found in any weakness inherent in the attacking style, but in the simple fact that, given the conditions of present-day tournaments, it is more profitable and advantageous to make a study of openings. Now, it must be understood that the present theory of openings represents a detailed development of Nimzowitsch's ideas concerning the central squares. There are still many gaps to be filled and there is a wealth of opportunity for innovation; as a result, great masters are inclined to concern themselves intensively with openings and to opt for a 'safety-first' style.",
+    "zh": "主要原因并不在于进攻型棋风本身有什么缺陷，而在于一个简单的事实：在当时的比赛条件下，深入研究开局更容易取得成效，也更有利。应当理解，当时的开局理论，是对尼姆佐维奇有关中心格思想的细致发展。其中仍有许多空白，也存在大量创新机会。因此，顶尖棋手往往专注于开局研究，并选择“安全第一”的棋风。",
+    "source_ids": [
+      "AA-p006-l029",
+      "AA-p006-l030",
+      "AA-p006-l031",
+      "AA-p006-l032",
+      "AA-p006-l033",
+      "AA-p006-l034",
+      "AA-p006-l035",
+      "AA-p007-l002"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-006.png",
+      "source_pages/page-007.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-7",
+    "section": "introduction",
+    "page": 7,
+    "page_end": 7,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "When this source of opening innovations begins to dry up, the problem of attack will present itself once more. The time may even come when the principles on which Alekhine built up his attacks will be completely understood, and those ideas which in the case of Alekhine had the appearance of a spark of genius will take on the more approachable aspect of attacking technique. It will be more convenient to discuss these questions at the end of the book.",
+    "zh": "当这一开局创新的源泉开始枯竭时，进攻问题就会再次摆到人们面前。也许有一天，人们会彻底理解阿廖欣构筑进攻所依据的原则；那些在阿廖欣手中仿佛天才灵光一现的构思，也会成为更容易掌握的进攻技术。这些问题留到本书结尾讨论更为合适。",
+    "source_ids": [
+      "AA-p007-l002",
+      "AA-p007-l003",
+      "AA-p007-l004",
+      "AA-p007-l005",
+      "AA-p007-l006",
+      "AA-p007-l007",
+      "AA-p007-l008"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-007.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-8",
+    "section": "introduction",
+    "page": 7,
+    "page_end": 7,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "At this point it should be enough to point out that there exists an extremely large group of chess players, who are no longer beginners nor, on the other hand, masters or point-hunters, but players who aim primarily at deriving an aesthetic satisfaction from the game. For such players an attacking game is more attractive than positional technique and they will continue to attack regardless of risk, for their stormy contests are not going to be noted down in theoretical textbooks. So why should such players not become acquainted with the general principles of attack and why should they not perfect themselves in that style of chess with which they are most at home?",
+    "zh": "这里只需指出，棋手中有一个极为庞大的群体：他们已经不是初学者，却也不是大师，更不是一心追逐积分的人；他们下棋，主要是为了从中获得审美的满足。对这些棋手来说，进攻型对局比局面技术更有吸引力。他们仍会不顾风险地进攻，因为他们那些激烈的交锋，本就不打算写进理论教科书。那么，他们为什么不该了解进攻的一般原则，又为什么不该在自己最擅长的棋风中不断提高呢？",
+    "source_ids": [
+      "AA-p007-l008",
+      "AA-p007-l009",
+      "AA-p007-l010",
+      "AA-p007-l011",
+      "AA-p007-l012",
+      "AA-p007-l013",
+      "AA-p007-l014",
+      "AA-p007-l015",
+      "AA-p007-l016",
+      "AA-p007-l017"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-007.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-9",
+    "section": "introduction",
+    "page": 7,
+    "page_end": 7,
+    "kind": "heading",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Various kinds of attack",
+    "zh": "进攻的不同类型",
+    "source_ids": [
+      "AA-p007-l018"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-007.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-10",
+    "section": "introduction",
+    "page": 7,
+    "page_end": 7,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "We have said that we shall deal with attack in its narrower, or proper, sense, where it involves a direct or indirect threat to the opponent's king. Attacks of this kind can be distinguished according to the following categories.",
+    "zh": "前面已经说明，本书讨论的是狭义的、也就是严格意义上的进攻：直接或间接地威胁对方的王。这类进攻可以分为以下几种。",
+    "source_ids": [
+      "AA-p007-l019",
+      "AA-p007-l020",
+      "AA-p007-l021"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-007.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-11",
+    "section": "introduction",
+    "page": 7,
+    "page_end": 7,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1) The main action is not in fact an attack on the king, but there is the possibility of such an attack latent in the position; some threat or other is being nurtured, or else the attack is concealed in at least one variation. Let us take the following position as an example (D):",
+    "zh": "1）当前的主要行动并非杀王进攻，但局面中潜藏着这种进攻的可能：某种威胁正在酝酿，或者至少有一个变化中隐藏着杀王手段。以下图局面为例（见图）：",
+    "figure_id": "AA-p007-fig01",
+    "caption_zh": "",
+    "caption_status": "blank_no_game_context",
+    "source_ids": [
+      "AA-p007-l022",
+      "AA-p007-l023",
+      "AA-p007-l024",
+      "AA-p007-l025"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-007.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-12",
+    "section": "introduction",
+    "page": 8,
+    "page_end": 8,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Here White makes the normal positional move **1. d4**, which obviously does not represent an attack against the black king; but in one variation it contains the elements of mate. That is, if Black is careless, and plays for example **1... Bb7?**, there then follows **2. dxc5**, and Black has lost a pawn, since **2... Nxc5?** is answered by **3. Qd4**, attacking the knight and also threatening mate on g7.",
+    "zh": "白方走出正常的局面走法**1. d4**。这显然不是对黑王的进攻，但其中一个变化却包含了将杀的构思。例如，黑方如果疏忽，走出**1... Bb7?**，白方就能以**2. dxc5**得兵；因为**2... Nxc5?**会遭到**3. Qd4**，既攻击黑马，又威胁在g7将杀。",
+    "source_ids": [
+      "AA-p008-l003",
+      "AA-p008-l004",
+      "AA-p008-l005",
+      "AA-p008-l006",
+      "AA-p008-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-008.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-13",
+    "section": "introduction",
+    "page": 8,
+    "page_end": 8,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "2) A player's action really does contain a direct threat to his opponent's king, but his opponent can stave off this threat at a certain price, e.g. by giving up material or spoiling his position. The vast majority of attacks in fact fall into this very wide category. A simple example is given by this position:",
+    "zh": "2）一方的行动确实直接威胁了对方的王，但对方可以付出一定代价来化解威胁，例如损失子力，或使自己的局面变差。实际上，绝大多数进攻都属于这一范围很广的类型。下图就是一个简单的例子：",
+    "figure_id": "AA-p008-fig01",
+    "caption_zh": "",
+    "caption_status": "blank_no_game_context",
+    "source_ids": [
+      "AA-p008-l008",
+      "AA-p008-l009",
+      "AA-p008-l010",
+      "AA-p008-l011",
+      "AA-p008-l012"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-008.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-14",
+    "section": "introduction",
+    "page": 8,
+    "page_end": 8,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "White plays **1. Ng5**, carrying out an attack on h7. Black has three practical alternatives **1... g6**, **1... Nf6**, and **1... Nf8**. If **1... g6**, then **2. Ne4** with the threat of Nd6, which gains a tempo; however, White's main plan will be a further attack based on the weaknesses on the dark squares in the region of the king arising from the move ...g6.",
+    "zh": "白方走**1. Ng5**，攻击h7。黑方有三种实际可行的应对：**1... g6**、**1... Nf6**和**1... Nf8**。如果**1... g6**，则**2. Ne4**，威胁Nd6，抢到一个先手。不过，白方的主要计划，是利用...g6造成的黑王周围黑格弱点，继续发动进攻。",
+    "source_ids": [
+      "AA-p008-l014",
+      "AA-p008-l015",
+      "AA-p008-l016",
+      "AA-p008-l017",
+      "AA-p008-l018"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-008.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-15",
+    "section": "introduction",
+    "page": 8,
+    "page_end": 8,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "If **1... Nf6**, White will no doubt again continue his attacking play, e.g. with **2. Bf4**, preparing for Be5. However, on **1... Nf8**, attacking play does not promise success, and White will be content with a positional alternative, playing **2. Ne4**. Then Black cannot really prevent **3. Nc5**, after which the knight will have a strong position on c5 and the black bishop will be poorly placed on b7.",
+    "zh": "如果**1... Nf6**，白方当然仍会继续进攻，例如走**2. Bf4**，准备Be5。但是，在**1... Nf8**之后，继续进攻并无成功的把握，白方转而选择局面走法**2. Ne4**，也已经满意。黑方很难阻止**3. Nc5**；此后白马将占据c5强格，而黑方b7象的位置却很不理想。",
+    "source_ids": [
+      "AA-p008-l019",
+      "AA-p008-l020",
+      "AA-p008-l021",
+      "AA-p008-l022",
+      "AA-p008-l023"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-008.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-16",
+    "section": "introduction",
+    "page": 8,
+    "page_end": 9,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "3) The attacker carries out an uncompromising mating attack, in which he can invest even a considerable amount of material, as long as he is certain of mating in the end. This is the third and highest degree of attack. We can categorize attack in another way if we take castling into account. Thus we have:\n1) Attack before castling, i.e. against a king which has not yet castled, and\n2) Attack against the castled king.",
+    "zh": "3）进攻方发动一场不留余地的杀王进攻。只要能够确定最终将杀，他甚至可以为此投入大量子力。这是第三种，也是最高层次的进攻。如果把易位因素考虑在内，还可以用另一种方式分类：\n1）易位前的进攻，即攻击尚未易位的王；\n2）攻击已经易位的王。",
+    "source_ids": [
+      "AA-p008-l024",
+      "AA-p008-l025",
+      "AA-p008-l026",
+      "AA-p008-l027",
+      "AA-p008-l028",
+      "AA-p008-l029",
+      "AA-p009-l003",
+      "AA-p009-l004"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-008.png",
+      "source_pages/page-009.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-17",
+    "section": "introduction",
+    "page": 9,
+    "page_end": 9,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Attack can also be divided on the basis of so-called mating patterns; of focal-points; of basic formations of pieces, files, ranks, and diagonals; of basic sacrifices; as well as by the stage which the attack has reached. These divisions according to the spatial, material, and temporal aspects of an attack will help us arrange the material so as to reveal the part played by each factor.",
+    "zh": "进攻还可以按照将杀模式、杀王焦点、棋子及直线、横线、斜线的基本配置、基本弃子形式，以及进攻所处的阶段来分类。这些分类分别着眼于进攻的空间、子力和时间因素，有助于我们组织本书的内容，揭示每一项因素所起的作用。",
+    "source_ids": [
+      "AA-p009-l005",
+      "AA-p009-l006",
+      "AA-p009-l007",
+      "AA-p009-l008",
+      "AA-p009-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-009.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-18",
+    "section": "introduction",
+    "page": 9,
+    "page_end": 9,
+    "kind": "heading",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The basic pattern of mate",
+    "zh": "将杀的基本模式",
+    "source_ids": [
+      "AA-p009-l010"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-009.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-19",
+    "section": "introduction",
+    "page": 9,
+    "page_end": 9,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "For mate to be obtained, the king must be deprived of nine squares if it is in the middle of the board, six squares if it is on the edge, or four if it is in the corner. Some of these squares may be blocked by the king's own supporting pieces, but the rest must be taken by the attacker through the agency of his own pieces or pawns. If all the squares surrounding the king are taken from it — some through being blocked, others by being 'in check' — and if the square on which the king stands is also in check and without means of defence, then the king is checkmated.",
+    "zh": "要完成将杀，若王在棋盘中部，就必须封住包括它所在格在内的九个格；若王在边线上，则是六个格；若在角落，则是四个格。其中有些格可能被王己方的棋子占据，其余格则必须由进攻方的棋子或兵控制。如果王周围的格都已不能进入——有些被堵住，有些受到攻击——同时王所在的格也受到攻击，而且无法化解将军，王就被将杀了。",
+    "source_ids": [
+      "AA-p009-l011",
+      "AA-p009-l012",
+      "AA-p009-l013",
+      "AA-p009-l014",
+      "AA-p009-l015",
+      "AA-p009-l016",
+      "AA-p009-l017"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-009.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-20",
+    "section": "introduction",
+    "page": 9,
+    "page_end": 9,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "This is well known, and it seems rather banal to start out from this basic pattern or anatomy of mate; but in fact certain elementary rules can be formulated only on this basis. In the next position Black, to move, is unable to avoid mate in 4 different variations.",
+    "zh": "这些都是常识。从将杀的基本模式或构成谈起，似乎有些平淡，但有些基本规则恰恰只能以此为基础来表述。下图轮到黑方行棋；四种不同的变化，都会使黑方无法避免被将杀。",
+    "figure_id": "AA-p009-fig01",
+    "caption_zh": "",
+    "caption_status": "blank_no_game_context",
+    "source_ids": [
+      "AA-p009-l018",
+      "AA-p009-l019",
+      "AA-p009-l020",
+      "AA-p009-l021"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-009.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-21",
+    "section": "introduction",
+    "page": 9,
+    "page_end": 9,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "He is threatened by **2. Bg7#** (first mating pattern). If he plays **1... Kf6**, there follows **2. Bg7#** (second mating pattern); moving the knight leads to **2. Qe6#** (third mating pattern); while if **1... gxf5**, we get **2. Bg7+ Ke4 3. Qxd4#** (fourth mating pattern).",
+    "zh": "黑方正面临**2. Bg7#**的威胁（第一种将杀模式）。如果走**1... Kf6**，则**2. Bg7#**（第二种将杀模式）；动马则会遭到**2. Qe6#**（第三种将杀模式）；如果**1... gxf5**，就有**2. Bg7+ Ke4 3. Qxd4#**（第四种将杀模式）。",
+    "source_ids": [
+      "AA-p009-l024",
+      "AA-p009-l025",
+      "AA-p009-l026",
+      "AA-p009-l027"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-009.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-22",
+    "section": "introduction",
+    "page": 10,
+    "page_end": 10,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The final or mating position is called the mating pattern, and this term is especially useful when such a pattern is worth remembering. A mating pattern can be typical (i.e. one which frequently occurs) or atypical. We call a mate (or mating pattern) pure if none of the squares concerned is covered by two or more attacking units. Thus 1... Ne2 2. Qe6 is a pure mate, whereas 1... Kf6 2. Bg7 is not, though it would be if we were to remove the bishop on f5. Pure mates are valued in chess problems, but in practical play they are unimportant.",
+    "zh": "最终形成的将杀局面，称为“将杀模式”。当这种模式值得记忆时，这个术语尤其有用。将杀模式可以是典型的，也就是经常出现的，也可以是非典型的。如果相关的格中，没有任何一格同时受到两个或更多进攻子力的控制，我们就把这样的将杀或将杀模式称为“纯净将杀”。因此，1... Ne2 2. Qe6是纯净将杀，而1... Kf6 2. Bg7则不是；不过，若把f5象移去，后者也就成了纯净将杀。纯净将杀在排局中受到重视，但在实战中并不重要。",
+    "source_ids": [
+      "AA-p010-l003",
+      "AA-p010-l004",
+      "AA-p010-l005",
+      "AA-p010-l006",
+      "AA-p010-l007",
+      "AA-p010-l008",
+      "AA-p010-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-010.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-23",
+    "section": "introduction",
+    "page": 10,
+    "page_end": 10,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "In the mating patterns which we have seen, some of the black king's flight squares have been blocked by its own pieces, while the rest have been covered by the opponent's forces. The sum of these combined factors is known as a mating net.",
+    "zh": "在刚才的将杀模式中，黑王的部分逃跑格被己方棋子堵住，其余格则由对方子力控制。这些因素共同构成了“杀网”。",
+    "source_ids": [
+      "AA-p010-l010",
+      "AA-p010-l011",
+      "AA-p010-l012",
+      "AA-p010-l013"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-010.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-24",
+    "section": "introduction",
+    "page": 10,
+    "page_end": 10,
+    "kind": "heading",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Mating square and focal-point",
+    "zh": "将杀格与杀王焦点",
+    "source_ids": [
+      "AA-p010-l014"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-010.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-25",
+    "section": "introduction",
+    "page": 10,
+    "page_end": 10,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The mating square is that on which the king stands when it is mated, and the mating focal-point is that from which an opponent's piece (other than a king, knight or pawn) mates the king at close quarters. Thus in the above diagram, after 1... Ne2 the focal-point is e6, since it is from there that the queen mates at close quarters. Similarly, after 1... gxf5 2. Bg7+ Ke4 the queen mates at close quarters from d4, and that square is then the focal-point. However, if Black plays, for instance, 1... Bc3 and is answered by 2. Bg7#, then we are dealing with a bishop attacking from a distance, and here the term 'focal-point' is not used.",
+    "zh": "“将杀格”是王被将杀时所处的格；“杀王焦点”则是对方某个棋子——王、马和兵除外——贴近王完成将杀时所处的格。因此，上图走出1... Ne2后，杀王焦点就是e6，因为白后正是从这个格贴近黑王完成将杀。同样，在1... gxf5 2. Bg7+ Ke4之后，白后从d4贴近黑王将杀，d4就成为杀王焦点。不过，如果黑方走1... Bc3，白方以2. Bg7#应对，那么这里是象从远处发动攻击，不使用“杀王焦点”这个术语。",
+    "source_ids": [
+      "AA-p010-l015",
+      "AA-p010-l016",
+      "AA-p010-l017",
+      "AA-p010-l018",
+      "AA-p010-l019",
+      "AA-p010-l020",
+      "AA-p010-l021",
+      "AA-p010-l022"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-010.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-26",
+    "section": "introduction",
+    "page": 10,
+    "page_end": 10,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "To carry out a mating attack successfully it is always useful to survey the possible mating patterns, to prepare a mating net accordingly, and to concentrate on the focal-point. In this connection it is in many cases important to clear the focal-point, that is to deprive any opposing pieces of their control over a square which would be convenient as a focal-point.",
+    "zh": "要成功实施杀王进攻，先考察可能出现的将杀模式，再据此布置杀网，并把力量集中到杀王焦点上，总是有益的。在许多局面中，重要的一环是清除对方对杀王焦点的控制：使对方棋子不再控制那个适合作为焦点的格。",
+    "source_ids": [
+      "AA-p010-l023",
+      "AA-p010-l024",
+      "AA-p010-l025",
+      "AA-p010-l026",
+      "AA-p010-l027"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-010.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-27",
+    "section": "introduction",
+    "page": 10,
+    "page_end": 11,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The following diagram shows us an example of this (D): White, to move, observes correctly that the square d4 is a potential focal-point and that his queen could mate from there, if it were not for its being controlled by Black's knight and bishop. So he clears the focal-point d4 as follows:",
+    "zh": "下图就是一个例子（见图）。轮到白方行棋。白方正确地看到，d4可以成为杀王焦点；只要这个格不再受到黑马和黑象的控制，白后就能从那里将杀。因此，他用以下手段清除黑方对d4的控制：",
+    "figure_id": "AA-p011-fig01",
+    "caption_zh": "",
+    "caption_status": "blank_no_game_context",
+    "source_ids": [
+      "AA-p010-l028",
+      "AA-p010-l029",
+      "AA-p010-l030",
+      "AA-p010-l031"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-010.png",
+      "source_pages/page-011.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-28",
+    "section": "introduction",
+    "page": 10,
+    "page_end": 10,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "**1. Rxe2** (eliminating the knight) **1... dxe2** (if 1... Kd5, then 2. f4#; if 1... Qc1 then 2. Qd4#, or if 1... f4, then 2. Qd4+ Kf5 3. Qf6#) **2. f4+** (forcing the bishop away from d4) **2... Bxf4 3. Qd4#**.",
+    "zh": "**1. Rxe2**，消灭黑马；**1... dxe2**（如果1... Kd5，则2. f4#；如果1... Qc1，则2. Qd4#；如果1... f4，则2. Qd4+ Kf5 3. Qf6#）；**2. f4+**，迫使黑象离开控制d4的斜线；**2... Bxf4 3. Qd4#**。",
+    "source_ids": [
+      "AA-p010-l032",
+      "AA-p010-l033",
+      "AA-p010-l034"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-010.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-29",
+    "section": "introduction",
+    "page": 10,
+    "page_end": 10,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Many readers will object that the patterns of mating attack shown here are so obvious, indeed banal, that they need not even have been mentioned. However, I think it is useful to strengthen just this simple kind of knowledge, since in fact there are many mistakes made precisely in this field. Here are a few instances of mistakes concerning mating patterns.",
+    "zh": "不少读者可能会说，这里展示的杀王模式实在太明显、太普通，根本不值得一提。然而，我认为巩固这些简单的知识仍然有用，因为实战中的许多错误恰恰就出在这里。下面列举几种与将杀模式有关的错误。",
+    "source_ids": [
+      "AA-p010-l035",
+      "AA-p010-l036",
+      "AA-p010-l037",
+      "AA-p010-l038",
+      "AA-p010-l039"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-010.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-30",
+    "section": "introduction",
+    "page": 11,
+    "page_end": 11,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "• The attacker fails to perceive that he can neither stop his opponent from moving his king nor drive him into a mating net, but still plays for mate. Such a course of action is naturally futile, and though it may possibly produce perpetual check, it cannot produce mate.",
+    "zh": "• 进攻方既无法阻止对方的王转移，也无法把王赶进杀网，却没有认识到这一点，仍然一味追求将杀。这自然是徒劳的：这样的行动或许能造成长将，却不能完成将杀。",
+    "source_ids": [
+      "AA-p011-l004",
+      "AA-p011-l005",
+      "AA-p011-l006",
+      "AA-p011-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-011.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-31",
+    "section": "introduction",
+    "page": 11,
+    "page_end": 11,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "• The attacker plays on the basis of typical mating patterns, overlooking the possibility of an 'atypical' one in a particular continuation.",
+    "zh": "• 进攻方只按照典型的将杀模式行棋，忽略了某个后续手段中出现“非典型”将杀模式的可能。",
+    "source_ids": [
+      "AA-p011-l008",
+      "AA-p011-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-011.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-32",
+    "section": "introduction",
+    "page": 11,
+    "page_end": 11,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "• The player sees all the possible mating patterns based on one focal-point, but fails to realize that all this is cancelled out when the king moves, and that what matters then are new mating patterns, for which he has not made preparations.",
+    "zh": "• 棋手看到了围绕某个杀王焦点的全部将杀模式，却没有意识到，王一旦转移，这些模式就会失去意义。届时需要的是新的将杀模式，而他对此并未作好准备。",
+    "source_ids": [
+      "AA-p011-l010",
+      "AA-p011-l011",
+      "AA-p011-l012"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-011.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-33",
+    "section": "introduction",
+    "page": 11,
+    "page_end": 11,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "• The player decides on a course of action based on a certain focal-point, without realizing that he cannot provide cover for it or even clear it of the influence of his opponent's pieces. Mistakes made in the selection of a focal-point will be found even in the games of the masters.",
+    "zh": "• 棋手围绕某个杀王焦点制定了行动方案，却没有发现，自己无法为进入这个格的棋子提供保护，甚至无法清除对方棋子对这个格的控制。即使在大师的对局中，也能看到选错杀王焦点的例子。",
+    "source_ids": [
+      "AA-p011-l013",
+      "AA-p011-l014",
+      "AA-p011-l015",
+      "AA-p011-l016"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-011.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-34",
+    "section": "introduction",
+    "page": 11,
+    "page_end": 11,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "So it is useful to get to know the general pattern and structure of mating; less experienced players are especially recommended to study games to see whether a player has made a mistake with regard to the pattern and, if so, where he has made it.",
+    "zh": "因此，了解将杀的一般模式和构成很有用。尤其建议经验较少的棋手研究实战对局，观察双方是否在将杀模式上犯了错误；如果有，错误究竟出在哪里。",
+    "source_ids": [
+      "AA-p011-l017",
+      "AA-p011-l018",
+      "AA-p011-l019",
+      "AA-p011-l020"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-011.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-35",
+    "section": "introduction",
+    "page": 11,
+    "page_end": 11,
+    "kind": "heading",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The art of the mating attack",
+    "zh": "杀王进攻的艺术",
+    "source_ids": [
+      "AA-p011-l021"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-011.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-36",
+    "section": "introduction",
+    "page": 11,
+    "page_end": 12,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "We must now make some finer distinctions, and put a series of questions which arise out of the basic conceptions of a mating attack, and which at the same time also touch on the most difficult departments of the art of chess today.\nHow does a mating attack relate to the other operations which take place in a game of chess?\nHow much is a mating attack conditioned by the actual position on the chessboard, and how much by the skill of the attacker?\nWhere does the risk attached to a mating attack lie?\nAbout which points are the minds of players today still unclear with respect to carrying out a mating attack?",
+    "zh": "现在需要作一些更细致的区分，并提出一系列问题。这些问题源于杀王进攻的基本概念，同时也涉及当时棋艺中最困难的领域。\n杀王进攻与一盘棋中的其他行动，究竟是什么关系？\n杀王进攻在多大程度上取决于棋盘上的实际局面，又在多大程度上取决于进攻者的本领？\n杀王进攻的风险究竟在哪里？\n对于如何实施杀王进攻，当时的棋手还有哪些问题没有弄清楚？",
+    "source_ids": [
+      "AA-p011-l022",
+      "AA-p011-l023",
+      "AA-p011-l024",
+      "AA-p011-l025",
+      "AA-p011-l026",
+      "AA-p011-l027",
+      "AA-p011-l028",
+      "AA-p012-l003",
+      "AA-p012-l004",
+      "AA-p012-l005"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-011.png",
+      "source_pages/page-012.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-37",
+    "section": "introduction",
+    "page": 12,
+    "page_end": 12,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The relationship between these questions can be easily perceived, although they are posed separately. A separate reply, however, cannot be given to each, and an attempt must be made to answer them collectively.",
+    "zh": "虽然这些问题分别提出，但它们之间的联系很容易看出。因此，不能孤立地逐一回答，而应尝试把它们放在一起讨论。",
+    "source_ids": [
+      "AA-p012-l006",
+      "AA-p012-l007",
+      "AA-p012-l008"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-012.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-38",
+    "section": "introduction",
+    "page": 12,
+    "page_end": 12,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Mate is the final aim and crowning achievement of the contest and the mating attack is the ultimate operation in relation to all the rest, which are only contributory. Consequently, the mating attack demands more preconditions than other operations. There exist a number of definite preconditions for a mating attack, and these combine to require a considerable degree of superiority on the part of the attacker.",
+    "zh": "将杀是对局的最终目标，也是斗争的最高成果。与其他行动相比，杀王进攻是最终的行动，其余行动都只是为它创造条件。因此，杀王进攻比其他行动需要满足更多前提。它有若干明确的先决条件，综合起来，要求进攻方具备相当程度的优势。",
+    "source_ids": [
+      "AA-p012-l009",
+      "AA-p012-l010",
+      "AA-p012-l011",
+      "AA-p012-l012",
+      "AA-p012-l013",
+      "AA-p012-l014"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-012.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-39",
+    "section": "introduction",
+    "page": 12,
+    "page_end": 12,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "In the case where he has abundant superiority, great knowledge and ability on the part of the attacker are not necessary, but if his superiority just borders on what would justify a correct attack, then the maximum skill is also required in carrying out the attack. The Romantics knew little, but they had great confidence in themselves; the first small increase in knowledge diverted their style from its course.",
+    "zh": "如果进攻方的优势十分充足，就不需要特别丰富的知识和高超的本领；但如果优势刚刚达到足以支持正确进攻的门槛，实施进攻就需要极高的技巧。浪漫派棋手懂得不多，却对自己充满信心；后来知识稍有增长，就使这种棋风偏离了原来的方向。",
+    "source_ids": [
+      "AA-p012-l014",
+      "AA-p012-l015",
+      "AA-p012-l016",
+      "AA-p012-l017",
+      "AA-p012-l018",
+      "AA-p012-l019"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-012.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-40",
+    "section": "introduction",
+    "page": 12,
+    "page_end": 12,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The new formula, still accepted today, is: carry out a series of preliminary operations, which require only a smaller degree of advantage, and then you will attain the abundant superiority which facilitates a mating attack. However the consequence of this is that there has been a failure to exploit the art of attack to the full and masters have been over-inclined to see a risk in an attack.",
+    "zh": "随后形成、直到当时仍被接受的办法是：先实施一系列只需较小优势就能开展的准备行动，再取得足以轻松发动杀王进攻的充分优势。然而，这也带来一个后果：进攻艺术未能得到充分运用，大师们过于倾向于把进攻看成冒险。",
+    "source_ids": [
+      "AA-p012-l019",
+      "AA-p012-l020",
+      "AA-p012-l021",
+      "AA-p012-l022",
+      "AA-p012-l023"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-012.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-41",
+    "section": "introduction",
+    "page": 12,
+    "page_end": 12,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "It is still not clear what the minimum preconditions are, or what kind of advantage is necessary, for a mating attack. It may be a question, for example, of a single moment in a game which never returns. Another still unresolved question is that of a player's skill in weighing up the obligations which he has undertaken when preparing for an attack. The order of his preparatory moves is extraordinarily important. The only really simple thing is the principle itself — that moves entailing fewer obligations should be carried out before those which are more strongly binding. Putting this principle into practice, however, demands great skill of a kind which is very rare — it was fully possessed by Capablanca and Alekhine, but by few others.",
+    "zh": "杀王进攻至少需要哪些条件，又需要哪一种优势，仍未得到明确回答。例如，关键可能只是对局中一个稍纵即逝、不会再来的时机。另一个尚未解决的问题，是棋手如何判断自己在准备进攻时所作的投入，以及这些投入给后续行动带来的约束。准备走法的次序极为重要。原则本身倒很简单：应先走那些较少限制后续选择的棋，再走那些更难回头的棋。但要把这个原则付诸实践，需要极高、也极为罕见的技巧。卡帕布兰卡和阿廖欣完全具备这种本领，其他棋手却很少能做到。",
+    "source_ids": [
+      "AA-p012-l024",
+      "AA-p012-l025",
+      "AA-p012-l026",
+      "AA-p012-l027",
+      "AA-p012-l028",
+      "AA-p012-l029",
+      "AA-p012-l030",
+      "AA-p012-l031",
+      "AA-p012-l032",
+      "AA-p012-l033"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-012.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-42",
+    "section": "introduction",
+    "page": 12,
+    "page_end": 13,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "A few more words should be said about the kind of superiority which is necessary before a mating attack can be undertaken. We are interested in the case where the advantage is not one of material but of position and time. The attacker is, as a rule, stronger in the area where the attack takes place by virtue of his material preponderance there, but his superiority in this respect must be considerable. Even a simple pattern with the queen mating from the focal-point needs at least one other piece to cover the focal-point, which already means an advantage of two pieces against a lone king.",
+    "zh": "对于发动杀王进攻所需要的优势，还应再说几句。这里关注的不是全局性的子力优势，而是局面和时间上的优势。通常，进攻方由于在进攻区域集中了更多子力，因此在当地更强；而且这种局部优势必须相当明显。即使最简单的由后从杀王焦点完成将杀的模式，也至少需要另一个棋子保护这个焦点；这已经意味着以两个棋子对付一个孤立的王。",
+    "source_ids": [
+      "AA-p012-l034",
+      "AA-p012-l035",
+      "AA-p012-l036",
+      "AA-p012-l037",
+      "AA-p012-l038",
+      "AA-p012-l039",
+      "AA-p012-l040",
+      "AA-p012-l041"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-012.png",
+      "source_pages/page-013.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-43",
+    "section": "introduction",
+    "page": 12,
+    "page_end": 13,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "For such pieces to be brought into the attack, together with any further attacking pieces which may be necessary, one must also have a temporal advantage, that is, the ability to carry out a series of attacking moves without one's opponent being able to organize either a direct defence or a sufficiently strong counterattack. A temporal advantage of this kind is usually based on the attacker's positional advantage, i.e. by the comparative lack of mobility of his opponent's pieces for defensive purposes.",
+    "zh": "要把这些棋子，以及可能需要的其他棋子调入进攻，还必须具备时间优势：能够连续走出进攻着法，而不给对方组织直接防守或足够强反击的机会。这种时间优势通常建立在进攻方的局面优势之上，具体来说，就是对方棋子缺乏及时转入防守的机动性。",
+    "source_ids": [
+      "AA-p012-l041",
+      "AA-p013-l003",
+      "AA-p013-l004",
+      "AA-p013-l005",
+      "AA-p013-l006",
+      "AA-p013-l007",
+      "AA-p013-l008"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-012.png",
+      "source_pages/page-013.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-44",
+    "section": "introduction",
+    "page": 13,
+    "page_end": 13,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The attacker often does not possess such outstanding overall superiority at the commencement of his attack, but it may manifest itself later as a consequence of the immobility of some of the defending pieces or through a particular attacking combination. The skill of perceiving the right moment to launch one's attack in fact consists of making a correct assessment of possibilities such as these.",
+    "zh": "进攻方在发动进攻之初，往往并没有如此明显的整体优势；但由于某些防守棋子无法及时调动，或由于某个进攻组合，这种优势可能会在后续过程中显现。所谓善于抓住发动进攻的时机，实际上就是能够正确评估这类可能性。",
+    "source_ids": [
+      "AA-p013-l008",
+      "AA-p013-l009",
+      "AA-p013-l010",
+      "AA-p013-l011",
+      "AA-p013-l012",
+      "AA-p013-l013"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-013.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-45",
+    "section": "introduction",
+    "page": 13,
+    "page_end": 13,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "All these points go to show that the correct launching of an attack is the crucial difficulty which has caused so many masters to turn away from the attacking style. They would rather try to obtain something through positional technique, where the downside is nothing worse than a draw; all too often this is exactly what they do achieve. Still, if advancement in the art of attack is neglected, if opportunities for a perfectly feasible attack are passed by, how are games going to be won when technique comes up against technique?",
+    "zh": "以上各点说明，正确地发动进攻正是最关键的难题，也使许多大师远离了进攻型棋风。他们宁愿运用局面技术来争取收获，认为最坏也不过是和棋；而结果往往恰恰就是和棋。可是，如果不去提高进攻艺术，如果放过完全可行的进攻机会，那么当双方的局面技术不相上下时，又怎样才能赢棋呢？",
+    "source_ids": [
+      "AA-p013-l014",
+      "AA-p013-l015",
+      "AA-p013-l016",
+      "AA-p013-l017",
+      "AA-p013-l018",
+      "AA-p013-l019",
+      "AA-p013-l020"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-013.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "IN-46",
+    "section": "introduction",
+    "page": 13,
+    "page_end": 13,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Without exploring the art of attack more deeply, there can be no further advance in chess. Attack is an essential component of the game of chess; it is a spark which smoulders in every corner and only the player who knows how to keep it alive and make it burst into flame at the right moment has reached the heights of true mastery. Lasker once acutely observed that if there is ever any possibility of an attack one must carry it out, since otherwise one's advantage will evaporate.",
+    "zh": "如果不更深入地探索进攻艺术，国际象棋就无法继续进步。进攻是这项游戏不可缺少的组成部分；它像火种一样潜伏在棋盘的每个角落。只有懂得保住这颗火种，并在恰当时刻使它燃烧起来的棋手，才真正达到了棋艺的高峰。拉斯克曾敏锐地指出：只要存在进攻的可能，就必须付诸行动，否则优势就会消散。",
+    "source_ids": [
+      "AA-p013-l020",
+      "AA-p013-l021",
+      "AA-p013-l022",
+      "AA-p013-l023",
+      "AA-p013-l024",
+      "AA-p013-l025",
+      "AA-p013-l026"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-013.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-1",
+    "section": "ch01",
+    "page": 14,
+    "page_end": 14,
+    "kind": "title",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1 The attack against the uncastled king",
+    "zh": "第一章　攻击尚未易位的王",
+    "source_ids": [
+      "AA-p014-l001",
+      "AA-p014-l002"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-014.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-2",
+    "section": "ch01",
+    "page": 14,
+    "page_end": 14,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Making a mating attack on a king which had not yet castled was one of the joys of chess players in the past. These days the victim of such an attack is usually someone playing a master in a simultaneous display who has failed to castle at the right time.",
+    "zh": "攻击尚未易位的王，是过去棋手们的一大乐趣。如今，这类进攻的受害者，通常是在车轮战中与大师交手、却未能及时易位的棋手。",
+    "source_ids": [
+      "AA-p014-l003",
+      "AA-p014-l004",
+      "AA-p014-l005",
+      "AA-p014-l006"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-014.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-3",
+    "section": "ch01",
+    "page": 14,
+    "page_end": 14,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The initial position of the king before it castles contains two main weaknesses. One is that it is exposed if the e-file is opened up; the second is that the square f7 in Black's position (f2 is the corresponding weak point for White) is vulnerable, since it is covered by the king alone. It is therefore natural that the vast majority of attacks on an uncastled king exploit one of these weaknesses.",
+    "zh": "王尚未易位、仍处于初始位置时，有两个主要弱点。一是e线一旦打开，王就会暴露；二是黑方的f7格——白方对应的弱点是f2——只由王保护，因此容易受到攻击。所以，绝大多数针对未易位王的进攻，都会利用这两个弱点之一。",
+    "source_ids": [
+      "AA-p014-l007",
+      "AA-p014-l008",
+      "AA-p014-l009",
+      "AA-p014-l010",
+      "AA-p014-l011"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-014.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-4",
+    "section": "ch01",
+    "page": 14,
+    "page_end": 14,
+    "kind": "heading",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The attack along the e-file",
+    "zh": "沿e线发动进攻",
+    "source_ids": [
+      "AA-p014-l012"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-014.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-5",
+    "section": "ch01",
+    "page": 14,
+    "page_end": 14,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The first and most fundamental condition for an attack along the e-file is that the opponent's king should be on that file, and that for some reason it is impossible or difficult for it to move away. If all the adjacent squares are occupied by the king's own pieces or controlled by the opponent's, its escape is absolutely impossible. However, if the player is simply being prevented from castling, but other squares are not covered, the movement of the king is only relatively restricted; in other words, it can move at the cost of losing the right to castle. Castling can also be thwarted indirectly: for instance, if the king has to guard one of the pieces which is protecting it (e.g. on e7 in Black's case).",
+    "zh": "沿e线进攻的第一个、也是最基本的条件，是对方的王位于这条线上，而且由于某种原因无法或很难离开。如果相邻的格都被王己方的棋子占据，或被对方控制，王就完全无法逃离。不过，如果只是易位受到阻止，其他格却未被控制，那么王的活动仅受到相对限制；换言之，它仍能移动，只是要付出失去易位权的代价。也可以间接阻止易位：例如，王必须保护那个挡在它前面的防守棋子，黑方e7格上的棋子就可能承担这种作用。",
+    "source_ids": [
+      "AA-p014-l013",
+      "AA-p014-l014",
+      "AA-p014-l015",
+      "AA-p014-l016",
+      "AA-p014-l017",
+      "AA-p014-l018",
+      "AA-p014-l019",
+      "AA-p014-l020",
+      "AA-p014-l021"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-014.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-6",
+    "section": "ch01",
+    "page": 14,
+    "page_end": 14,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The second condition for an attack of this kind depends on the attacker's own circumstances. First of all, the e-file should be open, or it should at any rate be in the attacker's power to open it; the attacker should also either have a piece which can control a file (a rook or queen) on the file or be able quickly to post one on it. Besides this, he usually needs to strengthen his pressure on the e-file, for instance by doubling rooks or by attacking one of his opponent's pieces which is on the file and protecting the king.",
+    "zh": "第二个条件取决于进攻方自身的配置。首先，e线应该已经打开，或者至少进攻方有能力将它打开；其次，进攻方应当已经把能够控制直线的重子——车或后——放在e线上，或能迅速调过去。此外，通常还需要加强e线上的压力，例如叠车，或者攻击对方位于e线上、保护王的棋子。",
+    "source_ids": [
+      "AA-p014-l022",
+      "AA-p014-l023",
+      "AA-p014-l024",
+      "AA-p014-l025",
+      "AA-p014-l026",
+      "AA-p014-l027",
+      "AA-p014-l028"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-014.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-7",
+    "section": "ch01",
+    "page": 14,
+    "page_end": 15,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "From these necessary conditions it transpires that in an attack along the e-file there tends to be a chain of defence, and the attack is carried out against the central unit of the chain, that is, the piece protecting the king. If this piece is on the square directly in front of the king (e7 or e2), the attacker may be able to mate by capturing it with his queen (or rook), i.e. by making the square into the focal-point.",
+    "zh": "从这些必要条件可以看出，沿e线进攻时，防守方往往存在一条防守链。进攻的目标就是这条链的关键环节，也就是保护王的棋子。如果这个棋子位于王正前方的格，即e7或e2，进攻方就可能用后或车吃掉它并完成将杀，使这个格成为杀王焦点。",
+    "source_ids": [
+      "AA-p014-l029",
+      "AA-p014-l030",
+      "AA-p014-l031",
+      "AA-p014-l032",
+      "AA-p015-l003",
+      "AA-p015-l004"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-014.png",
+      "source_pages/page-015.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-8",
+    "section": "ch01",
+    "page": 15,
+    "page_end": 15,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "An attack on the e-file tends to occur most frequently at an early stage of the game. The following miniature is an example of how rapidly this kind of attack may develop after an opening mistake:",
+    "zh": "沿e线的进攻，最常出现在对局的早期阶段。下面这盘短局说明，开局一旦出错，这类进攻会多么迅速地展开。",
+    "source_ids": [
+      "AA-p015-l005",
+      "AA-p015-l006",
+      "AA-p015-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-015.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-9",
+    "section": "ch01",
+    "page": 15,
+    "page_end": 15,
+    "kind": "metadata",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Meesen – H. Müller\nCorrespondence Game, 1928/9\nEnglish Opening",
+    "zh": "梅森（白）对H.米勒（黑）\n1928—1929年通信赛\n英国式开局",
+    "source_ids": [
+      "AA-p015-l008",
+      "AA-p015-l009",
+      "AA-p015-l010"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-015.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-10",
+    "section": "ch01",
+    "page": 15,
+    "page_end": 15,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. g3? Qe7",
+    "zh": "1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. g3? Qe7",
+    "source_ids": [
+      "AA-p015-l011"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-015.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-11",
+    "section": "ch01",
+    "page": 15,
+    "page_end": 15,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "A good move, which counters White's plan (Bg2 and O-O) by attacking along the e-file. If White were now to play 8. e3, such an attack would admittedly not follow, but he would still be weakening his position.",
+    "zh": "这是好棋。黑方准备沿e线进攻，以应对白方Bg2和O-O的计划。如果白方现在走8. e3，黑方固然无法立即展开这种进攻，但白方的局面仍会因此削弱。",
+    "source_ids": [
+      "AA-p015-l012",
+      "AA-p015-l013",
+      "AA-p015-l014"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-015.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-12",
+    "section": "ch01",
+    "page": 15,
+    "page_end": 15,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "8. Bg2 Ba6 9. Qd3 d5 10. b3 d4! (D)",
+    "zh": "8. Bg2 Ba6 9. Qd3 d5 10. b3 d4!（见图）",
+    "figure_id": "AA-p015-fig01",
+    "caption_zh": "黑方走完10... d4后的局面",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p015-l015"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-015.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-13",
+    "section": "ch01",
+    "page": 15,
+    "page_end": 15,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "An interesting move; Black abandons his attack on the e-file for the time being, transferring his pressure to the weakened diagonal a5-e1. If White now takes the c6-pawn and then the a8-rook, Black can win a piece by ...Bxc3+ and ...Bxa1.",
+    "zh": "很有趣的一步。黑方暂时放下e线上的进攻，将压力转移到已经削弱的a5—e1斜线上。如果白方现在先吃c6兵，再吃a8车，黑方就能通过...Bxc3+和...Bxa1得子。",
+    "source_ids": [
+      "AA-p015-l017",
+      "AA-p015-l018",
+      "AA-p015-l019"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-015.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-14",
+    "section": "ch01",
+    "page": 15,
+    "page_end": 15,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "11. Qxd4 Rd8",
+    "zh": "11. Qxd4 Rd8",
+    "source_ids": [
+      "AA-p015-l021"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-015.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-15",
+    "section": "ch01",
+    "page": 15,
+    "page_end": 15,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Forcing the queen to give up the defence of the knight.",
+    "zh": "迫使白后放弃对马的保护。",
+    "source_ids": [
+      "AA-p015-l022"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-015.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-16",
+    "section": "ch01",
+    "page": 15,
+    "page_end": 15,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "12. Bxc6+ Kf8 13. Bd5 Rxd5! 0-1",
+    "zh": "12. Bxc6+ Kf8 13. Bd5 Rxd5! 0-1",
+    "source_ids": [
+      "AA-p015-l023"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-015.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-17",
+    "section": "ch01",
+    "page": 15,
+    "page_end": 15,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "White resigns, since 14. cxd5 is followed by 14... Qxe2#. Play returns to the e-file at the final point of victory.",
+    "zh": "白方认输，因为14. cxd5之后有14... Qxe2#。在决定胜负的最后时刻，进攻又回到了e线上。",
+    "source_ids": [
+      "AA-p015-l024",
+      "AA-p015-l025"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-015.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-18",
+    "section": "ch01",
+    "page": 15,
+    "page_end": 16,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "With an attack along the e-file, the main difficulty can often be the actual opening up of the file, especially if everything else has already been achieved, as, for example, in the following game:",
+    "zh": "沿e线进攻时，最大的困难往往就在于如何真正打开这条线；尤其是其他条件都已具备时，更是如此。下面这盘棋就是一个例子。",
+    "source_ids": [
+      "AA-p015-l026",
+      "AA-p016-l003",
+      "AA-p016-l004"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-015.png",
+      "source_pages/page-016.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-19",
+    "section": "ch01",
+    "page": 16,
+    "page_end": 16,
+    "kind": "metadata",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Chigorin – Burn\nOstend, 1906\nKing's Gambit Declined",
+    "zh": "齐果林（白）对伯恩（黑）\n1906年，奥斯坦德\n拒绝王翼弃兵",
+    "source_ids": [
+      "AA-p016-l005",
+      "AA-p016-l006",
+      "AA-p016-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-016.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-20",
+    "section": "ch01",
+    "page": 16,
+    "page_end": 16,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. Nc3 O-O 6. d3 Nc6 7. Qe2 Re8 8. f5 d5 9. Bb3 (D)",
+    "zh": "1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. Nc3 O-O 6. d3 Nc6 7. Qe2 Re8 8. f5 d5 9. Bb3（见图）",
+    "figure_id": "AA-p016-fig01",
+    "caption_zh": "白方走完9. Bb3后的局面",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p016-l008",
+      "AA-p016-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-016.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-21",
+    "section": "ch01",
+    "page": 16,
+    "page_end": 16,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "This position contains the three elements already referred to (king on e1, queen on e2 and the black rook on e8), and it is only a question of opening up the e-file. This aim can be promoted by the sacrifice of Black's bishop on f5:",
+    "zh": "这个局面具备了前面提到的三个要素：白王在e1，白后在e2，黑车在e8。现在只剩下如何打开e线的问题。黑方可以在f5弃象，以实现这个目标。",
+    "source_ids": [
+      "AA-p016-l011",
+      "AA-p016-l012",
+      "AA-p016-l013"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-016.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-22",
+    "section": "ch01",
+    "page": 16,
+    "page_end": 16,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "9... Bxf5!",
+    "zh": "9... Bxf5!",
+    "source_ids": [
+      "AA-p016-l014"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-016.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-23",
+    "section": "ch01",
+    "page": 16,
+    "page_end": 16,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "After 10. exf5 e4, the important point is that White cannot avoid opening up the e-file since removing his knight would be followed by 11... exd3. But if Black had played more weakly with 9... dxe4? 10. dxe4 Bxf5 11. exf5 e4, he would have lost the chance of playing ...exd3, and White could have moved his knight and avoided opening up the file.",
+    "zh": "10. exf5 e4之后，关键在于白方无法避免e线被打开，因为白马一旦移开，就有11... exd3。但是，如果黑方走得较弱，选择9... dxe4? 10. dxe4 Bxf5 11. exf5 e4，就会失去...exd3的可能；白方可以移开马，而不必让e线打开。",
+    "source_ids": [
+      "AA-p016-l015",
+      "AA-p016-l016",
+      "AA-p016-l017",
+      "AA-p016-l018",
+      "AA-p016-l019"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-016.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-24",
+    "section": "ch01",
+    "page": 16,
+    "page_end": 16,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The play after 10... e4 is no longer of interest; White could still try 11. Kd1 exf3 12. Qxf3, after which 12... Ne5 followed by 13... Ng4 or 13... Nd4 would lead to a great advantage for Black. In the game itself, White declined the sacrifice by 10. Bg5, but lost quickly:",
+    "zh": "10... e4之后的走法已经没有多少悬念。白方还可以尝试11. Kd1 exf3 12. Qxf3，但黑方有12... Ne5，再接13... Ng4或13... Nd4，将取得很大优势。实战中，白方以10. Bg5拒绝接受弃子，却很快落败：",
+    "source_ids": [
+      "AA-p016-l020",
+      "AA-p016-l021",
+      "AA-p016-l022",
+      "AA-p016-l023"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-016.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-25",
+    "section": "ch01",
+    "page": 16,
+    "page_end": 16,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "10... dxe4 11. dxe4 Bxe4 12. Qc4 Qd5 13. Qb5 Bf2+ 0-1",
+    "zh": "10... dxe4 11. dxe4 Bxe4 12. Qc4 Qd5 13. Qb5 Bf2+ 0-1",
+    "source_ids": [
+      "AA-p016-l024"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-016.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-26",
+    "section": "ch01",
+    "page": 16,
+    "page_end": 17,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "If the e-file is already open and the last defender is a piece on e2 (or e7 for Black) then the operation often takes the form of a systematic attempt to undermine the defence of the critical square, thus making e2 into a focal-point. The following diagram gives an example of this kind of operation:",
+    "zh": "如果e线已经打开，而最后的防守者是e2格上的棋子——黑方则是e7格——进攻往往会围绕一个目标系统展开：削弱关键格的防守，使e2成为杀王焦点。下图就是这样的例子。",
+    "source_ids": [
+      "AA-p016-l025",
+      "AA-p016-l026",
+      "AA-p017-l003",
+      "AA-p017-l004"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-016.png",
+      "source_pages/page-017.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-27",
+    "section": "ch01",
+    "page": 17,
+    "page_end": 17,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "This position is from the game Hansen-Lundin, Oslo 1928.",
+    "zh": "这个局面出自1928年在奥斯陆的汉森对伦丁一局。",
+    "figure_id": "AA-p017-fig01",
+    "caption_zh": "汉森（白）对伦丁（黑），黑方行棋",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p017-l006"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-017.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-28",
+    "section": "ch01",
+    "page": 17,
+    "page_end": 17,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1... Rxd4! 2. Nxd4 Nxd4 3. cxd4",
+    "zh": "1... Rxd4! 2. Nxd4 Nxd4 3. cxd4",
+    "source_ids": [
+      "AA-p017-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-017.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-29",
+    "section": "ch01",
+    "page": 17,
+    "page_end": 17,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Alternatives were 3. O-O-O Nxe2+ and 3. Rd1 Qxe2+, etc.",
+    "zh": "其他选择有3. O-O-O Nxe2+，或3. Rd1 Qxe2+等。",
+    "source_ids": [
+      "AA-p017-l008"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-017.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-30",
+    "section": "ch01",
+    "page": 17,
+    "page_end": 17,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "3... Bb4",
+    "zh": "3... Bb4",
+    "source_ids": [
+      "AA-p017-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-017.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-31",
+    "section": "ch01",
+    "page": 17,
+    "page_end": 17,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "To avoid mate White now had to consent to the loss of his queen by **4. Kf2**, but he resigned after **4... Bxd2 5. Bxg4+ f5 6. Bxd2 fxg4 7. Rhe1 Qxd4+ 8. Be3 Qxb2+ 9. Kf1 Re8 0-1**.",
+    "zh": "为了避免被将杀，白方现在只能以**4. Kf2**为代价接受失后。实战继续**4... Bxd2 5. Bxg4+ f5 6. Bxd2 fxg4 7. Rhe1 Qxd4+ 8. Be3 Qxb2+ 9. Kf1 Re8 0-1**，白方认输。",
+    "source_ids": [
+      "AA-p017-l010",
+      "AA-p017-l011",
+      "AA-p017-l012"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-017.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-32",
+    "section": "ch01",
+    "page": 17,
+    "page_end": 17,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "This position supplies a convenient example of the method of play against a piece protecting the king.",
+    "zh": "下图可以很好地说明，如何攻击保护王的棋子。",
+    "figure_id": "AA-p017-fig02",
+    "caption_zh": "",
+    "caption_status": "blank_no_game_context",
+    "source_ids": [
+      "AA-p017-l014",
+      "AA-p017-l015"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-017.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-33",
+    "section": "ch01",
+    "page": 17,
+    "page_end": 18,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "White, to move, must discover the correct way to increase his pressure against the bishop on e7. He would not achieve enough by **1. Qe2** Kf8 2. Bxe7+ Nxe7 3. Ng5 Nf5, and Black has defended himself successfully. **1. Re2** would similarly be useless, while if **1. Rxe7+** Nxe7 2. Bf6 (or 2. Qe2 f6 and then ...Rf8), Black would still be able to maintain the balance by playing 2... Kd7 (3. Qe2 c6, etc.). White's only correct move is:",
+    "zh": "轮到白方行棋，他必须找到正确的方法，加强对e7象的压力。**1. Qe2** Kf8 2. Bxe7+ Nxe7 3. Ng5 Nf5不足以达到目的，黑方已经成功防守。**1. Re2**同样无效。如果**1. Rxe7+** Nxe7 2. Bf6（或2. Qe2 f6，再接...Rf8），黑方仍能以2... Kd7维持均势，例如3. Qe2 c6等。白方唯一正确的一步是：",
+    "source_ids": [
+      "AA-p017-l016",
+      "AA-p017-l017",
+      "AA-p018-l003",
+      "AA-p018-l004",
+      "AA-p018-l005",
+      "AA-p018-l006"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-017.png",
+      "source_pages/page-018.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-34",
+    "section": "ch01",
+    "page": 18,
+    "page_end": 18,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1. Bf6!",
+    "zh": "1. Bf6!",
+    "source_ids": [
+      "AA-p018-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-018.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-35",
+    "section": "ch01",
+    "page": 18,
+    "page_end": 18,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "In this way White not only prevents Black from castling but also stops him from countering with ...f6. 1... O-O would be answered by 2. Rxe7 Nxe7 3. Qe2! Re8 4. Qd2 Kh7 5. Ng5+ Kg8 6. Ne6! fxe6 7. Qh6 Nf5 8. Qxg6+, and White wins.",
+    "zh": "这样，白方不仅阻止黑方易位，也阻止了...f6这一反击。1... O-O会遭到2. Rxe7 Nxe7 3. Qe2! Re8 4. Qd2 Kh7 5. Ng5+ Kg8 6. Ne6! fxe6 7. Qh6 Nf5 8. Qxg6+，白方获胜。",
+    "source_ids": [
+      "AA-p018-l008",
+      "AA-p018-l009",
+      "AA-p018-l010",
+      "AA-p018-l011"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-018.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-36",
+    "section": "ch01",
+    "page": 18,
+    "page_end": 18,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1... Rf8 2. Rxe7+!",
+    "zh": "1... Rf8 2. Rxe7+!",
+    "source_ids": [
+      "AA-p018-l012"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-018.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-37",
+    "section": "ch01",
+    "page": 18,
+    "page_end": 18,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "A rook sacrifice of this type is often necessary if an attack along the e-file is to be forced home. It is essentially a question of freeing the square e1 for the second rook, while the first, in being sacrificed, eliminates one of the pieces defending e7. [1]",
+    "zh": "要把沿e线的进攻贯彻到底，往往需要这种弃车。其要点是腾出e1格，让另一只车加入进攻；而被弃掉的第一只车，则消灭了一个保护e7的棋子。【编者注1】",
+    "source_ids": [
+      "AA-p018-l013",
+      "AA-p018-l014",
+      "AA-p018-l015",
+      "AA-p018-l016"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-018.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-38",
+    "section": "ch01",
+    "page": 18,
+    "page_end": 18,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "2... Nxe7 3. Qe2 Qd7",
+    "zh": "2... Nxe7 3. Qe2 Qd7",
+    "source_ids": [
+      "AA-p018-l017"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-018.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-39",
+    "section": "ch01",
+    "page": 18,
+    "page_end": 18,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "If 3... Kd7, then 4. Re1 Re8 5. Qb5+ Kc8 6. Qc4 d5 7. Qe2 Kd7 8. Ne5+, and White wins.",
+    "zh": "如果3... Kd7，则4. Re1 Re8 5. Qb5+ Kc8 6. Qc4 d5 7. Qe2 Kd7 8. Ne5+，白方获胜。",
+    "source_ids": [
+      "AA-p018-l018",
+      "AA-p018-l019"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-018.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-40",
+    "section": "ch01",
+    "page": 18,
+    "page_end": 18,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "**4. Re1 Qe6 5. Qb5+ c6 6. Qxb7**, and White wins.",
+    "zh": "**4. Re1 Qe6 5. Qb5+ c6 6. Qxb7**，白方获胜。",
+    "source_ids": [
+      "AA-p018-l020"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-018.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-41",
+    "section": "ch01",
+    "page": 18,
+    "page_end": 18,
+    "kind": "footnote",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "2. Qd3! is even more convincing. Black can only prevent the deadly 3. Rxe7+ Nxe7 4. Re1 by 2... Kd7, but after 3. Qb5+ his position collapses immediately. In Vuković's main line, 4... O-O-O 5. Bxe7 Rde8 would enable Black to fight on.",
+    "zh": "【编者注1】2. Qd3!更有说服力。黑方只有2... Kd7才能阻止致命的3. Rxe7+ Nxe7 4. Re1，但3. Qb5+之后，局面就会立即崩溃。在武科维奇的主线中，4... O-O-O 5. Bxe7 Rde8还能使黑方继续抵抗。",
+    "source_ids": [],
+    "source_scan_paths": [
+      "source_pages/page-018.png"
+    ],
+    "source_mapping_precision": "scan_page_only"
+  },
+  {
+    "segment_id": "CH1-42",
+    "section": "ch01",
+    "page": 18,
+    "page_end": 18,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "White's play in the following position (Ravinsky-Panov, Moscow 1943) is an excellent example of a well-conducted attack along the e-file.",
+    "zh": "下图出自1943年在莫斯科的拉文斯基对帕诺夫一局。白方的走法，是精心组织e线进攻的极佳范例。",
+    "figure_id": "AA-p018-fig01",
+    "caption_zh": "拉文斯基（白）对帕诺夫（黑），白方行棋",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p018-l021",
+      "AA-p018-l022"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-018.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-43",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1. Rxd7! Nxd7 2. Nxe6 fxe6 3. Qxe6+ Be7",
+    "zh": "1. Rxd7! Nxd7 2. Nxe6 fxe6 3. Qxe6+ Be7",
+    "source_ids": [
+      "AA-p019-l003"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-44",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "If 3... Kd8, then 4. Bg5+ Kc7 5. Qc6+ Kb8 6. Bf4+ Rc7 7. Bxc7+ Qxc7 8. Qa8#.",
+    "zh": "如果3... Kd8，则4. Bg5+ Kc7 5. Qc6+ Kb8 6. Bf4+ Rc7 7. Bxc7+ Qxc7 8. Qa8#。",
+    "source_ids": [
+      "AA-p019-l004",
+      "AA-p019-l005"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-45",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "4. Re1 Qc5 5. b4! Nf8?",
+    "zh": "4. Re1 Qc5 5. b4! Nf8?",
+    "source_ids": [
+      "AA-p019-l006"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-46",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Better would have been 5... Qxb4 6. Bg5 Qxe1+ 7. Qxe1 Nf6, when Black has excellent drawing chances. After the text move he loses in all variations.",
+    "zh": "较好的是5... Qxb4 6. Bg5 Qxe1+ 7. Qxe1 Nf6，黑方很有希望守和。实战这步之后，各种变化都会使黑方落败。",
+    "source_ids": [
+      "AA-p019-l007",
+      "AA-p019-l008"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-47",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "6. Qg4!",
+    "zh": "6. Qg4!",
+    "source_ids": [
+      "AA-p019-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-48",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Avoiding exchanges and keeping an eye on c8.",
+    "zh": "避免兑换，同时盯住c8。",
+    "source_ids": [
+      "AA-p019-l010"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-49",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "6... Qc3 7. Rxe7+!",
+    "zh": "6... Qc3 7. Rxe7+!",
+    "source_ids": [
+      "AA-p019-l011"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-50",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "A new and decisive sacrifice.",
+    "zh": "又一次弃子，决定了胜负。",
+    "source_ids": [
+      "AA-p019-l012"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-51",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "7... Kxe7 8. Bg5+ Kd6 9. Qd1+ Kc7 10. Bf4+ Kb6 11. Qd6+ Ka7 12. Qe7+ Rc7 13. Bxc7",
+    "zh": "7... Kxe7 8. Bg5+ Kd6 9. Qd1+ Kc7 10. Bf4+ Kb6 11. Qd6+ Ka7 12. Qe7+ Rc7 13. Bxc7",
+    "source_ids": [
+      "AA-p019-l013",
+      "AA-p019-l014"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-52",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Simpler, of course, would have been 13. Be3+ Kb8 14. Qd8+ Rc8 15. Qb6#.",
+    "zh": "当然，13. Be3+ Kb8 14. Qd8+ Rc8 15. Qb6#更为简明。",
+    "source_ids": [
+      "AA-p019-l015"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-53",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "13... Qa1+ 14. Bf1 Ng6 15. Qc5+ Kb7 16. Ba5 Rf8",
+    "zh": "13... Qa1+ 14. Bf1 Ng6 15. Qc5+ Kb7 16. Ba5 Rf8",
+    "source_ids": [
+      "AA-p019-l016"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-54",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Or 16... Rc8 17. Qb6+ Ka8 18. Qxa6+ Kb8 19. Bc7+ and 20. Qxa1.",
+    "zh": "或者16... Rc8 17. Qb6+ Ka8 18. Qxa6+ Kb8 19. Bc7+，再接20. Qxa1。",
+    "source_ids": [
+      "AA-p019-l017"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-55",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "17. Qb6+ 1-0",
+    "zh": "17. Qb6+ 1-0",
+    "source_ids": [
+      "AA-p019-l018"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-56",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "If 17... Ka8, then 18. Qc6+ Kb8 19. Bc7+, mating in a few moves.",
+    "zh": "如果17... Ka8，则18. Qc6+ Kb8 19. Bc7+，白方再走几步就能将杀。",
+    "source_ids": [
+      "AA-p019-l019"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-57",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The following brilliancy by Steinitz is an example of a game in which White plays consistently to build up pressure on the e-file and finally makes his decisive breakthrough there.",
+    "zh": "下面这盘斯坦尼茨的精彩对局说明，白方怎样始终围绕e线加强压力，并最终在那里实现决定性的突破。",
+    "source_ids": [
+      "AA-p019-l020",
+      "AA-p019-l021",
+      "AA-p019-l022"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-58",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "metadata",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Steinitz – von Bardeleben\nHastings, 1895\nGiuoco Piano",
+    "zh": "斯坦尼茨（白）对冯·巴德莱本（黑）\n1895年，黑斯廷斯\n意大利开局",
+    "source_ids": [
+      "AA-p019-l023",
+      "AA-p019-l024",
+      "AA-p019-l025"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-59",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 d5",
+    "zh": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 d5",
+    "source_ids": [
+      "AA-p019-l026"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-60",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Nowadays one would play 7... Nxe4, which is better.",
+    "zh": "按照后来的开局认识，7... Nxe4更好。",
+    "source_ids": [
+      "AA-p019-l027"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-61",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "8. exd5 Nxd5 9. O-O Be6 10. Bg5 Be7? 11. Bxd5",
+    "zh": "8. exd5 Nxd5 9. O-O Be6 10. Bg5 Be7? 11. Bxd5",
+    "source_ids": [
+      "AA-p019-l028"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-62",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "White now carries out a series of exchanges to keep up the pressure along the e-file and prevent Black from castling.",
+    "zh": "白方现在通过一系列兑换，保持e线上的压力，并阻止黑方易位。",
+    "source_ids": [
+      "AA-p019-l029",
+      "AA-p019-l030"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-63",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "11... Bxd5 12. Nxd5 Qxd5 13. Bxe7 Nxe7 14. Re1 f6",
+    "zh": "11... Bxd5 12. Nxd5 Qxd5 13. Bxe7 Nxe7 14. Re1 f6",
+    "source_ids": [
+      "AA-p019-l031"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-64",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Black realizes that he cannot succeed in castling, since if 14... Qd7, White will increase his pressure on e7 by 15. Qe2. In playing 14... f6, Black aims at 'artificial castling' by means of ...Kf7 followed by ...Rhe8 and ...Kg8; the move also limits the activity of White's knight. However, these are all excuses made in a situation which is already unhealthy for Black as a result of his weak 10th move.",
+    "zh": "黑方意识到，自己已经无法顺利易位：如果14... Qd7，白方就有15. Qe2，进一步加强对e7的压力。走14... f6，是准备通过...Kf7，再接...Rhe8和...Kg8，完成“人工易位”；这步棋也限制了白马的活动。不过，黑方第10步的软着已经使局面不佳，这些理由只能算是事后的自我安慰。",
+    "source_ids": [
+      "AA-p019-l032",
+      "AA-p019-l033",
+      "AA-p019-l034",
+      "AA-p019-l035",
+      "AA-p019-l036"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-65",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 20,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "15. Qe2 Qd7 16. Rac1 (D)",
+    "zh": "15. Qe2 Qd7 16. Rac1（见图）",
+    "figure_id": "AA-p020-fig01",
+    "caption_zh": "白方走完16. Rac1后的局面",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p019-l037"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png",
+      "source_pages/page-020.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-66",
+    "section": "ch01",
+    "page": 19,
+    "page_end": 19,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "16... c6?",
+    "zh": "16... c6?",
+    "source_ids": [
+      "AA-p019-l038"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-019.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-67",
+    "section": "ch01",
+    "page": 20,
+    "page_end": 20,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Better would have been 16... Kd8; the text move does not prevent d4-d5, which White now plays with the aim of clearing d4 for his knight. [2]",
+    "zh": "较好的是16... Kd8。实战这步没有阻止d4—d5；白方现在就冲起d5，为马腾出d4格。【编者注2】",
+    "source_ids": [
+      "AA-p020-l004",
+      "AA-p020-l005"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-020.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-68",
+    "section": "ch01",
+    "page": 20,
+    "page_end": 20,
+    "kind": "footnote",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "According to contemporary analysis, Black could have equalised by 16... Kf7, but White could have gained the advantage earlier by 16. Rad1!.",
+    "zh": "【编者注2】按照现代分析，黑方可以用16... Kf7取得均势；不过，白方此前若走16. Rad1!，就能取得优势。",
+    "source_ids": [],
+    "source_scan_paths": [
+      "source_pages/page-020.png"
+    ],
+    "source_mapping_precision": "scan_page_only"
+  },
+  {
+    "segment_id": "CH1-69",
+    "section": "ch01",
+    "page": 20,
+    "page_end": 20,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "17. d5! cxd5 18. Nd4 Kf7 19. Ne6 Rhc8 20. Qg4 g6 21. Ng5+!",
+    "zh": "17. d5! cxd5 18. Nd4 Kf7 19. Ne6 Rhc8 20. Qg4 g6 21. Ng5+!",
+    "source_ids": [
+      "AA-p020-l006"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-020.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-70",
+    "section": "ch01",
+    "page": 20,
+    "page_end": 20,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The beginning of a great combination, one of the finest in 19th-century chess. The black king now has to go back on to the dangerous e-file.",
+    "zh": "一个精彩组合就此开始，这是19世纪国际象棋中最出色的组合之一。黑王现在不得不返回危险的e线。",
+    "source_ids": [
+      "AA-p020-l007",
+      "AA-p020-l008"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-020.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-71",
+    "section": "ch01",
+    "page": 20,
+    "page_end": 20,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "21... Ke8 (D)",
+    "zh": "21... Ke8（见图）",
+    "figure_id": "AA-p020-fig02",
+    "caption_zh": "黑方走完21... Ke8后的局面",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p020-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-020.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-72",
+    "section": "ch01",
+    "page": 20,
+    "page_end": 20,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "22. Rxe7+! Kf8",
+    "zh": "22. Rxe7+! Kf8",
+    "source_ids": [
+      "AA-p020-l011"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-020.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-73",
+    "section": "ch01",
+    "page": 20,
+    "page_end": 21,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "White's sacrificial assault on e7 crowns his attack on the e-file. As a result of his weakness on that file, Black consented to weaken his position elsewhere, as frequently happens once a basic defect has appeared. If he were to play 22... Kxe7, then 23. Re1+ Kd6 24. Qb4+ Kc7 (or 24... Rc5 25. Re6+) 25. Ne6+ Kb8 26. Qf4+ wins, so Black decides to decline the sacrifice, hoping to exploit the fact that he is himself threatening to mate on c1.",
+    "zh": "白方在e7的弃子攻击，是整场e线进攻的高潮。由于e线上存在弱点，黑方此前不得不削弱其他地方的局面；一旦出现根本性的缺陷，这种情况就很常见。如果22... Kxe7，则23. Re1+ Kd6 24. Qb4+ Kc7（或24... Rc5 25. Re6+）25. Ne6+ Kb8 26. Qf4+，白方获胜。因此，黑方决定不吃这只车，希望利用自己在c1的将杀威胁。",
+    "source_ids": [
+      "AA-p020-l012",
+      "AA-p020-l013",
+      "AA-p020-l014",
+      "AA-p020-l015",
+      "AA-p020-l016",
+      "AA-p020-l017",
+      "AA-p021-l003",
+      "AA-p021-l004"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-020.png",
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-74",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "23. Rf7+ Kg8",
+    "zh": "23. Rf7+ Kg8",
+    "source_ids": [
+      "AA-p021-l005"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-75",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "23... Qxf7 would, of course, be followed by Rxc8+.",
+    "zh": "23... Qxf7当然会遭到24. Rxc8+。",
+    "source_ids": [
+      "AA-p021-l006"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-76",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "24. Rg7+!",
+    "zh": "24. Rg7+!",
+    "source_ids": [
+      "AA-p021-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-77",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Black cannot get rid of this impudent rook, since if 24... Kxg7, then 25. Qxd7+, or if 24... Qxg7, then 25. Rxc8+.",
+    "zh": "黑方拿这只肆无忌惮的白车毫无办法：如果24... Kxg7，则25. Qxd7+；如果24... Qxg7，则25. Rxc8+。",
+    "source_ids": [
+      "AA-p021-l008",
+      "AA-p021-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-78",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "24... Kh8 25. Rxh7+ 1-0",
+    "zh": "24... Kh8 25. Rxh7+ 1-0",
+    "source_ids": [
+      "AA-p021-l010"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-79",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "At this point Steinitz's opponent left the tournament hall and never reappeared. By these offensive means he hoped to deprive Steinitz of 'a piece of immortality', but the textbooks have noted White's intentions all the same:",
+    "zh": "此时，斯坦尼茨的对手离开了比赛大厅，再也没有回来。他希望用这种失礼的方式，使斯坦尼茨的名局无法完整留下；但棋书仍然记载了白方原本打算走出的收尾过程：",
+    "source_ids": [
+      "AA-p021-l011",
+      "AA-p021-l012",
+      "AA-p021-l013"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-80",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "variation",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "25... Kg8 26. Rg7+ Kh8 27. Qh4+ Kxg7 28. Qh7+ Kf8 29. Qh8+ Ke7 30. Qg7+ Ke8 31. Qg8+ Ke7 32. Qf7+ Kd8 33. Qf8+ Qe8 34. Nf7+ Kd7 35. Qd6#",
+    "zh": "25... Kg8 26. Rg7+ Kh8 27. Qh4+ Kxg7 28. Qh7+ Kf8 29. Qh8+ Ke7 30. Qg7+ Ke8 31. Qg8+ Ke7 32. Qf7+ Kd8 33. Qf8+ Qe8 34. Nf7+ Kd7 35. Qd6#",
+    "source_ids": [
+      "AA-p021-l014",
+      "AA-p021-l015"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-81",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "heading",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The attack on the square f7",
+    "zh": "攻击f7格",
+    "source_ids": [
+      "AA-p021-l016"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-82",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Black's weakest square on the board before castling is f7 (f2 for White). Even in the opening stages, threats of a sacrificial assault on f7 (or f2) are common; they are usually connected with an attack on the king or even with the idea of mate, in which case the square becomes the focal-point of a mating attack.",
+    "zh": "易位之前，黑方最薄弱的格是f7，白方则是f2。即使在开局阶段，在f7或f2弃子攻击的威胁也很常见。这类威胁通常与攻击王有关，甚至直接包含将杀构思；此时，这个格就成为杀王进攻的焦点。",
+    "source_ids": [
+      "AA-p021-l017",
+      "AA-p021-l018",
+      "AA-p021-l019",
+      "AA-p021-l020"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-83",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Later on, after castling kingside, the rook protects this vulnerable square and its weakness is greatly diminished, while after castling queenside the weakness of the square has no connection with a mating attack.",
+    "zh": "此后，如果完成短易位，车就会保护这个薄弱格，其弱点也随之大大减轻；如果完成长易位，这个格的弱点就不再与杀王进攻直接相关。",
+    "source_ids": [
+      "AA-p021-l021",
+      "AA-p021-l022",
+      "AA-p021-l023"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-84",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The most straightforward examples of assaults on f7 are to be seen at the beginning of certain open games, especially in the Petroff Defence and the Philidor Defence. We shall examine one example of this kind:",
+    "zh": "攻击f7最直接的例子，常见于某些开放性开局的早期阶段，尤其是俄罗斯防御和菲利多防御。下面看一个这样的例子。",
+    "source_ids": [
+      "AA-p021-l024",
+      "AA-p021-l025",
+      "AA-p021-l026"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-85",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1. e4 e5 2. Nf3 d6 3. Bc4 Ne7?",
+    "zh": "1. e4 e5 2. Nf3 d6 3. Bc4 Ne7?",
+    "source_ids": [
+      "AA-p021-l027"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-86",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Let us allow Black to play this bad move so as to reach a typical crisis over the square f7 as quickly as possible.",
+    "zh": "这里先让黑方走出这步坏棋，以便尽快展示f7格上典型的危机。",
+    "source_ids": [
+      "AA-p021-l028",
+      "AA-p021-l029"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-87",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "4. Ng5 d5 5. exd5 Nxd5 6. Qf3",
+    "zh": "4. Ng5 d5 5. exd5 Nxd5 6. Qf3",
+    "source_ids": [
+      "AA-p021-l030"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-88",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "6. d4 is also good.",
+    "zh": "6. d4也很好。",
+    "source_ids": [
+      "AA-p021-l031"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-89",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "6... Qxg5",
+    "zh": "6... Qxg5",
+    "source_ids": [
+      "AA-p021-l032"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-90",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "After 6... Be6 7. Nxe6 fxe6 8. Qh5+ Black loses a pawn and the right to castle.",
+    "zh": "6... Be6 7. Nxe6 fxe6 8. Qh5+之后，黑方会丢兵，并失去易位权。",
+    "source_ids": [
+      "AA-p021-l033"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-91",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "7. Bxd5",
+    "zh": "7. Bxd5",
+    "source_ids": [
+      "AA-p021-l034"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-92",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 21,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "and Black loses at least a pawn. If 7... f5, then 8. Bxb7 e4 9. Qb3 Qxg2 10. Rf1 and White wins.",
+    "zh": "黑方至少会丢一兵。如果7... f5，则8. Bxb7 e4 9. Qb3 Qxg2 10. Rf1，白方获胜。",
+    "source_ids": [
+      "AA-p021-l035",
+      "AA-p021-l036"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-93",
+    "section": "ch01",
+    "page": 21,
+    "page_end": 22,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Naturally, various attacks can be made on the uncastled king other than via the e-file or f7; these are only two of the commonest and most typical methods. The following example shows how a threat along the e-file can be indirectly combined with pre-castling attacks of another kind.",
+    "zh": "当然，攻击尚未易位的王，并不只有e线和f7两条途径；它们只是最常见、最典型的两种。下面这个例子说明，怎样把e线上的威胁，间接地与另一种针对未易位王的进攻结合起来。",
+    "source_ids": [
+      "AA-p021-l037",
+      "AA-p021-l038",
+      "AA-p022-l003",
+      "AA-p022-l004"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-021.png",
+      "source_pages/page-022.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-94",
+    "section": "ch01",
+    "page": 22,
+    "page_end": 22,
+    "kind": "metadata",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Keres – Kotov\nBudapest Ct, 1950\nSicilian Najdorf",
+    "zh": "凯列斯（白）对科托夫（黑）\n1950年，布达佩斯候选人赛\n西西里防御，纳伊道尔夫变例",
+    "source_ids": [
+      "AA-p022-l005",
+      "AA-p022-l006",
+      "AA-p022-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-022.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-95",
+    "section": "ch01",
+    "page": 22,
+    "page_end": 22,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Qc7 7. Bg5 Nbd7 8. O-O e6 9. Bh5 Qc4? (D)",
+    "zh": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Qc7 7. Bg5 Nbd7 8. O-O e6 9. Bh5 Qc4?（见图）",
+    "figure_id": "AA-p022-fig01",
+    "caption_zh": "黑方走完9... Qc4后的局面",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p022-l008",
+      "AA-p022-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-022.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-96",
+    "section": "ch01",
+    "page": 22,
+    "page_end": 22,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Here White carried out the following Sicilian trick, the kind of thing at which Keres was a master:",
+    "zh": "白方在这里使出了西西里防御中常见的战术手段；凯列斯正是运用这类手段的高手。",
+    "source_ids": [
+      "AA-p022-l011",
+      "AA-p022-l012"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-022.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-97",
+    "section": "ch01",
+    "page": 22,
+    "page_end": 22,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "10. Nxe6! Qxe6 11. Nd5",
+    "zh": "10. Nxe6! Qxe6 11. Nd5",
+    "source_ids": [
+      "AA-p022-l013"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-022.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-98",
+    "section": "ch01",
+    "page": 22,
+    "page_end": 22,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Black now went on to parry the threat of Nc7+ with 11... Kd8?, and after **12. Bg4 Qe5 13. f4 Qxe4 14. Bxd7 Bxd7 15. Nxf6** he found himself in a hopeless position.",
+    "zh": "黑方随后用11... Kd8?应对Nc7+的威胁；在**12. Bg4 Qe5 13. f4 Qxe4 14. Bxd7 Bxd7 15. Nxf6**之后，局面已经无可挽救。",
+    "source_ids": [
+      "AA-p022-l014",
+      "AA-p022-l015",
+      "AA-p022-l016"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-022.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-99",
+    "section": "ch01",
+    "page": 22,
+    "page_end": 22,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "An alternative was to let the e-file be opened up by 11... Nxd5 12. exd5 Qf5 13. Re1+ Ne5 14. f4, which would perhaps have been less unpleasant for Black, e.g. 14... g6 15. fxe5 (15. g4 is weaker on account of 15... Qxg5 16. fxg5 Bg7, etc.) 15... dxe5 16. Qe2 f6, etc. [3]",
+    "zh": "另一种选择是11... Nxd5 12. exd5 Qf5 13. Re1+ Ne5 14. f4，让e线打开；对黑方来说，这也许没有那么难受。例如14... g6 15. fxe5（15. g4较弱，因为有15... Qxg5 16. fxg5 Bg7等）15... dxe5 16. Qe2 f6等。【编者注3】",
+    "source_ids": [
+      "AA-p022-l017",
+      "AA-p022-l018",
+      "AA-p022-l019",
+      "AA-p022-l020"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-022.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-100",
+    "section": "ch01",
+    "page": 22,
+    "page_end": 22,
+    "kind": "footnote",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Indeed, after 16. Qe2 the reply 16... Qxg5 just leaves Black a piece up. Keres himself gave the continuation 13. Qe1+ (instead of 13. Re1+) 13... Ne5 14. f4 h6 15. fxe5 Qxg5 16. exd6+ as leading to a winning attack for White.",
+    "zh": "【编者注3】实际上，16. Qe2之后，黑方只需16... Qxg5就能多一子。凯列斯本人给出的后续手段是13. Qe1+，而不是13. Re1+；此后13... Ne5 14. f4 h6 15. fxe5 Qxg5 16. exd6+，白方将获得获胜的进攻。",
+    "source_ids": [],
+    "source_scan_paths": [
+      "source_pages/page-022.png"
+    ],
+    "source_mapping_precision": "scan_page_only"
+  },
+  {
+    "segment_id": "CH1-101",
+    "section": "ch01",
+    "page": 22,
+    "page_end": 22,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "A few further examples will show different aspects of the attack against the square f7:",
+    "zh": "再看几个例子，展示攻击f7格的不同特点。",
+    "source_ids": [
+      "AA-p022-l021",
+      "AA-p022-l022"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-022.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-102",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 23,
+    "kind": "metadata",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Keres – Winter\nWarsaw OL, 1935\nSicilian, 2... Nf6",
+    "zh": "凯列斯（白）对温特（黑）\n1935年，华沙奥林匹克团体赛\n西西里防御，2... Nf6",
+    "source_ids": [
+      "AA-p023-l003",
+      "AA-p023-l004",
+      "AA-p023-l005"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-103",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 23,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 d6 7. Bg5 Qa5+ 8. c3 cxd4 9. Bd3 dxc3 10. O-O cxb2 11. Rb1 dxe5 12. Nxe5 Bd6 (D)",
+    "zh": "1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 d6 7. Bg5 Qa5+ 8. c3 cxd4 9. Bd3 dxc3 10. O-O cxb2 11. Rb1 dxe5 12. Nxe5 Bd6（见图）",
+    "figure_id": "AA-p023-fig01",
+    "caption_zh": "黑方走完12... Bd6后的局面",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p023-l006",
+      "AA-p023-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-104",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 23,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "In this position White decided the game by sacrificing his knight on f7:",
+    "zh": "在这个局面中，白方通过在f7弃马，决定了对局的胜负。",
+    "source_ids": [
+      "AA-p023-l010"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-105",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 23,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "13. Nxf7! Kxf7 14. Qh5+",
+    "zh": "13. Nxf7! Kxf7 14. Qh5+",
+    "source_ids": [
+      "AA-p023-l011"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-106",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 23,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "A sacrificial assault on f7 must as a rule be followed up by aggressive action, so as not to allow Black time to consolidate (e.g. with an artificial castling by means of ...Rf8 and ...Kg8). The advantage of the capture is twofold: the king, in moving to f7, loses the right to castle and is exposed still further; at the same time, a weakness appears on the diagonal h5-e8. Such features should be quickly and energetically exploited, since they are on the whole of a transitory nature.",
+    "zh": "通常，在f7弃子攻击之后，必须立即采取积极行动，不给黑方巩固局面的时间，例如不让他用...Rf8和...Kg8完成人工易位。这次吃兵有两方面的好处：黑王移到f7，既失去了易位权，也进一步暴露；与此同时，h5—e8斜线上出现了弱点。这些因素大多只是暂时存在，因此必须迅速、有力地加以利用。",
+    "source_ids": [
+      "AA-p023-l012",
+      "AA-p023-l013",
+      "AA-p023-l014",
+      "AA-p023-l015",
+      "AA-p023-l016",
+      "AA-p023-l017"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-107",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 23,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "14... g6",
+    "zh": "14... g6",
+    "source_ids": [
+      "AA-p023-l018"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-108",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 23,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "If 14... Kf8, then 15. Rfe1 Bd7 16. Qf3+ Kg8 17. Be7 Bxe7 18. Rxe7, etc. Or if 14... Ke6, then 15. Bf5+! Kxf5 16. Bd2+ is strongest.",
+    "zh": "如果14... Kf8，则15. Rfe1 Bd7 16. Qf3+ Kg8 17. Be7 Bxe7 18. Rxe7等。若14... Ke6，最强的应对是15. Bf5+! Kxf5 16. Bd2+。",
+    "source_ids": [
+      "AA-p023-l019",
+      "AA-p023-l020"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-109",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 23,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "15. Bxg6+ hxg6 16. Qxh8 Bf5 17. Rfe1 Be4 18. Rxe4! dxe4 19. Qf6+ 1-0",
+    "zh": "15. Bxg6+ hxg6 16. Qxh8 Bf5 17. Rfe1 Be4 18. Rxe4! dxe4 19. Qf6+ 1-0",
+    "source_ids": [
+      "AA-p023-l021"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-110",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 23,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Since if 19... Kg8 (or 19... Ke8 20. Qe6+ Kf8 21. Bh6#) then 20. Qxg6+ Kf8 21. Qxd6+, followed by further checks and mate.",
+    "zh": "因为如果19... Kg8，则20. Qxg6+ Kf8 21. Qxd6+，再连续将军直至将杀；如果19... Ke8，则20. Qe6+ Kf8 21. Bh6#。",
+    "source_ids": [
+      "AA-p023-l022",
+      "AA-p023-l023"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-111",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 24,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The position on the following page is from the game Varein-NN. Here White carried out the following combination:",
+    "zh": "下图出自瓦赖因对一位姓名不详棋手的对局。白方在这里实施了如下组合：",
+    "figure_id": "AA-p024-fig01",
+    "caption_zh": "瓦赖因（白）对姓名不详棋手（黑），白方行棋",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p023-l024",
+      "AA-p023-l025"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png",
+      "source_pages/page-024.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-112",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 23,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1. Bxf7+ Kxf7 2. Nd5!",
+    "zh": "1. Bxf7+ Kxf7 2. Nd5!",
+    "source_ids": [
+      "AA-p023-l026"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-113",
+    "section": "ch01",
+    "page": 23,
+    "page_end": 24,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "This double attack on Black's b4-bishop and f4-pawn promotes a further attack on the exposed king by means of a rapid deployment of the queen's bishop; the position of Black's dark-squared bishop and queen helps White to gain some important tempi.",
+    "zh": "这步棋同时攻击黑方b4象和f4兵，使白方能够迅速出动自己的黑格象，继续攻击暴露的黑王。黑方黑格象和后的位置，还帮助白方抢到几个重要的先手。",
+    "source_ids": [
+      "AA-p023-l027",
+      "AA-p023-l028",
+      "AA-p024-l004",
+      "AA-p024-l005"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-023.png",
+      "source_pages/page-024.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-114",
+    "section": "ch01",
+    "page": 24,
+    "page_end": 24,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "2... Be7 3. Bxf4 Qh4 4. Nf3 Qh1+ 5. Kf2 Qxa1 6. Ne5+ Ke8 7. Qh5+ g6 8. Nxc7+ Kf8 9. Qh6+ Kg8 10. Ne8 Bf8 11. Nf6#",
+    "zh": "2... Be7 3. Bxf4 Qh4 4. Nf3 Qh1+ 5. Kf2 Qxa1 6. Ne5+ Ke8 7. Qh5+ g6 8. Nxc7+ Kf8 9. Qh6+ Kg8 10. Ne8 Bf8 11. Nf6#",
+    "source_ids": [
+      "AA-p024-l006",
+      "AA-p024-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-024.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-115",
+    "section": "ch01",
+    "page": 24,
+    "page_end": 24,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The continuation in this position, which arose in the game Asgeirsson-Raud, Munich OL 1936, is an example of an attack by Black on White's weak square at f2.",
+    "zh": "下图出自1936年慕尼黑奥林匹克团体赛的阿斯盖尔松对劳德一局。随后的走法，展示了黑方如何攻击白方f2弱格。",
+    "figure_id": "AA-p024-fig02",
+    "caption_zh": "阿斯盖尔松（白）对劳德（黑），黑方行棋",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p024-l010",
+      "AA-p024-l011",
+      "AA-p024-l012"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-024.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-116",
+    "section": "ch01",
+    "page": 24,
+    "page_end": 24,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1... Nxf2! 2. Kxf2 Ng4+ 3. Ke1",
+    "zh": "1... Nxf2! 2. Kxf2 Ng4+ 3. Ke1",
+    "source_ids": [
+      "AA-p024-l013"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-024.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-117",
+    "section": "ch01",
+    "page": 24,
+    "page_end": 24,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "If 3. Kg3, then Black follows up the attack with 3... Qc7+, and White's king is too exposed.",
+    "zh": "如果3. Kg3，黑方就有3... Qc7+继续进攻，白王暴露得过于严重。",
+    "source_ids": [
+      "AA-p024-l014",
+      "AA-p024-l015"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-024.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-118",
+    "section": "ch01",
+    "page": 24,
+    "page_end": 24,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "3... Nxe3 4. Qd2 d4 5. Nd1 Nxg2+ 6. Kf2 Nh4 7. Rf1 Bh3 8. Rg1 Rad8 9. Rg3 d3 10. Bxd3 Nxf3 11. Rxf3 Qh4+ 12. Rg3 Rxd3 13. Qxd3 Qf4+ 14. Qf3 Qd2+ 15. Kg1 Re1+ 0-1",
+    "zh": "3... Nxe3 4. Qd2 d4 5. Nd1 Nxg2+ 6. Kf2 Nh4 7. Rf1 Bh3 8. Rg1 Rad8 9. Rg3 d3 10. Bxd3 Nxf3 11. Rxf3 Qh4+ 12. Rg3 Rxd3 13. Qxd3 Qf4+ 14. Qf3 Qd2+ 15. Kg1 Re1+ 0-1",
+    "source_ids": [
+      "AA-p024-l016",
+      "AA-p024-l017",
+      "AA-p024-l018"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-024.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-119",
+    "section": "ch01",
+    "page": 24,
+    "page_end": 24,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Black mates next move.",
+    "zh": "黑方下一步就能将杀。",
+    "source_ids": [
+      "AA-p024-l019"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-024.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-120",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "A similar assault on f2 by two knights from e5 and g4 earned Black the First Brilliancy Prize in the following game:",
+    "zh": "下面这盘棋中，黑方也利用e5和g4上的两只马攻击f2，并凭借这一精彩构思获得了最佳对局奖的第一名。",
+    "source_ids": [
+      "AA-p025-l003",
+      "AA-p025-l004"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-121",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "metadata",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Réti – H. Wolf\nTeplitz-Schönau, 1922\nQueen's Gambit Declined, Orthodox Defence",
+    "zh": "列蒂（白）对H.沃尔夫（黑）\n1922年，特普利茨-舍瑙\n拒绝后翼弃兵，正统防御",
+    "source_ids": [
+      "AA-p025-l005",
+      "AA-p025-l006",
+      "AA-p025-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-122",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6 8. Qc2 a6 9. c5?!",
+    "zh": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6 8. Qc2 a6 9. c5?!",
+    "source_ids": [
+      "AA-p025-l008",
+      "AA-p025-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-123",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Here this method of blocking the position is unsound because of Black's central advance with ...e5. Nowadays one would play 9. a3 or 9. cxd5.",
+    "zh": "这种封闭局面的办法在这里并不妥当，因为黑方能在中心冲起e5。按照后来的开局认识，应选择9. a3或9. cxd5。",
+    "source_ids": [
+      "AA-p025-l010",
+      "AA-p025-l011"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-124",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "9... e5! 10. dxe5 Ng4 11. Bxe7 Qxe7 12. Na4 Re8",
+    "zh": "9... e5! 10. dxe5 Ng4 11. Bxe7 Qxe7 12. Na4 Re8",
+    "source_ids": [
+      "AA-p025-l012"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-125",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The pawn on e5 will not escape Black's clutches.",
+    "zh": "e5兵已经逃不出黑方的掌心。",
+    "source_ids": [
+      "AA-p025-l013"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-126",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "13. Bd3 h6 14. Nd4 Ndxe5 15. Nb6? (D)",
+    "zh": "13. Bd3 h6 14. Nd4 Ndxe5 15. Nb6?（见图）",
+    "figure_id": "AA-p025-fig01",
+    "caption_zh": "白方走完15. Nb6后的局面",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p025-l014"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-127",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "A mistake which allows Black to strike at f2. White should have castled, though even his position would still have been somewhat inferior.",
+    "zh": "这是一个错误，给了黑方在f2发动打击的机会。白方应当易位，不过即便如此，局面仍会稍差。",
+    "source_ids": [
+      "AA-p025-l017",
+      "AA-p025-l018"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-128",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "15... Nxf2! 16. Bh7+",
+    "zh": "15... Nxf2! 16. Bh7+",
+    "source_ids": [
+      "AA-p025-l019"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-129",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The critical continuation here is 16. Kxf2 Ng4+ 17. Ke1 (17. Kg3 would allow 17... Qe5+ 18. Kh4 Qg5+ etc.) 17... Qxe3+ 18. Ne2 Bf5! 19. Bxf5 Qf2+ 20. Kd2 Rxe2+ 21. Kc3 Qxc5+ and Black wins.",
+    "zh": "这里的关键变化是16. Kxf2 Ng4+ 17. Ke1（17. Kg3会遭到17... Qe5+ 18. Kh4 Qg5+等）17... Qxe3+ 18. Ne2 Bf5! 19. Bxf5 Qf2+ 20. Kd2 Rxe2+ 21. Kc3 Qxc5+，黑方获胜。",
+    "source_ids": [
+      "AA-p025-l020",
+      "AA-p025-l021",
+      "AA-p025-l022"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-130",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "16... Kh8 17. O-O",
+    "zh": "16... Kh8 17. O-O",
+    "source_ids": [
+      "AA-p025-l023"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-131",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Now 17. Kxf2 would be even weaker, e.g. 17... Ng4+ 18. Ke1 Qxe3+ 19. Ne2 Qf2+, etc. White therefore attempts to save himself by castling, reckoning that Black will lose not only his knight but also his rook. However, Black has calculated further:",
+    "zh": "此时17. Kxf2更弱，例如17... Ng4+ 18. Ke1 Qxe3+ 19. Ne2 Qf2+等。因此，白方试图通过易位解围。他认为黑方不但会失马，还会失车；然而，黑方算得更远。",
+    "source_ids": [
+      "AA-p025-l024",
+      "AA-p025-l025",
+      "AA-p025-l026",
+      "AA-p025-l027"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-132",
+    "section": "ch01",
+    "page": 25,
+    "page_end": 25,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "17... Nfg4 18. Nxa8 Nxe3 19. Qe2",
+    "zh": "17... Nfg4 18. Nxa8 Nxe3 19. Qe2",
+    "source_ids": [
+      "AA-p025-l028"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-025.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-133",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "If 19. Qb1 then 19... Nxf1 20. Kxf1 (or 20. Rxf1 Qxc5) 20... Ng6 and Black acquires both a material and a positional advantage!",
+    "zh": "如果19. Qb1，则19... Nxf1 20. Kxf1（或20. Rxf1 Qxc5）20... Ng6，黑方同时获得子力优势和局面优势！",
+    "source_ids": [
+      "AA-p026-l003",
+      "AA-p026-l004"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-134",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "19... Nxf1 20. Bb1 Nxh2 21. Nb6 Nef3+! 22. gxf3",
+    "zh": "19... Nxf1 20. Bb1 Nxh2 21. Nb6 Nef3+! 22. gxf3",
+    "source_ids": [
+      "AA-p026-l005"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-135",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "If 22. Kh1 then 22... Ng4! is strongest.",
+    "zh": "如果22. Kh1，最强的应对是22... Ng4!。",
+    "source_ids": [
+      "AA-p026-l006"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-136",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "22... Qg5+ 23. Kxh2 Rxe2+ 24. Nxe2 Qe5+ 25. Ng3 Qxb2+ 26. Rc2 Qxb1 27. Re2 Be6 28. f4 g6 29. Na8 h5 30. Nc7 h4 31. Nh1 Qd3 32. Rf2 Bf5 0-1",
+    "zh": "22... Qg5+ 23. Kxh2 Rxe2+ 24. Nxe2 Qe5+ 25. Ng3 Qxb2+ 26. Rc2 Qxb1 27. Re2 Be6 28. f4 g6 29. Na8 h5 30. Nc7 h4 31. Nh1 Qd3 32. Rf2 Bf5 0-1",
+    "source_ids": [
+      "AA-p026-l007",
+      "AA-p026-l008"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-137",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "To conclude the present chapter, the following game of Rubinstein's will serve to demonstrate a few more features connected with the f7/f2 sacrifice:",
+    "zh": "本章最后，以鲁宾斯坦的一盘棋，再展示几个与f7或f2弃子有关的特点。",
+    "source_ids": [
+      "AA-p026-l009",
+      "AA-p026-l010"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-138",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "metadata",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Euwe – Rubinstein\nThe Hague, 1921\nSicilian Defence, 2... Nf6",
+    "zh": "尤伟（白）对鲁宾斯坦（黑）\n1921年，海牙\n西西里防御，2... Nf6",
+    "source_ids": [
+      "AA-p026-l011",
+      "AA-p026-l012",
+      "AA-p026-l013"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-139",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. d4",
+    "zh": "1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. d4",
+    "source_ids": [
+      "AA-p026-l014"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-140",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Better is 4. Nc3.",
+    "zh": "4. Nc3更好。",
+    "source_ids": [
+      "AA-p026-l015"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-141",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "4... cxd4 5. Qxd4 e6 6. c4?",
+    "zh": "4... cxd4 5. Qxd4 e6 6. c4?",
+    "source_ids": [
+      "AA-p026-l016"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-142",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "A weak move; 6. Bc4 is correct.",
+    "zh": "这是一步软着，正确的走法是6. Bc4。",
+    "source_ids": [
+      "AA-p026-l017"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-143",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "6... Nc6 7. Qd1 Nde7! 8. Bd2 Ng6 9. Qe2",
+    "zh": "6... Nc6 7. Qd1 Nde7! 8. Bd2 Ng6 9. Qe2",
+    "source_ids": [
+      "AA-p026-l018"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-144",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "After 9. Bc3 Qc7 White must also move his queen to e2, thereby blocking his bishop.",
+    "zh": "9. Bc3 Qc7之后，白后也必须走到e2，从而挡住己方的象。",
+    "source_ids": [
+      "AA-p026-l019",
+      "AA-p026-l020"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-145",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "9... Qc7 10. Bc3 b6 (D)",
+    "zh": "9... Qc7 10. Bc3 b6（见图）",
+    "figure_id": "AA-p026-fig01",
+    "caption_zh": "黑方走完10... b6后的局面",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p026-l021"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-146",
+    "section": "ch01",
+    "page": 26,
+    "page_end": 26,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "By developing his own pieces calmly, Black is making the best possible use of the difficulties experienced by White, who now cannot even fianchetto, e.g. 11. g3? Bb7 12. Bg2 Ncxe5, etc.",
+    "zh": "黑方从容出子，充分利用了白方的困境。白方现在连侧翼出象也做不到，例如11. g3? Bb7 12. Bg2 Ncxe5等。",
+    "source_ids": [
+      "AA-p026-l022",
+      "AA-p026-l023",
+      "AA-p026-l024"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-026.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-147",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "11. h4 d6! 12. exd6 Bxd6",
+    "zh": "11. h4 d6! 12. exd6 Bxd6",
+    "source_ids": [
+      "AA-p027-l003"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-148",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Black is now both better developed and more powerful in the centre. White's troubles would only be further increased after 13. Bxg7 Rg8 14. Bc3 Nf4.",
+    "zh": "黑方现在不仅出子更好，中心也更强。13. Bxg7 Rg8 14. Bc3 Nf4，只会使白方的处境更加困难。",
+    "source_ids": [
+      "AA-p027-l004",
+      "AA-p027-l005"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-149",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "13. Nbd2 Nf4 14. Qe3 Bc5 15. Qe4 f5 16. Qc2",
+    "zh": "13. Nbd2 Nf4 14. Qe3 Bc5 15. Qe4 f5 16. Qc2",
+    "source_ids": [
+      "AA-p027-l006"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-150",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The queen's sixth move — not a good augury, as H. Kmoch remarks in his commentary.",
+    "zh": "白后已经动了六次。正如H.克莫赫在评注中所说，这可不是个好兆头。",
+    "source_ids": [
+      "AA-p027-l007"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-151",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "16... O-O 17. g3 Ng6 18. h5",
+    "zh": "16... O-O 17. g3 Ng6 18. h5",
+    "source_ids": [
+      "AA-p027-l009"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-152",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "Because of White's weakness in the centre, the pursuit of this knight ends in its centralization.",
+    "zh": "由于白方中心薄弱，这番追赶黑马的行动，最终反而把黑马赶到了中心。",
+    "source_ids": [
+      "AA-p027-l010",
+      "AA-p027-l011"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-153",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "18... Nge5 19. Nxe5 Nxe5 20. b4 (D)",
+    "zh": "18... Nge5 19. Nxe5 Nxe5 20. b4（见图）",
+    "figure_id": "AA-p027-fig01",
+    "caption_zh": "白方走完20. b4后的局面",
+    "caption_status": "context_verified",
+    "source_ids": [
+      "AA-p027-l012"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-154",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "White cannot castle queenside because of the bishop's attack on f2, so he tries to employ power tactics. However, the use of force from a weaker position usually prompts a still more forceful reply from one's opponent. Rubinstein, naturally, does not withdraw his bishop, but captures on f2. In exchange for a piece he gets two pawns and an attack, which is more than sufficient in this position, seeing that he is the better developed and that the extra pawns are in the centre.",
+    "zh": "由于黑象攻击f2，白方无法长易位，只好尝试用强硬的战术手段解决问题。然而，在较弱的局面中强行出手，往往会招来对方更有力的回应。鲁宾斯坦自然不会退象，而是在f2吃兵。以一子为代价，他得到两兵和进攻；在这个局面中，这样的补偿已经绰绰有余，因为黑方出子更好，而且多出的兵都在中心。",
+    "source_ids": [
+      "AA-p027-l014",
+      "AA-p027-l015",
+      "AA-p027-l016",
+      "AA-p027-l017",
+      "AA-p027-l018",
+      "AA-p027-l019"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-155",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "20... Bxf2+! 21. Kxf2 Ng4+ 22. Ke2",
+    "zh": "20... Bxf2+! 21. Kxf2 Ng4+ 22. Ke2",
+    "source_ids": [
+      "AA-p027-l020"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-156",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "The king cannot go to e1 or g1 because of 22... Qxg3+, while 22. Kg2 allows 22... Ne3+.",
+    "zh": "白王不能走到e1或g1，因为有22... Qxg3+；而22. Kg2则会遭到22... Ne3+。",
+    "source_ids": [
+      "AA-p027-l021",
+      "AA-p027-l022"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-157",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "22... Qxg3 23. Bd4 Bb7 24. Rh3 Qd6 25. Qc3 e5",
+    "zh": "22... Qxg3 23. Bd4 Bb7 24. Rh3 Qd6 25. Qc3 e5",
+    "source_ids": [
+      "AA-p027-l023"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-158",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "White has averted the direct mating attack, but now Black's centralized pawns come into their own. In such positions they are as valuable as pieces.",
+    "zh": "白方虽然化解了直接的杀王进攻，但黑方的中心兵现在开始充分发挥威力。在这样的局面中，这些兵的价值不亚于棋子。",
+    "source_ids": [
+      "AA-p027-l024",
+      "AA-p027-l025"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-159",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "moves",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "26. Bg1 f4 27. c5 Qh6 28. Ke1 e4 29. Rh4 Qg5 30. Qh3 Ne3! 31. Bxe3 fxe3 32. Bc4+ Kh8 33. Nf1 Qf6 0-1",
+    "zh": "26. Bg1 f4 27. c5 Qh6 28. Ke1 e4 29. Rh4 Qg5 30. Qh3 Ne3! 31. Bxe3 fxe3 32. Bc4+ Kh8 33. Nf1 Qf6 0-1",
+    "source_ids": [
+      "AA-p027-l026",
+      "AA-p027-l027"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  },
+  {
+    "segment_id": "CH1-160",
+    "section": "ch01",
+    "page": 27,
+    "page_end": 27,
+    "kind": "paragraph",
+    "status": "draft_v1_for_user_review",
+    "scan_checked": true,
+    "text": "In the tumult of battle it is the point at which the white king's original wound was inflicted, i.e. f2, that is finally decisive.",
+    "zh": "在这场纷乱的战斗中，最终决定胜负的，仍是白王最初受到打击的地方——f2。",
+    "source_ids": [
+      "AA-p027-l028",
+      "AA-p027-l029"
+    ],
+    "source_scan_paths": [
+      "source_pages/page-027.png"
+    ],
+    "source_mapping_precision": "OCR_token_alignment_scan_verified"
+  }
+]

@@ -1,0 +1,300 @@
+{
+  "pdf_page": 42,
+  "printed_page": 42,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        241.4,
+        124.7,
+        295.3,
+        170.9
+      ],
+      "text": "42",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        671.4,
+        126.0,
+        1174.9,
+        175.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        287.9,
+        274.4,
+        1567.0,
+        323.1
+      ],
+      "text": "1) White carries out a counterattack with his queen: 26 Wxb7 Wg2+ 27 c5",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        243.8,
+        321.8,
+        1563.3,
+        374.2
+      ],
+      "text": "e7+ 28 b6 c6+ 29 a7 Wf2+ 30 a8 0-0+ 31 b8 b6 and Black wins.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        286.7,
+        378.0,
+        1569.4,
+        425.4
+      ],
+      "text": "2) The white king tries to force its way through to the a1-corner; this gives",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        237.7,
+        421.6,
+        1571.9,
+        480.3
+      ],
+      "text": "rise to the most interesting point in the analysis. After 26 c4 Black does not try",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        242.6,
+        477.8,
+        1570.6,
+        527.7
+      ],
+      "text": "any checking moves, but instead first consolidates his own position by 26...g6!!,",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        240.1,
+        527.7,
+        1570.6,
+        576.3
+      ],
+      "text": "having observed that White has no good move to make. If 27 c2 or 27 Wc2, then",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        242.6,
+        576.3,
+        1569.4,
+        623.7
+      ],
+      "text": "27...b5+ 28 b3 ②d4+, while if 27 cd1, then 27...d4+; if 27 ed1 or 27 f1,",
+      "confidence": 0.9685
+    },
+    {
+      "bbox": [
+        241.4,
+        628.7,
+        1569.4,
+        674.9
+      ],
+      "text": "the ring is tightened by 27...We3, and if 27 Wb6, then 27...a5+ 28 +d5 (or 28",
+      "confidence": 0.9589
+    },
+    {
+      "bbox": [
+        242.6,
+        674.9,
+        1570.6,
+        727.3
+      ],
+      "text": "b4 Wxh2!) 28...wg2+ 29 e6 Wxa2+ 30 f6 (or 30 c4 xc4, etc.) 30...c6",
+      "confidence": 0.9599
+    },
+    {
+      "bbox": [
+        241.4,
+        726.0,
+        1569.4,
+        775.9
+      ],
+      "text": "31 a7 f8+ 32 g7 c7+! 33 xc7 g8+ 34 f6 Wf7+ 35 g5 We7+ and",
+      "confidence": 0.9627
+    },
+    {
+      "bbox": [
+        235.2,
+        761.0,
+        377.3,
+        828.3
+      ],
+      "text": "mates'.",
+      "confidence": 0.9337
+    },
+    {
+      "bbox": [
+        283.0,
+        825.8,
+        1571.9,
+        880.7
+      ],
+      "text": "The possibility of 27 @b3 still remains. There is admittedly no mating net",
+      "confidence": 0.9787
+    },
+    {
+      "bbox": [
+        240.1,
+        877.0,
+        1569.4,
+        930.6
+      ],
+      "text": "then, but with 27...Wxh2 Black obtains a material advantage and goes on to",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        238.9,
+        929.4,
+        1233.7,
+        976.8
+      ],
+      "text": "threaten both 28...Wxf4 and 28...a5+ followed by ...c4.",
+      "confidence": 0.9696
+    },
+    {
+      "bbox": [
+        284.2,
+        980.5,
+        1569.4,
+        1030.4
+      ],
+      "text": "3) The white king tries to defy the danger of mate by advancing to b6. Black",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        240.1,
+        1030.4,
+        1567.0,
+        1079.1
+      ],
+      "text": "then has a number of continuations, the simplest of which seems to be 26 c5",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        242.6,
+        1077.8,
+        1568.2,
+        1126.5
+      ],
+      "text": "Wxh2 27 b6 Wxf4 28 xb7 (if 28 曾b3, then 28...Wf2+ 29 c5 Wxc5+ 30",
+      "confidence": 0.9341
+    },
+    {
+      "bbox": [
+        238.9,
+        1125.2,
+        1568.2,
+        1181.4
+      ],
+      "text": "xc5 a5+ with a won ending) 28...Wc4 29 xc8 b4+ 30 *b7 Wb5+ 31 a7",
+      "confidence": 0.9501
+    },
+    {
+      "bbox": [
+        240.1,
+        1176.4,
+        931.1,
+        1230.0
+      ],
+      "text": "Zc6+ followed by 32...d7+ and mates.",
+      "confidence": 0.96
+    },
+    {
+      "bbox": [
+        285.5,
+        1232.5,
+        1012.0,
+        1278.7
+      ],
+      "text": "The actual game took the following course:",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        284.2,
+        1274.9,
+        1482.4,
+        1333.6
+      ],
+      "text": "25...g2+? 26 c4 b5+ 27 d3 Wf3+ 28 c2 Wf2+ 29 b3 c8 (D)",
+      "confidence": 0.9704
+    },
+    {
+      "bbox": [
+        572.1,
+        1488.2,
+        611.3,
+        1525.7
+      ],
+      "text": "W",
+      "confidence": 0.9353
+    },
+    {
+      "bbox": [
+        238.9,
+        2055.8,
+        261.0,
+        2079.5
+      ],
+      "text": "1",
+      "confidence": 0.5867
+    },
+    {
+      "bbox": [
+        317.3,
+        2049.6,
+        1558.4,
+        2100.8
+      ],
+      "text": "In this line Vukovic fails to take his own advice and gives too many checks,",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        319.8,
+        2098.3,
+        1562.1,
+        2149.4
+      ],
+      "text": "which actually allow White to escape by 34 h6! Wxh2+ 35 g5 Wg3+ 36",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        319.8,
+        2143.2,
+        1562.1,
+        2199.3
+      ],
+      "text": "f6, etc. The correct continuation is 32...We6! and there is no way to meet the",
+      "confidence": 0.9823
+    },
+    {
+      "bbox": [
+        318.5,
+        2193.1,
+        840.4,
+        2241.7
+      ],
+      "text": "threat of 33..g8+ 34 h6 g5+.",
+      "confidence": 0.9938
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "pdf_page": 339,
+  "printed_page": 339,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The attack on the king as an integral part of the game",
+      "bbox": [
+        374.0,
+        135.0,
+        1396.0,
+        177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "339",
+      "bbox": [
+        1472.0,
+        134.0,
+        1533.0,
+        165.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The first move which really commits the attacker; the situation is also ready",
+      "bbox": [
+        261.0,
+        332.0,
+        1535.0,
+        373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for it. It is directed against the future weakness on g6.",
+      "bbox": [
+        217.0,
+        384.0,
+        1108.0,
+        425.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "27...Äaa8 28 Abl 115",
+      "bbox": [
+        263.0,
+        433.0,
+        620.0,
+        468.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "He does not like the idea of 29 Vc2 g6 30 h5.",
+      "bbox": [
+        263.0,
+        481.0,
+        1020.0,
+        524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "29 Vf3 g6 30 g4 hxg4 31 Vxg4 Ag7 32 Aa2!",
+      "bbox": [
+        263.0,
+        531.0,
+        1038.0,
+        576.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Before proceeding any further, White prevents ...f5, which Black cannot pre-",
+      "bbox": [
+        264.0,
+        584.0,
+        1537.0,
+        627.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pare by 32...Ve7 on account of 33 mxg6 and 34 Äxe6.",
+      "bbox": [
+        218.0,
+        631.0,
+        1127.0,
+        678.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "32...\"33 Ac4!",
+      "bbox": [
+        264.0,
+        684.0,
+        528.0,
+        720.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White prefers to avoid 33 axb4 a3 which would allow Black to obtain counter-",
+      "bbox": [
+        264.0,
+        735.0,
+        1537.0,
+        778.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "33...bxa3 34 bxa3 Va5 35 ve4 Vc7 36 Vf4 Xab8 37 h5",
+      "bbox": [
+        265.0,
+        832.0,
+        1223.0,
+        871.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This must come sooner or later.",
+      "bbox": [
+        264.0,
+        890.0,
+        786.0,
+        921.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "37...gxh5 38 •hl Xb7 39 Ve7 40 Zxg7+!",
+      "bbox": [
+        265.0,
+        934.0,
+        1054.0,
+        979.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White cannot count on success without this sacrifice to eliminate the fian-",
+      "bbox": [
+        264.0,
+        987.0,
+        1538.0,
+        1021.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "chettoed bishop, Black's main line of defence.",
+      "bbox": [
+        220.0,
+        1039.0,
+        985.0,
+        1079.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "40...#xg7 41 xgl+ 42 axf7'.? (D)",
+      "bbox": [
+        265.0,
+        1085.0,
+        940.0,
+        1129.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1-0",
+      "bbox": [
+        270.0,
+        1850.0,
+        321.0,
+        1880.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Having played so excellently and — as regards the method of preparing the at-",
+      "bbox": [
+        268.0,
+        1899.0,
+        1542.0,
+        1939.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack on the king — so instructively, Alekhine concludes the game with a sacrifice",
+      "bbox": [
+        223.0,
+        1950.0,
+        1543.0,
+        1990.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "that is not fully correct! I say 'concludes', because Asztalos took fright and re-",
+      "bbox": [
+        223.0,
+        2001.0,
+        1542.0,
+        2040.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "signed when he could well have played on. The continuation which Alekhine had",
+      "bbox": [
+        223.0,
+        2051.0,
+        1543.0,
+        2091.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in mind and which he expounded in the tournament book contained a loophole",
+      "bbox": [
+        223.0,
+        2102.0,
+        1543.0,
+        2140.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "giving a draw, and even against White's best play Black would have had drawing",
+      "bbox": [
+        223.0,
+        2151.0,
+        1543.0,
+        2191.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "chances. Let us first look at Alekhine's line.",
+      "bbox": [
+        223.0,
+        2202.0,
+        951.0,
+        2233.0
+      ],
+      "confidence": null
+    }
+  ]
+}

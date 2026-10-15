@@ -1,0 +1,270 @@
+{
+  "pdf_page": 13,
+  "printed_page": 13,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        801.2,
+        129.7,
+        1021.8,
+        170.9
+      ],
+      "text": "Introduction",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        1516.7,
+        124.7,
+        1567.0,
+        165.9
+      ],
+      "text": "13",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        243.8,
+        272.0,
+        1570.6,
+        325.6
+      ],
+      "text": "together with any further attacking pieces which may be necessary, one must",
+      "confidence": 0.9756
+    },
+    {
+      "bbox": [
+        242.6,
+        321.8,
+        1565.7,
+        374.2
+      ],
+      "text": "also have a temporal advantage, that is, the ability to carry out a series of attack-",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        242.6,
+        373.0,
+        1567.0,
+        424.1
+      ],
+      "text": "ing moves without one's opponent being able to organize either a direct defence",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        243.8,
+        422.9,
+        1567.0,
+        472.8
+      ],
+      "text": "or a sufficiently strong counterattack. A temporal advantage of this kind is usu-",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        245.0,
+        470.3,
+        1570.6,
+        525.2
+      ],
+      "text": "ally based on the attacker's positional advantage, i.e. by the comparative lack of",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        243.8,
+        522.7,
+        1569.4,
+        575.1
+      ],
+      "text": "mobility of his opponent's pieces for defensive purposes. The attacker often does",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        243.8,
+        572.6,
+        1568.2,
+        625.0
+      ],
+      "text": "not possess such outstanding overall superiority at the commencement of his at-",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        243.8,
+        622.5,
+        1569.4,
+        674.9
+      ],
+      "text": "tack, but it may manifest itself later as a consequence of the immobility of some",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        242.6,
+        671.1,
+        1571.9,
+        728.5
+      ],
+      "text": "of the defending pieces or through a particular attacking combination. The skill",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        243.8,
+        721.0,
+        1573.1,
+        778.4
+      ],
+      "text": "of perceiving the right moment to launch one's attack in fact consists of making a",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        243.8,
+        777.2,
+        1053.6,
+        824.6
+      ],
+      "text": "correct assessment of possibilities such as these.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        290.4,
+        823.3,
+        1569.4,
+        877.0
+      ],
+      "text": "All these points go to show that the correct launching of an attack is the cru-",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        243.8,
+        873.2,
+        1571.9,
+        925.6
+      ],
+      "text": "cial difficulty which has caused so many masters to turn away from the attacking",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        246.3,
+        925.6,
+        1570.6,
+        976.8
+      ],
+      "text": "style. They would rather try to obtain something through positional technique,",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        246.3,
+        974.3,
+        1568.2,
+        1024.2
+      ],
+      "text": "where the downside is nothing worse than a draw; all too often this is exactly",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        245.0,
+        1024.2,
+        1570.6,
+        1076.6
+      ],
+      "text": "what they do achieve. Still, if advancement in the art of attack is neglected, if op-",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        245.0,
+        1076.6,
+        1570.6,
+        1129.0
+      ],
+      "text": "portunities for a perfectly feasible attack are passed by, how are games going to",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        245.0,
+        1126.5,
+        1573.1,
+        1178.9
+      ],
+      "text": "be won when technique comes up against technique? Without exploring the art",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        247.5,
+        1177.6,
+        1573.1,
+        1226.3
+      ],
+      "text": "of attack more deeply, there can be no further advance in chess. Attack is an es-",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        245.0,
+        1227.5,
+        1573.1,
+        1279.9
+      ],
+      "text": "sential component of the game of chess; it is a spark which smoulders in every",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        247.5,
+        1278.7,
+        1571.9,
+        1328.6
+      ],
+      "text": "corner and only the player who knows how to keep it alive and make it burst into",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        248.7,
+        1331.1,
+        1571.9,
+        1376.0
+      ],
+      "text": "flame at the right moment has reached the heights of true mastery. Lasker once",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        248.7,
+        1379.7,
+        1575.5,
+        1430.9
+      ],
+      "text": "acutely observed that if there is ever any possibility of an attack one must carry it",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        249.9,
+        1434.6,
+        1113.7,
+        1478.3
+      ],
+      "text": "Out, since otherwise one's advantage will evaporate.",
+      "confidence": 0.9893
+    }
+  ]
+}

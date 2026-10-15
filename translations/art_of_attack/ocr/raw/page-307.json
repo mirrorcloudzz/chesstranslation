@@ -1,0 +1,280 @@
+{
+  "pdf_page": 307,
+  "printed_page": 307,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        489.0,
+        126.0,
+        1309.0,
+        172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "307",
+      "bbox": [
+        1485.0,
+        124.0,
+        1546.0,
+        155.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from the game Yates-Takacs, Kecskemet 1927. The precondi-",
+      "bbox": [
+        282.0,
+        875.0,
+        1555.0,
+        923.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tions for an attack on Black's king position have been only partially fulfilled;",
+      "bbox": [
+        239.0,
+        925.0,
+        1555.0,
+        969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White is hindered particularly by the possibility of a counterattack by Black in",
+      "bbox": [
+        238.0,
+        976.0,
+        1557.0,
+        1022.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the centre or down the c-file. White's prospects would be better if he could suc-",
+      "bbox": [
+        239.0,
+        1027.0,
+        1556.0,
+        1070.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ceed in driving away the f6-knight by e5 and then play Qe4. To manage this he",
+      "bbox": [
+        239.0,
+        1074.0,
+        1558.0,
+        1123.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "must first repulse the black knight from c4, which means sacrificing a pawn.",
+      "bbox": [
+        240.0,
+        1129.0,
+        1556.0,
+        1174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "That was just the sort of thing Yates was in the mood for.",
+      "bbox": [
+        240.0,
+        1181.0,
+        1204.0,
+        1225.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 b3! axa3",
+      "bbox": [
+        288.0,
+        1232.0,
+        482.0,
+        1267.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black falls in with White's plan and imperils his knight on a3. In taking on this",
+      "bbox": [
+        287.0,
+        1280.0,
+        1559.0,
+        1324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "commitment he enables White to acquire additional preconditions for an attack",
+      "bbox": [
+        241.0,
+        1330.0,
+        1561.0,
+        1374.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on the king. If Black had played l...hb6, which would have been better, White",
+      "bbox": [
+        242.0,
+        1380.0,
+        1560.0,
+        1427.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "would have had to build up more slowly with 2 Ab2.",
+      "bbox": [
+        243.0,
+        1431.0,
+        1120.0,
+        1476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Relatively the best solution for Black would have been to sacrifice a piece for",
+      "bbox": [
+        288.0,
+        1533.0,
+        1563.0,
+        1578.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "three pawns by 2...Qxc2! 3 exf6 Axf6 4 mxc2 Vxc3, although even then the ad-",
+      "bbox": [
+        244.0,
+        1580.0,
+        1561.0,
+        1629.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vantage lies with White after 5 Ad3.",
+      "bbox": [
+        245.0,
+        1634.0,
+        850.0,
+        1680.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...dxe5 3 fxe5 Vxc3 leads to interesting possibilities, for example 4 Xd3!",
+      "bbox": [
+        290.0,
+        1681.0,
+        1560.0,
+        1726.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "me4 (or 4...Vc7 5 exf6 Vxg3 6 Äxg3, when Black's knight at a3 and his bishop",
+      "bbox": [
+        245.0,
+        1735.0,
+        1563.0,
+        1780.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "at e7 are both hanging) 5 Vf4 Vb4 (alternatively, 5...Vc5 6 b4 Vd5 7 Axa3, and",
+      "bbox": [
+        246.0,
+        1782.0,
+        1564.0,
+        1831.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's threats are just too strong) 6 Vxe4 Qxc2 7 Äh3 g6 8 Vf4, and White",
+      "bbox": [
+        244.0,
+        1832.0,
+        1564.0,
+        1881.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "wins.",
+      "bbox": [
+        246.0,
+        1896.0,
+        331.0,
+        1925.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now the preconditions for an attack on the king are suddenly fulfilled. One",
+      "bbox": [
+        291.0,
+        1989.0,
+        1565.0,
+        2034.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "black knight has been driven back to e8 and the other deflected to a3; while",
+      "bbox": [
+        247.0,
+        2039.0,
+        1566.0,
+        2084.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's pawn on e5, supported by two good knights, provides a wedge in the",
+      "bbox": [
+        246.0,
+        2090.0,
+        1566.0,
+        2135.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "centre. All this has cost only one pawn.",
+      "bbox": [
+        247.0,
+        2146.0,
+        899.0,
+        2183.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...d5 4 hf6+'.?",
+      "bbox": [
+        293.0,
+        2192.0,
+        557.0,
+        2228.0
+      ],
+      "confidence": null
+    }
+  ]
+}

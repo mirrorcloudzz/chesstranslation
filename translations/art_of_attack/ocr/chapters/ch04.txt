@@ -1,0 +1,233 @@
+Mating patterns
+
+
+[PDF page 66]
+4 Mating patterns
+Spatial relationships in a mating attack can be observed by examining mating
+patterns, focal-points, and the roles played by the ranks, files, and diagonals. In
+this chapter we shall be concerned with mating patterns. This choice has a practi-
+cal justification in that mating patterns can be more easily remembered than the
+ways leading up to mate. For this reason mating patterns, even though they occur
+only at the very end of a mating attack, are fundamental for practical purposes
+because of the excellent mnemonic assistance which they provide to the player.
+Our first concern is for the most common mating patterns; these hardly ever
+occur in the middle of the board, but they are very frequent in the castling area,
+i.e. near the king's position on the edge of the board.
+Typical mates without enemy pieces
+There are a very large number of typical mates of this kind and most of them are
+elementary, so we shall consider only a few examples. (For the sake of greater
+clarity the diagrams are shown without the white king.)
+In the first position White, to move, has a choice between two typical mates:
+[AA-p066-fig01]
+1) 1 g6+ gg8 2 Wh7+ f8 3 Wf7#.
+2) 1 f5+ g8 2 e6#.
+[AA-p066-fig02]
+
+[PDF page 67]
+In this position there are again two possible mates, depending on how Black
+replies.
+If 1 f6+ h8, then 2 h7# (the so-called Arab mate, because it is recorded
+in Arabic manuscripts of the ninth century). If 1 f6+ f8, then there follows 2
+μf7#, a mating pattern which is worth remembering.
+[AA-p067-fig01]
+Another mate which should be known is this one with two knights, but if there
+are no other pieces on the board then it cannot be forced.
+Typical mates with enemy pieces
+[AA-p067-fig02]
+The so-called back-row mate by the rook (or queen) is one of the most typical
+mating patterns.
+[AA-p067-fig03]
+Of the fairly large number of typical mates with queen and pawn this one is
+given first. Black is to move; he cannot escape mate, since he is threatened by 1
+Wh6 and 2 Wg7#. If he plays 1...h7, then 2 Wh4+ and 3 Wh6, etc. If Black had
+a pawn on h7 he would have the defence 1...h8 2 Wh6 g8.
+
+[PDF page 68]
+[AA-p068-fig01]
+Damiano'sMate
+This is a position from the book (1512) by Damiano, a Portuguese apothecary,
+one of the first authors in the literature of European chess. White mates in five
+moves.
+1 h8+ xh8 2 h1+ g8 3 h8+ xh8 4 Wh1+ g8 5 Wh7#.
+The rook sacrifices were naturally introduced to make the essential point
+clear: the queen must reach the h-file with gain of tempo.
+The pattern of Damiano's mate can be seen more clearly in the following ex-
+amples.
+[AA-p068-fig02]
+1 Wh5 Qe7 2 Wh7+ f8 3 Wh8#.
+In this case a bishop has been placed on f8 and also a pawn on d6, with the re-
+sult that the bishop can only move to e7, where it blocks the king's escape. The
+general theme of Damiano's mate, the pattern of which is characterized by a
+black pawn on g7 and a white pawn or bishop on g6, can be subjected to numer-
+ous variations.
+The following diagram serves as a memory aid for mates with queen and rook:
+Black, to move, cannot avoid mate; if he plays 1...g7, then 2 Wh6+ and 3 Wh7#
+
+[PDF page 69]
+[AA-p069-fig01]
+or 3 Wh8#, while if 1...f6, then 2 Wh7#. If Black has another pawn on g7 he can
+save himself from immediate mate by 1...f6, while if he has one on g6 he can ex-
+tricate himseif by 1...g7.
+[AA-p069-fig02]
+Of the mates with queen and bishop this position is worth remembering.
+Black cannot save himself from mate, but if he plays 1...g6, White does not re-
+ply 2 &xg6+ (which is answered by 2...g7, and Black's king slips away) but 2
+Wh6, in which case there is no remedy against mate.
+[AA-p069-fig03]
+SmotheredMate
+The smothered mate with queen and knight is a celebrated one: 1 f7+ g8 2
+h6+ h8 (or 2...f8 3 Wf7#) 3 Wg8+! xg8 (or 3...xg8) 4 f7#.
+
+[PDF page 70]
+[AA-p070-fig01]
+This position falls into category of typical mates, and it is useful to know the
+mating patterns which arise if Black tries to parry the threat of Wh7#, e.g. with
+1...αb8. If there is a black pawn on e7 or if the square is otherwise occupied by
+Black, then there follows 2 Wh7+ f8 3 Wh8#; if this is not so, mate can be
+achieved, for example, by 2 Wxf7+ h8 3 e6 g8 4 Wh5#.
+[AA-p070-fig02]
+Of the various attacking positions with queen and knight this scheme is also
+well worth remembering. On 1 f6+, Black replies 1...h8 and if 2 h5+, then
+2...f6.
+If 1..g7, White has a double check with 2 e8+ (in some cases, depending
+on the arrangement of the other pieces, 2 h5+ may be stronger) and after
+2...$h6 3 Wf4+ g5 4 Wf6+ $h5 5 g7+ White only needs a pawn on g2 or h2 t0
+force mate.
+[AA-p070-fig03]
+Greco'sMate
+This position is aiso worth knowing; Black is forced to play 1..h6, after which
+he is mated by 2 Qxf7+ h8 3 Wg6! hxg5 4 Wh5#.
+
+[PDF page 71]
+[AA-p071-fig01]
+In the case of mating patterns with rook and bishop one should first of all get
+to know the above position. It is Black's move and he must try to parry g5#; this
+cannot be achieved by 1...h6, because of 2 xh6, which leaves him with no way
+out. So 1..#c8 2 #g5+ f8 3 #g7!, and now too mate is unavoidable, for Black
+is unable to free the square d7 in time to provide the king with an escape square.
+If he did not have, for instance, the pawn on c6, he could play 3...&c6 4 xh7
+$e8 and then 5 h8+ could be met by 5...$d7. One could replace Black's bishop
+and c6-pawn by a white pawn on c6 and a black one on c7; mate would still be
+unavoidable'.
+[AA-p071-fig02]
+Morphy's Mate
+The pattern of this mate with rook and bishop becomes clear in its final
+stage.
+1 Wxf6 gxf6 2 g1+ h8 3 xf6#.
+In the diagram position, Black can avoid mate by 1...a8 2 g5+ *f8 3 g7
+a4 4 xh7 g4. It is true to say that this defence is not often available in prac-
+tical situations, but it is worth bearing in mind the idea of 'defending from be-
+hind' because it is often overlooked.
+
+[PDF page 72]
+[AA-p072-fig01]
+Morphy's ConcealedMate
+A similar mating pattern occurs in this diagram: 1 xg7+ h8 2 xf7+ (not 2
+g1+ because of 2...f6) 2...g8 3 #g7+ +h8 4 g1+ f6 5 xf6#.
+[AA-p072-fig02]
+1 #d8+ f7 (or 1...$h7 2 h8#) 2 f8# is a typical mating pattern well worth
+remembering.
+[AA-p072-fig03]
+Anastasia'sMate
+1 e7+ h8 2 xh7+ xh7 3 h5#.
+(The name comes from W. Heinse's novel Anastasia and chess (1803), in
+which this mate is recorded.)
+
+[PDF page 73]
+[AA-p073-fig01]
+Here the continuation ends with a typical mating pattern with a rook and
+pawn.
+1 Wg5 +h8 2 Wh6 μg8 3 Wxh7+ xh7 4 h1#.
+[AA-p073-fig02]
+'Blind swine'
+If it is White's move, he mates with 1 #g7+, 2 h7+, and 3 bg7#. If Black is
+to move and plays 1...fd8, White can neither force mate or even win. That is to
+say, after 2 g7+ h8 3 h7+ g8 4 bg7+ f8 5 b7, Black simply plays
+5...g8, ‘questioning' the white rook and countering the threat of mate. (It de-
+pends of course on the distribution of the other pieces whether White can in fact
+win. In this position he can easily mate if he has a pawn on h4, for he plays 6 h5
+followed by 7 h6, 8 bg7+, and 9 h8# -- a mate which is worth remembering. In
+this line Black's pawn on f6 is actually a help to White. If it were not there, Black
+could get a draw after 6 h5 by playing 6...a6!.)
+
+[PDF page 74]
+The pair of rooks which 'grunt out check' on the seventh rank but cannot get a
+sight of mate were once nicknamed 'blind swine'by Janowski.
+An acquaintance with typical mating patterns is extremely useful when mak-
+ing a quick survey of the board in an actual game. The addition of further mate-
+rial to the position can be especially useful, for then one can see which changes
+help to prevent mate and which enrich the mating patterns in new situations.
+Less usuai mating patterns
+Of the large number of less usual, and even exotic, mating patterns, I have chosen
+ones which bear some nickname or which can easily be given one.
+[AA-p074-fig01]
+Epaulette Mate
+The epaulettes are, of course, the two black rooks on the king's shoulders. The
+next mate also gets its name from its outward appearance.
+[AA-p074-fig02]
+'Swallow's tail'
+
+[PDF page 75]
+[AA-p075-fig01]
+Pawn Mate
+1 g6 g8 2 g7#. On 1 g6 g8 2 Wxh7+ *f8 we get yet another mating pattern
+with 3 g7+ f7 4 g8w# (mate with two queens).
+[AA-p075-fig02]
+1 ②xf7+ *g8 2 h6#. Or 1 g6+ g8 2 ②e7#
+[AA-p075-fig03]
+MatewithTwoBishops
+1 皇e6 d4 2 h2 and 3 e5#.
+This could also be called Rubinstein's mate, after the famous game Rotlewi-
+Rubinstein, in which mate with two bishops was the basic motif of the attack.
+
+[PDF page 76]
+[AA-p076-fig01]
+Boden's Mate
+This position is from the game Schulder-Boden, London 1853', in which the
+following mate with two bishops was recorded for the first time; it is not uncom-
+mon after castling queenside. Black plays: 1..Wxc3+! 2 bxc3 a3#.
+[AA-p076-fig02]
+Pillsbury'sMate
+1 xg7+ +h8 2 g8+! xg8 3 g1+ and mate.
+This is really a variation on Morphy's mate, contrived in such a way that it is
+the rook which mates and not the bishop, which is under attack from Black's
+rook.
+In the original book this example was incorrectly given as Macdonell-Boden,
+1
+1869 and Black's rook on e8 was missing.
+
+[PDF page 77]
+[AA-p077-fig01]
+Legall's Mate
+Legall was Philidor's teacher and this position arose in the game Legall-St
+Brie, Paris 1750. The moves leading up to the diagram were 1 e4 e5 2 &f3 d6 3
+c4 g4 4 c3 g6? and Legall now played: 5 xe5! Qxd1? (5...e6 would
+have been better) 6 &xf7+ e7 7 d5#. (This is of course a case of an attack be-
+fore castling, but the example is given here for purely practical reasons.)
+The next mate is similar to Greco's, but differs in that the attacker (here Black)
+opens the h-file not only for his opponent but also for himself. It arose in the
+game Anderssen-Max Lange, Breslau 1859 after 1 e4 e5 2 f3 c6 3 b5 d4
+4 xd4 exd4 5 夏c4 f6 6e5 d5 7 b3 g4 8f3 e4 9 0-0 d3 10 fxg4?′ (D)
+[AA-p077-fig02]
+Max Lange's Mate
+10 Wel! would have favoured White.
+
+[PDF page 78]
+Play proceeded as follows: 10...c5+ 11 $h1 g3+ 12 hxg3 Wg5 13 f5 h5!
+and now if 14 xg5, then 14...hxg4+ and mate; in the game White played 14
+gxh5 but resigned after 14...Wxf5 15 g4 Wf2 0-1.
+The next position arose in the game Reti-Tartakower, Vienna 1910 after the
+moves 1 e4 c6 2 d4 d5 3 c3 dxe4 4 xe4 f6 5 Wd3 e5 6 dxe5 Wa5+ 7 Qd2
+Wxe5 8 0-0-0 xe4 (D)
+[AA-p078-fig01]
+Reti's Mate
+The game concluded: 9 Wd8+! xd8 10 g5+ c7 (or 10...e8 11 d8#) 11
+复d8#.
+[AA-p078-fig02]
+Blackburne's Mate
+
+[PDF page 79]
+For this mate the attacker needs three minor pieces (two bishops and a knight)
+and usually a queen as well, which is sacrificed.
+1 Wh1 h5 2 Wxh5! gxh5 3 &h7#. This mating pattern is named after Black-
+burne, who was the first to mate in this way.

@@ -1,0 +1,300 @@
+{
+  "pdf_page": 172,
+  "printed_page": 172,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "172",
+      "bbox": [
+        257.0,
+        127.0,
+        316.0,
+        158.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        680.0,
+        129.0,
+        1174.0,
+        170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "attacks in a different way (e.g. by means of Abl and Vd3 he forces a weakening",
+      "bbox": [
+        252.0,
+        276.0,
+        1571.0,
+        323.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of the square g6 or, alternatively, he plays g4, etc.); in this connection it is impor-",
+      "bbox": [
+        251.0,
+        327.0,
+        1569.0,
+        373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tant to note that ...f5, if played later on, would create a new weakness on g6. If",
+      "bbox": [
+        251.0,
+        379.0,
+        1573.0,
+        423.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9...g6, White can immediately play 10 h5, but still better is first 10 Qe2, etc.",
+      "bbox": [
+        251.0,
+        428.0,
+        1524.0,
+        469.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10 Axh7+!",
+      "bbox": [
+        298.0,
+        474.0,
+        482.0,
+        509.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The sacrifice is correct, even though it demands extremely precise and high-",
+      "bbox": [
+        295.0,
+        529.0,
+        1568.0,
+        575.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "quality play from the attacker.",
+      "bbox": [
+        250.0,
+        579.0,
+        747.0,
+        617.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "IO...#xh7 11 Qg5+",
+      "bbox": [
+        297.0,
+        625.0,
+        630.0,
+        668.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I I ...ég6 would be hopeless here; the formation comprising rook on hl and",
+      "bbox": [
+        299.0,
+        675.0,
+        1569.0,
+        724.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawns on h4 and e5 is a formidable weapon against it, e.g. I l...#g6 12 Vd3+ f5",
+      "bbox": [
+        249.0,
+        731.0,
+        1566.0,
+        774.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13 h5+ #xg5 14 Vg3+ and 15 Vg6#.",
+      "bbox": [
+        253.0,
+        775.0,
+        878.0,
+        821.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 Vh5 Axg5",
+      "bbox": [
+        296.0,
+        825.0,
+        534.0,
+        868.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "He must!",
+      "bbox": [
+        293.0,
+        880.0,
+        442.0,
+        910.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13 hxg5 14 g6!",
+      "bbox": [
+        295.0,
+        930.0,
+        627.0,
+        970.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This move puts a spoke in Black's defensive plans. He would lose quickly af-",
+      "bbox": [
+        292.0,
+        982.0,
+        1565.0,
+        1028.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ter 14...fxg6 15 Vxg6, while if 14...cxd4, White can win either by 15 gxf7 or 15",
+      "bbox": [
+        247.0,
+        1027.0,
+        1565.0,
+        1078.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vh8+ 16 Vxg7 Xf8 17 Vf6+ 18 g7 19 Xh8 Ve8 20 Oxd5 Qc6",
+      "bbox": [
+        246.0,
+        1076.0,
+        1566.0,
+        1125.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21 Vh6.",
+      "bbox": [
+        247.0,
+        1127.0,
+        384.0,
+        1162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14...#e7 15 gxf7 Xf8 (D)",
+      "bbox": [
+        293.0,
+        1178.0,
+        723.0,
+        1222.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "37,",
+      "bbox": [
+        1157.0,
+        1348.0,
+        1184.0,
+        1370.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 0-0-0 (D)",
+      "bbox": [
+        288.0,
+        1889.0,
+        494.0,
+        1928.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Alekhine the player and Alekhine the commentator failed to see that Black",
+      "bbox": [
+        285.0,
+        1941.0,
+        1561.0,
+        1981.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "could have saved himself after this move. 16 dxc5! was both necessary and good",
+      "bbox": [
+        239.0,
+        1991.0,
+        1560.0,
+        2040.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in order to prevent Black from taking the initiative in the centre. This is under-",
+      "bbox": [
+        239.0,
+        2041.0,
+        1558.0,
+        2084.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lined by the following variations:",
+      "bbox": [
+        239.0,
+        2092.0,
+        788.0,
+        2133.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1) 16...Qd7 17 0-0-0 Va5 (if 17...Xxf7 White wins by 18 Qxd5+ and 19 e6,",
+      "bbox": [
+        288.0,
+        2138.0,
+        1557.0,
+        2189.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "while if 17...hxc5, then 18 b4) 18 Vg5+ •xf7 19 Xh7 Äg8 20 Qxd5! Vxa2 (if",
+      "bbox": [
+        238.0,
+        2188.0,
+        1561.0,
+        2241.0
+      ],
+      "confidence": null
+    }
+  ]
+}

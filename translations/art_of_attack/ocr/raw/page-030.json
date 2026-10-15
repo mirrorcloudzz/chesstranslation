@@ -1,0 +1,180 @@
+{
+  "pdf_page": 30,
+  "printed_page": 30,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        321.0,
+        116.0,
+        374.9,
+        162.2
+      ],
+      "text": "30",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        749.8,
+        121.0,
+        1252.1,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        753.5,
+        306.9,
+        780.4,
+        339.3
+      ],
+      "text": "二",
+      "confidence": 0.7997
+    },
+    {
+      "bbox": [
+        653.0,
+        374.2,
+        680.0,
+        406.7
+      ],
+      "text": "B",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        360.2,
+        868.2,
+        514.6,
+        910.7
+      ],
+      "text": "12..&e6",
+      "confidence": 0.916
+    },
+    {
+      "bbox": [
+        355.3,
+        918.1,
+        1640.5,
+        980.5
+      ],
+      "text": "Black gives up a pawn to get rid of the pressure on f7. Had he castied, then",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        311.2,
+        965.5,
+        1348.9,
+        1026.7
+      ],
+      "text": "White would have won the exchange and a pawn by 13 Wh5'.",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        356.5,
+        1014.2,
+        1026.7,
+        1071.6
+      ],
+      "text": "13 xe6 fxe6 14 xe6 Wd6 15 ②xg7+",
+      "confidence": 0.9391
+    },
+    {
+      "bbox": [
+        355.3,
+        1066.6,
+        1025.4,
+        1126.5
+      ],
+      "text": "Black's king is prevented from castling.",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        354.1,
+        1115.2,
+        1217.8,
+        1175.1
+      ],
+      "text": "15...f8 16 Wg4 皇xd4 17 e4 Wb4 18 e6+ (D)",
+      "confidence": 0.9342
+    },
+    {
+      "bbox": [
+        352.8,
+        1168.9,
+        1636.8,
+        1231.3
+      ],
+      "text": "This check is followed by two more, as a result of which White's knights as-",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        310.0,
+        1222.5,
+        970.3,
+        1272.4
+      ],
+      "text": "sume increasingly dangerous positions.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        642.0,
+        1433.4,
+        666.5,
+        1462.0
+      ],
+      "text": "B",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        378.6,
+        2032.1,
+        1624.5,
+        2102.0
+      ],
+      "text": "Not so. After 13 Wh5 Qf5 White may have no advantage. 14 xf7 surprisingly",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        381.0,
+        2087.0,
+        1628.2,
+        2145.7
+      ],
+      "text": "fails to 14...Wxd4!, attacking both c4 and f2, when the discovered checks do not",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        379.8,
+        2134.4,
+        1627.0,
+        2193.1
+      ],
+      "text": "help White. Therefore White should try 14 Qxf7+ h8 15 dxe5, but even here",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        382.2,
+        2180.6,
+        910.3,
+        2233.0
+      ],
+      "text": "15...Wd4 16 e3 Wg4 is unclear.",
+      "confidence": 0.9835
+    }
+  ]
+}

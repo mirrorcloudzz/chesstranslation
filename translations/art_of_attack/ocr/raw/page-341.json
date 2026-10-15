@@ -1,0 +1,260 @@
+{
+  "pdf_page": 341,
+  "printed_page": 341,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The attack on the king as an integral part of the game",
+      "bbox": [
+        376.0,
+        147.0,
+        1398.0,
+        189.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "43 Vh4! f6",
+      "bbox": [
+        262.0,
+        288.0,
+        453.0,
+        324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Both 43...Äd5 44 hg4 and 43...Ädb8 44 Vf6 Xb3 45 Axe6 also win for",
+      "bbox": [
+        263.0,
+        339.0,
+        1538.0,
+        383.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White.",
+      "bbox": [
+        216.0,
+        394.0,
+        326.0,
+        424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "44 Ad3+ 45 Ag6! Äh7",
+      "bbox": [
+        262.0,
+        440.0,
+        744.0,
+        483.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 45...fxe5 46 Vxh5+ ég7 47 Axe8+ and 48 Vg5#.",
+      "bbox": [
+        262.0,
+        490.0,
+        1156.0,
+        535.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "46 Axh7 exh7",
+      "bbox": [
+        261.0,
+        540.0,
+        523.0,
+        575.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 46...fxe5 47 Vxd8 Vf3+ 48 Xg2 Black has one more check before",
+      "bbox": [
+        261.0,
+        590.0,
+        1536.0,
+        635.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White mates him.",
+      "bbox": [
+        216.0,
+        645.0,
+        508.0,
+        675.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "47 Ag6",
+      "bbox": [
+        261.0,
+        691.0,
+        478.0,
+        734.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 47...#h8 48 oxf6 Af7 49 Qxh5 and White wins.",
+      "bbox": [
+        261.0,
+        741.0,
+        1142.0,
+        778.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "48 Qxf6+ ég7 49 mxh5+",
+      "bbox": [
+        261.0,
+        792.0,
+        701.0,
+        835.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and Black loses his bishop with check.",
+      "bbox": [
+        261.0,
+        848.0,
+        900.0,
+        887.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Capablanca — Schroeder",
+      "bbox": [
+        639.0,
+        947.0,
+        1111.0,
+        986.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "New York, 1916",
+      "bbox": [
+        742.0,
+        1000.0,
+        1006.0,
+        1034.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Queen's Gambit Declined, Orthodox Defence",
+      "bbox": [
+        494.0,
+        1049.0,
+        1254.0,
+        1085.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 d4 d5 2 Qf3 e6 3 c4 Qf6 4 Qbd7 5 Ag5 Ae7 6 e3 0-0 7 xci a6 8 Vc2",
+      "bbox": [
+        217.0,
+        1144.0,
+        1533.0,
+        1190.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This is better than either 8 c5 or 8 a3, which Capablanca played in a number of",
+      "bbox": [
+        259.0,
+        1199.0,
+        1537.0,
+        1241.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "games of his 1928 match against Alekhine, but best of all is 8 cxd5.",
+      "bbox": [
+        214.0,
+        1250.0,
+        1338.0,
+        1290.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8...xe8 9 Ad3 dxc4 10 Axc4 b5 11 Ad3 Abi?",
+      "bbox": [
+        259.0,
+        1296.0,
+        1058.0,
+        1333.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "At this point Black cannot spare the time to continue preparing ...c5; he should",
+      "bbox": [
+        258.0,
+        1351.0,
+        1533.0,
+        1394.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have played it at once.",
+      "bbox": [
+        213.0,
+        1401.0,
+        582.0,
+        1440.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 a4! (D)",
+      "bbox": [
+        260.0,
+        1451.0,
+        432.0,
+        1489.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In order to entice the b-pawn to b4, which is useful for further play against the",
+      "bbox": [
+        255.0,
+        2157.0,
+        1531.0,
+        2200.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "square c5.",
+      "bbox": [
+        211.0,
+        2207.0,
+        376.0,
+        2245.0
+      ],
+      "confidence": null
+    }
+  ]
+}

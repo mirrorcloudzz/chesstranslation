@@ -1,0 +1,160 @@
+{
+  "pdf_page": 181,
+  "printed_page": 181,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Ranks, files and diagonals in the attack on the castled king 181",
+      "bbox": [
+        357.0,
+        133.0,
+        1555.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now Black's bishop does not have a single square left on the bl-h7 diagonal.",
+      "bbox": [
+        286.0,
+        280.0,
+        1558.0,
+        319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black lost the exchange and the game a few moves later.",
+      "bbox": [
+        241.0,
+        331.0,
+        1175.0,
+        369.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Here is an example showing the strength of two bishops working together.",
+      "bbox": [
+        287.0,
+        431.0,
+        1519.0,
+        470.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "axvx±é",
+      "bbox": [
+        695.0,
+        552.0,
+        1083.0,
+        608.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White offers a pawn in order to open up the long diagonal for his b2-bishop.",
+      "bbox": [
+        286.0,
+        1136.0,
+        1554.0,
+        1176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black does not accept the sacrifice. After l...exd5 2 Xxe8 Vxe8 3 Og5 both",
+      "bbox": [
+        286.0,
+        1232.0,
+        1560.0,
+        1276.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...g6 4 Axg6! fxg6 5 Vd4 and 3...h6 4 Ah7+ 5 Vh5 give White a decisive",
+      "bbox": [
+        242.0,
+        1281.0,
+        1560.0,
+        1326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "attack.",
+      "bbox": [
+        241.0,
+        1337.0,
+        346.0,
+        1366.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 dxe6 Xxe6 3 Xxe6 fxe6 4 Vc2 Axf3",
+      "bbox": [
+        286.0,
+        1382.0,
+        934.0,
+        1418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...g6 is met by 5 Vc3, while if 4...h6, then 5 Ah7+ 6 hh4.",
+      "bbox": [
+        285.0,
+        1433.0,
+        1363.0,
+        1476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 Axh7+ 6 gxf3",
+      "bbox": [
+        285.0,
+        1484.0,
+        648.0,
+        1527.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Having gained a pawn and weakened Black's position, White won the game in",
+      "bbox": [
+        286.0,
+        1540.0,
+        1559.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ten more moves.",
+      "bbox": [
+        240.0,
+        1595.0,
+        512.0,
+        1620.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": ".41",
+      "bbox": [
+        936.0,
+        1903.0,
+        954.0,
+        1916.0
+      ],
+      "confidence": null
+    }
+  ]
+}

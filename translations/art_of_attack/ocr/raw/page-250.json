@@ -1,0 +1,270 @@
+{
+  "pdf_page": 250,
+  "printed_page": 250,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "250",
+      "bbox": [
+        344.0,
+        119.0,
+        408.0,
+        150.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        771.0,
+        126.0,
+        1266.0,
+        168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "formation cannot be rapidly activated except by the sacrifice of a piece. If the at-",
+      "bbox": [
+        341.0,
+        268.0,
+        1659.0,
+        325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tacker has already used a sacrifice in attack, the defender is presented with an op-",
+      "bbox": [
+        340.0,
+        320.0,
+        1658.0,
+        379.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "portunity of making a return sacrifice in the centre. For example, the defender's",
+      "bbox": [
+        339.0,
+        371.0,
+        1658.0,
+        424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "knight on c6 is sacrificed for White's pawns on e5 and d4, thereby creating the",
+      "bbox": [
+        338.0,
+        420.0,
+        1657.0,
+        479.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "necessary conditions for various kinds of defence without loss of material;",
+      "bbox": [
+        338.0,
+        474.0,
+        1576.0,
+        525.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "d) The destruction of the attacker's centre usually gives the defender the pros-",
+      "bbox": [
+        381.0,
+        521.0,
+        1655.0,
+        579.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pect of better conditions for positional play, as mentioned in section '4'. For it is",
+      "bbox": [
+        335.0,
+        571.0,
+        1655.0,
+        622.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not only that the opponent's centre pawns disappear, but the actual central",
+      "bbox": [
+        335.0,
+        622.0,
+        1653.0,
+        672.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "squares also come under the defender's control; consequently, if the attack is",
+      "bbox": [
+        334.0,
+        673.0,
+        1653.0,
+        726.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "held, the considerable positional advantage enjoyed by the defender persists,",
+      "bbox": [
+        333.0,
+        721.0,
+        1651.0,
+        779.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "even when the material is equally balanced, until well into the endgame.",
+      "bbox": [
+        332.0,
+        773.0,
+        1532.0,
+        828.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This outline of defensive methods brings out above all else the richness of",
+      "bbox": [
+        376.0,
+        822.0,
+        1654.0,
+        873.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "their variety and the flexible way in which they can be combined. Because of",
+      "bbox": [
+        331.0,
+        872.0,
+        1653.0,
+        924.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "this, defence as a whole is harder than attack, and its finesses are as a rule more",
+      "bbox": [
+        330.0,
+        923.0,
+        1648.0,
+        975.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "concealed than those of the attacker, a point already noticed long ago by Lasker.",
+      "bbox": [
+        329.0,
+        975.0,
+        1646.0,
+        1031.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The importance of the centre must be particularly emphasized as the critical area",
+      "bbox": [
+        328.0,
+        1023.0,
+        1648.0,
+        1077.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "where the decisive step is often made. The great variety of possibilities afforded",
+      "bbox": [
+        328.0,
+        1074.0,
+        1646.0,
+        1130.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by a defence based on an action against the centre gives such an operation first",
+      "bbox": [
+        327.0,
+        1124.0,
+        1646.0,
+        1182.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "place in the defender's repertoire, and so every attacker must be able to calculate",
+      "bbox": [
+        324.0,
+        1174.0,
+        1644.0,
+        1228.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "accurately what is likely to happen in the centre during an attack on the castled",
+      "bbox": [
+        325.0,
+        1227.0,
+        1643.0,
+        1279.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king.",
+      "bbox": [
+        323.0,
+        1275.0,
+        404.0,
+        1313.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Defence by over-protection",
+      "bbox": [
+        324.0,
+        1380.0,
+        1011.0,
+        1440.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Passing now to some examples of direct defence, let us examine the following",
+      "bbox": [
+        320.0,
+        1477.0,
+        1639.0,
+        1541.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position, which can arise in the Closed Defence to the Ruy Lopez.",
+      "bbox": [
+        318.0,
+        1529.0,
+        1418.0,
+        1586.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "pdf_page": 11,
+  "printed_page": 11,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        656.7,
+        242.0,
+        1483.6,
+        288.2
+      ],
+      "text": "  e s      ",
+      "confidence": 0.6001
+    },
+    {
+      "bbox": [
+        159.3,
+        288.2,
+        1440.8,
+        338.1
+      ],
+      "text": "-s  o sd g a  p   e s n ao",
+      "confidence": 0.5362
+    },
+    {
+      "bbox": [
+        329.6,
+        439.1,
+        1484.9,
+        491.5
+      ],
+      "text": "i ss g   o sp n s   ni os",
+      "confidence": 0.555
+    },
+    {
+      "bbox": [
+        159.3,
+        494.0,
+        1484.9,
+        538.9
+      ],
+      "text": " s       e  s s    ",
+      "confidence": 0.5818
+    },
+    {
+      "bbox": [
+        159.3,
+        542.7,
+        1483.6,
+        591.3
+      ],
+      "text": "   s n  n sn  s   s ",
+      "confidence": 0.5151
+    },
+    {
+      "bbox": [
+        765.7,
+        623.7,
+        1483.6,
+        686.1
+      ],
+      "text": " b e f  ",
+      "confidence": 0.6342
+    },
+    {
+      "bbox": [
+        158.0,
+        793.4,
+        1484.9,
+        840.8
+      ],
+      "text": " u e s         e  s  es",
+      "confidence": 0.5184
+    },
+    {
+      "bbox": [
+        515.8,
+        1299.9,
+        1445.7,
+        1346.0
+      ],
+      "text": " d    ,   ",
+      "confidence": 0.5578
+    },
+    {
+      "bbox": [
+        155.6,
+        1499.5,
+        1444.4,
+        1549.4
+      ],
+      "text": " ns  n snnd s in 'iu  n o  hap u  s a",
+      "confidence": 0.5234
+    },
+    {
+      "bbox": [
+        160.5,
+        1553.1,
+        1481.2,
+        1594.3
+      ],
+      "text": "   s s       s   ",
+      "confidence": 0.559
+    },
+    {
+      "bbox": [
+        1141.8,
+        2063.3,
+        1173.7,
+        2098.3
+      ],
+      "text": "M",
+      "confidence": 0.9872
+    }
+  ]
+}

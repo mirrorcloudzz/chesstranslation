@@ -1,0 +1,300 @@
+{
+  "pdf_page": 8,
+  "printed_page": 8,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        287.9,
+        122.3,
+        312.4,
+        155.9
+      ],
+      "text": "8",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        715.5,
+        121.0,
+        1217.8,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        330.8,
+        268.2,
+        1613.5,
+        323.1
+      ],
+      "text": "Here White makes the normal positional move 1 d4, which obviously does not",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        283.0,
+        320.6,
+        1613.5,
+        373.0
+      ],
+      "text": "represent an attack against the black king; but in one variation it contains the ele-",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        283.0,
+        369.3,
+        1613.5,
+        424.1
+      ],
+      "text": "ments of mate. That is, if Black is careless, and plays for example 1...&b7?, there",
+      "confidence": 0.9706
+    },
+    {
+      "bbox": [
+        283.0,
+        416.7,
+        1611.1,
+        474.0
+      ],
+      "text": "then follows 2 dxc5, and Black has lost a pawn, since 2..xc5? is answered by 3",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        283.0,
+        462.8,
+        1274.1,
+        526.4
+      ],
+      "text": "Wd4, attacking the knight and also threatening mate on g7.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        329.6,
+        514.0,
+        1611.1,
+        580.1
+      ],
+      "text": "2) A player's action really does contain a direct threat to his opponent's king,",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        285.5,
+        566.4,
+        1612.3,
+        630.0
+      ],
+      "text": "but his opponent can stave off this threat at a certain price, e.g. by giving up ma-",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        286.7,
+        618.8,
+        782.9,
+        667.4
+      ],
+      "text": "terial or spoiling his position.",
+      "confidence": 0.96
+    },
+    {
+      "bbox": [
+        325.9,
+        666.2,
+        1611.1,
+        731.0
+      ],
+      "text": "The vast majority of attacks in fact fall into this very wide category. A simple",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        287.9,
+        721.0,
+        846.6,
+        769.7
+      ],
+      "text": "example is given by this position:",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        617.5,
+        913.2,
+        651.8,
+        946.8
+      ],
+      "text": "W",
+      "confidence": 0.9513
+    },
+    {
+      "bbox": [
+        321.0,
+        1419.6,
+        1601.3,
+        1488.2
+      ],
+      "text": "White plays 1 g5, carrying out an attack on h7. Black has three practical al-",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        273.2,
+        1470.8,
+        1607.4,
+        1533.2
+      ],
+      "text": "ternatives 1..g6, 1...f6, and 1..f8. If 1...g6, then 2 e4 with the threat of",
+      "confidence": 0.9765
+    },
+    {
+      "bbox": [
+        270.8,
+        1516.9,
+        1606.2,
+        1593.0
+      ],
+      "text": "Dd6, which gains a tempo; however, White's main plan will be a further attack",
+      "confidence": 0.9734
+    },
+    {
+      "bbox": [
+        272.0,
+        1569.3,
+        1601.3,
+        1639.2
+      ],
+      "text": "based on the weaknesses on the dark squares in the region of the king arising",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        270.8,
+        1624.2,
+        613.8,
+        1672.9
+      ],
+      "text": "from the move ...g6.",
+      "confidence": 0.9751
+    },
+    {
+      "bbox": [
+        314.9,
+        1671.6,
+        1601.3,
+        1739.0
+      ],
+      "text": "If 1...f6, White will no doubt again continue his attacking play, e.g. with 2",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        272.0,
+        1721.5,
+        1600.0,
+        1790.1
+      ],
+      "text": "&f4, preparing for Qe5. However, on 1...f8, attacking play does not promise",
+      "confidence": 0.9656
+    },
+    {
+      "bbox": [
+        268.3,
+        1775.2,
+        1598.8,
+        1840.0
+      ],
+      "text": "success, and White will be content with a positional alternative, playing 2 e4.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        267.1,
+        1823.8,
+        1602.5,
+        1889.9
+      ],
+      "text": "Then Black cannot really prevent 3 c5, after which the knight will have a",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        268.3,
+        1878.7,
+        1461.6,
+        1937.3
+      ],
+      "text": "strong position on c5 and the black bishop will be poorly placed on b7.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        313.6,
+        1928.6,
+        1597.6,
+        1991.0
+      ],
+      "text": "3) The attacker carries out an uncompromising mating attack, in which he",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        268.3,
+        1978.5,
+        1601.3,
+        2039.6
+      ],
+      "text": "can invest even a considerable amount of material, as long as he is certain of",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        270.8,
+        2032.1,
+        573.4,
+        2073.3
+      ],
+      "text": "mating in the end.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        312.4,
+        2079.5,
+        1064.6,
+        2131.9
+      ],
+      "text": "This is the third and highest degree of attack.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        313.6,
+        2130.7,
+        1595.1,
+        2188.1
+      ],
+      "text": "We can categorize attack in another way if we take castling into account. Thus",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        268.3,
+        2179.3,
+        420.2,
+        2223.0
+      ],
+      "text": "we have:",
+      "confidence": 0.9976
+    }
+  ]
+}

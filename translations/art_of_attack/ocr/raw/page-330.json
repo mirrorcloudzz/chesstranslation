@@ -1,0 +1,280 @@
+{
+  "pdf_page": 330,
+  "printed_page": 330,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "330",
+      "bbox": [
+        218.0,
+        132.0,
+        282.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        645.0,
+        134.0,
+        1140.0,
+        175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 Vh5 Vd8",
+      "bbox": [
+        425.0,
+        277.0,
+        644.0,
+        313.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 12...Ae8 13 Vh6 Xg6, White plays 14 Agl and is one step further towards",
+      "bbox": [
+        262.0,
+        327.0,
+        1536.0,
+        376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "an endgame.",
+      "bbox": [
+        216.0,
+        383.0,
+        423.0,
+        421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13 XfT7 14 Vh6 Ve7 15 Qf3",
+      "bbox": [
+        263.0,
+        429.0,
+        838.0,
+        466.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White decides, after all, on an attack instead of simple liquidation by 15",
+      "bbox": [
+        260.0,
+        484.0,
+        1534.0,
+        528.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xxg7+ and 16 Ägl. While attacking, he is always guaranteed a good ending",
+      "bbox": [
+        215.0,
+        530.0,
+        1535.0,
+        579.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "when he wants it.",
+      "bbox": [
+        216.0,
+        584.0,
+        503.0,
+        614.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15...#h8 16 Xf8 17 h5",
+      "bbox": [
+        262.0,
+        629.0,
+        735.0,
+        666.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Pillsbury intends to establish his knight on the outpost at g5 and so gives up",
+      "bbox": [
+        260.0,
+        685.0,
+        1535.0,
+        730.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the line of play leading to an ending which he has followed up to here.",
+      "bbox": [
+        214.0,
+        734.0,
+        1386.0,
+        778.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The end of the game, which is no longer germane to our theme, runs as fol-",
+      "bbox": [
+        258.0,
+        785.0,
+        1533.0,
+        827.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lows: 17...Xg4 18 Qg5 Xxf4 19 Qf7+ Vxf7 20 Vxf4 Vxh5+ 21 ég3 Ve2 22",
+      "bbox": [
+        214.0,
+        831.0,
+        1534.0,
+        879.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "xc8 23 Äael Vxb2 24 Éh3 Äxc3+ 25 xg3 xc2 26 Zhl xc8 27 Vh61-01",
+      "bbox": [
+        300.0,
+        881.0,
+        1501.0,
+        927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 27...Vxe5, then 28 Vxh7+ and 29 •g2#.",
+      "bbox": [
+        258.0,
+        930.0,
+        980.0,
+        977.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this position from Bogoljubow-Przepiorka, Pistyan 1922 the liquidation",
+      "bbox": [
+        253.0,
+        1643.0,
+        1528.0,
+        1690.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "leading to an ending comes as the direct consequence of White's combination.",
+      "bbox": [
+        208.0,
+        1693.0,
+        1512.0,
+        1737.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Xxh5 gxh5 2 Xxd7 Xxc3",
+      "bbox": [
+        254.0,
+        1739.0,
+        709.0,
+        1781.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Necessary, since 2...Vxd7 allows 3 Vg5+ followed by 4 Vf6+ and 5 Axe5.",
+      "bbox": [
+        251.0,
+        1790.0,
+        1514.0,
+        1839.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 Qxc3 Vxd7 4 Vg5+ 5 Vf6+ ég8 6 Q)d5 Äe8",
+      "bbox": [
+        252.0,
+        1838.0,
+        1147.0,
+        1887.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 6...h6, then 7 Qe7+? 8 hf5? would be incorrect on account of 8...Vd1+",
+      "bbox": [
+        251.0,
+        1890.0,
+        1527.0,
+        1935.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and 9...Äg8+; however, White can play 7 Vxh6 f5 8 Vg6+ Éh8 (or 8...Vg7 9",
+      "bbox": [
+        206.0,
+        1942.0,
+        1526.0,
+        1994.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qe7+ IO Vxh5+ Vh7 11 Qg6+, when White wins easily) 9 Q)f6 Äxf6 IO",
+      "bbox": [
+        205.0,
+        1989.0,
+        1526.0,
+        2042.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxf6+, and the ending is won for White.",
+      "bbox": [
+        204.0,
+        2039.0,
+        885.0,
+        2087.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I This last section of the game certainly contains some ups and downs, but read-",
+      "bbox": [
+        208.0,
+        2151.0,
+        1524.0,
+        2197.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ers will have to look elsewhere for the details!",
+      "bbox": [
+        287.0,
+        2202.0,
+        1015.0,
+        2235.0
+      ],
+      "confidence": null
+    }
+  ]
+}

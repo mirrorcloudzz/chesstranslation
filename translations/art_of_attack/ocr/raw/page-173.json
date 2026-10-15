@@ -1,0 +1,280 @@
+{
+  "pdf_page": 173,
+  "printed_page": 173,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Ranks, files and diagonals in the attack on the castled king 173",
+      "bbox": [
+        359.0,
+        132.0,
+        1559.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20...exd5 then 21 e6+ •xe6 22 Vxd5+ and 23 Vxg8 wins, while if 20...Vxc5,",
+      "bbox": [
+        243.0,
+        274.0,
+        1561.0,
+        318.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then 21 Vh5+ 22 Qf4 wins) 21 Ve7+ 22 Vxe6+ Qf6 23 Äxg7+ mating.",
+      "bbox": [
+        243.0,
+        324.0,
+        1554.0,
+        368.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) 16...Qc6 17 0-0-0 Va5 (or 17...Xxf7 18 Vg5+ 19 Vg6 Qxe5",
+      "bbox": [
+        289.0,
+        374.0,
+        1560.0,
+        418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "{ 19...Ve7 transposes to line 3) 20 Xxd5+ exd5 21 Vd6+ and 22 Xh8+, etc.) 18",
+      "bbox": [
+        247.0,
+        424.0,
+        1561.0,
+        468.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg5+ Éxf7 19 Äh7 Xg8 20 Vf6+ 21 Vg6+ (if 21...#f8, then 22 Äh4",
+      "bbox": [
+        243.0,
+        474.0,
+        1561.0,
+        519.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "wins, while if 21...Éd8, then 22 Oxd5) 22 Xxg7+ Xxg7 23 Vxg7+ 24 Zhl !",
+      "bbox": [
+        243.0,
+        525.0,
+        1558.0,
+        568.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25 Xh7 Vxc5 26 Qa4! Vc7 (or 26...Vb4 27 Vf7+ 28 c3!) 27 Vf7+",
+      "bbox": [
+        330.0,
+        575.0,
+        1562.0,
+        617.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Éd8 28 Vf8+ mating.",
+      "bbox": [
+        243.0,
+        626.0,
+        611.0,
+        670.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) 16...Äxf7 17 Vg5+ Éd7 18 Vg6 Ve7 (defending the rook and parrying",
+      "bbox": [
+        289.0,
+        676.0,
+        1562.0,
+        720.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the threat of Qxd5) 19 0-0-0 Qc6 (if 19...#c7, then 20 Qb5+ and 21 Qd6, while",
+      "bbox": [
+        243.0,
+        726.0,
+        1562.0,
+        768.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "if 19...#c6, then 20 xxd5) 20 Vg4! 21 05+ 22 Qd6 Xf8 23 Xh7",
+      "bbox": [
+        243.0,
+        776.0,
+        1560.0,
+        820.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qxe5 (if 23...Xg8, then 24 Xdhl followed by Xh8, etc.) 24 Vg3 Vf6 25 Xxg7",
+      "bbox": [
+        243.0,
+        827.0,
+        1560.0,
+        871.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vf4+ (should Black attempt to free himself with 25...Ad7, White wins by 26",
+      "bbox": [
+        243.0,
+        877.0,
+        1562.0,
+        922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxe5 and 27 Xxd7) 26 Vxf4 Xxf4 27 Zhl Xf8 28 Xhh7 and mate on b7.",
+      "bbox": [
+        243.0,
+        928.0,
+        1466.0,
+        969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "These variations do not exhaust the possibilities of the position, but they give a",
+      "bbox": [
+        287.0,
+        984.0,
+        1562.0,
+        1022.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "good illustration of the of White's game after 16 dxc5.",
+      "bbox": [
+        243.0,
+        1034.0,
+        1290.0,
+        1072.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...a6?",
+      "bbox": [
+        288.0,
+        1739.0,
+        419.0,
+        1769.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "An example of the inadequacy of passive defence. 17 Qb5, which is what",
+      "bbox": [
+        286.0,
+        1787.0,
+        1561.0,
+        1830.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black was afraid of, is by no means White's principal threat and is only effective",
+      "bbox": [
+        241.0,
+        1841.0,
+        1560.0,
+        1881.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in conjunction with a strong initiative. Alekhine is also at fault in his commen-",
+      "bbox": [
+        241.0,
+        1891.0,
+        1559.0,
+        1930.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tary when he claims that 05 represented a threat after 16 0-0-0.",
+      "bbox": [
+        241.0,
+        1937.0,
+        1320.0,
+        1981.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Instead of 16...a6? Black should have played 16...cxd4! and thus exploited the",
+      "bbox": [
+        286.0,
+        1992.0,
+        1560.0,
+        2034.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "extra tempo in the centre, e.g.:",
+      "bbox": [
+        241.0,
+        2044.0,
+        742.0,
+        2082.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1) 17 05 Qc6 and now:",
+      "bbox": [
+        290.0,
+        2088.0,
+        716.0,
+        2130.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "la) 18 f4 Xxf7 19 Q)d6 and now Black has a satisfactory defence in",
+      "bbox": [
+        290.0,
+        2139.0,
+        1560.0,
+        2185.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...Vf8!",
+      "bbox": [
+        244.0,
+        2189.0,
+        394.0,
+        2224.0
+      ],
+      "confidence": null
+    }
+  ]
+}

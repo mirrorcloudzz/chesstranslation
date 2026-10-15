@@ -1,0 +1,270 @@
+{
+  "pdf_page": 16,
+  "printed_page": 16,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        268.3,
+        113.5,
+        324.7,
+        159.7
+      ],
+      "text": "16",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        699.6,
+        117.3,
+        1201.9,
+        165.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        272.0,
+        265.7,
+        1597.6,
+        316.9
+      ],
+      "text": "opening up of the file, especially if everything else has already been achieved, as,",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        270.8,
+        314.4,
+        876.0,
+        364.3
+      ],
+      "text": "for example, in the following game:",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        779.2,
+        412.9,
+        1087.9,
+        467.8
+      ],
+      "text": "Chigorin - Burn",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        819.6,
+        469.1,
+        1047.5,
+        510.2
+      ],
+      "text": "Ostend, 1906",
+      "confidence": 0.9582
+    },
+    {
+      "bbox": [
+        727.7,
+        516.5,
+        1138.2,
+        565.1
+      ],
+      "text": "King's Gambit Declined",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        265.9,
+        611.3,
+        1597.6,
+        663.7
+      ],
+      "text": "1 e4 e5 2 f4 c5 3 f3 d6 4 皇c4 2f6 5 c3 0-0 6 d3 2c6 7 We2 e8 8 f5 d5 9",
+      "confidence": 0.9295
+    },
+    {
+      "bbox": [
+        265.9,
+        659.9,
+        425.1,
+        712.3
+      ],
+      "text": "b3 (D)",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        601.5,
+        872.0,
+        626.0,
+        903.2
+      ],
+      "text": "B",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        306.3,
+        1367.2,
+        1587.8,
+        1425.9
+      ],
+      "text": "This position contains the three elements already referred to (king on e1,",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        259.7,
+        1418.4,
+        1589.0,
+        1478.3
+      ],
+      "text": "queen on e2 and the black rook on e8), and it is only a question of opening up the",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        261.0,
+        1470.8,
+        1484.9,
+        1524.4
+      ],
+      "text": "e-file. This aim can be promoted by the sacrifice of Black's bishop on f5:",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        305.1,
+        1519.4,
+        471.7,
+        1561.8
+      ],
+      "text": "9...xf5!",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        302.6,
+        1561.8,
+        1591.5,
+        1635.4
+      ],
+      "text": "After 10 exf5 e4, the important point is that White cannot avoid opening up",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        259.7,
+        1620.5,
+        1591.5,
+        1679.1
+      ],
+      "text": "the e-file since removing his knight would be followed by 11...exd3. But if Black",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        258.5,
+        1670.4,
+        1589.0,
+        1726.5
+      ],
+      "text": "had played more weakly with 9...dxe4? 10 dxe4 Qxf5 11 exf5 e4, he would have",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        254.8,
+        1721.5,
+        1587.8,
+        1780.2
+      ],
+      "text": "lost the chance of playing ..exd3, and White could have moved his knight and",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        258.5,
+        1775.2,
+        731.4,
+        1821.3
+      ],
+      "text": "avoided opening up the file.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        301.4,
+        1823.8,
+        1582.9,
+        1878.7
+      ],
+      "text": "The play after 10..e4 is no longer of interest; White could still try 11 d1",
+      "confidence": 0.9741
+    },
+    {
+      "bbox": [
+        257.3,
+        1871.2,
+        1587.8,
+        1929.9
+      ],
+      "text": "exf3 12 Wxf3, after which 12...e5 followed by 13...g4 or 13...d4 would lead",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        256.1,
+        1927.4,
+        770.6,
+        1972.3
+      ],
+      "text": "to a great advantage for Black.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        298.9,
+        1972.3,
+        1584.1,
+        2033.4
+      ],
+      "text": "In the game itself, White declined the sacrifice by 10 g5, but lost quickly:",
+      "confidence": 0.9785
+    },
+    {
+      "bbox": [
+        257.3,
+        2022.2,
+        1214.1,
+        2073.3
+      ],
+      "text": "10...dxe4 11 dxe4 xe4 12 Wc4 Wd5 13 Wb5 f2+ 0-1",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        298.9,
+        2124.5,
+        1582.9,
+        2183.1
+      ],
+      "text": "If the e-file is already open and the last defender is a piece on e2 (or e7 for",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        254.8,
+        2174.4,
+        1582.9,
+        2234.2
+      ],
+      "text": "Black) then the operation often takes the form of a systematic attempt to",
+      "confidence": 0.9942
+    }
+  ]
+}

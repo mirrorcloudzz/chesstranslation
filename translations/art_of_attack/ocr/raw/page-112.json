@@ -1,0 +1,420 @@
+{
+  "pdf_page": 112,
+  "printed_page": 112,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        280.6,
+        121.0,
+        354.1,
+        167.2
+      ],
+      "text": "112",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        710.6,
+        124.7,
+        1209.2,
+        168.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9412
+    },
+    {
+      "bbox": [
+        324.7,
+        268.2,
+        660.4,
+        311.9
+      ],
+      "text": "4 Wxh7 Wa4 5 e3",
+      "confidence": 0.9578
+    },
+    {
+      "bbox": [
+        325.9,
+        324.3,
+        1604.9,
+        370.5
+      ],
+      "text": "At this point White gains nothing from checking, but must instead bring his",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        281.8,
+        375.5,
+        459.4,
+        412.9
+      ],
+      "text": "rook to f3.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        325.9,
+        421.6,
+        867.4,
+        459.1
+      ],
+      "text": "5...Wc2 6 f3 Wxb2 7 f1 Wa3",
+      "confidence": 0.9124
+    },
+    {
+      "bbox": [
+        323.4,
+        469.1,
+        1575.5,
+        522.7
+      ],
+      "text": "This parries the threat of 8 Qxe7, but now 8 g5 f5 9 g4 decides the game.",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        321.0,
+        520.2,
+        1608.6,
+        575.1
+      ],
+      "text": "In this variation the black king wriggled out to the edge of the network of weak",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        280.6,
+        573.8,
+        1603.7,
+        623.7
+      ],
+      "text": "dark squares, but even there he met his fate, its cause being the last square in the",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        280.6,
+        626.2,
+        495.0,
+        667.4
+      ],
+      "text": "network, e7.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        323.4,
+        673.6,
+        1604.9,
+        726.0
+      ],
+      "text": "We shall not leave the above diagram yet, because a feature of very great prac-",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        278.1,
+        724.8,
+        1604.9,
+        773.4
+      ],
+      "text": "tical importance should be pointed out. This is the benefit derived by White from",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        279.3,
+        775.9,
+        1602.5,
+        823.3
+      ],
+      "text": "the action of his rook on the h-file. Without an opportunity of making the ma-",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        279.3,
+        825.8,
+        1607.4,
+        873.2
+      ],
+      "text": "noeuvre e3-h3, White cannot take Black's position by storm, because he lacks a",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        278.1,
+        874.5,
+        1604.9,
+        925.6
+      ],
+      "text": "threat against h7; if this does not exist, Black does not have to weaken his posi-",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        278.1,
+        928.1,
+        1604.9,
+        973.0
+      ],
+      "text": "tion, since he can easily ward off the threats against g7 alone. So even in this",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        279.3,
+        976.8,
+        1602.5,
+        1024.2
+      ],
+      "text": "case, where there is a definite 'same-colour network', there is still a part to be",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        279.3,
+        1027.9,
+        1604.9,
+        1075.3
+      ],
+      "text": "played by alternative focal-points on squares of different colours (h7 or f7), and",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        278.1,
+        1077.8,
+        1604.9,
+        1127.7
+      ],
+      "text": "this applies in most practical cases. The weaknesses on the squares of the net-",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        279.3,
+        1127.7,
+        1602.5,
+        1176.4
+      ],
+      "text": "work are usually only the more sensitive ones, which does not mean that squares",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        278.1,
+        1177.6,
+        1587.8,
+        1227.5
+      ],
+      "text": "of the other colour will necessarily be safe - the king may succumb on them too!",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        321.0,
+        1226.3,
+        1603.7,
+        1281.2
+      ],
+      "text": "We have noted the important part played by the rook on the h-file in the varia-",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        276.9,
+        1279.9,
+        1601.3,
+        1327.3
+      ],
+      "text": "tions above, and we shall now go on to examine how positions of this kind can be",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        278.1,
+        1329.8,
+        1604.9,
+        1379.7
+      ],
+      "text": "exploited if there is no chance of employing a rook. Suppose that we move",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        278.1,
+        1378.5,
+        1607.4,
+        1430.9
+      ],
+      "text": "White's h-pawn from h2 to h4 in the above diagram; this gives a new situation of",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        275.7,
+        1430.9,
+        1602.5,
+        1482.0
+      ],
+      "text": "a type which often arises in practice, for the h-pawn is frequently advanced dur-",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        275.7,
+        1483.3,
+        1600.0,
+        1529.4
+      ],
+      "text": "ing the game. The pawn's being on h4 considerably blunts White's attack, and 1",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        273.2,
+        1529.4,
+        1600.0,
+        1581.8
+      ],
+      "text": "h4? in the diagrammed position would be a poor move. Nevertheless, even with",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        278.1,
+        1581.8,
+        1598.8,
+        1631.7
+      ],
+      "text": "the pawn on h4 White has the better game, although he can only exploit his ad-",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        278.1,
+        1631.7,
+        1602.5,
+        1684.1
+      ],
+      "text": "vantage slowly and Black retains chances of attacking on the queenside. Indeed,",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        273.2,
+        1682.9,
+        1601.3,
+        1731.5
+      ],
+      "text": "if Black's position on that side were a little further advanced, one could conclude",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        273.2,
+        1731.5,
+        1601.3,
+        1785.1
+      ],
+      "text": "that he would be able to preserve the balance. However, as things stand White is",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        274.4,
+        1783.9,
+        1597.6,
+        1835.0
+      ],
+      "text": "still the stronger, and we shall examine one continuation arising out of the new",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        275.7,
+        1836.3,
+        430.0,
+        1875.0
+      ],
+      "text": "situation.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        317.3,
+        1882.4,
+        1596.4,
+        1941.1
+      ],
+      "text": "The modified diagram (with the pawn on h4) is given on the following page.",
+      "confidence": 0.9772
+    },
+    {
+      "bbox": [
+        317.3,
+        1931.1,
+        726.5,
+        1977.3
+      ],
+      "text": "1...b5 2 Wd2 We8 3 e3",
+      "confidence": 0.9598
+    },
+    {
+      "bbox": [
+        314.9,
+        1984.7,
+        1597.6,
+        2039.6
+      ],
+      "text": "In this case too White's rook belongs on h3, even though his attack along the",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        273.2,
+        2037.1,
+        871.1,
+        2084.5
+      ],
+      "text": "h-file is only a 'thing of the future'.",
+      "confidence": 0.9711
+    },
+    {
+      "bbox": [
+        316.1,
+        2083.3,
+        617.5,
+        2128.2
+      ],
+      "text": "3...Wf8 4 h3 a5",
+      "confidence": 0.9614
+    },
+    {
+      "bbox": [
+        316.1,
+        2136.9,
+        1596.4,
+        2189.3
+      ],
+      "text": "4...h5 would be to White's advantage, since it would simplify his task of open-",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        270.8,
+        2188.1,
+        1597.6,
+        2240.5
+      ],
+      "text": "ing up the g- and h-files, for example 5 g4 hxg4 6 ±h2 a5 7 h5 followed by 8 hxg6",
+      "confidence": 0.9847
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "pdf_page": 17,
+  "printed_page": 17,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        548.9,
+        113.5,
+        1244.7,
+        167.2
+      ],
+      "text": "The attack against the uncastled king",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        1502.0,
+        116.0,
+        1551.0,
+        157.2
+      ],
+      "text": "17",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        224.2,
+        264.5,
+        1547.4,
+        308.1
+      ],
+      "text": "undermine the defence of the critical square, thus making e2 into a focal-point.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        224.2,
+        313.1,
+        1341.5,
+        360.5
+      ],
+      "text": "The following diagram gives an example of this kind of operation:",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        537.8,
+        521.4,
+        558.7,
+        546.4
+      ],
+      "text": "B",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        273.2,
+        1015.4,
+        1259.4,
+        1062.9
+      ],
+      "text": "This position is from the game Hansen-Lundin, Oslo 1928.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        275.7,
+        1069.1,
+        817.2,
+        1106.5
+      ],
+      "text": "1...xd4! 2 xd4 xd4 3 cxd4",
+      "confidence": 0.9681
+    },
+    {
+      "bbox": [
+        272.0,
+        1114.0,
+        1226.4,
+        1161.4
+      ],
+      "text": "Alternatives were 3 0-0-0 xe2+ and 3 d1 Wxe2+, etc.",
+      "confidence": 0.9662
+    },
+    {
+      "bbox": [
+        273.2,
+        1167.6,
+        412.9,
+        1210.1
+      ],
+      "text": "3...b4",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        269.5,
+        1216.3,
+        1555.9,
+        1263.7
+      ],
+      "text": "To avoid mate White now had to consent to the loss of his queen by 4 f2, but",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        224.2,
+        1260.0,
+        1557.2,
+        1316.1
+      ],
+      "text": "he resigned after 4...xd2 5 xg4+ f5 6 xd2 fxg4 7 he1 Wxd4+ 8 e3",
+      "confidence": 0.963
+    },
+    {
+      "bbox": [
+        229.1,
+        1316.1,
+        626.0,
+        1359.8
+      ],
+      "text": "Wxb2+ 9 ±f1 e8 0-1.",
+      "confidence": 0.9223
+    },
+    {
+      "bbox": [
+        539.1,
+        1524.4,
+        572.1,
+        1555.6
+      ],
+      "text": "W",
+      "confidence": 0.9599
+    },
+    {
+      "bbox": [
+        273.2,
+        2024.7,
+        1562.1,
+        2075.8
+      ],
+      "text": "This position supplies a convenient example of the method of play against a",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        230.3,
+        2079.5,
+        656.7,
+        2124.5
+      ],
+      "text": "piece protecting the king.",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        274.4,
+        2128.2,
+        1558.4,
+        2171.9
+      ],
+      "text": "White, to move, must discover the correct way to increase his pressure against",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        229.1,
+        2174.4,
+        1557.2,
+        2224.3
+      ],
+      "text": "the bishop on e7. He would not achieve enough by 1 We2 f8 2 Qxe7+ xe7 3",
+      "confidence": 0.9819
+    }
+  ]
+}

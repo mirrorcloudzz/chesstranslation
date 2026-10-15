@@ -1,0 +1,380 @@
+{
+  "pdf_page": 123,
+  "printed_page": 123,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        629.7,
+        128.5,
+        1138.2,
+        175.9
+      ],
+      "text": "The classic bishop sacrifice",
+      "confidence": 0.9603
+    },
+    {
+      "bbox": [
+        1466.5,
+        127.2,
+        1542.5,
+        174.6
+      ],
+      "text": "123",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        259.7,
+        274.4,
+        1537.6,
+        318.1
+      ],
+      "text": "3...h8 4 h5+! xh5 5 Wd3+ f5 6 exf6+ xf6 7 Wf3+ e7 8 Wf7+ d6 9",
+      "confidence": 0.9615
+    },
+    {
+      "bbox": [
+        219.3,
+        328.1,
+        600.3,
+        371.7
+      ],
+      "text": "Wxh5 and White wins.",
+      "confidence": 0.9708
+    },
+    {
+      "bbox": [
+        262.2,
+        380.5,
+        1538.8,
+        421.6
+      ],
+      "text": "One could now produce a series of examples, pursuing different variations ac-",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        215.6,
+        430.4,
+        1540.0,
+        472.8
+      ],
+      "text": "cording to the various elements in each position, but it is more to the point at once",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        214.4,
+        479.0,
+        1538.8,
+        525.2
+      ],
+      "text": "to pose the question as to how to judge the correctness of the sacrifice, first with",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        215.6,
+        530.2,
+        1042.6,
+        572.6
+      ],
+      "text": "reference to White's position and then to Black's.",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        218.1,
+        636.2,
+        1513.1,
+        691.1
+      ],
+      "text": "Necessary conditions for the classic bishop sacrifice",
+      "confidence": 0.9776
+    },
+    {
+      "bbox": [
+        218.1,
+        728.5,
+        1540.0,
+        775.9
+      ],
+      "text": "White must firstly have a queen, a bishop and a knight. The light-squared bishop",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        218.1,
+        783.4,
+        1543.7,
+        824.6
+      ],
+      "text": "must be able to reach h7 in order to force the tempo of the attack, though it is not",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        214.4,
+        829.6,
+        1541.2,
+        877.0
+      ],
+      "text": "essential that it should put Black in check or take a pawn in so doing. The knight",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        215.6,
+        883.2,
+        1542.5,
+        928.1
+      ],
+      "text": "should be within easy and safe reach of the square g5, and the queen within reach",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        218.1,
+        934.4,
+        1540.0,
+        975.5
+      ],
+      "text": "of h5, though in some cases it is enough for it to be able to get to some other",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        216.9,
+        983.0,
+        555.0,
+        1026.7
+      ],
+      "text": "square on the h-file.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        257.3,
+        1030.4,
+        1540.0,
+        1079.1
+      ],
+      "text": "As far as Black's position is concerned, there should be two pawns standing",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        216.9,
+        1085.3,
+        1542.5,
+        1126.5
+      ],
+      "text": "intact at f7 and g7 (g7 may on rare occasions be occupied by a bishop instead of a",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        218.1,
+        1135.2,
+        1537.6,
+        1176.4
+      ],
+      "text": "pawn); the h-pawn should be on h7 (on h5 in exceptional cases), but it may be",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        215.6,
+        1183.9,
+        1541.2,
+        1226.3
+      ],
+      "text": "that there is no h-pawn at all. The position of Black's queen on d8 and a rook on",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        214.4,
+        1232.5,
+        1543.7,
+        1278.7
+      ],
+      "text": "f8 points to, but does not absolutely guarantee, the correctness of the sacrifice.",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        214.4,
+        1281.2,
+        1543.7,
+        1332.3
+      ],
+      "text": "What is more important is that Black's knight should not be able to reach f6 and",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        214.4,
+        1337.3,
+        1540.0,
+        1382.2
+      ],
+      "text": "that neither his queen nor bishop should be able to occupy the h7-b1 diagonal un-",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        210.7,
+        1384.7,
+        354.1,
+        1429.6
+      ],
+      "text": "harmed.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        259.7,
+        1435.8,
+        1537.6,
+        1480.8
+      ],
+      "text": "These are the basic conditions which need to be taken into account. In the ex-",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        215.6,
+        1488.2,
+        1540.0,
+        1530.7
+      ],
+      "text": "amples which follow we shall examine to what extent each of these conditions is",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        215.6,
+        1538.1,
+        1542.5,
+        1581.8
+      ],
+      "text": "fulfilled; the positions are chosen in such a way as to show which is the critical",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        214.4,
+        1588.0,
+        1538.8,
+        1631.7
+      ],
+      "text": "continuation in each example, i.e. the one that is in doubt because a certain condi-",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        218.1,
+        1642.9,
+        700.8,
+        1680.4
+      ],
+      "text": "tion is apparently unfulfilled.",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        213.2,
+        1737.7,
+        1096.5,
+        1802.6
+      ],
+      "text": "The variation with ...g8 is critica!",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        214.4,
+        1838.8,
+        1019.3,
+        1886.2
+      ],
+      "text": "In the following position the sacrifice is correct:",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        256.1,
+        1882.4,
+        762.0,
+        1934.8
+      ],
+      "text": "1 xh7+ xh7 2 g5+ g8",
+      "confidence": 0.9442
+    },
+    {
+      "bbox": [
+        259.7,
+        1942.3,
+        1540.0,
+        1983.5
+      ],
+      "text": "The continuation 2...h6 obviously fails; while if 2...g6, then 3 Wd3+ f6",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        214.4,
+        1989.7,
+        1540.0,
+        2038.4
+      ],
+      "text": "(3...f5 4 Wg3! wins, for Black cannot play 4...f6 because of 5 xe6#) 4 We4",
+      "confidence": 0.9703
+    },
+    {
+      "bbox": [
+        211.9,
+        2039.6,
+        1543.7,
+        2088.3
+      ],
+      "text": "threatens both 5 Zh7+ and 5 xe6, and 4...e7 does not work because of 5",
+      "confidence": 0.9709
+    },
+    {
+      "bbox": [
+        214.4,
+        2088.3,
+        583.2,
+        2134.4
+      ],
+      "text": "Wxe6+ fxe6 6 xe6#.",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        256.1,
+        2140.7,
+        459.4,
+        2183.1
+      ],
+      "text": "3 Wh5 f6",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        259.7,
+        2194.3,
+        1537.6,
+        2240.5
+      ],
+      "text": "An example of the defence of the focal-point h7 by the knight, but in this case",
+      "confidence": 0.9882
+    }
+  ]
+}

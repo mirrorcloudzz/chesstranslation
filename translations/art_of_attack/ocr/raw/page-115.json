@@ -1,0 +1,300 @@
+{
+  "pdf_page": 115,
+  "printed_page": 115,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        775.5,
+        129.7,
+        1003.4,
+        175.9
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        1471.4,
+        126.0,
+        1547.4,
+        173.4
+      ],
+      "text": "115",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        261.0,
+        274.4,
+        382.2,
+        318.1
+      ],
+      "text": "1 c5!",
+      "confidence": 0.9552
+    },
+    {
+      "bbox": [
+        263.4,
+        326.8,
+        1546.1,
+        371.7
+      ],
+      "text": "With the idea of eliminating the dark-squared bishop. If Black plays 1...&xc5,",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        221.8,
+        380.5,
+        1544.9,
+        417.9
+      ],
+      "text": "then 2 dxc5 uncovers an attack on the bishop at d7, which Black cannot defend,",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        216.9,
+        422.9,
+        1061.0,
+        474.0
+      ],
+      "text": "e.g. if 2...Wc7, the manoeuvre We3-h6 is decisive.",
+      "confidence": 0.9742
+    },
+    {
+      "bbox": [
+        262.2,
+        474.0,
+        599.1,
+        519.0
+      ],
+      "text": "1...Wxa2 2 h5! e5",
+      "confidence": 0.9749
+    },
+    {
+      "bbox": [
+        259.7,
+        525.2,
+        1543.7,
+        572.6
+      ],
+      "text": "If 2...gxh5, then 3 Wg3+ wins, while 2...g7 is answered by 3 xg7 xg7 4",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        218.1,
+        575.1,
+        1546.1,
+        621.2
+      ],
+      "text": "xh7+ xh7 5 Wxf7+, followed by 6 d3. Also interesting is 2...h6 3 e5! h7 4",
+      "confidence": 0.9764
+    },
+    {
+      "bbox": [
+        218.1,
+        625.0,
+        1546.1,
+        672.4
+      ],
+      "text": "We3 Wxb2 5 d3 Wb1+ 6 f1 g5 (if 6...gxh5, then 7 We4+ and 8 g3+ wins;",
+      "confidence": 0.9735
+    },
+    {
+      "bbox": [
+        219.3,
+        673.6,
+        1542.5,
+        723.5
+      ],
+      "text": "otherwise Black is mated by 7 xh6+ xh6 8 Wxh6+ $xh6 9 h3#) 7 We4+",
+      "confidence": 0.9749
+    },
+    {
+      "bbox": [
+        219.3,
+        724.8,
+        1516.7,
+        777.2
+      ],
+      "text": "g8 8 xg5+ hxg5 9 h3, etc. The move played parries the threat of 3 Wh3.",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        263.4,
+        778.4,
+        889.5,
+        819.6
+      ],
+      "text": "3 dxe5 .e6 4 Wf4 Wxb2 5 f1 e7",
+      "confidence": 0.9371
+    },
+    {
+      "bbox": [
+        262.2,
+        828.3,
+        1298.7,
+        873.2
+      ],
+      "text": "He still cannot play 5...g7, because of 6 xg7 and 7 Wh6+.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        261.0,
+        878.2,
+        382.2,
+        920.6
+      ],
+      "text": "6 Wh4",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        264.6,
+        934.4,
+        1543.7,
+        971.8
+      ],
+      "text": "Euwe notes in his commentary that Black's queen is fairly well placed on b2",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        219.3,
+        980.5,
+        1547.4,
+        1027.9
+      ],
+      "text": "(by controlling f2 and f6 it prevents Wh6 being played at once) and cites as more",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        214.4,
+        1024.2,
+        1544.9,
+        1079.1
+      ],
+      "text": "precise 6 b1 Wd4 (if 6...Wxb1, then 7 Wh6) 7 b4! Wd8 8 Wh4, etc. 6 d3",
+      "confidence": 0.9583
+    },
+    {
+      "bbox": [
+        218.1,
+        1082.8,
+        1084.3,
+        1127.7
+      ],
+      "text": "would also win more quickly than the move played.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        262.2,
+        1129.0,
+        411.6,
+        1172.6
+      ],
+      "text": "6....c5!",
+      "confidence": 0.8701
+    },
+    {
+      "bbox": [
+        264.6,
+        1183.9,
+        1547.4,
+        1225.0
+      ],
+      "text": "The great defensive master's last trump: 7 xh7? is now no good because of",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        218.1,
+        1230.0,
+        1442.0,
+        1279.9
+      ],
+      "text": "7...Wxf2+. Even so, Black is lost; the process merely takes a little longer.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        262.2,
+        1282.4,
+        426.3,
+        1321.1
+      ],
+      "text": "7 h6 a5",
+      "confidence": 0.943
+    },
+    {
+      "bbox": [
+        263.4,
+        1334.8,
+        1072.0,
+        1376.0
+      ],
+      "text": "If 7...g4, then 8 d3 with the threat of 9 e3!.",
+      "confidence": 0.9638
+    },
+    {
+      "bbox": [
+        261.0,
+        1381.0,
+        499.9,
+        1427.1
+      ],
+      "text": "8 d3 皇xf2+",
+      "confidence": 0.921
+    },
+    {
+      "bbox": [
+        262.2,
+        1432.1,
+        823.3,
+        1483.3
+      ],
+      "text": "Otherwise White will play 9 f3.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        261.0,
+        1478.3,
+        737.5,
+        1530.7
+      ],
+      "text": "9 Wxf2 Wxf2+ 10 xf2 (D)",
+      "confidence": 0.9536
+    },
+    {
+      "bbox": [
+        526.8,
+        1691.6,
+        552.5,
+        1725.3
+      ],
+      "text": "B",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        261.0,
+        2193.1,
+        384.7,
+        2236.7
+      ],
+      "text": "10...a4",
+      "confidence": 0.999
+    }
+  ]
+}

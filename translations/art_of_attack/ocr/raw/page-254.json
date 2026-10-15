@@ -1,0 +1,280 @@
+{
+  "pdf_page": 254,
+  "printed_page": 254,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "254",
+      "bbox": [
+        286.0,
+        120.0,
+        349.0,
+        151.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        713.0,
+        125.0,
+        1207.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The essential attacking piece here is the bishop on f6 and it should have been",
+      "bbox": [
+        328.0,
+        270.0,
+        1602.0,
+        317.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "eliminated. Therefore the only correct course is l...Ae7! (D).",
+      "bbox": [
+        282.0,
+        320.0,
+        1289.0,
+        368.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4",
+      "bbox": [
+        1062.0,
+        580.0,
+        1077.0,
+        598.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 2 Ae5 (or 2 Axe6 fxe6 3 Vg5 Axf6 4 Vxf6 Vd8 ! and Black is the better",
+      "bbox": [
+        317.0,
+        1020.0,
+        1592.0,
+        1071.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "placed) 2...Ad6 White has nothing better than 3 Af6 and a repetition of moves;",
+      "bbox": [
+        271.0,
+        1071.0,
+        1589.0,
+        1127.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on any other move the elimination of White's dark-squared bishop affords Black",
+      "bbox": [
+        271.0,
+        1126.0,
+        1590.0,
+        1178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a complete defence and the prospect of victory on the basis of his other advan-",
+      "bbox": [
+        270.0,
+        1176.0,
+        1588.0,
+        1223.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tages. Thus after 3 f4 Axe5 4 dxe5 hg7 White has nothing, while he is too weak",
+      "bbox": [
+        269.0,
+        1225.0,
+        1589.0,
+        1277.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for 3 Äxh5? because of 3...gxh5 4 Xxh5 Axe5 5 dxe5 Äd4, whereupon the threat",
+      "bbox": [
+        269.0,
+        1272.0,
+        1588.0,
+        1330.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of ...Qf4+ destroys all his hopes.",
+      "bbox": [
+        268.0,
+        1321.0,
+        813.0,
+        1370.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Before we leave the theme of defence by elimination, the reader must be",
+      "bbox": [
+        312.0,
+        1376.0,
+        1586.0,
+        1426.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "warned of the mistakes which are often made in applying this method. Many",
+      "bbox": [
+        266.0,
+        1427.0,
+        1585.0,
+        1485.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "players defend themselves by endeavouring to exchange all the attacker's ag-",
+      "bbox": [
+        264.0,
+        1477.0,
+        1583.0,
+        1536.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gressive pieces. Such a formula can easily lead to defeat. As a rule, one should",
+      "bbox": [
+        265.0,
+        1528.0,
+        1584.0,
+        1579.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "aim to exchange those pieces which are essential to the execution of the at-",
+      "bbox": [
+        264.0,
+        1578.0,
+        1581.0,
+        1628.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tacker's mating threats, while on the other hand one should preserve those of",
+      "bbox": [
+        263.0,
+        1629.0,
+        1585.0,
+        1683.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "one's own pieces which are carrying out an important defensive function. We",
+      "bbox": [
+        262.0,
+        1680.0,
+        1581.0,
+        1730.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have already seen how important it is to preserve the fianchettoed bishop, and",
+      "bbox": [
+        261.0,
+        1730.0,
+        1580.0,
+        1788.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "much the same can be said for a knight at f6 covering the important square h7.",
+      "bbox": [
+        260.0,
+        1781.0,
+        1564.0,
+        1838.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The king's self-defence",
+      "bbox": [
+        258.0,
+        1886.0,
+        838.0,
+        1941.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "There is a graded scale which can be applied to the king's self-defence starting",
+      "bbox": [
+        257.0,
+        1982.0,
+        1576.0,
+        2042.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "from the so-called consolidating move and ending with the full flight of the king",
+      "bbox": [
+        256.0,
+        2032.0,
+        1576.0,
+        2092.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to the other side of the board. Examples have already been given of the former",
+      "bbox": [
+        255.0,
+        2084.0,
+        1576.0,
+        2137.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "type, so we shall begin with cases where the king is already definitely on the",
+      "bbox": [
+        255.0,
+        2137.0,
+        1574.0,
+        2191.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "move, even though it may only be along the edge of the castling area. The next",
+      "bbox": [
+        253.0,
+        2187.0,
+        1574.0,
+        2239.0
+      ],
+      "confidence": null
+    }
+  ]
+}

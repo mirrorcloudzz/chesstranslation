@@ -1,0 +1,300 @@
+{
+  "pdf_page": 286,
+  "printed_page": 286,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "286",
+      "bbox": [
+        239.0,
+        121.0,
+        303.0,
+        152.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        666.0,
+        124.0,
+        1161.0,
+        164.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "clear, however, that in this kind of situation it is worth looking to see whether the",
+      "bbox": [
+        233.0,
+        875.0,
+        1552.0,
+        919.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sacrifice of a piece will work or not. Indeed, sound logic argues that it must work,",
+      "bbox": [
+        234.0,
+        926.0,
+        1551.0,
+        969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for the whole variation quoted by Alekhine so strengthens Black's position that",
+      "bbox": [
+        233.0,
+        976.0,
+        1552.0,
+        1021.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "it is worth his giving up a knight for two pawns. Above all, White's position is",
+      "bbox": [
+        233.0,
+        1026.0,
+        1552.0,
+        1072.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "exposed as a result of his pawn advances: the thrust d6 leaves him without a",
+      "bbox": [
+        232.0,
+        1077.0,
+        1552.0,
+        1117.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'backbone' in the centre; the reply ...exd6 opens up the e-file and the diagonal",
+      "bbox": [
+        235.0,
+        1126.0,
+        1551.0,
+        1173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "d8-h4, while g5 relinquishes control of the c8-h3 diagonal to Black's c8-bishop.",
+      "bbox": [
+        231.0,
+        1176.0,
+        1549.0,
+        1223.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The sacrifice can take a number of forms, but I shall give the one which seems",
+      "bbox": [
+        230.0,
+        1226.0,
+        1549.0,
+        1271.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "best to me. It runs 13...exd6! 14 a3 mc6 15 g5 Äe8! with the following possibili-",
+      "bbox": [
+        231.0,
+        1275.0,
+        1548.0,
+        1324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ties:",
+      "bbox": [
+        230.0,
+        1327.0,
+        295.0,
+        1357.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l) 16 gxf6 Äxe3 17 fxg7 (or 17 Qd5 Xe5 18 fxg7 Vh4+ 19 Axf5! and",
+      "bbox": [
+        279.0,
+        1376.0,
+        1548.0,
+        1423.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black has a strong attack) 17...Vh4+ 18 (or 18 Axf5) 18...Vh6 19",
+      "bbox": [
+        229.0,
+        1427.0,
+        1467.0,
+        1473.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and Black has excellent chances. He has no need to consent to a draw by",
+      "bbox": [
+        229.0,
+        1480.0,
+        1547.0,
+        1528.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...Vh4+ 20 Éd2 Vh6, but can play for a win with 19...Axf5.",
+      "bbox": [
+        232.0,
+        1524.0,
+        1284.0,
+        1572.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) 16 Ad4 mxd4 17 Qxd4 Qg4 18 f6 Axf6 19 gxf6 Vxf6 20 Afl Vh4+ 21",
+      "bbox": [
+        273.0,
+        1576.0,
+        1543.0,
+        1625.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qe3 22 0f3 Vh6 and Black wins.",
+      "bbox": [
+        315.0,
+        1625.0,
+        886.0,
+        1665.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) 16 An 17 (or 17 f6Qxc3 18 bxc3 Ag4 19 Va5 20 Ad4",
+      "bbox": [
+        273.0,
+        1678.0,
+        1545.0,
+        1727.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "oxd4 21 Vxd4 Vxg5 22 fxg7 Axe2 23 Oxe2 Vg2 and Black wins) 17...Äxe4",
+      "bbox": [
+        226.0,
+        1726.0,
+        1545.0,
+        1778.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18 f6 Ag4 19 Va5+ 20 Vd2 Ve5 21 Vxb2 22 Axg4 xxg4 23 xa2",
+      "bbox": [
+        230.0,
+        1779.0,
+        1545.0,
+        1831.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vb5+ 24 Qe2 (alternatives are 24 Qd3 Vd5 and 24 Vd3 Vxg5) 24...Xe4 25",
+      "bbox": [
+        225.0,
+        1827.0,
+        1543.0,
+        1881.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fxg7 Äxe2 26 Vxe2 Vbl+ with advantage to Black.",
+      "bbox": [
+        225.0,
+        1880.0,
+        1089.0,
+        1928.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Botvinnik must certainly have prepared the move IO...d5 ! in his private analy-",
+      "bbox": [
+        270.0,
+        1935.0,
+        1543.0,
+        1984.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sis and so should have known all the important continuations. He had probably",
+      "bbox": [
+        225.0,
+        1985.0,
+        1544.0,
+        2035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not reckoned with 13 d6?, and when Alekhine confronted him with it, did not",
+      "bbox": [
+        224.0,
+        2036.0,
+        1545.0,
+        2080.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "venture on 13...exd6 but was bluffed into playing the drawing move 13...Vxd6?.",
+      "bbox": [
+        224.0,
+        2087.0,
+        1541.0,
+        2133.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "All great masters, from Homer onwards, have engaged in a little bluff at times.",
+      "bbox": [
+        222.0,
+        2136.0,
+        1533.0,
+        2182.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 Ac5 Vf4!",
+      "bbox": [
+        270.0,
+        2182.0,
+        486.0,
+        2218.0
+      ],
+      "confidence": null
+    }
+  ]
+}

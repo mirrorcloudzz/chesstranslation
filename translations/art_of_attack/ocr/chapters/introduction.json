@@ -1,0 +1,3174 @@
+{
+  "section": {
+    "id": "introduction",
+    "title": "Introduction",
+    "pdf_start": 6,
+    "pdf_end": 13,
+    "print_start": 6,
+    "print_end": 13
+  },
+  "status": "OCR_preparation_not_proofread",
+  "pages": [
+    {
+      "pdf_page": 6,
+      "source_image": "source_pages/page-006.png",
+      "lines": [
+        {
+          "bbox": [
+            352.8,
+            285.7,
+            834.3,
+            358.0
+          ],
+          "text": "Introduction",
+          "confidence": 0.9882,
+          "id": "AA-p006-l001",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            347.9,
+            514.0,
+            1669.9,
+            567.6
+          ],
+          "text": "Action is the essential basis on which the game of chess is founded and any ac-",
+          "confidence": 0.9917,
+          "id": "AA-p006-l002",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            345.5,
+            565.1,
+            1666.2,
+            618.8
+          ],
+          "text": "tion which contains a threat - i.e. attack in its widest sense -- stands out as a prom-",
+          "confidence": 0.9916,
+          "id": "AA-p006-l003",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            345.5,
+            616.3,
+            1668.6,
+            668.6
+          ],
+          "text": "inent feature of the game. To the outside observer, a chess game is dominated by",
+          "confidence": 0.9932,
+          "id": "AA-p006-l004",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            344.3,
+            666.2,
+            1669.9,
+            719.8
+          ],
+          "text": "the conflict between the two players. The ultimate aim of each player is, as a rule,",
+          "confidence": 0.9905,
+          "id": "AA-p006-l005",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            343.0,
+            717.3,
+            1674.8,
+            772.2
+          ],
+          "text": "the mating of the opponent's king, and an action with this aim, whether it is direct",
+          "confidence": 0.9929,
+          "id": "AA-p006-l006",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            345.5,
+            767.2,
+            1669.9,
+            822.1
+          ],
+          "text": "or indirect, is called an attack (in a narrower sense of the word) or a mating at-",
+          "confidence": 0.9883,
+          "id": "AA-p006-l007",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            344.3,
+            820.8,
+            945.8,
+            863.3
+          ],
+          "text": "tack; that is the subject of this book.",
+          "confidence": 0.9898,
+          "id": "AA-p006-l008",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            388.4,
+            867.0,
+            1669.9,
+            921.9
+          ],
+          "text": "Being the most important action in chess and the central element of the game",
+          "confidence": 0.9972,
+          "id": "AA-p006-l009",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            343.0,
+            920.6,
+            1667.4,
+            970.5
+          ],
+          "text": "in ancient times, attack appears at all stages of the game's development and in",
+          "confidence": 0.9943,
+          "id": "AA-p006-l010",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            343.0,
+            969.3,
+            1669.9,
+            1020.4
+          ],
+          "text": "various forms of perfection. Moreover, it can be said that the reforms which have",
+          "confidence": 0.9874,
+          "id": "AA-p006-l011",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            341.8,
+            1014.2,
+            1669.9,
+            1075.3
+          ],
+          "text": "been made in the rules of chess have always been in the direction of increasing",
+          "confidence": 0.9938,
+          "id": "AA-p006-l012",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            341.8,
+            1070.3,
+            1073.2,
+            1117.7
+          ],
+          "text": "and stimulating the opportunities for attack.",
+          "confidence": 0.9878,
+          "id": "AA-p006-l013",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            383.5,
+            1119.0,
+            1666.2,
+            1173.9
+          ],
+          "text": "The great reform of c. 1485, which created modern European chess, was par-",
+          "confidence": 0.9772,
+          "id": "AA-p006-l014",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            340.6,
+            1167.6,
+            1671.1,
+            1228.8
+          ],
+          "text": "ticularly responsible for opening up new opportunities for attack and ushered in a",
+          "confidence": 0.9895,
+          "id": "AA-p006-l015",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            340.6,
+            1222.5,
+            1667.4,
+            1272.4
+          ],
+          "text": "period of rich development in chess technique. For three centuries of chess his-",
+          "confidence": 0.998,
+          "id": "AA-p006-l016",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            340.6,
+            1269.9,
+            1668.6,
+            1327.3
+          ],
+          "text": "tory, attack predominated over defence in the practice of the great players, and",
+          "confidence": 0.9892,
+          "id": "AA-p006-l017",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            339.4,
+            1321.1,
+            1667.4,
+            1376.0
+          ],
+          "text": "mastery at that time meant skill in conducting an attack. Only with Philidor did",
+          "confidence": 0.981,
+          "id": "AA-p006-l018",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            339.4,
+            1369.7,
+            1667.4,
+            1429.6
+          ],
+          "text": "the first positional ideas appear, and with them more mature defensive strategies;",
+          "confidence": 0.9951,
+          "id": "AA-p006-l019",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            338.1,
+            1420.9,
+            1439.5,
+            1474.5
+          ],
+          "text": "these were to find in Steinitz a century later a legislator of genius.",
+          "confidence": 0.9949,
+          "id": "AA-p006-l020",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            381.0,
+            1472.0,
+            1666.2,
+            1528.2
+          ],
+          "text": "During the classic era of chess from Morphy to Steinitz and on to Lasker the",
+          "confidence": 0.99,
+          "id": "AA-p006-l021",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            339.4,
+            1523.2,
+            1661.3,
+            1576.8
+          ],
+          "text": "value placed on attack gradually decreased, for with greater positional under-",
+          "confidence": 0.9876,
+          "id": "AA-p006-l022",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            338.1,
+            1574.3,
+            1663.7,
+            1626.7
+          ],
+          "text": "standing the foundations were also provided for the perfection of defensive",
+          "confidence": 0.9975,
+          "id": "AA-p006-l023",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            336.9,
+            1623.0,
+            1663.7,
+            1679.1
+          ],
+          "text": "technique. This, however, was followed by a new period in which Capablanca,",
+          "confidence": 0.9979,
+          "id": "AA-p006-l024",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            338.1,
+            1674.1,
+            1663.7,
+            1730.3
+          ],
+          "text": "and particularly Alekhine, perfected the technique of attack, above all that of the",
+          "confidence": 0.9928,
+          "id": "AA-p006-l025",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            336.9,
+            1726.5,
+            1662.5,
+            1778.9
+          ],
+          "text": "attack on the castled position, founded on exact positional play. With Alekhine",
+          "confidence": 0.995,
+          "id": "AA-p006-l026",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            334.5,
+            1775.2,
+            1662.5,
+            1831.3
+          ],
+          "text": "the aggressive and dynamic style of play reached a zenith; in the period which",
+          "confidence": 0.9985,
+          "id": "AA-p006-l027",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            333.2,
+            1825.1,
+            1665.0,
+            1882.4
+          ],
+          "text": "followed the tide again turned away gradually from the risks of the direct attack",
+          "confidence": 0.9826,
+          "id": "AA-p006-l028",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            333.2,
+            1876.2,
+            1657.6,
+            1932.3
+          ],
+          "text": "in search of new paths. The main reason for this is not to be found in any weak-",
+          "confidence": 0.9862,
+          "id": "AA-p006-l029",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            334.5,
+            1928.6,
+            1660.1,
+            1982.2
+          ],
+          "text": "ness inherent in the attacking style, but in the simple fact that, given the condi-",
+          "confidence": 0.9957,
+          "id": "AA-p006-l030",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            335.7,
+            1978.5,
+            1658.8,
+            2032.1
+          ],
+          "text": "tions of present-day tournaments, it is more profitable and advantageous to make",
+          "confidence": 0.9913,
+          "id": "AA-p006-l031",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            334.5,
+            2028.4,
+            1660.1,
+            2084.5
+          ],
+          "text": "a study of openings. Now, it must be understood that the present theory of open-",
+          "confidence": 0.9965,
+          "id": "AA-p006-l032",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            333.2,
+            2078.3,
+            1658.8,
+            2134.4
+          ],
+          "text": "ings represents a detailed development of Nimzowitsch's ideas concerning the",
+          "confidence": 0.9936,
+          "id": "AA-p006-l033",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            333.2,
+            2128.2,
+            1657.6,
+            2185.6
+          ],
+          "text": "central squares. There are still many gaps to be filled and there is a wealth of op-",
+          "confidence": 0.983,
+          "id": "AA-p006-l034",
+          "pdf_page": 6,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            328.3,
+            2178.1,
+            1660.1,
+            2235.5
+          ],
+          "text": "portunity for innovation; as a result, great masters are inclined to concern",
+          "confidence": 0.9919,
+          "id": "AA-p006-l035",
+          "pdf_page": 6,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": []
+    },
+    {
+      "pdf_page": 7,
+      "source_image": "source_pages/page-007.png",
+      "lines": [
+        {
+          "bbox": [
+            236.5,
+            270.7,
+            1560.8,
+            320.6
+          ],
+          "text": "themselves intensively with openings and to opt for a 'safety-first’ style. When",
+          "confidence": 0.9857,
+          "id": "AA-p007-l002",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            234.0,
+            320.6,
+            1563.3,
+            373.0
+          ],
+          "text": "this source of opening innovations begins to dry up, the problem of attack will",
+          "confidence": 0.9974,
+          "id": "AA-p007-l003",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            235.2,
+            373.0,
+            1559.6,
+            420.4
+          ],
+          "text": "present itself once more. The time may even come when the principles on which",
+          "confidence": 0.9867,
+          "id": "AA-p007-l004",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            236.5,
+            424.1,
+            1560.8,
+            469.1
+          ],
+          "text": "Alekhine built up his attacks will be completely understood, and those ideas",
+          "confidence": 0.9894,
+          "id": "AA-p007-l005",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            237.7,
+            476.5,
+            1560.8,
+            517.7
+          ],
+          "text": "which in the case of Alekhine had the appearance of a spark of genius will take",
+          "confidence": 0.9856,
+          "id": "AA-p007-l006",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            236.5,
+            522.7,
+            1563.3,
+            571.3
+          ],
+          "text": "on the more approachable aspect of attacking technique. It will be more conve-",
+          "confidence": 0.9988,
+          "id": "AA-p007-l007",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            236.5,
+            575.1,
+            1560.8,
+            617.5
+          ],
+          "text": "nient to discuss these questions at the end of the book. At this point it should be",
+          "confidence": 0.9923,
+          "id": "AA-p007-l008",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            237.7,
+            623.7,
+            1564.5,
+            672.4
+          ],
+          "text": "enough to point out that there exists an extremely large group of chess players,",
+          "confidence": 0.9926,
+          "id": "AA-p007-l009",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            237.7,
+            673.6,
+            1564.5,
+            722.3
+          ],
+          "text": "who are no longer beginners nor, on the other hand, masters or point-hunters, but",
+          "confidence": 0.9916,
+          "id": "AA-p007-l010",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            236.5,
+            723.5,
+            1563.3,
+            772.2
+          ],
+          "text": "players who aim primarily at deriving an aesthetic satisfaction from the game.",
+          "confidence": 0.9793,
+          "id": "AA-p007-l011",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            235.2,
+            774.7,
+            1560.8,
+            822.1
+          ],
+          "text": "For such players an attacking game is more attractive than positional technique",
+          "confidence": 0.9914,
+          "id": "AA-p007-l012",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            238.9,
+            827.1,
+            1563.3,
+            870.7
+          ],
+          "text": "and they will continue to attack regardless of risk, for their stormy contests are",
+          "confidence": 0.9929,
+          "id": "AA-p007-l013",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            235.2,
+            870.7,
+            1564.5,
+            928.1
+          ],
+          "text": "not going to be noted down in theoretical textbooks. So why should such play-",
+          "confidence": 0.9925,
+          "id": "AA-p007-l014",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            236.5,
+            925.6,
+            1562.1,
+            973.0
+          ],
+          "text": "ers not become acquainted with the general principles of attack and why should",
+          "confidence": 0.9871,
+          "id": "AA-p007-l015",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            237.7,
+            978.0,
+            1565.7,
+            1022.9
+          ],
+          "text": "they not perfect themselves in that style of chess with which they are most at",
+          "confidence": 0.9821,
+          "id": "AA-p007-l016",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            235.2,
+            1030.4,
+            354.1,
+            1069.1
+          ],
+          "text": "home?",
+          "confidence": 0.9988,
+          "id": "AA-p007-l017",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            236.5,
+            1134.0,
+            822.1,
+            1186.4
+          ],
+          "text": "Various kinds of attack",
+          "confidence": 0.9656,
+          "id": "AA-p007-l018",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            237.7,
+            1225.0,
+            1564.5,
+            1274.9
+          ],
+          "text": "We have said that we shall deal with attack in its narrower, or proper, sense,",
+          "confidence": 0.9867,
+          "id": "AA-p007-l019",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            240.1,
+            1281.2,
+            1562.1,
+            1322.3
+          ],
+          "text": "where it involves a direct or indirect threat to the opponent's king. Attacks of this",
+          "confidence": 0.988,
+          "id": "AA-p007-l020",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            235.2,
+            1328.6,
+            1303.6,
+            1373.5
+          ],
+          "text": "kind can be distinguished according to the following categories.",
+          "confidence": 0.9865,
+          "id": "AA-p007-l021",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            283.0,
+            1377.2,
+            1560.8,
+            1425.9
+          ],
+          "text": "1) The main action is not in fact an attack on the king, but there is the possibil-",
+          "confidence": 0.9934,
+          "id": "AA-p007-l022",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            237.7,
+            1430.9,
+            1563.3,
+            1477.0
+          ],
+          "text": "ity of such an attack latent in the position; some threat or other is being nurtured,",
+          "confidence": 0.9973,
+          "id": "AA-p007-l023",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            240.1,
+            1485.7,
+            1145.5,
+            1523.2
+          ],
+          "text": "Or else the attack is concealed in at least one variation.",
+          "confidence": 0.9896,
+          "id": "AA-p007-l024",
+          "pdf_page": 7,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            278.1,
+            1530.7,
+            1171.2,
+            1578.1
+          ],
+          "text": "Let us take the following position as an example (D):",
+          "confidence": 0.9974,
+          "id": "AA-p007-l025",
+          "pdf_page": 7,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p007-fig01"
+      ]
+    },
+    {
+      "pdf_page": 8,
+      "source_image": "source_pages/page-008.png",
+      "lines": [
+        {
+          "bbox": [
+            330.8,
+            268.2,
+            1613.5,
+            323.1
+          ],
+          "text": "Here White makes the normal positional move 1 d4, which obviously does not",
+          "confidence": 0.9946,
+          "id": "AA-p008-l003",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            283.0,
+            320.6,
+            1613.5,
+            373.0
+          ],
+          "text": "represent an attack against the black king; but in one variation it contains the ele-",
+          "confidence": 0.9984,
+          "id": "AA-p008-l004",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            283.0,
+            369.3,
+            1613.5,
+            424.1
+          ],
+          "text": "ments of mate. That is, if Black is careless, and plays for example 1...&b7?, there",
+          "confidence": 0.9706,
+          "id": "AA-p008-l005",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            283.0,
+            416.7,
+            1611.1,
+            474.0
+          ],
+          "text": "then follows 2 dxc5, and Black has lost a pawn, since 2..xc5? is answered by 3",
+          "confidence": 0.9838,
+          "id": "AA-p008-l006",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            283.0,
+            462.8,
+            1274.1,
+            526.4
+          ],
+          "text": "Wd4, attacking the knight and also threatening mate on g7.",
+          "confidence": 0.9952,
+          "id": "AA-p008-l007",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            329.6,
+            514.0,
+            1611.1,
+            580.1
+          ],
+          "text": "2) A player's action really does contain a direct threat to his opponent's king,",
+          "confidence": 0.9833,
+          "id": "AA-p008-l008",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            285.5,
+            566.4,
+            1612.3,
+            630.0
+          ],
+          "text": "but his opponent can stave off this threat at a certain price, e.g. by giving up ma-",
+          "confidence": 0.9889,
+          "id": "AA-p008-l009",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            286.7,
+            618.8,
+            782.9,
+            667.4
+          ],
+          "text": "terial or spoiling his position.",
+          "confidence": 0.96,
+          "id": "AA-p008-l010",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            325.9,
+            666.2,
+            1611.1,
+            731.0
+          ],
+          "text": "The vast majority of attacks in fact fall into this very wide category. A simple",
+          "confidence": 0.9902,
+          "id": "AA-p008-l011",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            287.9,
+            721.0,
+            846.6,
+            769.7
+          ],
+          "text": "example is given by this position:",
+          "confidence": 0.9867,
+          "id": "AA-p008-l012",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            321.0,
+            1419.6,
+            1601.3,
+            1488.2
+          ],
+          "text": "White plays 1 g5, carrying out an attack on h7. Black has three practical al-",
+          "confidence": 0.9941,
+          "id": "AA-p008-l014",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review",
+            "possible_file_square_1_l_confusion"
+          ]
+        },
+        {
+          "bbox": [
+            273.2,
+            1470.8,
+            1607.4,
+            1533.2
+          ],
+          "text": "ternatives 1..g6, 1...f6, and 1..f8. If 1...g6, then 2 e4 with the threat of",
+          "confidence": 0.9765,
+          "id": "AA-p008-l015",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            270.8,
+            1516.9,
+            1606.2,
+            1593.0
+          ],
+          "text": "Dd6, which gains a tempo; however, White's main plan will be a further attack",
+          "confidence": 0.9734,
+          "id": "AA-p008-l016",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            272.0,
+            1569.3,
+            1601.3,
+            1639.2
+          ],
+          "text": "based on the weaknesses on the dark squares in the region of the king arising",
+          "confidence": 0.9906,
+          "id": "AA-p008-l017",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            270.8,
+            1624.2,
+            613.8,
+            1672.9
+          ],
+          "text": "from the move ...g6.",
+          "confidence": 0.9751,
+          "id": "AA-p008-l018",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            314.9,
+            1671.6,
+            1601.3,
+            1739.0
+          ],
+          "text": "If 1...f6, White will no doubt again continue his attacking play, e.g. with 2",
+          "confidence": 0.9796,
+          "id": "AA-p008-l019",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            272.0,
+            1721.5,
+            1600.0,
+            1790.1
+          ],
+          "text": "&f4, preparing for Qe5. However, on 1...f8, attacking play does not promise",
+          "confidence": 0.9656,
+          "id": "AA-p008-l020",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            268.3,
+            1775.2,
+            1598.8,
+            1840.0
+          ],
+          "text": "success, and White will be content with a positional alternative, playing 2 e4.",
+          "confidence": 0.9942,
+          "id": "AA-p008-l021",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            267.1,
+            1823.8,
+            1602.5,
+            1889.9
+          ],
+          "text": "Then Black cannot really prevent 3 c5, after which the knight will have a",
+          "confidence": 0.9968,
+          "id": "AA-p008-l022",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            268.3,
+            1878.7,
+            1461.6,
+            1937.3
+          ],
+          "text": "strong position on c5 and the black bishop will be poorly placed on b7.",
+          "confidence": 0.995,
+          "id": "AA-p008-l023",
+          "pdf_page": 8,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            313.6,
+            1928.6,
+            1597.6,
+            1991.0
+          ],
+          "text": "3) The attacker carries out an uncompromising mating attack, in which he",
+          "confidence": 0.9867,
+          "id": "AA-p008-l024",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            268.3,
+            1978.5,
+            1601.3,
+            2039.6
+          ],
+          "text": "can invest even a considerable amount of material, as long as he is certain of",
+          "confidence": 0.9942,
+          "id": "AA-p008-l025",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            270.8,
+            2032.1,
+            573.4,
+            2073.3
+          ],
+          "text": "mating in the end.",
+          "confidence": 0.9975,
+          "id": "AA-p008-l026",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            312.4,
+            2079.5,
+            1064.6,
+            2131.9
+          ],
+          "text": "This is the third and highest degree of attack.",
+          "confidence": 0.9838,
+          "id": "AA-p008-l027",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            313.6,
+            2130.7,
+            1595.1,
+            2188.1
+          ],
+          "text": "We can categorize attack in another way if we take castling into account. Thus",
+          "confidence": 0.9846,
+          "id": "AA-p008-l028",
+          "pdf_page": 8,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            268.3,
+            2179.3,
+            420.2,
+            2223.0
+          ],
+          "text": "we have:",
+          "confidence": 0.9976,
+          "id": "AA-p008-l029",
+          "pdf_page": 8,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p008-fig01"
+      ]
+    },
+    {
+      "pdf_page": 9,
+      "source_image": "source_pages/page-009.png",
+      "lines": [
+        {
+          "bbox": [
+            280.6,
+            270.7,
+            1529.0,
+            320.6
+          ],
+          "text": "1) Attack before castling, i.e. against a king which has not yet castled, and",
+          "confidence": 0.9982,
+          "id": "AA-p009-l003",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            280.6,
+            325.6,
+            855.1,
+            370.5
+          ],
+          "text": "2) Attack against the castled king.",
+          "confidence": 0.9882,
+          "id": "AA-p009-l004",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            278.1,
+            369.3,
+            1560.8,
+            421.6
+          ],
+          "text": "Attack can also be divided on the basis of so-called mating patterns; of focal-",
+          "confidence": 0.99,
+          "id": "AA-p009-l005",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            234.0,
+            420.4,
+            1560.8,
+            471.5
+          ],
+          "text": "points; of basic formations of pieces, files, ranks, and diagonals; of basic sacri-",
+          "confidence": 0.9917,
+          "id": "AA-p009-l006",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            234.0,
+            470.3,
+            1560.8,
+            521.4
+          ],
+          "text": "fices; as well as by the stage which the attack has reached. These divisions ac-",
+          "confidence": 0.9852,
+          "id": "AA-p009-l007",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            236.5,
+            522.7,
+            1562.1,
+            571.3
+          ],
+          "text": "cording to the spatial, material, and temporal aspects of an attack will help us",
+          "confidence": 0.9896,
+          "id": "AA-p009-l008",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            238.9,
+            573.8,
+            1329.3,
+            621.2
+          ],
+          "text": "arrange the material so as to reveal the part played by each factor.",
+          "confidence": 0.9992,
+          "id": "AA-p009-l009",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            237.7,
+            683.6,
+            894.4,
+            737.3
+          ],
+          "text": "The basic pattern of mate",
+          "confidence": 0.9873,
+          "id": "AA-p009-l010",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            235.2,
+            775.9,
+            1560.8,
+            820.8
+          ],
+          "text": "For mate to be obtained, the king must be deprived of nine squares if it is in the",
+          "confidence": 0.9926,
+          "id": "AA-p009-l011",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            236.5,
+            824.6,
+            1564.5,
+            873.2
+          ],
+          "text": "middle of the board, six squares if it is on the edge, or four if it is in the corner.",
+          "confidence": 0.9862,
+          "id": "AA-p009-l012",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            235.2,
+            875.7,
+            1565.7,
+            923.1
+          ],
+          "text": "Some of these squares may be blocked by the king's own supporting pieces, but",
+          "confidence": 0.9887,
+          "id": "AA-p009-l013",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            236.5,
+            928.1,
+            1564.5,
+            970.5
+          ],
+          "text": "the rest must be taken by the attacker through the agency of his own pieces or",
+          "confidence": 0.9839,
+          "id": "AA-p009-l014",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            235.2,
+            976.8,
+            1560.8,
+            1024.2
+          ],
+          "text": "pawns. If all the squares surrounding the king are taken from it -- some through",
+          "confidence": 0.9882,
+          "id": "AA-p009-l015",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            235.2,
+            1024.2,
+            1564.5,
+            1075.3
+          ],
+          "text": "being blocked, others by being ‘in check' - and if the square on which the king",
+          "confidence": 0.9745,
+          "id": "AA-p009-l016",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            237.7,
+            1080.3,
+            1559.6,
+            1121.5
+          ],
+          "text": "stands is also in check and without means of defence, then the king is check-",
+          "confidence": 0.9995,
+          "id": "AA-p009-l017",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            238.9,
+            1130.2,
+            1562.1,
+            1170.1
+          ],
+          "text": "mated. This is well known, and it seems rather banal to start out from this basic",
+          "confidence": 0.9961,
+          "id": "AA-p009-l018",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            234.0,
+            1177.6,
+            1559.6,
+            1225.0
+          ],
+          "text": "pattern or anatomy of mate; but in fact certain elementary rules can be formu-",
+          "confidence": 0.9942,
+          "id": "AA-p009-l019",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            237.7,
+            1233.8,
+            633.4,
+            1271.2
+          ],
+          "text": "lated only on this basis.",
+          "confidence": 0.9873,
+          "id": "AA-p009-l020",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            279.3,
+            1276.2,
+            1560.8,
+            1324.8
+          ],
+          "text": "In the next position Black, to move, is unable to avoid mate in 4 different vari-",
+          "confidence": 0.9943,
+          "id": "AA-p009-l021",
+          "pdf_page": 9,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            237.7,
+            1333.6,
+            350.4,
+            1372.2
+          ],
+          "text": "ations.",
+          "confidence": 0.9996,
+          "id": "AA-p009-l022",
+          "pdf_page": 9,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            280.6,
+            2032.1,
+            1564.5,
+            2084.5
+          ],
+          "text": "He is threatened by 2 g7# (first mating pattern). If he plays 1..f6, there fol-",
+          "confidence": 0.9779,
+          "id": "AA-p009-l024",
+          "pdf_page": 9,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            235.2,
+            2083.3,
+            1567.0,
+            2134.4
+          ],
+          "text": "lows 2 g7# (second mating pattern); moving the knight leads to 2 We6# (third",
+          "confidence": 0.9947,
+          "id": "AA-p009-l025",
+          "pdf_page": 9,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            237.7,
+            2134.4,
+            1567.0,
+            2185.6
+          ],
+          "text": "mating pattern); while if 1...gxf5, we get 2 g7+ e4 3 Wxd4# (fourth mating",
+          "confidence": 0.9916,
+          "id": "AA-p009-l026",
+          "pdf_page": 9,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            237.7,
+            2188.1,
+            384.7,
+            2235.5
+          ],
+          "text": "pattern).",
+          "confidence": 0.9987,
+          "id": "AA-p009-l027",
+          "pdf_page": 9,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p009-fig01"
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "source_image": "source_pages/page-010.png",
+      "lines": [
+        {
+          "bbox": [
+            274.4,
+            275.7,
+            1553.5,
+            328.1
+          ],
+          "text": "The final or mating position is called the mating pattern, and this term is espe-",
+          "confidence": 0.9883,
+          "id": "AA-p010-l003",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            230.3,
+            329.3,
+            1553.5,
+            375.5
+          ],
+          "text": "cially useful when such a pattern is worth remembering. A mating pattern can be",
+          "confidence": 0.9784,
+          "id": "AA-p010-l004",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            229.1,
+            379.2,
+            1554.7,
+            429.1
+          ],
+          "text": "typical (i.e. one which frequently occurs) or atypical. We call a mate (or mating",
+          "confidence": 0.9893,
+          "id": "AA-p010-l005",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            229.1,
+            429.1,
+            1553.5,
+            476.5
+          ],
+          "text": "pattern) pure if none of the squares concerned is covered by two or more attack-",
+          "confidence": 0.9927,
+          "id": "AA-p010-l006",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            226.7,
+            474.0,
+            1557.2,
+            528.9
+          ],
+          "text": "ing units. Thus 1...e2 2 We6 is a pure mate, whereas 1...f6 2 &g7 is not,",
+          "confidence": 0.9613,
+          "id": "AA-p010-l007",
+          "pdf_page": 10,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            226.7,
+            527.7,
+            1555.9,
+            576.3
+          ],
+          "text": "though it would be if we were to remove the bishop on f5. Pure mates are valued",
+          "confidence": 0.9964,
+          "id": "AA-p010-l008",
+          "pdf_page": 10,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            227.9,
+            577.6,
+            1248.4,
+            627.5
+          ],
+          "text": "in chess problems, but in practical play they are unimportant.",
+          "confidence": 0.9924,
+          "id": "AA-p010-l009",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            269.5,
+            627.5,
+            1554.7,
+            678.6
+          ],
+          "text": "In the mating patterns which we have seen, some of the black king's flight",
+          "confidence": 0.9942,
+          "id": "AA-p010-l010",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            229.1,
+            678.6,
+            1552.3,
+            729.8
+          ],
+          "text": "squares have been blocked by its own pieces, while the rest have been covered by",
+          "confidence": 0.9931,
+          "id": "AA-p010-l011",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            227.9,
+            726.0,
+            1554.7,
+            783.4
+          ],
+          "text": "the opponent's forces. The sum of these combined factors is known as a mating",
+          "confidence": 0.9907,
+          "id": "AA-p010-l012",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            226.7,
+            787.2,
+            291.6,
+            824.6
+          ],
+          "text": "net.",
+          "confidence": 0.9987,
+          "id": "AA-p010-l013",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            231.6,
+            887.0,
+            1000.9,
+            944.3
+          ],
+          "text": "Mating square and focal-point",
+          "confidence": 0.9961,
+          "id": "AA-p010-l014",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            226.7,
+            980.5,
+            1554.7,
+            1031.7
+          ],
+          "text": "The mating square is that on which the king stands when it is mated, and the mat-",
+          "confidence": 0.9812,
+          "id": "AA-p010-l015",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            226.7,
+            1032.9,
+            1553.5,
+            1082.8
+          ],
+          "text": "ing focal-point is that from which an opponent's piece (other than a king, knight",
+          "confidence": 0.9833,
+          "id": "AA-p010-l016",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            227.9,
+            1082.8,
+            1552.3,
+            1132.7
+          ],
+          "text": "or pawn) mates the king at close quarters. Thus in the above diagram, after",
+          "confidence": 0.9915,
+          "id": "AA-p010-l017",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            229.1,
+            1129.0,
+            1554.7,
+            1183.9
+          ],
+          "text": "1...e2 the focal-point is e6, since it is from there that the queen mates at close",
+          "confidence": 0.9921,
+          "id": "AA-p010-l018",
+          "pdf_page": 10,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            1180.1,
+            1553.5,
+            1235.0
+          ],
+          "text": "quarters. Similarly, after 1...gxf5 2 &g7+ e4 the queen mates at close quarters",
+          "confidence": 0.9751,
+          "id": "AA-p010-l019",
+          "pdf_page": 10,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            1230.0,
+            1551.0,
+            1286.2
+          ],
+          "text": "from d4, and that square is then the focal-point. However, if Black plays, for in-",
+          "confidence": 0.9942,
+          "id": "AA-p010-l020",
+          "pdf_page": 10,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            1281.2,
+            1549.8,
+            1334.8
+          ],
+          "text": "stance, 1...c3 and is answered by 2 &g7#, then we are dealing with a bishop at-",
+          "confidence": 0.9914,
+          "id": "AA-p010-l021",
+          "pdf_page": 10,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            226.7,
+            1334.8,
+            1350.1,
+            1382.2
+          ],
+          "text": "tacking from a distance, and here the term ‘focal-point' is not used.",
+          "confidence": 0.9852,
+          "id": "AA-p010-l022",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            268.3,
+            1384.7,
+            1549.8,
+            1438.3
+          ],
+          "text": "To carry out a mating attack successfully it is always useful to survey the pos-",
+          "confidence": 0.997,
+          "id": "AA-p010-l023",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            223.0,
+            1433.4,
+            1552.3,
+            1492.0
+          ],
+          "text": "sible mating patterns, to prepare a mating net accordingly, and to concentrate on",
+          "confidence": 0.9913,
+          "id": "AA-p010-l024",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            225.4,
+            1485.7,
+            1547.4,
+            1536.9
+          ],
+          "text": "the focal-point. In this connection it is in many cases important to clear the fo-",
+          "confidence": 0.9869,
+          "id": "AA-p010-l025",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            224.2,
+            1536.9,
+            1549.8,
+            1589.3
+          ],
+          "text": "cal-point, that is to deprive any opposing pieces of their control over a square",
+          "confidence": 0.9935,
+          "id": "AA-p010-l026",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            225.4,
+            1585.5,
+            960.5,
+            1633.0
+          ],
+          "text": "which would be convenient as a focal-point.",
+          "confidence": 0.9969,
+          "id": "AA-p010-l027",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            268.3,
+            1635.4,
+            1214.1,
+            1687.8
+          ],
+          "text": "The following diagram shows us an example of this (D):",
+          "confidence": 0.9986,
+          "id": "AA-p010-l028",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            269.5,
+            1689.1,
+            1548.6,
+            1737.7
+          ],
+          "text": "White, to move, observes correctly that the square d4 is a potential focal-point",
+          "confidence": 0.9898,
+          "id": "AA-p010-l029",
+          "pdf_page": 10,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            224.2,
+            1736.5,
+            1544.9,
+            1790.1
+          ],
+          "text": "and that his queen could mate from there, if it were not for its being controlled by",
+          "confidence": 0.9834,
+          "id": "AA-p010-l030",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            224.2,
+            1788.9,
+            1382.0,
+            1837.5
+          ],
+          "text": "Black's knight and bishop. So he clears the focal-point d4 as follows:",
+          "confidence": 0.9901,
+          "id": "AA-p010-l031",
+          "pdf_page": 10,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            263.4,
+            1835.0,
+            1548.6,
+            1891.2
+          ],
+          "text": "1 xe2 (eliminating the knight) 1..dxe2 (if 1..d5, then 2 f4#; if 1...Wc1",
+          "confidence": 0.9455,
+          "id": "AA-p010-l032",
+          "pdf_page": 10,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            220.5,
+            1880.0,
+            1549.8,
+            1948.6
+          ],
+          "text": "then 2 Wd4#, or if 1..f4, then 2 Wd4+ f5 3 Wf6#) 2 f4+ (forcing the bishop",
+          "confidence": 0.9635,
+          "id": "AA-p010-l033",
+          "pdf_page": 10,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            225.4,
+            1942.3,
+            774.3,
+            1983.5
+          ],
+          "text": "away from d4) 2...xf4 3 Wd4#.",
+          "confidence": 0.9209,
+          "id": "AA-p010-l034",
+          "pdf_page": 10,
+          "review_flags": [
+            "chess_notation_review"
+          ]
+        },
+        {
+          "bbox": [
+            265.9,
+            1991.0,
+            1549.8,
+            2044.6
+          ],
+          "text": "Many readers will object that the patterns of mating attack shown here are so",
+          "confidence": 0.9909,
+          "id": "AA-p010-l035",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            224.2,
+            2042.1,
+            1551.0,
+            2092.0
+          ],
+          "text": "obvious, indeed banal, that they need not even have been mentioned. However, I",
+          "confidence": 0.991,
+          "id": "AA-p010-l036",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            223.0,
+            2093.3,
+            1551.0,
+            2143.2
+          ],
+          "text": "think it is useful to strengthen just this simple kind of knowledge, since in fact",
+          "confidence": 0.9891,
+          "id": "AA-p010-l037",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            223.0,
+            2143.2,
+            1551.0,
+            2191.8
+          ],
+          "text": "there are many mistakes made precisely in this field. Here are a few instances of",
+          "confidence": 0.9807,
+          "id": "AA-p010-l038",
+          "pdf_page": 10,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            223.0,
+            2193.1,
+            846.6,
+            2241.7
+          ],
+          "text": "mistakes concerning mating patterns.",
+          "confidence": 0.9782,
+          "id": "AA-p010-l039",
+          "pdf_page": 10,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": []
+    },
+    {
+      "pdf_page": 11,
+      "source_image": "source_pages/page-011.png",
+      "lines": [
+        {
+          "bbox": [
+            242.6,
+            878.2,
+            1564.5,
+            923.1
+          ],
+          "text": ". The attacker fails to perceive that he can neither stop his opponent from mov-",
+          "confidence": 0.9816,
+          "id": "AA-p011-l004",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            283.0,
+            926.9,
+            1568.2,
+            974.3
+          ],
+          "text": "ing his king nor drive him into a mating net, but still plays for mate. Such a",
+          "confidence": 0.9917,
+          "id": "AA-p011-l005",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            981.8,
+            1562.1,
+            1022.9
+          ],
+          "text": "course of action is naturally futile, and though it may possibly produce perpet-",
+          "confidence": 0.9958,
+          "id": "AA-p011-l006",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            285.5,
+            1034.2,
+            860.0,
+            1071.6
+          ],
+          "text": "ual check, it cannot produce mate.",
+          "confidence": 0.9842,
+          "id": "AA-p011-l007",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            278.1,
+            1081.6,
+            1565.7,
+            1126.5
+          ],
+          "text": " The attacker plays on the basis of typical mating patterns, overlooking the pos-",
+          "confidence": 0.9867,
+          "id": "AA-p011-l008",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            1131.5,
+            1208.0,
+            1173.9
+          ],
+          "text": "sibility of an ‘atypical' one in a particular continuation.",
+          "confidence": 0.9739,
+          "id": "AA-p011-l009",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            279.3,
+            1181.4,
+            1567.0,
+            1223.8
+          ],
+          "text": "The player sees all the possible mating patterns based on one focal-point, but",
+          "confidence": 0.9914,
+          "id": "AA-p011-l010",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            285.5,
+            1233.8,
+            1568.2,
+            1271.2
+          ],
+          "text": "fails to realize that all this is cancelled out when the king moves, and that what",
+          "confidence": 0.9749,
+          "id": "AA-p011-l011",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            279.3,
+            1279.9,
+            1557.2,
+            1327.3
+          ],
+          "text": "matters then are new mating patterns, for which he has not made preparations.",
+          "confidence": 0.9954,
+          "id": "AA-p011-l012",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            279.3,
+            1332.3,
+            1564.5,
+            1374.7
+          ],
+          "text": "The player decides on a course of action based on a certain focal-point, with-",
+          "confidence": 0.9833,
+          "id": "AA-p011-l013",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            1382.2,
+            1568.2,
+            1425.9
+          ],
+          "text": "out realizing that he cannot provide cover for it or even clear it of the influence",
+          "confidence": 0.9943,
+          "id": "AA-p011-l014",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            1432.1,
+            1568.2,
+            1477.0
+          ],
+          "text": "of his opponent's pieces. Mistakes made in the selection of a focal-point will",
+          "confidence": 0.9847,
+          "id": "AA-p011-l015",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            281.8,
+            1484.5,
+            998.5,
+            1526.9
+          ],
+          "text": "be found even in the games of the masters.",
+          "confidence": 0.9933,
+          "id": "AA-p011-l016",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            287.9,
+            1536.9,
+            1565.7,
+            1578.1
+          ],
+          "text": "So it is useful to get to know the general pattern and structure of mating; less",
+          "confidence": 0.9828,
+          "id": "AA-p011-l017",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            242.6,
+            1584.3,
+            1569.4,
+            1630.5
+          ],
+          "text": "experienced players are especially recommended to study games to see whether",
+          "confidence": 0.9945,
+          "id": "AA-p011-l018",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            240.1,
+            1629.2,
+            1569.4,
+            1685.3
+          ],
+          "text": "a player has made a mistake with regard to the pattern and, if so, where he has",
+          "confidence": 0.9891,
+          "id": "AA-p011-l019",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            241.4,
+            1685.3,
+            377.3,
+            1730.3
+          ],
+          "text": "made it.",
+          "confidence": 0.9994,
+          "id": "AA-p011-l020",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            241.4,
+            1791.4,
+            956.8,
+            1848.8
+          ],
+          "text": "The art of the mating attack",
+          "confidence": 0.9784,
+          "id": "AA-p011-l021",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            242.6,
+            1887.4,
+            1567.0,
+            1929.9
+          ],
+          "text": "We must now make some finer distinctions, and put a series of questions which",
+          "confidence": 0.994,
+          "id": "AA-p011-l022",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            243.8,
+            1942.3,
+            1567.0,
+            1979.8
+          ],
+          "text": "arise out of the basic conceptions of a mating attack, and which at the same time",
+          "confidence": 0.9925,
+          "id": "AA-p011-l023",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            240.1,
+            1988.5,
+            1397.9,
+            2032.1
+          ],
+          "text": "also touch on the most difficult departments of the art of chess today.",
+          "confidence": 0.9914,
+          "id": "AA-p011-l024",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            2037.1,
+            1569.4,
+            2083.3
+          ],
+          "text": "How does a mating attack relate to the other operations which take place in a",
+          "confidence": 0.9907,
+          "id": "AA-p011-l025",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            242.6,
+            2085.8,
+            503.5,
+            2134.4
+          ],
+          "text": "game of chess?",
+          "confidence": 0.9998,
+          "id": "AA-p011-l026",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            287.9,
+            2143.2,
+            1565.7,
+            2180.6
+          ],
+          "text": "How much is a mating attack conditioned by the actual position on the chess-",
+          "confidence": 0.9842,
+          "id": "AA-p011-l027",
+          "pdf_page": 11,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            241.4,
+            2189.3,
+            1069.5,
+            2231.7
+          ],
+          "text": "board, and how much by the skill of the attacker?",
+          "confidence": 0.9965,
+          "id": "AA-p011-l028",
+          "pdf_page": 11,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": [
+        "AA-p011-fig01"
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "source_image": "source_pages/page-012.png",
+      "lines": [
+        {
+          "bbox": [
+            334.5,
+            270.7,
+            1197.0,
+            321.8
+          ],
+          "text": "Where does the risk attached to a mating attack lie?",
+          "confidence": 0.9812,
+          "id": "AA-p012-l003",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            334.5,
+            321.8,
+            1607.4,
+            378.0
+          ],
+          "text": "About which points are the minds of players today still unclear with respect to",
+          "confidence": 0.9792,
+          "id": "AA-p012-l004",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            289.1,
+            373.0,
+            778.0,
+            417.9
+          ],
+          "text": "carrying out a mating attack?",
+          "confidence": 0.9816,
+          "id": "AA-p012-l005",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            330.8,
+            421.6,
+            1609.8,
+            477.8
+          ],
+          "text": "The relationship between these questions can be easily perceived, although",
+          "confidence": 0.9903,
+          "id": "AA-p012-l006",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            286.7,
+            472.8,
+            1608.6,
+            528.9
+          ],
+          "text": "they are posed separately. A separate reply, however, cannot be given to each,",
+          "confidence": 0.994,
+          "id": "AA-p012-l007",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            285.5,
+            522.7,
+            1249.6,
+            573.8
+          ],
+          "text": "and an attempt must be made to answer them collectively.",
+          "confidence": 0.9908,
+          "id": "AA-p012-l008",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            328.3,
+            567.6,
+            1611.1,
+            630.0
+          ],
+          "text": "Mate is the final aim and crowning achievement of the contest and the mating",
+          "confidence": 0.9915,
+          "id": "AA-p012-l009",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            620.0,
+            1607.4,
+            678.6
+          ],
+          "text": "attack is the ultimate operation in relation to all the rest, which are only contribu-",
+          "confidence": 0.974,
+          "id": "AA-p012-l010",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            672.4,
+            1612.3,
+            729.8
+          ],
+          "text": "tory. Consequently, the mating attack demands more preconditions than other",
+          "confidence": 0.9918,
+          "id": "AA-p012-l011",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            722.3,
+            1607.4,
+            779.7
+          ],
+          "text": "operations. There exist a number of definite preconditions for a mating attack,",
+          "confidence": 0.998,
+          "id": "AA-p012-l012",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            773.4,
+            1611.1,
+            830.8
+          ],
+          "text": "and these combine to require a considerable degree of superiority on the part of",
+          "confidence": 0.9943,
+          "id": "AA-p012-l013",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            281.8,
+            822.1,
+            1609.8,
+            882.0
+          ],
+          "text": "the attacker. In the case where he has abundant superiority, great knowledge and",
+          "confidence": 0.9929,
+          "id": "AA-p012-l014",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            285.5,
+            872.0,
+            1607.4,
+            931.9
+          ],
+          "text": "ability on the part of the attacker are not necessary, but if his superiority just bor-",
+          "confidence": 0.992,
+          "id": "AA-p012-l015",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            283.0,
+            923.1,
+            1607.4,
+            979.3
+          ],
+          "text": "ders on what would justify a correct attack, then the maximum skill is also re-",
+          "confidence": 0.9942,
+          "id": "AA-p012-l016",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            283.0,
+            971.8,
+            1608.6,
+            1032.9
+          ],
+          "text": "quired in carrying out the attack. The Romantics knew little, but they had great",
+          "confidence": 0.9959,
+          "id": "AA-p012-l017",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            281.8,
+            1022.9,
+            1606.2,
+            1080.3
+          ],
+          "text": "confidence in themselves; the first small increase in knowledge diverted their",
+          "confidence": 0.9993,
+          "id": "AA-p012-l018",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            281.8,
+            1071.6,
+            1608.6,
+            1134.0
+          ],
+          "text": "style from its course. The new formula, still accepted today, is: carry out a series",
+          "confidence": 0.9858,
+          "id": "AA-p012-l019",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            284.2,
+            1124.0,
+            1606.2,
+            1182.6
+          ],
+          "text": "of preliminary operations, which require only a smaller degree of advantage, and",
+          "confidence": 0.9957,
+          "id": "AA-p012-l020",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            281.8,
+            1173.9,
+            1602.5,
+            1232.5
+          ],
+          "text": "then you will attain the abundant superiority which facilitates a mating attack.",
+          "confidence": 0.9903,
+          "id": "AA-p012-l021",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            278.1,
+            1220.0,
+            1607.4,
+            1286.2
+          ],
+          "text": "However the consequence of this is that there has been a failure to exploit the art",
+          "confidence": 0.996,
+          "id": "AA-p012-l022",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            279.3,
+            1276.2,
+            1600.0,
+            1331.1
+          ],
+          "text": "of attack to the full and masters have been over-inclined to see a risk in an attack.",
+          "confidence": 0.9887,
+          "id": "AA-p012-l023",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            275.7,
+            1324.8,
+            1602.5,
+            1383.5
+          ],
+          "text": "It is still not clear what the minimum preconditions are, or what kind of advan-",
+          "confidence": 0.9938,
+          "id": "AA-p012-l024",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            279.3,
+            1378.5,
+            1601.3,
+            1434.6
+          ],
+          "text": "tage is necessary, for a mating attack. It may be a question, for example, of a sin-",
+          "confidence": 0.9883,
+          "id": "AA-p012-l025",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            278.1,
+            1428.4,
+            1602.5,
+            1484.5
+          ],
+          "text": "gle moment in a game which never returns. Another still unresolved question is",
+          "confidence": 0.9902,
+          "id": "AA-p012-l026",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            275.7,
+            1477.0,
+            1601.3,
+            1538.1
+          ],
+          "text": "that of a player's skill in weighing up the obligations which he has undertaken",
+          "confidence": 0.9968,
+          "id": "AA-p012-l027",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            278.1,
+            1528.2,
+            1602.5,
+            1588.0
+          ],
+          "text": "when preparing for an attack. The order of his preparatory moves is extraordi-",
+          "confidence": 0.9978,
+          "id": "AA-p012-l028",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            275.7,
+            1580.6,
+            1601.3,
+            1636.7
+          ],
+          "text": "narily important. The only really simple thing is the principle itself - that moves",
+          "confidence": 0.9858,
+          "id": "AA-p012-l029",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            274.4,
+            1629.2,
+            1601.3,
+            1686.6
+          ],
+          "text": "entailing fewer obligations should be carried out before those which are more",
+          "confidence": 0.9886,
+          "id": "AA-p012-l030",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            272.0,
+            1677.9,
+            1602.5,
+            1740.2
+          ],
+          "text": "strongly binding. Putting this principle into practice, however, demands great",
+          "confidence": 0.9922,
+          "id": "AA-p012-l031",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            272.0,
+            1726.5,
+            1600.0,
+            1790.1
+          ],
+          "text": "skill of a kind which is very rare - it was fully possessed by Capablanca and",
+          "confidence": 0.9951,
+          "id": "AA-p012-l032",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            273.2,
+            1778.9,
+            752.2,
+            1827.6
+          ],
+          "text": "Alekhine, but by few others.",
+          "confidence": 0.9867,
+          "id": "AA-p012-l033",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            316.1,
+            1828.8,
+            1596.4,
+            1892.4
+          ],
+          "text": "A few more words should be said about the kind of superiority which is neces-",
+          "confidence": 0.9835,
+          "id": "AA-p012-l034",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            270.8,
+            1882.4,
+            1597.6,
+            1939.8
+          ],
+          "text": "sary before a mating attack can be undertaken. We are interested in the case",
+          "confidence": 0.9895,
+          "id": "AA-p012-l035",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            270.8,
+            1931.1,
+            1597.6,
+            1992.2
+          ],
+          "text": "where the advantage is not one of material but of position and time. The attacker",
+          "confidence": 0.997,
+          "id": "AA-p012-l036",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            268.3,
+            1981.0,
+            1596.4,
+            2043.4
+          ],
+          "text": "is, as a rule, stronger in the area where the attack takes place by virtue of his ma-",
+          "confidence": 0.9991,
+          "id": "AA-p012-l037",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            269.5,
+            2032.1,
+            1593.9,
+            2093.3
+          ],
+          "text": "terial preponderance there, but his superiority in this respect must be consider-",
+          "confidence": 0.991,
+          "id": "AA-p012-l038",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            269.5,
+            2083.3,
+            1596.4,
+            2143.2
+          ],
+          "text": "able. Even a simple pattern with the queen mating from the focal-point needs at",
+          "confidence": 0.9822,
+          "id": "AA-p012-l039",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            267.1,
+            2133.2,
+            1593.9,
+            2194.3
+          ],
+          "text": "least one other piece to cover the focal-point, which already means an advantage",
+          "confidence": 0.9932,
+          "id": "AA-p012-l040",
+          "pdf_page": 12,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            267.1,
+            2181.8,
+            1593.9,
+            2245.5
+          ],
+          "text": "of two pieces against a lone king. For such pieces to be brought into the attack,",
+          "confidence": 0.9931,
+          "id": "AA-p012-l041",
+          "pdf_page": 12,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": []
+    },
+    {
+      "pdf_page": 13,
+      "source_image": "source_pages/page-013.png",
+      "lines": [
+        {
+          "bbox": [
+            243.8,
+            272.0,
+            1570.6,
+            325.6
+          ],
+          "text": "together with any further attacking pieces which may be necessary, one must",
+          "confidence": 0.9756,
+          "id": "AA-p013-l003",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            242.6,
+            321.8,
+            1565.7,
+            374.2
+          ],
+          "text": "also have a temporal advantage, that is, the ability to carry out a series of attack-",
+          "confidence": 0.9896,
+          "id": "AA-p013-l004",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            242.6,
+            373.0,
+            1567.0,
+            424.1
+          ],
+          "text": "ing moves without one's opponent being able to organize either a direct defence",
+          "confidence": 0.9917,
+          "id": "AA-p013-l005",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            243.8,
+            422.9,
+            1567.0,
+            472.8
+          ],
+          "text": "or a sufficiently strong counterattack. A temporal advantage of this kind is usu-",
+          "confidence": 0.9855,
+          "id": "AA-p013-l006",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            245.0,
+            470.3,
+            1570.6,
+            525.2
+          ],
+          "text": "ally based on the attacker's positional advantage, i.e. by the comparative lack of",
+          "confidence": 0.9802,
+          "id": "AA-p013-l007",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            243.8,
+            522.7,
+            1569.4,
+            575.1
+          ],
+          "text": "mobility of his opponent's pieces for defensive purposes. The attacker often does",
+          "confidence": 0.9902,
+          "id": "AA-p013-l008",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            243.8,
+            572.6,
+            1568.2,
+            625.0
+          ],
+          "text": "not possess such outstanding overall superiority at the commencement of his at-",
+          "confidence": 0.9936,
+          "id": "AA-p013-l009",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            243.8,
+            622.5,
+            1569.4,
+            674.9
+          ],
+          "text": "tack, but it may manifest itself later as a consequence of the immobility of some",
+          "confidence": 0.9934,
+          "id": "AA-p013-l010",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            242.6,
+            671.1,
+            1571.9,
+            728.5
+          ],
+          "text": "of the defending pieces or through a particular attacking combination. The skill",
+          "confidence": 0.9891,
+          "id": "AA-p013-l011",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            243.8,
+            721.0,
+            1573.1,
+            778.4
+          ],
+          "text": "of perceiving the right moment to launch one's attack in fact consists of making a",
+          "confidence": 0.9918,
+          "id": "AA-p013-l012",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            243.8,
+            777.2,
+            1053.6,
+            824.6
+          ],
+          "text": "correct assessment of possibilities such as these.",
+          "confidence": 0.998,
+          "id": "AA-p013-l013",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            290.4,
+            823.3,
+            1569.4,
+            877.0
+          ],
+          "text": "All these points go to show that the correct launching of an attack is the cru-",
+          "confidence": 0.9866,
+          "id": "AA-p013-l014",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            243.8,
+            873.2,
+            1571.9,
+            925.6
+          ],
+          "text": "cial difficulty which has caused so many masters to turn away from the attacking",
+          "confidence": 0.9913,
+          "id": "AA-p013-l015",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            246.3,
+            925.6,
+            1570.6,
+            976.8
+          ],
+          "text": "style. They would rather try to obtain something through positional technique,",
+          "confidence": 0.9884,
+          "id": "AA-p013-l016",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            246.3,
+            974.3,
+            1568.2,
+            1024.2
+          ],
+          "text": "where the downside is nothing worse than a draw; all too often this is exactly",
+          "confidence": 0.9866,
+          "id": "AA-p013-l017",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            245.0,
+            1024.2,
+            1570.6,
+            1076.6
+          ],
+          "text": "what they do achieve. Still, if advancement in the art of attack is neglected, if op-",
+          "confidence": 0.9878,
+          "id": "AA-p013-l018",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            245.0,
+            1076.6,
+            1570.6,
+            1129.0
+          ],
+          "text": "portunities for a perfectly feasible attack are passed by, how are games going to",
+          "confidence": 0.9953,
+          "id": "AA-p013-l019",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            245.0,
+            1126.5,
+            1573.1,
+            1178.9
+          ],
+          "text": "be won when technique comes up against technique? Without exploring the art",
+          "confidence": 0.9897,
+          "id": "AA-p013-l020",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            247.5,
+            1177.6,
+            1573.1,
+            1226.3
+          ],
+          "text": "of attack more deeply, there can be no further advance in chess. Attack is an es-",
+          "confidence": 0.9821,
+          "id": "AA-p013-l021",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            245.0,
+            1227.5,
+            1573.1,
+            1279.9
+          ],
+          "text": "sential component of the game of chess; it is a spark which smoulders in every",
+          "confidence": 0.9884,
+          "id": "AA-p013-l022",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            247.5,
+            1278.7,
+            1571.9,
+            1328.6
+          ],
+          "text": "corner and only the player who knows how to keep it alive and make it burst into",
+          "confidence": 0.9979,
+          "id": "AA-p013-l023",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            248.7,
+            1331.1,
+            1571.9,
+            1376.0
+          ],
+          "text": "flame at the right moment has reached the heights of true mastery. Lasker once",
+          "confidence": 0.9932,
+          "id": "AA-p013-l024",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            248.7,
+            1379.7,
+            1575.5,
+            1430.9
+          ],
+          "text": "acutely observed that if there is ever any possibility of an attack one must carry it",
+          "confidence": 0.9797,
+          "id": "AA-p013-l025",
+          "pdf_page": 13,
+          "review_flags": []
+        },
+        {
+          "bbox": [
+            249.9,
+            1434.6,
+            1113.7,
+            1478.3
+          ],
+          "text": "Out, since otherwise one's advantage will evaporate.",
+          "confidence": 0.9893,
+          "id": "AA-p013-l026",
+          "pdf_page": 13,
+          "review_flags": []
+        }
+      ],
+      "figure_ids": []
+    }
+  ]
+}

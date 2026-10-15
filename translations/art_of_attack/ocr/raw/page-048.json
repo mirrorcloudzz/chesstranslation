@@ -1,0 +1,300 @@
+{
+  "pdf_page": 48,
+  "printed_page": 48,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        232.8,
+        118.5,
+        283.0,
+        159.7
+      ],
+      "text": "48",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        662.8,
+        118.5,
+        1163.9,
+        165.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        281.8,
+        268.2,
+        980.1,
+        309.4
+      ],
+      "text": "29 gxh5 e1w+ 30 g2 e2+ 31 h3 f5?",
+      "confidence": 0.9373
+    },
+    {
+      "bbox": [
+        275.7,
+        316.9,
+        1560.8,
+        364.3
+      ],
+      "text": "Black has drawn his opponent's king out of position but now, when he is faced",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        234.0,
+        366.8,
+        1560.8,
+        415.4
+      ],
+      "text": "with the task of producing a mating attack, he stumbles. 31...f5? only appears to",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        234.0,
+        415.4,
+        1562.1,
+        464.1
+      ],
+      "text": "tighten the net (that is, by the threat of 32...Wf1+ 33 xf1 xh2#); in fact it al-",
+      "confidence": 0.9654
+    },
+    {
+      "bbox": [
+        229.1,
+        465.3,
+        1562.1,
+        515.2
+      ],
+      "text": "lows the king to escape via g5. 31...Wf1+ 32 xf1 xh2+ 33 g4 e5+ would",
+      "confidence": 0.9733
+    },
+    {
+      "bbox": [
+        231.6,
+        515.2,
+        1559.6,
+        567.6
+      ],
+      "text": "also have been unsound, since after 34 g3! xc6+ White can liquidate by in-",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        232.8,
+        567.6,
+        1261.9,
+        615.0
+      ],
+      "text": "terpolating 35 xd6+ cxd6 36 b6+ and only then 37 $xh2.",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        275.7,
+        617.5,
+        1560.8,
+        664.9
+      ],
+      "text": "31...Wxc3+ 32 d3 (forced) 32...We5 33 Wf3 e7, etc. was one line which",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        232.8,
+        671.1,
+        468.0,
+        713.6
+      ],
+      "text": "led to victory.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        276.9,
+        716.1,
+        1091.6,
+        764.7
+      ],
+      "text": "32 Wxc4! Wf1+ 33 ±h4 xh2+ 34 g5 Wg2+?",
+      "confidence": 0.9548
+    },
+    {
+      "bbox": [
+        279.3,
+        770.9,
+        1557.2,
+        815.9
+      ],
+      "text": "After this fresh mistake Black ought to have lost. 34...Wg1+ 35 g4 We3+",
+      "confidence": 0.974
+    },
+    {
+      "bbox": [
+        231.6,
+        809.6,
+        811.0,
+        869.5
+      ],
+      "text": "might still have resulted in a win'.",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        275.7,
+        865.8,
+        491.3,
+        919.4
+      ],
+      "text": "35 g4! (D)",
+      "confidence": 0.9359
+    },
+    {
+      "bbox": [
+        567.2,
+        1076.6,
+        593.0,
+        1109.0
+      ],
+      "text": "B",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        664.0,
+        1273.7,
+        765.7,
+        1313.6
+      ],
+      "text": "只蒙",
+      "confidence": 0.5995
+    },
+    {
+      "bbox": [
+        276.9,
+        1575.6,
+        1557.2,
+        1624.2
+      ],
+      "text": "By sacrificing his rook White succeeds in blocking the g-file and thus obtain-",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        230.3,
+        1628.0,
+        1557.2,
+        1676.6
+      ],
+      "text": "ing a respite for his king in the comparative safety of g5. Naturally, the king is",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        231.6,
+        1679.1,
+        1554.7,
+        1727.8
+      ],
+      "text": "only secure there for one or two moves, but in the present position that is enough,",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        230.3,
+        1727.8,
+        1015.6,
+        1772.7
+      ],
+      "text": "for White also has some threats at his disposal.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        273.2,
+        1778.9,
+        1562.1,
+        1827.6
+      ],
+      "text": "The initiative now passes to White, and he should win quickly. The creation of",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        227.9,
+        1828.8,
+        1557.2,
+        1880.0
+      ],
+      "text": "a 'makeshift shelter' for one or two moves is often extremely important when the",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        229.1,
+        1880.0,
+        1559.6,
+        1929.9
+      ],
+      "text": "king is being pursued, always on the assumption, of course, that the counterat-",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        227.9,
+        1931.1,
+        1325.6,
+        1977.3
+      ],
+      "text": "tack made possible by the gain of time promises to be successful.",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        276.9,
+        1979.8,
+        586.8,
+        2024.7
+      ],
+      "text": "35...fxg4 36 wf7?",
+      "confidence": 0.9596
+    },
+    {
+      "bbox": [
+        310.0,
+        2088.3,
+        1554.7,
+        2135.7
+      ],
+      "text": "In fact, it wins rather easily after 36 g6 Wh6+ 37 xf5 Wxh5+ 38 g5 f2+",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        313.6,
+        2135.7,
+        1555.9,
+        2184.3
+      ],
+      "text": "39 f4 xf4+ 40 Wxf4 Wf7+. It follows that White should have played 32",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        313.6,
+        2185.6,
+        1544.9,
+        2231.7
+      ],
+      "text": "xc4! instead of 32 Wxc4?, when the position would indeed have been unclear.",
+      "confidence": 0.9872
+    }
+  ]
+}

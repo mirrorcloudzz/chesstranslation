@@ -1,0 +1,160 @@
+{
+  "pdf_page": 69,
+  "printed_page": 69,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        748.6,
+        126.0,
+        1043.8,
+        177.1
+      ],
+      "text": "Mating patterns",
+      "confidence": 0.976
+    },
+    {
+      "bbox": [
+        1502.0,
+        126.0,
+        1549.8,
+        165.9
+      ],
+      "text": "69",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        534.2,
+        378.0,
+        559.9,
+        410.4
+      ],
+      "text": "B",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        227.9,
+        872.0,
+        1552.3,
+        920.6
+      ],
+      "text": "or 3 Wh8#, while if 1...f6, then 2 Wh7#. If Black has another pawn on g7 he can",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        226.7,
+        925.6,
+        1552.3,
+        970.5
+      ],
+      "text": "save himself from immediate mate by 1...f6, while if he has one on g6 he can ex-",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        230.3,
+        979.3,
+        672.6,
+        1020.4
+      ],
+      "text": "tricate himseif by 1...g7.",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        537.8,
+        1186.4,
+        562.3,
+        1215.0
+      ],
+      "text": "B",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        270.8,
+        1424.6,
+        1482.4,
+        1478.3
+      ],
+      "text": "Of the mates with queen and bishop this position is worth remembering.",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        270.8,
+        1479.5,
+        1555.9,
+        1525.7
+      ],
+      "text": "Black cannot save himself from mate, but if he plays 1...g6, White does not re-",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        229.1,
+        1530.7,
+        1554.7,
+        1578.1
+      ],
+      "text": "ply 2 &xg6+ (which is answered by 2...g7, and Black's king slips away) but 2",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        229.1,
+        1579.3,
+        1110.0,
+        1629.2
+      ],
+      "text": "Wh6, in which case there is no remedy against mate.",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        540.3,
+        1790.1,
+        569.7,
+        1817.6
+      ],
+      "text": "W",
+      "confidence": 0.8892
+    },
+    {
+      "bbox": [
+        742.4,
+        2025.9,
+        1015.6,
+        2063.3
+      ],
+      "text": "SmotheredMate",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        272.0,
+        2136.9,
+        1555.9,
+        2181.8
+      ],
+      "text": "The smothered mate with queen and knight is a celebrated one: 1 f7+ g8 2",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        229.1,
+        2184.3,
+        1407.7,
+        2230.5
+      ],
+      "text": "h6+ h8 (or 2...f8 3 Wf7#) 3 Wg8+! xg8 (or 3...xg8) 4 f7#.",
+      "confidence": 0.9603
+    }
+  ]
+}

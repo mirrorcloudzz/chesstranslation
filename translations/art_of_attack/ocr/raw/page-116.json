@@ -1,0 +1,400 @@
+{
+  "pdf_page": 116,
+  "printed_page": 116,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        219.3,
+        129.7,
+        297.7,
+        177.1
+      ],
+      "text": "116",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        651.8,
+        132.2,
+        1149.2,
+        173.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        267.1,
+        279.4,
+        1546.1,
+        323.1
+      ],
+      "text": "The situation now becomes critical; White must get his rook to h3 before",
+      "confidence": 0.9746
+    },
+    {
+      "bbox": [
+        226.7,
+        335.6,
+        807.4,
+        376.7
+      ],
+      "text": "Black's pawn promotes to a queen.",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        265.9,
+        378.0,
+        1547.4,
+        422.9
+      ],
+      "text": "If 10...a6, there is insufficient time for 11 &e2 because of ...b6-b3, nor is",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        223.0,
+        426.6,
+        1551.0,
+        477.8
+      ],
+      "text": "11 f3 b6 12 f4 strong enough owing to 12...g5! 13 f5 c8, and the black",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        223.0,
+        477.8,
+        1456.7,
+        528.9
+      ],
+      "text": "king escapes to d7. Strongest, after 10...a6, is 11 g4 &xg4 12 h3!, etc.",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        268.3,
+        530.2,
+        403.1,
+        572.6
+      ],
+      "text": "11 Ωe2",
+      "confidence": 0.8905
+    },
+    {
+      "bbox": [
+        267.1,
+        578.8,
+        1551.0,
+        626.2
+      ],
+      "text": "White can also win by 11 g4 Qxg4 12 h3. After the text move Black cannot",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        223.0,
+        631.2,
+        1549.8,
+        678.6
+      ],
+      "text": "reply 11...a3 because of 12 g4 a2 13 xh7, so he tries to prolong the game by a",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        225.4,
+        683.6,
+        634.6,
+        727.3
+      ],
+      "text": "desperate rook sacrifice.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        267.1,
+        727.3,
+        1547.4,
+        777.2
+      ],
+      "text": "11...a5 12 g4 xe5 13 xe5 c4 14 dh3 xe2 15 f6 e6 16 e5 xg4",
+      "confidence": 0.9578
+    },
+    {
+      "bbox": [
+        226.7,
+        783.4,
+        695.9,
+        822.1
+      ],
+      "text": "17 xh7 xf6+ 18 exf6 1-0",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        264.6,
+        828.3,
+        1548.6,
+        880.7
+      ],
+      "text": "The rook has no difficulty in controlling the pawns, e.g. 13...xh3 19 xh3",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        223.0,
+        880.7,
+        871.1,
+        926.9
+      ],
+      "text": "b5 20 c3 b4 21 xc6 b3 22 b6, etc.",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        733.9,
+        983.0,
+        1038.9,
+        1027.9
+      ],
+      "text": "Pilnik - Najdorf",
+      "confidence": 0.9635
+    },
+    {
+      "bbox": [
+        716.7,
+        1036.7,
+        1052.4,
+        1074.1
+      ],
+      "text": "Mar del Plata, 1942",
+      "confidence": 0.9519
+    },
+    {
+      "bbox": [
+        716.7,
+        1085.3,
+        1052.4,
+        1125.2
+      ],
+      "text": "Caro-Kann Defence",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        221.8,
+        1181.4,
+        917.6,
+        1225.0
+      ],
+      "text": "1 e4 c6 2 d4 d5 3 c3 dxe4 4 xe4 f6",
+      "confidence": 0.9639
+    },
+    {
+      "bbox": [
+        268.3,
+        1232.5,
+        1116.1,
+        1281.2
+      ],
+      "text": "Sounder is 4...&f5 or 4...d7 followed by ...gf6.",
+      "confidence": 0.9544
+    },
+    {
+      "bbox": [
+        268.3,
+        1286.2,
+        506.0,
+        1327.3
+      ],
+      "text": "5 xf6+ exf6",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        267.1,
+        1336.1,
+        1548.6,
+        1382.2
+      ],
+      "text": "The doubling of the pawns on the f-file represents a slight weakness in Black's",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        225.4,
+        1390.9,
+        966.6,
+        1432.1
+      ],
+      "text": "position whichever pawn he recaptures with.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        269.5,
+        1439.6,
+        743.7,
+        1477.0
+      ],
+      "text": "6 c3 d6 7 Qd3 0-0 8 Wh5",
+      "confidence": 0.9199
+    },
+    {
+      "bbox": [
+        265.9,
+        1485.7,
+        1548.6,
+        1534.4
+      ],
+      "text": "Black could answer this with 8...f5 (9 &xf5? g6) and so ward off White's at-",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        224.2,
+        1541.9,
+        1544.9,
+        1583.1
+      ],
+      "text": "tack without weakening his castied position. Indeed, 8...f5 not only avoids weak-",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        225.4,
+        1591.8,
+        1547.4,
+        1633.0
+      ],
+      "text": "ening Black's position, it also falls in with his correct positional plan, i.e. the",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        225.4,
+        1642.9,
+        1547.4,
+        1684.1
+      ],
+      "text": "front f-pawn is used to control squares on the e-file, while the back one (at f7)",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        224.2,
+        1690.3,
+        1551.0,
+        1734.0
+      ],
+      "text": "stays at home and guards any weaknesses which the front one leaves behind it. If",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        223.0,
+        1742.7,
+        1547.4,
+        1787.6
+      ],
+      "text": "the front pawn is exchanged in some tussle over a square, Black has got rid of the",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        221.8,
+        1786.4,
+        1049.9,
+        1841.3
+      ],
+      "text": "doubled pawns and the fear of an inferior ending.",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        265.9,
+        1840.0,
+        602.8,
+        1884.9
+      ],
+      "text": "8 Wc2 was sounder.",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        267.1,
+        1893.7,
+        368.8,
+        1938.6
+      ],
+      "text": "8...g6",
+      "confidence": 0.9733
+    },
+    {
+      "bbox": [
+        265.9,
+        1942.3,
+        1206.8,
+        1988.5
+      ],
+      "text": "Though less precise than 8...f5 this is still not a mistake.",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        265.9,
+        1989.7,
+        452.1,
+        2038.4
+      ],
+      "text": "9 Wh4 (D)",
+      "confidence": 0.8914
+    },
+    {
+      "bbox": [
+        265.9,
+        2044.6,
+        387.1,
+        2088.3
+      ],
+      "text": "9...c5?",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        267.1,
+        2097.0,
+        1544.9,
+        2140.7
+      ],
+      "text": "Fundamentally inappropriate, since White is stronger on the queenside and in",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        223.0,
+        2146.9,
+        1549.8,
+        2191.8
+      ],
+      "text": "particular has a firm hold on d4. Black should have left any operations on the",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        223.0,
+        2194.3,
+        1552.3,
+        2243.0
+      ],
+      "text": "queen's wing to White and instead prepared for ...f5 and ...'d7-f6, but without",
+      "confidence": 0.984
+    }
+  ]
+}

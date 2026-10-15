@@ -1,0 +1,122 @@
+[
+  {
+    "figure": 1,
+    "source_pdf_page": 219,
+    "source_print_page": 217,
+    "crop_reference_1304x1920": [
+      141,
+      92,
+      541,
+      483
+    ],
+    "anchor": "18.0",
+    "caption": "分析变化：黑方走完15... c5后的局面，白方行棋",
+    "image": "figure-01.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 2,
+    "source_pdf_page": 221,
+    "source_print_page": 219,
+    "crop_reference_1304x1920": [
+      138,
+      509,
+      536,
+      902
+    ],
+    "anchor": "52.0",
+    "caption": "波戈留波夫（白）对雅诺夫斯基（黑），白方行棋",
+    "image": "figure-02.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 3,
+    "source_pdf_page": 221,
+    "source_print_page": 219,
+    "crop_reference_1304x1920": [
+      761,
+      1320,
+      1158,
+      1715
+    ],
+    "anchor": "64.0",
+    "caption": "白方走完30. Rb1后的局面",
+    "image": "figure-03.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 4,
+    "source_pdf_page": 222,
+    "source_print_page": 220,
+    "crop_reference_1304x1920": [
+      759,
+      883,
+      1156,
+      1278
+    ],
+    "anchor": "81.0",
+    "caption": "科托夫（白）对卡什丹（黑），黑方行棋",
+    "image": "figure-04.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 5,
+    "source_pdf_page": 223,
+    "source_print_page": 221,
+    "crop_reference_1304x1920": [
+      769,
+      89,
+      1166,
+      481
+    ],
+    "anchor": "95.1",
+    "caption": "黑方走完27... Ne6?后的局面",
+    "image": "figure-05.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 6,
+    "source_pdf_page": 224,
+    "source_print_page": 222,
+    "crop_reference_1304x1920": [
+      750,
+      1100,
+      1148,
+      1495
+    ],
+    "anchor": "123.0",
+    "caption": "黑方走完11... Rfd8后的局面",
+    "image": "figure-06.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 7,
+    "source_pdf_page": 225,
+    "source_print_page": 223,
+    "crop_reference_1304x1920": [
+      140,
+      592,
+      538,
+      987
+    ],
+    "anchor": "127.0",
+    "caption": "白方走完18. g4?后的局面",
+    "image": "figure-07.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 8,
+    "source_pdf_page": 226,
+    "source_print_page": 224,
+    "crop_reference_1304x1920": [
+      140,
+      344,
+      538,
+      738
+    ],
+    "anchor": "147.0",
+    "caption": "黑方走完31... Bxd6后的局面",
+    "image": "figure-08.png",
+    "status": "checked_against_source"
+  }
+]

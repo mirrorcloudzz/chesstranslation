@@ -1,0 +1,280 @@
+{
+  "pdf_page": 253,
+  "printed_page": 253,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        441.0,
+        127.0,
+        1338.0,
+        174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "253",
+      "bbox": [
+        1477.0,
+        126.0,
+        1538.0,
+        157.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "simplest example of this is the exchange of queens, which is usually to the ad-",
+      "bbox": [
+        223.0,
+        274.0,
+        1540.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vantage of the defender and in many cases altogether eliminates the danger of at-",
+      "bbox": [
+        223.0,
+        324.0,
+        1542.0,
+        372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack. The queen is generally an essential piece in a mating attack and it is",
+      "bbox": [
+        223.0,
+        375.0,
+        1542.0,
+        421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "therefore useful to the defender if it is removed. However, other pieces too can be",
+      "bbox": [
+        223.0,
+        425.0,
+        1543.0,
+        464.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "essential to an attack and can be the target of a defensive plan based on elimina-",
+      "bbox": [
+        224.0,
+        476.0,
+        1542.0,
+        517.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion. One of the most typical instances involves the attacker's bishop which is",
+      "bbox": [
+        224.0,
+        525.0,
+        1543.0,
+        569.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "covering a network of weak squares. Such a visitor should, as soon as circum-",
+      "bbox": [
+        225.0,
+        576.0,
+        1543.0,
+        622.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "stances permit, be dismissed from the castling area or be eliminated by ex-",
+      "bbox": [
+        226.0,
+        626.0,
+        1543.0,
+        673.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "change. The following diagram shows a case of a bishop commanding a network",
+      "bbox": [
+        226.0,
+        676.0,
+        1546.0,
+        724.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of squares, and we give two possible continuations: the one actually taken, where",
+      "bbox": [
+        226.0,
+        727.0,
+        1545.0,
+        774.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black misses the opportunity to defend himself by tackling the bishop; and an al-",
+      "bbox": [
+        227.0,
+        777.0,
+        1545.0,
+        823.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ternative one, which indicates the correct method of defence.",
+      "bbox": [
+        227.0,
+        830.0,
+        1239.0,
+        870.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position comes from the game Blackburne-Schwarz, Berlin 1881, and it",
+      "bbox": [
+        276.0,
+        1535.0,
+        1552.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is White's move. He is a pawn down and, in addition, he has the inferior pawn",
+      "bbox": [
+        232.0,
+        1586.0,
+        1551.0,
+        1628.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "structure. On the other hand, he enjoys far greater activity for his pieces and has",
+      "bbox": [
+        233.0,
+        1636.0,
+        1551.0,
+        1678.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "prospects of controlling the network of weak dark squares around the enemy",
+      "bbox": [
+        232.0,
+        1687.0,
+        1551.0,
+        1732.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king. It is exactly with this in mind that he plays:",
+      "bbox": [
+        232.0,
+        1740.0,
+        1043.0,
+        1782.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Af6 Qf4+?",
+      "bbox": [
+        280.0,
+        1788.0,
+        504.0,
+        1824.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black throws away the chance of defending himself by eliminating the bishop",
+      "bbox": [
+        279.0,
+        1838.0,
+        1553.0,
+        1882.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on f6 (with l...Ae7!) and falls into a trap.",
+      "bbox": [
+        234.0,
+        1890.0,
+        921.0,
+        1933.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 Vxf4! Axf4 3 Äxh5 gxh5 4 Zxh5 and there is no remedy against mate on",
+      "bbox": [
+        279.0,
+        1940.0,
+        1554.0,
+        1982.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        239.0,
+        2106.0,
+        250.0,
+        2134.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In the original edition, this diagram was incorrectly given without the black",
+      "bbox": [
+        317.0,
+        2100.0,
+        1556.0,
+        2141.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawn on b5. Vukovié's comments have been modified to take account of this",
+      "bbox": [
+        318.0,
+        2148.0,
+        1555.0,
+        2190.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "correction.",
+      "bbox": [
+        318.0,
+        2202.0,
+        485.0,
+        2230.0
+      ],
+      "confidence": null
+    }
+  ]
+}

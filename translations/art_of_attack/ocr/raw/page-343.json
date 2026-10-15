@@ -1,0 +1,420 @@
+{
+  "pdf_page": 343,
+  "printed_page": 343,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The attack on the king as an integral part of the game 343",
+      "bbox": [
+        378.0,
+        132.0,
+        1538.0,
+        176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Capablanca virtuosity and elan. Now White's knight, a sort of 'equus ex ma-",
+      "bbox": [
+        221.0,
+        281.0,
+        1540.0,
+        325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "china', stirs up a whirlwind attack on the king, against which there is hardly an",
+      "bbox": [
+        222.0,
+        331.0,
+        1541.0,
+        374.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "adequate defence.",
+      "bbox": [
+        222.0,
+        386.0,
+        517.0,
+        425.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...h6?",
+      "bbox": [
+        270.0,
+        436.0,
+        402.0,
+        467.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Although Black has no really sound reply at his disposal, 19...f5 was the lesser",
+      "bbox": [
+        268.0,
+        482.0,
+        1542.0,
+        525.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "evil. Then White does not gain much by 20 Ve5 Ab6 while if 20 Vb7, Black",
+      "bbox": [
+        223.0,
+        526.0,
+        1543.0,
+        573.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "plays 20...Vb6, and after 21 Vf7+ 22 Vh5 h6 White's attack stops, for ex-",
+      "bbox": [
+        223.0,
+        578.0,
+        1541.0,
+        626.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ample, 23 h4? Axe3! 24 Vg6 is not sound, since after 24...hxg5 25 hxg5+ ég8",
+      "bbox": [
+        224.0,
+        626.0,
+        1542.0,
+        676.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White cannot give perpetual check, while 26 Xh7 is weak on account of",
+      "bbox": [
+        223.0,
+        680.0,
+        1546.0,
+        725.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "26...Vd4. The best line is 20 Vc4 Xac8! 21 axe6 Ab6 22 Vxc8 Äxc8 23 Äxc8+",
+      "bbox": [
+        224.0,
+        728.0,
+        1543.0,
+        768.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Éf7 24 Qg5+ 25 Qf3 Vd5 26 0-0 Ad8 followed by ...Af6 with some",
+      "bbox": [
+        224.0,
+        779.0,
+        1543.0,
+        827.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "chances of a draw . This continuation would have been relatively the best way",
+      "bbox": [
+        224.0,
+        834.0,
+        1543.0,
+        873.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "out for Black.",
+      "bbox": [
+        225.0,
+        889.0,
+        450.0,
+        919.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Better than the text move but worse perhaps than 19...f5 is 19...g6. An analysis",
+      "bbox": [
+        270.0,
+        935.0,
+        1543.0,
+        976.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of this move, which, though it may emanate from Capablanca, needs to be cor-",
+      "bbox": [
+        225.0,
+        986.0,
+        1543.0,
+        1026.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rected, runs as follows: 19...g6 20 Vf3 Äf8 (everything else is weaker; 20...Xa7",
+      "bbox": [
+        224.0,
+        1032.0,
+        1543.0,
+        1077.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in particular, does not work on account of 21 Vc6) 21 Vh3 h5 22 oxe6? fxe6 23",
+      "bbox": [
+        225.0,
+        1081.0,
+        1543.0,
+        1128.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxe6+ 24 Vd7+ 25 Vc6; now the analysis continues with 25 .Xac8?,",
+      "bbox": [
+        225.0,
+        1133.0,
+        1543.0,
+        1176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "missing the fact that Black can win by 25...Axe3! 26 fxe3 Vf52 27 Vf3 (forced)",
+      "bbox": [
+        225.0,
+        1176.0,
+        1544.0,
+        1229.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "27...Vd3 28 Ve2 Vxb3, obtaining an attack and, before long, a material advan-",
+      "bbox": [
+        226.0,
+        1235.0,
+        1544.0,
+        1278.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tage as well. This analysis can be improved by playing, instead of 21 Vh3, 21",
+      "bbox": [
+        226.0,
+        1283.0,
+        1542.0,
+        1330.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vf6 (threatening either 22 Äc4 and 23 Oxh7 or at once 22 Oxh7) 21...Äae8 (if",
+      "bbox": [
+        225.0,
+        1334.0,
+        1549.0,
+        1380.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...h6 then 22 öxe6 wins, while 21...Äac8 is not good because of 22 Äc43) 22",
+      "bbox": [
+        226.0,
+        1378.0,
+        1545.0,
+        1430.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ve5 Ab6 23 Vxa5 Axa5 24 Äc8 25 ae4, when White has much the better",
+      "bbox": [
+        225.0,
+        1436.0,
+        1546.0,
+        1476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ending, for example if 25...Zfd8, then 26 Qc5 Xc6 27 07 Xxcl 28 Xxcl Ad5",
+      "bbox": [
+        226.0,
+        1486.0,
+        1544.0,
+        1532.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "29 e4.",
+      "bbox": [
+        227.0,
+        1545.0,
+        325.0,
+        1574.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20 Vh7+ 21 Vh8+ 22 Vxg7 hxg5 23 Vxg5+ Éd6 24 (D)",
+      "bbox": [
+        272.0,
+        1588.0,
+        1500.0,
+        1632.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Two pawns, the exposed position of the black king, Black's commitments at",
+      "bbox": [
+        271.0,
+        1643.0,
+        1547.0,
+        1684.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "c5, and White's rooks on the c- and d-files — all this is obviously more than suffi-",
+      "bbox": [
+        226.0,
+        1693.0,
+        1545.0,
+        1732.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cient compensation for the sacrificed knight. Capablanca also particularly",
+      "bbox": [
+        226.0,
+        1744.0,
+        1546.0,
+        1785.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        231.0,
+        1862.0,
+        243.0,
+        1891.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2",
+      "bbox": [
+        228.0,
+        2009.0,
+        246.0,
+        2039.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3",
+      "bbox": [
+        229.0,
+        2108.0,
+        245.0,
+        2138.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 27 Xc6+ Af6 28 Qd4 1 see no real chances for a draw; White has two",
+      "bbox": [
+        310.0,
+        1856.0,
+        1547.0,
+        1893.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rooks and a pawn for the queen, and Black's king is exposed. One line is",
+      "bbox": [
+        310.0,
+        1909.0,
+        1547.0,
+        1948.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "28...#h5 29 Xc4 Axd4 30 Xdl, followed by Ädxd4.",
+      "bbox": [
+        311.0,
+        1955.0,
+        1141.0,
+        1995.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This allows a defence by 27 Vc2, but Black can improve by 26...Vg5!, which",
+      "bbox": [
+        310.0,
+        2003.0,
+        1548.0,
+        2046.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "does indeed win for Black.",
+      "bbox": [
+        310.0,
+        2059.0,
+        732.0,
+        2087.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 21...Xac8 22 Äc4 Black can defend by 22...Xc7!, for example 23 Qxh7",
+      "bbox": [
+        310.0,
+        2102.0,
+        1547.0,
+        2144.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ae7 or 23 Xh4 Ae7. Thus it is hard to demonstrate an advantage for White after",
+      "bbox": [
+        311.0,
+        2151.0,
+        1550.0,
+        2191.0
+      ],
+      "confidence": null
+    }
+  ]
+}

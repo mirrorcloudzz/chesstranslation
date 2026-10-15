@@ -1,0 +1,280 @@
+{
+  "pdf_page": 53,
+  "printed_page": 53,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        367.5,
+        131.0,
+        1428.5,
+        174.6
+      ],
+      "text": "On castling and attacking the castled position in general",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        1488.5,
+        129.7,
+        1549.8,
+        173.4
+      ],
+      "text": "53",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        223.0,
+        275.7,
+        1548.6,
+        323.1
+      ],
+      "text": "has prepared the ground for the quick establishment of 'communication between",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        224.2,
+        328.1,
+        1548.6,
+        370.5
+      ],
+      "text": "the rooks', i.e. the entire clearing of the back rank, as a result of which the rooks",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        223.0,
+        378.0,
+        1094.1,
+        421.6
+      ],
+      "text": "cover each other or can combine together in attacks.",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        268.3,
+        426.6,
+        1551.0,
+        472.8
+      ],
+      "text": "On the other hand, castling is also a positional move, and one which provides a",
+      "confidence": 0.9793
+    },
+    {
+      "bbox": [
+        223.0,
+        476.5,
+        1548.6,
+        526.4
+      ],
+      "text": "particular element of permanency to the position. For it is unique and irrevoca-",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        223.0,
+        528.9,
+        1552.3,
+        576.3
+      ],
+      "text": "ble; it can only be carried out once in a game, which means that the king will as a",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        226.7,
+        582.6,
+        1549.8,
+        623.7
+      ],
+      "text": "rule stay on the side on which it has castled. In special cases it can, it is true,",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        224.2,
+        631.2,
+        1549.8,
+        673.6
+      ],
+      "text": "travel with a greater or lesser degree of difficulty from its castled position to vari-",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        224.2,
+        677.4,
+        1552.3,
+        727.3
+      ],
+      "text": "Ous parts of the board. Thus castling is only relatively irrevocable (unlike a",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        225.4,
+        731.0,
+        1552.3,
+        775.9
+      ],
+      "text": "pawn's move, which is absolutely so) but for practical purposes the king's posi-",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        225.4,
+        783.4,
+        1551.0,
+        824.6
+      ],
+      "text": "tion after castling is, at least until the arrival of the endgame, fairly definitely a",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        223.0,
+        828.3,
+        1552.3,
+        878.2
+      ],
+      "text": "permanent positional feature. Before castling, the king has three possible courses",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        223.0,
+        879.5,
+        1552.3,
+        926.9
+      ],
+      "text": "of action: to remain in the middle or to castle either to right or left. Once it has",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        223.0,
+        930.6,
+        1552.3,
+        978.0
+      ],
+      "text": "castled it no longer has any choice; it then has a definite shelter, a 'permanent ad-",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        226.7,
+        985.5,
+        1548.6,
+        1026.7
+      ],
+      "text": "dress', a fact which the opponent naturally takes into account. It is certainly safer",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        223.0,
+        1032.9,
+        1548.6,
+        1080.3
+      ],
+      "text": "against attack, but it has at the same time committed itself positionally to one par-",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        223.0,
+        1084.1,
+        1544.9,
+        1127.7
+      ],
+      "text": "ticular area of the board; thus the undoubted advantages of castling are offset by",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        225.4,
+        1137.7,
+        594.2,
+        1178.9
+      ],
+      "text": "certain disadvantages.",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        226.7,
+        1237.5,
+        653.0,
+        1298.6
+      ],
+      "text": "Artificial castling",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        226.7,
+        1334.8,
+        1548.6,
+        1381.0
+      ],
+      "text": "Chess also contains the term 'artificial castling', which involves a player creating",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        223.0,
+        1386.0,
+        1549.8,
+        1432.1
+      ],
+      "text": "a position the same as or similar to that reached after genuine castling. It is at-",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        224.2,
+        1439.6,
+        1548.6,
+        1480.8
+      ],
+      "text": "tained not by a single castling move but a series of moves by the king and the",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        226.7,
+        1490.7,
+        1547.4,
+        1528.2
+      ],
+      "text": "rook. In the continuation from the following diagram we shall encounter the sim-",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        224.2,
+        1538.1,
+        828.2,
+        1584.3
+      ],
+      "text": "plest example of ‘artificial castling.'",
+      "confidence": 0.9751
+    },
+    {
+      "bbox": [
+        532.9,
+        1746.5,
+        558.7,
+        1777.7
+      ],
+      "text": "B",
+      "confidence": 0.9988
+    }
+  ]
+}

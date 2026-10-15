@@ -1,0 +1,280 @@
+{
+  "pdf_page": 129,
+  "printed_page": 129,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        618.7,
+        123.5,
+        1124.7,
+        168.4
+      ],
+      "text": "The classic bishop sacrifice",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        1454.2,
+        119.8,
+        1529.0,
+        165.9
+      ],
+      "text": "129",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        247.5,
+        272.0,
+        579.5,
+        316.9
+      ],
+      "text": "Here is an example:",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        513.3,
+        474.0,
+        546.4,
+        506.5
+      ],
+      "text": "W",
+      "confidence": 0.8441
+    },
+    {
+      "bbox": [
+        249.9,
+        973.0,
+        751.0,
+        1014.2
+      ],
+      "text": "1 xh7+ xh7 2 g5+ +h6",
+      "confidence": 0.9037
+    },
+    {
+      "bbox": [
+        249.9,
+        1022.9,
+        1525.3,
+        1067.8
+      ],
+      "text": "Against either of the other continuations White wins easily, but against the",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        203.4,
+        1074.1,
+        1529.0,
+        1116.5
+      ],
+      "text": "text move he has to work hard; victory cannot be forced here, though he has a",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        203.4,
+        1124.0,
+        496.2,
+        1171.4
+      ],
+      "text": "promising attack.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        246.3,
+        1173.9,
+        335.7,
+        1215.0
+      ],
+      "text": "3 f4!",
+      "confidence": 0.9743
+    },
+    {
+      "bbox": [
+        246.3,
+        1215.0,
+        1533.9,
+        1272.4
+      ],
+      "text": "This is probably White's strongest move. After 3 Wd2 We7! White can re-",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        202.1,
+        1267.4,
+        1531.4,
+        1322.3
+      ],
+      "text": "establish material equality by 4 xe6+ and 5 xf8, but Black is then the better",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        203.4,
+        1324.8,
+        327.1,
+        1372.2
+      ],
+      "text": "placed.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        245.0,
+        1371.0,
+        1266.8,
+        1422.1
+      ],
+      "text": "3...e7 4 h5 g6 5 hxg6 xg6 6 Wg4 g7 7 f5! exf5 8 xf5",
+      "confidence": 0.9736
+    },
+    {
+      "bbox": [
+        249.9,
+        1425.9,
+        1526.5,
+        1467.0
+      ],
+      "text": "White's threats include 9 xf7+ and 9 e6, as well as 9 Wh5, so he should win.",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        204.6,
+        1475.8,
+        780.4,
+        1518.2
+      ],
+      "text": "If 8...c8, then 9 Wh5 is decisive.",
+      "confidence": 0.9721
+    },
+    {
+      "bbox": [
+        208.3,
+        1581.8,
+        764.5,
+        1639.2
+      ],
+      "text": "Declining the sacrifice",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        204.6,
+        1676.6,
+        1530.2,
+        1722.8
+      ],
+      "text": "One of the necessary conditions for the success of the classic bishop sacrifice, as",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        204.6,
+        1729.0,
+        1529.0,
+        1775.2
+      ],
+      "text": "of any sacrifice at all, is the opponent's inability to obtain an advantage by reject-",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        205.8,
+        1781.4,
+        1529.0,
+        1826.3
+      ],
+      "text": "ing the sacrifice altogether. The attacker must therefore consider what will hap-",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        202.1,
+        1826.3,
+        1532.7,
+        1881.2
+      ],
+      "text": "pen if his opponent plays ...h8 and does not take the bishop. The following",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        207.0,
+        1883.7,
+        784.1,
+        1924.9
+      ],
+      "text": "diagram shows an example of this.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        248.7,
+        1931.1,
+        432.5,
+        1973.5
+      ],
+      "text": "1 xh7+?",
+      "confidence": 0.9677
+    },
+    {
+      "bbox": [
+        245.0,
+        1978.5,
+        1530.2,
+        2029.6
+      ],
+      "text": "Instead of trying to sacrifice his bishop (which is incorrect in this position,",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        202.1,
+        2029.6,
+        1531.4,
+        2079.5
+      ],
+      "text": "since Black can successfully decline it) White should have played 1 Qe2 with",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        202.1,
+        2082.0,
+        1526.5,
+        2130.7
+      ],
+      "text": "the intention of making use of his pair of bishops and centralizing his knight by",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        204.6,
+        2130.7,
+        301.4,
+        2174.4
+      ],
+      "text": "Zd4.",
+      "confidence": 0.8816
+    },
+    {
+      "bbox": [
+        248.7,
+        2179.3,
+        519.5,
+        2231.7
+      ],
+      "text": "1...h8! 2 g5",
+      "confidence": 0.9528
+    }
+  ]
+}

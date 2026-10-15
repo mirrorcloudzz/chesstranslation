@@ -1,0 +1,300 @@
+{
+  "pdf_page": 56,
+  "printed_page": 56,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        245.0,
+        118.5,
+        298.9,
+        164.7
+      ],
+      "text": "56",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        675.1,
+        119.8,
+        1174.9,
+        168.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9649
+    },
+    {
+      "bbox": [
+        246.3,
+        270.7,
+        1568.2,
+        315.6
+      ],
+      "text": "a good exchange if White had not castled, but against the castled position the at-",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        247.5,
+        320.6,
+        517.0,
+        361.8
+      ],
+      "text": "tack is decisive.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        291.6,
+        366.8,
+        703.2,
+        415.4
+      ],
+      "text": "10 xf7 hxg3 11 xd8",
+      "confidence": 0.9504
+    },
+    {
+      "bbox": [
+        287.9,
+        415.4,
+        1570.6,
+        467.8
+      ],
+      "text": "If 11 hxg3, then 11...We7 12 xh8 Wh7 followed by ...g4, with a decisive",
+      "confidence": 0.9666
+    },
+    {
+      "bbox": [
+        248.7,
+        472.8,
+        360.2,
+        511.5
+      ],
+      "text": "attack.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        289.1,
+        514.0,
+        1571.9,
+        568.9
+      ],
+      "text": "11...g4 12 2f7 xh2! 13 Wd2 d4 14 c3 f3+ 15 gxf3 xf3 16 Wh6",
+      "confidence": 0.9395
+    },
+    {
+      "bbox": [
+        246.3,
+        568.9,
+        1094.1,
+        616.3
+      ],
+      "text": "g2+ 17 h1 xf2+ 18 g1 #g2+ 19 h1 g1#",
+      "confidence": 0.945
+    },
+    {
+      "bbox": [
+        291.6,
+        622.5,
+        1571.9,
+        666.2
+      ],
+      "text": "3) The player does not castle at once because, although he is able to castle on",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        246.3,
+        672.4,
+        1570.6,
+        716.1
+      ],
+      "text": "one side, he actually wishes to castle on the other side and needs to make further",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        245.0,
+        723.5,
+        1569.4,
+        768.4
+      ],
+      "text": "preparations. Alternatively, he delays until his opponent castles, and only then",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        243.8,
+        770.9,
+        1569.4,
+        819.6
+      ],
+      "text": "decides which side to castle. If he is aiming for an attack, he may decide to castle",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        246.3,
+        824.6,
+        1568.2,
+        869.5
+      ],
+      "text": "on the opposite side to his opponent; if he is aiming to forestall an attack, then he",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        245.0,
+        872.0,
+        1185.9,
+        921.9
+      ],
+      "text": "will more likely castle on the same side as his opponent.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        285.5,
+        923.1,
+        1568.2,
+        974.3
+      ],
+      "text": "There are many examples in the games of the masters of this kind of pause be-",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        243.8,
+        973.0,
+        1568.2,
+        1025.4
+      ],
+      "text": "fore castling. It is assumed, of course, that this pause does not entail any dangers.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        241.4,
+        1022.9,
+        1411.4,
+        1074.1
+      ],
+      "text": "In open positions such dangers are more frequent than in closed ones.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        285.5,
+        1072.8,
+        1553.5,
+        1126.5
+      ],
+      "text": "The following situation will serve as an example of this pause before castling.",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        578.3,
+        1279.9,
+        611.3,
+        1312.3
+      ],
+      "text": "W",
+      "confidence": 0.9489
+    },
+    {
+      "bbox": [
+        284.2,
+        1780.2,
+        1564.5,
+        1828.8
+      ],
+      "text": "It is White's move and he may, if he wishes, castle short immediately. But he",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        240.1,
+        1828.8,
+        1568.2,
+        1882.4
+      ],
+      "text": "calculates as follows: after 1 0-0 Black will play ..0-0, and then how can I attack",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        237.7,
+        1880.0,
+        1565.7,
+        1932.3
+      ],
+      "text": "him? The pieces by themselves can achieve nothing in this blocked position; h3",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        237.7,
+        1931.1,
+        1568.2,
+        1986.0
+      ],
+      "text": "and g4 still need to be played and must be prepared by Wd2. But in the meantime",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        238.9,
+        1981.0,
+        1565.7,
+        2035.9
+      ],
+      "text": "Black will consolidate his position on the kingside (e.g. by means of ...g6 and",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        237.7,
+        2029.6,
+        1569.4,
+        2089.5
+      ],
+      "text": "...f8-f7-g7) after which the attack will have lost its power. There is no doubt",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        238.9,
+        2084.5,
+        1564.5,
+        2135.7
+      ],
+      "text": "that for an attack based on g4, White's king is not well placed at g1, and it is",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        238.9,
+        2134.4,
+        1563.3,
+        2186.8
+      ],
+      "text": "better for that purpose to castle on the queenside and then deploy the rooks on the",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        234.0,
+        2179.3,
+        1564.5,
+        2241.7
+      ],
+      "text": "g- and h-files. However, if White chooses 1 Wd2 and then 2 0-0-0, Black can play",
+      "confidence": 0.9884
+    }
+  ]
+}

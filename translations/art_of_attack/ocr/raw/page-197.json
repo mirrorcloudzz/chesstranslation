@@ -1,0 +1,170 @@
+{
+  "pdf_page": 197,
+  "printed_page": 197,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        414.0,
+        132.0,
+        1363.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "197",
+      "bbox": [
+        1480.0,
+        132.0,
+        1538.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Of the various sacrificial devices to eliminate two pawns in front of the castled",
+      "bbox": [
+        266.0,
+        279.0,
+        1539.0,
+        318.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king, the sacrifice of both bishops on h7 and g 7 is particularly worth noting. One",
+      "bbox": [
+        221.0,
+        329.0,
+        1540.0,
+        371.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of the oldest examples of this occurred in the game Lasker-Bauer, Amsterdam",
+      "bbox": [
+        222.0,
+        380.0,
+        1541.0,
+        420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1889. The opening moves were:",
+      "bbox": [
+        225.0,
+        433.0,
+        751.0,
+        471.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 f4 d5 2 e3 hf6 3 b3 e6 4 Ab2 Ae7 5 Ad3 b6 6 Abi 7 Qf3 Qbd7 8 0-0",
+      "bbox": [
+        269.0,
+        475.0,
+        1540.0,
+        513.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "0-0 9 c5 10 Qg3 vc7 11 Qxe5 12 Axes vc6 13 Ve2 a6? (D)",
+      "bbox": [
+        221.0,
+        525.0,
+        1436.0,
+        570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this position, after Black's mistaken last move, Lasker worked out a combi-",
+      "bbox": [
+        268.0,
+        1235.0,
+        1540.0,
+        1275.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "nation which involved the sacrifice of both bishops; to this end he first of all",
+      "bbox": [
+        223.0,
+        1286.0,
+        1542.0,
+        1324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "forced the deflection of Black's knight.",
+      "bbox": [
+        223.0,
+        1337.0,
+        869.0,
+        1375.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 Qh5! Oxh5",
+      "bbox": [
+        270.0,
+        1382.0,
+        523.0,
+        1418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14...c4 also results in a quick finish, e.g. 15 hxf6+ Axf6 (or 15...gxf6 16",
+      "bbox": [
+        272.0,
+        1432.0,
+        1542.0,
+        1477.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg4+ 17 Vh4 cxd3 18 Axf6+ Axf6 19 Vxf6+ followed by Äf3-g3, etc.)",
+      "bbox": [
+        222.0,
+        1483.0,
+        1541.0,
+        1528.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 Axh7+ exh7 17 Vh5+ ég8 18 Axf6 gxf6 19 Xf3 with a quick mate.",
+      "bbox": [
+        227.0,
+        1534.0,
+        1444.0,
+        1578.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 Axh7+! exh7 16 Vxh5+ 17 Axg7! (D)",
+      "bbox": [
+        270.0,
+        1584.0,
+        1083.0,
+        1628.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "pdf_page": 265,
+  "printed_page": 265,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        441.0,
+        131.0,
+        1338.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "265",
+      "bbox": [
+        1477.0,
+        131.0,
+        1538.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "piece or by planning ahead to sacrifice a piece for the passed pawn, which in fact",
+      "bbox": [
+        221.0,
+        278.0,
+        1542.0,
+        320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "means surrendering the piece in return for a considerable number of tempi.",
+      "bbox": [
+        221.0,
+        329.0,
+        1467.0,
+        370.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) Advancing pawns on the opposite wing is an action which is furthest in",
+      "bbox": [
+        268.0,
+        379.0,
+        1542.0,
+        420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "distance from the threatened castled position and which is the hardest to combine",
+      "bbox": [
+        222.0,
+        429.0,
+        1541.0,
+        469.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with, or transform into, direct defence.",
+      "bbox": [
+        222.0,
+        481.0,
+        861.0,
+        518.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "These are the general deficiencies of indirect defence using the wing pawns,",
+      "bbox": [
+        267.0,
+        530.0,
+        1541.0,
+        570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and they limit its use mainly to the following cases:",
+      "bbox": [
+        223.0,
+        581.0,
+        1075.0,
+        621.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a) The attack on the castled king develops slowly, demanding a regrouping or",
+      "bbox": [
+        268.0,
+        630.0,
+        1543.0,
+        670.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "perhaps a series of pawn moves; it does not lead to a forced mate, for a defence",
+      "bbox": [
+        222.0,
+        680.0,
+        1543.0,
+        722.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "can be bought at the price of material;",
+      "bbox": [
+        223.0,
+        733.0,
+        852.0,
+        772.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "b) Direct defence is on the whole sufficient but it may be usefully combined",
+      "bbox": [
+        268.0,
+        781.0,
+        1543.0,
+        821.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with something else; in other words, the defender has some tempi left over which",
+      "bbox": [
+        224.0,
+        831.0,
+        1543.0,
+        873.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "he can devote to alternative actions, including those using the wing pawns.",
+      "bbox": [
+        223.0,
+        882.0,
+        1464.0,
+        921.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "These, then, are the general factors which speak for, or against, indirect de-",
+      "bbox": [
+        268.0,
+        932.0,
+        1542.0,
+        973.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fence by means of the wing pawns, but in this case too the reader must overcome",
+      "bbox": [
+        224.0,
+        984.0,
+        1543.0,
+        1024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "any inclination to think merely in terms of formulae, since the essence of a for-",
+      "bbox": [
+        224.0,
+        1033.0,
+        1542.0,
+        1075.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mula often consists of 'exceptions which prove the rule'.",
+      "bbox": [
+        224.0,
+        1086.0,
+        1165.0,
+        1124.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Defence by counterattack",
+      "bbox": [
+        227.0,
+        1192.0,
+        873.0,
+        1243.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Venturing further into the broad field of indirect defence, we next concern our-",
+      "bbox": [
+        224.0,
+        1286.0,
+        1543.0,
+        1326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "selves with a series of cases in which methods other than a pawn thrust in the cen-",
+      "bbox": [
+        225.0,
+        1337.0,
+        1543.0,
+        1375.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tre are used. We shall examine five examples from the point of view of the",
+      "bbox": [
+        225.0,
+        1387.0,
+        1544.0,
+        1426.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "following factors:",
+      "bbox": [
+        225.0,
+        1440.0,
+        517.0,
+        1478.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1) The area of the counterattack and the conditions underlying it.",
+      "bbox": [
+        275.0,
+        1489.0,
+        1359.0,
+        1528.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) The part played by the material situation in relation to positional consider-",
+      "bbox": [
+        271.0,
+        1540.0,
+        1544.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ations.",
+      "bbox": [
+        226.0,
+        1593.0,
+        331.0,
+        1622.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) The interweaving of indirect defence with direct and the switching from",
+      "bbox": [
+        271.0,
+        1641.0,
+        1546.0,
+        1680.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "one to the other.",
+      "bbox": [
+        225.0,
+        1693.0,
+        490.0,
+        1722.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4) The dependence of timing and the form of defence on the state of the at-",
+      "bbox": [
+        270.0,
+        1741.0,
+        1544.0,
+        1781.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tacker's commitments.",
+      "bbox": [
+        226.0,
+        1793.0,
+        599.0,
+        1823.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The following position is from the game K.Treybal-H.Wolf, Teplitz-Schönau",
+      "bbox": [
+        270.0,
+        1893.0,
+        1545.0,
+        1933.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1922. Black, to move, has the task of organizing a defence against an attack on",
+      "bbox": [
+        230.0,
+        1944.0,
+        1546.0,
+        1982.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "his king position. A single glance is enough to show that he has no move to make",
+      "bbox": [
+        226.0,
+        1994.0,
+        1546.0,
+        2034.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in the way of direct defence. The only move in keeping with that would be",
+      "bbox": [
+        226.0,
+        2045.0,
+        1546.0,
+        2085.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I ...#h7, but that would simply make White's attack easier. For example, White",
+      "bbox": [
+        230.0,
+        2092.0,
+        1546.0,
+        2135.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "will in any case play Xf4-h4 and then (with the king on h7) the square g5 will be",
+      "bbox": [
+        226.0,
+        2143.0,
+        1546.0,
+        2185.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "available for his queen, besides which there is a threat of Acl followed by Xxh6",
+      "bbox": [
+        227.0,
+        2191.0,
+        1546.0,
+        2236.0
+      ],
+      "confidence": null
+    }
+  ]
+}

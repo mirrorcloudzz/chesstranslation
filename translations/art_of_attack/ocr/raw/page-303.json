@@ -1,0 +1,180 @@
+{
+  "pdf_page": 303,
+  "printed_page": 303,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        491.0,
+        127.0,
+        1312.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "303",
+      "bbox": [
+        1488.0,
+        125.0,
+        1549.0,
+        157.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from the game Lilienthal-Bondarevsky, USSR Absolute",
+      "bbox": [
+        283.0,
+        877.0,
+        1557.0,
+        924.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Championship, Leningrad/Moscow 1941. Black had come to grief through play-",
+      "bbox": [
+        239.0,
+        927.0,
+        1556.0,
+        974.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing an incorrect version of the Marshall Attack in the Ruy Lopez; a pawn up,",
+      "bbox": [
+        239.0,
+        980.0,
+        1556.0,
+        1025.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White does not have a hard task ahead.",
+      "bbox": [
+        239.0,
+        1033.0,
+        884.0,
+        1066.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Ag5",
+      "bbox": [
+        287.0,
+        1082.0,
+        391.0,
+        1124.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Provoking Black to weaken his kingside by ...f6, which is difficult to avoid.",
+      "bbox": [
+        286.0,
+        1129.0,
+        1539.0,
+        1174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...f6 2 Ad2",
+      "bbox": [
+        288.0,
+        1182.0,
+        492.0,
+        1217.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White has devoted a tempo to inducing the weakness ...f6; we shall soon see",
+      "bbox": [
+        285.0,
+        1230.0,
+        1559.0,
+        1273.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "that it is well worth it.",
+      "bbox": [
+        241.0,
+        1287.0,
+        604.0,
+        1318.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...±h8 3 Xel Vf8 4 d4 Ad6 5 axd6 Vxd6 6 Vh5 g6",
+      "bbox": [
+        286.0,
+        1328.0,
+        1214.0,
+        1371.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The threat of Äe8+ provokes a new weakness.",
+      "bbox": [
+        286.0,
+        1384.0,
+        1050.0,
+        1426.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 Vh4 Ac6 8 f3 •g7 (D)",
+      "bbox": [
+        287.0,
+        1434.0,
+        716.0,
+        1475.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White threatened 9 Axd5 Axd5 10 Af4 Vc6 11 Äe7.",
+      "bbox": [
+        286.0,
+        1480.0,
+        1178.0,
+        1519.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "43-7'/",
+      "bbox": [
+        656.0,
+        1979.0,
+        693.0,
+        1995.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9 Ah6+ 10 g5",
+      "bbox": [
+        291.0,
+        2192.0,
+        695.0,
+        2233.0
+      ],
+      "confidence": null
+    }
+  ]
+}

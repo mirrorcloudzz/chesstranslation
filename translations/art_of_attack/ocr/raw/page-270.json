@@ -1,0 +1,170 @@
+{
+  "pdf_page": 270,
+  "printed_page": 270,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "270",
+      "bbox": [
+        234.0,
+        121.0,
+        298.0,
+        153.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        661.0,
+        126.0,
+        1156.0,
+        168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Of Black's other moves the most difficult to deal with is 13...Vc4, threatening",
+      "bbox": [
+        277.0,
+        271.0,
+        1551.0,
+        327.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14...Vc2. White is then able to draw by 14 Xal Xa2 15 Xbl Äb21 16 Xal etc., but",
+      "bbox": [
+        235.0,
+        316.0,
+        1550.0,
+        373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "can he also win? This may be left to the reader to examine; we shall return to the",
+      "bbox": [
+        229.0,
+        372.0,
+        1549.0,
+        419.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "game, where Black played 8...Axh6? (D).",
+      "bbox": [
+        229.0,
+        423.0,
+        924.0,
+        466.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9 Äxh6 Vxb3",
+      "bbox": [
+        264.0,
+        1123.0,
+        499.0,
+        1159.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black also loses after 9...Xxb3 10 Vcl Qg4 II Vg5! Äbb2 12 Xxg6+.",
+      "bbox": [
+        263.0,
+        1177.0,
+        1441.0,
+        1231.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "IO VCI",
+      "bbox": [
+        264.0,
+        1222.0,
+        385.0,
+        1258.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now the main defect in Black's eighth move can be seen: White is at once",
+      "bbox": [
+        261.0,
+        1278.0,
+        1535.0,
+        1326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "threatening 11 Xh8+.",
+      "bbox": [
+        216.0,
+        1328.0,
+        569.0,
+        1368.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10...Qg4 11 Qf5! Äe8 12 Xh4 Xxe4 13 Qe7+ Xxe7 14 fxe7 Xe2 15 Äxg4",
+      "bbox": [
+        262.0,
+        1375.0,
+        1534.0,
+        1436.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ve3+ 16 Vxe3 xxe3 17 Zxg6+! 18 xgf6 1-0",
+      "bbox": [
+        214.0,
+        1423.0,
+        1064.0,
+        1477.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        206.0,
+        2141.0,
+        217.0,
+        2169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this line 15...Vd4+ 16 Éhl Xal wins for Black — indeed, White seems to be",
+      "bbox": [
+        285.0,
+        2141.0,
+        1523.0,
+        2192.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "struggling after 13...Vc4.",
+      "bbox": [
+        285.0,
+        2191.0,
+        684.0,
+        2230.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "pdf_page": 161,
+  "printed_page": 161,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        346.7,
+        124.7,
+        1554.7,
+        173.4
+      ],
+      "text": "Ranks, files and diagonals in the attack on the castled king 161",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        227.9,
+        269.5,
+        1554.7,
+        316.9
+      ],
+      "text": "his material: 6 We7+ $xe7 7 e1+ d7 8 f1 h1+ 9 e2 e8+, after which",
+      "confidence": 0.9497
+    },
+    {
+      "bbox": [
+        231.6,
+        321.8,
+        1132.0,
+        366.8
+      ],
+      "text": "10...exel leads to a further harvest on the back rank.",
+      "confidence": 0.9721
+    },
+    {
+      "bbox": [
+        229.1,
+        369.3,
+        498.6,
+        419.2
+      ],
+      "text": "D) 1...h7 (D)",
+      "confidence": 0.9763
+    },
+    {
+      "bbox": [
+        539.1,
+        576.3,
+        573.4,
+        608.8
+      ],
+      "text": "W",
+      "confidence": 0.9135
+    },
+    {
+      "bbox": [
+        965.4,
+        980.5,
+        996.0,
+        1005.5
+      ],
+      "text": "口",
+      "confidence": 0.9636
+    },
+    {
+      "bbox": [
+        273.2,
+        1075.3,
+        1554.7,
+        1125.2
+      ],
+      "text": "Finally, there is also the possibility of the rook retiring from h5 so that the",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        227.9,
+        1130.2,
+        744.9,
+        1175.1
+      ],
+      "text": "queen cannot take it after ...g3.",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        268.3,
+        1176.4,
+        344.3,
+        1217.5
+      ],
+      "text": "2 f4",
+      "confidence": 0.9366
+    },
+    {
+      "bbox": [
+        268.3,
+        1225.0,
+        1554.7,
+        1278.7
+      ],
+      "text": "If 2 g3, we get the following entertaining variation: 2...f3+ 3 Wxf3 gxf3 4",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        227.9,
+        1273.7,
+        1553.5,
+        1332.3
+      ],
+      "text": "g5 xe4 5 Qh4 xg3! 6 Qxg3 ah8 mating. An example of 'clearing up' on",
+      "confidence": 0.9447
+    },
+    {
+      "bbox": [
+        223.0,
+        1316.1,
+        409.2,
+        1373.5
+      ],
+      "text": "the h-file'.",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        270.8,
+        1376.0,
+        480.3,
+        1425.9
+      ],
+      "text": "2...g3 3 μf3",
+      "confidence": 0.8908
+    },
+    {
+      "bbox": [
+        272.0,
+        1423.4,
+        863.7,
+        1475.8
+      ],
+      "text": "Or 3 We1 e2+ 4 Wxe2 ah8, etc.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        272.0,
+        1478.3,
+        904.2,
+        1524.4
+      ],
+      "text": "3...ah8 4 xg3 h1+ 5 +f2 xe4#",
+      "confidence": 0.9249
+    },
+    {
+      "bbox": [
+        268.3,
+        1579.3,
+        1553.5,
+        1633.0
+      ],
+      "text": "In the above diagram doubling rooks was an easy task, but the crux lay in con-",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        227.9,
+        1634.2,
+        1552.3,
+        1680.4
+      ],
+      "text": "trolling the squares which the king might use for its escape. However, there are",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        225.4,
+        1684.1,
+        1553.5,
+        1730.3
+      ],
+      "text": "cases where the problem lies in actually doubling the rooks on the intended file.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        224.2,
+        1732.7,
+        1553.5,
+        1780.2
+      ],
+      "text": "As a rule a necessary condition for this is that the attacker's back rank should be",
+      "confidence": 0.9726
+    },
+    {
+      "bbox": [
+        224.2,
+        1782.6,
+        1554.7,
+        1832.5
+      ],
+      "text": "clear of other pieces so that the rooks can be moved at will. When the rooks on a",
+      "confidence": 0.9708
+    },
+    {
+      "bbox": [
+        224.2,
+        1833.8,
+        1553.5,
+        1883.7
+      ],
+      "text": "given rank cover each other, they are said to be 'united'. Naturally, being 'united'",
+      "confidence": 0.9765
+    },
+    {
+      "bbox": [
+        221.8,
+        1884.9,
+        1549.8,
+        1936.1
+      ],
+      "text": "can also apply to a queen and rook. The continuation from the following diagram",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        223.0,
+        1936.1,
+        698.3,
+        1978.5
+      ],
+      "text": "is instructive in this context.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        305.1,
+        2047.1,
+        1544.9,
+        2092.0
+      ],
+      "text": "There is no argument about Vukovic's first three lines, but in variation ‘D'",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        305.1,
+        2089.5,
+        1547.4,
+        2146.9
+      ],
+      "text": "White can play 2 xd4 ah8 (after 2..xd4 3 e1 ah8 4 f1 the king slips",
+      "confidence": 0.9776
+    },
+    {
+      "bbox": [
+        305.1,
+        2136.9,
+        1549.8,
+        2195.6
+      ],
+      "text": "out) 3 Wxg4+! c7 4 Wh3 xh3 5 gxh3 xd4 6 c3, escaping into an ending",
+      "confidence": 0.9713
+    },
+    {
+      "bbox": [
+        303.8,
+        2191.8,
+        853.9,
+        2238.0
+      ],
+      "text": "in which he is only slightly worse.",
+      "confidence": 0.9772
+    }
+  ]
+}

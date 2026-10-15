@@ -1,0 +1,280 @@
+{
+  "pdf_page": 308,
+  "printed_page": 308,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "308",
+      "bbox": [
+        222.0,
+        131.0,
+        283.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        647.0,
+        134.0,
+        1141.0,
+        174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Although an interesting move, this is nevertheless not the strongest. Correct",
+      "bbox": [
+        265.0,
+        282.0,
+        1538.0,
+        325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "was 4 Qg5 followed by Ad3; for example, if 4...h6, then 5 Qxf7 •xf7 6 Ah5+",
+      "bbox": [
+        220.0,
+        327.0,
+        1537.0,
+        373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 Vg6 Vd8 8 f5 exf5 9 e6 Ac6 10 Oxf5 wins for White.",
+      "bbox": [
+        307.0,
+        377.0,
+        1251.0,
+        420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...Axf6 5 Axa3 Ad8 would have been rather unpleasant for Black; however,",
+      "bbox": [
+        263.0,
+        477.0,
+        1534.0,
+        524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's attack would not have been so strong in that case on account of the de-",
+      "bbox": [
+        218.0,
+        532.0,
+        1534.0,
+        573.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fensive possibility ...f5.",
+      "bbox": [
+        218.0,
+        582.0,
+        603.0,
+        621.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 Vh4 Qxf6 6 Ad3 g6?",
+      "bbox": [
+        262.0,
+        627.0,
+        668.0,
+        672.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The decisive mistake. Black ought not to weaken his dark squares, particularly",
+      "bbox": [
+        262.0,
+        683.0,
+        1534.0,
+        728.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in view of the commitment of his dark-squared bishop to cover a3, as a result of",
+      "bbox": [
+        217.0,
+        732.0,
+        1537.0,
+        775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which it is only half at the disposal of the defence. The right course to take was",
+      "bbox": [
+        216.0,
+        783.0,
+        1533.0,
+        826.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...h6! 7 Axa3 Axa3 8 exf6 Af8, for after 9 Qf3 Vd8 10 Qe5 Ae8 Black has a",
+      "bbox": [
+        216.0,
+        828.0,
+        1534.0,
+        870.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "complete defence.",
+      "bbox": [
+        215.0,
+        884.0,
+        515.0,
+        922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 exf6 Af8 8 Qf3 9 Qg5 h6 10 Axa3",
+      "bbox": [
+        259.0,
+        930.0,
+        982.0,
+        974.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White captures the knight at precisely the most inconvenient moment for",
+      "bbox": [
+        259.0,
+        985.0,
+        1532.0,
+        1026.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black.",
+      "bbox": [
+        214.0,
+        1035.0,
+        317.0,
+        1064.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10...hxg5 (D)",
+      "bbox": [
+        261.0,
+        1084.0,
+        483.0,
+        1122.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11 fxg5",
+      "bbox": [
+        254.0,
+        1789.0,
+        378.0,
+        1828.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White can also win simply by 11 Vxg5 Axa3 12 Axg6 Éf8 13 Axf7 •xf7 14",
+      "bbox": [
+        251.0,
+        1839.0,
+        1524.0,
+        1886.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg7+ 15 f7+ Éd8 16 Vf6+ with a quick mate.",
+      "bbox": [
+        206.0,
+        1884.0,
+        1075.0,
+        1934.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11...Axa3 12 Axg6",
+      "bbox": [
+        252.0,
+        1936.0,
+        581.0,
+        1981.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 12 Xf3 e5, White must still play Axg6.",
+      "bbox": [
+        250.0,
+        1988.0,
+        939.0,
+        2036.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12...fxg6 13 Äd3",
+      "bbox": [
+        252.0,
+        2040.0,
+        533.0,
+        2081.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Not 13 f 7+, since 13...#f8 14 Vh8+ 15 Vf6+ sees Black's king wrig-",
+      "bbox": [
+        249.0,
+        2091.0,
+        1521.0,
+        2143.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gling out to d6.",
+      "bbox": [
+        204.0,
+        2143.0,
+        454.0,
+        2181.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13...Xf8",
+      "bbox": [
+        250.0,
+        2190.0,
+        385.0,
+        2223.0
+      ],
+      "confidence": null
+    }
+  ]
+}

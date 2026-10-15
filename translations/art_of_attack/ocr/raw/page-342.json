@@ -1,0 +1,290 @@
+{
+  "pdf_page": 342,
+  "printed_page": 342,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "342",
+      "bbox": [
+        223.0,
+        144.0,
+        285.0,
+        174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12...b4 13 Axf6",
+      "bbox": [
+        269.0,
+        288.0,
+        535.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        649.0,
+        144.0,
+        1142.0,
+        184.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This exchange is advantageous in two respects; first, for its 'clearance' of the",
+      "bbox": [
+        266.0,
+        342.0,
+        1539.0,
+        382.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "square c5 and secondly, because it eliminates the possibility of a defence later on",
+      "bbox": [
+        221.0,
+        393.0,
+        1538.0,
+        434.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by ...Qf8.",
+      "bbox": [
+        221.0,
+        438.0,
+        382.0,
+        481.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13...Qxf6 14 Q)e4 Qxe4 15 Axe4 Axe4 16 Vxe4 c5",
+      "bbox": [
+        268.0,
+        489.0,
+        1145.0,
+        526.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sink or swim, Black must play this, for otherwise Vc6 follows, fixing the",
+      "bbox": [
+        266.0,
+        541.0,
+        1538.0,
+        586.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "backward c-pawn.",
+      "bbox": [
+        220.0,
+        595.0,
+        521.0,
+        633.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17 dxc5 Vas 18 b3 Axc5 19 (D)",
+      "bbox": [
+        267.0,
+        640.0,
+        920.0,
+        683.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Can it be that White is justified in switching to an attack on the king after prep-",
+      "bbox": [
+        261.0,
+        1348.0,
+        1533.0,
+        1393.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "arations which were clearly directed at the c-file? How does this fit in with our",
+      "bbox": [
+        216.0,
+        1399.0,
+        1535.0,
+        1439.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "thesis on the need to fulfil a series of preconditions before opening an attack on",
+      "bbox": [
+        216.0,
+        1449.0,
+        1534.0,
+        1493.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the king? In fact, there is no contradiction; the preconditions are present, but they",
+      "bbox": [
+        215.0,
+        1500.0,
+        1533.0,
+        1545.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have arisen in a different way from those in the Alekhine-Asztalos game.",
+      "bbox": [
+        215.0,
+        1551.0,
+        1428.0,
+        1596.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It is true that the preconditions for the attack on the castled king in this game",
+      "bbox": [
+        260.0,
+        1602.0,
+        1533.0,
+        1647.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "have come about suddenly and somewhat incidentally; at the same time, this has",
+      "bbox": [
+        214.0,
+        1652.0,
+        1533.0,
+        1695.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "occurred quite legitimately. The main point is that White's play, starting with 12",
+      "bbox": [
+        214.0,
+        1704.0,
+        1532.0,
+        1748.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a4, serves two purposes: it maintains the pressure on the c-file and simulta-",
+      "bbox": [
+        214.0,
+        1753.0,
+        1531.0,
+        1795.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "neously improves the preconditions for an attack on the king. As a result of 12 a4",
+      "bbox": [
+        214.0,
+        1804.0,
+        1531.0,
+        1848.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "b4 and 18 b3 the position on the queenside became blocked, and this has reduced",
+      "bbox": [
+        213.0,
+        1854.0,
+        1532.0,
+        1896.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's prospects of counterplay, while 17 dxc5 resolved the tension in the cen-",
+      "bbox": [
+        213.0,
+        1904.0,
+        1531.0,
+        1946.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tre.",
+      "bbox": [
+        213.0,
+        1960.0,
+        263.0,
+        1984.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Furthermore, 13 Axf6, 15 Axe4, and 16 Vxe4 represent, in effect, a far-",
+      "bbox": [
+        257.0,
+        2003.0,
+        1530.0,
+        2049.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "reaching elimination of Black's defending pieces; in the same way, the struggle",
+      "bbox": [
+        210.0,
+        2056.0,
+        1531.0,
+        2102.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "revolving around the pawns on the c-file has forced Black (in 17...Va5 and",
+      "bbox": [
+        210.0,
+        2106.0,
+        1531.0,
+        2148.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18...Axc5) to displace two pieces which are important for the defence of his king",
+      "bbox": [
+        215.0,
+        2152.0,
+        1530.0,
+        2203.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position. This is without doubt a full set of preconditions, built up with true",
+      "bbox": [
+        211.0,
+        2207.0,
+        1531.0,
+        2253.0
+      ],
+      "confidence": null
+    }
+  ]
+}

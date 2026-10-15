@@ -1,0 +1,200 @@
+{
+  "pdf_page": 58,
+  "printed_page": 58,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        204.6,
+        116.0,
+        258.5,
+        162.2
+      ],
+      "text": "58",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        634.6,
+        116.0,
+        1135.7,
+        163.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9719
+    },
+    {
+      "bbox": [
+        627.3,
+        286.9,
+        882.1,
+        345.6
+      ],
+      "text": "皇当",
+      "confidence": 0.5973
+    },
+    {
+      "bbox": [
+        544.0,
+        370.5,
+        573.4,
+        399.2
+      ],
+      "text": "W",
+      "confidence": 0.9305
+    },
+    {
+      "bbox": [
+        252.4,
+        868.2,
+        1532.7,
+        914.4
+      ],
+      "text": "Capablanca's freeing manoeuvre in the Orthodox Defence to the Queen's",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        207.0,
+        919.4,
+        344.3,
+        961.8
+      ],
+      "text": "Gambit.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        254.8,
+        970.5,
+        1201.9,
+        1008.0
+      ],
+      "text": "10 xe7 Wxe7 11 e4 Wb4+ 12 Wd2 Wxd2+ 13 xd2",
+      "confidence": 0.9647
+    },
+    {
+      "bbox": [
+        247.5,
+        1016.7,
+        1530.2,
+        1069.1
+      ],
+      "text": "This variation was played in a number of games from the 1927 World Champi-",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        208.3,
+        1070.3,
+        1535.1,
+        1116.5
+      ],
+      "text": "onship Match between Capablanca and Alekhine. White does not worry about",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        205.8,
+        1121.5,
+        1531.4,
+        1167.6
+      ],
+      "text": "castling, as the position is approaching an endgame and the king is fairly safe in",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        207.0,
+        1172.6,
+        610.1,
+        1211.3
+      ],
+      "text": "the middle of the board.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        247.5,
+        1220.0,
+        1531.4,
+        1268.7
+      ],
+      "text": "A second example is supplied by my analysis of a variation of the Slav De-",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        203.4,
+        1272.4,
+        311.2,
+        1314.8
+      ],
+      "text": "fence.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        248.7,
+        1319.8,
+        997.3,
+        1363.5
+      ],
+      "text": "1 d4 d5 2 c4 c6 3 c3 dxc4 4 e4 e5 5 dxe5!",
+      "confidence": 0.9674
+    },
+    {
+      "bbox": [
+        249.9,
+        1373.5,
+        1491.0,
+        1418.4
+      ],
+      "text": "In my Modern Opening Theory I suggested that this was better than 5 xc4.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        249.9,
+        1415.9,
+        659.1,
+        1468.3
+      ],
+      "text": "5...wxd1+ 6 xd1! (D)",
+      "confidence": 0.9597
+    },
+    {
+      "bbox": [
+        541.5,
+        1631.7,
+        562.3,
+        1657.9
+      ],
+      "text": "B",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        247.5,
+        2127.0,
+        1532.7,
+        2183.1
+      ],
+      "text": "White could have retained his right to castle by playing 6 xd1; however, it is",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        202.1,
+        2180.6,
+        1532.7,
+        2230.5
+      ],
+      "text": "better to use the king since castling is no longer necessary in this position, and it",
+      "confidence": 0.99
+    }
+  ]
+}

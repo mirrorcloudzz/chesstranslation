@@ -1,0 +1,190 @@
+{
+  "pdf_page": 124,
+  "printed_page": 124,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        267.1,
+        118.5,
+        343.0,
+        164.7
+      ],
+      "text": "124",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        695.9,
+        122.3,
+        1199.4,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9654
+    },
+    {
+      "bbox": [
+        607.7,
+        374.2,
+        640.7,
+        406.7
+      ],
+      "text": "W",
+      "confidence": 0.6892
+    },
+    {
+      "bbox": [
+        262.2,
+        868.2,
+        1590.2,
+        928.1
+      ],
+      "text": "White's position is strong enough (thanks to the activity of his bishop on f4 and",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        261.0,
+        923.1,
+        950.7,
+        968.0
+      ],
+      "text": "rook on el) to withstand the loss of time.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        305.1,
+        968.0,
+        504.8,
+        1014.2
+      ],
+      "text": "4 Wh4 e8",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        302.6,
+        1021.7,
+        1585.3,
+        1074.1
+      ],
+      "text": "If 4...g6, then 5 Wh6!, followed by 6 &e5 and e3-h3, wins, while 4...c7",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        261.0,
+        1070.3,
+        742.4,
+        1119.0
+      ],
+      "text": "would be met by 5 Qe5, etc.",
+      "confidence": 0.9651
+    },
+    {
+      "bbox": [
+        303.8,
+        1119.0,
+        502.3,
+        1163.9
+      ],
+      "text": "5 Ωe5 we7",
+      "confidence": 0.8292
+    },
+    {
+      "bbox": [
+        303.8,
+        1170.1,
+        1107.5,
+        1222.5
+      ],
+      "text": "If 5...f8, then 6 Wh8+ and 7 Wxg7 is decisive.",
+      "confidence": 0.9575
+    },
+    {
+      "bbox": [
+        303.8,
+        1220.0,
+        917.6,
+        1271.2
+      ],
+      "text": "6 e3 d8 7 h3 and White mates.",
+      "confidence": 0.9773
+    },
+    {
+      "bbox": [
+        300.2,
+        1323.6,
+        1581.7,
+        1383.5
+      ],
+      "text": "In the position in the next diagram an important condition regarding the ...g8",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        258.5,
+        1376.0,
+        1586.6,
+        1432.1
+      ],
+      "text": "variation has apparently not been fulfilled, since the diagonal from c8 to f5 is",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        257.3,
+        1425.9,
+        1586.6,
+        1480.8
+      ],
+      "text": "open to Black's bishop. However, White has the possibility of We4+ as well as",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        258.5,
+        1477.0,
+        1493.4,
+        1530.7
+      ],
+      "text": "other active factors in his favour, and therefore the sacrifice still succeeds.",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        942.1,
+        1616.7,
+        1068.3,
+        1655.4
+      ],
+      "text": "A",
+      "confidence": 0.5362
+    },
+    {
+      "bbox": [
+        594.2,
+        1689.1,
+        617.5,
+        1711.5
+      ],
+      "text": "W",
+      "confidence": 0.8539
+    },
+    {
+      "bbox": [
+        294.0,
+        2178.1,
+        807.4,
+        2234.2
+      ],
+      "text": "1 Ωxh7+! xh7 2 ②g5+ g8",
+      "confidence": 0.8796
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "pdf_page": 305,
+  "printed_page": 305,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        492.0,
+        126.0,
+        1313.0,
+        172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "305",
+      "bbox": [
+        1489.0,
+        124.0,
+        1549.0,
+        156.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4 Vh3 Axf6 5 exf6 h5 6 Qg3 e5 7 Vh4 Ag4 8 axh5! Axh5 9 Vg5 10",
+      "bbox": [
+        280.0,
+        268.0,
+        1554.0,
+        316.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxh5+ followed by Vh6 and Vg7#.",
+      "bbox": [
+        235.0,
+        323.0,
+        845.0,
+        368.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The next three examples are concerned with cases where the creation of the",
+      "bbox": [
+        281.0,
+        423.0,
+        1555.0,
+        468.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "preconditions for the attack on the king demands the removal of the opponent's",
+      "bbox": [
+        236.0,
+        473.0,
+        1555.0,
+        522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pieces from defensive positions or their displacement in some way.",
+      "bbox": [
+        237.0,
+        526.0,
+        1349.0,
+        572.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is taken from the game O' Kelly-Castaldi, Hilversum 1947. Here",
+      "bbox": [
+        287.0,
+        1229.0,
+        1562.0,
+        1274.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's king position has already been weakened, White's pieces are all well",
+      "bbox": [
+        243.0,
+        1279.0,
+        1562.0,
+        1324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "posted, and there is no danger of counterplay in the centre or, indeed, anywhere;",
+      "bbox": [
+        243.0,
+        1331.0,
+        1561.0,
+        1376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the only real obstacle is Black's queen, which is defending the kingside well at",
+      "bbox": [
+        244.0,
+        1381.0,
+        1563.0,
+        1426.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the moment, e.g. if 1 Vh6, then l...Vg7. So the action White takes has the aim of",
+      "bbox": [
+        244.0,
+        1430.0,
+        1566.0,
+        1476.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "inveigling Black's queen to as far away as b8!",
+      "bbox": [
+        244.0,
+        1485.0,
+        1001.0,
+        1527.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Threatening to win Black's a-pawn by 2 Va5.",
+      "bbox": [
+        290.0,
+        1580.0,
+        1047.0,
+        1627.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Vd6",
+      "bbox": [
+        293.0,
+        1634.0,
+        420.0,
+        1670.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If I ...Xd7, then 2 Xe8, after which both 2...Äd6 and 2...Vg7 are answered by 3",
+      "bbox": [
+        291.0,
+        1680.0,
+        1563.0,
+        1725.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Va5.",
+      "bbox": [
+        245.0,
+        1736.0,
+        327.0,
+        1772.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 Va5 Vb8 3 vg5 Qd5 4 Vh6 1-0",
+      "bbox": [
+        292.0,
+        1784.0,
+        888.0,
+        1829.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "There is no defence against Qg5, e.g. 4...Vf4 5 Qg5 Qf6 6 Axf7+ 7",
+      "bbox": [
+        291.0,
+        1833.0,
+        1564.0,
+        1879.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Actions of this type might be called indirect attacks on the castled king.",
+      "bbox": [
+        292.0,
+        1939.0,
+        1484.0,
+        1980.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In the following diagram, some of the preconditions for an attack on Black's",
+      "bbox": [
+        293.0,
+        2039.0,
+        1567.0,
+        2081.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king position are already present. White's pieces are fairly well placed, and the",
+      "bbox": [
+        248.0,
+        2090.0,
+        1568.0,
+        2133.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "blocked centre makes it difficult for Black to counterattack. A breakthrough by",
+      "bbox": [
+        249.0,
+        2140.0,
+        1568.0,
+        2178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...b5-b4 would require rather lengthy preparation, while the other possibility",
+      "bbox": [
+        251.0,
+        2191.0,
+        1536.0,
+        2233.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "pdf_page": 61,
+  "printed_page": 61,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        359.0,
+        124.7,
+        1419.9,
+        169.7
+      ],
+      "text": "On castling and attacking the castled position in general",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        1466.5,
+        123.5,
+        1538.8,
+        164.7
+      ],
+      "text": "61",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        211.9,
+        270.7,
+        1538.8,
+        315.6
+      ],
+      "text": "risk of such an attack lies. If the attack does not succeed, the fact that some of the",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        214.4,
+        320.6,
+        1386.9,
+        369.3
+      ],
+      "text": "attacker's pieces are out of position as a rule tells against the attacker.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        258.5,
+        370.5,
+        1538.8,
+        420.4
+      ],
+      "text": "The reader will come to understand the deeper significance of this argument in",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        215.6,
+        425.4,
+        722.8,
+        467.8
+      ],
+      "text": "the final chapters of this book.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        257.3,
+        472.8,
+        1540.0,
+        516.5
+      ],
+      "text": "To understand the attack on the castled king we shall start with the basic fac-",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        213.2,
+        523.9,
+        1538.8,
+        568.9
+      ],
+      "text": "tors involved, spatial, material and temporal (the method I applied in my Intro-",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        215.6,
+        573.8,
+        1538.8,
+        616.3
+      ],
+      "text": "duction to Chess and School of Combinations). It is true that in every action",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        218.1,
+        623.7,
+        1542.5,
+        667.4
+      ],
+      "text": "which takes place on the chessboard all these three factors can be observed to-",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        216.9,
+        672.4,
+        1543.7,
+        721.0
+      ],
+      "text": "gether, since each move has its own spatial, material and temporal significance;",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        215.6,
+        724.8,
+        1541.2,
+        769.7
+      ],
+      "text": "however, the emphasis of one's actual observation may be in one case on the spa-",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        216.9,
+        775.9,
+        1540.0,
+        818.3
+      ],
+      "text": "tial, in another on the material, and in a third on the temporal, aspect. For this rea-",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        214.4,
+        823.3,
+        1546.1,
+        873.2
+      ],
+      "text": "son, the separation of the different factors is the most effective and the clearest",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        220.5,
+        883.2,
+        720.4,
+        920.6
+      ],
+      "text": "method for teaching purposes.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        216.9,
+        984.3,
+        1274.1,
+        1035.4
+      ],
+      "text": "The attack on the castled king in the past",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        219.3,
+        1076.6,
+        1541.2,
+        1121.5
+      ],
+      "text": "At the time when modern chess was in its infancy, i.e. after the reforms of the",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        218.1,
+        1127.7,
+        1541.2,
+        1171.4
+      ],
+      "text": "rules in the last quarter of the fifteenth century, the attack on the castled king did",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        218.1,
+        1178.9,
+        1542.5,
+        1223.8
+      ],
+      "text": "not yet exist, or at any rate there was no trace ofit in the games recorded. The cas-",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        219.3,
+        1230.0,
+        1542.5,
+        1272.4
+      ],
+      "text": "tling move itself was at that time only in the process of being created (some were",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        215.6,
+        1278.7,
+        1544.9,
+        1324.8
+      ],
+      "text": "still using the mediaeval king's jump, while others were castling but in two",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        215.6,
+        1329.8,
+        1542.5,
+        1373.5
+      ],
+      "text": "moves -- i.e. first h1-f1, and then on the next move e1-gl, etc.) and combina-",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        216.9,
+        1378.5,
+        1543.7,
+        1427.1
+      ],
+      "text": "tive technique - especially with the 'new pieces', the queen and the knight -- was",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        219.3,
+        1433.4,
+        1542.5,
+        1474.5
+      ],
+      "text": "still fairly primitive, so that the decision in a game was usually reached by cruder",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        216.9,
+        1482.0,
+        1544.9,
+        1528.2
+      ],
+      "text": "methods than by attacking the castled king, e.g. by capturing on f7 before cas-",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        218.1,
+        1531.9,
+        1543.7,
+        1580.6
+      ],
+      "text": "tling had taken place or simply by winning material. The first recorded instance",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        218.1,
+        1581.8,
+        1541.2,
+        1626.7
+      ],
+      "text": "of an attack on the castled king occurs in the so-called Paris MS., which origi-",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        219.3,
+        1635.4,
+        1547.4,
+        1676.6
+      ],
+      "text": "nated about 1500, a more mature and fuller development of Lucena's work of",
+      "confidence": 0.9777
+    },
+    {
+      "bbox": [
+        218.1,
+        1684.1,
+        1543.7,
+        1727.8
+      ],
+      "text": "1497, the oldest printed book on modern chess. In the course of analysing an",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        220.5,
+        1732.7,
+        1542.5,
+        1780.2
+      ],
+      "text": "opening (one later given the name of Philidor Defence) the author arrives at the",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        216.9,
+        1788.9,
+        900.5,
+        1830.1
+      ],
+      "text": "position at the top of the following page:",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        216.9,
+        1835.0,
+        594.2,
+        1883.7
+      ],
+      "text": "Black, to move, plays:",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        262.2,
+        1881.2,
+        553.8,
+        1932.3
+      ],
+      "text": "1...g5! 2 h2 h5",
+      "confidence": 0.9344
+    },
+    {
+      "bbox": [
+        263.4,
+        1938.6,
+        1542.5,
+        1983.5
+      ],
+      "text": "He uses his pawns to carry out an attack on the king, a plan suited to this posi-",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        218.1,
+        1988.5,
+        1108.8,
+        2033.4
+      ],
+      "text": "tion as it takes advantage of White's weakness on h3.",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        259.7,
+        2039.6,
+        356.5,
+        2078.3
+      ],
+      "text": "3 f3?",
+      "confidence": 0.9
+    },
+    {
+      "bbox": [
+        263.4,
+        2090.8,
+        1541.2,
+        2131.9
+      ],
+      "text": "A mistake, which Lucena makes 'in accordance with the thought of his times'.",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        219.3,
+        2138.2,
+        1543.7,
+        2183.1
+      ],
+      "text": "White could have defended himself satisfactorily if he had immediately played 3",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        216.9,
+        2191.8,
+        289.1,
+        2229.2
+      ],
+      "text": "b5!.",
+      "confidence": 0.9919
+    }
+  ]
+}

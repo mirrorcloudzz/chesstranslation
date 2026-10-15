@@ -1,0 +1,290 @@
+{
+  "pdf_page": 262,
+  "printed_page": 262,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "262",
+      "bbox": [
+        317.0,
+        106.0,
+        380.0,
+        137.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        745.0,
+        114.0,
+        1240.0,
+        157.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White also retains the better prospects this way, though best would in fact have",
+      "bbox": [
+        359.0,
+        256.0,
+        1631.0,
+        312.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "been 26 a4 as given above.",
+      "bbox": [
+        314.0,
+        306.0,
+        755.0,
+        348.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "26...Vc6",
+      "bbox": [
+        356.0,
+        353.0,
+        503.0,
+        389.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black could well have played 26...b4 and if 27 Qe2 then 27...a5. 27 hcxe49",
+      "bbox": [
+        356.0,
+        407.0,
+        1629.0,
+        462.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "would fail against 27...Vc6 followed, after a knight retreat, by 28...Xxe3. How-",
+      "bbox": [
+        310.0,
+        458.0,
+        1626.0,
+        514.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ever, the text move is also correct.",
+      "bbox": [
+        308.0,
+        509.0,
+        870.0,
+        546.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "27 xn?",
+      "bbox": [
+        352.0,
+        555.0,
+        487.0,
+        589.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A tactical mistake, since the rook is not well placed here.",
+      "bbox": [
+        351.0,
+        608.0,
+        1298.0,
+        660.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "27...\" 28 Qe2 va4?",
+      "bbox": [
+        350.0,
+        656.0,
+        711.0,
+        694.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This loses important tempi. Correct was 28...c3! 29 b3! (if 29 bxc3 then",
+      "bbox": [
+        349.0,
+        709.0,
+        1622.0,
+        765.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "29...Ac4 followed by ...Axe2 and ...bxc3, after which Black's position is prefer-",
+      "bbox": [
+        304.0,
+        755.0,
+        1620.0,
+        821.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "able) 29...a5 when Black proceeds along similar lines to those in the actual game",
+      "bbox": [
+        303.0,
+        809.0,
+        1620.0,
+        872.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(i.e. by ...Xa8 and ...a4, etc.) but much more quickly.",
+      "bbox": [
+        302.0,
+        858.0,
+        1175.0,
+        914.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "29 Qg4 Qd7 30 Nn (D)",
+      "bbox": [
+        345.0,
+        905.0,
+        780.0,
+        954.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The move is not a bad one, although it would not inspire commentators nowa-",
+      "bbox": [
+        344.0,
+        960.0,
+        1616.0,
+        1015.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "days to pour on it the praise with which it was once honoured. The point is that by",
+      "bbox": [
+        298.0,
+        1010.0,
+        1616.0,
+        1075.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "30 Qcl c3 31 b3 White obtains a position analogous to that actually reached, and",
+      "bbox": [
+        298.0,
+        1055.0,
+        1615.0,
+        1120.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the only difference is that 30 Ä4f2 sets a trap for 30...Vxa2. However, even that",
+      "bbox": [
+        296.0,
+        1110.0,
+        1615.0,
+        1169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "trap is not so terrible, for after 31 Qt4 If 7 32 Q)g6+ #g8! (Réti only analyses",
+      "bbox": [
+        295.0,
+        1162.0,
+        1612.0,
+        1225.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the inferior 32...Axg6?) 33 axe7+ Xxe7 34 Vg3 35 h3 (otherwise ...h5",
+      "bbox": [
+        294.0,
+        1211.0,
+        1610.0,
+        1269.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "wins the knight) 35...Va5 Black still retains good prospects of counterplay, and it",
+      "bbox": [
+        293.0,
+        1262.0,
+        1611.0,
+        1325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is not certain whether White can use his small material advantage to any real ef-",
+      "bbox": [
+        291.0,
+        1312.0,
+        1609.0,
+        1375.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fect.",
+      "bbox": [
+        290.0,
+        1362.0,
+        359.0,
+        1392.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "30...#g8 31 c3 32 b3 vc6 33 h3",
+      "bbox": [
+        319.0,
+        2066.0,
+        953.0,
+        2112.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Preparing for Qh2 and then g4-g5.",
+      "bbox": [
+        318.0,
+        2119.0,
+        894.0,
+        2169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "33...a5 34 Qh2 a4 35 g4?",
+      "bbox": [
+        317.0,
+        2168.0,
+        749.0,
+        2216.0
+      ],
+      "confidence": null
+    }
+  ]
+}

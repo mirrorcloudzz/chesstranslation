@@ -1,0 +1,290 @@
+{
+  "pdf_page": 125,
+  "printed_page": 125,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        627.3,
+        119.8,
+        1135.7,
+        168.4
+      ],
+      "text": "The classic bishop sacrifice",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        1465.3,
+        117.3,
+        1538.8,
+        164.7
+      ],
+      "text": "125",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        254.8,
+        263.2,
+        1538.8,
+        316.9
+      ],
+      "text": "Both 2..h6 and 2...*g6 are bad, the latter being met by 3 We4+ f5 4 Wh4 f4",
+      "confidence": 0.9643
+    },
+    {
+      "bbox": [
+        210.7,
+        314.4,
+        1290.1,
+        368.0
+      ],
+      "text": "5 Wh7+ xg5 6 h4+ g4 7 f3+ g3 8 g6+ xh4 9 f2, etc.",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        254.8,
+        370.5,
+        382.2,
+        412.9
+      ],
+      "text": "3 We4!",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        254.8,
+        415.4,
+        632.2,
+        464.1
+      ],
+      "text": "But not 3 Wh5? &f5!.",
+      "confidence": 0.965
+    },
+    {
+      "bbox": [
+        254.8,
+        462.8,
+        1511.8,
+        514.0
+      ],
+      "text": "3..f5 4 Wh4 f7 5 Wh8+! xh8 6 xf7+ g8 7 xd8 and White wins.",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        256.1,
+        517.7,
+        1537.6,
+        568.9
+      ],
+      "text": "Here the boxed-in position of Black's rook and the possibility of We4+ fol-",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        211.9,
+        571.3,
+        1532.7,
+        615.0
+      ],
+      "text": "lowed by Wh4 fully compensate for the absence of one of the basic conditions.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        523.1,
+        775.9,
+        557.4,
+        808.4
+      ],
+      "text": "W",
+      "confidence": 0.9744
+    },
+    {
+      "bbox": [
+        258.5,
+        1273.7,
+        1542.5,
+        1321.1
+      ],
+      "text": "In this position Black has an extra tempo in which to defend himself after",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        220.5,
+        1327.3,
+        1537.6,
+        1368.5
+      ],
+      "text": "...g8 because his rook is already on e8, but White's position is so strong in other",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        213.2,
+        1376.0,
+        1299.9,
+        1424.6
+      ],
+      "text": "respects that his sacrifice still leads to a successful breakthrough.",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        256.1,
+        1424.6,
+        969.1,
+        1470.8
+      ],
+      "text": "1 Ωxh7+ xh7 2 ②g5+ $g8 3 Wh5 f8",
+      "confidence": 0.8867
+    },
+    {
+      "bbox": [
+        259.7,
+        1480.8,
+        1533.9,
+        1521.9
+      ],
+      "text": "A difficulty for Black is that he cannot defend the f7-square; if, for example,",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        214.4,
+        1525.7,
+        1495.9,
+        1571.8
+      ],
+      "text": "3...We7, then 4 Wh7+ and 5 Wh8# while if 3...f6, then 4 Wf7+ h8 5 e3, etc.",
+      "confidence": 0.9531
+    },
+    {
+      "bbox": [
+        258.5,
+        1576.8,
+        898.0,
+        1621.7
+      ],
+      "text": "4 Wxf7+ h8 5 e3 and White wins.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        259.7,
+        1630.5,
+        1538.8,
+        1671.6
+      ],
+      "text": "These three examples represent only a small section of a large number of pos-",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        214.4,
+        1677.9,
+        1544.9,
+        1725.3
+      ],
+      "text": "sible cases in which the crucial continuation is ...g8. How large the variety of",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        218.1,
+        1732.7,
+        1541.2,
+        1773.9
+      ],
+      "text": "these positions is and how sensitive they are to minute changes can be illustrated",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        218.1,
+        1783.9,
+        1541.2,
+        1825.1
+      ],
+      "text": "by the following observation: if, in any of the previous three diagrams, White's",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        216.9,
+        1832.5,
+        1541.2,
+        1875.0
+      ],
+      "text": "h-pawn is moved to h4, the bishop sacrifice is no longer correct. In the first two",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        216.9,
+        1883.7,
+        1540.0,
+        1927.4
+      ],
+      "text": "diagrams (on page 124) this is because the queen is prevented from getting to h4,",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        216.9,
+        1932.3,
+        1542.5,
+        1978.5
+      ],
+      "text": "while in the diagram above it is because White's rook can no longer create threats",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        215.6,
+        1981.0,
+        1541.2,
+        2029.6
+      ],
+      "text": "along the h-file. Having the pawn on h4 rather than h2 is an obstacle in the varia-",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        214.4,
+        2034.6,
+        1540.0,
+        2078.3
+      ],
+      "text": "tion with ..g8; on the other hand, we shall see how it assists White in the varia-",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        213.2,
+        2082.0,
+        497.4,
+        2133.2
+      ],
+      "text": "tion with ...g6.",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        292.8,
+        2188.1,
+        1270.5,
+        2234.2
+      ],
+      "text": "5 e6 is even stronger, when 5...Wxg5 is forced to avoid mate.",
+      "confidence": 0.9775
+    }
+  ]
+}

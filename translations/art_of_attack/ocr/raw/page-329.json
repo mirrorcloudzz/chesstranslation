@@ -1,0 +1,290 @@
+{
+  "pdf_page": 329,
+  "printed_page": 329,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        493.0,
+        130.0,
+        1314.0,
+        170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "329",
+      "bbox": [
+        1490.0,
+        130.0,
+        1552.0,
+        161.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from Pillsbury-Maroczy, Paris 1900. Although the situation is",
+      "bbox": [
+        278.0,
+        277.0,
+        1553.0,
+        316.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "still far removed from the endgame, White is thinking about it all the same.",
+      "bbox": [
+        234.0,
+        327.0,
+        1485.0,
+        365.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "He prepares for the exchange of the dark-squared bishops by means of Ac5,",
+      "bbox": [
+        279.0,
+        423.0,
+        1553.0,
+        467.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "after which there is both an eventual threat of a bishop sacrifice on h7 and the",
+      "bbox": [
+        234.0,
+        478.0,
+        1554.0,
+        516.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "prospect of an ending with White having a good knight against a bad bishop.",
+      "bbox": [
+        233.0,
+        528.0,
+        1511.0,
+        567.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l...f5 2 xce8",
+      "bbox": [
+        279.0,
+        575.0,
+        574.0,
+        609.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Avoiding the possibility of 3 Ac5 Axc5 4 Xxc5 Vb6? 5 Xxc8.",
+      "bbox": [
+        279.0,
+        623.0,
+        1325.0,
+        668.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 Ac5 Vc7 4 Axel xxe7 5 g4",
+      "bbox": [
+        279.0,
+        674.0,
+        790.0,
+        717.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The positional obligation entailed by such a move is balanced by the fact that",
+      "bbox": [
+        279.0,
+        729.0,
+        1555.0,
+        769.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in this position White has no need to fear the endgame. If his opponent's dark-",
+      "bbox": [
+        234.0,
+        780.0,
+        1553.0,
+        820.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "squared bishop were still there, the move would be risky.",
+      "bbox": [
+        235.0,
+        831.0,
+        1177.0,
+        870.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...Qc6 6 Kaal fxg4 7 Vh4 g6 8 Vxg4 Xg7 9 h4 Qe7?!",
+      "bbox": [
+        279.0,
+        876.0,
+        1226.0,
+        920.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black defends himself against an attack which is not dangerous and neglects",
+      "bbox": [
+        280.0,
+        932.0,
+        1553.0,
+        970.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "something much more important, namely, the central point d4, which is of deci-",
+      "bbox": [
+        235.0,
+        982.0,
+        1553.0,
+        1020.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sive significance in many types of ending. Precisely the opposite course was cor-",
+      "bbox": [
+        235.0,
+        1032.0,
+        1553.0,
+        1071.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rect, that is, to increase his influence over d4 and at the same time, by 9...Vb6, to",
+      "bbox": [
+        234.0,
+        1077.0,
+        1554.0,
+        1121.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "question White with regard to what his plans were for the dark-square network.",
+      "bbox": [
+        234.0,
+        1133.0,
+        1552.0,
+        1172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In view of the threat of 10...Ve3 White would have to play IO Xael, after which",
+      "bbox": [
+        235.0,
+        1178.0,
+        1554.0,
+        1222.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10...#h8 11 Äe2 d4, opening up the long light-square diagonal, already makes",
+      "bbox": [
+        238.0,
+        1229.0,
+        1554.0,
+        1273.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "things easier for the defender.",
+      "bbox": [
+        234.0,
+        1285.0,
+        724.0,
+        1323.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10 Qd4 Qf5? (D)",
+      "bbox": [
+        281.0,
+        1329.0,
+        581.0,
+        1371.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "And now 10...&6 was correct.",
+      "bbox": [
+        279.0,
+        1380.0,
+        798.0,
+        1415.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4",
+      "bbox": [
+        734.0,
+        1933.0,
+        749.0,
+        1960.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11 Axf5",
+      "bbox": [
+        280.0,
+        2088.0,
+        420.0,
+        2123.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A step closer to the ending with knight versus bad bishop. Pillsbury was a spe-",
+      "bbox": [
+        277.0,
+        2144.0,
+        1552.0,
+        2184.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cialist in such exchanges.",
+      "bbox": [
+        232.0,
+        2194.0,
+        652.0,
+        2232.0
+      ],
+      "confidence": null
+    }
+  ]
+}

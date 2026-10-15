@@ -1,0 +1,452 @@
+[
+  {
+    "figure": 1,
+    "source_pdf_page": 145,
+    "source_print_page": 143,
+    "crop_reference_1304x1920": [
+      767,
+      423,
+      1166,
+      815
+    ],
+    "anchor": "4.0",
+    "caption": "兵楔的基本兵形",
+    "image": "figure-01.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 2,
+    "source_pdf_page": 146,
+    "source_print_page": 144,
+    "crop_reference_1304x1920": [
+      146,
+      1174,
+      546,
+      1566
+    ],
+    "anchor": "12.0",
+    "caption": "黑方走完7... e5后的局面",
+    "image": "figure-02.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 3,
+    "source_pdf_page": 146,
+    "source_print_page": 144,
+    "crop_reference_1304x1920": [
+      767,
+      1052,
+      1167,
+      1445
+    ],
+    "anchor": "20.1",
+    "caption": "黑方走完13... Kh8后的局面",
+    "image": "figure-03.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 4,
+    "source_pdf_page": 147,
+    "source_print_page": 145,
+    "crop_reference_1304x1920": [
+      144,
+      1376,
+      546,
+      1768
+    ],
+    "anchor": "31.0",
+    "caption": "白方走完10. h4!后的局面",
+    "image": "figure-04.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 5,
+    "source_pdf_page": 149,
+    "source_print_page": 147,
+    "crop_reference_1304x1920": [
+      141,
+      423,
+      543,
+      817
+    ],
+    "anchor": "75.0",
+    "caption": "黑方走完11... f5后的局面",
+    "image": "figure-05.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 6,
+    "source_pdf_page": 150,
+    "source_print_page": 148,
+    "crop_reference_1304x1920": [
+      146,
+      1127,
+      545,
+      1522
+    ],
+    "anchor": "97.0",
+    "caption": "黑方走完8... d4后的局面",
+    "image": "figure-06.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 7,
+    "source_pdf_page": 152,
+    "source_print_page": 150,
+    "crop_reference_1304x1920": [
+      139,
+      378,
+      538,
+      773
+    ],
+    "anchor": "134.1",
+    "caption": "黑方走完13... Nh5后的局面",
+    "image": "figure-07.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 8,
+    "source_pdf_page": 153,
+    "source_print_page": 151,
+    "crop_reference_1304x1920": [
+      144,
+      459,
+      545,
+      855
+    ],
+    "anchor": "150.0",
+    "caption": "白方走完21. f4后的局面",
+    "image": "figure-08.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 9,
+    "source_pdf_page": 154,
+    "source_print_page": 152,
+    "crop_reference_1304x1920": [
+      135,
+      914,
+      534,
+      1310
+    ],
+    "anchor": "164.0",
+    "caption": "白方走完33. Rxf5后的局面",
+    "image": "figure-09.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 10,
+    "source_pdf_page": 156,
+    "source_print_page": 154,
+    "crop_reference_1304x1920": [
+      140,
+      81,
+      538,
+      477
+    ],
+    "anchor": "202.0",
+    "caption": "白方走完9. h4后的局面",
+    "image": "figure-10.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 11,
+    "source_pdf_page": 158,
+    "source_print_page": 156,
+    "crop_reference_1304x1920": [
+      138,
+      256,
+      538,
+      651
+    ],
+    "anchor": "247.0",
+    "caption": "黑方走完13... c6后的局面",
+    "image": "figure-11.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 12,
+    "source_pdf_page": 158,
+    "source_print_page": 156,
+    "crop_reference_1304x1920": [
+      748,
+      550,
+      1148,
+      945
+    ],
+    "anchor": "261.0",
+    "caption": "马洛契（白）对皮尔斯伯里（黑），黑方行棋",
+    "image": "figure-12.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 13,
+    "source_pdf_page": 160,
+    "source_print_page": 158,
+    "crop_reference_1304x1920": [
+      147,
+      817,
+      548,
+      1210
+    ],
+    "anchor": "301.0",
+    "caption": "黑方走完18... Ra8后的局面",
+    "image": "figure-13.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 14,
+    "source_pdf_page": 160,
+    "source_print_page": 158,
+    "crop_reference_1304x1920": [
+      758,
+      1154,
+      1159,
+      1548
+    ],
+    "anchor": "310.0",
+    "caption": "白方走完21. f4后的局面",
+    "image": "figure-14.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 15,
+    "source_pdf_page": 162,
+    "source_print_page": 160,
+    "crop_reference_1304x1920": [
+      147,
+      1135,
+      548,
+      1531
+    ],
+    "anchor": "329.1",
+    "caption": "白方走完31. f6后的局面",
+    "image": "figure-15.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 16,
+    "source_pdf_page": 162,
+    "source_print_page": 160,
+    "crop_reference_1304x1920": [
+      750,
+      551,
+      1153,
+      946
+    ],
+    "anchor": "333.0",
+    "caption": "鲁宾斯坦（白）对马歇尔（黑），白方行棋",
+    "image": "figure-16.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 17,
+    "source_pdf_page": 163,
+    "source_print_page": 161,
+    "crop_reference_1304x1920": [
+      145,
+      382,
+      548,
+      777
+    ],
+    "anchor": "341.0",
+    "caption": "鲁宾斯坦（白）对马歇尔（黑），白方行棋",
+    "image": "figure-17.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 18,
+    "source_pdf_page": 163,
+    "source_print_page": 161,
+    "crop_reference_1304x1920": [
+      757,
+      82,
+      1158,
+      478
+    ],
+    "anchor": "346.0",
+    "caption": "阿罗宁（白）对弗洛尔（黑），白方行棋",
+    "image": "figure-18.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 19,
+    "source_pdf_page": 164,
+    "source_print_page": 162,
+    "crop_reference_1304x1920": [
+      143,
+      1340,
+      545,
+      1737
+    ],
+    "anchor": "370.0",
+    "caption": "白方走完12. Qe2后的局面",
+    "image": "figure-19.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 20,
+    "source_pdf_page": 166,
+    "source_print_page": 164,
+    "crop_reference_1304x1920": [
+      748,
+      130,
+      1150,
+      524
+    ],
+    "anchor": "425.0",
+    "caption": "白方走完17. Ng5?后的局面",
+    "image": "figure-20.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 21,
+    "source_pdf_page": 167,
+    "source_print_page": 165,
+    "crop_reference_1304x1920": [
+      149,
+      467,
+      552,
+      862
+    ],
+    "anchor": "442.0",
+    "caption": "黑方走完25... Re8后的局面",
+    "image": "figure-21.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 22,
+    "source_pdf_page": 167,
+    "source_print_page": 165,
+    "crop_reference_1304x1920": [
+      151,
+      1336,
+      555,
+      1734
+    ],
+    "anchor": "444.0",
+    "caption": "黑方走完29... f3+后的局面",
+    "image": "figure-22.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 23,
+    "source_pdf_page": 168,
+    "source_print_page": 166,
+    "crop_reference_1304x1920": [
+      760,
+      73,
+      1161,
+      469
+    ],
+    "anchor": "461.0",
+    "caption": "维德马尔（白）对塔拉什（黑），白方行棋",
+    "image": "figure-23.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 24,
+    "source_pdf_page": 168,
+    "source_print_page": 166,
+    "crop_reference_1304x1920": [
+      764,
+      1338,
+      1165,
+      1734
+    ],
+    "anchor": "466.0",
+    "caption": "维德马尔（白）对塔拉什（黑），黑方行棋",
+    "image": "figure-24.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 25,
+    "source_pdf_page": 170,
+    "source_print_page": 168,
+    "crop_reference_1304x1920": [
+      146,
+      378,
+      546,
+      774
+    ],
+    "anchor": "490.0",
+    "caption": "白方走完20. h5后的局面",
+    "image": "figure-25.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 26,
+    "source_pdf_page": 171,
+    "source_print_page": 169,
+    "crop_reference_1304x1920": [
+      141,
+      1175,
+      545,
+      1572
+    ],
+    "anchor": "517.0",
+    "caption": "黑方走完31... Kd8后的局面",
+    "image": "figure-26.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 27,
+    "source_pdf_page": 172,
+    "source_print_page": 170,
+    "crop_reference_1304x1920": [
+      137,
+      880,
+      537,
+      1278
+    ],
+    "anchor": "532.0",
+    "caption": "白方走完17. h5后的局面",
+    "image": "figure-27.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 28,
+    "source_pdf_page": 173,
+    "source_print_page": 171,
+    "crop_reference_1304x1920": [
+      141,
+      766,
+      540,
+      1161
+    ],
+    "anchor": "544.0",
+    "caption": "黑方走完22... gxf6后的局面",
+    "image": "figure-28.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 29,
+    "source_pdf_page": 174,
+    "source_print_page": 172,
+    "crop_reference_1304x1920": [
+      745,
+      126,
+      1145,
+      522
+    ],
+    "anchor": "576.0",
+    "caption": "黑方走完18... f5后的局面",
+    "image": "figure-29.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 30,
+    "source_pdf_page": 175,
+    "source_print_page": 173,
+    "crop_reference_1304x1920": [
+      758,
+      81,
+      1157,
+      478
+    ],
+    "anchor": "608.0",
+    "caption": "黑方走完30... g4后的局面",
+    "image": "figure-30.png",
+    "status": "checked_against_source"
+  }
+]

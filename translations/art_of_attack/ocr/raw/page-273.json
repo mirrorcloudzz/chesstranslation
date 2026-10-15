@@ -1,0 +1,290 @@
+{
+  "pdf_page": 273,
+  "printed_page": 273,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        454.0,
+        129.0,
+        1351.0,
+        174.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "273",
+      "bbox": [
+        1491.0,
+        128.0,
+        1551.0,
+        159.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Naturally, White gladly offers the exchange in order to weaken the attack by giv-",
+      "bbox": [
+        235.0,
+        276.0,
+        1554.0,
+        320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing back some material while at the same time still retaining some material ad-",
+      "bbox": [
+        236.0,
+        326.0,
+        1554.0,
+        372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vantage. Thus after 19...gxf3 20 Vxf3 Oxe2+ 21 axe2 Black's only move to",
+      "bbox": [
+        236.0,
+        373.0,
+        1555.0,
+        422.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "prevent White from consolidating completely is 21...Q)g4, but then White imme-",
+      "bbox": [
+        236.0,
+        423.0,
+        1555.0,
+        473.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "diately gets the chance to counterattack, i.e. 22 dxc6! Vxh2+ 23 Qxe.3+ 24",
+      "bbox": [
+        236.0,
+        472.0,
+        1555.0,
+        522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxe3. The further sharpening of the attack by 24...Ah4 would be dangerous be-",
+      "bbox": [
+        236.0,
+        525.0,
+        1556.0,
+        571.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cause of 25 cxb7.",
+      "bbox": [
+        237.0,
+        584.0,
+        525.0,
+        615.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "We shall examine two more variations arising out of 19...gxf3 20 Vxf3 (D):",
+      "bbox": [
+        282.0,
+        622.0,
+        1545.0,
+        668.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "avovl",
+      "bbox": [
+        897.0,
+        1081.0,
+        1162.0,
+        1163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1) 20...Q6h5 21 Axf4! exf4 22 dxc6. Black cannot win a piece now, since",
+      "bbox": [
+        292.0,
+        1333.0,
+        1562.0,
+        1376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22...fxg3? permits the white queen to capture on f 7, while 22...Qxg3 can be met",
+      "bbox": [
+        244.0,
+        1380.0,
+        1564.0,
+        1428.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by 23 Xg2. Black must be modest and play 22...bxc6, allowing White to consoli-",
+      "bbox": [
+        243.0,
+        1436.0,
+        1562.0,
+        1480.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "date by 23 Äg2. The risk involved in 22...0-0-0 is illustrated by the continuation",
+      "bbox": [
+        243.0,
+        1487.0,
+        1563.0,
+        1530.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23 Qd5 ! Oxg3 (23...fxg3 24 Vf5+ Vxf5 25 Oxe7+ 26 exf5 favours White)",
+      "bbox": [
+        244.0,
+        1534.0,
+        1563.0,
+        1581.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24 axe7+ 25 xg2 he2+ 26 Vxe2 f3 27 c7+ 28 hd5+ 29 hf4!,",
+      "bbox": [
+        245.0,
+        1582.0,
+        1563.0,
+        1630.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with a characteristic switch from indirect to direct defence; after 29...Äxg2+ 30",
+      "bbox": [
+        244.0,
+        1635.0,
+        1565.0,
+        1677.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxg2 White captures the pawn on f3 and remains the better placed I !.",
+      "bbox": [
+        244.0,
+        1679.0,
+        1398.0,
+        1733.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) 20...Äg4 (covering the square f4, lessening the danger on f7. and preparing",
+      "bbox": [
+        290.0,
+        1740.0,
+        1564.0,
+        1782.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "...h5-h4) 21 a6! (logically switching to the positional motif on the queenside and",
+      "bbox": [
+        247.0,
+        1791.0,
+        1565.0,
+        1832.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "thus exploiting the slower tempo of Black's attack betrayed by the move ...Xg4)",
+      "bbox": [
+        246.0,
+        1837.0,
+        1565.0,
+        1884.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...b6 (after 21...0-0-0'?22 axb7+ 23 dxc6 Black would be in great difficul-",
+      "bbox": [
+        246.0,
+        1892.0,
+        1565.0,
+        1932.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ties) 22 dxc6 h5 23 ! (having made good his superiority on the queen's wing,",
+      "bbox": [
+        246.0,
+        1943.0,
+        1564.0,
+        1983.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White goes over to direct defence; he returns the extra piece in order to simplify",
+      "bbox": [
+        246.0,
+        1993.0,
+        1565.0,
+        2035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "into a favourable ending) 23...h4 (Black would recover less material by 23...Qxe2",
+      "bbox": [
+        247.0,
+        2037.0,
+        1566.0,
+        2084.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24 Qcxe2, since then 24...h4 is met by 25 Vfl, when White clarifies the position",
+      "bbox": [
+        247.0,
+        2089.0,
+        1566.0,
+        2133.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Actually this just wins for White.",
+      "bbox": [
+        251.0,
+        2201.0,
+        854.0,
+        2239.0
+      ],
+      "confidence": null
+    }
+  ]
+}

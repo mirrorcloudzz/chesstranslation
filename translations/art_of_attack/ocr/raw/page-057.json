@@ -1,0 +1,420 @@
+{
+  "pdf_page": 57,
+  "printed_page": 57,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        371.2,
+        128.5,
+        1431.0,
+        172.2
+      ],
+      "text": "On castling and attacking the castled position in general",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        1492.2,
+        129.7,
+        1553.5,
+        173.4
+      ],
+      "text": "57",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        226.7,
+        273.2,
+        1553.5,
+        320.6
+      ],
+      "text": "2...0-0-0, whereupon the attack with g4 no longer applies; White will have to",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        229.1,
+        325.6,
+        1554.7,
+        370.5
+      ],
+      "text": "play a hasty b4, in which case it will be quickly seen that his king is badly placed",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        229.1,
+        376.7,
+        1551.0,
+        419.2
+      ],
+      "text": "on c1. Consequently, he must put off castling and wait. White therefore plays 1",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        227.9,
+        421.6,
+        1553.5,
+        471.5
+      ],
+      "text": "We2, and if 1...0-0, then 2 0-0-0, while if 1...0-0-0, then 2 0-0. He castles on the",
+      "confidence": 0.9707
+    },
+    {
+      "bbox": [
+        226.7,
+        475.3,
+        1554.7,
+        522.7
+      ],
+      "text": "opposite side from Black in order to get the maximum freedom for carrying out",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        226.7,
+        528.9,
+        396.9,
+        566.4
+      ],
+      "text": "his attack.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        269.5,
+        577.6,
+        1551.0,
+        622.5
+      ],
+      "text": "4) Castling may be postponed, and perhaps forgone forever, in certain posi-",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        226.7,
+        628.7,
+        1005.8,
+        669.9
+      ],
+      "text": "tions where the centre is permanently blocked.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        267.1,
+        673.6,
+        1552.3,
+        724.8
+      ],
+      "text": "The reason for being able to postpone castling in such positions is, of course,",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        226.7,
+        727.3,
+        1549.8,
+        770.9
+      ],
+      "text": "that the pawns form an obstruction in the centre and so make it impossible to",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        227.9,
+        779.7,
+        1552.3,
+        822.1
+      ],
+      "text": "open the central files and diagonals without painful sacrifices. With the centre",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        227.9,
+        830.8,
+        1552.3,
+        872.0
+      ],
+      "text": "blocked, the kings are also safer in the middle, at least for some time. The logical",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        227.9,
+        879.5,
+        1551.0,
+        920.6
+      ],
+      "text": "course of attack in such cases tends to be on the unblocked flanks, and there are",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        225.4,
+        929.4,
+        1549.8,
+        975.5
+      ],
+      "text": "times when the king is more exposed by being in a castled position on the wing",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        225.4,
+        979.3,
+        1277.8,
+        1024.2
+      ],
+      "text": "than in the middle, where it is protected by the blocked pawns.",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        269.5,
+        1027.9,
+        1551.0,
+        1076.6
+      ],
+      "text": "A convenient example to illustrate this can be obtained by re-examining the",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        227.9,
+        1079.1,
+        1552.3,
+        1125.2
+      ],
+      "text": "above diagram, which we ought to do anyway because we left White's move 1",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        226.7,
+        1126.5,
+        1551.0,
+        1178.9
+      ],
+      "text": "We2 unanswered. Black's best reply also consists of a postponement of castling,",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        224.2,
+        1180.1,
+        1552.3,
+        1227.5
+      ],
+      "text": "e.g. 1...a6 or 1...d8. The postponement of castling is feasible for both sides in",
+      "confidence": 0.9748
+    },
+    {
+      "bbox": [
+        227.9,
+        1232.5,
+        1548.6,
+        1274.9
+      ],
+      "text": "this position, and for a very obvious reason: the pronounced blockade in the cen-",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        226.7,
+        1282.4,
+        1549.8,
+        1326.1
+      ],
+      "text": "tre. Attacks can only take place down the flanks and as a result the kings are at the",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        224.2,
+        1331.1,
+        1552.3,
+        1381.0
+      ],
+      "text": "moment relatively safe in the middle. Play from this position might develop as",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        224.2,
+        1382.2,
+        366.3,
+        1423.4
+      ],
+      "text": "follows:",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        267.1,
+        1428.4,
+        861.3,
+        1472.0
+      ],
+      "text": "1 We2 d8 2 h3 f7 3 Wd2 0-0-0",
+      "confidence": 0.9703
+    },
+    {
+      "bbox": [
+        267.1,
+        1483.3,
+        1551.0,
+        1529.4
+      ],
+      "text": "It is less dangerous for Black to castle on the queenside now; if White plays 4",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        224.2,
+        1533.2,
+        1551.0,
+        1583.1
+      ],
+      "text": "0-0, Black replies 4...#dg8, threatening ...g5, while after 4 0-0-0 the danger of an",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        225.4,
+        1585.5,
+        1073.2,
+        1629.2
+      ],
+      "text": "attack on the flank disappears and Black can relax.",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        265.9,
+        1634.2,
+        1549.8,
+        1684.1
+      ],
+      "text": "In this case the preliminary skirmish has in fact ended with castling, but there",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        225.4,
+        1685.3,
+        1547.4,
+        1734.0
+      ],
+      "text": "are blocked positions where castling does not occur at all and the kings stay per-",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        225.4,
+        1737.7,
+        1552.3,
+        1780.2
+      ],
+      "text": "manently in the middle. Even in the above position White has the alternative of",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        224.2,
+        1787.6,
+        1551.0,
+        1832.5
+      ],
+      "text": "not castling and instead co-ordinating his rooks by f2; later on he can even take",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        221.8,
+        1836.3,
+        519.5,
+        1884.9
+      ],
+      "text": "his king up to e3.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        267.1,
+        1887.4,
+        1548.6,
+        1937.3
+      ],
+      "text": "5) Castling is unnecessary, because the endgame is already not far off, in",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        224.2,
+        1937.3,
+        1249.6,
+        1987.2
+      ],
+      "text": "which case the king is well placed in the middle of the board.",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        267.1,
+        1989.7,
+        1544.9,
+        2035.9
+      ],
+      "text": "These cases too are not infrequent in master chess; we shall select two exam-",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        223.0,
+        2039.6,
+        1544.9,
+        2088.3
+      ],
+      "text": "ples from opening theory, where the white king forfeits the right to castle as a re-",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        225.4,
+        2094.5,
+        740.0,
+        2131.9
+      ],
+      "text": "sult of the exchange of queens.",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        264.6,
+        2139.4,
+        1547.4,
+        2183.1
+      ],
+      "text": "1 d4 d5 2 c4 e6 3 2c3 2f6 4 皇g5 bd7 5 e3 e7 6 f3 0-0 7 c1 c6 8 鱼d3",
+      "confidence": 0.8962
+    },
+    {
+      "bbox": [
+        224.2,
+        2183.1,
+        607.7,
+        2235.5
+      ],
+      "text": "dxc4 9 皇xc4 d5 (D)",
+      "confidence": 0.9338
+    }
+  ]
+}

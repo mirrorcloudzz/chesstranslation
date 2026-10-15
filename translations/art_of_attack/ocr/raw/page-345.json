@@ -1,0 +1,280 @@
+{
+  "pdf_page": 345,
+  "printed_page": 345,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The attack on the king as an integral part of the game 345",
+      "bbox": [
+        375.0,
+        124.0,
+        1534.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "By 16 Vd2 White could have prepared to obtain clear equality by d5. How-",
+      "bbox": [
+        263.0,
+        272.0,
+        1536.0,
+        316.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ever, he does not like the idea of a draw.",
+      "bbox": [
+        218.0,
+        326.0,
+        881.0,
+        363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...Ae8 17 Vd2 18 Qg5",
+      "bbox": [
+        266.0,
+        371.0,
+        777.0,
+        414.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "As this threatens 19 axe6 fxe6 20 Xxe6, Black does not have time for",
+      "bbox": [
+        264.0,
+        422.0,
+        1539.0,
+        460.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18...Ac6 or 18...Qf5.",
+      "bbox": [
+        224.0,
+        473.0,
+        574.0,
+        509.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18...Qd5 19 Xf3 Ve7 20 xg3 h6 (D)",
+      "bbox": [
+        266.0,
+        522.0,
+        885.0,
+        564.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White has proceeded cautiously and prepared the ground for Vd3, with the",
+      "bbox": [
+        267.0,
+        1224.0,
+        1543.0,
+        1272.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "aim of provoking a weakening of the enemy king position in the shape of ...g6.",
+      "bbox": [
+        223.0,
+        1279.0,
+        1541.0,
+        1323.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "For this reason Kmoch prefers to go in for ...h6, which weakens him less. White",
+      "bbox": [
+        222.0,
+        1331.0,
+        1543.0,
+        1372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "can only obtain results by attacking the king, for Black is the better placed for the",
+      "bbox": [
+        223.0,
+        1381.0,
+        1543.0,
+        1424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "endgame.",
+      "bbox": [
+        223.0,
+        1437.0,
+        380.0,
+        1474.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21 Qf3",
+      "bbox": [
+        269.0,
+        1481.0,
+        392.0,
+        1516.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 21 Qe4 Black can reply 21...Vh4.",
+      "bbox": [
+        269.0,
+        1530.0,
+        874.0,
+        1575.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...Vf6 22 xe4 Qe7",
+      "bbox": [
+        269.0,
+        1582.0,
+        628.0,
+        1618.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Parrying the threat of Xeg4.",
+      "bbox": [
+        269.0,
+        1634.0,
+        730.0,
+        1677.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23 Qf5 24 Xd3",
+      "bbox": [
+        270.0,
+        1683.0,
+        614.0,
+        1719.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White has managed to weaken the enemy king position, but he still lacks the",
+      "bbox": [
+        269.0,
+        1736.0,
+        1545.0,
+        1777.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "preconditions for a real attack. A little regrouping is therefore needed, and above",
+      "bbox": [
+        225.0,
+        1786.0,
+        1545.0,
+        1829.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "all the square d4 must be safeguarded. If 24 Xf3 then 24...Ac6 25 mxc6 bxc6 is",
+      "bbox": [
+        226.0,
+        1831.0,
+        1545.0,
+        1879.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "quite good for Black. Of the minor pieces the knights are more valuable than the",
+      "bbox": [
+        225.0,
+        1888.0,
+        1546.0,
+        1931.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishops, from the point of view of both the attacker and his opponent.",
+      "bbox": [
+        225.0,
+        1940.0,
+        1384.0,
+        1981.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24...Xac8 25 h3 Qd6?",
+      "bbox": [
+        271.0,
+        1987.0,
+        649.0,
+        2023.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Up to this point the author of The Art of Defence has defended correctly and",
+      "bbox": [
+        271.0,
+        2040.0,
+        1547.0,
+        2082.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "preserved equality. Now, however, he goes astray in playing to exchange off his",
+      "bbox": [
+        225.0,
+        2090.0,
+        1546.0,
+        2132.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "important knight, which is the main defender of his king position. Correct was",
+      "bbox": [
+        226.0,
+        2140.0,
+        1546.0,
+        2182.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25...Ac6.",
+      "bbox": [
+        227.0,
+        2189.0,
+        381.0,
+        2224.0
+      ],
+      "confidence": null
+    }
+  ]
+}

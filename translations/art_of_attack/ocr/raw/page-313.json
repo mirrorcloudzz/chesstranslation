@@ -1,0 +1,270 @@
+{
+  "pdf_page": 313,
+  "printed_page": 313,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        480.0,
+        124.0,
+        1301.0,
+        170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "313",
+      "bbox": [
+        1478.0,
+        122.0,
+        1538.0,
+        153.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Unaware of the approaching trap, Black proceeds on his slow way. The imme-",
+      "bbox": [
+        268.0,
+        271.0,
+        1541.0,
+        316.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "diate 24...Äb8 was more resourceful, for then 25 Xf4 (25 Qxa6 Axa6 26 Vxa6",
+      "bbox": [
+        223.0,
+        315.0,
+        1543.0,
+        360.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "c3 yields good chances for Black) 25...Äb6 26 e6 Xbxe6! (not 26...Axe6? 27",
+      "bbox": [
+        223.0,
+        367.0,
+        1541.0,
+        418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axg6!) 27 oxe6 Xxe6 28 Vg5 allows Black the chance to fight back by 28...c3",
+      "bbox": [
+        224.0,
+        420.0,
+        1542.0,
+        468.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "29 bxc3 Vxc3. The best move for White after 24...Äb8 is 25 e4!.",
+      "bbox": [
+        225.0,
+        469.0,
+        1302.0,
+        509.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25 ZU Äb8? (D)",
+      "bbox": [
+        271.0,
+        525.0,
+        557.0,
+        564.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The final blunder; 25...Ae6 was the only move.",
+      "bbox": [
+        275.0,
+        1226.0,
+        1062.0,
+        1268.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "26 Axg6!",
+      "bbox": [
+        276.0,
+        1280.0,
+        436.0,
+        1322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The coup de grace. If now 26...Qxg6, then 27 Äxg6+ hxg6 28 Xh4.",
+      "bbox": [
+        276.0,
+        1325.0,
+        1406.0,
+        1372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "26...Äb6 27 Vxb6 Qxg6",
+      "bbox": [
+        277.0,
+        1378.0,
+        694.0,
+        1421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 27...Vxb6 28 Axf7+ and 29 Xxb6.",
+      "bbox": [
+        277.0,
+        1429.0,
+        915.0,
+        1466.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "28 Vf6 xe8 29 Afl Ae6 30 Vg5 31 Vh5 hf8 32 Qxe6 33 xxe6",
+      "bbox": [
+        278.0,
+        1476.0,
+        1551.0,
+        1521.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1-0",
+      "bbox": [
+        235.0,
+        1537.0,
+        286.0,
+        1567.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Rauzer - Botvinnik",
+      "bbox": [
+        712.0,
+        1631.0,
+        1074.0,
+        1664.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Leningrad, 1933",
+      "bbox": [
+        754.0,
+        1685.0,
+        1029.0,
+        1723.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sicilian Defence, Dragon Variation",
+      "bbox": [
+        603.0,
+        1734.0,
+        1184.0,
+        1773.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 e4 2 hf3 Qc6 3 d4 cxd4 4 mxd4 Qf6 5 d6 6 Ae2 g6 7 Ae3 8",
+      "bbox": [
+        237.0,
+        1830.0,
+        1554.0,
+        1873.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qb3 Ae6 9 f4 0-0 10 0-0 as 11 Qxa5",
+      "bbox": [
+        235.0,
+        1883.0,
+        871.0,
+        1921.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Nowadays this whole line is reckoned to be harmless for Black.",
+      "bbox": [
+        280.0,
+        1937.0,
+        1335.0,
+        1979.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11...Vxa5 12 Af3 Ac4 13 Äfd8 14 Vd2 vc7",
+      "bbox": [
+        283.0,
+        1982.0,
+        1126.0,
+        2021.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black withdraws his queen in order not to have constantly to reckon with Qd5,",
+      "bbox": [
+        281.0,
+        2031.0,
+        1554.0,
+        2078.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which is admittedly not threatened at the moment but which may become a nui-",
+      "bbox": [
+        236.0,
+        2086.0,
+        1555.0,
+        2129.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sance later.",
+      "bbox": [
+        237.0,
+        2143.0,
+        419.0,
+        2173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15",
+      "bbox": [
+        284.0,
+        2193.0,
+        321.0,
+        2223.0
+      ],
+      "confidence": null
+    }
+  ]
+}

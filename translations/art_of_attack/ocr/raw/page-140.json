@@ -1,0 +1,290 @@
+{
+  "pdf_page": 140,
+  "printed_page": 140,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        262.2,
+        122.3,
+        338.1,
+        168.4
+      ],
+      "text": "140",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        692.2,
+        124.7,
+        1192.1,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9732
+    },
+    {
+      "bbox": [
+        263.4,
+        269.5,
+        1587.8,
+        320.6
+      ],
+      "text": "15 Wh7+ f8 16 e4 We5 17 cxd4, whereupon 17..Wxh2+ is forced, for",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        264.6,
+        319.4,
+        1589.0,
+        370.5
+      ],
+      "text": "17...Wd5 is not feasible because of 18 Wh8+ e7 19 g5+ f6 20 Wxg7+, with a",
+      "confidence": 0.9691
+    },
+    {
+      "bbox": [
+        263.4,
+        371.7,
+        747.3,
+        419.2
+      ],
+      "text": "massacre of Black's pawns'.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        308.7,
+        421.6,
+        1465.3,
+        469.1
+      ],
+      "text": "14...f6? is very weak indeed on account of 15 Wxf7+ h8 16 e4.",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        308.7,
+        470.3,
+        479.0,
+        519.0
+      ],
+      "text": "14 h4 (D)",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        307.5,
+        525.2,
+        1581.7,
+        571.3
+      ],
+      "text": "Obviously, this is the only continuation which can present Black with any dif-",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        262.2,
+        572.6,
+        1585.3,
+        622.5
+      ],
+      "text": "ficulties; 14 Wg4 holds out no prospects here because of the reply 14...f5 15 Wh4",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        258.5,
+        617.5,
+        351.6,
+        668.6
+      ],
+      "text": "②f6.",
+      "confidence": 0.815
+    },
+    {
+      "bbox": [
+        601.5,
+        832.1,
+        626.0,
+        860.8
+      ],
+      "text": "B",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        303.8,
+        1326.1,
+        477.8,
+        1368.5
+      ],
+      "text": "14...h8?",
+      "confidence": 0.9378
+    },
+    {
+      "bbox": [
+        302.6,
+        1377.2,
+        1586.6,
+        1429.6
+      ],
+      "text": "The decisive mistake. Black was probably only reckoning on 15 Wd3+ f5 16",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        259.7,
+        1427.1,
+        1585.3,
+        1478.3
+      ],
+      "text": "xe6+ f6, and did not see that White also had 15 xe6+!. Correct was 14...f5!",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        258.5,
+        1477.0,
+        1584.1,
+        1528.2
+      ],
+      "text": "15 h5+ (or 15 xe6 Wxh4 16 f4+ xf4 17 xe8 Wh2+ 18 f1 Wh1+ 19 e2",
+      "confidence": 0.9447
+    },
+    {
+      "bbox": [
+        258.5,
+        1525.7,
+        1582.9,
+        1580.6
+      ],
+      "text": "Wxd1+ 20 xd1 e5! and Black stands better) 15...f6 16 Wxd4+ Qe5 17",
+      "confidence": 0.9722
+    },
+    {
+      "bbox": [
+        256.1,
+        1573.1,
+        1584.1,
+        1635.4
+      ],
+      "text": "xe52 xe5 18 h7+ +f7 19 g5+ g8 20 Wxe5 Wd1+ when Black is the ex-",
+      "confidence": 0.9535
+    },
+    {
+      "bbox": [
+        258.5,
+        1631.7,
+        760.8,
+        1675.4
+      ],
+      "text": "change ahead and should win.",
+      "confidence": 0.9757
+    },
+    {
+      "bbox": [
+        300.2,
+        1675.4,
+        638.3,
+        1727.8
+      ],
+      "text": "15 xe6+! f6 (D)",
+      "confidence": 0.9734
+    },
+    {
+      "bbox": [
+        338.1,
+        1798.9,
+        1582.9,
+        1853.8
+      ],
+      "text": "First of all, Vukovic's line 13...g8 14 Wh5 e5 15 xe5 xe5 16 Wxf7+ is",
+      "confidence": 0.9512
+    },
+    {
+      "bbox": [
+        335.7,
+        1848.8,
+        1582.9,
+        1902.4
+      ],
+      "text": "not a draw, but a forced win for White after 16...h8 17 Wh5+ g8 18 b3, and",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        338.1,
+        1899.9,
+        1579.2,
+        1952.3
+      ],
+      "text": "the arrival of the bishop on a3 completes the mating net. His other suggestion,",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        339.4,
+        1946.1,
+        1581.7,
+        1999.7
+      ],
+      "text": "14...Wf6 15 Wh7+ f8 16 e4 We5 is in fact Black's best defence, but even",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        336.9,
+        1997.2,
+        1582.9,
+        2049.6
+      ],
+      "text": "here White need not take the draw, but can very well play for a win by 17 f4!",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        339.4,
+        2042.1,
+        1576.8,
+        2100.8
+      ],
+      "text": "Wd5 18 c4 Wc6 19 f5!. After 19...f6 20 xf6 gxf6 21 g5!, for example,",
+      "confidence": 0.9823
+    },
+    {
+      "bbox": [
+        338.1,
+        2095.8,
+        1581.7,
+        2146.9
+      ],
+      "text": "White has an extremely dangerous attack. Thus Colle's sacrifice gives White a",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        338.1,
+        2145.7,
+        1578.0,
+        2193.1
+      ],
+      "text": "very promising attack even against perfect defence, so Vukovic's acerbic com-",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        338.1,
+        2194.3,
+        1422.4,
+        2241.7
+      ],
+      "text": "ments regarding Colle's play (see page 121) seem rather unjustified.",
+      "confidence": 0.9969
+    }
+  ]
+}

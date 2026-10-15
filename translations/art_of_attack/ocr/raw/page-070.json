@@ -1,0 +1,210 @@
+{
+  "pdf_page": 70,
+  "printed_page": 70,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        307.5,
+        123.5,
+        357.7,
+        165.9
+      ],
+      "text": "70",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        736.3,
+        124.7,
+        1237.4,
+        172.2
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        640.7,
+        381.7,
+        665.3,
+        411.7
+      ],
+      "text": "B",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        349.2,
+        622.5,
+        1631.9,
+        673.6
+      ],
+      "text": "This position falls into category of typical mates, and it is useful to know the",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        301.4,
+        672.4,
+        1630.7,
+        726.0
+      ],
+      "text": "mating patterns which arise if Black tries to parry the threat of Wh7#, e.g. with",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        305.1,
+        722.3,
+        1625.8,
+        774.7
+      ],
+      "text": "1...αb8. If there is a black pawn on e7 or if the square is otherwise occupied by",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        301.4,
+        769.7,
+        1634.3,
+        825.8
+      ],
+      "text": "Black, then there follows 2 Wh7+ f8 3 Wh8#; if this is not so, mate can be",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        303.8,
+        824.6,
+        1340.3,
+        872.0
+      ],
+      "text": "achieved, for example, by 2 Wxf7+ h8 3 e6 g8 4 Wh5#.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        640.7,
+        1034.2,
+        670.2,
+        1061.6
+      ],
+      "text": "W",
+      "confidence": 0.9353
+    },
+    {
+      "bbox": [
+        345.5,
+        1274.9,
+        1627.0,
+        1333.6
+      ],
+      "text": "Of the various attacking positions with queen and knight this scheme is also",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        300.2,
+        1327.3,
+        1628.2,
+        1379.7
+      ],
+      "text": "well worth remembering. On 1 f6+, Black replies 1...h8 and if 2 h5+, then",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        300.2,
+        1379.7,
+        401.8,
+        1419.6
+      ],
+      "text": "2...f6.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        340.6,
+        1424.6,
+        1627.0,
+        1487.0
+      ],
+      "text": "If 1..g7, White has a double check with 2 e8+ (in some cases, depending",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        297.7,
+        1479.5,
+        1627.0,
+        1534.4
+      ],
+      "text": "on the arrangement of the other pieces, 2 h5+ may be stronger) and after",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        298.9,
+        1528.2,
+        1623.3,
+        1586.8
+      ],
+      "text": "2...$h6 3 Wf4+ g5 4 Wf6+ $h5 5 g7+ White only needs a pawn on g2 or h2 t0",
+      "confidence": 0.9307
+    },
+    {
+      "bbox": [
+        297.7,
+        1581.8,
+        492.5,
+        1625.5
+      ],
+      "text": "force mate.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        629.7,
+        1790.1,
+        654.2,
+        1820.1
+      ],
+      "text": "B",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        856.4,
+        2025.9,
+        1086.7,
+        2069.6
+      ],
+      "text": "Greco'sMate",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        339.4,
+        2134.4,
+        1620.9,
+        2191.8
+      ],
+      "text": "This position is aiso worth knowing; Black is forced to play 1..h6, after which",
+      "confidence": 0.9801
+    },
+    {
+      "bbox": [
+        291.6,
+        2183.1,
+        1171.2,
+        2238.0
+      ],
+      "text": "he is mated by 2 Qxf7+ h8 3 Wg6! hxg5 4 Wh5#.",
+      "confidence": 0.971
+    }
+  ]
+}

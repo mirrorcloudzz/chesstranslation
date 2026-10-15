@@ -1,0 +1,420 @@
+{
+  "pdf_page": 200,
+  "printed_page": 200,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "200",
+      "bbox": [
+        255.0,
+        131.0,
+        319.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        682.0,
+        132.0,
+        1176.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "squares. In all these cases the positive characteristics of the pawn are to the fore.",
+      "bbox": [
+        255.0,
+        281.0,
+        1571.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The other side to the use of pawns in an attack on the castled king is a logical con-",
+      "bbox": [
+        253.0,
+        330.0,
+        1571.0,
+        373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sequence of their negative characteristics, namely their limited mobility and the",
+      "bbox": [
+        255.0,
+        381.0,
+        1572.0,
+        423.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "impossibility of reversing their moves. The attacker's pawn needs, on average,",
+      "bbox": [
+        254.0,
+        430.0,
+        1571.0,
+        473.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "three moves before it can have a direct effect on the opposing castling area itself;",
+      "bbox": [
+        253.0,
+        480.0,
+        1570.0,
+        522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "also, the attacker cannot transfer it from one file to another at will, but only when",
+      "bbox": [
+        254.0,
+        530.0,
+        1571.0,
+        573.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "opposing units are so placed as to come into its line of fire. Equally inconvenient",
+      "bbox": [
+        253.0,
+        581.0,
+        1573.0,
+        624.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is the other aspect of the pawn's negative characteristics: in advancing, it weak-",
+      "bbox": [
+        253.0,
+        631.0,
+        1570.0,
+        675.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ens the squares which it leaves behind it, and if the attack does not succeed, seri-",
+      "bbox": [
+        252.0,
+        682.0,
+        1570.0,
+        722.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ous positional weaknesses may become evident in the attacker's position. The",
+      "bbox": [
+        252.0,
+        732.0,
+        1570.0,
+        775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "irreversibility of pawn moves may also lead to a general blockade, which in turn",
+      "bbox": [
+        252.0,
+        782.0,
+        1570.0,
+        824.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "produces a rigid position and complicates the attack. However, the pawn still has",
+      "bbox": [
+        251.0,
+        833.0,
+        1570.0,
+        876.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "one more positive characteristic which can on some occasions help the attacker:",
+      "bbox": [
+        251.0,
+        883.0,
+        1568.0,
+        926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the promotion of the pawn into a piece on the opponent's back rank may be the",
+      "bbox": [
+        251.0,
+        932.0,
+        1569.0,
+        977.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "attacker's last ü•ump at the critical stage of an attack.",
+      "bbox": [
+        251.0,
+        983.0,
+        1125.0,
+        1024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Thus all the different aspects of the pawn's special characteristics find their",
+      "bbox": [
+        295.0,
+        1034.0,
+        1569.0,
+        1076.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "expression in an attack on the castled king, and the picture becomes still more",
+      "bbox": [
+        249.0,
+        1084.0,
+        1568.0,
+        1126.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "varied when we fill in the spatial side of pawn operations in this kind of attack",
+      "bbox": [
+        250.0,
+        1134.0,
+        1566.0,
+        1176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Here is a brief summary of a pawn's role in the attack on the castled king.",
+      "bbox": [
+        249.0,
+        1183.0,
+        1474.0,
+        1230.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l) The attacker's pawn (with or without a sacrifice) forces the opponent to",
+      "bbox": [
+        298.0,
+        1234.0,
+        1567.0,
+        1281.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "weaken his castled position.",
+      "bbox": [
+        248.0,
+        1285.0,
+        711.0,
+        1325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) It serves to create combinative elements in attack (e.g. by deflecting or at-",
+      "bbox": [
+        293.0,
+        1334.0,
+        1565.0,
+        1382.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tracting the opponent's pieces or opening up files).",
+      "bbox": [
+        247.0,
+        1385.0,
+        1086.0,
+        1429.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) It forms part of an attacking formation (e.g. in the formation with a rook on",
+      "bbox": [
+        293.0,
+        1435.0,
+        1565.0,
+        1479.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "hl and a pawn on h4 or as a support to a piece on a focal-point).",
+      "bbox": [
+        246.0,
+        1486.0,
+        1310.0,
+        1532.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4) A particular example of such an attacking formation which should be men-",
+      "bbox": [
+        290.0,
+        1536.0,
+        1564.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tioned is the pawn centre; as a rule, this serves either generally to confine the op-",
+      "bbox": [
+        246.0,
+        1586.0,
+        1563.0,
+        1636.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ponent or to provide the basis for an attack on the castled king.",
+      "bbox": [
+        244.0,
+        1639.0,
+        1287.0,
+        1684.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5) The pawn advances independently on the flank in order to drive an enemy",
+      "bbox": [
+        290.0,
+        1688.0,
+        1564.0,
+        1737.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "piece away or to take control of a square. An advance of this kind is usually",
+      "bbox": [
+        244.0,
+        1738.0,
+        1563.0,
+        1788.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "called a bayonet attack.",
+      "bbox": [
+        243.0,
+        1790.0,
+        632.0,
+        1829.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6) Two or three attacking wing pawns advance against the opponent's castled",
+      "bbox": [
+        289.0,
+        1840.0,
+        1563.0,
+        1888.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position in a frontal formation (a pawn avalanche or roller).",
+      "bbox": [
+        242.0,
+        1891.0,
+        1229.0,
+        1935.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7) The pawn moves up into the castling area as a straightforward attacking",
+      "bbox": [
+        288.0,
+        1941.0,
+        1563.0,
+        1991.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "unit against the enemy king.",
+      "bbox": [
+        242.0,
+        1991.0,
+        710.0,
+        2033.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8) The pawn advances into the castling area (with or without an attack on the",
+      "bbox": [
+        288.0,
+        2041.0,
+        1561.0,
+        2085.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king) in order to be promoted, after which it can carry on the attack in its new role.",
+      "bbox": [
+        241.0,
+        2092.0,
+        1538.0,
+        2137.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "These various types of action are usually interrelated in practical play, and sin-",
+      "bbox": [
+        285.0,
+        2143.0,
+        1560.0,
+        2190.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gle moves often combine two or more such functions. Indeed, when the process",
+      "bbox": [
+        241.0,
+        2193.0,
+        1560.0,
+        2241.0
+      ],
+      "confidence": null
+    }
+  ]
+}

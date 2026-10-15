@@ -1,0 +1,760 @@
+===== PDF 11 / PRINTED 9 =====
+--- LEFT ---
+   86.2 chessplayer is already contemplat-
+  146.1  positions  which he
+  153.0 ing  several
+  205.9 wants to achieve in the opening
+  268.5 and which, in their turn, will be
+  328.3 for him the initial point for work-
+  389.5 ing out a general strategical plan,
+  446.6 which he will realise mainly in the
+  509.2 middlegame. The planned process
+  563.4 of the chess struggle can be sub-
+  624.6 divided into three stages:
+  688.6 the preparation for the general
+  745.6 battle;
+  799.9 the struggle for the advantage,
+  865.3 and
+  927.9  the realisation of the advant-
+  997.4 age.
+ 1040.6 The success of the first stage, to
+ 1105.9 a considerable extent, is decided in
+ 1163.0 the opening. The main and most
+ 1224.2 complicated stage is undoubtedly
+ 1282.6 the second. The third stage is
+ 1349.4 getting results.
+ 1466.2 2: Concrete Ideas
+ 1524.7 The most purposeful, the most
+ 1577.5 well-founded and therefore having
+ 1641.5 the most chances of being success-
+ 1700.0 fully realised, are plans at the basis
+ 1761.2 of which lie concrete ideas.
+ 1819.6 With concrete ideas one should
+ 1886.4 take into account those ideas in
+ 1942.0 which the thoughts of a chess-
+ 1996.3  both   special-
+ 2001.8 embrace
+ 2007.4 player
+ 2061.7 purpose objectives, arising out of
+ 2122.9 real positional considerations, and
+ 2181.3 ways to achieve them, since the
+ 2241.1 latter provides the greatest possible
+ 2300.9 detailing of them.
+ 2364.9 If, however, the objective cho-
+ 2423.3 sen is incorrect or the
+ 2428.9 wayto
+ 2480.4 achieving it shrouded in a haze,
+--- RIGHT ---
+   83.5 then the idea does not prove to be
+  148.9 concrete and almost certainly will
+  204.5 be doomed to failure. Not without
+  268.5 reason, in chess literature, in such
+  324.1 cases one talks of “chasing after
+  386.7 shadows".
+  446.6 It  is necessary to d
+  449.3 distinguish
+  505.0 between  strategical  and  tactical
+  566.2 ideas.
+  626.0 Strategy - this is the plan as a
+  687.2 whole; tactics - separate opera-
+  747.0 tions, leading to its fulfilment. If,
+  798.5 graphically, a strategical plan is
+  861.1 represented in the form of a chain,
+  920.9 then tactical ideas make up its
+  982.1 link. Tactical ideas are the means
+ 1043.3 of realising a strategical idea.
+ 1104.6 A concretes
+ 1107.3 strategical
+ 1108.7 idea
+ 1161.6 represents the main overall task in
+ 1221.4 a given stage of the struggle. It is
+ 1284.0 based  on  the  created
+ 1288.2 positional
+ 1342.4 situation ensuing from it and al-
+ 1405.0 lows a rough mapping out of a path
+ 1464.9 to solve the problems with which
+ 1523.3 one is  confronted.
+ 1587.3 An incorrect choice of the ob-
+ 1637.4 jective should be regarded as a
+ 1701.4 strategical mistake, as also
+ 1718.0 are
+ 1757.0 moves which are in conflict with
+ 1825.2 the projected plan. A tactical mi-
+ 1883.6 r in calculation,
+ 1890.5 stake
+ 1893.3 is aerror
+ 1939.2 which overlooks the opponent's
+ 1993.5 reply, all of which makes difficult
+ 2058.9 or absolutely impossible the carry-
+ 2127.0 ing out of a concrete strategical
+ 2181.3 idea.
+ 2241.1 There will be positions in the
+ 2299.5 process of the struggle where it is
+ 2356.6 very difficult to think of a real
+ 2422.0 objective and, consequently, to
+ 2483.2 work out a concrete idea. In such
+ 2669.6 9
+===== PDF 12 / PRINTED 10 =====
+--- LEFT ---
+   76.5 cases one has to be content with a
+  132.2 general appraisal of considerations,
+  193.4 directing concrete thoughts in the
+  253.2 main to a prevention of the oppo-
+  313.0 threats, while special-
+  315.8 nent's
+  370.0 purpose objects of the plan have
+  432.6 not come to light and the struggle
+  492.5 has not joined the rails of concrete
+  549.5 ideas. Sometimes, in a locked
+  609.3 pawn chain, the game through
+  676.1 necessity assumes the form of more
+  735.9 or less lengthy piece manoeuvres.
+  792.9 In such cases the question arises
+  852.8 of an approximate form of action,
+  914.0 1 perhaps  is more  difficult
+  916.8 which
+  968.2 than even considering a plan. The
+ 1033.6 objective is very hazy or in general
+ 1089.3 absent, while the moves assume
+ 1150.5 either a waiting character or have
+ 1213.1 only a narrow tactical motivation.
+ 1270.1 The process of play under condi-
+ 1329.9 tions where there is no concrete
+ 1391.1 object for thought (and conse-
+ 1450.9 quently there cannot be concrete
+ 1508.0 ideas), often proceeds under the
+ 1572.0 slogan of equilibrium and ends in a
+ 1630.4 drawn  outcome.  Creatively  this
+ 1683.3 process  will usually be of little
+ 1751.4 interest, with the ideas of the two
+ 1809.9 sides being colourless.
+ 1865.5 We examine, in the light of the
+ 1930.9 above-mentioned planned side and
+ 1982.4 ideas,   the following
+ 1999.1 concrete
+ 2058.9 game.
+ 2224.4 Queen's Indian Defence
+ 2287.0 White:K.Klaman
+ 2345.4 Black: V.Smyslov
+ 2406.7 (15th USSR Championship 1947)
+ 2463.7 1 d4 Nf6 2 Nf3 b6
+--- RIGHT ---
+   73.7 Into this move goes a great
+  134.9 planning idea,
+  137.7  consisting of the
+  194.8 creation of strong piece pressure on
+  254.6 the central d5 and e4 squares, and,
+  310.2 if White does not duly counteract
+  374.2 this, then also of the occupation of
+  435.4 the e4 square by the knight with a
+  495.2 subsequent consolidation of it by
+  549.5 f5. This sort of set-up, met
+  609.3 sometimes in the Dutch Defence,
+  670.5 good  attacking
+  677.5 Black
+  678.9 promises
+  734.5 prospects on the king's flank.
+  791.6 From the modest opening move
+  852.8 with the pawn on the queen's
+  908.4 flank, right up to mate of the
+  971.0 opponent's king - this is the true
+ 1033.6 of  a(
+ 1040.6 range
+ 1044.7 creative
+ 1047.5 concrete
+ 1092.0 idea!
+ 1153.2 3 Nc3
+ 1211.7 White's plan consists of organis-
+ 1275.7 ing  counter-pressure  on  t
+ 1278.4 the e4
+ 1332.7 square and preparing the move e4.
+ 1393.9 Pawns standing side by side on e4
+ 1453.7 and d4, in chess theory are called
+ 1510.8 the pawn centre. We will in due
+ 1572.0 course give particular attention to
+ 1631.8 this important positional element.
+ 1690.2 For the present, however, we
+ 1748.6 note that the pawn centre is one of
+ 1812.6 the most powerful forces in the
+ 1871.1 struggle for the central squares and
+ 1933.7 in the majority of cases one can
+ 1992.1 look upon it as a positional achie-
+ 2046.4 vement. Therefore the threat of
+ 2111.7 constructing a pawn centre usually
+ 2172.9 evokes
+ 2174.3 s an appropriate counter-
+ 2230.0 action from the opposite side.
+ 2288.4 3 ... Bb7 4 Bg5
+ 2346.8 A difficult and tense moment
+ 2405.3 has been reached already on the
+ 2466.5 4th move.
+ 2648.7 10
+===== PDF 13 / PRINTED 11 =====
+--- LEFT ---
+  730.3 White is ready to carry out his
+  790.2 threat (Bxf6 and e4). Black is in a
+  847.2 thoughful mood, whether to pre-
+  911.2 vent this and, if so, in what way. A
+  965.4 good method of contending with a
+ 1029.4 pawn centre is by an immediate
+ 1092.0 attack on a central pawn, in the
+ 1143.5 present position - 4 ... c5. If
+ 1210.3 White, in reply to this, exchanges
+ 1268.7 pawns or plays 5 e3, then Black's
+ 1328.5 problem turns out to be solved.
+ 1389.7 However, White also has at his
+ 1450.9 disposal another possibility - 5 d5
+ 1506.6 or a preliminary 5 Bxf6 gxf6 (exf6)
+ 1566.4 e again 6 d5, severely
+ 1576.1 and
+ 1577.5 once
+ 1634.6 constraining the enemy pieces on
+ 1686.0 s flank. Apparantly,
+ 1688.8 the (
+ 1690.2 queen's
+ 1747.3 these considerations lead Black to
+ 1808.5 thinking about the need to mecha-
+ 1865.5 nically slow down the advance of
+ 1925.3 the White king's pawn to e4.
+ 1989.3 4 ... d5?
+ 2047.7 Though this move also prevents
+ 2107.6 the formation of the pawn centre,
+ 2166.0 it is nevertheless a serious strate-
+ 2223.0 gical mistake. The fact is that it is
+ 2284.2 in conflict with the planned line,
+ 2348.2 which Black intended with his 2nd
+ 2403.9 and 3rd moves. Black's bishop on
+ 2463.7 b7 becomes inactive and in general
+--- RIGHT ---
+   69.6 the forces of his queen's flank turn
+  128.0 out to be cut off from the king's
+  193.4 side. In addition to this, it allows
+  253.2 an invasion of the enemy knight
+  314.4 on e5, since with the move ... d5
+  370.0 s control of this square.
+  374.2 he  loses
+  431.2 White now has at his disposal a
+  498.0 plan, a virtually
+  502.2 irre-
+  503.6 concrete
+  548.1 sistible attack on the opponent's
+  612.1 castled position. The immediate
+  671.9 of the game shows how
+  683.0 course
+  731.7 easily and freely White realises his
+  788.8 plan.
+  851.4 5 e3 e6 6 Ne5 Be7 7 Bb5+ c6 8
+  912.6 Bd3 c5 9 0-0
+  968.2 On 9 Bb5+ follows 9 ... Kf8
+ 1028.0 and, in view of the threat ... c4,
+ 1086.5 the White bishop is in danger.
+ 1147.7 9 ... 0-0?
+ 1211.7 Straight into White's attack! He
+ 1270.1 should play ... a6, in order to
+ 1324.4 secure the b5 square, and then try
+ 1391.1 to exchange the opponent's cen-
+ 1446.8 tralised knight by ... Nbd7 or ...
+ 1498.2 Nc6. Black has not drawn up a
+ 1570.6 concrete  plan  of defence
+ 1574.8  and
+ 1627.6 makes routine moves, apparently
+ 1684.7 unaware of all the dangers in his
+ 1751.4 position.
+ 1804.3 10 Qf3 Nc6? 11 Qh3 g6?
+ 2645.9 11
+===== PDF 14 / PRINTED 12 =====
+--- LEFT ---
+   76.5 Near the end; furthermore a
+  143.3 tactical oversight, admittedly in a
+  203.1 difficult position. After the correct
+  262.9 11 ... Nxe5 12 dxe5 Ne4 13 Bxe4
+  321.4 dxe4 14 Rad1 Qe8, White has an
+  384.0 indisputable advantage but it is
+  438.2 still a long way for him to victory.
+  506.4 12 Ba6!
+  559.2 A witty and surprising idea,
+  617.7 leading to the win of the exchange:
+  687.2 Qc8
+  688.6 12
+  688.6 [matters
+  695.6 not
+  698.3 are
+  740.1 2 ... Bxa6 13 Nxc6
+  744.3 changed by 12
+  802.7 Qe8 14 Nxe7+ Qxe7 15 Qh4 Kg7
+  862.5 16 Bh6+] 13 Nxc6 Qxc6 14 Bxb7
+  920.9 Qxb7 15 Qh4 Kg7 16 Bh6+.
+  983.5 However, it must be emphasised
+ 1042.0 that White's idea rested upon the
+ 1101.8 weakening of Black's king's flank
+ 1163.0 by the move ... g6, hence it is in
+ 1220.0 itself quite logical. It completes, as
+ 1281.2 it were, White's whole plan of
+ 1339.7 attack.
+ 1517.7 Indian Defence
+ 1580.3 White: M.Yudovich
+ 1637.4 Black: K.Klaman
+ 1698.6 (15th USSR Championship 1947)
+ 1758.4 1 d4 Nf6 2 Nf3 d6
+ 1818.2 The immediate
+ 1818.2 aim in this
+ 1876.6 opening system is the advance ...
+ 1936.5 e5, reinforced with the knight
+ 1990.7 from the d7 square, the bishop
+ 2057.5 from g7, and sometimes also the
+ 2120.1 rook from e8.
+ 2178.5 3 Bf4 Bg4 4 e3 Nbd7 5 Be2 e6?
+ 2238.3 Black's trouble begins with this
+ 2302.3 move. He surprisingly refrains from
+ 2353.8 realising his plan, which would
+ 2420.6 guarantee him (for example, after
+ 2472.0 5 ... Bxf3 6 Bxf3 e5 7 Bg5 c6,
+--- RIGHT ---
+   82.1 followed by ... Be7 and ... 0-0) a
+  143.3 quite satisfactory position and be-
+  200.3 gins to confine himself to purely
+  261.5 "trench" warfare waiting tactics. In
+  321.4 the meantime, White, of course,
+  377.0 mobilises all his army, preparing a
+  436.8 general offensive in the centre.
+  503.6 6 h3 Bh5
+  562.0 Even now it was necessary to go
+  620.4 back to the indicated plan. The
+  685.8 retreat of the bishop is absolutely
+  742.9 pointless.
+  801.3 7 0-0 Be7 8 c4 0-0
+  859.7 Black has obtained a cramped
+  925.1 position; one cannot see good pros-
+  979.4 pects of action for the majority of
+ 1037.8 his pieces - both rooks, queen,
+ 1100.4 bishop on h5. But nevertheless, if
+ 1157.4 henceforth he based his play on a
+ 1217.2 concrete idea, it would not be easy
+ 1279.8 for the opponent to realise his plan
+ 1339.7 of attack.
+ 1402.3 9 Nc3
+ 1521.9 二
+ 2115.9 ... Ne8?
+ 2121.5 9
+ 2174.3 This retreat lacks concrete pur-
+ 2238.3 pose and worsens even more the
+ 2298.1 arrangement of Black's pieces.
+ 2355.2 Black cannot well  solve the
+ 2419.2 problems confronting him without
+ 2469.3 the advance ... e5. His following
+ 2655.7 12
+===== PDF 15 / PRINTED 13 =====
+--- LEFT ---
+   83.5 play must include preparation for
+  143.3 this pawn move. Admittedly, after
+  200.3 9 ... Re8 10 Qd2 Bf8 11 Rad1 e5,
+  257.4 White obtains the advantage by 12
+  321.4 dxe5 dxe5 13 Nxe5! Nxe5 14
+  374.2 Qxd8 Raxd8 15 Rxd8 Rxd8 16
+  438.2 Bxh5 Nxh5 17 Bxe5, but the
+  499.4 continuation 9 ... Bxf3 10 Bxf3 e5
+  560.6 11 Bh2 c6 and only then ... Re8
+  614.9 and ...
+  617.7  Bf8 secures Black good
+  678.9 chances of resistance.
+  738.7 10 Qd2 f6 11 Rad1
+  740.1 1 Bf7
+  795.7 Was Black intending to play 11
+  856.9 e5 now? This would be a
+  916.8 tactical mistake in view of 12 dxe5
+  978.0 fxe5 13 Nxe5! Bxe2 14 Nxd7 Bxf1
+ 1042.0 15 Qd5+ Kh8 16 Nxf8 Bxc4 17
+ 1096.2 Ng6+ hxg6 18 Qxc4 with a great
+ 1153.2 positional advantage for White.
+ 1221.4 12 Bh2 c6 13 e4 Kh8?
+ 1271.5 Both now and on the following
+ 1339.7 moves he should play ... e5. The
+ 1399.5 well-fortified pawn in the centre
+ 1453.7 would have allowed Black to cons-
+ 1516.3 truct a plan of defence. Instead of
+ 1576.1 this, he waits passively for the
+ 1631.8 opponent's attack. He is not kept
+ 1697.2 waiting long.
+ 1754.2 14 Rfe1 g6? 15 Bf1 Ng7?
+ 2291.2 玖
+ 2473.4 16 c5!
+--- RIGHT ---
+   79.3 The beginning of a concrete
+  137.7 plan, the aim of which is a pawn
+  203.1 offensive on the queen's flank.
+  260.1 16 ... d5
+  318.6 16 ... Qc7 is bad in view of 17
+  381.2 e5! fxe5 18 cxd6 Qxd6 [18 ... Bxd6
+  438.2 leads to the loss of a piece after 19
+  498.0 dxe5] 19 Nxe5 Nxe5 20 Bxe5 Qd8
+  557.8 21 Ne4, and White obtains a
+  620.4 strong attack in connection with
+  678.9 the threats of Qh6 and Bc4.
+  738.7 17 exd5 exd5 18 b4
+  795.7 The White bishop on h2 rakes
+  854.2 the whole board and, in particular,
+  916.8 the important c7 and b8 squares on
+  972.4 the queen's flank. With support
+ 1036.4 from this bishop, the pawn offens-
+ 1096.2 ive proves to be very threatening,
+ 1151.9 the more so in that the enemy
+ 1218.6 pieces, as before, are hampered in
+ 1277.1 their movements.
+ 1334.1 18 ... b5
+ 1396.7 Otherwise,  a
+ 1396.7 after b5, White
+ 1450.9 opens the b-file with advantage.
+ 1514.9 19 a4
+ 1574.8 White's idea is clear and con-
+ 1638.8 crete - to open the a-file, occupy it
+ 1694.4 with heavy pieces and invade the
+ 1764.0 opponent's camp.
+ 1818.2 19 ... a6 20 axb5 axb5 21 Ral
+ 1879.4 Re8 22 Ra2
+ 1933.7 A  typical  tactical  method for
+ 1993.5 occupying an open line. A pre-
+ 2050.5 requisite for this has been created
+ 2114.5 by the fact that White controls
+ 2171.6 greater space on the queen's flank.
+ 2236.9 22 ... Qc8 23 Rea1 Qb7 24 Qb2
+ 2294.0 Ne6 25 Ra3 Nc7 26 Ra5! Rxa5
+ 2352.4 White threatened to win a piece
+ 2415.0 (Bxc7), therefore the exchange is
+ 2473.4 forced.
+ 2651.5 13
+===== PDF 16 / PRINTED 14 =====
+--- LEFT ---
+   80.7 27 Rxa5 Na6 28 Qa3 Nab8 29
+  139.1 Ra7 Qc8
+  855.5 The
+  859.7 objective
+  859.7 been
+  861.1 has
+  912.6 achieved. The stage approaches for
+  968.2 realisation of the advantage.
+ 1037.8 30 Nxb5
+ 1090.6 This sacrifice is not the only way
+ 1158.8 to victory. 30 Rc7 Qd8 31 Qa7 is
+ 1214.5 also sufficient.
+ 1275.7 30 ... cxb5 31 Bxb5 Kg7 32
+ 1332.7 Bxb8 Nxb8 33 Bxe8 Qxe8 34
+ 1393.9 b5 Bf8 35 Qe3 Qc8 36 Qf4
+ 1452.3 White threatens both Ne5, and
+ 1512.2 Ra8 and Qc7.
+ 1574.8 1:0
+ 1634.6 A just punishment for his plan-
+ 1690.2 less play.
+ 1872.5 Queen's Gambit
+ 1929.5 White: I.Bondarevsky
+ 1992.1 Black: M.Botvinnik
+ 2053.3 (Match-tournament  for  absolute
+ 2114.5 champion of USSR 1941)
+ 2172.9 1 d4 d5 2 Nf3 c6
+ 2234.2 Here, already on the 2nd move,
+ 2291.2 begins the planning of the game.
+ 2353.8 On 3 c4, Black could take the
+ 2406.7 pawn and defend it later by ... b5.
+ 2470.6 The move 3 Bf4 would allow Black
+ 2650.1 14
+--- RIGHT ---
+   80.7 to create pressure on the weakened
+  136.3 b2 point, by playing ... Qb6.
+  203.1 3 e3
+  257.4 Usually one of White's tasks in
+  317.2 the opening is to create difficulties
+  379.8 for the opponent in the develop-
+  438.2 ment of his pieces.
+  500.8 In particular, in many variations
+  557.8 of the Queen's Gambit, Black has
+  613.5 quite a lot of trouble deploying his
+  681.7 forces on the queen's flank.
+  737.3 However, in the present game,
+  794.3 White not only does not pretend
+  859.7 to hamper the opponent, but also
+  916.8 limits the activity of his own pieces
+  978.0 on the queen's flank. This allows
+ 1036.4 Black to realise a purposeful plan of
+ 1099.0 play without difficulty.
+ 1154.6 White's plan is as modest as can
+ 1213.1 be: he will play c4, Nc3, Be2 [or
+ 1272.9 Bd3], 0-0, b3 and Bb2, and only
+ 1334.1 then decide what he can extract
+ 1393.9 from such an arrangement of pie-
+ 1452.3 ces. Such a self-denial of the
+ 1510.8 cannot be
+ 1521.9 initiative
+ 1526.1 recom-
+ 1570.6 mended. Both 3 c4 and 3 Bf4
+ 1636.0 would have prevented Black from
+ 1697.2 feeling as carefree as he does in the
+ 1762.6 game.
+ 1808.5 3 ... Bg4 4 c4 e6 5 Nc3
+ 1873.9 On 5 Qb3, possible is 5 ... Qb6,
+ 1935.1 and it is hard for White to think of
+ 1994.9 a concrete actual plan.
+ 2013.0 a
+ 2053.3 ... Nd7 6 Bd3
+ 2058.9 5
+ 2111.7 In three moves White retreats
+ 2171.6 the bishop to e2. If he is not
+ 2234.2 planning to play the move e4 [and
+ 2292.6 that's the way it seems] then the
+ 2351.0 must be
+ 2353.8 bishop
+ 2359.4 move 
+ 2364.9 seen
+ 2369.1 1as
+ 2413.6 tactical carelessness.
+ 2473.4 6 ... Ngf6 7 0-0 Be7 8 b3 0-0
+===== PDF 17 / PRINTED 15 =====
+--- LEFT ---
+   70.9 9 Bb2
+  788.8 Both sides have completed their
+  852.8 initial  arrangement of  forces  in
+  907.0 with the intended
+  914.0 accordance
+  972.4 plans. The middlegame struggle is
+ 1026.7 begun with Black's move - this
+ 1096.2 undoubtedly is an achievement for
+ 1150.5 him. Also telling against White is
+ 1208.9 the fact that his queen's knight, in
+ 1267.3 the present position, would be
+ 1325.7 better deployed not on c3, but on
+ 1391.1 d2. The main criticism that can be
+ 1449.6 levelled against him is that, in
+ 1505.2 drawing up a plan of development
+ 1567.8 in the opening, he firstly does not
+ 1629.0 sufficiently concretely co-ordinate
+ 1688.8 it with the basic strategical plan
+ 1751.4 and secondly he does not give due
+ 1812.6 consideration to the tactical nice-
+ 1866.9 ties of the opening. The moves
+ 1928.1 3 were made routinely,
+ 1932.3 Bd3, Nc3
+ 1985.1 since the objective in White's
+ 2047.7 opening plan was too vague and
+ 2110.3 dim, his plan turns out to be not
+ 2166.0 very concrete. In this case it was
+ 2223.0 difficult to decide where best to
+ 2285.6 post the bishop - on e2 or d3, the
+ 2344.1 knight - on c3 or d2.
+ 2403.9 9 ... e5
+ 2463.7 Aplan,
+ 2467.9 leading
+ 2477.6 pawn
+ 2479.0 to
+--- RIGHT ---
+   70.9 exchanges and hence to an open-
+  132.2 ing of the position, which serves as
+  196.1 an  inevitable
+  197.5 e introduction to a
+  250.4 piece skirmish, and sometimes also
+  311.6 to a general battle; it can provoke a
+  367.3 sharpening of the game.
+  432.6 Black's decision is prompted by
+  491.1 the nature of Botvinnik's style and
+  549.5 possibly  also  considerations  of a
+  616.3  character.
+  617.7 sporting
+  671.9 Another concrete plan here was
+  731.7 to play for occupation of the e4
+  787.4 square and the associated g
+  794.3 gain of
+  850.0 space in the centre and
+  856.9  on the
+  909.8 king's flank. The starting point of
+  969.6 this plan would be the move 9 ...
+ 1030.8 Bb4 and if 10 a3, then 10 ... Bxc3
+ 1089.3 11 Bxc3 Ne4 12 Be1 f5.
+ 1146.3 10 Be2
+ 1207.5 White declines to accept the
+ 1271.5 challenge, but the move in the
+ 1327.1 game is not only a retreat but also
+ 1389.7 the beginning of a fine, very con-
+ 1448.2 crete plan of counterattack.
+ 1502.4 The fact is that Black has no-
+ 1569.2 thing better now than to advance
+ 1627.6 his e-pawn to e4. The variation 10
+ 1684.7 exd4 11  Nxd4 provokes an
+ 1750.0 exchange of  the white-squared
+ 1809.9 bishops and hands over to White a
+ 1862.7 square of invasion for the knight
+ 1923.9 on f5. After 10 ... e4, however,
+ 1986.5 there arises the concrete idea of
+ 2043.6 the dangerous break f3.
+ 2107.6 This is not the only plan. Also
+ 2168.8 possible is a relaxing of the situa-
+ 2230.0 tion in the centre: 10 cxd5 exd4 11
+ 2284.2 exd4 Nxd5 12 Nxd5 cxd5, but in
+ 2345.4 this case the pin on the knight f3
+ 2402.5 and the passive position of the
+ 2466.5 bishop b2 makes a concrete plan of
+ 2644.5 15
+===== PDF 18 / PRINTED 16 =====
+--- LEFT ---
+   82.1 play difficult. However, White did
+  148.9 not fancy the sharp struggle pro-
+  211.5 duced on the way by 10 dxe5 Nxe5
+  271.3 11 Nxd5 (after 11 Be2 Nxf3+ 12
+  329.7 Bxf3 Bxf3 13 Qxf3 dxc4 14 Rad1
+  386.7 Qc8, Black's extra pawn on the
+  447.9 queen's flank
+  452.1 imperceptibly
+  456.3 can
+  507.8 prove to be a planned advantage
+  567.6 the more the game is simplified) 11
+  628.8 ... Nxf3+ 12 gxf3 Bh3 13 Nxe7+
+  688.6 Qxe7 14 Kh1! (14 Re1 Ne4 15 f4
+  748.4 Rad8 16 Qe2 Rxd3 17 Qxd3 Qe6,
+  806.9 and Black wins) 14 ... Bxf1 15
+  869.5 Qxfl, since this entails a certain
+  926.5 amount of risk.
+  987.7 10 ... e4 11 Nd2 Bxe2 12 Qxe2
+ 1047.5 Bb4!
+ 1758.4 The attention of both oppo-
+ 1826.6 nents is riveted to the e4 point, for
+ 1880.8 the control of  which begins a
+ 1943.4 decisive struggle. With his last
+ 2000.4 move Black endeavours not only to
+ 2061.7 exchange the knight c3, but also,
+ 2124.3 by clearing the e-file, to allow his
+ 2185.5 heavy pieces establish communica-
+ 2243.9 tion with this point.
+ 2303.7 13 a3?
+ 2360.7 A loss of an important tempo in
+ 2420.6 the struggle for the e4 square.
+ 2480.4 Admittedly, the break 13 f3 has no
+ 2658.4 16
+--- RIGHT ---
+   90.4 strength in view of 13 ... Bxc3 14
+  150.2 Bxc3 Re8, retaining control over
+  208.7 the e4 square, while in the event of
+  269.9 15 fxe4 Nxe4 - he has created on it
+  326.9 good
+  331.1 his
+  332.5 base
+  335.3 for 
+  338.0 pieces.
+  343.6 a
+  389.5 However, White has at his disposal
+  450.7 another plan consisting of a pawn
+  506.4 attack on the king's flank, and a
+  560.6 pawn break in the centre if Black
+  628.8 exchanges the e4 pawn. The ques-
+  690.0 tion is about the move 13 f4,
+  742.9 giving Black a choice: whether to
+  808.2 take the pawn 13 ... exf3 14 gxf3
+  869.5 Bxc3 15 Bxc3 Re8 16 Rae1 Nh5 17
+  925.1 Qg2 Qh4 with a very sharp and
+  987.7 difficult to evaluate situation, or to
+ 1050.3 take up a defensive position by 13
+ 1104.6 .. Re8 14 g4 Kh8 15 g5 Ng8 16
+ 1167.2 Qg4 Nf8 17 f5 Qd7.
+ 1229.8 13 ... Bxc3 14 Bxc3 Re8 15 f3
+ 1286.8 A consistent continuation of the
+ 1346.6 thought out on the 10th
+ 1350.8 plan,
+ 1400.9 move. Now 15 f4 would oblige
+ 1466.2 Black to play 15 ... exf3, but he
+ 1528.9 should not be afraid of this. On 16
+ 1576.1 gxf3 follows 16 ... Nh5 with the
+ 1647.1 t... Nf4 and 
+ 1648.5 threat
+ 1649.9 Qg5+.
+ 1705.5 White's e3
+ 1705.5 pawn is very weak.
+ 1765.3 Therefore he needs to take on f3
+ 1823.8 with the queen, but then 16 ..
+ 1883.6 Qe7 17 Rfe1 (17 Rae1 Qxa3) 17
+ 1942.0 ... Ne4 and Black has an indisput-
+ 2000.4 able advantage.
+ 2063.0 In reply to the move in the
+ 2114.5 game, Black could also choose 15
+ 2179.9 ... exf3, which was the most ener-
+ 2248.1 of  exploiting White's
+ 2249.5 getic way(
+ 2306.5 strategical
+ 2306.5  mistake on the 13th
+ 2371.9 move.
+ 2422.0 15 ... Nf8? 16 Rf2?
+ 2483.2 It was still not too late to choose
+===== PDF 19 / PRINTED 17 =====
+--- LEFT ---
+   79.3 the other plan (the other object-
+  137.7 ive) and leave the e4 pawn in
+  198.9 peace. By playing 16 f4, and if 16
+  257.4 ... Qd7, then 17 f5, White could
+  324.1 count on an initiative.
+  378.4 16 ... Qd7 17 Rafl?
+  442.4 Once again consistent, but 
+  499.4 not taking sufficient account of the
+  559.2 opponent's counter-play. The ob-
+  613.5 jective which White pursues  is
+  678.9 unattainable and his plan does not
+  733.1 prove to be concrete. More hopes
+  794.3 were  promised  by  the self-same
+  855.5 move 17 f4 Qf5 18 h3 h5 19 Kh2
+  918.1 h420 Rgl with a subsequent
+  973.8 opening of the g-file.
+ 1035.0 17 ... exf3
+ 1097.6 At last! Not possible now is 18
+ 1153.2 gxf3 Ng6, and if 19 Qd3, then 19
+ 1220.0 Qe6 winning the e3 pawn.
+ 1277.1 18 Rxf3 Re6
+ 1336.9 Black's  concrete
+ 1345.2 intention  is
+ 1396.7 triumphant. The e4 point is in his
+ 1455.1 hands, the e3 pawn is weak and
+ 1513.5 subject to attack on the e-file. All
+ 1573.4 s pieces take part in the
+ 1577.5 Black's
+ 1631.8 attack, whereas the enemy bishop
+ 1697.2 and knight are inactive.
+ 1754.2 19 Qd3 Rae8 20 Nb1 Ng6 21
+ 1815.4 Bel?
+ 2287.0 只
+ 2287.0 际
+ 2362.1 只
+--- RIGHT ---
+   77.9 A tactical oversight, which, just
+  139.1 like other such mistakes, is a
+  201.7 consequence of a strategically diffi-
+  261.5 cult position. However, White
+  321.4 cannot save the game. After 21
+  378.4 Bd2 Ne4, unsatisfactory are both
+  441.0 22 Rxf7 Qxf7 23 Rxf7 Kxf7 and 22
+  499.4 Nc3 dxc4 23 bxc4 Nxd2 24 Qxd2
+  557.8 Ne5 winning two pawns.
+  617.7 21 ... dxc4 22 Qxc4
+  676.1 If 22 bxc4 Ne5 and White loses
+  738.7 the exchange. It is possible he
+  794.3 overlooked this fact when making
+  858.3 his previous move.
+  915.4 22 ... Rxe3 23 Rxe3 Rxe3
+  976.6 The last period of the struggle is
+ 1035.0 approaching - the realisation of the
+ 1097.6 been
+ 1099.0 which
+ 1099.0 has
+ 1101.8 advantage
+ 1153.2 achieved. Black has an extra pawn
+ 1217.2 and a strong position - this will be
+ 1279.8 quite sufficient to quickly conclude
+ 1339.7 the game.
+ 1393.9 24 Bf2 Nd5! 25 Nd2
+ 1456.5 Or 25 Bxe3 Nxe3 26 Qd3 Nxf1
+ 1512.2 27 Kxf1 Nf4 28 Qe4 Ne6 winning
+ 1578.9 a second pawn.
+ 1633.2 25 ... Ngf4 26 h3 Rc3 27 Qa4
+ 1694.4 Ne2+ 28 Kh2 Rxh3+ 0:1
+ 1752.8 After 29 gxh3 Ndf4 White gets
+ 1812.6 mated.
+ 1933.7 This game, like the two previous
+ 1997.7 ones, is a good example of the
+ 2051.9 triumph of concrete ideas over an
+ 2114.5 unrealistic appraisal of a position.
+ 2295.4 3: Dynamics
+ 2352.4 A concrete idea in a plan pre-
+ 2415.0 supposes not only a rough outline
+ 2474.8 of an objective, but also the
+ 2650.1 17

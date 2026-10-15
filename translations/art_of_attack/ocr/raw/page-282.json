@@ -1,0 +1,420 @@
+{
+  "pdf_page": 282,
+  "printed_page": 282,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "282",
+      "bbox": [
+        272.0,
+        114.0,
+        335.0,
+        145.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        700.0,
+        118.0,
+        1194.0,
+        159.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10...Vc2!) 8...Vxd7 9 Ag5, when he either loses his knight or is mated. After the",
+      "bbox": [
+        270.0,
+        259.0,
+        1590.0,
+        311.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        1112.0,
+        312.0,
+        1119.0,
+        331.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "erroneous text move Black reasserts his advantage .",
+      "bbox": [
+        270.0,
+        319.0,
+        1129.0,
+        361.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7...g6 8 g4",
+      "bbox": [
+        314.0,
+        366.0,
+        490.0,
+        405.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black was threatening 8...Qh5; if 8 Ah6, Black can of course reply 8...Axe5.",
+      "bbox": [
+        315.0,
+        415.0,
+        1564.0,
+        464.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8...xc7 9 Ve3 Äfc8",
+      "bbox": [
+        314.0,
+        462.0,
+        642.0,
+        498.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's counterattack is growing rapidly in strength.",
+      "bbox": [
+        313.0,
+        516.0,
+        1180.0,
+        561.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10 Ag5 Axe5 11 dxe5 Qg8",
+      "bbox": [
+        315.0,
+        562.0,
+        781.0,
+        607.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This is not a defensive move but a preparation for later action against the",
+      "bbox": [
+        312.0,
+        616.0,
+        1587.0,
+        665.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishop by means of ...h6.",
+      "bbox": [
+        267.0,
+        666.0,
+        682.0,
+        706.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 xg3",
+      "bbox": [
+        314.0,
+        714.0,
+        432.0,
+        755.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White concedes that his attack has been beaten off and tries to provide some",
+      "bbox": [
+        310.0,
+        768.0,
+        1585.0,
+        816.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "resistance on the second rank. After 12 Af6+ Qxf6 13 exf6 Vc5 Black has the",
+      "bbox": [
+        264.0,
+        819.0,
+        1585.0,
+        860.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "better ending.",
+      "bbox": [
+        265.0,
+        868.0,
+        490.0,
+        908.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12...xc2 13 xg2 xxg2+ 14 #xg2 xc2+ 15 ég7! 16 Au",
+      "bbox": [
+        312.0,
+        916.0,
+        1346.0,
+        965.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The bishop is in danger! A sad fate for an unsuccessful attacker!",
+      "bbox": [
+        308.0,
+        969.0,
+        1376.0,
+        1010.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...h6 17 h4 h5! 18 gxh5",
+      "bbox": [
+        310.0,
+        1019.0,
+        746.0,
+        1061.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Otherwise Black opens up White's king position by ...hxg4.",
+      "bbox": [
+        308.0,
+        1069.0,
+        1298.0,
+        1118.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18...Qe7 19 Vb3",
+      "bbox": [
+        309.0,
+        1115.0,
+        597.0,
+        1152.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19 h6+ would not help White either.",
+      "bbox": [
+        311.0,
+        1170.0,
+        993.0,
+        1212.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...Qf5+ 20",
+      "bbox": [
+        308.0,
+        1215.0,
+        525.0,
+        1252.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "He could have put up a better fight by 20 Éh3, though even then Black's game",
+      "bbox": [
+        306.0,
+        1271.0,
+        1579.0,
+        1323.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is overwhelming.",
+      "bbox": [
+        260.0,
+        1321.0,
+        544.0,
+        1362.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20...xc4 21",
+      "bbox": [
+        304.0,
+        1369.0,
+        494.0,
+        1404.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 21 Ädl, Black can play 21...Vxdl !.",
+      "bbox": [
+        304.0,
+        1420.0,
+        934.0,
+        1466.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...Xxf4+ 22 *xf4 Vd4+ 23 VO! 24 Vd2+ 25 Äf4 Vd8+ 26",
+      "bbox": [
+        303.0,
+        1471.0,
+        1492.0,
+        1518.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxh4#",
+      "bbox": [
+        257.0,
+        1518.0,
+        378.0,
+        1554.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If one leaves aside Black's unpunished mistake on the sixth move, then the",
+      "bbox": [
+        302.0,
+        1574.0,
+        1576.0,
+        1623.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "whole course of the game is a good illustration of the relationship between the",
+      "bbox": [
+        256.0,
+        1624.0,
+        1576.0,
+        1676.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "scale of the attacker's commitment and the method of defence employed. In the",
+      "bbox": [
+        256.0,
+        1675.0,
+        1575.0,
+        1726.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "first phase White is not heavily committed by his rook's excursion and Black car-",
+      "bbox": [
+        255.0,
+        1724.0,
+        1574.0,
+        1771.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ries out a cautious direct defence without compromising his king position. He",
+      "bbox": [
+        253.0,
+        1775.0,
+        1574.0,
+        1828.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "also maintains his hold on the c-file and the centre and eliminates one enemy unit",
+      "bbox": [
+        254.0,
+        1826.0,
+        1574.0,
+        1880.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "— the light-squared bishop. With f3 and g4 White has already taken on greater ob-",
+      "bbox": [
+        252.0,
+        1877.0,
+        1572.0,
+        1930.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ligations and so the time is ripe for indirect defence by means of an action along",
+      "bbox": [
+        252.0,
+        1928.0,
+        1572.0,
+        1983.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the c-file. As soon as another unit is eliminated (the knight on e5) it is all over",
+      "bbox": [
+        252.0,
+        1978.0,
+        1573.0,
+        2029.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with White's attack, whereas the counterattack grows from move to move, with",
+      "bbox": [
+        251.0,
+        2029.0,
+        1571.0,
+        2079.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 White has an even simpler win by 7 Ag5!, after which Black must surrender a",
+      "bbox": [
+        254.0,
+        2134.0,
+        1571.0,
+        2180.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "piece to avoid being mated on h7.",
+      "bbox": [
+        332.0,
+        2184.0,
+        864.0,
+        2224.0
+      ],
+      "confidence": null
+    }
+  ]
+}

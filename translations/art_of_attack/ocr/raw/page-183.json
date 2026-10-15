@@ -1,0 +1,330 @@
+{
+  "pdf_page": 183,
+  "printed_page": 183,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "8 Pieces and pawns in the attack",
+      "bbox": [
+        229.0,
+        293.0,
+        1530.0,
+        372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on the castled king",
+      "bbox": [
+        321.0,
+        395.0,
+        1056.0,
+        474.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Our examination of the attack on the castled king has so far (in chapters 4-7) been",
+      "bbox": [
+        226.0,
+        627.0,
+        1544.0,
+        669.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mainly directed towards the spatial aspect of the attack, and it is now time to ex-",
+      "bbox": [
+        225.0,
+        678.0,
+        1543.0,
+        717.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "amine the parts played by particular pieces and the significance of material sacri-",
+      "bbox": [
+        226.0,
+        728.0,
+        1543.0,
+        768.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fices. Some of these points have already been touched on, so in this chapter we",
+      "bbox": [
+        225.0,
+        778.0,
+        1543.0,
+        821.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "shall concern ourselves only with certain themes where the material aspect is",
+      "bbox": [
+        225.0,
+        829.0,
+        1543.0,
+        871.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "paramount and which have not yet been fully dealt with.",
+      "bbox": [
+        224.0,
+        880.0,
+        1158.0,
+        920.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The queen in the attack on the castled king",
+      "bbox": [
+        224.0,
+        985.0,
+        1318.0,
+        1041.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The queen is undoubtedly the most important piece in the attack on the castled",
+      "bbox": [
+        223.0,
+        1080.0,
+        1542.0,
+        1121.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king, and indeed without it such an attack rarely comes into consideration. Ad-",
+      "bbox": [
+        223.0,
+        1130.0,
+        1541.0,
+        1171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mittedly, it is not impossible to undertake a direct attack without the queen, but",
+      "bbox": [
+        223.0,
+        1180.0,
+        1542.0,
+        1223.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the necessary conditions for it cannot easily be created.",
+      "bbox": [
+        223.0,
+        1230.0,
+        1138.0,
+        1271.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The queen's great mobility, its main characteristic, is a useful factor in the at-",
+      "bbox": [
+        267.0,
+        1281.0,
+        1540.0,
+        1321.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack on the castled king, but its effectiveness at short range is even more striking.",
+      "bbox": [
+        223.0,
+        1332.0,
+        1539.0,
+        1376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If it is in occupation of the focal-point g7, the enemy king on g8 has every square",
+      "bbox": [
+        222.0,
+        1382.0,
+        1540.0,
+        1427.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "taken from it; moreover, if it is protected on that focal-point and the focal-point",
+      "bbox": [
+        222.0,
+        1433.0,
+        1541.0,
+        1478.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "itself has been cleared of the influence of the opposing pieces, then the king is",
+      "bbox": [
+        222.0,
+        1483.0,
+        1539.0,
+        1529.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mated. The queen is, as it were, 'made for focal-points', and particularly for play",
+      "bbox": [
+        221.0,
+        1535.0,
+        1539.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on compound focal-points. Therefore, the queen's chief strategy in an attack on",
+      "bbox": [
+        221.0,
+        1586.0,
+        1538.0,
+        1629.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the castled king consists in playing on the focal-points and discovering ways in",
+      "bbox": [
+        221.0,
+        1635.0,
+        1538.0,
+        1680.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which to attack as effectively as possible at close range. Thus the queen, which in",
+      "bbox": [
+        221.0,
+        1685.0,
+        1538.0,
+        1730.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "an endgame on an open board feels such an aversion towards the opponent's king",
+      "bbox": [
+        220.0,
+        1736.0,
+        1538.0,
+        1782.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "that it will not allow it nearer than two paces away, is filled in attack with some",
+      "bbox": [
+        220.0,
+        1787.0,
+        1538.0,
+        1830.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "kind of dark desire and dreams only of how it can steal into the castled dwelling",
+      "bbox": [
+        219.0,
+        1837.0,
+        1538.0,
+        1884.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and there fold the king in a close and deadly embrace.",
+      "bbox": [
+        219.0,
+        1888.0,
+        1113.0,
+        1930.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The reverse side of the queen's positive characteristics is its great material",
+      "bbox": [
+        263.0,
+        1938.0,
+        1537.0,
+        1983.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "value; this means that the queen is not lightly sacrificed and is not as a rule given",
+      "bbox": [
+        218.0,
+        1989.0,
+        1536.0,
+        2035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "up for smaller gains, such as preventing castling or clearing a focal-point. How-",
+      "bbox": [
+        217.0,
+        2039.0,
+        1536.0,
+        2085.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ever, there are a number of different kinds of queen sacrifice which occur in the",
+      "bbox": [
+        217.0,
+        2090.0,
+        1536.0,
+        2133.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "attack on the castled king; these can be reduced in the main to two fairly sharply",
+      "bbox": [
+        217.0,
+        2140.0,
+        1536.0,
+        2187.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "differentiated types: the case where the sacrifice forces mate, 'check upon",
+      "bbox": [
+        216.0,
+        2190.0,
+        1535.0,
+        2237.0
+      ],
+      "confidence": null
+    }
+  ]
+}

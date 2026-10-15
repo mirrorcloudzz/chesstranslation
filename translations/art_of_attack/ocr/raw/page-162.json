@@ -1,0 +1,330 @@
+{
+  "pdf_page": 162,
+  "printed_page": 162,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        267.1,
+        117.3,
+        343.0,
+        163.4
+      ],
+      "text": "162",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        698.3,
+        123.5,
+        1198.2,
+        173.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9701
+    },
+    {
+      "bbox": [
+        704.5,
+        308.1,
+        731.4,
+        340.6
+      ],
+      "text": "二",
+      "confidence": 0.6685
+    },
+    {
+      "bbox": [
+        607.7,
+        374.2,
+        640.7,
+        407.9
+      ],
+      "text": "W",
+      "confidence": 0.8629
+    },
+    {
+      "bbox": [
+        703.2,
+        712.3,
+        747.3,
+        742.3
+      ],
+      "text": "3",
+      "confidence": 0.5731
+    },
+    {
+      "bbox": [
+        305.1,
+        869.5,
+        1587.8,
+        934.4
+      ],
+      "text": "The diagram represents a critical stage in the game Krogius-Niemela, Lovisa",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        262.2,
+        920.6,
+        362.6,
+        964.3
+      ],
+      "text": "1934.",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        305.1,
+        971.8,
+        1587.8,
+        1032.9
+      ],
+      "text": "White is in a precarious position, even though his pawn formation is sound",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        258.5,
+        1021.7,
+        1586.6,
+        1084.1
+      ],
+      "text": "and he has an open h-file. If he withdraws his bishop to c2, Black has the strong",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        258.5,
+        1070.3,
+        1586.6,
+        1134.0
+      ],
+      "text": "reply 1...d4, while 1...xg5 is also worth considering. If 1 Wg4 cxd3 2 Wh4 (2",
+      "confidence": 0.9632
+    },
+    {
+      "bbox": [
+        257.3,
+        1117.7,
+        1585.3,
+        1188.8
+      ],
+      "text": "Wh3 h5 3 gxh6 (3 g4 Ωc8!} 3...d4! is in Black's favour) 2...h5 3 g4, Black plays",
+      "confidence": 0.9746
+    },
+    {
+      "bbox": [
+        261.0,
+        1173.9,
+        1581.7,
+        1230.0
+      ],
+      "text": "3...g7! 4 gxh5 h8 5 h6+ h7, and White's attack is beaten back. Black's de-",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        256.1,
+        1222.5,
+        1584.1,
+        1287.4
+      ],
+      "text": "fensive plan against the idea of using the white g-pawn to break open the h-file is",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        257.3,
+        1276.2,
+        1567.0,
+        1334.8
+      ],
+      "text": "worth remembering, since there are often opportunities for such play in practice.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        297.7,
+        1323.6,
+        1580.4,
+        1386.0
+      ],
+      "text": "Taking into account all the difficulties described, White decided to strike im-",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        253.6,
+        1372.2,
+        1450.6,
+        1435.8
+      ],
+      "text": "mediately with his rook at h7; Black failed to discover the correct reply.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        296.5,
+        1423.4,
+        559.9,
+        1469.5
+      ],
+      "text": "1 xh7! cxd3?",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        294.0,
+        1474.5,
+        1576.8,
+        1534.4
+      ],
+      "text": "It is true that Black could not take the rook because of 2 Wh5+ g8 3 Wh6",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        252.4,
+        1524.4,
+        1580.4,
+        1589.3
+      ],
+      "text": "cxd3 4 f2, after which he has no satisfactory defence against h1. However, it",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        254.8,
+        1578.1,
+        1576.8,
+        1637.9
+      ],
+      "text": "was also not a good idea to take the bishop; the precious tempo should have been",
+      "confidence": 0.9771
+    },
+    {
+      "bbox": [
+        252.4,
+        1628.0,
+        1576.8,
+        1689.1
+      ],
+      "text": "expended on breaking up White's pawn formation, which is in fact the decisive",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        249.9,
+        1677.9,
+        1576.8,
+        1737.7
+      ],
+      "text": "factor in White's success on the h-file. Thus 1...Qxg5! would have been correct.",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        247.5,
+        1725.3,
+        1576.8,
+        1790.1
+      ],
+      "text": "In that case two of White's pieces are threatened and if 2 f2, then Black can",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        247.5,
+        1772.7,
+        1578.0,
+        1845.0
+      ],
+      "text": "play 2..xh7; 2 h3 can be met by 2...c8 and then ...&h4+, while if 2 fxg5,",
+      "confidence": 0.9488
+    },
+    {
+      "bbox": [
+        246.3,
+        1826.3,
+        1578.0,
+        1896.2
+      ],
+      "text": "then either 2...Wxg5 or 2..xh7. By sacrificing on g5 Black eliminates White's",
+      "confidence": 0.9724
+    },
+    {
+      "bbox": [
+        246.3,
+        1878.7,
+        1571.9,
+        1944.8
+      ],
+      "text": "control of h6, and in some variations he captures with his queen on e5, thereby",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        245.0,
+        1928.6,
+        1291.3,
+        1994.7
+      ],
+      "text": "covering the square h8 in the manner of a fianchettoed bishop.",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        290.4,
+        1978.5,
+        482.7,
+        2028.4
+      ],
+      "text": "2 由f2!(D)",
+      "confidence": 0.8658
+    },
+    {
+      "bbox": [
+        290.4,
+        2030.9,
+        1576.8,
+        2095.8
+      ],
+      "text": "Uniting the rooks on the back rank above all else! In fact, the chief value of",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        247.5,
+        2082.0,
+        1568.2,
+        2144.4
+      ],
+      "text": "this kind of move derives from the characteristic dual control which it provides.",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        242.6,
+        2129.4,
+        1573.1,
+        2200.6
+      ],
+      "text": "That is, by playing 2 f2! White opens up the square h1 both for the queen and",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        242.6,
+        2183.1,
+        1571.9,
+        2246.7
+      ],
+      "text": "the a1-rook, whereas after, for example, 2 Wg4? only the queen would be brought",
+      "confidence": 0.9876
+    }
+  ]
+}

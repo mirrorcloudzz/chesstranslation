@@ -1,0 +1,170 @@
+{
+  "pdf_page": 244,
+  "printed_page": 244,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "244",
+      "bbox": [
+        271.0,
+        142.0,
+        334.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        697.0,
+        144.0,
+        1192.0,
+        184.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Perhaps Lasker even played 14 hh4!? exactly because he knew Marshall",
+      "bbox": [
+        312.0,
+        892.0,
+        1584.0,
+        937.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "would be tempted to set a trap and thereby get himself ensnared in the attack on",
+      "bbox": [
+        267.0,
+        947.0,
+        1584.0,
+        987.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the castled king which now follows.",
+      "bbox": [
+        266.0,
+        997.0,
+        861.0,
+        1036.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16 Va5 a6",
+      "bbox": [
+        313.0,
+        1042.0,
+        490.0,
+        1077.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Clearly, 16...#b8 fails against 17 Qb5.",
+      "bbox": [
+        310.0,
+        1093.0,
+        956.0,
+        1137.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17 Axa6!",
+      "bbox": [
+        312.0,
+        1143.0,
+        470.0,
+        1178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A correct bishop sacrifice.",
+      "bbox": [
+        309.0,
+        1198.0,
+        744.0,
+        1237.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17...bxa6 18 Vxa6+ 19 05 06 (D)",
+      "bbox": [
+        312.0,
+        1243.0,
+        1040.0,
+        1288.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now that the black king has moved from c8 to b8, the distinctive character of",
+      "bbox": [
+        304.0,
+        1956.0,
+        1581.0,
+        1996.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the queenside castling position no longer exists and the situation is merely a rep-",
+      "bbox": [
+        259.0,
+        2006.0,
+        1576.0,
+        2054.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lica of a type of attack used against the short castled position.",
+      "bbox": [
+        258.0,
+        2057.0,
+        1277.0,
+        2101.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "An important advantage for the attacker in this position is his ability to bring a",
+      "bbox": [
+        302.0,
+        2108.0,
+        1578.0,
+        2155.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rook into action quickly (Xd3-b3), since without this Black could defend himself",
+      "bbox": [
+        256.0,
+        2156.0,
+        1579.0,
+        2198.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by ...Qc8 and then ...Ad7.",
+      "bbox": [
+        257.0,
+        2202.0,
+        695.0,
+        2245.0
+      ],
+      "confidence": null
+    }
+  ]
+}

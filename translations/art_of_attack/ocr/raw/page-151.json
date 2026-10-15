@@ -1,0 +1,180 @@
+{
+  "pdf_page": 151,
+  "printed_page": 151,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        333.2,
+        124.7,
+        1537.6,
+        173.4
+      ],
+      "text": "Ranks, files and diagonals in the attack on the castled king 151",
+      "confidence": 0.9712
+    },
+    {
+      "bbox": [
+        258.5,
+        273.2,
+        1538.8,
+        319.4
+      ],
+      "text": "The reader should note the methodical character of this combination and espe-",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        216.9,
+        325.6,
+        1087.9,
+        373.0
+      ],
+      "text": "cially the part played by the ‘clearing-up' operation.",
+      "confidence": 0.9772
+    },
+    {
+      "bbox": [
+        529.3,
+        532.7,
+        547.6,
+        557.6
+      ],
+      "text": "B",
+      "confidence": 0.9539
+    },
+    {
+      "bbox": [
+        264.6,
+        1030.4,
+        1544.9,
+        1071.6
+      ],
+      "text": "In this position from the game Nimzowitsch-Capablanca, New York 1927,",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        221.8,
+        1082.8,
+        1538.8,
+        1120.2
+      ],
+      "text": "Black's rook is already on the seventh rank, but its bite is not yet fully felt be-",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        218.1,
+        1130.2,
+        1540.0,
+        1172.6
+      ],
+      "text": "cause of the pawn in the way at f2. To obtain complete control over the rank,",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        218.1,
+        1177.6,
+        1230.0,
+        1225.0
+      ],
+      "text": "Black sacrifices a pawn, which enables him to double rooks.",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        259.7,
+        1223.8,
+        803.7,
+        1273.7
+      ],
+      "text": "I...e5! 2 xe5 dd2 3 Wb7 (D)",
+      "confidence": 0.9616
+    },
+    {
+      "bbox": [
+        259.7,
+        1274.9,
+        1543.7,
+        1327.3
+      ],
+      "text": "If 3 Wf1, Black's strongest line is 3...Wd5 4 f4 (or 4 d4) 4...Wf3 5 Wg2",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        216.9,
+        1326.1,
+        1546.1,
+        1377.2
+      ],
+      "text": "xg2+ 6 xg2 xf2+ 7 h3 (or 7 *g1 g2+ 8 h1 xh2+ 9 g1 f6) 7...h5! 8",
+      "confidence": 0.9252
+    },
+    {
+      "bbox": [
+        218.1,
+        1378.5,
+        1499.6,
+        1428.4
+      ],
+      "text": "h1 Qe7 9 ac1 g5 and White loses his bishop owing to the threat of ...g4#.",
+      "confidence": 0.9586
+    },
+    {
+      "bbox": [
+        262.2,
+        1432.1,
+        1542.5,
+        1474.5
+      ],
+      "text": "If 3 f1, then 3...Wxe3! is decisive (4 f4 xf2), since White cannot take the",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        220.5,
+        1484.5,
+        940.9,
+        1528.2
+      ],
+      "text": "queen for fear of being mated by the rooks.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        264.6,
+        1535.6,
+        1541.2,
+        1573.1
+      ],
+      "text": "These two alternatives are instructive illustrations of the use of rooks on the",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        220.5,
+        1586.8,
+        441.1,
+        1624.2
+      ],
+      "text": "seventh rank.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        530.5,
+        1765.2,
+        551.3,
+        1792.6
+      ],
+      "text": "B",
+      "confidence": 0.9944
+    }
+  ]
+}

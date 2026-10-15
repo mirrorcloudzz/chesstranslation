@@ -1,0 +1,180 @@
+{
+  "pdf_page": 20,
+  "printed_page": 20,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        312.4,
+        127.2,
+        366.3,
+        173.4
+      ],
+      "text": "20",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        742.4,
+        131.0,
+        1242.3,
+        177.1
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9637
+    },
+    {
+      "bbox": [
+        645.6,
+        383.0,
+        671.4,
+        411.7
+      ],
+      "text": "B",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        351.6,
+        874.5,
+        1635.6,
+        929.4
+      ],
+      "text": "Better would have been 16...d8; the text move does not prevent d4-d5,",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        308.7,
+        928.1,
+        1422.4,
+        979.3
+      ],
+      "text": "which White now plays with the aim of clearing d4 for his knight'.",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        351.6,
+        975.5,
+        1401.6,
+        1029.2
+      ],
+      "text": "17 d5! cxd5 18 d4 f7 19 ②e6 hc8 20 Wg4 g6 21 g5+!",
+      "confidence": 0.9664
+    },
+    {
+      "bbox": [
+        351.6,
+        1027.9,
+        1628.2,
+        1084.1
+      ],
+      "text": "The beginning of a great combination, one of the finest in 19th-century chess.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        305.1,
+        1079.1,
+        1339.1,
+        1132.7
+      ],
+      "text": "The black king now has to go back on to the dangerous e-file.",
+      "confidence": 0.9781
+    },
+    {
+      "bbox": [
+        350.4,
+        1125.2,
+        573.4,
+        1177.6
+      ],
+      "text": "21...e8 (D)",
+      "confidence": 0.9476
+    },
+    {
+      "bbox": [
+        642.0,
+        1337.3,
+        672.6,
+        1364.7
+      ],
+      "text": "W",
+      "confidence": 0.8911
+    },
+    {
+      "bbox": [
+        347.9,
+        1835.0,
+        612.6,
+        1877.5
+      ],
+      "text": "22 xe7+! f8",
+      "confidence": 0.9571
+    },
+    {
+      "bbox": [
+        345.5,
+        1886.2,
+        1630.7,
+        1937.3
+      ],
+      "text": "White's sacrificial assault on e7 crowns his attack on the e-file. As a result of",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        300.2,
+        1936.1,
+        1629.4,
+        1989.7
+      ],
+      "text": "his weakness on that file, Black consented to weaken his position elsewhere, as",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        297.7,
+        1983.5,
+        1627.0,
+        2044.6
+      ],
+      "text": "frequently happens once a basic defect has appeared. If he were to play",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        297.7,
+        2033.4,
+        1625.8,
+        2088.3
+      ],
+      "text": "22...xe7, then 23 e1+ d6 24 Wb4+ c7 (or 24...c5 25 e6+) 25 e6+",
+      "confidence": 0.9541
+    },
+    {
+      "bbox": [
+        382.2,
+        2143.2,
+        1624.5,
+        2195.6
+      ],
+      "text": "According to contemporary analysis, Black could have equalised by 16...f7,",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        379.8,
+        2193.1,
+        1397.9,
+        2241.7
+      ],
+      "text": "but White could have gained the advantage earlier by 16 ad1!.",
+      "confidence": 0.9903
+    }
+  ]
+}

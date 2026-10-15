@@ -1,0 +1,150 @@
+{
+  "pdf_page": 169,
+  "printed_page": 169,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Ranks, files and diagonals in the attack on the castled king",
+      "bbox": [
+        353.0,
+        126.0,
+        1458.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10 Qg5! fxg5 (D)",
+      "bbox": [
+        285.0,
+        268.0,
+        578.0,
+        311.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11 Axh7+!",
+      "bbox": [
+        284.0,
+        972.0,
+        468.0,
+        1007.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "169",
+      "bbox": [
+        1497.0,
+        126.0,
+        1555.0,
+        158.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The sacrifice is both correct and necessary; after 11 hxg5 Black would have",
+      "bbox": [
+        281.0,
+        1027.0,
+        1556.0,
+        1066.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the reply 11...g6 12 Xxh7 Qdxe5 13 fxe5 Af2+, etc.",
+      "bbox": [
+        237.0,
+        1072.0,
+        1107.0,
+        1116.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The fact that the knight is sacrificed on g5 first and then the bishop on h7",
+      "bbox": [
+        281.0,
+        1128.0,
+        1555.0,
+        1167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "makes no difference to the actual structure of the combination; the order of",
+      "bbox": [
+        237.0,
+        1178.0,
+        1559.0,
+        1213.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "moves is conditioned by temporal factors.",
+      "bbox": [
+        236.0,
+        1228.0,
+        929.0,
+        1267.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11...#xh7 12 hxg5+ 13 Vh5 (D)",
+      "bbox": [
+        284.0,
+        1274.0,
+        922.0,
+        1317.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13...Qdxe5",
+      "bbox": [
+        282.0,
+        1981.0,
+        470.0,
+        2016.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Otherwise 14 g6 is decisive .",
+      "bbox": [
+        280.0,
+        2036.0,
+        759.0,
+        2075.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Here Black misses 13...Qcxe5! 14 fxe5 Vc7!, when it is hard to see how White",
+      "bbox": [
+        238.0,
+        2138.0,
+        1555.0,
+        2177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "can continue his attack.",
+      "bbox": [
+        317.0,
+        2193.0,
+        685.0,
+        2221.0
+      ],
+      "confidence": null
+    }
+  ]
+}

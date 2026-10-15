@@ -1,0 +1,260 @@
+{
+  "pdf_page": 259,
+  "printed_page": 259,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        429.0,
+        133.0,
+        1326.0,
+        172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Today 11 Ve2 is considered strongest.",
+      "bbox": [
+        253.0,
+        274.0,
+        890.0,
+        318.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "259",
+      "bbox": [
+        1465.0,
+        134.0,
+        1528.0,
+        164.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Thus Black creates a pawn majority on the wing but surrenders his influence",
+      "bbox": [
+        253.0,
+        381.0,
+        1529.0,
+        420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in the centre. It is now known that the situation in the centre is the more impor-",
+      "bbox": [
+        209.0,
+        431.0,
+        1528.0,
+        469.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tant; moreover, against an attack on the castled king it is easier to build up a",
+      "bbox": [
+        209.0,
+        482.0,
+        1529.0,
+        519.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "counterattack using the centre rather than by means of a slow advance of the",
+      "bbox": [
+        209.0,
+        532.0,
+        1529.0,
+        569.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "wing pawns.",
+      "bbox": [
+        209.0,
+        583.0,
+        415.0,
+        620.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Instead of 1 1...c4'? Black could have played, for example, I l...a6, which is in",
+      "bbox": [
+        254.0,
+        632.0,
+        1529.0,
+        670.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "keeping with the system and does not immediately forsake the centre in the pro-",
+      "bbox": [
+        209.0,
+        683.0,
+        1528.0,
+        721.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cess. The modern answer would be I l...Qe4, with the aim of clarifying the situa-",
+      "bbox": [
+        209.0,
+        728.0,
+        1528.0,
+        771.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion.",
+      "bbox": [
+        209.0,
+        784.0,
+        280.0,
+        813.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 Abl a6 13 Qe5 (D)",
+      "bbox": [
+        256.0,
+        828.0,
+        641.0,
+        870.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Because of Black's mistake this move is now extremely strong, since White is",
+      "bbox": [
+        253.0,
+        1541.0,
+        1527.0,
+        1580.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "able to consolidate the knight on e5 and use it as the basis for a later attack on the",
+      "bbox": [
+        208.0,
+        1591.0,
+        1528.0,
+        1629.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "king. 13...Qxe5 will not do now, since 14 dxe5 is extremely awkward for Black.",
+      "bbox": [
+        208.0,
+        1636.0,
+        1500.0,
+        1681.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13...b5 14 f4",
+      "bbox": [
+        255.0,
+        1691.0,
+        465.0,
+        1721.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This formation with a knight on e5 and pawns on d4 and f4 is called the",
+      "bbox": [
+        252.0,
+        1742.0,
+        1528.0,
+        1781.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "'Pillsbury attack', and it was in this game that the attack originated. Pillsbury",
+      "bbox": [
+        211.0,
+        1792.0,
+        1526.0,
+        1833.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "was still experimenting with his idea here, hence his unsystematic move II",
+      "bbox": [
+        208.0,
+        1843.0,
+        1524.0,
+        1883.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black prepares to defend his king position by ...Qf8.",
+      "bbox": [
+        252.0,
+        1991.0,
+        1127.0,
+        2034.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 Vf3 hf8 16 17 Axel Äxe7",
+      "bbox": [
+        254.0,
+        2040.0,
+        941.0,
+        2077.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "More precise, in fact, is 17...Vxe7 as will be seen from the note to Black's",
+      "bbox": [
+        252.0,
+        2091.0,
+        1527.0,
+        2135.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "nineteenth move.",
+      "bbox": [
+        207.0,
+        2147.0,
+        489.0,
+        2176.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18 Axe4",
+      "bbox": [
+        254.0,
+        2192.0,
+        398.0,
+        2227.0
+      ],
+      "confidence": null
+    }
+  ]
+}

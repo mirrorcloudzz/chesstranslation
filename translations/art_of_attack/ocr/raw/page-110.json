@@ -1,0 +1,290 @@
+{
+  "pdf_page": 110,
+  "printed_page": 110,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        216.9,
+        126.0,
+        295.3,
+        172.2
+      ],
+      "text": "110",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        646.9,
+        127.2,
+        1148.0,
+        175.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        219.3,
+        276.9,
+        1541.2,
+        326.8
+      ],
+      "text": "light squares. In some such cases the success of an attack depends on the ability",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        218.1,
+        329.3,
+        1543.7,
+        374.2
+      ],
+      "text": "to break down resistance on the light squares by means of a sacrifice. This fea-",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        218.1,
+        380.5,
+        1540.0,
+        426.6
+      ],
+      "text": "ture appears in the analysis of the above position, which, by virtue of its simplic-",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        218.1,
+        427.9,
+        1056.1,
+        476.5
+      ],
+      "text": "ity and its typical character, will well repay study.",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        259.7,
+        477.8,
+        1546.1,
+        526.4
+      ],
+      "text": "It is Black's move, and his first concern is to provide a defence against White's",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        215.6,
+        526.4,
+        1546.1,
+        577.6
+      ],
+      "text": "manoeuvre Wd2-h6, which threatens to bring about disaster on the focal-point",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        216.9,
+        580.1,
+        1544.9,
+        627.5
+      ],
+      "text": "g7. Various attempts at defence by Black and attacking stratagems by White, all",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        219.3,
+        631.2,
+        1547.4,
+        674.9
+      ],
+      "text": "of them typical and consequently instructive, will now be examined in a series of",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        215.6,
+        679.9,
+        460.7,
+        723.5
+      ],
+      "text": "continuations.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        216.9,
+        777.2,
+        384.7,
+        823.3
+      ],
+      "text": "A) 1...h6",
+      "confidence": 0.9573
+    },
+    {
+      "bbox": [
+        259.7,
+        829.6,
+        1541.2,
+        880.7
+      ],
+      "text": "Black is contemplating a defensive system with his king on h7 and his knight",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        214.4,
+        877.0,
+        1540.0,
+        930.6
+      ],
+      "text": "on g8, which could be reached after, say, 2 Wd2 h7 3 e3 Ze7 4 h3 g8.",
+      "confidence": 0.9662
+    },
+    {
+      "bbox": [
+        214.4,
+        929.4,
+        1543.7,
+        980.5
+      ],
+      "text": "White can then assert his superiority by 5 &g5 h5 6 g4, but 1...h6 can be better",
+      "confidence": 0.9704
+    },
+    {
+      "bbox": [
+        216.9,
+        985.5,
+        563.6,
+        1022.9
+      ],
+      "text": "punished as follows:",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        257.3,
+        1027.9,
+        1499.6,
+        1077.8
+      ],
+      "text": "2 e3! h73h3 ②e7 4 xh6+! xh65 Wg4 h76 Wh3+ g8 7 Wh8#.",
+      "confidence": 0.9183
+    },
+    {
+      "bbox": [
+        258.5,
+        1082.8,
+        1274.1,
+        1132.7
+      ],
+      "text": "Here we see the part played by the focal-points at h6 and h8.",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        214.4,
+        1176.4,
+        661.6,
+        1230.0
+      ],
+      "text": "B) 1...h5 2 Wd2 h7 (D)",
+      "confidence": 0.9566
+    },
+    {
+      "bbox": [
+        257.3,
+        1230.0,
+        1540.0,
+        1282.4
+      ],
+      "text": "Forced, as White threatened mate by 3 Wh6; if 2...f8, then 3 Wh6+ also mates.",
+      "confidence": 0.973
+    },
+    {
+      "bbox": [
+        649.3,
+        1368.5,
+        681.2,
+        1400.9
+      ],
+      "text": "厂",
+      "confidence": 0.5883
+    },
+    {
+      "bbox": [
+        553.8,
+        1439.6,
+        586.8,
+        1470.8
+      ],
+      "text": "W",
+      "confidence": 0.8763
+    },
+    {
+      "bbox": [
+        249.9,
+        1933.6,
+        373.7,
+        1988.5
+      ],
+      "text": "3唯g5",
+      "confidence": 0.8624
+    },
+    {
+      "bbox": [
+        254.8,
+        1991.0,
+        1537.6,
+        2042.1
+      ],
+      "text": "The simplest answer, as it prevents ..e7 for a decisive tempo. Also good is 3",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        210.7,
+        2043.4,
+        1540.0,
+        2089.5
+      ],
+      "text": "g4, for 3...hxg4 is met by 4 Wg5 and mate. If 3 e3, Black can defend himself",
+      "confidence": 0.9739
+    },
+    {
+      "bbox": [
+        207.0,
+        2090.8,
+        1432.2,
+        2143.2
+      ],
+      "text": "more stubbornly with 3...e7 4 h3 f5 5 g4 Zh6 followed by 6...g8.",
+      "confidence": 0.9788
+    },
+    {
+      "bbox": [
+        256.1,
+        2141.9,
+        774.3,
+        2184.3
+      ],
+      "text": "3...c7 4 e3 e7 5 μh3 f5",
+      "confidence": 0.9611
+    },
+    {
+      "bbox": [
+        253.6,
+        2193.1,
+        882.1,
+        2239.2
+      ],
+      "text": "Otherwise White mates by 6 xh5+!.",
+      "confidence": 0.9992
+    }
+  ]
+}

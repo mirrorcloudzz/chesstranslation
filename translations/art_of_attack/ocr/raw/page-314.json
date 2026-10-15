@@ -1,0 +1,320 @@
+{
+  "pdf_page": 314,
+  "printed_page": 314,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "314",
+      "bbox": [
+        240.0,
+        119.0,
+        303.0,
+        150.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        666.0,
+        122.0,
+        1160.0,
+        162.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The beginning of a faulty plan. White is preparing for b3 followed by c4, but",
+      "bbox": [
+        282.0,
+        269.0,
+        1556.0,
+        316.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "he does not have the time to carry it out. Correct was 15 Vf2 whereupon Black",
+      "bbox": [
+        237.0,
+        319.0,
+        1555.0,
+        366.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "has nothing better than 15...Va5.",
+      "bbox": [
+        236.0,
+        367.0,
+        781.0,
+        409.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15...e5 16 b3? (D)",
+      "bbox": [
+        283.0,
+        420.0,
+        586.0,
+        458.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White keeps to his faulty plan. A sounder line was 16 fxe5 dxe5 17 Vf2",
+      "bbox": [
+        281.0,
+        470.0,
+        1552.0,
+        511.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "though Black would still have somewhat the superior game.",
+      "bbox": [
+        236.0,
+        520.0,
+        1224.0,
+        564.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "/ .75",
+      "bbox": [
+        991.0,
+        690.0,
+        1038.0,
+        706.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...d5!?",
+      "bbox": [
+        275.0,
+        1223.0,
+        422.0,
+        1254.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A reckless conception,",
+      "bbox": [
+        272.0,
+        1274.0,
+        665.0,
+        1314.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "-4",
+      "bbox": [
+        686.0,
+        1158.0,
+        702.0,
+        1173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which has a flaw. The right way to continue was",
+      "bbox": [
+        684.0,
+        1278.0,
+        1545.0,
+        1321.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...Aa6 17 Qd5 oxd5 18 Vxd5 (if 18 exd5 then 18...e4 followed by ...Ac3)",
+      "bbox": [
+        231.0,
+        1319.0,
+        1544.0,
+        1372.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18...exf4 19 Axf4 Ac3! 20 Äedl Ab2 21 Abl Ae5 22 g3 Vc3! with advantage to",
+      "bbox": [
+        230.0,
+        1370.0,
+        1544.0,
+        1424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black.",
+      "bbox": [
+        226.0,
+        1424.0,
+        328.0,
+        1455.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17 exd5!",
+      "bbox": [
+        272.0,
+        1475.0,
+        415.0,
+        1506.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 17 bxc4 dxe4 Black would win back the piece with the better game; 17",
+      "bbox": [
+        269.0,
+        1526.0,
+        1541.0,
+        1576.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qxd5 Axd5 18 exd5 e4 and 17 fxe5 Oxe4 18 Axe4 dxe4 19 Vf2 Vxe5! are also",
+      "bbox": [
+        224.0,
+        1570.0,
+        1542.0,
+        1619.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "favourable for Black.",
+      "bbox": [
+        223.0,
+        1626.0,
+        571.0,
+        1659.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17...e4 18 bxc4",
+      "bbox": [
+        270.0,
+        1677.0,
+        524.0,
+        1708.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 18 Oxe4 mxd5 Black retains the initiative without giving up any mate-",
+      "bbox": [
+        267.0,
+        1723.0,
+        1539.0,
+        1778.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rial, thanks to the threat of ...Oxe3 followed by ...Ad4.",
+      "bbox": [
+        221.0,
+        1777.0,
+        1133.0,
+        1824.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18...exf3 19 c5!",
+      "bbox": [
+        268.0,
+        1828.0,
+        527.0,
+        1861.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19 gxf3? Vxc4 20 Kedl Xac8 21 Ad4 is unsatisfactory on account of",
+      "bbox": [
+        270.0,
+        1875.0,
+        1542.0,
+        1928.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...Qxd5 22 Axg7 Qxc3 23 Vxc3 Xxdl+, after which Black exchanges queens",
+      "bbox": [
+        220.0,
+        1924.0,
+        1537.0,
+        1981.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and reaches a won ending. Thus the pawn on f3 is left alive for the time being.",
+      "bbox": [
+        220.0,
+        1980.0,
+        1521.0,
+        2032.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19...Va5 20 Xedl?",
+      "bbox": [
+        266.0,
+        2025.0,
+        586.0,
+        2063.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White failed to find an answer to Black's double threat (...öxd5 and ...Og4)",
+      "bbox": [
+        263.0,
+        2081.0,
+        1536.0,
+        2133.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and instead of discovering the flaw in his opponent's bold plan, he gets himself",
+      "bbox": [
+        218.0,
+        2132.0,
+        1539.0,
+        2182.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "into a difficult position.",
+      "bbox": [
+        217.0,
+        2181.0,
+        605.0,
+        2223.0
+      ],
+      "confidence": null
+    }
+  ]
+}

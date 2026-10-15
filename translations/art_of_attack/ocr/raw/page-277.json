@@ -1,0 +1,280 @@
+{
+  "pdf_page": 277,
+  "printed_page": 277,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        438.0,
+        134.0,
+        1335.0,
+        177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "277",
+      "bbox": [
+        1474.0,
+        134.0,
+        1535.0,
+        164.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sacrifice provokes a counter-sacrifice from the defender, and in the end the basic",
+      "bbox": [
+        219.0,
+        281.0,
+        1537.0,
+        324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "soundness of Black's position proves itself.",
+      "bbox": [
+        219.0,
+        333.0,
+        939.0,
+        373.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "B",
+      "bbox": [
+        527.0,
+        537.0,
+        548.0,
+        563.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from the game Rossolimo-Pachman, Hilversum 1947. It is",
+      "bbox": [
+        266.0,
+        1036.0,
+        1539.0,
+        1078.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's move; he has a promising game and ought really to continue along posi-",
+      "bbox": [
+        221.0,
+        1087.0,
+        1539.0,
+        1128.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tional lines, e.g. l...a5 2 a4 e4 3 Ve2 b6, etc. Instead, he decides to 'invest his ad-",
+      "bbox": [
+        222.0,
+        1133.0,
+        1538.0,
+        1178.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vantage in an attack on the king', though the conditions for this are not",
+      "bbox": [
+        222.0,
+        1188.0,
+        1541.0,
+        1228.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "particularly suitable.",
+      "bbox": [
+        221.0,
+        1240.0,
+        560.0,
+        1279.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...f4!? 2 exf4 exf4 3",
+      "bbox": [
+        269.0,
+        1290.0,
+        617.0,
+        1320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black opened his attack at the cost of his advantage in the centre. Now White,",
+      "bbox": [
+        267.0,
+        1338.0,
+        1539.0,
+        1379.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by ridding himself of his doubled pawns, eliminates the last element of Black's",
+      "bbox": [
+        222.0,
+        1389.0,
+        1540.0,
+        1430.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "positional superiority, with the result that the latter has only his kingside attack",
+      "bbox": [
+        221.0,
+        1440.0,
+        1542.0,
+        1481.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...Vf7 4 Ae4",
+      "bbox": [
+        267.0,
+        1538.0,
+        508.0,
+        1574.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "As a general rule, the fianchettoed bishop protecting the castled position",
+      "bbox": [
+        267.0,
+        1592.0,
+        1541.0,
+        1632.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "should not be touched, but here it is a question of gaining a tempo in order to play",
+      "bbox": [
+        223.0,
+        1643.0,
+        1540.0,
+        1682.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cxd6 before Qd2. If at once 4 cxd6, Black replies 4...f3, attacking the bishop on",
+      "bbox": [
+        222.0,
+        1689.0,
+        1541.0,
+        1732.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...Vh5",
+      "bbox": [
+        268.0,
+        1790.0,
+        398.0,
+        1825.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 4...f3, White is not obliged to go in for the double-edged 5 Axh7+. He also",
+      "bbox": [
+        268.0,
+        1840.0,
+        1542.0,
+        1884.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "has 5 cxd6 cxd6 6 Zd2 Ag4 7 Vc4, forcing the exchange of queens.",
+      "bbox": [
+        222.0,
+        1890.0,
+        1364.0,
+        1935.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 cxd6 cxd6",
+      "bbox": [
+        268.0,
+        1947.0,
+        474.0,
+        1978.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's position is not strong enough for the uncompromising 5...f3 6 Qd2",
+      "bbox": [
+        268.0,
+        1990.0,
+        1541.0,
+        2036.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ag4. White would continue 7 Xabi, not allowing his opponent to escape from",
+      "bbox": [
+        223.0,
+        2044.0,
+        1541.0,
+        2087.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "his material commitments; at the same time, he has a direct defence at hand in the",
+      "bbox": [
+        222.0,
+        2097.0,
+        1541.0,
+        2133.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "shape of an attack on Black's queen by Xb5. After, for instance, 7...Xf6 8 Xxb7",
+      "bbox": [
+        224.0,
+        2143.0,
+        1540.0,
+        2188.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's obligations are too great in proportion to the force of his attack.",
+      "bbox": [
+        223.0,
+        2197.0,
+        1490.0,
+        2237.0
+      ],
+      "confidence": null
+    }
+  ]
+}

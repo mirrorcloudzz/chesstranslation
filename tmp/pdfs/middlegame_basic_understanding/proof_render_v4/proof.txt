@@ -1,0 +1,351 @@
+                 《国际象棋中局计划》
+              计划 - 一般原则 - 基本认识
+                    英文 OCR 校正稿 + 中文翻译校对稿
+
+
+
+      文档性质       初译校对稿，非最终出版版本
+
+
+      内容范围       原书印刷页 6 至第 9 页左栏；止于 2: Concrete Ideas 之前
+
+
+      图与棋谱       保留三个原书局面图；中文译文中的着法统一采用现代 SAN 格式，例如 1.
+                 Kf4、1... Kf6、2. Kg4 Kg6
+
+
+      术语处理       passed pawn 译为“通路兵”；queening square 译为“升变格”；stalemate 译为“
+                 逼和”
+
+
+      版本日期       2026-09-23
+
+
+
+
+建议重点核对：Basic Understanding 的标题译法；“弱方的王紧跟对方的王”；“兑现优势”；以及两个残局示例中的着法和计划分段。
+
+
+
+
+                                           1
+ 《国际象棋中局计划》｜计划 - 基本认识｜校对稿
+
+
+
+
+计划（Planning）
+A：一般原则｜1 基本认识（Basic Understanding）
+
+
+                     经校正的英文 OCR                                                   中文译文
+
+BU-1                                                                   BU-1
+One can, without exaggeration, say that the formation and              毫不夸张地说，在国际象棋斗争过程中，制定并执行行动计划
+carrying out of a plan of action is the main task in the course of
+                                                                       是主要任务。
+the process of the chess struggle.
+
+
+BU-2                                                                   BU-2
+A skilfully conceived and purposefully executed plan serves as a       构思精巧并有目的地贯彻执行的计划，是成功的可靠保证。
+true token of success.
+
+
+BU-3                                                                   BU-3
+A skilfully conceived plan - first and foremost this means a           所谓构思精巧的计划，首先是指正确确定一个目标，棋手必须
+correctly mapped out objective which the chessplayer must direct
+                                                                       把自己的思考引向如何实现这一目标。要解决这个问题远非易
+his thoughts towards achieving. This problem is far from simple,
+and many difficulties arise on the way to solving it. However, a       事，途中会遇到许多困难。然而，正确确定目标只完成了事情
+correctly mapped out objective is only half the matter. It is not      的一半。仅仅设想一个计划并不够，还必须解决另一个同样重
+enough to contemplate a plan, it is also necessary to solve            大的问题：把计划执行出来。当然，在勾勒目标本身的同时，
+another, no less serious problem - to carry it out. Of course, it is
+                                                                       就要考虑实现目标的途径。不仅如此，目标的选择在一定程度
+necessary to look at ways of achieving the objective with an
+outline of the objective itself. And what is more, the choice of the   上还必须取决于实现它的可能性。不过，这种可能性必须从很
+objective to some extent must be determined by the possibility of      强的相对性来衡量，因为一方棋手对某个目标的追求，会受到
+achieving it. This possibility, however, has to be assessed in         对手意志和意图的阻碍。对手的反击也可能迫使棋手改变计划
+highly relative terms, since one chessplayer's striving for an
+                                                                       ，甚至转入防御。尽管存在上述相对性，没有计划，或不按计
+objective will run across the will and intentions of the opponent.
+It might also happen that the counter-action of the opponent           划指导自己的行动，就不可能把一盘棋下得有章法。
+forces a change of plan and even a transfer to defence. And yet,
+despite the above-mentioned relativity, it is not possible to
+conduct a game without drawing up a plan and without directing
+one's operations in accordance with it.
+
+
+BU-4                                                                   BU-4
+In order to give very simple examples of how to formulate an           为了用非常简单的例子说明如何形成计划构想，我们来看两个
+idea of a plan, we look at two elementary positions from the
+                                                                       基础残局局面。
+endgame.
+
+
+
+
+                                                                        2
+ 《国际象棋中局计划》｜计划 - 基本认识｜校对稿
+
+
+
+
+残局示例一
+                                         原书图示，白方走。最终出版时应重绘为矢量棋盘。
+
+
+
+
+                     经校正的英文 OCR                                                        中文译文
+
+BU-5                                                                   BU-5
+White to move.                                                         白方走。
+
+His position is better since he will easily win the h4 pawn. Is this
+sufficient for victory? Indeed, it is sufficient, but only if White    白方局面较好，因为他可以轻易吃掉h4兵。但这足以取胜吗？
+correctly maps out an idea and a method of realising it. His plan      确实足够，不过前提是白方正确确定构想，并找到实现它的方
+ought to consist of the following:                                     法。其计划应包括以下内容：
+
+- the first stage consists of the win of the h4 pawn;
+- in the second stage, White makes his way with the king to the        - 第一阶段，吃掉h4兵；
+a6 pawn and, exploiting the fact that the enemy king will be           - 第二阶段，白王向a6兵靠近；同时利用黑王被白方自己的h线
+diverted from the queen's flank by his own passed pawn on the          通路兵从后翼引开的机会，再吃掉这个兵；
+h-file, also wins this pawn;
+                                                                       - 最后，使a线兵升变为后，将死对方的孤王。
+- finally, he promotes the a-pawn into a queen and finishes off
+the opponent's lone king.
+
+
+BU-6                                                                   BU-6
+And so: 1 Kf4                                                          因此：1. Kf4
+
+There are two possible plans of defence for Black:
+                                                                       黑方有两种可能的防守计划：
+- one - to make his way with the king to the a5 pawn, capture it
+and try to queen his passed pawn on the a-file;                        - 第一种，黑王向a5兵靠近，吃掉它，然后设法使自己的a线通
+- the other - to attack the White pawn on the king's flank at that
+                                                                       路兵升变；
+moment when the king has set off for the queen's flank to the a6
+pawn.                                                                  - 第二种，等白王动身前往后翼吃a6兵时，攻击白方王翼的兵。
+
+
+
+
+                                                                        3
+ 《国际象棋中局计划》｜计划 - 基本认识｜校对稿
+
+
+
+
+                    经校正的英文 OCR                                                               中文译文
+
+BU-7                                                              BU-7
+The first plan must be discarded at once, since a simple          第一种计划必须立即排除，因为简单计算便可看出，白兵到达
+calculation shows that the White pawn reaches h8 far quicker (8
+                                                                  h8的速度远快于黑兵到达a1。白方需要8步：Kg4、Kxh4、Kg5
+moves are necessary for this - Kg4, Kxh4, Kg5, and
+h4-h5-h6-h7-h8Q) than Black's does to a1 (this operation          ，然后h4-h5-h6-h7-h8Q；黑方则需要10步：Kd5、Kc4、Kb5、
+requires 10 moves - Kd5, Kc4, Kb5, Kxa5, Kb4 and five moves       Kxa5、Kb4，再走5步兵。于是只剩第二种计划。
+with the pawn). There remains the second plan.
+
+                                                                  1... Kf6 2. Kg4 Kg6 3. Kxh4 Kh6 4. Kg4 Kg6 5. Kf4 Kh5 6. Ke4 Kh4
+1 ... Kf6 2 Kg4 Kg6 3 Kxh4 Kh6 4 Kg4 Kg6 5 Kf4 Kh5 6 Ke4
+Kh4 7 Kd5 Kxh3 8 Kc5 Kg4 9 Kb6 Kf5 10 Kxa6 Ke6 11 Kb7,            7. Kd5 Kxh3 8. Kc5 Kg4 9. Kb6 Kf5 10. Kxa6 Ke6 11. Kb7
+and the unhindered pawn reaches the queening square.
+                                                                  此后，这个不受阻挡的兵将到达升变格。
+
+
+
+
+                                                                   4
+ 《国际象棋中局计划》｜计划 - 基本认识｜校对稿
+
+
+
+
+残局示例二
+                                             原书图示。最终出版时应重绘为矢量棋盘。
+
+
+
+
+                    经校正的英文 OCR                                                  中文译文
+
+BU-8                                                                BU-8
+In this example, White's position looks even more favourable. He    在这个例子中，白方的局面看起来更为有利。他已经多了一个
+already has an extra passed pawn and the plan of play seems
+                                                                    通路兵，行棋计划似乎显而易见：弃掉这个通路兵，让白王侵
+obvious: at the cost of the passed pawn, to penetrate with the
+king to g7 so as to do away with the h7 pawn. However, there is a   入g7，从而吃掉h7兵。然而，残局理论中有一种广为人知的局
+well-known type of position from endgame theory in which the        面类型：弱方的王紧跟对方的王，最终可以取得和棋。当前局
+weaker side shadows the enemy king and achieves a draw. It          面正属于这一类型。
+turns out that the present position is one of these.
+
+
+
+
+                                                                     5
+ 《国际象棋中局计划》｜计划 - 基本认识｜校对稿
+
+
+
+
+                     经校正的英文 OCR                                                                 中文译文
+
+BU-9                                                                 BU-9
+1 e5 Ke7 2 Kd5 Kd7 3 e6+ Ke8 4 Ke5 Ke7                               1. e5 Ke7 2. Kd5 Kd7 3. e6+ Ke8 4. Ke5 Ke7
+
+Black tries to prevent the king getting to f6, but White still has
+the possibility of achieving this.                                   黑方设法阻止白王到达f6，但白方仍有办法实现这一目标。
+
+5 Kd5 Ke8 6 Kd4 Kd8 7 Ke4 Ke8 8 Kd5 Ke7                              5. Kd5 Ke8 6. Kd4 Kd8 7. Ke4 Ke8 8. Kd5 Ke7
+
+If 8 ... Kd8, then 9 Kd6 and the e-pawn goes on to queen.
+                                                                     如果8... Kd8，那么9. Kd6，随后e兵升变。
+9 Ke5 Ke8 10 Kf6
+                                                                     9. Ke5 Ke8 10. Kf6
+The first stage of the plan - penetrating with the king to the f6
+square - is completed.
+                                                                     计划的第一阶段，也就是让王侵入f6格，已经完成。
+10 ... Kf8 11 e7+ Ke8 12 Kg7
+                                                                     10... Kf8 11. e7+ Ke8 12. Kg7
+It seems that also the second problem of the plan has been
+solved, but ...
+                                                                     计划的第二项任务似乎也已经完成，然而……
+12 ... Kxe7 13 Kxh7 Kf7 14 Kh8 Kf8 15 h7 Kf7 stalemate.
+                                                                     12... Kxe7 13. Kxh7 Kf7 14. Kh8 Kf8 15. h7 Kf7，逼和。
+White did not achieve his objective thanks to fine resistance by
+Black, whose defence revealed an interesting drawing resource.
+                                                                     由于黑方顽强而精确的抵抗，白方未能实现目标；黑方的防守
+                                                                     揭示了一种有趣的和棋手段。
+
+
+
+
+                                                                      6
+ 《国际象棋中局计划》｜计划 - 基本认识｜校对稿
+
+
+
+
+从残局计划到中局计划
+                     经校正的英文 OCR                                               中文译文
+
+BU-10                                                             BU-10
+In positions where there are considerable forces operating (a     在大量子力参与战斗的局面中，也就是典型的中局局面，计划
+characteristic of the central stage), the essence of the plan
+                                                                  的本质仍然相同；但总体而言，棋局会复杂得多。防守方拥有
+remains the same, but, of course, on the whole the game is
+complicated immeasurably. The defending side will have            更多抵抗的可能，进攻方也要在众多目标及其实现途径之间作
+available far more possibilities of resistance, indeed also the   出选择。能否从中选出最好、最正确的一项，通常取决于对局
+attacking side has in prospect to make a choice between many      面评价得是否准确。
+objectives and ways to achieve them. The ability to choose the
+best and most correct from these is usually determined by the
+correctness of the evaluation of the position.
+
+
+BU-11                                                             BU-11
+Consider the starting position of the chess game.                 现在考察国际象棋的初始局面。
+
+
+
+                                                    国际象棋初始局面（原书图示）
+
+
+
+
+                                                                   7
+ 《国际象棋中局计划》｜计划 - 基本认识｜校对稿
+
+
+
+
+                      经校正的英文 OCR                                                      中文译文
+
+BU-12                                                                   BU-12
+Many inexperienced amateurs assume that in the starting position        许多经验不足的业余棋手认为，从初始局面不可能制定出比较
+it is not possible to draw up a relatively real plan of action, since
+                                                                        切实可行的行动计划，因为白方每走一步，黑方都有多种应法
+this is very complicated in that on each of White's moves, Black
+has the possibility of replying in various ways. To some extent         ，问题过于复杂。在一定程度上，这当然是事实。然而，如今
+this is of course true. And yet, nowadays, in a period of stormy        国际象棋艺术中的创造性思想正迅速发展，其理论也随之不断
+growth of creative ideas in chess art, and hence a continuous           丰富；我们十分清楚，初始局面的发展方向并不明朗。仅仅走
+enrichment of its theory, we know only too well that the opening
+                                                                        过第一步、第二步和第三步，各种变化就会出现，并由此产生
+position is unclear. Already after the first, second and third
+moves, variations are obtained out of which arise objectives, not       相应的目标；这些目标不仅属于纯粹的开局范畴，还会影响未
+only in the sphere of purely the opening, but also in the whole of      来整个斗争过程。现代棋手在选择第一步时，无论是1 c4、1
+the future struggle. In selecting his first move, be it 1 c4, 1 d4, 1   d4、1 Nf3还是1 e4，都已经在设想若干自己希望在开局中达到
+Nf3 or 1 e4, the modern chessplayer is already contemplating
+                                                                        的局面。这些局面又将成为他制定总体战略计划的出发点，而
+several positions which he wants to achieve in the opening and
+which, in their turn, will be for him the initial point for working     这一计划主要在中局实现。
+out a general strategical plan, which he will realise mainly in the
+middlegame.
+
+
+BU-13                                                                   BU-13
+The planned process of the chess struggle can be subdivided into        有计划的棋局斗争过程可以分为三个阶段：
+three stages:
+
+- the preparation for the general battle;                               - 为全面战斗做准备；
+- the struggle for the advantage, and                                   - 争取优势；
+- the realisation of the advantage.                                     - 兑现优势。
+
+The success of the first stage, to a considerable extent, is decided
+in the opening. The main and most complicated stage is                  第一阶段能否成功，在很大程度上取决于开局。主要而且最复
+undoubtedly the second. The third stage is getting results.             杂的无疑是第二阶段。第三阶段则是取得成果。
+
+
+
+
+                                                                         8
+《国际象棋中局计划》｜计划 - 基本认识｜校对稿
+
+
+
+
+附录：原扫描页
+以下图像仅用于本次 OCR、棋谱与译文校对。
+
+                   原书印刷页 6：Basic Understanding 起始部分
+
+
+
+
+                                  9
+《国际象棋中局计划》｜计划 - 基本认识｜校对稿
+
+
+
+
+                           原书印刷页 7
+
+
+
+
+                             10
+《国际象棋中局计划》｜计划 - 基本认识｜校对稿
+
+
+
+
+                           原书印刷页 8
+
+
+
+
+                             11
+《国际象棋中局计划》｜计划 - 基本认识｜校对稿
+
+
+
+
+                   原书印刷页 9 左栏：Basic Understanding 结尾
+
+
+
+
+                                  12
+

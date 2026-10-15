@@ -1,0 +1,290 @@
+{
+  "pdf_page": 281,
+  "printed_page": 281,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        438.0,
+        125.0,
+        1334.0,
+        169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4 Xh3?!",
+      "bbox": [
+        263.0,
+        274.0,
+        399.0,
+        307.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "281",
+      "bbox": [
+        1473.0,
+        124.0,
+        1532.0,
+        155.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This threatens Axe4 followed by Vh5, but it does not take sufficient account",
+      "bbox": [
+        263.0,
+        319.0,
+        1538.0,
+        363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of temporal factors, with the result that the initiative now passes to Black. It",
+      "bbox": [
+        219.0,
+        372.0,
+        1539.0,
+        416.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "would have been better to contest the c-file by 4 Xcl.",
+      "bbox": [
+        220.0,
+        420.0,
+        1103.0,
+        462.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...Vd5 5 f3",
+      "bbox": [
+        265.0,
+        473.0,
+        473.0,
+        508.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The second logical step along a dangerous path: if the attack does not succeed,",
+      "bbox": [
+        265.0,
+        522.0,
+        1537.0,
+        566.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White will obviously suffer from the lack of communication between his rooks.",
+      "bbox": [
+        219.0,
+        572.0,
+        1509.0,
+        615.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...Axd3 6 Vxd3 (D)",
+      "bbox": [
+        265.0,
+        623.0,
+        627.0,
+        664.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...Ad6?",
+      "bbox": [
+        268.0,
+        1329.0,
+        418.0,
+        1363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Up to here Black has correctly carried through a direct defence without weak-",
+      "bbox": [
+        269.0,
+        1379.0,
+        1541.0,
+        1423.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ening his pawn position, at the same time keeping his trumps in reserve (the c-file",
+      "bbox": [
+        223.0,
+        1430.0,
+        1542.0,
+        1473.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and control of the central post at d5). All this has been entirely appropriate to the",
+      "bbox": [
+        224.0,
+        1481.0,
+        1542.0,
+        1522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fairly modest commitments taken on by White. Now he mistakenly supposes that",
+      "bbox": [
+        224.0,
+        1531.0,
+        1543.0,
+        1574.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the moment for a counterattack has arrived and makes a careless move, which",
+      "bbox": [
+        224.0,
+        1582.0,
+        1542.0,
+        1617.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White could have punished. The situation required direct defence to be contin-",
+      "bbox": [
+        223.0,
+        1632.0,
+        1541.0,
+        1674.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ued for one more move, namely, by a renewed consolidation of the king's posi-",
+      "bbox": [
+        224.0,
+        1683.0,
+        1541.0,
+        1723.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion by 6...#g8. The reason is that Black may eventually be forced (by Ag5) to",
+      "bbox": [
+        224.0,
+        1729.0,
+        1542.0,
+        1775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "play ...g6, after which Ah6 would threaten the rook protecting f7. This point can",
+      "bbox": [
+        224.0,
+        1782.0,
+        1542.0,
+        1826.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "be covered by the king after ...ég8; consequently, Black may then use both his",
+      "bbox": [
+        225.0,
+        1832.0,
+        1542.0,
+        1876.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rooks on the c-file, while retaining a sufficient direct defence of the castled posi-",
+      "bbox": [
+        224.0,
+        1886.0,
+        1542.0,
+        1926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion by ...g6, if necessary. 6...h6 would be weaker on account of 7 g4, while",
+      "bbox": [
+        224.0,
+        1936.0,
+        1543.0,
+        1978.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...Xc7 is also incorrect, e.g. 7 Ag5 h6 8 Af4 followed by g4.",
+      "bbox": [
+        225.0,
+        1983.0,
+        1253.0,
+        2027.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 Af4?",
+      "bbox": [
+        269.0,
+        2035.0,
+        389.0,
+        2070.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This throws away the chance of victory which was afforded by 7 Qd7 !. Owing",
+      "bbox": [
+        270.0,
+        2082.0,
+        1543.0,
+        2128.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to the threat of Qxf6, Black loses the exchange. He is not helped by 7...Axh2+ 8",
+      "bbox": [
+        225.0,
+        2133.0,
+        1542.0,
+        2177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xxh2! (not 8 exh2? Vxd7 9 Ag5, since Black defends himself by 9...Vc7+ and",
+      "bbox": [
+        225.0,
+        2182.0,
+        1544.0,
+        2229.0
+      ],
+      "confidence": null
+    }
+  ]
+}

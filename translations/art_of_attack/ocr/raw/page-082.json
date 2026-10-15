@@ -1,0 +1,290 @@
+{
+  "pdf_page": 82,
+  "printed_page": 82,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        208.3,
+        116.0,
+        261.0,
+        162.2
+      ],
+      "text": "82",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        635.8,
+        118.5,
+        1136.9,
+        169.7
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9461
+    },
+    {
+      "bbox": [
+        254.8,
+        265.7,
+        1530.2,
+        320.6
+      ],
+      "text": "White, to play, has excellent prospects for an attack on g7. His knight is al-",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        208.3,
+        318.1,
+        1532.7,
+        370.5
+      ],
+      "text": "ready observing the square, while his queen and bishop are in a position to",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        208.3,
+        368.0,
+        1531.4,
+        419.2
+      ],
+      "text": "threaten it in one move. An extremely useful point is the fact that the queen has",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        207.0,
+        417.9,
+        1533.9,
+        469.1
+      ],
+      "text": "the choice of attacking from either c3 or g3. Nevertheless, the situation is not",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        208.3,
+        467.8,
+        1530.2,
+        519.0
+      ],
+      "text": "quite as simple as that, and White must be prepared to sacrifice his bishop on h6",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        203.4,
+        516.5,
+        1532.7,
+        572.6
+      ],
+      "text": "if he is to obtain a winning position; by simply playing 1 Wg3, White would only",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        205.8,
+        567.6,
+        1532.7,
+        620.0
+      ],
+      "text": "gain a relatively small advantage, e.g. 1...g6 2 g5 Wc5 3 f6+ xf6 4 xf6,",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        207.0,
+        615.0,
+        1531.4,
+        671.1
+      ],
+      "text": "when Black can counter with 4...h6 followed by ...h7. Only 1 &h6! guarantees",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        205.8,
+        668.6,
+        1529.0,
+        721.0
+      ],
+      "text": "complete success; the main reason why it is better to move the bishop rather than",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        204.6,
+        718.5,
+        1529.0,
+        770.9
+      ],
+      "text": "the queen is that in order to attack g7 the bishop has only the one move to h6,",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        207.0,
+        768.4,
+        1526.5,
+        823.3
+      ],
+      "text": "whereas the queen has a choice between c3 and g3. Thus the bishop enters the",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        205.8,
+        819.6,
+        1529.0,
+        873.2
+      ],
+      "text": "fray first, while the queen waits to see which will be better, depending on Black's",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        203.4,
+        870.7,
+        408.0,
+        914.4
+      ],
+      "text": "reply. Thus:",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        245.0,
+        915.7,
+        432.5,
+        966.8
+      ],
+      "text": "1 Ωh6! g6",
+      "confidence": 0.8791
+    },
+    {
+      "bbox": [
+        243.8,
+        965.5,
+        1527.8,
+        1025.4
+      ],
+      "text": "If 1..gxh6, then 2 Wc3 f6 (if 2...f8, then 3 f6+ leads to a quick conclusion)",
+      "confidence": 0.9645
+    },
+    {
+      "bbox": [
+        203.4,
+        1016.7,
+        1529.0,
+        1075.3
+      ],
+      "text": "3 Wg3+ g4 (otherwise the queen mates on g7) 4 Wxg4+ f7 5 Wg7+ e6 6",
+      "confidence": 0.9566
+    },
+    {
+      "bbox": [
+        202.1,
+        1065.3,
+        1526.5,
+        1126.5
+      ],
+      "text": "f4+ d7 7 d5 followed by 8 xf6+. In this variation the queen is most effec-",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        199.7,
+        1117.7,
+        851.5,
+        1170.1
+      ],
+      "text": "tive if it goes first to c3 and then to g3.",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        241.4,
+        1166.4,
+        1522.9,
+        1227.5
+      ],
+      "text": "If 1...f8, then White plays 2 xg7 xg7 3 Wg3 f8 4 xg7+ e7 5 Wg5+",
+      "confidence": 0.9392
+    },
+    {
+      "bbox": [
+        203.4,
+        1217.5,
+        555.0,
+        1263.7
+      ],
+      "text": "f8 6 d3 or 6 2f6.",
+      "confidence": 0.9184
+    },
+    {
+      "bbox": [
+        241.4,
+        1268.7,
+        1524.1,
+        1324.8
+      ],
+      "text": "2 Wc3 f6 3 xf6+ and White wins, for after 3...xf6 4 Wxf6 Black has no de-",
+      "confidence": 0.9709
+    },
+    {
+      "bbox": [
+        198.5,
+        1321.1,
+        627.3,
+        1372.2
+      ],
+      "text": "fence against mate on g7.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        240.1,
+        1419.6,
+        1524.1,
+        1478.3
+      ],
+      "text": "In order not to be unfair to Black, who tends to suffer in books such as this,",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        197.2,
+        1472.0,
+        1522.9,
+        1529.4
+      ],
+      "text": "here are some actual cases where White came to grief on the analogous square --",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        192.3,
+        1521.9,
+        254.8,
+        1573.1
+      ],
+      "text": "g2.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        528.0,
+        1734.0,
+        555.0,
+        1766.4
+      ],
+      "text": "B",
+      "confidence": 0.9961
+    }
+  ]
+}

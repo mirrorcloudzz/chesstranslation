@@ -1,0 +1,280 @@
+{
+  "pdf_page": 86,
+  "printed_page": 86,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        196.0,
+        143.5,
+        249.9,
+        189.6
+      ],
+      "text": "86",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        626.0,
+        136.0,
+        1124.7,
+        183.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9552
+    },
+    {
+      "bbox": [
+        245.0,
+        289.4,
+        491.3,
+        335.6
+      ],
+      "text": "19...f3 20 μe5",
+      "confidence": 0.9568
+    },
+    {
+      "bbox": [
+        241.4,
+        328.1,
+        1526.5,
+        390.5
+      ],
+      "text": "In an attempt to contain Black's attack, White gives back some of the extra",
+      "confidence": 0.9793
+    },
+    {
+      "bbox": [
+        202.1,
+        389.2,
+        939.7,
+        439.1
+      ],
+      "text": "material, but there is no longer any way out.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        247.5,
+        440.4,
+        675.1,
+        485.3
+      ],
+      "text": "20...xe5 21 dxe5 xg2",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        245.0,
+        479.0,
+        1531.4,
+        540.2
+      ],
+      "text": "Naturally, Black takes on g2 with the knight and not the pawn, for he does not",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        203.4,
+        530.2,
+        1399.1,
+        591.3
+      ],
+      "text": "want to block the square g2, which is to be the focal-point of the attack.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        248.7,
+        583.8,
+        1051.2,
+        633.7
+      ],
+      "text": "22 Wd4 Wd7 23 e6 Wxe6 24 皇d2 Wg6 25 皇c2",
+      "confidence": 0.937
+    },
+    {
+      "bbox": [
+        248.7,
+        628.7,
+        1230.0,
+        693.6
+      ],
+      "text": "White gives up still more, but the destruction is not halted!",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        248.7,
+        682.4,
+        1086.7,
+        737.3
+      ],
+      "text": "25...xc2 26 h1 Wg6 27 g1 h3 28 b6 (D)",
+      "confidence": 0.9754
+    },
+    {
+      "bbox": [
+        541.5,
+        896.9,
+        567.2,
+        929.4
+      ],
+      "text": "B",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        256.1,
+        1393.4,
+        409.2,
+        1443.3
+      ],
+      "text": "28...f4",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        257.3,
+        1437.1,
+        1536.3,
+        1495.7
+      ],
+      "text": "Black no longer plays for mate but instead simplifies to obtain a winning posi-",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        211.9,
+        1504.5,
+        290.4,
+        1540.6
+      ],
+      "text": "tion.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        258.5,
+        1535.6,
+        1370.9,
+        1598.0
+      ],
+      "text": "29 xg6 Ωg2+ 30 xg2 fxg2+ 31 g1 ②e2+ 32 xg2 xd4 0-1",
+      "confidence": 0.947
+    },
+    {
+      "bbox": [
+        704.5,
+        1641.7,
+        1049.9,
+        1686.6
+      ],
+      "text": "Alekhine - Lasker",
+      "confidence": 0.9649
+    },
+    {
+      "bbox": [
+        766.9,
+        1694.1,
+        988.7,
+        1737.7
+      ],
+      "text": "Zurich, 1934",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        497.4,
+        1742.7,
+        1260.7,
+        1792.6
+      ],
+      "text": "Queen's Gambit Declined, Orthodox Defence",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        214.4,
+        1837.5,
+        1541.2,
+        1894.9
+      ],
+      "text": "1 d4 d5 2 c4 e6 3 c3 2f6 4 f3 e7 5 g5 bd7 6 e3 0-0 7 c1 c6 8 皇d3",
+      "confidence": 0.9494
+    },
+    {
+      "bbox": [
+        218.1,
+        1894.9,
+        938.5,
+        1946.1
+      ],
+      "text": "dxc4 9 xc4 2d5 10 xe7 Wxe7 11 2e4",
+      "confidence": 0.9348
+    },
+    {
+      "bbox": [
+        263.4,
+        1946.1,
+        1075.7,
+        2001.0
+      ],
+      "text": "Alekhine's move; it is equally as good as 11 0-0.",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        264.6,
+        2003.5,
+        623.6,
+        2048.4
+      ],
+      "text": "11...5f6 12 g3 e5",
+      "confidence": 0.9618
+    },
+    {
+      "bbox": [
+        220.5,
+        2117.0,
+        245.0,
+        2151.9
+      ],
+      "text": "2",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        305.1,
+        2099.5,
+        1547.4,
+        2156.9
+      ],
+      "text": "Alekhine gave 20...△f5 followed by 21...xd4 in his notes. Indeed, after",
+      "confidence": 0.9765
+    },
+    {
+      "bbox": [
+        302.6,
+        2146.9,
+        1546.1,
+        2209.3
+      ],
+      "text": "Vukovic's 20...g4, White may play 21 e5! xe5 22 dxe5, threatening 23",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        307.5,
+        2210.5,
+        895.6,
+        2248.0
+      ],
+      "text": "xf4, when Black's attack collapses.",
+      "confidence": 0.9848
+    }
+  ]
+}

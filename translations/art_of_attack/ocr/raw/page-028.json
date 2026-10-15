@@ -1,0 +1,330 @@
+{
+  "pdf_page": 28,
+  "printed_page": 28,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        317.3,
+        291.9,
+        1633.1,
+        379.2
+      ],
+      "text": "2 The attack on the king that has",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        408.0,
+        395.5,
+        1279.0,
+        479.0
+      ],
+      "text": "lost the right to castle",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        314.9,
+        626.2,
+        1639.2,
+        676.1
+      ],
+      "text": "This situation arises when the king is either no longer able to castle or has been",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        314.9,
+        674.9,
+        1640.5,
+        731.0
+      ],
+      "text": "driven by the opponent away from the castling area. In spite of these possible dif-",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        314.9,
+        728.5,
+        1639.2,
+        777.2
+      ],
+      "text": "ferences of origin, the general picture and the problem involved are identical and",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        317.3,
+        777.2,
+        1162.7,
+        827.1
+      ],
+      "text": "ought to be dealt with in one and the same chapter.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        356.5,
+        827.1,
+        1638.0,
+        878.2
+      ],
+      "text": "First of all, it must be emphasized that the actual fact that a king has lost the",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        314.9,
+        878.2,
+        1642.9,
+        929.4
+      ],
+      "text": "right to castle does not necessarily always justify undertaking an attack aimed at",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        312.4,
+        926.9,
+        1638.0,
+        980.5
+      ],
+      "text": "mate (as will be shown by the examples of the voluntary loss of castling rights in",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        313.6,
+        976.8,
+        1639.2,
+        1032.9
+      ],
+      "text": "chapter three). For an attack of this kind to be feasible, the loss of castling rights",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        312.4,
+        1029.2,
+        1636.8,
+        1079.1
+      ],
+      "text": "must at the same time involve the exposure of the king and an increased vulnera--",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        312.4,
+        1077.8,
+        1639.2,
+        1132.7
+      ],
+      "text": "bility to attack. In the majority of cases the attack is in fact in order, and we shall",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        313.6,
+        1130.2,
+        1639.2,
+        1180.1
+      ],
+      "text": "only consider such positive cases and not the rest. It only remains to be added that",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        310.0,
+        1176.4,
+        1636.8,
+        1233.8
+      ],
+      "text": "the loss of the right to castle can also entail a further weakness besides the danger",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        311.2,
+        1227.5,
+        1638.0,
+        1282.4
+      ],
+      "text": "which faces the king; that is, communication between the rooks is made more",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        310.0,
+        1278.7,
+        1636.8,
+        1333.6
+      ],
+      "text": "difficult. In fact, an attack may logically direct itself against this lack of co-",
+      "confidence": 0.9811
+    },
+    {
+      "bbox": [
+        311.2,
+        1329.8,
+        1535.1,
+        1382.2
+      ],
+      "text": "operation between the rooks, e.g. in a struggle for control of an open file.",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        354.1,
+        1377.2,
+        1633.1,
+        1437.1
+      ],
+      "text": "We shall first examine a few typical examples portraying the drama of the king",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        308.7,
+        1429.6,
+        1633.1,
+        1485.7
+      ],
+      "text": "which has lost the right to castle. Such a drama can be divided up into the follow-",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        308.7,
+        1484.5,
+        532.9,
+        1526.9
+      ],
+      "text": "ing episodes:",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        352.8,
+        1533.2,
+        1631.9,
+        1588.0
+      ],
+      "text": "1) spoiling the king's castling chances, or drawing it away from the castling",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        305.1,
+        1584.3,
+        459.4,
+        1626.7
+      ],
+      "text": "position;",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        349.2,
+        1631.7,
+        1356.2,
+        1684.1
+      ],
+      "text": "2) the pursuit of the king across the board by checking; and",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        349.2,
+        1681.6,
+        1482.4,
+        1736.5
+      ],
+      "text": "3) the final mating attack in the middle of the board or on the edge.",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        349.2,
+        1732.7,
+        1543.7,
+        1787.6
+      ],
+      "text": "The following game is an illustration of just such a drama in three acts:",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        766.9,
+        1835.0,
+        1167.6,
+        1882.4
+      ],
+      "text": "Potemkin - Alekhine",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        795.1,
+        1888.7,
+        1135.7,
+        1933.6
+      ],
+      "text": "St. Petersburg, 1912",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        838.0,
+        1938.6,
+        1094.1,
+        1983.5
+      ],
+      "text": "Closed Sicilian",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        345.5,
+        2033.4,
+        1631.9,
+        2087.0
+      ],
+      "text": "1 e4 c5 2 g3 g6 3 g2 g7 4 e2 c6 5 c3 f6 6 a3? d5 7 exd5 ②xd5 8",
+      "confidence": 0.9303
+    },
+    {
+      "bbox": [
+        302.6,
+        2082.0,
+        1293.8,
+        2135.7
+      ],
+      "text": "c2 0-0 9 d4 cxd4 10 cxd4 g4 11 f3 f5 12 e3 Wa5+",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        346.7,
+        2135.7,
+        1209.2,
+        2188.1
+      ],
+      "text": "The king is forced to move out of position (1st act).",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        347.9,
+        2184.3,
+        477.8,
+        2228.0
+      ],
+      "text": "13 +f2",
+      "confidence": 0.8459
+    }
+  ]
+}

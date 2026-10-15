@@ -1,0 +1,290 @@
+{
+  "pdf_page": 146,
+  "printed_page": 146,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        287.9,
+        123.5,
+        362.6,
+        169.7
+      ],
+      "text": "146",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        716.7,
+        128.5,
+        1215.3,
+        174.6
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        333.2,
+        274.4,
+        608.9,
+        315.6
+      ],
+      "text": "5..μxa2 6 μfd1",
+      "confidence": 0.9295
+    },
+    {
+      "bbox": [
+        328.3,
+        324.3,
+        1612.3,
+        373.0
+      ],
+      "text": "Now that Black already has a rook at a2, 6 xf7+ xf7 7 xf7 is answered",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        287.9,
+        374.2,
+        1518.0,
+        425.4
+      ],
+      "text": "by 7...ee2, while if 6 xf7, then 6...xg2+ 7 f1 gxg5 8 ff8 gf5+.",
+      "confidence": 0.9486
+    },
+    {
+      "bbox": [
+        332.0,
+        426.6,
+        1608.6,
+        470.3
+      ],
+      "text": "6...f6 7 xg8+ xg8 8 d8+ Ωe8 9 xe8 f8 10 2d6+ e7 11 e8+ d7",
+      "confidence": 0.9305
+    },
+    {
+      "bbox": [
+        286.7,
+        471.5,
+        947.0,
+        522.7
+      ],
+      "text": "12 xe5 fxe5 13 c4 c6 14 e4 (D)",
+      "confidence": 0.9578
+    },
+    {
+      "bbox": [
+        618.7,
+        682.4,
+        644.4,
+        713.6
+      ],
+      "text": "B",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        325.9,
+        1178.9,
+        1606.2,
+        1232.5
+      ],
+      "text": "One might now say 'and White won after another twenty moves', for this posi-",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        280.6,
+        1230.0,
+        1606.2,
+        1281.2
+      ],
+      "text": "tion no longer has anything to do with the difficulties on the back rank, but it is",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        281.8,
+        1282.4,
+        1604.9,
+        1329.8
+      ],
+      "text": "worth remarking that the task is a difficult one, so difficult indeed that Alekhine",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        279.3,
+        1327.3,
+        1607.4,
+        1383.5
+      ],
+      "text": "went astray and after 14...#a1+ 15 f2 d5 16 $f3 a5 played 17 e2? (17",
+      "confidence": 0.9496
+    },
+    {
+      "bbox": [
+        279.3,
+        1376.0,
+        1609.8,
+        1438.3
+      ],
+      "text": "cd2 was correct). This was answered by 17..a4! (not 17...xe4? on account of",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        279.3,
+        1430.9,
+        1606.2,
+        1487.0
+      ],
+      "text": "18 c6!), after which White, objectively speaking, should not have got more than a",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        276.9,
+        1479.5,
+        1606.2,
+        1534.4
+      ],
+      "text": "draw. Alekhine, however, did not submit to 18 c3+ xc5 19 xa4+ d4 but",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        275.7,
+        1528.2,
+        1603.7,
+        1589.3
+      ],
+      "text": "went on to risk 18 cd2? a3 19 b4 c1! and so reached a losing position. Play",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        275.7,
+        1578.1,
+        1606.2,
+        1636.7
+      ],
+      "text": "continued 20 d3 a2 21 2b3 d1+ 22 c2 a1W 23 xa1 xa1 24 c3+, at",
+      "confidence": 0.9475
+    },
+    {
+      "bbox": [
+        278.1,
+        1631.7,
+        1606.2,
+        1686.6
+      ],
+      "text": "which stage Black could have won by 24...c4! 25 c6 a7! 26 b5 c7. Instead,",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        273.2,
+        1681.6,
+        1602.5,
+        1739.0
+      ],
+      "text": "he spoilt his position by playing 24...c6? The finish ran: 25 d3 f1 26 g3! h5",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        275.7,
+        1730.3,
+        1601.3,
+        1786.4
+      ],
+      "text": "27 c4 h4 28 b5+ d7 29 gxh4 f4+ 30 d5 xh4 31 c6+ c7 32 c5! xh3",
+      "confidence": 0.9654
+    },
+    {
+      "bbox": [
+        276.9,
+        1781.4,
+        698.3,
+        1827.6
+      ],
+      "text": "33 b6+ b8 34 2b5 1-0",
+      "confidence": 0.9616
+    },
+    {
+      "bbox": [
+        321.0,
+        1886.2,
+        1596.4,
+        1938.6
+      ],
+      "text": "Combinations based on the weakness of the back rank are usually of short du-",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        273.2,
+        1937.3,
+        1598.8,
+        1992.2
+      ],
+      "text": "ration and matters come quickly to a head. This has been shown by the examples",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        274.4,
+        1987.2,
+        1600.0,
+        2043.4
+      ],
+      "text": "given above, and others, equally short-lived, could easily be added to them. How-",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        273.2,
+        2040.9,
+        1602.5,
+        2093.3
+      ],
+      "text": "ever, just as success may come quickly, so too failure can suddenly occur as a",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        272.0,
+        2087.0,
+        1598.8,
+        2146.9
+      ],
+      "text": "result of a lightning counter-stroke which removes the weakness from the oppo-",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        273.2,
+        2139.4,
+        1601.3,
+        2193.1
+      ],
+      "text": "nent's back rank. As an example of such a turning-point let us examine the next",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        272.0,
+        2189.3,
+        421.4,
+        2235.5
+      ],
+      "text": "position.",
+      "confidence": 0.9367
+    }
+  ]
+}

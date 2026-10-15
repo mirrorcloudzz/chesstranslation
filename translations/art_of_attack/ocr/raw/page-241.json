@@ -1,0 +1,270 @@
+{
+  "pdf_page": 241,
+  "printed_page": 241,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "lhe attack on the fianchettoed and queenside castling positions 241",
+      "bbox": [
+        360.0,
+        123.0,
+        1562.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After this second mistake Black has a winning position. White should have",
+      "bbox": [
+        293.0,
+        271.0,
+        1568.0,
+        310.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "played 3 Äxd3 Äxd3 4 ! and if 4...Axb2, then 5 Qa4, or if 4...Äxc3, then 5",
+      "bbox": [
+        248.0,
+        316.0,
+        1566.0,
+        363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bxc3 ! , when Black can probably draw but cannot achieve more.",
+      "bbox": [
+        249.0,
+        373.0,
+        1304.0,
+        412.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...ag6'. (D)",
+      "bbox": [
+        295.0,
+        421.0,
+        504.0,
+        463.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The precious bishop retires and thus stops White playing Oel followed by",
+      "bbox": [
+        294.0,
+        467.0,
+        1569.0,
+        514.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Q)c2 with gain of tempo.",
+      "bbox": [
+        250.0,
+        521.0,
+        658.0,
+        564.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "While this does not give his opponent much trouble, White's other moves are",
+      "bbox": [
+        296.0,
+        1279.0,
+        1571.0,
+        1319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "also of little use. The situation is now typical of attacks on the queenside castling",
+      "bbox": [
+        252.0,
+        1329.0,
+        1570.0,
+        1368.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position and a similar arrangement of pieces often arises in practice. So let us",
+      "bbox": [
+        251.0,
+        1380.0,
+        1570.0,
+        1420.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "look at the whole repertoire of combinations at Black's disposal which lead to",
+      "bbox": [
+        253.0,
+        1430.0,
+        1571.0,
+        1470.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mate.",
+      "bbox": [
+        252.0,
+        1487.0,
+        340.0,
+        1512.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "First, it is clear that White could not play 4 bxa3, because of 4...Vxa3#, with",
+      "bbox": [
+        297.0,
+        1525.0,
+        1572.0,
+        1570.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the typical pattern of Boden's Mate. Next, it can be seen that if 4 Vf4, Black has",
+      "bbox": [
+        253.0,
+        1576.0,
+        1571.0,
+        1622.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...Xac8, threatening 5...Vxc3+ and mate, thanks to the formidable effect of",
+      "bbox": [
+        252.0,
+        1628.0,
+        1575.0,
+        1673.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black's bishops. It is true that White could meet 4...Äac8 with 5 Ve5, but then",
+      "bbox": [
+        253.0,
+        1678.0,
+        1572.0,
+        1723.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...Vb4 would be decisive. There still remain some other defences, which are",
+      "bbox": [
+        253.0,
+        1730.0,
+        1572.0,
+        1768.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "worth setting out:",
+      "bbox": [
+        253.0,
+        1786.0,
+        542.0,
+        1824.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l) 4 Adel Xxd2! (if 4...Äac8, White would reply 5 #dll) 5 *xd2 (5 Oxd2 is",
+      "bbox": [
+        302.0,
+        1825.0,
+        1572.0,
+        1874.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "also inadequate, e.g. 5...Vxc3+ 6 Vc2+2 7 Vd3+ 8 Édl Äc8 9 Xe4",
+      "bbox": [
+        253.0,
+        1875.0,
+        1572.0,
+        1925.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ab4 IO XXb4 XCI+ I I #XCI vc2#) 5...Xd8+ 6 7 Ae4+! 8",
+      "bbox": [
+        253.0,
+        1931.0,
+        1489.0,
+        1973.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(or 8 Qd2 Xxd2+ 9 #xd2 Vd4+ and mates) 8...Vc4+ 9 Äd3+ and Black",
+      "bbox": [
+        254.0,
+        1981.0,
+        1574.0,
+        2025.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mates.",
+      "bbox": [
+        253.0,
+        2044.0,
+        357.0,
+        2068.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...Xac8 also wins as after 5 Axb2 White is defenceless.",
+      "bbox": [
+        335.0,
+        2138.0,
+        1311.0,
+        2171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        257.0,
+        2142.0,
+        268.0,
+        2171.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2 Black can mate in two by 6...Ac2+.",
+      "bbox": [
+        254.0,
+        2188.0,
+        900.0,
+        2229.0
+      ],
+      "confidence": null
+    }
+  ]
+}

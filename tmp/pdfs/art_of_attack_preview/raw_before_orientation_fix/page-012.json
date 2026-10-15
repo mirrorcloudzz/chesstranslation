@@ -1,0 +1,110 @@
+{
+  "pdf_page": 12,
+  "printed_page": 12,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        127.4,
+        431.6,
+        1457.9,
+        497.7
+      ],
+      "text": " sr   d s r       r   ss",
+      "confidence": 0.5075
+    },
+    {
+      "bbox": [
+        128.6,
+        486.5,
+        1453.0,
+        546.4
+      ],
+      "text": "      n     i   ",
+      "confidence": 0.5464
+    },
+    {
+      "bbox": [
+        128.6,
+        536.4,
+        1455.5,
+        596.3
+      ],
+      "text": "  e se   s     e  s",
+      "confidence": 0.5211
+    },
+    {
+      "bbox": [
+        126.2,
+        789.7,
+        1451.8,
+        848.3
+      ],
+      "text": "         o  ",
+      "confidence": 0.5198
+    },
+    {
+      "bbox": [
+        123.7,
+        839.6,
+        1450.6,
+        898.2
+      ],
+      "text": "  i d  i i s    n s",
+      "confidence": 0.5002
+    },
+    {
+      "bbox": [
+        127.4,
+        1146.4,
+        1446.9,
+        1203.8
+      ],
+      "text": "Se  r        s      ",
+      "confidence": 0.5068
+    },
+    {
+      "bbox": [
+        120.1,
+        1498.2,
+        1443.2,
+        1553.1
+      ],
+      "text": "- o s s      t s o m o s",
+      "confidence": 0.5274
+    },
+    {
+      "bbox": [
+        115.2,
+        1747.7,
+        1442.0,
+        1806.4
+      ],
+      "text": "o  s  s    n ",
+      "confidence": 0.5079
+    },
+    {
+      "bbox": [
+        115.2,
+        1846.3,
+        1396.7,
+        1911.1
+      ],
+      "text": "      n     n i ",
+      "confidence": 0.5121
+    },
+    {
+      "bbox": [
+        116.4,
+        1944.8,
+        1439.5,
+        2005.9
+      ],
+      "text": "  a        o  e",
+      "confidence": 0.5145
+    }
+  ]
+}

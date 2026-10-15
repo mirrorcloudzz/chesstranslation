@@ -1,0 +1,280 @@
+{
+  "pdf_page": 280,
+  "printed_page": 280,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "280",
+      "bbox": [
+        230.0,
+        127.0,
+        293.0,
+        158.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "17...d5! 18 Ve2",
+      "bbox": [
+        277.0,
+        272.0,
+        540.0,
+        306.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        657.0,
+        127.0,
+        1152.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        1527.0,
+        318.0,
+        1534.0,
+        337.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This loses material, but even the more stubborn 18 Qc5 would not help much",
+      "bbox": [
+        274.0,
+        323.0,
+        1524.0,
+        367.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The deciding point here is that 18 Vn does not work because of 18...Vxf2+",
+      "bbox": [
+        274.0,
+        373.0,
+        1549.0,
+        416.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "19 Q)xt2 Qd2!. and White loses the exchange.",
+      "bbox": [
+        233.0,
+        422.0,
+        997.0,
+        466.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "18...hxg4 19 fxg4 Äe6 20 Vf2 Ve7 21 Äxb7 Vxb7 22 Qc5 Ve7 23 Oxe6",
+      "bbox": [
+        277.0,
+        473.0,
+        1548.0,
+        516.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vxe6 24 Vxf4 Äf8 25 Vg3 Qd2 0-1",
+      "bbox": [
+        229.0,
+        522.0,
+        849.0,
+        565.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In this position White played:",
+      "bbox": [
+        273.0,
+        1232.0,
+        764.0,
+        1271.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "He is clearly preparing to deploy the rook on g3 or h3 in order to attack the op-",
+      "bbox": [
+        273.0,
+        1334.0,
+        1546.0,
+        1376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "posing king. Moves of this type belong on the whole to a rather more advanced",
+      "bbox": [
+        227.0,
+        1384.0,
+        1547.0,
+        1424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "stage of the game, when all the other pieces have been developed; they are also",
+      "bbox": [
+        228.0,
+        1435.0,
+        1547.0,
+        1477.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "good in closed positions, where the opponent has no chance of counterattacking",
+      "bbox": [
+        227.0,
+        1486.0,
+        1546.0,
+        1528.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on an open file. However, even here this sortie on the part of the rook does not en-",
+      "bbox": [
+        227.0,
+        1537.0,
+        1545.0,
+        1577.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tail a very serious commitment for White, since the rook can turn back if it does",
+      "bbox": [
+        227.0,
+        1586.0,
+        1546.0,
+        1624.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not succeed in its mission.",
+      "bbox": [
+        227.0,
+        1637.0,
+        661.0,
+        1667.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Ac6 2 xg3",
+      "bbox": [
+        274.0,
+        1682.0,
+        510.0,
+        1725.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This parries the threat of 3 Ah6 without weakening the castled position.",
+      "bbox": [
+        271.0,
+        1734.0,
+        1544.0,
+        1780.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...Ae4 3 Ah6 Ag6 is not so good because of 4 Axg6 hxg6 5 Ae3, when White",
+      "bbox": [
+        227.0,
+        1783.0,
+        1546.0,
+        1830.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "has attacking chances along the h-file.",
+      "bbox": [
+        226.0,
+        1838.0,
+        858.0,
+        1878.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 Ae3 Ae4",
+      "bbox": [
+        271.0,
+        1884.0,
+        460.0,
+        1920.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black is still applying prophylactic direct defence, since the conditions are not",
+      "bbox": [
+        271.0,
+        1940.0,
+        1546.0,
+        1980.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "yet favourable for a counterattack; the exchange of light-squared bishops ought",
+      "bbox": [
+        226.0,
+        1990.0,
+        1546.0,
+        2034.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to lessen the force of the attack and at the same time clear the squares on the c-file",
+      "bbox": [
+        226.0,
+        2041.0,
+        1545.0,
+        2083.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for an eventual counterattack.",
+      "bbox": [
+        226.0,
+        2090.0,
+        715.0,
+        2122.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Actually White can resign after the reply 18...Qe3.",
+      "bbox": [
+        229.0,
+        2194.0,
+        1111.0,
+        2234.0
+      ],
+      "confidence": null
+    }
+  ]
+}

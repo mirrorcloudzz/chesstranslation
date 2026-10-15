@@ -1,0 +1,400 @@
+{
+  "pdf_page": 220,
+  "printed_page": 220,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "220",
+      "bbox": [
+        260.0,
+        126.0,
+        324.0,
+        157.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        687.0,
+        129.0,
+        1181.0,
+        170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 11...Axg5, then 12 Vh5 h6 13 Ägl Axf4 14 exf4 15 Vg4 g6 16 Axg6.",
+      "bbox": [
+        304.0,
+        273.0,
+        1574.0,
+        325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If II...Vc7, then 12 Axh7+ #xh7 13 Vh5+ 14 g6 fxg6 15 Vxg6 Xd8 (or",
+      "bbox": [
+        258.0,
+        322.0,
+        1577.0,
+        374.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15...Xf8 16 Vxe6+ Xf7 17 Vxf7+ and 18 e6+) 16 Ägl Af8 17 Q)f3 followed by",
+      "bbox": [
+        261.0,
+        373.0,
+        1575.0,
+        425.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mg5.",
+      "bbox": [
+        257.0,
+        421.0,
+        341.0,
+        464.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 h4 Ad7 13 vg4 Ac6 14 0-0-0 b5",
+      "bbox": [
+        304.0,
+        473.0,
+        918.0,
+        516.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This simplifies White's task, though better moves would not help Black very",
+      "bbox": [
+        301.0,
+        527.0,
+        1573.0,
+        575.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "much.",
+      "bbox": [
+        256.0,
+        578.0,
+        354.0,
+        606.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "15 h5 c4 16 Axh7+!",
+      "bbox": [
+        302.0,
+        624.0,
+        642.0,
+        659.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "No sooner has White's pawn avalanche established itself on the fifth rank than",
+      "bbox": [
+        299.0,
+        678.0,
+        1572.0,
+        718.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "he cames out the characteristic piece sacrifice, which breaks up the castled posi-",
+      "bbox": [
+        254.0,
+        728.0,
+        1571.0,
+        776.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion and prevents a defensive blockade from being set up.",
+      "bbox": [
+        254.0,
+        778.0,
+        1204.0,
+        823.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "16...Qxh7 17 g6 Qg5 18 Qe4! Qxe4 19 gxf7+ #xf7 20 Vg6+",
+      "bbox": [
+        300.0,
+        824.0,
+        1355.0,
+        874.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "His position also soon collapses after 20...#g8 21 h6 Af8 22 Xdgl Äe7 23",
+      "bbox": [
+        298.0,
+        879.0,
+        1569.0,
+        927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vh7+! #xh7 (or 23...#f7 24 hxg7) 24 hxg7+ 25 Xh8+ 26 g8V+, etc .",
+      "bbox": [
+        251.0,
+        923.0,
+        1561.0,
+        977.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21 h6 Af6 22 hxg7+ Axg7 23 Äh8+ Axh8 24 Ah6+ 25 Vh7+ and mate",
+      "bbox": [
+        296.0,
+        976.0,
+        1569.0,
+        1021.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "next move.",
+      "bbox": [
+        251.0,
+        1035.0,
+        429.0,
+        1060.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Tolush - Kotov",
+      "bbox": [
+        765.0,
+        1132.0,
+        1048.0,
+        1165.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "USSR Championship, Moscow 1945",
+      "bbox": [
+        610.0,
+        1183.0,
+        1208.0,
+        1223.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sicilian Defence, Scheveningen Variation",
+      "bbox": [
+        563.0,
+        1232.0,
+        1251.0,
+        1275.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 e4 c5 2 Of3 e6 3 d4 cxd4 4 Qxd4 Qf6 5 Qc3 d6 6 g3",
+      "bbox": [
+        249.0,
+        1327.0,
+        1187.0,
+        1377.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It is more usual to play either 6 g4 or 6 Ae2 at this point, which perhaps give",
+      "bbox": [
+        291.0,
+        1382.0,
+        1564.0,
+        1434.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White somewhat greater scope for attack than 6 g3.",
+      "bbox": [
+        245.0,
+        1433.0,
+        1096.0,
+        1479.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...Qc6 7 Ag2 Adi",
+      "bbox": [
+        289.0,
+        1479.0,
+        625.0,
+        1522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Another plan would have been 7...Qxd4 and then ...Ad7, in order to play the",
+      "bbox": [
+        289.0,
+        1534.0,
+        1563.0,
+        1585.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishop to c6. White now withdraws his knight from d4 and so makes it difficult",
+      "bbox": [
+        244.0,
+        1583.0,
+        1563.0,
+        1629.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "for Black to further the development of the c8-bishop.",
+      "bbox": [
+        243.0,
+        1633.0,
+        1136.0,
+        1681.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 Qde2! a6 9 0-0 b5 10 Vc7 11 h3 Ae7 12 0-0 13 g4",
+      "bbox": [
+        287.0,
+        1679.0,
+        1325.0,
+        1733.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The preparation of a bayonet attack is justified in this position, for Black is",
+      "bbox": [
+        286.0,
+        1735.0,
+        1560.0,
+        1784.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "still quite a long way from starting a counterattack by ...d5.",
+      "bbox": [
+        241.0,
+        1786.0,
+        1221.0,
+        1833.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "13...#h8?",
+      "bbox": [
+        287.0,
+        1832.0,
+        455.0,
+        1867.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Not to the point; better is 13...Xfd8.",
+      "bbox": [
+        284.0,
+        1887.0,
+        877.0,
+        1927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "14 Qg3 b4 15 axb4 Qxb4 16 g5",
+      "bbox": [
+        286.0,
+        1933.0,
+        830.0,
+        1981.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black has made a start to his preparations for the thrust ...d5, but White's at-",
+      "bbox": [
+        283.0,
+        1988.0,
+        1556.0,
+        2035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack is faster. White does not play 16 e5 here, as Black can then reply 16...Qfd5.",
+      "bbox": [
+        237.0,
+        2039.0,
+        1529.0,
+        2090.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        240.0,
+        2144.0,
+        250.0,
+        2172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In fact, White ends up material down after 26...Ée8 27 Vxf8+ Éd7, etc., so he",
+      "bbox": [
+        319.0,
+        2147.0,
+        1556.0,
+        2193.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "should prefer 23 hxg7 Axg7 24 Äh7 Vc7 25 Xghl, followed by mate.",
+      "bbox": [
+        319.0,
+        2194.0,
+        1430.0,
+        2243.0
+      ],
+      "confidence": null
+    }
+  ]
+}

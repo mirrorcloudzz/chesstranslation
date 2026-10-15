@@ -1,0 +1,300 @@
+{
+  "pdf_page": 324,
+  "printed_page": 324,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "324",
+      "bbox": [
+        238.0,
+        128.0,
+        302.0,
+        159.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        665.0,
+        131.0,
+        1161.0,
+        172.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White is the better placed; he owes his superiority to the advanced position of",
+      "bbox": [
+        276.0,
+        882.0,
+        1555.0,
+        929.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "his e-pawn, which secures him an advantage in space and cramps Black. The ac-",
+      "bbox": [
+        231.0,
+        933.0,
+        1550.0,
+        979.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tive placing of his pieces, the blocked centre, and the weakened enemy king posi-",
+      "bbox": [
+        231.0,
+        983.0,
+        1550.0,
+        1031.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tion are all preconditions for an attack on the castled king. However, White has",
+      "bbox": [
+        230.0,
+        1033.0,
+        1550.0,
+        1079.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "yet another advantage, namely, his rooks are united and he is a tempo ahead as re-",
+      "bbox": [
+        230.0,
+        1084.0,
+        1549.0,
+        1130.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gards control of the c-file; this would incline him towards a positional treatment",
+      "bbox": [
+        230.0,
+        1133.0,
+        1551.0,
+        1180.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of the game rather than an attack.",
+      "bbox": [
+        229.0,
+        1183.0,
+        782.0,
+        1222.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "One asks oneself whether the best plan is to attack or play on the c-file? The",
+      "bbox": [
+        274.0,
+        1233.0,
+        1549.0,
+        1281.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "answer is that one should threaten an attack and continue to promote the precon-",
+      "bbox": [
+        228.0,
+        1285.0,
+        1547.0,
+        1334.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ditions for it; then, if Black defends correctly, the prospects of successful play on",
+      "bbox": [
+        227.0,
+        1335.0,
+        1547.0,
+        1384.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the c-file will be enhanced.",
+      "bbox": [
+        227.0,
+        1386.0,
+        675.0,
+        1419.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Two moves which threaten the enemy king position are worth considering, i.e.",
+      "bbox": [
+        271.0,
+        1437.0,
+        1544.0,
+        1486.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Abl, threatening Vc2, and I Ve3, which threatens a sacrificial assault on h6. If",
+      "bbox": [
+        230.0,
+        1482.0,
+        1549.0,
+        1529.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Abl, Black plays l...Xe8 and parries 2 Vc2 with 2...Qf8. It would appear that",
+      "bbox": [
+        229.0,
+        1532.0,
+        1547.0,
+        1587.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the time is then ripe for play on the c-file, but after the continuation 3 Vc7 Vxc7",
+      "bbox": [
+        225.0,
+        1588.0,
+        1544.0,
+        1630.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4 Äxc7 Xab8 5 Äfcl it is clear that this particular bolt has been shot; Black plays",
+      "bbox": [
+        223.0,
+        1635.0,
+        1545.0,
+        1689.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...Ad8 followed by ...Ab6, and White has nothing left on the c-file. The other",
+      "bbox": [
+        224.0,
+        1684.0,
+        1545.0,
+        1735.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "method is better.",
+      "bbox": [
+        223.0,
+        1740.0,
+        497.0,
+        1771.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I ve3!",
+      "bbox": [
+        270.0,
+        1784.0,
+        383.0,
+        1820.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This is forced; Black cannot defend himself without ...Qf8, as the following",
+      "bbox": [
+        267.0,
+        1840.0,
+        1543.0,
+        1891.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "variations show:",
+      "bbox": [
+        222.0,
+        1891.0,
+        490.0,
+        1922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l) l...Xc8 2 Axh6 gxh6 3 Vxh6 f5 4 exf6 Äxf6 (or 4...hxf6 5 Vg6+ 6",
+      "bbox": [
+        270.0,
+        1938.0,
+        1542.0,
+        1991.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qg5, when Black has no defence against Vh6+ followed by Ah7+, Af5+ and",
+      "bbox": [
+        221.0,
+        1986.0,
+        1542.0,
+        2040.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axe6+) 5 Vh7+ 6 Vh8+ 7 hg5#.",
+      "bbox": [
+        220.0,
+        2037.0,
+        956.0,
+        2088.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2) l...Vb6 2 Axh6 gxh6 3 Vxh6 f5 4 exf6 Oxf6 (for 4...Äxf6 see above) 5",
+      "bbox": [
+        265.0,
+        2089.0,
+        1539.0,
+        2143.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg6+ 6 Qg5 Ac8 7 e5 8 Vh6+ 9 Ah7+ 10 Af5+ 11",
+      "bbox": [
+        219.0,
+        2137.0,
+        1537.0,
+        2186.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Vg6+ followed by mate.",
+      "bbox": [
+        218.0,
+        2187.0,
+        629.0,
+        2234.0
+      ],
+      "confidence": null
+    }
+  ]
+}

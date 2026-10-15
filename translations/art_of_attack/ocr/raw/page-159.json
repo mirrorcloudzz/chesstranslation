@@ -1,0 +1,290 @@
+{
+  "pdf_page": 159,
+  "printed_page": 159,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        323.4,
+        133.5,
+        1532.7,
+        182.1
+      ],
+      "text": "Ranks, files and diagonals in the attack on the castled king 159",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        252.4,
+        279.4,
+        541.5,
+        324.3
+      ],
+      "text": "2...g5 3 h5+!",
+      "confidence": 0.9754
+    },
+    {
+      "bbox": [
+        248.7,
+        326.8,
+        1530.2,
+        380.5
+      ],
+      "text": "With this sacrifice White lures the king into the fire of a new battery -- bishop",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        207.0,
+        381.7,
+        385.9,
+        425.4
+      ],
+      "text": "and pawn!",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        248.7,
+        427.9,
+        1532.7,
+        474.0
+      ],
+      "text": "3...xh5 4f4+ ②xe2 5 f6+ h6 6 h1+ g7 7 e8+ xe8 8 xh7+ f6",
+      "confidence": 0.9374
+    },
+    {
+      "bbox": [
+        203.4,
+        477.8,
+        354.1,
+        522.7
+      ],
+      "text": "9 xf7#",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        248.7,
+        532.7,
+        1532.7,
+        577.6
+      ],
+      "text": "This is also an instructive example with reference to weaving the mating net:",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        207.0,
+        581.3,
+        1533.9,
+        626.2
+      ],
+      "text": "White is the master of the h-file, but he still needs to deprive the black king of",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        205.8,
+        631.2,
+        1535.1,
+        678.6
+      ],
+      "text": "squares on the g-file. The most difficult to deal with is g5, but White solves that",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        207.0,
+        682.4,
+        891.9,
+        726.0
+      ],
+      "text": "problem with his third and fourth moves.",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        517.0,
+        885.7,
+        550.1,
+        919.4
+      ],
+      "text": "W",
+      "confidence": 0.9099
+    },
+    {
+      "bbox": [
+        249.9,
+        1387.2,
+        1530.2,
+        1433.4
+      ],
+      "text": "This example, from the game Toth-Szigeti, Budapest 1946, shows us an exe-",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        207.0,
+        1437.1,
+        873.5,
+        1480.8
+      ],
+      "text": "cution of Anastasia's mate on the h-file.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        247.5,
+        1484.5,
+        961.7,
+        1530.7
+      ],
+      "text": "1 xh7+ xh7 2 h3+ g8 3 Wh5 Wh6",
+      "confidence": 0.9546
+    },
+    {
+      "bbox": [
+        247.5,
+        1538.1,
+        1532.7,
+        1586.8
+      ],
+      "text": "To all appearances Black has parried the attack on the h-file, but now comes",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        204.6,
+        1590.5,
+        563.6,
+        1634.2
+      ],
+      "text": "the unexpected point.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        247.5,
+        1636.7,
+        869.9,
+        1680.4
+      ],
+      "text": "4 f5! Wxh5 5 e7+ h7 6 xh5#",
+      "confidence": 0.9409
+    },
+    {
+      "bbox": [
+        248.7,
+        1690.3,
+        1525.3,
+        1736.5
+      ],
+      "text": "One of the most important types of attack along the h-file is that which in-",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        204.6,
+        1739.0,
+        1531.4,
+        1790.1
+      ],
+      "text": "volves the doubling of the heavy pieces on the file, threatening mate at h8. If the",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        204.6,
+        1787.6,
+        1532.7,
+        1843.8
+      ],
+      "text": "enemy king's flight squares on the second rank are occupied by its own pawns,",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        202.1,
+        1838.8,
+        1529.0,
+        1893.7
+      ],
+      "text": "then the attacker must concentrate his effort on doubling his heavy pieces as rap-",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        202.1,
+        1889.9,
+        1532.7,
+        1946.1
+      ],
+      "text": "idly as possible and mate his opponent at the focal-point h8. However, if the king",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        202.1,
+        1943.6,
+        1530.2,
+        1993.5
+      ],
+      "text": "has a square to escape to or there is a threat to get one by moving the g-pawn or f-",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        200.9,
+        1996.0,
+        1531.4,
+        2043.4
+      ],
+      "text": "pawn, attention must be turned to this possible means of defence. The most eco-",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        204.6,
+        2048.4,
+        1526.5,
+        2089.5
+      ],
+      "text": "nomical formation against this, as far as the use of attacking material is con-",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        202.1,
+        2094.5,
+        1529.0,
+        2144.4
+      ],
+      "text": "cerned, is one with an assault pawn at g6 and a defending one at g7. The",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        203.4,
+        2144.4,
+        1529.0,
+        2194.3
+      ],
+      "text": "continuations from the following diagram are devoted to this typical formation",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        204.6,
+        2195.6,
+        602.8,
+        2241.7
+      ],
+      "text": "(with colours reversed).",
+      "confidence": 0.9995
+    }
+  ]
+}

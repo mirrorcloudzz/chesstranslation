@@ -1,0 +1,290 @@
+{
+  "pdf_page": 185,
+  "printed_page": 185,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        426.0,
+        128.0,
+        1375.0,
+        169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "185",
+      "bbox": [
+        1492.0,
+        130.0,
+        1549.0,
+        161.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A position from the game Lewitzky-Marshall, Breslau 1912. Marshall won re-",
+      "bbox": [
+        277.0,
+        277.0,
+        1551.0,
+        315.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "nown in the following way:",
+      "bbox": [
+        233.0,
+        327.0,
+        686.0,
+        366.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Xh6 2 vg5 Xxh3 3",
+      "bbox": [
+        279.0,
+        372.0,
+        657.0,
+        415.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White saw that 3 gxh3 would not do because of 3...Qf3+ and intended, on",
+      "bbox": [
+        277.0,
+        423.0,
+        1551.0,
+        466.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        676.0,
+        467.0,
+        683.0,
+        486.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...Va3, to play 4 Xc7, etc .",
+      "bbox": [
+        233.0,
+        472.0,
+        694.0,
+        516.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "However, Black took him by surprise with:",
+      "bbox": [
+        277.0,
+        528.0,
+        987.0,
+        566.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3...Vg3!! 0-1",
+      "bbox": [
+        277.0,
+        572.0,
+        497.0,
+        615.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4 hxg3 me2# and 4 fxg3 Qe2+ 5 Éhl Xxfl# fail at once, while after 4 Vxg3",
+      "bbox": [
+        276.0,
+        622.0,
+        1550.0,
+        668.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qe2+ 5 Q)xg3+ 6 •gl Oxfl 7 gxh3 Qd2 White is left a knight down.",
+      "bbox": [
+        232.0,
+        673.0,
+        1490.0,
+        717.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from a blindfold game of Alekhine's at Tenerife in 1945",
+      "bbox": [
+        275.0,
+        1383.0,
+        1548.0,
+        1424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "(Alekhine-Supico) and acts as a counterpart to Marshall's combination above.",
+      "bbox": [
+        231.0,
+        1434.0,
+        1548.0,
+        1475.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Alekhine, in playing",
+      "bbox": [
+        230.0,
+        1485.0,
+        569.0,
+        1524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Vg6!",
+      "bbox": [
+        277.0,
+        1530.0,
+        393.0,
+        1573.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "forced Black to resign (1-0). If Black does not take the queen but plays instead",
+      "bbox": [
+        275.0,
+        1586.0,
+        1550.0,
+        1628.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "l...Äg8, White wins by 2 Vxh7+ and 3 Äh3#; if Black plays 1...hxg6 the rook",
+      "bbox": [
+        234.0,
+        1631.0,
+        1551.0,
+        1678.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mates immediately, while if l...fxg6, then 2 Q)xg6+, and again the rook mates on",
+      "bbox": [
+        229.0,
+        1683.0,
+        1549.0,
+        1727.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "h3.",
+      "bbox": [
+        229.0,
+        1736.0,
+        277.0,
+        1766.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Lovers of curiosities will have noticed the common square (g6 or g3) on which",
+      "bbox": [
+        274.0,
+        1787.0,
+        1549.0,
+        1829.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the queen is sacrificed on all three occasions. The curious side of these examples",
+      "bbox": [
+        229.0,
+        1838.0,
+        1548.0,
+        1881.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "should not distract one from noticing what is typical in them: in all these cases",
+      "bbox": [
+        229.0,
+        1888.0,
+        1548.0,
+        1929.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the attacker has a number of other pieces at his disposal, all in the strongest ag-",
+      "bbox": [
+        228.0,
+        1939.0,
+        1547.0,
+        1982.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gressive positions, while only his queen is somehow 'underemployed'. As a re-",
+      "bbox": [
+        229.0,
+        1990.0,
+        1548.0,
+        2031.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sult, it is given the task of breaking up the position by sacrificing itself. The",
+      "bbox": [
+        228.0,
+        2040.0,
+        1548.0,
+        2083.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "situation is that although the pieces are in very aggressive positions, they cannot",
+      "bbox": [
+        228.0,
+        2091.0,
+        1550.0,
+        2133.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Although even this fails after 4...he2+ 5 Xxh2+ 6 •xh2 Vd6+, etc.",
+      "bbox": [
+        231.0,
+        2192.0,
+        1474.0,
+        2233.0
+      ],
+      "confidence": null
+    }
+  ]
+}

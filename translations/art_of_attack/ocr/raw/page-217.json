@@ -1,0 +1,290 @@
+{
+  "pdf_page": 217,
+  "printed_page": 217,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        384.0,
+        132.0,
+        1333.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20 axe4",
+      "bbox": [
+        235.0,
+        276.0,
+        382.0,
+        311.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "217",
+      "bbox": [
+        1446.0,
+        133.0,
+        1508.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In fact superfluous. The immediate 20 h6 was simpler, and if 20...fxg6 then 21",
+      "bbox": [
+        236.0,
+        329.0,
+        1506.0,
+        369.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Äxg6 while if 20...f6, then 21 hxg7.",
+      "bbox": [
+        190.0,
+        378.0,
+        784.0,
+        419.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20...dxe4",
+      "bbox": [
+        236.0,
+        431.0,
+        390.0,
+        461.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 20...Vxe4, then 21 gxf7+ is decisive.",
+      "bbox": [
+        236.0,
+        476.0,
+        890.0,
+        519.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21 h6 (D)",
+      "bbox": [
+        236.0,
+        531.0,
+        398.0,
+        567.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The avalanche has come down on Black's pawns, which can no longer offer",
+      "bbox": [
+        236.0,
+        580.0,
+        1511.0,
+        619.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "any help by blocking the position. Carried away by the spectacle on the board,",
+      "bbox": [
+        192.0,
+        631.0,
+        1509.0,
+        670.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Kmoch adds two exclamation marks, which I am unable to do, since I can see an-",
+      "bbox": [
+        192.0,
+        681.0,
+        1509.0,
+        715.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "other continuation which is simpler, stronger, and even more 'Rubinstein-like'",
+      "bbox": [
+        192.0,
+        731.0,
+        1509.0,
+        770.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "than h6, in that it links the combination with a positional breakthrough in the cen-",
+      "bbox": [
+        191.0,
+        781.0,
+        1509.0,
+        820.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tre: 21 Og5! Ad5 (the f-pawn must not be moved because of 22 Vxc4+) 22",
+      "bbox": [
+        192.0,
+        826.0,
+        1510.0,
+        871.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "gxf7+ Axf7 23 f3! Ad5 (otherwise fxe4 and e5) 24 h6 Xac8 (or 24...g6 25 Zh4)",
+      "bbox": [
+        192.0,
+        878.0,
+        1510.0,
+        922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25 fxe4 Axe4 26 h7+ Éh8 27 Vxe4! Vxg5 28 Vxe8+ and White wins .",
+      "bbox": [
+        192.0,
+        927.0,
+        1395.0,
+        971.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "X",
+      "bbox": [
+        586.0,
+        1057.0,
+        631.0,
+        1108.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...f6?!",
+      "bbox": [
+        236.0,
+        1638.0,
+        374.0,
+        1668.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This makes White's task easier, though the game would not have been saved",
+      "bbox": [
+        236.0,
+        1689.0,
+        1511.0,
+        1727.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by the more stubborn move 21...fxg6. 21...exf3 would have been even weaker,",
+      "bbox": [
+        191.0,
+        1739.0,
+        1510.0,
+        1778.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "e.g. 22 gxf7+ Vxf7 23 hxg7 with threats against h8 and h7.",
+      "bbox": [
+        191.0,
+        1785.0,
+        1183.0,
+        1829.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "After 21...fxg6 Kmoch shows that 22 Xxg6? is weak (because of 22...exf3,",
+      "bbox": [
+        236.0,
+        1838.0,
+        1510.0,
+        1880.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and Black gains too much material in return for his queen). He gives the follow-",
+      "bbox": [
+        192.0,
+        1892.0,
+        1510.0,
+        1931.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing line as good for White: 22 Qh4 g5 23 hg6 Vf6 24 h7+ 7 25 h8V Xxh8 26",
+      "bbox": [
+        191.0,
+        1937.0,
+        1511.0,
+        1981.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "axh8+. However, the situation is somewhat doubtful after 26...#e7, for while",
+      "bbox": [
+        191.0,
+        1987.0,
+        1511.0,
+        2029.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I However, this line is also not conclusive as instead of 23...Ad5 Black can create",
+      "bbox": [
+        195.0,
+        2099.0,
+        1512.0,
+        2135.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "confusion by 23...c3, when White's plan of fxe4 followed by e5 starts to look",
+      "bbox": [
+        274.0,
+        2150.0,
+        1512.0,
+        2187.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "too slow.",
+      "bbox": [
+        274.0,
+        2199.0,
+        416.0,
+        2226.0
+      ],
+      "confidence": null
+    }
+  ]
+}

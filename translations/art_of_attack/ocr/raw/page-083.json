@@ -1,0 +1,290 @@
+{
+  "pdf_page": 83,
+  "printed_page": 83,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        768.2,
+        126.0,
+        998.5,
+        174.6
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        1486.1,
+        124.7,
+        1540.0,
+        169.7
+      ],
+      "text": "83",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        256.1,
+        272.0,
+        1535.1,
+        320.6
+      ],
+      "text": "This position arose in the game Coria-Capablanca, Buenos Aires 1914. Black,",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        211.9,
+        328.1,
+        550.1,
+        369.3
+      ],
+      "text": "to move, attacks g2:",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        258.5,
+        375.5,
+        746.1,
+        416.7
+      ],
+      "text": "1...h3! 2 e3 xg2 3 f5",
+      "confidence": 0.921
+    },
+    {
+      "bbox": [
+        257.3,
+        421.6,
+        1536.3,
+        471.5
+      ],
+      "text": "White played this in desperation; if 3 xg2 Wg5 4 f3, Black plays 4...h3+",
+      "confidence": 0.9724
+    },
+    {
+      "bbox": [
+        211.9,
+        472.8,
+        1304.8,
+        525.2
+      ],
+      "text": "and wins White's queen - a typical trick in positions such as this.",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        259.7,
+        527.7,
+        648.1,
+        568.9
+      ],
+      "text": "3...xe4 4 g3 h3#.",
+      "confidence": 0.9557
+    },
+    {
+      "bbox": [
+        523.1,
+        732.3,
+        548.9,
+        764.7
+      ],
+      "text": "B",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        261.0,
+        1227.5,
+        1515.5,
+        1276.2
+      ],
+      "text": "This position is taken from Field-Tenner, New York 1933. It is Black's move.",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        261.0,
+        1274.9,
+        714.3,
+        1323.6
+      ],
+      "text": "1...f4 2 xe4' Wh3! 0-1",
+      "confidence": 0.9383
+    },
+    {
+      "bbox": [
+        259.7,
+        1332.3,
+        1538.8,
+        1377.2
+      ],
+      "text": "The attack on g2, with its threat of mate, is carried on regardless. White re-",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        218.1,
+        1381.0,
+        1192.1,
+        1427.1
+      ],
+      "text": "signed since he sees that 3 gxh3 is followed by 3...xh3#.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        258.5,
+        1482.0,
+        1542.5,
+        1529.4
+      ],
+      "text": "The following position arose in the game Boleslavsky-Ufimtsev, Semi-finals",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        216.9,
+        1534.4,
+        1543.7,
+        1580.6
+      ],
+      "text": "USSR Championship, Omsk 1944. The Soviet master and geologist Ufimtsev,",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        215.6,
+        1583.1,
+        1145.5,
+        1633.0
+      ],
+      "text": "playing Black, overcame his great opponent as follows:",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        262.2,
+        1634.2,
+        528.0,
+        1675.4
+      ],
+      "text": "1...e4! 2 Wa5",
+      "confidence": 0.9316
+    },
+    {
+      "bbox": [
+        262.2,
+        1685.3,
+        1541.2,
+        1730.3
+      ],
+      "text": "After 2 &xb6 xd2 White cannot play 3 xd2 because of the attack on g2, so",
+      "confidence": 0.9734
+    },
+    {
+      "bbox": [
+        214.4,
+        1735.2,
+        1172.5,
+        1781.4
+      ],
+      "text": "he would lose either his bishop on b6 or his knight on f3.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        263.4,
+        1786.4,
+        530.5,
+        1828.8
+      ],
+      "text": "2...hg8 3 e1",
+      "confidence": 0.9029
+    },
+    {
+      "bbox": [
+        257.3,
+        1831.3,
+        1353.8,
+        1882.4
+      ],
+      "text": "Not 3 Qxb6 because of 3...xg2+ 4 h1 xh2+ 5 xh2 xf2#.",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        263.4,
+        1886.2,
+        680.0,
+        1931.1
+      ],
+      "text": "3...μxg2+ 4 xg2 d2!",
+      "confidence": 0.9437
+    },
+    {
+      "bbox": [
+        261.0,
+        1934.8,
+        1540.0,
+        1982.2
+      ],
+      "text": "Black threatens 5...xg2+ 6 h1 xh2+ 7 *g1 h1#. If 5 f3, then 5...Wxe3+",
+      "confidence": 0.9439
+    },
+    {
+      "bbox": [
+        215.6,
+        1992.2,
+        311.2,
+        2034.6
+      ],
+      "text": "wins.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        220.5,
+        2105.7,
+        240.1,
+        2130.7
+      ],
+      "text": "1",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        300.2,
+        2102.0,
+        1538.8,
+        2139.4
+      ],
+      "text": "It is interesting to note that White cannot save himself, even with another sec-",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        297.7,
+        2139.4,
+        1543.7,
+        2189.3
+      ],
+      "text": "ond move, e.g. 2 d3 e2+ 3 h1 xg2+ 4 $xg2 Wf3+ 5 h3 exd3 6 Wd2",
+      "confidence": 0.9494
+    },
+    {
+      "bbox": [
+        300.2,
+        2188.1,
+        803.7,
+        2240.5
+      ],
+      "text": "g5 or 2 We3 xg2 3 d2 f4.",
+      "confidence": 0.9528
+    }
+  ]
+}

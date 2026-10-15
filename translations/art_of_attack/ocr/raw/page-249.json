@@ -1,0 +1,420 @@
+{
+  "pdf_page": 249,
+  "printed_page": 249,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Defending against the attack on the castled king",
+      "bbox": [
+        443.0,
+        135.0,
+        1340.0,
+        177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "249",
+      "bbox": [
+        1479.0,
+        135.0,
+        1542.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3) An action on any part of the board with the aim of gaining material.",
+      "bbox": [
+        270.0,
+        284.0,
+        1450.0,
+        324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Such an action obviously only has a point when a forced mate is not part of the",
+      "bbox": [
+        270.0,
+        334.0,
+        1543.0,
+        374.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "attacker's plan. The critical continuation then is that which costs the defender the",
+      "bbox": [
+        224.0,
+        385.0,
+        1543.0,
+        425.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "least. For instance, if he can 'pacify the attacker's wrath' at the price of a knight,",
+      "bbox": [
+        224.0,
+        434.0,
+        1542.0,
+        474.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "then a counterattack which brings him a rook is worthwhile.",
+      "bbox": [
+        225.0,
+        485.0,
+        1222.0,
+        524.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "In practice the most important case is where the attacker sacrifices; the de-",
+      "bbox": [
+        270.0,
+        534.0,
+        1543.0,
+        575.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fender's repertoire is then greatly increased, since he is given various ways in",
+      "bbox": [
+        225.0,
+        585.0,
+        1544.0,
+        625.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which to return material in order to counter the attacker's plan. This method of",
+      "bbox": [
+        225.0,
+        634.0,
+        1547.0,
+        673.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "returning material is extremely important; the extent to which it is possible af-",
+      "bbox": [
+        224.0,
+        685.0,
+        1543.0,
+        727.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fects the type of sacrifice which can be made, and the sacrifice is also a signal to",
+      "bbox": [
+        225.0,
+        736.0,
+        1544.0,
+        777.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the defender to counter with a sacrifice which would previously have been out of",
+      "bbox": [
+        225.0,
+        786.0,
+        1548.0,
+        825.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the question.",
+      "bbox": [
+        225.0,
+        840.0,
+        434.0,
+        878.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4) The counterattack results in material equality, but the question of position",
+      "bbox": [
+        270.0,
+        887.0,
+        1544.0,
+        926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "still remains open. Mate cannot be forced, both attacks are brought to a halt, and",
+      "bbox": [
+        226.0,
+        938.0,
+        1545.0,
+        977.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "eventual simplification leads towards an ending. The resulting position, which is",
+      "bbox": [
+        225.0,
+        988.0,
+        1544.0,
+        1028.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "often extremely difficult to assess beforehand, is then decisive.",
+      "bbox": [
+        226.0,
+        1039.0,
+        1266.0,
+        1078.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5) The defender's counterattack does not lead to a mating attack, nor to mate-",
+      "bbox": [
+        271.0,
+        1089.0,
+        1544.0,
+        1127.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rial or positional advantages, but instead consists of an eventual transition to the",
+      "bbox": [
+        225.0,
+        1139.0,
+        1545.0,
+        1179.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "direct method.",
+      "bbox": [
+        226.0,
+        1192.0,
+        463.0,
+        1221.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "As a rule, this takes the form of either attacking the enemy pieces 'from the",
+      "bbox": [
+        271.0,
+        1240.0,
+        1545.0,
+        1279.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "rear' or of gaining control of a file or diagonal so as to cover a certain square in",
+      "bbox": [
+        226.0,
+        1291.0,
+        1545.0,
+        1331.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "one's king position (e.g. when the white queen has captured the square c7 and",
+      "bbox": [
+        227.0,
+        1342.0,
+        1545.0,
+        1382.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "from there covers the focal-point h2).",
+      "bbox": [
+        227.0,
+        1394.0,
+        845.0,
+        1432.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6) A special case of the kind of counterattack mentioned in '3' is provided by",
+      "bbox": [
+        272.0,
+        1444.0,
+        1545.0,
+        1483.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the advance of a queenside pawn majority. Its aim is to promote a pawn to a",
+      "bbox": [
+        226.0,
+        1495.0,
+        1547.0,
+        1534.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queen, and such an advantage justifies the most generous surrender of material in",
+      "bbox": [
+        226.0,
+        1545.0,
+        1545.0,
+        1584.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "order to curb the attacker's forces.",
+      "bbox": [
+        227.0,
+        1596.0,
+        791.0,
+        1625.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7) Retaliation in the centre can have the features of sections '3' to '5' either",
+      "bbox": [
+        271.0,
+        1645.0,
+        1547.0,
+        1683.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "separately or combined. The following possibilities are particularly worth noting",
+      "bbox": [
+        227.0,
+        1696.0,
+        1545.0,
+        1735.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "here:",
+      "bbox": [
+        227.0,
+        1747.0,
+        306.0,
+        1776.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a) A central thrust demolishes or weakens the attacker's formation there and",
+      "bbox": [
+        272.0,
+        1797.0,
+        1546.0,
+        1834.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "prepares the ground for further operations by the defender, or it enables him to",
+      "bbox": [
+        226.0,
+        1848.0,
+        1547.0,
+        1888.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "transpose to direct defence 'via a turning manoeuvre' ;",
+      "bbox": [
+        227.0,
+        1900.0,
+        1124.0,
+        1938.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "b) The destruction of the pawn centre eliminates its auxiliary function with",
+      "bbox": [
+        272.0,
+        1950.0,
+        1547.0,
+        1989.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "regard to an attack on the castled king. For example, the disappearance of a pawn",
+      "bbox": [
+        226.0,
+        2001.0,
+        1547.0,
+        2039.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on e5 can also mean the end of an attack on the castled king, if the pawn is vital to",
+      "bbox": [
+        227.0,
+        2051.0,
+        1547.0,
+        2089.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a certain continuation;",
+      "bbox": [
+        227.0,
+        2101.0,
+        596.0,
+        2135.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "c) Because of the danger of a central thrust, many attackers at a suitable mo-",
+      "bbox": [
+        272.0,
+        2152.0,
+        1546.0,
+        2190.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ment deliberately create a blocked position in the centre. As a rule such a central",
+      "bbox": [
+        227.0,
+        2202.0,
+        1547.0,
+        2240.0
+      ],
+      "confidence": null
+    }
+  ]
+}

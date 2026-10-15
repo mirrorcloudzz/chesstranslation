@@ -1,0 +1,300 @@
+{
+  "pdf_page": 91,
+  "printed_page": 91,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        776.7,
+        119.8,
+        1005.8,
+        170.9
+      ],
+      "text": "Focal-points",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        1493.4,
+        123.5,
+        1546.1,
+        170.9
+      ],
+      "text": "91",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        262.2,
+        267.0,
+        1543.7,
+        318.1
+      ],
+      "text": "Here we have a straightforward example of the creation of a mating position",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        220.5,
+        318.1,
+        1542.5,
+        370.5
+      ],
+      "text": "by directing the queen and a pawn against the focal-point h7, followed by a typi-",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        219.3,
+        369.3,
+        991.1,
+        414.2
+      ],
+      "text": "cal new mate after the black king has escaped.",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        259.7,
+        414.2,
+        1513.1,
+        469.1
+      ],
+      "text": "1 xh7+ xh7 2 Wh5+ *g83 g6 e8 4 Wh7+ f8 5 Wh8+ e7 6 Wxg7#.",
+      "confidence": 0.9104
+    },
+    {
+      "bbox": [
+        526.8,
+        622.5,
+        552.5,
+        654.9
+      ],
+      "text": "B",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        258.5,
+        1120.2,
+        1541.2,
+        1171.4
+      ],
+      "text": "In this position Black aims to drive White's rook from f4 and then proceed",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        216.9,
+        1170.1,
+        1026.7,
+        1223.8
+      ],
+      "text": "with ...g3, creating a threat against h2. He plays:",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        261.0,
+        1222.5,
+        530.5,
+        1263.7
+      ],
+      "text": "1..e5 2 xe5",
+      "confidence": 0.9674
+    },
+    {
+      "bbox": [
+        254.8,
+        1268.7,
+        1542.5,
+        1323.6
+      ],
+      "text": "If 2 d4 xf4 3 Qxf4, Black continues 3..g3 4 Wf3 Wh2+ 5 f1 Wh1+ 6 e2",
+      "confidence": 0.951
+    },
+    {
+      "bbox": [
+        214.4,
+        1318.6,
+        1410.1,
+        1374.7
+      ],
+      "text": "f6 7 wxg3 g4+ 8 e3 c1+ 9 d3 Wf1+ 10 c2 xc4 and wins.",
+      "confidence": 0.9599
+    },
+    {
+      "bbox": [
+        254.8,
+        1371.0,
+        1541.2,
+        1423.4
+      ],
+      "text": "If 2 Wf3 xf4 3 Wxf4 We1+ 4 h2 (both 4 f1 h7 and 4 Wf1 Wxf1+ 5",
+      "confidence": 0.9542
+    },
+    {
+      "bbox": [
+        211.9,
+        1415.9,
+        1538.8,
+        1480.8
+      ],
+      "text": "xf1 h7 are in Black's favour) 4...f6! 5 xh8, Black wins by 5...g3+ 6 Wxg3",
+      "confidence": 0.9469
+    },
+    {
+      "bbox": [
+        210.7,
+        1468.3,
+        333.2,
+        1525.7
+      ],
+      "text": "Dg4+.",
+      "confidence": 0.9056
+    },
+    {
+      "bbox": [
+        257.3,
+        1524.4,
+        508.4,
+        1565.6
+      ],
+      "text": "2...dxe5 3 f7",
+      "confidence": 0.9566
+    },
+    {
+      "bbox": [
+        253.6,
+        1574.3,
+        1537.6,
+        1631.7
+      ],
+      "text": "If 3 f1, Black plays 3...0-0-0 and then ...g3, forcing mate. At once 3...g3",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        213.2,
+        1626.7,
+        1054.8,
+        1669.1
+      ],
+      "text": "would not be good because of 4 Qf7+ and 5 Wh5.",
+      "confidence": 0.9733
+    },
+    {
+      "bbox": [
+        256.1,
+        1675.4,
+        355.3,
+        1724.0
+      ],
+      "text": "3...g3",
+      "confidence": 0.9433
+    },
+    {
+      "bbox": [
+        254.8,
+        1726.5,
+        1537.6,
+        1778.9
+      ],
+      "text": "This move is now playable; indeed, it is obligatory, since after 3...0-0-0 4 d3",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        211.9,
+        1777.7,
+        1536.3,
+        1831.3
+      ],
+      "text": "g3 Black is a tempo behind with his attack; White then has the following defence,",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        207.0,
+        1823.8,
+        1540.0,
+        1882.4
+      ],
+      "text": "a characteristic one in such positions: 5 Qe3 Wh2+ 6 f1 Wh1+ 7 g1, and",
+      "confidence": 0.9757
+    },
+    {
+      "bbox": [
+        208.3,
+        1875.0,
+        804.9,
+        1931.1
+      ],
+      "text": "Black's attack has come to nothing.",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        253.6,
+        1924.9,
+        536.6,
+        1979.8
+      ],
+      "text": "4 Wf3 g4! (D)",
+      "confidence": 0.9434
+    },
+    {
+      "bbox": [
+        253.6,
+        1981.0,
+        1537.6,
+        2033.4
+      ],
+      "text": "A typical method of preparing the mating net; one should not check if this",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        213.2,
+        2030.9,
+        1537.6,
+        2085.8
+      ],
+      "text": "only simplifies the opponent's defence. It should be noted that checking at h2 and",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        208.3,
+        2080.8,
+        1537.6,
+        2135.7
+      ],
+      "text": "then h1 loses a tempo. Black's aim is to oblige the white king to move to fl of its",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        205.8,
+        2125.7,
+        1536.3,
+        2190.6
+      ],
+      "text": "own free will, and then give check with the queen directly at h1, without stopping",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        209.5,
+        2183.1,
+        308.7,
+        2223.0
+      ],
+      "text": "at h2.",
+      "confidence": 0.9982
+    }
+  ]
+}

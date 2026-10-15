@@ -1,0 +1,257 @@
+[
+  {
+    "figure": 1,
+    "source_pdf_page": 197,
+    "source_print_page": 195,
+    "crop_reference_1304x1920": [
+      140,
+      91,
+      540,
+      484
+    ],
+    "anchor": "10.0",
+    "caption": "拉斯克（白）对伯恩（黑），白方行棋",
+    "image": "figure-01.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 2,
+    "source_pdf_page": 197,
+    "source_print_page": 195,
+    "crop_reference_1304x1920": [
+      754,
+      1055,
+      1154,
+      1450
+    ],
+    "anchor": "18.1",
+    "caption": "白方走完41. Qf3后的局面",
+    "image": "figure-02.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 3,
+    "source_pdf_page": 198,
+    "source_print_page": 196,
+    "crop_reference_1304x1920": [
+      140,
+      757,
+      540,
+      1152
+    ],
+    "anchor": "28.0",
+    "caption": "拉斯克（白）对萨尔韦（黑），白方行棋",
+    "image": "figure-03.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 4,
+    "source_pdf_page": 198,
+    "source_print_page": 196,
+    "crop_reference_1304x1920": [
+      764,
+      759,
+      1163,
+      1153
+    ],
+    "anchor": "36.0",
+    "caption": "黑方走完27... Qe8后的局面",
+    "image": "figure-04.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 5,
+    "source_pdf_page": 200,
+    "source_print_page": 198,
+    "crop_reference_1304x1920": [
+      139,
+      342,
+      538,
+      736
+    ],
+    "anchor": "58.1",
+    "caption": "白方走完38. Rh4后的局面",
+    "image": "figure-05.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 6,
+    "source_pdf_page": 200,
+    "source_print_page": 198,
+    "crop_reference_1304x1920": [
+      763,
+      1043,
+      1161,
+      1435
+    ],
+    "anchor": "80.0",
+    "caption": "白方走完14. Bd3后的局面",
+    "image": "figure-06.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 7,
+    "source_pdf_page": 201,
+    "source_print_page": 199,
+    "crop_reference_1304x1920": [
+      767,
+      1348,
+      1166,
+      1740
+    ],
+    "anchor": "97.0",
+    "caption": "白方走完35. Ra3后的局面",
+    "image": "figure-07.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 8,
+    "source_pdf_page": 202,
+    "source_print_page": 200,
+    "crop_reference_1304x1920": [
+      748,
+      382,
+      1149,
+      774
+    ],
+    "anchor": "110.0",
+    "caption": "黑方走完56... Kg8后的局面",
+    "image": "figure-08.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 9,
+    "source_pdf_page": 203,
+    "source_print_page": 201,
+    "crop_reference_1304x1920": [
+      139,
+      881,
+      539,
+      1273
+    ],
+    "anchor": "126.0",
+    "caption": "黑方走完20... Qe7后的局面",
+    "image": "figure-09.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 10,
+    "source_pdf_page": 205,
+    "source_print_page": 203,
+    "crop_reference_1304x1920": [
+      140,
+      551,
+      539,
+      942
+    ],
+    "anchor": "151.0",
+    "caption": "黑方走完45... Re8后的局面",
+    "image": "figure-10.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 11,
+    "source_pdf_page": 205,
+    "source_print_page": 203,
+    "crop_reference_1304x1920": [
+      761,
+      1358,
+      1163,
+      1748
+    ],
+    "anchor": "174.0",
+    "caption": "黑方走完62... Qc5后的局面",
+    "image": "figure-11.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 12,
+    "source_pdf_page": 206,
+    "source_print_page": 204,
+    "crop_reference_1304x1920": [
+      140,
+      1301,
+      540,
+      1690
+    ],
+    "anchor": "180.0",
+    "caption": "布莱克本（白）对阿尔宾（黑），白方行棋",
+    "image": "figure-12.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 13,
+    "source_pdf_page": 207,
+    "source_print_page": 205,
+    "crop_reference_1304x1920": [
+      755,
+      309,
+      1155,
+      700
+    ],
+    "anchor": "197.0",
+    "caption": "白方走完82. Rb1后的局面",
+    "image": "figure-13.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 14,
+    "source_pdf_page": 210,
+    "source_print_page": 208,
+    "crop_reference_1304x1920": [
+      138,
+      1351,
+      538,
+      1745
+    ],
+    "anchor": "259.0",
+    "caption": "黑方走完29... Nb4后的局面",
+    "image": "figure-14.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 15,
+    "source_pdf_page": 212,
+    "source_print_page": 210,
+    "crop_reference_1304x1920": [
+      761,
+      1305,
+      1159,
+      1697
+    ],
+    "anchor": "291.0",
+    "caption": "白方走完17. Rh3?后的局面",
+    "image": "figure-15.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 16,
+    "source_pdf_page": 214,
+    "source_print_page": 212,
+    "crop_reference_1304x1920": [
+      746,
+      383,
+      1146,
+      775
+    ],
+    "anchor": "337.0",
+    "caption": "黑方走完10... O-O后的局面",
+    "image": "figure-16.png",
+    "status": "checked_against_source"
+  },
+  {
+    "figure": 17,
+    "source_pdf_page": 215,
+    "source_print_page": 213,
+    "crop_reference_1304x1920": [
+      759,
+      628,
+      1158,
+      1020
+    ],
+    "anchor": "356.0",
+    "caption": "白方走完18. a4后的局面",
+    "image": "figure-17.png",
+    "status": "checked_against_source"
+  }
+]

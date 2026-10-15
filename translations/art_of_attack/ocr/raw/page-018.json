@@ -1,0 +1,280 @@
+{
+  "pdf_page": 18,
+  "printed_page": 18,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        291.6,
+        117.3,
+        345.5,
+        162.2
+      ],
+      "text": "18",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        721.6,
+        119.8,
+        1222.7,
+        173.4
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        294.0,
+        264.5,
+        1613.5,
+        323.1
+      ],
+      "text": "g5 f5, and Black has defended himself successfully. 1 Ke2 would similarly",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        291.6,
+        314.4,
+        1618.4,
+        370.5
+      ],
+      "text": "be useless, while if 1 xe7+ xe7 2 f6 (or 2 We2 f6 and then ...f8), Black",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        290.4,
+        365.5,
+        1617.2,
+        424.1
+      ],
+      "text": "would still be able to maintain the balance by playing 2...d7 (3 We2 c6, etc.).",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        292.8,
+        417.9,
+        791.4,
+        466.6
+      ],
+      "text": "White's only correct move is:",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        330.8,
+        464.1,
+        458.2,
+        510.2
+      ],
+      "text": "1 f6!",
+      "confidence": 0.9723
+    },
+    {
+      "bbox": [
+        332.0,
+        517.7,
+        1612.3,
+        573.8
+      ],
+      "text": "In this way White not only prevents Black from castling but also stops him",
+      "confidence": 0.9693
+    },
+    {
+      "bbox": [
+        287.9,
+        567.6,
+        735.1,
+        617.5
+      ],
+      "text": "from countering with ...f6.",
+      "confidence": 0.9608
+    },
+    {
+      "bbox": [
+        328.3,
+        613.8,
+        1613.5,
+        674.9
+      ],
+      "text": "1...0-0 would be answered by 2 xe7 xe7 3 We2! e8 4 Wd2 h7 5 g5+",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        290.4,
+        666.2,
+        1244.7,
+        721.0
+      ],
+      "text": "g8 6 e6! fxe6 7 Wh6 f5 8 Wxg6+, and White wins.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        333.2,
+        717.3,
+        627.3,
+        762.2
+      ],
+      "text": "1...f8 2 xe7+!",
+      "confidence": 0.9617
+    },
+    {
+      "bbox": [
+        330.8,
+        769.7,
+        1611.1,
+        825.8
+      ],
+      "text": "A rook sacrifice of this type is often necessary if an attack along the e-file is to",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        285.5,
+        819.6,
+        1612.3,
+        875.7
+      ],
+      "text": "be forced home. It is essentially a question of freeing the square e1 for the second",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        284.2,
+        868.2,
+        1611.1,
+        928.1
+      ],
+      "text": "rook, while the first, in being sacrificed, eliminates one of the pieces defending",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        283.0,
+        909.4,
+        359.0,
+        961.8
+      ],
+      "text": "e7'.",
+      "confidence": 0.9009
+    },
+    {
+      "bbox": [
+        330.8,
+        966.8,
+        688.5,
+        1011.7
+      ],
+      "text": "2...xe7 3 We2 Wd7",
+      "confidence": 0.9751
+    },
+    {
+      "bbox": [
+        327.1,
+        1016.7,
+        1609.8,
+        1074.1
+      ],
+      "text": "If 3...d7, then 4 e1 e8 5 Wb5+ c8 6 Wc4 d5 7 We2 d7 8 e5+, and",
+      "confidence": 0.97
+    },
+    {
+      "bbox": [
+        285.5,
+        1070.3,
+        490.1,
+        1115.2
+      ],
+      "text": "White wins.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        328.3,
+        1119.0,
+        1146.7,
+        1171.4
+      ],
+      "text": "4 e1 We6 5 Wb5+ c6 6 Wxb7, and White wins.",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        329.6,
+        1221.3,
+        1606.2,
+        1279.9
+      ],
+      "text": "White's play in the following position (Ravinsky-Panov, Moscow 1943) is an",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        284.2,
+        1274.9,
+        1309.7,
+        1324.8
+      ],
+      "text": "excellent example of a well-conducted attack along the e-file.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        615.0,
+        1482.0,
+        650.6,
+        1515.7
+      ],
+      "text": "W",
+      "confidence": 0.9217
+    },
+    {
+      "bbox": [
+        276.9,
+        2093.3,
+        306.3,
+        2119.5
+      ],
+      "text": "1",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        338.1,
+        2085.8,
+        1597.6,
+        2145.7
+      ],
+      "text": " 2 Wd3! is even more convincing. Black can only prevent the deadly 3 xe7+",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        357.7,
+        2134.4,
+        1595.1,
+        2194.3
+      ],
+      "text": "xe7 4 e1 by 2...d7, but after 3 Wb5+ his position collapses immediately.",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        352.8,
+        2181.8,
+        1578.0,
+        2241.7
+      ],
+      "text": "In Vukovic's main line, 4..0-0-0 5 Qxe7 de8 would enable Black to fight on.",
+      "confidence": 0.975
+    }
+  ]
+}

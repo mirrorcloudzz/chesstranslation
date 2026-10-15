@@ -1,0 +1,390 @@
+{
+  "pdf_page": 294,
+  "printed_page": 294,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "294",
+      "bbox": [
+        223.0,
+        132.0,
+        287.0,
+        163.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        650.0,
+        132.0,
+        1145.0,
+        173.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position, being overburdened by obligations to cover squares on other parts of",
+      "bbox": [
+        221.0,
+        282.0,
+        1545.0,
+        324.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the board.",
+      "bbox": [
+        222.0,
+        332.0,
+        385.0,
+        362.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "These and similar preconditions should generally be fulfilled at the first or ini-",
+      "bbox": [
+        266.0,
+        383.0,
+        1540.0,
+        424.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tial phase of the attack, but it may also be that they can be created by force at this",
+      "bbox": [
+        222.0,
+        433.0,
+        1541.0,
+        474.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "stage, e.g. by the provocation of weaknesses.",
+      "bbox": [
+        222.0,
+        484.0,
+        966.0,
+        522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The second phase of an attack can follow a wide variety of courses. It may be a",
+      "bbox": [
+        268.0,
+        533.0,
+        1542.0,
+        575.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "question of a quick attack leading to mate, usually by means of a sacrifice, and in",
+      "bbox": [
+        221.0,
+        584.0,
+        1540.0,
+        624.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "this case it is naturally unimportant to talk of further preconditions. However, if",
+      "bbox": [
+        221.0,
+        634.0,
+        1544.0,
+        674.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the attack is slower or does not have an uncompromising character, the second",
+      "bbox": [
+        221.0,
+        684.0,
+        1540.0,
+        725.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "phase is usually concerned with the creation of further conditions as guarantees",
+      "bbox": [
+        220.0,
+        734.0,
+        1540.0,
+        776.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of success. The following are among the most important operations at this stage:",
+      "bbox": [
+        221.0,
+        784.0,
+        1538.0,
+        827.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the provocation of further weaknesses; the exclusion of one's opponent's coun-",
+      "bbox": [
+        220.0,
+        834.0,
+        1539.0,
+        876.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "terattack or its suppression; control of the centre; restraint against a central coun-",
+      "bbox": [
+        220.0,
+        885.0,
+        1539.0,
+        926.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ter-thrust by one's opponent, and so on.",
+      "bbox": [
+        220.0,
+        936.0,
+        875.0,
+        975.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The third phase of an attack is of course characterized by the execution, either",
+      "bbox": [
+        266.0,
+        986.0,
+        1540.0,
+        1028.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in the form of mate, of obtaining a decisive material advantage, or of being able",
+      "bbox": [
+        219.0,
+        1037.0,
+        1539.0,
+        1080.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to call off the actual attack on the king and obtain a positional advantage or fa-",
+      "bbox": [
+        219.0,
+        1087.0,
+        1538.0,
+        1130.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vourable ending.",
+      "bbox": [
+        219.0,
+        1137.0,
+        494.0,
+        1175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Types of commitment",
+      "bbox": [
+        217.0,
+        1241.0,
+        770.0,
+        1293.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "To the above-mentioned types of preconditions necessary for an attack there also",
+      "bbox": [
+        217.0,
+        1338.0,
+        1537.0,
+        1380.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "correspond various types of commitment which the attacker can, and indeed",
+      "bbox": [
+        217.0,
+        1389.0,
+        1537.0,
+        1429.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "must, enter on, if he is going to attack.",
+      "bbox": [
+        217.0,
+        1440.0,
+        853.0,
+        1479.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The commitments which correspond to the first phase are, of course, minor",
+      "bbox": [
+        261.0,
+        1490.0,
+        1537.0,
+        1532.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ones, usually a question of tempi. A player, for instance, spends a tempo improv-",
+      "bbox": [
+        216.0,
+        1541.0,
+        1535.0,
+        1586.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing his prospects for an eventual attack, transferring a piece from one side of the",
+      "bbox": [
+        216.0,
+        1591.0,
+        1536.0,
+        1634.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "board to the other or the like; admittedly, the degree of commitment involved is",
+      "bbox": [
+        216.0,
+        1641.0,
+        1536.0,
+        1684.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not great, but it can become significant if the attack on the king is never carried",
+      "bbox": [
+        216.0,
+        1692.0,
+        1536.0,
+        1736.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "out. It is natural that contemporary masters, in an era of precise opening play, aim",
+      "bbox": [
+        215.0,
+        1742.0,
+        1534.0,
+        1788.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "first of all at sound moves, which give nothing away to their opponents and con-",
+      "bbox": [
+        215.0,
+        1792.0,
+        1534.0,
+        1837.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "stantly strengthen their general positional build-up; the result of play according",
+      "bbox": [
+        215.0,
+        1843.0,
+        1534.0,
+        1890.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to this recipe on both sides is that a drawn position is reached. It should also be",
+      "bbox": [
+        214.0,
+        1894.0,
+        1534.0,
+        1936.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "said that Alekhine knew how to instil a little aggressiveness into his moves even",
+      "bbox": [
+        214.0,
+        1944.0,
+        1534.0,
+        1987.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in the opening and create some conditions for attack with a minimum of commit-",
+      "bbox": [
+        213.0,
+        1994.0,
+        1533.0,
+        2033.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ments. This is precisely where his skill lay, and it is this which is lacking in many",
+      "bbox": [
+        213.0,
+        2046.0,
+        1533.0,
+        2093.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "masters.",
+      "bbox": [
+        212.0,
+        2101.0,
+        347.0,
+        2126.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 and Kasparov!",
+      "bbox": [
+        216.0,
+        2199.0,
+        523.0,
+        2238.0
+      ],
+      "confidence": null
+    }
+  ]
+}

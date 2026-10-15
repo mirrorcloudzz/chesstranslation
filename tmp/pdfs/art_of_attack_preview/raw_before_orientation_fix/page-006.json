@@ -1,0 +1,110 @@
+{
+  "pdf_page": 6,
+  "printed_page": 6,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        66.2,
+        243.3,
+        1393.0,
+        295.7
+      ],
+      "text": "  n  s  s t    ",
+      "confidence": 0.5907
+    },
+    {
+      "bbox": [
+        64.9,
+        286.9,
+        1394.2,
+        353.0
+      ],
+      "text": "-o po am e   pe p s on se  ls e su sns ",
+      "confidence": 0.5171
+    },
+    {
+      "bbox": [
+        64.9,
+        545.1,
+        1391.8,
+        601.3
+      ],
+      "text": "-   p q n n si sn     sd s n  ",
+      "confidence": 0.5806
+    },
+    {
+      "bbox": [
+        62.5,
+        593.8,
+        1390.5,
+        653.7
+      ],
+      "text": "e  n  s    a  e   mg",
+      "confidence": 0.5151
+    },
+    {
+      "bbox": [
+        62.5,
+        644.9,
+        1390.5,
+        701.1
+      ],
+      "text": " d  e  e    s   s ",
+      "confidence": 0.5369
+    },
+    {
+      "bbox": [
+        60.0,
+        949.3,
+        1342.8,
+        1005.5
+      ],
+      "text": "     z    s     g",
+      "confidence": 0.5341
+    },
+    {
+      "bbox": [
+        56.4,
+        1101.5,
+        1389.3,
+        1157.7
+      ],
+      "text": "  m o     s n  nn ne s",
+      "confidence": 0.5769
+    },
+    {
+      "bbox": [
+        55.1,
+        1147.7,
+        1386.9,
+        1210.1
+      ],
+      "text": " snd   e nd    o d  ",
+      "confidence": 0.5185
+    },
+    {
+      "bbox": [
+        56.4,
+        1654.2,
+        1379.5,
+        1711.5
+      ],
+      "text": "    (  g    )   no si  ",
+      "confidence": 0.6354
+    },
+    {
+      "bbox": [
+        52.7,
+        1856.2,
+        1380.7,
+        1914.9
+      ],
+      "text": "d e s no ss - s i s i  't- e s rm ",
+      "confidence": 0.5021
+    }
+  ]
+}

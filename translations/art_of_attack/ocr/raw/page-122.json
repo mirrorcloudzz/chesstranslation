@@ -1,0 +1,290 @@
+{
+  "pdf_page": 122,
+  "printed_page": 122,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        280.6,
+        126.0,
+        355.3,
+        174.6
+      ],
+      "text": "122",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        709.4,
+        131.0,
+        1208.0,
+        175.9
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9787
+    },
+    {
+      "bbox": [
+        279.3,
+        270.7,
+        1607.4,
+        329.3
+      ],
+      "text": "xe6+ and 3..*f5 4 g4#) 3 Wh5 e8 (or 3...xg5 4 hxg5 f5 5 g6) 4 Wh7+ f8",
+      "confidence": 0.9424
+    },
+    {
+      "bbox": [
+        278.1,
+        324.3,
+        427.6,
+        369.3
+      ],
+      "text": "5 Wh8#.",
+      "confidence": 0.9536
+    },
+    {
+      "bbox": [
+        323.4,
+        430.4,
+        1604.9,
+        474.0
+      ],
+      "text": "Let us now consider the next, rather more natural, position, where the classic",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        281.8,
+        482.8,
+        753.5,
+        523.9
+      ],
+      "text": "sacrifice is again successful.",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        615.0,
+        683.6,
+        648.1,
+        716.1
+      ],
+      "text": "W",
+      "confidence": 0.7073
+    },
+    {
+      "bbox": [
+        322.2,
+        1178.9,
+        735.1,
+        1227.5
+      ],
+      "text": "1 Ωxh7+ $xh7 2 g5+",
+      "confidence": 0.887
+    },
+    {
+      "bbox": [
+        319.8,
+        1232.5,
+        1602.5,
+        1284.9
+      ],
+      "text": "Here, as in other examples of the classic bishop sacrifice, there are three main",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        275.7,
+        1284.9,
+        1602.5,
+        1334.8
+      ],
+      "text": "variations arising from the sacrifice, i.e. those beginning with ...g8, ...h6,",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        279.3,
+        1333.6,
+        1601.3,
+        1386.0
+      ],
+      "text": "and ..g6. These three variations must be carefully examined on every occa-",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        276.9,
+        1386.0,
+        1600.0,
+        1433.4
+      ],
+      "text": "sion, for if any one of them contains a loophole, the whole combination falls to",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        279.3,
+        1437.1,
+        468.0,
+        1475.8
+      ],
+      "text": "the ground.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        321.0,
+        1485.7,
+        730.2,
+        1530.7
+      ],
+      "text": "1) variation with ...g8",
+      "confidence": 0.9715
+    },
+    {
+      "bbox": [
+        318.5,
+        1533.2,
+        1601.3,
+        1583.1
+      ],
+      "text": "2...*g8 3 Wh5 e8 4 Wxf7+ h8 5 Wh5+ g8 6 Wh7+ f8 7 Wh8+ e7 8",
+      "confidence": 0.9367
+    },
+    {
+      "bbox": [
+        274.4,
+        1580.6,
+        409.2,
+        1635.4
+      ],
+      "text": "Wxg7#.",
+      "confidence": 0.9259
+    },
+    {
+      "bbox": [
+        317.3,
+        1636.7,
+        1598.8,
+        1690.3
+      ],
+      "text": "This variation contains, as its main feature, a typical example of an attack us-",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        273.2,
+        1687.8,
+        1601.3,
+        1741.5
+      ],
+      "text": "ing h7 and f7 as secondary focal-points with the queen finally mating on g7, a",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        273.2,
+        1742.7,
+        1004.6,
+        1783.9
+      ],
+      "text": "common enough pattern after this sacrifice.",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        318.5,
+        1788.9,
+        729.0,
+        1832.5
+      ],
+      "text": "2) variation with ...h6",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        318.5,
+        1835.0,
+        907.8,
+        1883.7
+      ],
+      "text": "2...h6 3 xe6+ and 4 xd8, etc.",
+      "confidence": 0.9777
+    },
+    {
+      "bbox": [
+        318.5,
+        1889.9,
+        1598.8,
+        1941.1
+      ],
+      "text": "This naturally succeeds because Black's queen is on d8, but even with the",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        270.8,
+        1937.3,
+        1601.3,
+        1996.0
+      ],
+      "text": "queen on a5 the move 2...h6 would have no prospects. In that case White would",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        272.0,
+        1987.2,
+        1571.9,
+        2043.4
+      ],
+      "text": "win by, e.g. 3 Wg4 h8 (otherwise Wh4+ and Wh7#) 4 xe6+ and 5 Wxg7#.",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        316.1,
+        2038.4,
+        729.0,
+        2088.3
+      ],
+      "text": "3) variation with ..g6",
+      "confidence": 0.9575
+    },
+    {
+      "bbox": [
+        318.5,
+        2090.8,
+        539.1,
+        2136.9
+      ],
+      "text": "2...g6 3 h4",
+      "confidence": 0.9362
+    },
+    {
+      "bbox": [
+        314.9,
+        2141.9,
+        1593.9,
+        2196.8
+      ],
+      "text": "This is the strongest move here; in other cases ...g6 may be best met by Wg4.",
+      "confidence": 0.9777
+    },
+    {
+      "bbox": [
+        273.2,
+        2194.3,
+        662.8,
+        2239.2
+      ],
+      "text": "Black's reply is forced.",
+      "confidence": 0.98
+    }
+  ]
+}

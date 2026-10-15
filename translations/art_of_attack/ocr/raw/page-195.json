@@ -1,0 +1,170 @@
+{
+  "pdf_page": 195,
+  "printed_page": 195,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Pieces and pawns in the attack on the castled king",
+      "bbox": [
+        412.0,
+        126.0,
+        1361.0,
+        167.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "195",
+      "bbox": [
+        1478.0,
+        128.0,
+        1535.0,
+        159.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from a correspondence game between Luprecht and Schulz",
+      "bbox": [
+        261.0,
+        877.0,
+        1535.0,
+        917.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "played in the United States in 1946. Here it is a question of removing Black's",
+      "bbox": [
+        215.0,
+        927.0,
+        1534.0,
+        968.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawns on a7 and b7 from in front of the king. If these pawns did not exist, a",
+      "bbox": [
+        215.0,
+        978.0,
+        1536.0,
+        1018.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "build-up with a rook on bl and a queen on e3 would give White an irresistible",
+      "bbox": [
+        216.0,
+        1028.0,
+        1534.0,
+        1068.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "mating attack. The solution is therefore simple.",
+      "bbox": [
+        215.0,
+        1078.0,
+        997.0,
+        1117.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Axa7+ 2 ve3+",
+      "bbox": [
+        263.0,
+        1123.0,
+        659.0,
+        1158.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "First, the queen is brought nearer with gain of tempo and then the second pawn",
+      "bbox": [
+        260.0,
+        1178.0,
+        1534.0,
+        1220.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is annihilated.",
+      "bbox": [
+        215.0,
+        1228.0,
+        445.0,
+        1257.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...#b8 3 Xxb7+ #xb7 4 Äbl+",
+      "bbox": [
+        260.0,
+        1273.0,
+        796.0,
+        1309.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 4...#c8 5 Va7, when either the queen mates at b7 or the rook at b8. Mate is",
+      "bbox": [
+        260.0,
+        1323.0,
+        1532.0,
+        1369.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "also inevitable after 4...#a8 5 Vb6.",
+      "bbox": [
+        214.0,
+        1375.0,
+        804.0,
+        1410.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 Vb6+ Éd6 6 c5+ 7 Vb3#",
+      "bbox": [
+        259.0,
+        1424.0,
+        816.0,
+        1461.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A more complex instance of a double destructive sacrifice is provided by the",
+      "bbox": [
+        254.0,
+        2138.0,
+        1529.0,
+        2181.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "finish to the game Lilienthal-Najdorf, which was awarded the First Brilliancy",
+      "bbox": [
+        210.0,
+        2187.0,
+        1529.0,
+        2232.0
+      ],
+      "confidence": null
+    }
+  ]
+}

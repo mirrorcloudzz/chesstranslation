@@ -1,0 +1,380 @@
+{
+  "pdf_page": 258,
+  "printed_page": 258,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "258",
+      "bbox": [
+        298.0,
+        107.0,
+        360.0,
+        139.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        726.0,
+        115.0,
+        1221.0,
+        157.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24 Äf7 25 Xbl Vf8 26 Ae2 27 Ah5 Äe7 28 va2 Vd8 29 Ad2 Qa4",
+      "bbox": [
+        340.0,
+        256.0,
+        1615.0,
+        309.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "30 Vb3 Qb6 31 a4!",
+      "bbox": [
+        294.0,
+        302.0,
+        633.0,
+        342.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "It is an irony of fate that Black's wandering king can be reached by an attack",
+      "bbox": [
+        339.0,
+        358.0,
+        1614.0,
+        415.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "on the queenside too! If he now plays 31...Axa4, there follows 32 Va2 Ad7 (or",
+      "bbox": [
+        293.0,
+        409.0,
+        1613.0,
+        465.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "32...Vd7 33 Xxb6 axb6 34 Adl) 33 Qe6 Axe6 34 dxe6, and Black has no reply",
+      "bbox": [
+        293.0,
+        453.0,
+        1611.0,
+        518.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to If 7 and Axg8.",
+      "bbox": [
+        292.0,
+        504.0,
+        593.0,
+        550.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "31...Xb8 32 as Qc8 33 Va2 Vf8 34 Ae3 b6 35 a6",
+      "bbox": [
+        335.0,
+        557.0,
+        1188.0,
+        602.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black, who has been 'breathing through his gills' for a long time already, is",
+      "bbox": [
+        334.0,
+        610.0,
+        1608.0,
+        668.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "now left with only his queen to move.",
+      "bbox": [
+        289.0,
+        661.0,
+        914.0,
+        704.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "35...Vd8 36 Éd2 Vf8 37 Zb2 Vd8 38 Vbl b5",
+      "bbox": [
+        332.0,
+        706.0,
+        1129.0,
+        753.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "At last he has had enough! Any further passive play would have permitted",
+      "bbox": [
+        331.0,
+        761.0,
+        1606.0,
+        819.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White to organize a winning breakthrough on the g-file.",
+      "bbox": [
+        285.0,
+        810.0,
+        1211.0,
+        862.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "39 cxb5 Qb6 40 va2 c4 41 Va3 vc7 42 Äf8 43 Xbg2 Vb8 44 Vb4",
+      "bbox": [
+        330.0,
+        858.0,
+        1604.0,
+        916.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Äd8 45 zg3 xn 46 Axe6",
+      "bbox": [
+        283.0,
+        907.0,
+        811.0,
+        951.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 46...Äc8 47 Axb6 axb6 48 a7! and Black loses his knight or is mated.",
+      "bbox": [
+        328.0,
+        960.0,
+        1542.0,
+        1017.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "47 dxe6 xc7",
+      "bbox": [
+        326.0,
+        1011.0,
+        540.0,
+        1044.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Otherwise Af7 is decisive.",
+      "bbox": [
+        326.0,
+        1061.0,
+        770.0,
+        1100.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "48 vxd6 49 Adl 1-0",
+      "bbox": [
+        324.0,
+        1109.0,
+        764.0,
+        1150.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "49...Qbc8 could be answered by 50 Vb4 Qb6 51 Xg7 Qbc8 52 Äd7, etc.",
+      "bbox": [
+        323.0,
+        1159.0,
+        1548.0,
+        1219.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Pawn majority on the wing",
+      "bbox": [
+        279.0,
+        1268.0,
+        961.0,
+        1332.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Passing now to the theme of indirect defence, we first of all examine a counterat-",
+      "bbox": [
+        275.0,
+        1363.0,
+        1593.0,
+        1418.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack by means of a pawn majority on the queenside. An analysis of a classic mas-",
+      "bbox": [
+        274.0,
+        1415.0,
+        1592.0,
+        1471.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "terpiece will be helpful here.",
+      "bbox": [
+        273.0,
+        1466.0,
+        747.0,
+        1509.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Pillsbury - Tarrasch",
+      "bbox": [
+        744.0,
+        1572.0,
+        1116.0,
+        1615.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Hastings, 1895",
+      "bbox": [
+        802.0,
+        1627.0,
+        1054.0,
+        1666.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Queen's Gambit Declined, Orthodox Defence",
+      "bbox": [
+        549.0,
+        1673.0,
+        1308.0,
+        1716.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 d4 d5 2 c4 e6 3 Qc3 Qf6 4 Ag5 Ae7 5 Qf3 Obd7 6 0-0 7 e3",
+      "bbox": [
+        269.0,
+        1768.0,
+        1416.0,
+        1820.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "These days it is considered more accurate to play ...b6 before committing the",
+      "bbox": [
+        311.0,
+        1820.0,
+        1585.0,
+        1882.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "b8-knight to d7.",
+      "bbox": [
+        265.0,
+        1870.0,
+        529.0,
+        1910.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 cxd5 exd5 9 Ad3 Abi 10 0-0 c5 11 zel?!",
+      "bbox": [
+        309.0,
+        1921.0,
+        1058.0,
+        1965.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "A move which does not belong to the system and only wastes time. At this",
+      "bbox": [
+        308.0,
+        1972.0,
+        1582.0,
+        2028.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "point Pillsbury usually played II Qe5 and his opponents allowed him to",
+      "bbox": [
+        261.0,
+        2022.0,
+        1582.0,
+        2077.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "strengthen the position of his knight by f4. Marco later showed that after I I Qe5",
+      "bbox": [
+        261.0,
+        2073.0,
+        1579.0,
+        2127.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "one should play II...Qxe5 12 dxe5 Qe8 13 Af4 g6 14 Ah6 Qg7 15 f4 d4! an-",
+      "bbox": [
+        260.0,
+        2123.0,
+        1579.0,
+        2181.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "swering 16 f5 with 16...Ag5.",
+      "bbox": [
+        259.0,
+        2173.0,
+        741.0,
+        2219.0
+      ],
+      "confidence": null
+    }
+  ]
+}

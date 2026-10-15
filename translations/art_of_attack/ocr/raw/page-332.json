@@ -1,0 +1,300 @@
+{
+  "pdf_page": 332,
+  "printed_page": 332,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "332",
+      "bbox": [
+        234.0,
+        135.0,
+        296.0,
+        166.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        660.0,
+        140.0,
+        1155.0,
+        181.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "strong pressure on the focal-point h7, and it seems that the end must come",
+      "bbox": [
+        225.0,
+        892.0,
+        1544.0,
+        934.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "quickly. However, appearances are deceptive, for there is no mate and Black can",
+      "bbox": [
+        223.0,
+        939.0,
+        1543.0,
+        985.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "escape into an ending in which he can continue to resist.",
+      "bbox": [
+        223.0,
+        991.0,
+        1157.0,
+        1031.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Thus, after 1 Ah7+ 2 Ag6+ 3 axf7+ Vxf7 4 Oxf7 •xn, White",
+      "bbox": [
+        267.0,
+        1038.0,
+        1542.0,
+        1089.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "runs out of checks and is unable to prevent Black from posting his rook on d7, af-",
+      "bbox": [
+        221.0,
+        1092.0,
+        1540.0,
+        1141.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ter which it is not at all clear how White can win.",
+      "bbox": [
+        221.0,
+        1141.0,
+        1037.0,
+        1180.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Another possibility is I Oh7, and this leads to even greater material gains;",
+      "bbox": [
+        265.0,
+        1191.0,
+        1538.0,
+        1245.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black is obliged to play I ...Qe4 ! , but after 2 Axe4 dxe4 3 Qf6+ Vxf6 4 Vxf6 e3",
+      "bbox": [
+        220.0,
+        1241.0,
+        1537.0,
+        1288.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the black pawn forces White's queen to retire, e.g. 5 Vfl (or 5 Vg5+ Éf8) 5...e2",
+      "bbox": [
+        219.0,
+        1291.0,
+        1538.0,
+        1344.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6 Vel #f8, and White can hardly count on victory.",
+      "bbox": [
+        218.0,
+        1336.0,
+        1070.0,
+        1390.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Here we have, as a start, two ways in which the position resolves itself into an",
+      "bbox": [
+        263.0,
+        1392.0,
+        1537.0,
+        1441.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ending; the further analysis of the position should soon convince the reader that",
+      "bbox": [
+        216.0,
+        1443.0,
+        1537.0,
+        1490.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "at every move there is a variety of possible simplifying lines, most of which lead",
+      "bbox": [
+        216.0,
+        1496.0,
+        1536.0,
+        1544.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to different types of endings.",
+      "bbox": [
+        215.0,
+        1545.0,
+        691.0,
+        1588.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The winning process for White is based on the gradual preparation of the",
+      "bbox": [
+        259.0,
+        1595.0,
+        1534.0,
+        1650.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawn structure on the queenside in readiness for the transition into an ending. In",
+      "bbox": [
+        210.0,
+        1649.0,
+        1534.0,
+        1701.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "this two factors are decisive: the first is that, besides his knight on f6, Black's",
+      "bbox": [
+        213.0,
+        1695.0,
+        1533.0,
+        1748.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queen is also immobilized since it cannot move from e7 because of the need to",
+      "bbox": [
+        212.0,
+        1747.0,
+        1533.0,
+        1794.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cover the squares f7 and f6; the second is that Black's pawns are also condemned",
+      "bbox": [
+        211.0,
+        1797.0,
+        1532.0,
+        1847.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "to stay where they are. Any move on their part leads to Black's losing in the end-",
+      "bbox": [
+        211.0,
+        1849.0,
+        1530.0,
+        1901.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "game after the manoeuvre Ah7+, Ag6+ and Axf7+. Accordingly, Black may",
+      "bbox": [
+        210.0,
+        1898.0,
+        1530.0,
+        1955.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "only move his rook up and down, and even then he is denied the use of the square",
+      "bbox": [
+        210.0,
+        1948.0,
+        1530.0,
+        2005.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "f8 because of Qh7. Now for the analysis:",
+      "bbox": [
+        209.0,
+        1996.0,
+        894.0,
+        2045.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 c4! Xd8",
+      "bbox": [
+        255.0,
+        2047.0,
+        420.0,
+        2081.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Forced; White threatened 2 cxd5 cxd5 3 Ah7+ 4 Ae4+ •g8 5 Axd5 Äf8",
+      "bbox": [
+        253.0,
+        2100.0,
+        1526.0,
+        2154.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6 Vg6+ 7 Axf7. If l...dxc4, then 2 Ah7+ followed by 3 Ad3+ and 4 Axc4",
+      "bbox": [
+        207.0,
+        2145.0,
+        1527.0,
+        2202.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "wins in the same way.",
+      "bbox": [
+        206.0,
+        2201.0,
+        569.0,
+        2243.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "pdf_page": 179,
+  "printed_page": 179,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "Ranks, files and diagonals in the attack on the castled king 179",
+      "bbox": [
+        359.0,
+        139.0,
+        1561.0,
+        180.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7 Axf6 hxg5 8 Ae5",
+      "bbox": [
+        288.0,
+        283.0,
+        621.0,
+        325.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "By threatening Ac7, White installs his bishop with gain of tempo at e5, a",
+      "bbox": [
+        289.0,
+        333.0,
+        1564.0,
+        376.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "square that is now firmly under his control. His next intention is to play Vb2, af-",
+      "bbox": [
+        244.0,
+        382.0,
+        1561.0,
+        427.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ter which the bishop's whole manoeuvre takes on the purpose of clearing the di-",
+      "bbox": [
+        243.0,
+        438.0,
+        1562.0,
+        477.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "agonal.",
+      "bbox": [
+        244.0,
+        490.0,
+        361.0,
+        527.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8...Vc8 9 Vb2 dxc4",
+      "bbox": [
+        289.0,
+        534.0,
+        630.0,
+        568.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 9...f6, which the tournament book (by Euwe and Kmoch) considers correct,",
+      "bbox": [
+        289.0,
+        588.0,
+        1562.0,
+        626.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White wins a pawn: 10 Ad6 Xe8 (or 10...Vd7 II Ac7 Xa6 12 Af3, etc.) II",
+      "bbox": [
+        244.0,
+        633.0,
+        1558.0,
+        677.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axe7 Xxe7 12 Qd6 Vc6 13 Qxb7 Äxb7 14 cxd5 exd5 15 Xxd5, and Black is in",
+      "bbox": [
+        243.0,
+        684.0,
+        1563.0,
+        722.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "difficulties on a fresh diagonal (a2-g8).",
+      "bbox": [
+        244.0,
+        739.0,
+        890.0,
+        778.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10 Axc4",
+      "bbox": [
+        291.0,
+        786.0,
+        435.0,
+        821.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Not 10 Axg7? because of 10...Vc6.",
+      "bbox": [
+        289.0,
+        835.0,
+        882.0,
+        879.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10...Vc6 11 f3 (D)",
+      "bbox": [
+        291.0,
+        886.0,
+        602.0,
+        927.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11...Aa6",
+      "bbox": [
+        291.0,
+        1593.0,
+        437.0,
+        1627.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The tournament book gives this a question mark and suggests I l...f6; how-",
+      "bbox": [
+        288.0,
+        1649.0,
+        1561.0,
+        1687.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ever, after 12 Ad6 Xfe8 13 b4 Qa4 14 Vb3 15 Axe7 Black loses his e-",
+      "bbox": [
+        243.0,
+        1693.0,
+        1562.0,
+        1733.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "pawn.",
+      "bbox": [
+        242.0,
+        1758.0,
+        339.0,
+        1787.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12 Qd4",
+      "bbox": [
+        290.0,
+        1794.0,
+        418.0,
+        1829.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Making use of the other square Black surrendered with l...Qxc5?. White has",
+      "bbox": [
+        288.0,
+        1846.0,
+        1562.0,
+        1889.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "now created a battery consisting of queen and knight.",
+      "bbox": [
+        243.0,
+        1901.0,
+        1127.0,
+        1940.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "12...Vb7 13 Axa6 Äxa6 14 Axg7!",
+      "bbox": [
+        290.0,
+        1946.0,
+        875.0,
+        1990.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The various operations on the diagonal are concluded by a bishop sacrifice,",
+      "bbox": [
+        287.0,
+        2003.0,
+        1561.0,
+        2043.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "the aim of which is to lure the king into the line of fire. Black did not submit to",
+      "bbox": [
+        243.0,
+        2053.0,
+        1562.0,
+        2092.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...Qce4 is perhaps the most sensible. Black blocks the bl-h7 diagonal without",
+      "bbox": [
+        325.0,
+        2154.0,
+        1563.0,
+        2197.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1",
+      "bbox": [
+        247.0,
+        2158.0,
+        257.0,
+        2187.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "creating a further weakness on the kingside.",
+      "bbox": [
+        325.0,
+        2208.0,
+        1017.0,
+        2245.0
+      ],
+      "confidence": null
+    }
+  ]
+}

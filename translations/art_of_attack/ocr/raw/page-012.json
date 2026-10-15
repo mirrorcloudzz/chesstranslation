@@ -1,0 +1,420 @@
+{
+  "pdf_page": 12,
+  "printed_page": 12,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        289.1,
+        121.0,
+        339.4,
+        163.4
+      ],
+      "text": "12",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        719.2,
+        124.7,
+        1219.0,
+        173.4
+      ],
+      "text": "The Art of Attack in Chess.",
+      "confidence": 0.9327
+    },
+    {
+      "bbox": [
+        334.5,
+        270.7,
+        1197.0,
+        321.8
+      ],
+      "text": "Where does the risk attached to a mating attack lie?",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        334.5,
+        321.8,
+        1607.4,
+        378.0
+      ],
+      "text": "About which points are the minds of players today still unclear with respect to",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        289.1,
+        373.0,
+        778.0,
+        417.9
+      ],
+      "text": "carrying out a mating attack?",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        330.8,
+        421.6,
+        1609.8,
+        477.8
+      ],
+      "text": "The relationship between these questions can be easily perceived, although",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        286.7,
+        472.8,
+        1608.6,
+        528.9
+      ],
+      "text": "they are posed separately. A separate reply, however, cannot be given to each,",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        285.5,
+        522.7,
+        1249.6,
+        573.8
+      ],
+      "text": "and an attempt must be made to answer them collectively.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        328.3,
+        567.6,
+        1611.1,
+        630.0
+      ],
+      "text": "Mate is the final aim and crowning achievement of the contest and the mating",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        284.2,
+        620.0,
+        1607.4,
+        678.6
+      ],
+      "text": "attack is the ultimate operation in relation to all the rest, which are only contribu-",
+      "confidence": 0.974
+    },
+    {
+      "bbox": [
+        284.2,
+        672.4,
+        1612.3,
+        729.8
+      ],
+      "text": "tory. Consequently, the mating attack demands more preconditions than other",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        284.2,
+        722.3,
+        1607.4,
+        779.7
+      ],
+      "text": "operations. There exist a number of definite preconditions for a mating attack,",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        284.2,
+        773.4,
+        1611.1,
+        830.8
+      ],
+      "text": "and these combine to require a considerable degree of superiority on the part of",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        281.8,
+        822.1,
+        1609.8,
+        882.0
+      ],
+      "text": "the attacker. In the case where he has abundant superiority, great knowledge and",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        285.5,
+        872.0,
+        1607.4,
+        931.9
+      ],
+      "text": "ability on the part of the attacker are not necessary, but if his superiority just bor-",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        283.0,
+        923.1,
+        1607.4,
+        979.3
+      ],
+      "text": "ders on what would justify a correct attack, then the maximum skill is also re-",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        283.0,
+        971.8,
+        1608.6,
+        1032.9
+      ],
+      "text": "quired in carrying out the attack. The Romantics knew little, but they had great",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        281.8,
+        1022.9,
+        1606.2,
+        1080.3
+      ],
+      "text": "confidence in themselves; the first small increase in knowledge diverted their",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        281.8,
+        1071.6,
+        1608.6,
+        1134.0
+      ],
+      "text": "style from its course. The new formula, still accepted today, is: carry out a series",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        284.2,
+        1124.0,
+        1606.2,
+        1182.6
+      ],
+      "text": "of preliminary operations, which require only a smaller degree of advantage, and",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        281.8,
+        1173.9,
+        1602.5,
+        1232.5
+      ],
+      "text": "then you will attain the abundant superiority which facilitates a mating attack.",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        278.1,
+        1220.0,
+        1607.4,
+        1286.2
+      ],
+      "text": "However the consequence of this is that there has been a failure to exploit the art",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        279.3,
+        1276.2,
+        1600.0,
+        1331.1
+      ],
+      "text": "of attack to the full and masters have been over-inclined to see a risk in an attack.",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        275.7,
+        1324.8,
+        1602.5,
+        1383.5
+      ],
+      "text": "It is still not clear what the minimum preconditions are, or what kind of advan-",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        279.3,
+        1378.5,
+        1601.3,
+        1434.6
+      ],
+      "text": "tage is necessary, for a mating attack. It may be a question, for example, of a sin-",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        278.1,
+        1428.4,
+        1602.5,
+        1484.5
+      ],
+      "text": "gle moment in a game which never returns. Another still unresolved question is",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        275.7,
+        1477.0,
+        1601.3,
+        1538.1
+      ],
+      "text": "that of a player's skill in weighing up the obligations which he has undertaken",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        278.1,
+        1528.2,
+        1602.5,
+        1588.0
+      ],
+      "text": "when preparing for an attack. The order of his preparatory moves is extraordi-",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        275.7,
+        1580.6,
+        1601.3,
+        1636.7
+      ],
+      "text": "narily important. The only really simple thing is the principle itself - that moves",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        274.4,
+        1629.2,
+        1601.3,
+        1686.6
+      ],
+      "text": "entailing fewer obligations should be carried out before those which are more",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        272.0,
+        1677.9,
+        1602.5,
+        1740.2
+      ],
+      "text": "strongly binding. Putting this principle into practice, however, demands great",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        272.0,
+        1726.5,
+        1600.0,
+        1790.1
+      ],
+      "text": "skill of a kind which is very rare - it was fully possessed by Capablanca and",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        273.2,
+        1778.9,
+        752.2,
+        1827.6
+      ],
+      "text": "Alekhine, but by few others.",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        316.1,
+        1828.8,
+        1596.4,
+        1892.4
+      ],
+      "text": "A few more words should be said about the kind of superiority which is neces-",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        270.8,
+        1882.4,
+        1597.6,
+        1939.8
+      ],
+      "text": "sary before a mating attack can be undertaken. We are interested in the case",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        270.8,
+        1931.1,
+        1597.6,
+        1992.2
+      ],
+      "text": "where the advantage is not one of material but of position and time. The attacker",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        268.3,
+        1981.0,
+        1596.4,
+        2043.4
+      ],
+      "text": "is, as a rule, stronger in the area where the attack takes place by virtue of his ma-",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        269.5,
+        2032.1,
+        1593.9,
+        2093.3
+      ],
+      "text": "terial preponderance there, but his superiority in this respect must be consider-",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        269.5,
+        2083.3,
+        1596.4,
+        2143.2
+      ],
+      "text": "able. Even a simple pattern with the queen mating from the focal-point needs at",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        267.1,
+        2133.2,
+        1593.9,
+        2194.3
+      ],
+      "text": "least one other piece to cover the focal-point, which already means an advantage",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        267.1,
+        2181.8,
+        1593.9,
+        2245.5
+      ],
+      "text": "of two pieces against a lone king. For such pieces to be brought into the attack,",
+      "confidence": 0.9931
+    }
+  ]
+}

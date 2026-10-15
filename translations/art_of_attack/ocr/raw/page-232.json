@@ -1,0 +1,290 @@
+{
+  "pdf_page": 232,
+  "printed_page": 232,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "232",
+      "bbox": [
+        269.0,
+        124.0,
+        332.0,
+        155.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        697.0,
+        129.0,
+        1192.0,
+        170.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "bishop the castled position becomes weak and vulnerable and the squares previ-",
+      "bbox": [
+        268.0,
+        274.0,
+        1586.0,
+        326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ously covered by the bishop form a typically weak network.",
+      "bbox": [
+        267.0,
+        324.0,
+        1263.0,
+        370.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Naturally, an attack on the fianchettoed king position is generally directed",
+      "bbox": [
+        311.0,
+        374.0,
+        1586.0,
+        426.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "against these weak spots, and consequently, the assault by the h-pawn and ac-",
+      "bbox": [
+        266.0,
+        425.0,
+        1584.0,
+        475.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tions aimed at the exchange of the fianchettoed bishop are the principal weapons",
+      "bbox": [
+        265.0,
+        474.0,
+        1584.0,
+        528.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in the attack against such a position.",
+      "bbox": [
+        264.0,
+        524.0,
+        863.0,
+        567.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "First, we shall give simple examples of two typical operations: namely, the",
+      "bbox": [
+        308.0,
+        575.0,
+        1583.0,
+        627.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "elimination of the fianchettoed bishop and the breaking up of the pawn structure",
+      "bbox": [
+        263.0,
+        624.0,
+        1583.0,
+        675.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in front of it.",
+      "bbox": [
+        262.0,
+        675.0,
+        472.0,
+        706.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "X VXåé",
+      "bbox": [
+        814.0,
+        803.0,
+        1128.0,
+        864.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The first position is from the game Richter-Abramavicius, Hamburg 1930. It",
+      "bbox": [
+        297.0,
+        1380.0,
+        1572.0,
+        1435.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is White's move, and he sacrifices both his rooks for the fianchettoed bishop in",
+      "bbox": [
+        252.0,
+        1430.0,
+        1571.0,
+        1487.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "order to be able to conclude the game by an attack on the weakened dark-square",
+      "bbox": [
+        251.0,
+        1481.0,
+        1570.0,
+        1537.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "network.",
+      "bbox": [
+        251.0,
+        1533.0,
+        393.0,
+        1562.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Xh8+ Axh8 2 Xxh8+ •xh8 3 Vhl+ Qh7 4 Qf6",
+      "bbox": [
+        297.0,
+        1579.0,
+        1154.0,
+        1624.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 4...Vxf6 5 gxf6 Axd3 6 Vh6 Xxc2+ 7 Édl Xg8 8 ag5 and mates.",
+      "bbox": [
+        294.0,
+        1628.0,
+        1471.0,
+        1685.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5 Vh6+ 1-0",
+      "bbox": [
+        293.0,
+        1678.0,
+        494.0,
+        1715.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The following position occurred in the game Szilagyi-Szabo, Budapest 1946.",
+      "bbox": [
+        291.0,
+        1784.0,
+        1565.0,
+        1839.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black, to move, broke up the pawn chain h2-g3 by a sacrifice and proceeded to",
+      "bbox": [
+        246.0,
+        1834.0,
+        1566.0,
+        1889.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "decide the game on a network of squares of the opposite colour to that of the",
+      "bbox": [
+        245.0,
+        1885.0,
+        1565.0,
+        1936.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fianchettoed bishop.",
+      "bbox": [
+        245.0,
+        1936.0,
+        578.0,
+        1979.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Äxh2! 2 •xh2 Qg4+ 3 egl Axg3 4 Xe2",
+      "bbox": [
+        291.0,
+        1984.0,
+        1039.0,
+        2034.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White loses, whatever the continuation, because of his weakness on the corre-",
+      "bbox": [
+        288.0,
+        2038.0,
+        1562.0,
+        2087.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sponding focal-points h2 and n. Mate can be postponed only by a severe 'letting",
+      "bbox": [
+        243.0,
+        2088.0,
+        1562.0,
+        2146.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "of blood'. After 4 Qf3 exf3 5 Axf3 Vh4 6 Äe2 Af2+ 7 •f I Qh2+ 8 Vg3+",
+      "bbox": [
+        242.0,
+        2136.0,
+        1562.0,
+        2195.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9 Vxf3+ Black still mates with 10...Vg3+ and 11...Vh3#.",
+      "bbox": [
+        241.0,
+        2183.0,
+        1295.0,
+        2236.0
+      ],
+      "confidence": null
+    }
+  ]
+}

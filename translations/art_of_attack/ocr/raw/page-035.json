@@ -1,0 +1,310 @@
+{
+  "pdf_page": 35,
+  "printed_page": 35,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        374.9,
+        128.5,
+        1394.2,
+        172.2
+      ],
+      "text": "The attack on the king that has lost the right to castle",
+      "confidence": 0.9829
+    },
+    {
+      "bbox": [
+        1482.4,
+        127.2,
+        1541.2,
+        172.2
+      ],
+      "text": "35",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        257.3,
+        272.0,
+        523.1,
+        323.1
+      ],
+      "text": "18...xg5? (D)",
+      "confidence": 0.9625
+    },
+    {
+      "bbox": [
+        256.1,
+        324.3,
+        1538.8,
+        371.7
+      ],
+      "text": "Black loses quickly. The most effective reply would have been 18...xe2 19 f4",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        209.5,
+        368.0,
+        323.4,
+        417.9
+      ],
+      "text": "f8!'.",
+      "confidence": 0.9678
+    },
+    {
+      "bbox": [
+        257.3,
+        426.6,
+        1537.6,
+        470.3
+      ],
+      "text": "Other variations, which all lead to the effective construction of a mating net,",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        213.2,
+        481.5,
+        281.8,
+        517.7
+      ],
+      "text": "are:",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        258.5,
+        526.4,
+        1537.6,
+        567.6
+      ],
+      "text": "1) 18...xe2 19 f4 Wc7 20 d6 Wd7 21 ae1 d3 (if 21...#ae8 then 22 xe2",
+      "confidence": 0.952
+    },
+    {
+      "bbox": [
+        211.9,
+        572.6,
+        1535.1,
+        621.2
+      ],
+      "text": "xe2 23 Wh8#) 22 xe2 Qxe2 23 e1 c4 (otherwise 24 e7) 24 e4+, etc.",
+      "confidence": 0.9668
+    },
+    {
+      "bbox": [
+        256.1,
+        625.0,
+        1538.8,
+        674.9
+      ],
+      "text": "2) 18...h8 19 Wxf7+ xg5 20 Wg7! (depriving the king 0f the square h6; 20",
+      "confidence": 0.966
+    },
+    {
+      "bbox": [
+        209.5,
+        672.4,
+        1541.2,
+        727.3
+      ],
+      "text": "f4+? h6 is wrong) 20...f4 21 ae1². Here again White does not put Black in",
+      "confidence": 0.9696
+    },
+    {
+      "bbox": [
+        211.9,
+        727.3,
+        1540.0,
+        773.4
+      ],
+      "text": "check but instead prevents the king from using the e-file; if 21...e4 White mates",
+      "confidence": 0.976
+    },
+    {
+      "bbox": [
+        215.6,
+        775.9,
+        741.2,
+        823.3
+      ],
+      "text": "with 22 c4+ f4 23 g3+, etc.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        523.1,
+        983.0,
+        556.2,
+        1015.4
+      ],
+      "text": "W",
+      "confidence": 0.8702
+    },
+    {
+      "bbox": [
+        612.6,
+        1104.0,
+        651.8,
+        1132.7
+      ],
+      "text": "m",
+      "confidence": 0.5562
+    },
+    {
+      "bbox": [
+        253.6,
+        1477.0,
+        408.0,
+        1530.7
+      ],
+      "text": "19 Wg7!",
+      "confidence": 0.9075
+    },
+    {
+      "bbox": [
+        257.3,
+        1535.6,
+        1536.3,
+        1580.6
+      ],
+      "text": "A quiet move, cutting off the king's retreat and preparing for mate with 20 f4+,",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        210.7,
+        1589.3,
+        276.9,
+        1626.7
+      ],
+      "text": "etc.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        257.3,
+        1633.0,
+        1102.6,
+        1675.4
+      ],
+      "text": "19...e4 20 f4+ xf4 21 xf4 xf4 22 f1+ e3",
+      "confidence": 0.944
+    },
+    {
+      "bbox": [
+        254.8,
+        1684.1,
+        1536.3,
+        1731.5
+      ],
+      "text": "If 22...g5 then 23 h4+ leads to mate, or if 22...e4, a mating net is formed",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        210.7,
+        1731.5,
+        409.2,
+        1780.2
+      ],
+      "text": "by 23 c4.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        256.1,
+        1783.9,
+        502.3,
+        1826.3
+      ],
+      "text": "23 We5+ +d2",
+      "confidence": 0.9249
+    },
+    {
+      "bbox": [
+        258.5,
+        1837.5,
+        880.9,
+        1878.7
+      ],
+      "text": "Well may he run - mate is not far off.",
+      "confidence": 0.9667
+    },
+    {
+      "bbox": [
+        258.5,
+        1886.2,
+        713.0,
+        1927.4
+      ],
+      "text": "24 c4 Wxc3 25 f2+ 1-0",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        254.8,
+        1941.1,
+        754.7,
+        1982.2
+      ],
+      "text": "It is mate in two more moves.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        297.7,
+        2048.4,
+        1536.3,
+        2089.5
+      ],
+      "text": "Although Smyslov then gives the continuation 20 Wh6 fe8 21 ae1 Qd3 22",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        295.3,
+        2090.8,
+        1497.1,
+        2141.9
+      ],
+      "text": "Wh4 e7 23 e4+ f8 24 d6 $g7 25 f5, with a decisive attack for White.",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        211.9,
+        2146.9,
+        236.5,
+        2179.3
+      ],
+      "text": "2",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        291.6,
+        2145.7,
+        1538.8,
+        2190.6
+      ],
+      "text": "It is even simpler to mate with checks by 21 g3+ e4 22 We7+ xd5 23 c4+",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        292.8,
+        2190.6,
+        597.9,
+        2236.7
+      ],
+      "text": "c6 24 f3+, etc.",
+      "confidence": 0.9735
+    }
+  ]
+}

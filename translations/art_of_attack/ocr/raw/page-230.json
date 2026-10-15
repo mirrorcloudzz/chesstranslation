@@ -1,0 +1,310 @@
+{
+  "pdf_page": 230,
+  "printed_page": 230,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "230",
+      "bbox": [
+        277.0,
+        125.0,
+        341.0,
+        156.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        705.0,
+        127.0,
+        1200.0,
+        168.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6) One's own pawns usually constitute a great obstacle to one's rooks; if a po-",
+      "bbox": [
+        321.0,
+        274.0,
+        1595.0,
+        322.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sition is characterized by the opponent's weakness on the files, the rooks are im-",
+      "bbox": [
+        276.0,
+        325.0,
+        1594.0,
+        366.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "portant pieces and pawns have no business on these files, except when their",
+      "bbox": [
+        274.0,
+        376.0,
+        1596.0,
+        421.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "advance actually helps to clear a file. Rooks can be particularly usefully de-",
+      "bbox": [
+        275.0,
+        425.0,
+        1593.0,
+        472.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ployed on the third rank, if it is clear of pawns (an example of this was provided",
+      "bbox": [
+        273.0,
+        475.0,
+        1594.0,
+        522.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "by the variations arising from the diagram on p.224).",
+      "bbox": [
+        274.0,
+        525.0,
+        1150.0,
+        568.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "7) A pawn storm generally increases the risk of an inferior endgame. If other",
+      "bbox": [
+        318.0,
+        576.0,
+        1594.0,
+        621.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "elements in the position are also weighted against an endgame, the added risk en-",
+      "bbox": [
+        273.0,
+        625.0,
+        1592.0,
+        670.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tailed in an attack on the castled king is acceptable. However, if the player has the",
+      "bbox": [
+        272.0,
+        676.0,
+        1592.0,
+        722.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "necessary conditions for a good endgame, he must make certain that his assault",
+      "bbox": [
+        272.0,
+        728.0,
+        1593.0,
+        768.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with the pawns will be successful, for otherwise it represents a real risk.",
+      "bbox": [
+        272.0,
+        777.0,
+        1467.0,
+        822.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8) A player who already has an advanced pawn facing his opponent's castled",
+      "bbox": [
+        317.0,
+        827.0,
+        1591.0,
+        874.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position but which somehow gets in his way (e.g. a pawn on f5) must contem-",
+      "bbox": [
+        270.0,
+        878.0,
+        1589.0,
+        922.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "plate advancing the adjacent pawn, so that the lone pawn can be made an active",
+      "bbox": [
+        269.0,
+        928.0,
+        1590.0,
+        972.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "component of an avalanche. Every advanced pawn presents a pretext for an ava-",
+      "bbox": [
+        269.0,
+        979.0,
+        1588.0,
+        1023.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "lanche and draws its neighbour towards it. This is least so in the case of an ad-",
+      "bbox": [
+        269.0,
+        1027.0,
+        1588.0,
+        1068.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "vanced h-pawn and most so if the pawn is on f5.",
+      "bbox": [
+        269.0,
+        1078.0,
+        1069.0,
+        1120.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9) Attacks on the castled king in general, and those using pawns in particular,",
+      "bbox": [
+        314.0,
+        1128.0,
+        1587.0,
+        1177.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "should always be judged on the basis of an assessment of the position as a whole.",
+      "bbox": [
+        268.0,
+        1179.0,
+        1585.0,
+        1225.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The placing of the pieces, the situation in the centre and on the other side of the",
+      "bbox": [
+        266.0,
+        1229.0,
+        1587.0,
+        1271.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "board, positional strengths and weaknesses, how far the position is blocked, the",
+      "bbox": [
+        266.0,
+        1280.0,
+        1586.0,
+        1326.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "prospects for the endgame — all these come into the reckoning which an experi-",
+      "bbox": [
+        265.0,
+        1331.0,
+        1584.0,
+        1380.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "enced player must make before deciding to use his pawns in an attack on the cas-",
+      "bbox": [
+        265.0,
+        1381.0,
+        1584.0,
+        1427.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tled king.",
+      "bbox": [
+        265.0,
+        1431.0,
+        418.0,
+        1470.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "IO) Cautious before opening his attack, the player must be incisive, consis-",
+      "bbox": [
+        314.0,
+        1481.0,
+        1583.0,
+        1528.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tent, and merciless once he has set out on his attacking course. For an insufficiently",
+      "bbox": [
+        264.0,
+        1533.0,
+        1584.0,
+        1583.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "justified attack is not helped by belated doubts, but only by resourcefulness in the",
+      "bbox": [
+        259.0,
+        1582.0,
+        1582.0,
+        1629.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "struggle to provide one's opponent with the most difficult task possible.",
+      "bbox": [
+        263.0,
+        1633.0,
+        1454.0,
+        1681.0
+      ],
+      "confidence": null
+    }
+  ]
+}

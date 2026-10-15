@@ -1,0 +1,180 @@
+{
+  "pdf_page": 32,
+  "printed_page": 32,
+  "width": 1725,
+  "height": 2475,
+  "engine": "RapidOCR PP-OCRv4",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "bbox": [
+        312.4,
+        118.5,
+        367.5,
+        164.7
+      ],
+      "text": "32",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        743.7,
+        122.3,
+        1243.5,
+        169.7
+      ],
+      "text": "The Art of Attack in Chess",
+      "confidence": 0.9692
+    },
+    {
+      "bbox": [
+        313.6,
+        267.0,
+        1639.2,
+        318.1
+      ],
+      "text": "further; if 2...xe6, then 3 g5#) 2...g6 3 g4, with mate next move by 4 xf5#",
+      "confidence": 0.9496
+    },
+    {
+      "bbox": [
+        317.3,
+        318.1,
+        504.8,
+        360.5
+      ],
+      "text": "or 4 h4#.",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        646.9,
+        526.4,
+        672.6,
+        557.6
+      ],
+      "text": "B",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        354.1,
+        1019.2,
+        1635.6,
+        1074.1
+      ],
+      "text": "Averbakh-Kotov, Zurich Ct 1953. In order to draw White's king out from the",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        307.5,
+        1072.8,
+        1519.2,
+        1125.2
+      ],
+      "text": "protection of its castled position, Black is prepared to give up his queen:",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        351.6,
+        1115.2,
+        1634.3,
+        1177.6
+      ],
+      "text": "1...Wxh3+! 2 xh3 h6+ 3 g4 f6+ 4 f5 d7! 5 g5 (the only reply)",
+      "confidence": 0.9757
+    },
+    {
+      "bbox": [
+        308.7,
+        1170.1,
+        1634.3,
+        1222.5
+      ],
+      "text": "5...f8+ 6 g4 ②f6+ 7 f5 ②g8+ 8 g4 f6+ 9 f5 ②xd5+ 10 g4 f6+ 11",
+      "confidence": 0.8938
+    },
+    {
+      "bbox": [
+        308.7,
+        1217.5,
+        1636.8,
+        1279.9
+      ],
+      "text": "f5 g8+ 12 g4 f6+ 13 f5 g8+ 14 g4 xg5 (Black repeated moves",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        307.5,
+        1272.4,
+        1634.3,
+        1327.3
+      ],
+      "text": "because he was short of time, but now he proceeds to clear up the position) 15",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        306.3,
+        1317.3,
+        1633.1,
+        1378.5
+      ],
+      "text": "xg5 f7! 16 h4 g6+ 17 +h5 fg7 18 g5 xg5+ 19 h4 f6 20 ②g3",
+      "confidence": 0.9446
+    },
+    {
+      "bbox": [
+        307.5,
+        1372.2,
+        983.8,
+        1420.9
+      ],
+      "text": "xg3 21 Wxd6 3g6 22 Wb8+ g8 0-1",
+      "confidence": 0.9648
+    },
+    {
+      "bbox": [
+        640.7,
+        1580.6,
+        673.8,
+        1613.0
+      ],
+      "text": "W",
+      "confidence": 0.963
+    },
+    {
+      "bbox": [
+        345.5,
+        2078.3,
+        1585.3,
+        2134.4
+      ],
+      "text": "From the game Gligoric-Petrosian, Belgrade 1954. White won as follows:",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        344.3,
+        2129.4,
+        1629.4,
+        2180.6
+      ],
+      "text": "1 xg5+ f7 2 xf6+ xf6 3 Wxf8+ xg5 4 h4+ 1-0, since Black is faced",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        302.6,
+        2180.6,
+        480.3,
+        2224.3
+      ],
+      "text": "with mate.",
+      "confidence": 0.9995
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "pdf_page": 192,
+  "printed_page": 192,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "192",
+      "bbox": [
+        292.0,
+        127.0,
+        350.0,
+        158.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        714.0,
+        128.0,
+        1209.0,
+        169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 5...c5, then White plays 6 axb6 Vxd4+ 7 Vxd4 cxd4 8 Qc7 followed by 9",
+      "bbox": [
+        331.0,
+        273.0,
+        1605.0,
+        320.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Xa8#.",
+      "bbox": [
+        286.0,
+        322.0,
+        383.0,
+        356.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6 axb6 cxb6 7 Oxb6 Qe7",
+      "bbox": [
+        331.0,
+        372.0,
+        768.0,
+        407.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black must parry the threat of 8 Vc3.",
+      "bbox": [
+        331.0,
+        423.0,
+        951.0,
+        465.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "8 exf5 Vf7 9 f6!",
+      "bbox": [
+        330.0,
+        471.0,
+        607.0,
+        507.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Or 9...Vxf6 10 Vc3 Qc6 11 Äa8+ 12 Qd5#.",
+      "bbox": [
+        331.0,
+        521.0,
+        1160.0,
+        559.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "10 c4 Qa7 11 Va2 Qb5 12 Q)d5 and White won after 12...Vxd5 13 cxd5",
+      "bbox": [
+        332.0,
+        572.0,
+        1603.0,
+        612.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Qxd4 14 Va7+ 15 Äcl+ 16 Äxc6#.",
+      "bbox": [
+        285.0,
+        622.0,
+        1054.0,
+        660.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "One further remark must be made before passing on to the destructive sacri-",
+      "bbox": [
+        330.0,
+        728.0,
+        1602.0,
+        770.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fice: a sacrifice and the operations following it must have the aim of creating afo-",
+      "bbox": [
+        284.0,
+        778.0,
+        1602.0,
+        822.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cal-point, especially if the opponent has some active counterplay at his disposal.",
+      "bbox": [
+        284.0,
+        829.0,
+        1601.0,
+        873.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The next diagram shows an example where the attacker wrecks his opponent's",
+      "bbox": [
+        283.0,
+        879.0,
+        1602.0,
+        923.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "castled position and regains the material he has sacrificed, but is still unsuccess-",
+      "bbox": [
+        283.0,
+        929.0,
+        1601.0,
+        969.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ful because he cannot create a focal-point.",
+      "bbox": [
+        283.0,
+        979.0,
+        981.0,
+        1021.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is from the game Colle-Tartakower, Niendorf 1927. White is ex-",
+      "bbox": [
+        323.0,
+        1685.0,
+        1596.0,
+        1726.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "cellently placed here and ought to continue with 1 Qh3, but Colle, the lover of",
+      "bbox": [
+        277.0,
+        1735.0,
+        1601.0,
+        1779.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sacrifices, cannot resist the temptation and offers material in a position which is",
+      "bbox": [
+        278.0,
+        1787.0,
+        1597.0,
+        1833.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "still insufficiently prepared.",
+      "bbox": [
+        278.0,
+        1837.0,
+        733.0,
+        1878.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Qexf7? xxf7 2 Qxe6 Vc8 3 Ag6 Qf8 4 Axf7+ •xf7 5 Qxg7",
+      "bbox": [
+        324.0,
+        1883.0,
+        1417.0,
+        1934.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "All these captures have been made on different squares, none of which quali-",
+      "bbox": [
+        321.0,
+        1939.0,
+        1595.0,
+        1986.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "fies as a candidate for a focal-point. No wonder that Black develops a counterat-",
+      "bbox": [
+        276.0,
+        1988.0,
+        1594.0,
+        2035.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "tack that ensures sufficient counterplay.",
+      "bbox": [
+        275.0,
+        2039.0,
+        930.0,
+        2081.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...Aa6 6 c4 Vg4 7 Vxg4 Qxg4 8 Qf5 Axc4 9 Adl h5",
+      "bbox": [
+        320.0,
+        2084.0,
+        1256.0,
+        2131.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The position is balanced and the game ended in a draw after a further 17",
+      "bbox": [
+        320.0,
+        2140.0,
+        1594.0,
+        2182.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "moves.",
+      "bbox": [
+        274.0,
+        2198.0,
+        389.0,
+        2220.0
+      ],
+      "confidence": null
+    }
+  ]
+}

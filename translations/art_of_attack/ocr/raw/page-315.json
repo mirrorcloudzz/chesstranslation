@@ -1,0 +1,280 @@
+{
+  "pdf_page": 315,
+  "printed_page": 315,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "The phases of the attack on the castled king",
+      "bbox": [
+        469.0,
+        119.0,
+        1289.0,
+        169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "315",
+      "bbox": [
+        1466.0,
+        115.0,
+        1526.0,
+        147.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Ragozin pointed out the continuation 20 Vd3! mg4 21 Qe4 f5 22 hg5 f2+ 23",
+      "bbox": [
+        257.0,
+        259.0,
+        1530.0,
+        319.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Axf2 Oxf2 24 •xn (if 24 Vc4 then 24...Vc3 while if 24 Vb3, Black plays",
+      "bbox": [
+        212.0,
+        311.0,
+        1532.0,
+        363.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24...Ad4 25 d6+ #h8, and White has no more than a draw) 24...Vxc5+ 25 eg3.",
+      "bbox": [
+        214.0,
+        359.0,
+        1532.0,
+        412.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If Black were then to take the d-pawn, the material balance would be restored",
+      "bbox": [
+        214.0,
+        413.0,
+        1534.0,
+        462.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "but at the cost of allowing White to assume the initiative. For example, after",
+      "bbox": [
+        215.0,
+        464.0,
+        1536.0,
+        513.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "25...Xxd5 (not 25...Vxd5 because of 26 Xe8+) 26 Vb3 Black is suddenly in dif-",
+      "bbox": [
+        216.0,
+        513.0,
+        1535.0,
+        565.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ficulties owing to the threat of Xcdl which is decisive even against ...#h8; con-",
+      "bbox": [
+        217.0,
+        560.0,
+        1536.0,
+        617.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "sequently, he is forced to play 26...Vb5 27 Xcdl Vxb3 28 cxb3 Äxdl 29 Äxdl",
+      "bbox": [
+        219.0,
+        610.0,
+        1534.0,
+        671.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and go into an unfavourable ending with the white rook on the seventh rank. It is",
+      "bbox": [
+        219.0,
+        665.0,
+        1538.0,
+        722.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "interesting that H. Müller, in his book on Botvinnik, ends the analysis at White's",
+      "bbox": [
+        220.0,
+        715.0,
+        1538.0,
+        770.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "twenty-sixth move, stating that he will have to fight for a draw !",
+      "bbox": [
+        220.0,
+        769.0,
+        1282.0,
+        821.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "20...Qg4 21 Ad4 (D)",
+      "bbox": [
+        267.0,
+        826.0,
+        626.0,
+        870.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "21...f2+!",
+      "bbox": [
+        277.0,
+        1538.0,
+        417.0,
+        1569.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The pawn virus begins to take effect. 22 Axf2 does not work on account of",
+      "bbox": [
+        277.0,
+        1573.0,
+        1555.0,
+        1627.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22...Axc3, while 22 is defeated by 22...Xxd5! 23 Qxd5 flV+, and White",
+      "bbox": [
+        233.0,
+        1621.0,
+        1553.0,
+        1673.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "loses his queen.",
+      "bbox": [
+        234.0,
+        1690.0,
+        493.0,
+        1727.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "22",
+      "bbox": [
+        279.0,
+        1741.0,
+        319.0,
+        1771.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Now the black queen hastens across to h4 via f6; out of the one small pawn",
+      "bbox": [
+        279.0,
+        1777.0,
+        1555.0,
+        1827.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "there has grown a real kingside attack, which requires the assistance of the",
+      "bbox": [
+        236.0,
+        1828.0,
+        1556.0,
+        1880.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "queen.",
+      "bbox": [
+        236.0,
+        1903.0,
+        342.0,
+        1933.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "23 Ve2",
+      "bbox": [
+        282.0,
+        1938.0,
+        406.0,
+        1974.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 23 Qe2 then 23...Axd4 24 Vxd4 Äxd5 while 23 Vd3 is met by 23...Axd4",
+      "bbox": [
+        283.0,
+        1975.0,
+        1557.0,
+        2024.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "24 Vxa6 Qe3+ 25 f1V+ 26 Äxfl bxa6.",
+      "bbox": [
+        239.0,
+        2034.0,
+        986.0,
+        2075.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "I Many years later Botvinnik published some new analysis of this game, in which",
+      "bbox": [
+        243.0,
+        2138.0,
+        1559.0,
+        2186.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "he claimed that after 20 Vd3, 20...b6! gives Black a satisfactory position.",
+      "bbox": [
+        323.0,
+        2187.0,
+        1484.0,
+        2228.0
+      ],
+      "confidence": null
+    }
+  ]
+}

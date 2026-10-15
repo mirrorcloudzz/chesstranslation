@@ -1,0 +1,649 @@
+# Chapter 8: The Two Bishops
+
+## CH8-1 (p. 215)
+
+The Two Bishops
+
+## CH8-2 (p. 215)
+
+It is generally well-known that the relative strength of the pieces is a variable value which can both increase or decrease depending on the arrangement of other pieces and the dynamics of the position.
+
+## CH8-3 (p. 215)
+
+The rook and bishop on open lines, the knight established on a weak square - all these factors increase the power of piece activity. The "eternal" knight is such a threatening force that, for the most part, it is equivalent to an extra exchange for the opponent. The unfailing question of amateurs as to which is the stronger - knight or bishop, is met by the stereotyped reply: in one position the bishop is stronger, in another - the knight. It all depends s on what pawn material is on the board, what is its structure and what positions, in the first instance, the pieces, comparative in strength, are occupying. It goes without saying, the position of the other pieces must likewise be taken into account.
+
+## CH8-4 (p. 215)
+
+Among those pieces whose strength increases appreciably depending on the features of the position and the harmony of activity, the two bishops have attracted particular attention since the beginning of the century.
+
+## CH8-5 (p. 215)
+
+In a number of games, according to the positional conditions, the two bishops were able to show themselves as a threatening force, exceeding the power of two other minor pieces and sometimes even a rook and minor piece.
+
+## CH8-6 (p. 215)
+
+Steinitz, the founder-teacher of positional play, seemed to be carried away with the effectiveness of the harmonious activity of the two bishops and called this "the advantage of the two bishops". The two bishops figure here, as also in many other evaluations, as an abstract positional factor, embodying one aspect of the advantage.
+
+## CH8-7 (p. 215)
+
+The first to come out decisively against this view was Chigorin. He expounded his views on this question very thoroughly in polemics with Em.Lasker, when the world champion's book Common Sense in Chess was published in 1896. Lasker gave this bold name to a collection of twelve lectures which he had given before an audience of London chessplayers. There is no place here to assess the merits and demerits of this work which, though pretentious, undoubtedly deserves attention. However, we recall it solely in connection with one position, on account of which arose a dispute between Chigorin and Lasker on the question which interests us about the two bishops.
+
+## CH8-8 (p. 216)
+
+In the fourth lecture, Lasker chose as the subject of his talk, the opening theme - the Evans Gambit. In particular, he presented the following variation: 1 e4 e5 2 Nf3
+
+## CH8-9 (p. 216)
+
+Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. O-O Bb6 8. dxe5 dxe5 9 Qb3. Qf6 10. Bd5 Nge7 11. Bg5 Qg6 12. Bxe7 Kxe7 13. Bxc6 Qxc6 14 Nxe5. Qe6 15. Qa3+.
+
+## CH8-10 (p. 216)
+
+Lasker estimated this position, after the possible replies 15 ... Kf6 or 15 5 ... c5, in Black's favour, since he has, in his own words, two bishops, excellent development of forces and a strong position.
+
+## CH8-11 (p. 216)
+
+We give Chigorin's objection to this assessment which appeared on 30January 1897 in the（ chess column of the newspaper Novoe Vremya: "By indicating the two bishops, Herr Lasker naturally gives the understanding that the two bishops are superior in strength to the two knights. Consequently, taking into account also the excellent development of forces and the "strong" position, the Black player has a significant advantage over the opponent and every chance of victory. However, the assessment of the position, made by Herr Lasker, in my opinion is totally subjective eand hardly proves to be correct in practice. He e not only does not confirm this, even if only with a superficial analysis of the position, but also explains nothing to the amateur who is interested more in the question: in what way can the two bishops show their "strength" over two knights in the present position, and what role will they play?
+
+## CH8-12 (p. 216)
+
+It is interesting that the position reached in Herr Lasker's variation can also be obtained in the practical game. Therefore, being personally y interested in it, I endeavoured to investigate it. But my analysis led to a completely opposite conclusion, i.e. that all the advantages in the position are to be found on White's side. It would hardly be a mistake to say that detailed analysis and practice will prove that Black's position is even irreparable.
+
+## CH8-13 (p. 216)
+
+Here are some variations. Herr Lasker considers that Black, by playing ... Kf6 or ... c5 on the 15th move, will have all the advantages about which he spoke. Upon the move of the king to f6, White, of course, retreats the knight to f3... On 16 ... g6, White replies 17 c4 with a double threat
+
+## CH8-14 (p. 216)
+
+(c5 and Qb2+). On 16 ... Rd8,
+
+## CH8-15 (p. 216)
+
+White also replies 17 c4 with the same threat, or 17 Nbd2 (17 .. Rd3 18 Qb2). After the moves 16
+
+## CH8-16 (p. 216)
+
+.. Bd7 17. Nbd2 Bc6 18. Nd4 the
+
+## CH8-17 (p. 216)
+
+"advantage of the two bishops' disappears. However, the position of the Black king allows White to launch a direct attack on it.
+
+## CH8-18 (p. 216)
+
+I looked in more detail at the position after the move 15 ... c5: In this position White plays 16 f4! and, after the moves c4 and Nc3, the knight will occupy a really strong position on d5, Black can only eliminate this knight by capturing it with a piece of higher value.
+
+## CH8-19 (p. 217)
+
+16. f4
+
+## CH8-20 (p. 217)
+
+I did not find any good moves through which Black could have unravelled his forces. After 16 .. f617 Nf3 followed by f5,c4 (which Black could only temporarily prevent by retreating with the queen to f7), Nc3-d5, White will undoubtedly find himself in the better position. Upon the move 16 ... Bd7, however, White could immediately deprive Black of that strength, which Herr Lasker sees it as; but it is better for White, in my opinion, to carry out his plan by playing c4, Nc3, etc. On other moves for Black: with the king, queen or one of the pawns, White almost invariably fulfils his plan, as also upon the move 16 .. Rd8, the consequences of which I mainly looked at...
+
+## CH8-21 (p. 217)
+
+16 ... Rd8 17. c4
+
+## CH8-22 (p. 217)
+
+As I have already said, White could obtain an excellent position after the moves Nf3 and f5 or Nd2 etc., but I want to present variations in which the strength of the knight on the d5 square becomes clear by visual demonstration.
+
+## CH8-23 (p. 217)
+
+17 ... f6 18. Nc3 fxe5 19. Nd5+
+
+## CH8-24 (p. 217)
+
+Kf8
+
+## CH8-25 (p. 217)
+
+Black, obviously, does not save the game with a sacrifice of the rook for the knight: 19 ... Rxd5 20 exd5 Q-? 21 fxe5, followed by e6.
+
+## CH8-26 (p. 217)
+
+Upon the retreat of the king to e8, follows 20 Rab1! Bd7 (20 .. Rb8 21 Rxb6!; however White also threatens this after the next move)
+
+## CH8-27 (p. 217)
+
+21. Qg3 Qg6 22. Qh4 Qf7 or 22 ...
+
+## CH8-28 (p. 217)
+
+Kf8 23 fxe5 and White wins the queen.
+
+## CH8-29 (p. 217)
+
+20. Rab1!
+
+## CH8-30 (p. 217)
+
+White provokes the move Rb8 or ... Bd7, in order to deprive Black of the possibility of taking the knight with the rook at a certain moment; for example, 20
+
+## CH8-31 (p. 217)
+
+.. Rb8 21. f5 Qh6 (21 ... Qd6 22 f6. g6 23. Qe3 and wins) 22. f6 Rxd5 23. exd5 gxf6 24. Rxb6 axb6 25. Qa7 (25 ... Qe3+ 26. Kh1 Qe2 27. Rc1
+
+## CH8-32 (p. 217)
+
+Qd2 28 Rg1) and White must win.
+
+## CH8-33 (p. 217)
+
+20 ... Bd7 21. f5 Qh6
+
+## CH8-34 (p. 217)
+
+In all probability, White could continue 22 f6 with success, but the attack with the move 22 Rb3 is more effective.
+
+## CH8-35 (p. 217)
+
+22. Rb3
+
+## CH8-36 (p. 217)
+
+The following variations point to the lack of a defence for Black. From these it becomes clear that both bishops cannot take an active role in the defence of the king against the attack of only one knight:
+
+## CH8-37 (p. 218)
+
+(a) 22 ... Kg8 23. Rh3 Qg5 24 Rg3. Qh6 25. f6 g6 26. Qc3 Be6 (if 26 ... Qh5, then 27. f7+ Kh8 - or 27 ... Kf8 28. Nf6 Qh6 29. Qxe5 Bc6 30. Rh3 and wins - 28. Nf6 Qh6 29. Nxd7 Rxd7 30. Qxe5+ and
+
+## CH8-38 (p. 218)
+
+mate in two moves) 27 f7+ Bxf7
+
+## CH8-39 (p. 218)
+
+28. Ne7+ or 28. f6 Kf8 29. Rgf3 or
+
+## CH8-40 (p. 218)
+
+h3, and White must win.
+
+## CH8-41 (p. 218)
+
+(b) 22 ... Qd2 23. Rd3 Qe2 (or
+
+## CH8-42 (p. 218)
+
+23 ... Qa5 24 Qc1, threatening f6
+
+## CH8-43 (p. 218)
+
+or Ra3) 24. f6 g6 25. Qc1 Qh5 26 Nxb6. axb6 27. Qd2 Ke8 28. Rd1 -
+
+## CH8-44 (p. 218)
+
+and wins.
+
+## CH8-45 (p. 218)
+
+Those variations, of course, do not exhaust all the means defence. Black could have put up more resistance by not making the
+
+## CH8-46 (p. 218)
+
+move of the f7 pawn to f6, but in
+
+## CH8-47 (p. 218)
+
+this case White's knights would have taken up dominating positions on d5 and e5. However, after the exchange of the bishop for the knight d5, the central passed pawn, supported by the other, becomes very significant. Thus, an advantage in this or that game does not in fact lie in the two bishops or knights, but in the positions they occupy or which they could l occupy in relation to other pieces" (bold type ours).
+
+## CH8-48 (p. 218)
+
+Chigorin's point of view, confirmed by quite convincing analysis, is clear: "the advantage of the two bishops" does not exist without regard to the position.
+
+## CH8-49 (p. 218)
+
+It should be added that in practice also "bishop-worshippers" not infrequently deviate from their own principles. Lasker himself, many times and invariably with success, employed the exchange variation of the Spanish Game in which White lets the opponent have the "advantage of the two bishops" from the first opening moves. And though his opponents also included such noutstanding players as s Tarrasch, Janowski, Capablanca and others, the first two of whom were also well-known "specialists with the two bishops", even they could not utilise this force to offset Lasker's extra pawn on the king's flank.
+
+## CH8-50 (p. 218)
+
+All the same, side-by-side with adherents of Chigorin's view, there are still quite a few prominent players who adopt the standpoint of Steinitz and Lasker and consider that two bishops against two other minor pieces is in itself a positional advantage.
+
+## CH8-51 (p. 218)
+
+We have already pointed out that the basis for the birth of the "theory" about the advantage of the two b bishops lies in positions where the joint activity of the two bishops displays a power which considerably exceeds the fighting capacity of two other minor pieces. But, you know, besides such positions there are many others in which two bishops are powerless against bishop and knight or even two knights - this is the first thing. And, secondly, an unprejudiced examination of positions where the power of the bishops increases disproportionately to the harmony of their activity shows that this does not spring from some magical force, as if inherent in the two bishops, but from a favourable combination of a number of positional factors. We turn to a few such examples.
+
+## CH8-52 (p. 219)
+
+This position was reached in the clash Bogolyubov-Janowski, New York 1924.
+
+## CH8-53 (p. 219)
+
+19. Qf3 Ne5!
+
+## CH8-54 (p. 219)
+
+Giving up a pawn. Not without interest is Alekhine's remark apropos this move: "The sacrifice of a pawn to obtain two bishops against the opponent's bishop and knight is one of the favourite tactical devices of Janowski." This sacrifice is undoubtedly prompted by a more concrete motive than Janowski's desire to handle the two bishops.
+
+## CH8-55 (p. 219)
+
+20. Bxh7+
+
+## CH8-56 (p. 219)
+
+There are few who would reject the win of this pawn, the more so that it somewhat loosens the position of the enemy king. However,
+
+## CH8-57 (p. 219)
+
+White had no other choice, since there is nowhere to comfortably retreat the queen - it has only just come from e2, Qh5 leads to the loss of a piece in view of ... f5, while after Qh3, Ng6 the queen is doing nothing.
+
+## CH8-58 (p. 219)
+
+20...1 Kxh7 21. Qh5 Kg8 22 Qxe5. Bf6 23. Qh5 Ba4 24. Re1
+
+## CH8-59 (p. 219)
+
+The exchange of rooks would make it easier for Black to achieve victory - 24 Rxc8 Rxc8 25 Rc1
+
+## CH8-60 (p. 219)
+
+Rxc1+ 26. Bxc1 e5 27. Nf5 Qc6 28 Bd2. Qc2 29. Be1 Qb1. 24... Qd6 25. h3 Bc2 26. Qf3
+
+## CH8-61 (p. 219)
+
+Black dominates the whitesquared territory of the board. This is the reason why Janowski sacrificed the pawn.
+
+## CH8-62 (p. 219)
+
+27. Qe2 Ba4 28. Qf3
+
+## CH8-63 (p. 219)
+
+Bad is 28 Nf3 (on which, possibly, White calculated earlier), because of 28 ... Rxc1 29 Rxcl Bd1 winning the bishop b2. By returning with the queen to f3, White tacitly offers a draw, but his offer clearly meets with no response.
+
+## CH8-64 (p. 219)
+
+28 ... Rc4 29. Ba1 Rdc8 30. Rb1
+
+## CH8-65 (p. 219)
+
+It is now clear that Bogolyubov's trouble arises from the impossibility of defending the white squares. His pawns are placed on black squares, while the white-squared bishop is exchanged.
+
+## CH8-66 (p. 220)
+
+30 ... e5
+
+## CH8-67 (p. 220)
+
+Alekhine rightly pointed out that this move is premature. White could now reply 31 Qg3 and, on 31
+
+## CH8-68 (p. 220)
+
+Qd7 32 Nf3, after which the struggle e is complicated. It is interesting that the consideration about the strength of the two bishops - you see Black still has them - has no place here.
+
+## CH8-69 (p. 220)
+
+31. Ne2? Bc2 32. Rbc1 Be4 33 Qg4. Bb7
+
+## CH8-70 (p. 220)
+
+The white-squared bishop works remarkably well. Its stroll on the squares s e8-a4-c2-a4-c2-e4-b7 has caused the opponent quite a lot of trouble. In the end it takes up a threatening position on the long diagonal, with the intention of delivering at the right moment a decisive blow to the enemy king. However, the bishop, and not the bishops. "The advantage of the two bishops" is not what it is here.
+
+## CH8-71 (p. 220)
+
+34. Rxc4 Rxc4 35. f4
+
+## CH8-72 (p. 220)
+
+Now a "hole" on e4 is also created, but there was no way out.
+
+## CH8-73 (p. 220)
+
+Bad also is 35. Qh5 g6 or 35. Qf5 Be4, or 35. Qg3 Bh4 36. Qh2 f6. 35 ... Qd2 36. Qg3 Re4
+
+## CH8-74 (p. 220)
+
+Already it was possible to win a piece, by continuing 36 ... exf4 37 Nxf4 Rcl.
+
+## CH8-75 (p. 220)
+
+37. Bc3 Qd5 38. Bxe5 Rxe3 39 Qg4. Bxe5
+
+## CH8-76 (p. 220)
+
+The bishop has stood the whole game on f6, as a matter of fact without causing White serious trouble, and finally is exchanged. The whole thing depends on one bishop, and not two.
+
+## CH8-77 (p. 220)
+
+40. fxe5 Rxe5 41. Kh2
+
+## CH8-78 (p. 220)
+
+So as, 0n 41 ... Rg5, to reply 42 Nf4.
+
+## CH8-79 (p. 220)
+
+41 ... Qd2 42. Qg3 f6 43. h4 Bd5 44. Qf2 Bc4 0-1
+
+## CH8-80 (p. 220)
+
+The white-squared bishop in fact performed above its rating but the black-squared bishop hardly so! Admittedly, it somewhat cramped the manoeuvres of the White pieces, in particular the knight d4, but its struggle in no way exceeded the norm and was even below it.
+
+## CH8-81 (p. 220)
+
+The next of our examples is a moment from the game Kotov- Kashdan, USSR-USA radio match 1945.
+
+## CH8-82 (p. 220)
+
+White's bishops are well placed and undoubtedly better than the opponent's bishops. However, nobody would dream of maintaining that he has the advantage of the two bishops. But why? Because in fact Black also has the two bishops.
+
+## CH8-83 (p. 221)
+
+It means that one can speak about the "advantage of the two bishops' only when they operate against pieces other than the same two bishops. There is little logic in this.
+
+## CH8-84 (p. 221)
+
+The position shown in the diagram is a repeat. It occurred for the first time in the game Capablanca-Flohr, played in the Semmering g tournament 1937.
+
+## CH8-85 (p. 221)
+
+17 ... h5
+
+## CH8-86 (p. 221)
+
+Against Capablanca, Flohr had played 17 ...e6.
+
+## CH8-87 (p. 221)
+
+18. h3 Nh7 19. Bh2 Ng5 20. Bd1 c5 21. Bb3 Nxc3 22. bxc3 b6
+
+## CH8-88 (p. 221)
+
+Only in this way is it possible to develop the bishop. Useless is 22
+
+## CH8-89 (p. 221)
+
+. Ne4 (with the threats of .
+
+## CH8-90 (p. 221)
+
+Nxc3 and ... Nd2) in view of 23
+
+## CH8-91 (p. 221)
+
+Rfc1, and White only strengthens his position on the queen's flank, whereas the knight is insecurely placed on e4.
+
+## CH8-92 (p. 221)
+
+23. Nc6 Rd7 24. f3 Ba6
+
+## CH8-93 (p. 221)
+
+24 ... Bb7 is better, and only after 25 Ne5 Bxe5 26 Bxe5 Ba6, but also in this case White retains an unquestionable advantage by playing 27 Rfc1. He has a superiority in the centre and a compact pawn chain; also very well placed is his black-squared bishop, which has a great range of activity.
+
+## CH8-94 (p. 221)
+
+25. Nb8 Rxb8
+
+## CH8-95 (p. 221)
+
+Necessary; bad is 25 ... Bxf1 26
+
+## CH8-96 (p. 221)
+
+Nxd7. Rd8 27. Nxb6 Bxg2 28. Kxg2 axb6 29. Bc7. 26. Bxb8 Bxf1 27. Kxf1 Ne6?
+
+## CH8-97 (p. 221)
+
+In this position, White's two bishops actually operate perfectly well, crossing the centre and supporting the advance of the centre pawns. But is this a consequence of the notorious "advantage of the two bishops"? No and once again no. Essentially the strength of the latter depends on the bad positions of the enemy pieces. Instead of the poor move of the knight, Black should continue 27 ... e6, intending ...F Bf8, while he could have tried to introduce the knight into
+
+## CH8-98 (p. 221)
+
+the game by ... Nh7-f6. 28. Rb1 cxd4
+
+## CH8-99 (p. 221)
+
+Sooner or later White forces this exchange, by threatening to open the b-file; Black's position is unsatisfactory.
+
+## CH8-100 (p. 221)
+
+29. cxd4 Rb7 30. Bg3 b5 31. Rc1 a5 32. Rc8+ Kh7 33. Ke2 a4 34 Bxe6. fxe6 35. Rb8
+
+## CH8-101 (p. 221)
+
+And so, Black's defeat is provoked not by White's two bishops, which, incidentally, are already gone from the board, but the terrible position of his own bishop on g7.
+
+## CH8-102 (p. 221)
+
+35 ... Rxb8 36. Bxb8 b4
+
+## CH8-103 (p. 221)
+
+Even threatening to win after ... b3.
+
+## CH8-104 (p. 222)
+
+37. Kd3 Bh6 38. f4 g5 39. g4 hxg4 40. hxg4 gxf4 41. exf4 1-0
+
+## CH8-105 (p. 222)
+
+Queen's Pawn Opening
+
+## CH8-106 (p. 222)
+
+White: S.Alapin
+
+## CH8-107 (p. 222)
+
+Black: A.Burn
+
+## CH8-108 (p. 222)
+
+(Carlsbad 1911)
+
+## CH8-109 (p. 222)
+
+1. d4 d5 2. c3 e6 3. Bf4 c5 4. e3 Nc6 5. Nd2 Nf6 6. Bd3 Qb6 7
+
+## CH8-110 (p. 222)
+
+Rb1 Apparently the "wisest" answer to the question.
+
+## CH8-111 (p. 222)
+
+Let us try to go deeply into the train of White's thoughts. The pawn, of course, needs to be defended. On 7 Qc1 or 7 Qc2, the White queen later, after ... Bd7 and ... Rc8, falls under the influence of the enemy rooks.
+
+## CH8-112 (p. 222)
+
+There remains to look at 7 Qb3. Generally speaking, this move is possible, but White will have to put up with his opponent's small but clear initiative on the queen's flank, namely 7 ... c4 8 Qxb6 axb6 9 Be2 b5 followed by ... b4. The traditional retort to this, by e4, is not very effective in the present situation. Black's flank play develops more quickly. Besides this, the advance of the White e-pawn lacks a clear purpose.
+
+## CH8-113 (p. 222)
+
+This is why White plays 7 Rb1, since in his plan the queen is destined for another purpose - on the king's flank, where it will support active operations.
+
+## CH8-114 (p. 222)
+
+7 ... Bd7 8. Bg3
+
+## CH8-115 (p. 222)
+
+An artificial idea has occurred to Alapin - to construct a "Stonewall" which even in its usual form is vulnerable but here it is entirely unjustified.
+
+## CH8-116 (p. 222)
+
+White has everything ready for an invasion of the e5 point, which finds itself under pressure by the bishop. Therefore "without further ado" he should continue 8 Ngf3
+
+## CH8-117 (p. 222)
+
+Be7 9. O-O O-O 10. Ne5.
+
+## CH8-118 (p. 222)
+
+However, Black is excellently developed, and the invasion of the knight still does not promise White a serious initiative. He himself is to blame for this, since he has played the opening modestly and allowed the opponent to harmoniously and purposefully develop all his forces. In this light, the plan chosen by him merits even more censure.
+
+## CH8-119 (p. 222)
+
+8... Be7 9. f4 O-O 10. Bf2
+
+## CH8-120 (p. 222)
+
+On 10 Nf3 possible is 10 ... Ng4
+
+## CH8-121 (p. 222)
+
+11. Qe2 (11. Ng5 Bxg5 or 11 ... f5)
+
+## CH8-122 (p. 222)
+
+11 ... f5, followed by ... Nf6-e4.
+
+## CH8-123 (p. 222)
+
+10 ... Rac8 11. Qf3 Rfd8
+
+## CH8-124 (p. 222)
+
+Black has developed his army in classical style. However, White counters this with an antiharmonious "half-development" of pieces. The king's knight is even deprived of future possibilities in the centre, the bishop is undefended, there is a weakness on e3 all these things do not bode well for White. On top of all this - his king is also still in the centre!
+
+## CH8-125 (p. 223)
+
+12. Ne2 Bd6 13. Bh4 Be7 14. Bf2 Bd6 15. Bh4 Be7 16. Bf2 Bd6 17
+
+## CH8-126 (p. 223)
+
+Unbelievable but true! Alapin avoids the draw and dreams of an attack on the king's flank.
+
+## CH8-127 (p. 223)
+
+17 ... Re8 18. g4?
+
+## CH8-128 (p. 223)
+
+In the ignorance of bliss! By playing 18 Bc2 or 18 Bh4, White could prepare for Black's intended attack in the centre and avoid its catastrophic consequences.
+
+## CH8-129 (p. 223)
+
+18 ... e5! 19. dxe5
+
+## CH8-130 (p. 223)
+
+19 g5 is unsatisfactory at once in
+
+## CH8-131 (p. 223)
+
+view of 19 ... e4 20. Qg2! Nh5 21 Bc2. cxd4 22. cxd4 Nb4. 19 ... Rxe5!
+
+## CH8-132 (p. 223)
+
+Just so, whereas 19 ...Bxe5 leads to the loss of a piece after 20 g5.
+
+## CH8-133 (p. 223)
+
+20. g5 Ne8 21. fxe5?
+
+## CH8-134 (p. 223)
+
+For the exchange, Black obtains a strong, but that is not to say victorious, attack. White conducts the game too optimistically. It was best to refuse the "Greek gift" and play 21 e4!, threatening to capture a whole rook. If 21 ... dxe4, then 22 Bxe4 Re7 23 O-O and things are not really so bad for White.
+
+## CH8-135 (p. 223)
+
+21... Nxe5 22. Bxh7+ Kxh7 23 Qh5+ Kg8
+
+## CH8-136 (p. 223)
+
+Black threatens ... Bf5.
+
+## CH8-137 (p. 223)
+
+24. Nf4
+
+## CH8-138 (p. 223)
+
+Possibly, 24 Ng3 3was rather more logical, but in this case ... Nd3+ retains a dangerous initiative. White is the exchange ahead, but the ranks of his army are in disarray, his king exposed - this is more than enough to compensate Black for the sacrificed material.
+
+## CH8-139 (p. 223)
+
+24 ... Bf5 25. Qd1
+
+## CH8-140 (p. 223)
+
+Fatal is 25 Nxd5 Qa6, with the threats of ... Bxbl and ... Nd3+. Black's white-squared bishop is his main attacking force, and White is prepared to give up his inactive rook for it.
+
+## CH8-141 (p. 223)
+
+25 ... Nd3+!
+
+## CH8-142 (p. 223)
+
+Incisively played and brilliantly illustrating the relative strength of the pieces. Burn will not exchange his priceless bishop for the opponent's queen's rook.
+
+## CH8-143 (p. 223)
+
+26. Nxd3 Bxd3 27. Nf3 c4
+
+## CH8-144 (p. 223)
+
+Now a good post for the White knight on d4 has appeared, but he cannot exploit this while Black's white-squared bishop has become firmly established "for ever" on the h7-b1 diagonal.
+
+## CH8-145 (p. 223)
+
+28. Nd4 Be7 29. Qg4 Nd6 30 Bg3. Rd8 31. Bxd6
+
+## CH8-146 (p. 223)
+
+A forced exchange - the rook cannot leave the b1 square in view of ... Qxb2, while in the event of 31 Kd2 or Kf2 follows ... Ne4+. But now the opponent's blacksquared bishop becomes very strong.
+
+## CH8-147 (p. 224)
+
+31 ... Bxd6
+
+## CH8-148 (p. 224)
+
+Thinking over the situation which has arisen, we turn
+
+## CH8-149 (p. 224)
+
+1our attention to the position of the White knight. It has settled on a piece-base, secure from pawn attacks by the opponent, on a square located in the centre of the board.
+
+## CH8-150 (p. 224)
+
+With abstract reasoning, one could say that the White knight occupies a splendid position. But the only question worth asking is what concrete benefit can be derived in the present position from his "splendid" knight, which there and then turns out to be almost none v whatsoever, apart from the fact that it cuts off the Black queen from the e3 square.
+
+## CH8-151 (p. 224)
+
+We cannot but recall the words of gold of Chigorin about the fact that the strength of a piece is determined not by its location (static!) but its concrete prospects of action (dynamic!).
+
+## CH8-152 (p. 224)
+
+White's only dynamic chance, which he also tries, consists of the advance of the h-pawn, but the miserable position of his pieces, and particularly the king, dooms this plan to failure.
+
+## CH8-153 (p. 224)
+
+32. Kd2 Bc5 33. h4 Re8 34. h5 f5!
+
+## CH8-154 (p. 224)
+
+An attack prepared by the two previous moves. 35 Nxf5 is not possible in view of 35 ... Bxe3+ and ... Bxb1.
+
+## CH8-155 (p. 224)
+
+35. Qf4?
+
+## CH8-156 (p. 224)
+
+Undoubtedly better is 35 gxf6
+
+## CH8-157 (p. 224)
+
+Qxf6 36. Qg3 and, if 36 ... Bd6,
+
+## CH8-158 (p. 224)
+
+then 37 Qf3 and White, by giving back the exchange, could make it difficult for the opponent to carry out a decisive attack. But now the denouement is fast approaching, since Black, with the help of the f-pawn, forcibly removes the last cover of the White king - the e3 pawn.
+
+## CH8-159 (p. 224)
+
+35 ... Bd6 36. Qf2 f4! 37. exf4 Re4 38. Rh4 Bxb1 39. Kc1 Bd3 40. b4 cxb3 41. axb3 Qa5 0-1
+
+## CH8-160 (p. 224)
+
+Can it be said that Black gained victory due to the "advantage of the two bishops"? Of course not! White lost as a consequence of the many positional weaknesses in his game and the exposed position of his king, stuck in the centre. One can say with confidence that if it were not the opponent's bishop, but his knight, which was placed on d3, then likewise White would not have saved the game.
+
+## CH8-161 (p. 224)
+
+Thus to the question whether, in evaluating a position, the factor of the presence of the two bishops for one of the opponents should be taken into account as a particular aspect of the advantage, the right reply, in our view, will be - no, it should not.
+
+## CH8-162 (p. 225)
+
+This particular aspect of the advantage does not exist, as does not exist the advantage of the "two knights", ""two rooks" etc. Just as the exploitation of a weak square by the knight, the intensification of activity by the bishops is based on a complex of weak squares or other weaknesses of the position, on the features of a given concrete position as a whole.

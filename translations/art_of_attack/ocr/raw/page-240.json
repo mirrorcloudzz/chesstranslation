@@ -1,0 +1,280 @@
+{
+  "pdf_page": 240,
+  "printed_page": 240,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "240",
+      "bbox": [
+        250.0,
+        117.0,
+        314.0,
+        148.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        677.0,
+        119.0,
+        1171.0,
+        160.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The knight here is 'attacking empty squares,' but 4 Qc3 would have been no",
+      "bbox": [
+        293.0,
+        266.0,
+        1567.0,
+        309.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "better. The most important point is that White cannot play 4 c4 to support the",
+      "bbox": [
+        248.0,
+        316.0,
+        1567.0,
+        364.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "knight on d5, since it would be answered by 4...g4 5 Qh4 (or 5 oel Qd4 6 Vd3",
+      "bbox": [
+        247.0,
+        367.0,
+        1565.0,
+        411.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Af5) 5...Qd4 6 Vd3, after which either 6...c6 or 6...Axd5 is in Black's favour.",
+      "bbox": [
+        246.0,
+        413.0,
+        1552.0,
+        457.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4...g4 5 Qd4 6 Vn",
+      "bbox": [
+        291.0,
+        464.0,
+        702.0,
+        506.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 6 Ve4, then 6...Va7!, threatening 7...Af5.",
+      "bbox": [
+        291.0,
+        513.0,
+        1026.0,
+        560.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "6...h5",
+      "bbox": [
+        290.0,
+        568.0,
+        384.0,
+        598.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The rest of the game is not of interest to us here; Black's active piece play",
+      "bbox": [
+        290.0,
+        618.0,
+        1564.0,
+        665.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "serves as sufficient compensation for the pawn, there is no question of his castled",
+      "bbox": [
+        245.0,
+        669.0,
+        1564.0,
+        713.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "position being in danger, and it is really White who is in difficulties. In the end",
+      "bbox": [
+        244.0,
+        719.0,
+        1563.0,
+        760.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White did in fact lose the game after making some rather weak moves.",
+      "bbox": [
+        243.0,
+        769.0,
+        1416.0,
+        812.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Our further consideration of the attack on the long castled position will be",
+      "bbox": [
+        289.0,
+        820.0,
+        1563.0,
+        866.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "confined to those features which are specific to queenside castling. This means,",
+      "bbox": [
+        243.0,
+        870.0,
+        1560.0,
+        916.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "in the main, that we need only consider positions where the king is still on c 1,",
+      "bbox": [
+        243.0,
+        920.0,
+        1560.0,
+        967.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "since if it has already retired to bl a position has arisen which corresponds sym-",
+      "bbox": [
+        243.0,
+        970.0,
+        1560.0,
+        1018.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "metrically to that after castling kingside.",
+      "bbox": [
+        241.0,
+        1021.0,
+        911.0,
+        1063.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "This position is taken from the game Rabinovich-Romanovsky, Moscow",
+      "bbox": [
+        279.0,
+        1727.0,
+        1555.0,
+        1775.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1925. Black, to move, has no way of preventing exf6 and in desperation plays for",
+      "bbox": [
+        238.0,
+        1776.0,
+        1555.0,
+        1827.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "a counterattack on the enemy king based on the pattern of Boden's Mate (see",
+      "bbox": [
+        234.0,
+        1829.0,
+        1553.0,
+        1876.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1...Aa3! 2 exf6?",
+      "bbox": [
+        280.0,
+        1924.0,
+        556.0,
+        1961.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White, who has in fact the better of the game, here takes the wrong path and",
+      "bbox": [
+        276.0,
+        1979.0,
+        1552.0,
+        2030.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "spends a tempo on 'burying the corpse on f6' instead of using it to consolidate his",
+      "bbox": [
+        232.0,
+        2030.0,
+        1551.0,
+        2078.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "threatened king position, e.g. 2 Xxd3! Äxd3 3 ! and if 3...Vc5, then 4 Q)a4",
+      "bbox": [
+        231.0,
+        2080.0,
+        1550.0,
+        2126.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "and finally 5 exf6, etc.",
+      "bbox": [
+        231.0,
+        2130.0,
+        601.0,
+        2169.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "2...vc5 3 Ad2?",
+      "bbox": [
+        275.0,
+        2176.0,
+        543.0,
+        2213.0
+      ],
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "pdf_page": 306,
+  "printed_page": 306,
+  "width": 1725,
+  "height": 2475,
+  "engine": "Windows OCR en-US",
+  "status": "raw_ocr_not_manually_proofread",
+  "lines": [
+    {
+      "text": "306",
+      "bbox": [
+        192.0,
+        133.0,
+        255.0,
+        165.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The Art of Attack in Chess",
+      "bbox": [
+        619.0,
+        135.0,
+        1112.0,
+        175.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "capturing White's a-pawn — would bring him too little in return for the tempi",
+      "bbox": [
+        188.0,
+        887.0,
+        1505.0,
+        928.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "spent on it. On the other hand, there are Black's unweakened king position and",
+      "bbox": [
+        189.0,
+        937.0,
+        1505.0,
+        979.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "White's weakness on the light squares. The latter makes itself felt if the position",
+      "bbox": [
+        187.0,
+        988.0,
+        1504.0,
+        1030.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "is opened up. But how is White to progress, if he is not to play f5, i.e. if he does",
+      "bbox": [
+        188.0,
+        1038.0,
+        1504.0,
+        1079.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "not loosen up the situation on the light squares a little? Surely not by 1 hg5,",
+      "bbox": [
+        188.0,
+        1087.0,
+        1503.0,
+        1131.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "which clearly involves a doubtful sacrifice. Nor by I g4 Qc6 2 Qh4, on which",
+      "bbox": [
+        187.0,
+        1135.0,
+        1504.0,
+        1179.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black plays 2...f5; for while, logically, the blocked position should then be over-",
+      "bbox": [
+        187.0,
+        1188.0,
+        1503.0,
+        1229.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "come by 3 exf6, in fact the reply 3...gxf6 opens up the prospect of counterplay for",
+      "bbox": [
+        186.0,
+        1238.0,
+        1504.0,
+        1281.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Black by ...e5.",
+      "bbox": [
+        186.0,
+        1288.0,
+        423.0,
+        1327.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "There is no doubt about it: the position is not yet ripe for an attack on the king;",
+      "bbox": [
+        230.0,
+        1339.0,
+        1502.0,
+        1383.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "it needs to be strengthened still further, or more exactly, the black pieces need to",
+      "bbox": [
+        186.0,
+        1390.0,
+        1503.0,
+        1433.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "be driven further away. This can be done by playing the dark-squared bishop,",
+      "bbox": [
+        185.0,
+        1440.0,
+        1501.0,
+        1484.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "with gain of tempo, on to the diagonal a3-f8, where it will settle.",
+      "bbox": [
+        185.0,
+        1491.0,
+        1255.0,
+        1531.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "1 Acl 2 Aa3 Vd7",
+      "bbox": [
+        232.0,
+        1537.0,
+        622.0,
+        1572.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The defence is even more difficult after 2...Vc7.",
+      "bbox": [
+        229.0,
+        1589.0,
+        1027.0,
+        1625.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "3 Vh4",
+      "bbox": [
+        229.0,
+        1637.0,
+        339.0,
+        1671.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "If 3...Vxa4?, then 4 Ae7 Vd7 5 Af6, when Black is without resource.",
+      "bbox": [
+        229.0,
+        1687.0,
+        1393.0,
+        1730.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "4 Qg5 h6 5 Qh3",
+      "bbox": [
+        228.0,
+        1737.0,
+        512.0,
+        1781.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Sacrificing the knight would be not only unclear but also superfluous. The",
+      "bbox": [
+        228.0,
+        1793.0,
+        1500.0,
+        1838.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "more expendable pawns will now have their say and so bring about the weaken-",
+      "bbox": [
+        182.0,
+        1845.0,
+        1499.0,
+        1887.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "ing of Black's king position.",
+      "bbox": [
+        182.0,
+        1894.0,
+        650.0,
+        1934.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "5...Vd8 6 Vh5 7 g4 8 g5 Ad7 9 xn!",
+      "bbox": [
+        227.0,
+        1939.0,
+        1027.0,
+        1985.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "The pawn on a4 does not count, but the one on c2 must be kept alive.",
+      "bbox": [
+        226.0,
+        1995.0,
+        1372.0,
+        2040.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "9...Axa4 10 Äg2",
+      "bbox": [
+        226.0,
+        2041.0,
+        508.0,
+        2085.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "Otherwise White plays 11 gxh6 Vh4 12 Vxh4, followed by 13 Xxg7+ and 14",
+      "bbox": [
+        226.0,
+        2094.0,
+        1498.0,
+        2142.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "hg5.",
+      "bbox": [
+        180.0,
+        2141.0,
+        265.0,
+        2185.0
+      ],
+      "confidence": null
+    },
+    {
+      "text": "11 Xn Adi 12 xg4 Qf813 gxh6 g6 14 gxh515 Oxf7+ 16 zg7#",
+      "bbox": [
+        227.0,
+        2194.0,
+        1461.0,
+        2243.0
+      ],
+      "confidence": null
+    }
+  ]
+}
