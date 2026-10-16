@@ -1,7 +1,7 @@
 import json, re
 from collections import Counter
 from pathlib import Path
-root = Path(r'C:\Users\12059\Documents\Codex\chess')
+root = Path(str(Path(__file__).resolve().parents[3]))
 items = json.loads((root/'translations/chess_middlegame_planning/14_chapter_four_reviewed.json').read_text(encoding='utf-8'))
 pat = r'(?<![A-Za-z])(?:[KQRBN][a-h1-8]?x?[a-h][1-8]|[a-h]x[a-h][1-8](?:=[QRBN])?|O-O(?:-O)?)(?![A-Za-z0-9])'
 for s in items:

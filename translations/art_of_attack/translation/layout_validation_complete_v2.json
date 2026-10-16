@@ -1,0 +1,4575 @@
+{
+  "method": "Per-column full segment text coverage, page bounds, image counts, diagram/anchor/next-block page equality; rendered pages require separate visual review.",
+  "sections": [
+    {
+      "section": "front_preface",
+      "file": "output/pdf/art_of_attack_bilingual_complete/00_front_preface_bilingual_proof_v2.pdf",
+      "sha256": "2fee3ad62cabb0d5052de685d2e2d36ef3458f44edee0e3f9e1549f2bc30dc67",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [],
+      "pages": 3,
+      "images": 0,
+      "column_extraction_fallbacks": [],
+      "ok": true,
+      "rendered_pages": 3
+    },
+    {
+      "section": "introduction",
+      "file": "output/pdf/art_of_attack_bilingual_complete/01_introduction_bilingual_proof_v2.pdf",
+      "sha256": "700ecf01fea0182ec961e34a00643e9eca47a9211145cc6c602240b3dc1b8f38",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p007-fig01",
+          "figure_pages": [
+            3
+          ],
+          "anchor_pages": [
+            3
+          ],
+          "next_pages": [
+            3
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p008-fig01",
+          "figure_pages": [
+            4
+          ],
+          "anchor_pages": [
+            4
+          ],
+          "next_pages": [
+            4
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p009-fig01",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p011-fig01",
+          "figure_pages": [
+            7
+          ],
+          "anchor_pages": [
+            7
+          ],
+          "next_pages": [
+            7
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 10,
+      "images": 4,
+      "column_extraction_fallbacks": [],
+      "ok": true,
+      "rendered_pages": 10
+    },
+    {
+      "section": "ch01",
+      "file": "output/pdf/art_of_attack_bilingual_complete/02_ch01_bilingual_proof_v2.pdf",
+      "sha256": "38ccc7463d942035c39b1d0697c80b9e7e64b081dd82cd88e94ccf9eb194b42b",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p015-fig01",
+          "figure_pages": [
+            2
+          ],
+          "anchor_pages": [
+            2
+          ],
+          "next_pages": [
+            2
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p016-fig01",
+          "figure_pages": [
+            3
+          ],
+          "anchor_pages": [
+            3
+          ],
+          "next_pages": [
+            3
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p017-fig01",
+          "figure_pages": [
+            4
+          ],
+          "anchor_pages": [
+            4
+          ],
+          "next_pages": [
+            4
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p017-fig02",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p018-fig01",
+          "figure_pages": [
+            6
+          ],
+          "anchor_pages": [
+            6
+          ],
+          "next_pages": [
+            6
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p020-fig01",
+          "figure_pages": [
+            8
+          ],
+          "anchor_pages": [
+            8
+          ],
+          "next_pages": [
+            8
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p020-fig02",
+          "figure_pages": [
+            9
+          ],
+          "anchor_pages": [
+            9
+          ],
+          "next_pages": [
+            9
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p022-fig01",
+          "figure_pages": [
+            11
+          ],
+          "anchor_pages": [
+            11
+          ],
+          "next_pages": [
+            11
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p023-fig01",
+          "figure_pages": [
+            13
+          ],
+          "anchor_pages": [
+            13
+          ],
+          "next_pages": [
+            13
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p024-fig01",
+          "figure_pages": [
+            14
+          ],
+          "anchor_pages": [
+            14
+          ],
+          "next_pages": [
+            14
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p024-fig02",
+          "figure_pages": [
+            15
+          ],
+          "anchor_pages": [
+            15
+          ],
+          "next_pages": [
+            15
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p025-fig01",
+          "figure_pages": [
+            16
+          ],
+          "anchor_pages": [
+            16
+          ],
+          "next_pages": [
+            16
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p026-fig01",
+          "figure_pages": [
+            18
+          ],
+          "anchor_pages": [
+            18
+          ],
+          "next_pages": [
+            18
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p027-fig01",
+          "figure_pages": [
+            19
+          ],
+          "anchor_pages": [
+            19
+          ],
+          "next_pages": [
+            19
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 19,
+      "images": 14,
+      "column_extraction_fallbacks": [
+        {
+          "segment": "CH1-100",
+          "language": "zh"
+        }
+      ],
+      "ok": true,
+      "rendered_pages": 19
+    },
+    {
+      "section": "ch02",
+      "file": "output/pdf/art_of_attack_bilingual_complete/03_ch02_bilingual_proof_v2.pdf",
+      "sha256": "32d2c62a799ae90c1d4abdb03aec07a87f9d64110ee2170514bb5bef15b0e7ce",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p029-fig01",
+          "figure_pages": [
+            2
+          ],
+          "anchor_pages": [
+            2
+          ],
+          "next_pages": [
+            2
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p030-fig01",
+          "figure_pages": [
+            3
+          ],
+          "anchor_pages": [
+            3
+          ],
+          "next_pages": [
+            3
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p030-fig02",
+          "figure_pages": [
+            4
+          ],
+          "anchor_pages": [
+            4
+          ],
+          "next_pages": [
+            4
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p031-fig01",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p031-fig02",
+          "figure_pages": [
+            6
+          ],
+          "anchor_pages": [
+            6
+          ],
+          "next_pages": [
+            6
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p032-fig01",
+          "figure_pages": [
+            7
+          ],
+          "anchor_pages": [
+            7
+          ],
+          "next_pages": [
+            7
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p032-fig02",
+          "figure_pages": [
+            8
+          ],
+          "anchor_pages": [
+            8
+          ],
+          "next_pages": [
+            8
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p033-fig01",
+          "figure_pages": [
+            9
+          ],
+          "anchor_pages": [
+            9
+          ],
+          "next_pages": [
+            9
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p034-fig01",
+          "figure_pages": [
+            10
+          ],
+          "anchor_pages": [
+            10
+          ],
+          "next_pages": [
+            10
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p035-fig01",
+          "figure_pages": [
+            11
+          ],
+          "anchor_pages": [
+            11
+          ],
+          "next_pages": [
+            11
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p036-fig01",
+          "figure_pages": [
+            14
+          ],
+          "anchor_pages": [
+            14
+          ],
+          "next_pages": [
+            14
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p037-fig01",
+          "figure_pages": [
+            15
+          ],
+          "anchor_pages": [
+            15
+          ],
+          "next_pages": [
+            15
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p038-fig01",
+          "figure_pages": [
+            16
+          ],
+          "anchor_pages": [
+            16
+          ],
+          "next_pages": [
+            16
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p039-fig01",
+          "figure_pages": [
+            18
+          ],
+          "anchor_pages": [
+            18
+          ],
+          "next_pages": [
+            18
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p040-fig01",
+          "figure_pages": [
+            19
+          ],
+          "anchor_pages": [
+            19
+          ],
+          "next_pages": [
+            19
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p041-fig01",
+          "figure_pages": [
+            21
+          ],
+          "anchor_pages": [
+            21
+          ],
+          "next_pages": [
+            21
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p042-fig01",
+          "figure_pages": [
+            22
+          ],
+          "anchor_pages": [
+            22
+          ],
+          "next_pages": [
+            22
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p044-fig01",
+          "figure_pages": [
+            24
+          ],
+          "anchor_pages": [
+            24
+          ],
+          "next_pages": [
+            24
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p045-fig01",
+          "figure_pages": [
+            25
+          ],
+          "anchor_pages": [
+            25
+          ],
+          "next_pages": [
+            25
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p045-fig02",
+          "figure_pages": [
+            26
+          ],
+          "anchor_pages": [
+            26
+          ],
+          "next_pages": [
+            26
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p047-fig01",
+          "figure_pages": [
+            28
+          ],
+          "anchor_pages": [
+            28
+          ],
+          "next_pages": [
+            28
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p047-fig02",
+          "figure_pages": [
+            29
+          ],
+          "anchor_pages": [
+            29
+          ],
+          "next_pages": [
+            29
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p048-fig01",
+          "figure_pages": [
+            30
+          ],
+          "anchor_pages": [
+            30
+          ],
+          "next_pages": [
+            30
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p050-fig01",
+          "figure_pages": [
+            32
+          ],
+          "anchor_pages": [
+            32
+          ],
+          "next_pages": [
+            32
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p050-fig02",
+          "figure_pages": [
+            33
+          ],
+          "anchor_pages": [
+            33
+          ],
+          "next_pages": [
+            33
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 33,
+      "images": 25,
+      "column_extraction_fallbacks": [],
+      "ok": true,
+      "rendered_pages": 33
+    },
+    {
+      "section": "ch03",
+      "file": "output/pdf/art_of_attack_bilingual_complete/04_ch03_bilingual_proof_v2.pdf",
+      "sha256": "2cbaa9fb2901bee5ad4543cbbc9928d3e488a2cf93d0056642eeb82d683ca367",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p053-fig01",
+          "figure_pages": [
+            3
+          ],
+          "anchor_pages": [
+            3
+          ],
+          "next_pages": [
+            3
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p055-fig01",
+          "figure_pages": [
+            6
+          ],
+          "anchor_pages": [
+            6
+          ],
+          "next_pages": [
+            6
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p056-fig01",
+          "figure_pages": [
+            7
+          ],
+          "anchor_pages": [
+            7
+          ],
+          "next_pages": [
+            7
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p058-fig01",
+          "figure_pages": [
+            9
+          ],
+          "anchor_pages": [
+            9
+          ],
+          "next_pages": [
+            9
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p058-fig02",
+          "figure_pages": [
+            10
+          ],
+          "anchor_pages": [
+            10
+          ],
+          "next_pages": [
+            10
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p062-fig01",
+          "figure_pages": [
+            13
+          ],
+          "anchor_pages": [
+            13
+          ],
+          "next_pages": [
+            13
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p062-fig02",
+          "figure_pages": [
+            14
+          ],
+          "anchor_pages": [
+            14
+          ],
+          "next_pages": [
+            14
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p063-fig01",
+          "figure_pages": [
+            16
+          ],
+          "anchor_pages": [
+            16
+          ],
+          "next_pages": [
+            16
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 18,
+      "images": 8,
+      "column_extraction_fallbacks": [],
+      "ok": true,
+      "rendered_pages": 18
+    },
+    {
+      "section": "ch04",
+      "file": "output/pdf/art_of_attack_bilingual_complete/05_ch04_bilingual_proof_v2.pdf",
+      "sha256": "1ee4a3439dbe1031e49444c722ac0a1fb59e501237cd82117a8dccf51a06bf0f",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p066-fig01",
+          "figure_pages": [
+            1
+          ],
+          "anchor_pages": [
+            1
+          ],
+          "next_pages": [
+            1
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p066-fig02",
+          "figure_pages": [
+            2
+          ],
+          "anchor_pages": [
+            2
+          ],
+          "next_pages": [
+            2
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p067-fig01",
+          "figure_pages": [
+            2
+          ],
+          "anchor_pages": [
+            2
+          ],
+          "next_pages": [
+            2
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p067-fig02",
+          "figure_pages": [
+            2
+          ],
+          "anchor_pages": [
+            2
+          ],
+          "next_pages": [
+            2
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p067-fig03",
+          "figure_pages": [
+            3
+          ],
+          "anchor_pages": [
+            3
+          ],
+          "next_pages": [
+            3
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p068-fig01",
+          "figure_pages": [
+            3
+          ],
+          "anchor_pages": [
+            3
+          ],
+          "next_pages": [
+            3
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p068-fig02",
+          "figure_pages": [
+            4
+          ],
+          "anchor_pages": [
+            4
+          ],
+          "next_pages": [
+            4
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p069-fig01",
+          "figure_pages": [
+            4
+          ],
+          "anchor_pages": [
+            4
+          ],
+          "next_pages": [
+            4
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p069-fig02",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p069-fig03",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p070-fig01",
+          "figure_pages": [
+            6
+          ],
+          "anchor_pages": [
+            6
+          ],
+          "next_pages": [
+            6
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p070-fig02",
+          "figure_pages": [
+            6
+          ],
+          "anchor_pages": [
+            6
+          ],
+          "next_pages": [
+            6
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p070-fig03",
+          "figure_pages": [
+            7
+          ],
+          "anchor_pages": [
+            7
+          ],
+          "next_pages": [
+            7
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p071-fig01",
+          "figure_pages": [
+            7
+          ],
+          "anchor_pages": [
+            7
+          ],
+          "next_pages": [
+            7
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p071-fig02",
+          "figure_pages": [
+            8
+          ],
+          "anchor_pages": [
+            8
+          ],
+          "next_pages": [
+            8
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p072-fig01",
+          "figure_pages": [
+            8
+          ],
+          "anchor_pages": [
+            8
+          ],
+          "next_pages": [
+            8
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p072-fig02",
+          "figure_pages": [
+            9
+          ],
+          "anchor_pages": [
+            9
+          ],
+          "next_pages": [
+            9
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p072-fig03",
+          "figure_pages": [
+            9
+          ],
+          "anchor_pages": [
+            9
+          ],
+          "next_pages": [
+            9
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p073-fig01",
+          "figure_pages": [
+            10
+          ],
+          "anchor_pages": [
+            10
+          ],
+          "next_pages": [
+            10
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p073-fig02",
+          "figure_pages": [
+            10
+          ],
+          "anchor_pages": [
+            10
+          ],
+          "next_pages": [
+            10
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p074-fig01",
+          "figure_pages": [
+            11
+          ],
+          "anchor_pages": [
+            11
+          ],
+          "next_pages": [
+            11
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p074-fig02",
+          "figure_pages": [
+            12
+          ],
+          "anchor_pages": [
+            12
+          ],
+          "next_pages": [
+            12
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p075-fig01",
+          "figure_pages": [
+            12
+          ],
+          "anchor_pages": [
+            12
+          ],
+          "next_pages": [
+            12
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p075-fig02",
+          "figure_pages": [
+            13
+          ],
+          "anchor_pages": [
+            13
+          ],
+          "next_pages": [
+            13
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p075-fig03",
+          "figure_pages": [
+            13
+          ],
+          "anchor_pages": [
+            13
+          ],
+          "next_pages": [
+            13
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p076-fig01",
+          "figure_pages": [
+            14
+          ],
+          "anchor_pages": [
+            14
+          ],
+          "next_pages": [
+            14
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p076-fig02",
+          "figure_pages": [
+            15
+          ],
+          "anchor_pages": [
+            15
+          ],
+          "next_pages": [
+            15
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p077-fig01",
+          "figure_pages": [
+            16
+          ],
+          "anchor_pages": [
+            16
+          ],
+          "next_pages": [
+            16
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p077-fig02",
+          "figure_pages": [
+            17
+          ],
+          "anchor_pages": [
+            17
+          ],
+          "next_pages": [
+            17
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p078-fig01",
+          "figure_pages": [
+            18
+          ],
+          "anchor_pages": [
+            18
+          ],
+          "next_pages": [
+            18
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p078-fig02",
+          "figure_pages": [
+            19
+          ],
+          "anchor_pages": [
+            19
+          ],
+          "next_pages": [
+            19
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 19,
+      "images": 31,
+      "column_extraction_fallbacks": [],
+      "ok": true,
+      "rendered_pages": 19
+    },
+    {
+      "section": "ch05",
+      "file": "output/pdf/art_of_attack_bilingual_complete/06_ch05_bilingual_proof_v2.pdf",
+      "sha256": "bf06b5c36d76447d3021d904aecd4f48a3617e60aff0c835cdaec5cedfb7bea4",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p080-fig01",
+          "figure_pages": [
+            2
+          ],
+          "anchor_pages": [
+            2
+          ],
+          "next_pages": [
+            2
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p081-fig01",
+          "figure_pages": [
+            3
+          ],
+          "anchor_pages": [
+            3
+          ],
+          "next_pages": [
+            3
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p082-fig01",
+          "figure_pages": [
+            4
+          ],
+          "anchor_pages": [
+            4
+          ],
+          "next_pages": [
+            4
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p083-fig01",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p084-fig01",
+          "figure_pages": [
+            6
+          ],
+          "anchor_pages": [
+            6
+          ],
+          "next_pages": [
+            6
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p085-fig01",
+          "figure_pages": [
+            8
+          ],
+          "anchor_pages": [
+            8
+          ],
+          "next_pages": [
+            8
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p085-fig02",
+          "figure_pages": [
+            9
+          ],
+          "anchor_pages": [
+            9
+          ],
+          "next_pages": [
+            9
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p086-fig01",
+          "figure_pages": [
+            10
+          ],
+          "anchor_pages": [
+            10
+          ],
+          "next_pages": [
+            10
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p087-fig01",
+          "figure_pages": [
+            11
+          ],
+          "anchor_pages": [
+            11
+          ],
+          "next_pages": [
+            11
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p087-fig02",
+          "figure_pages": [
+            12
+          ],
+          "anchor_pages": [
+            12
+          ],
+          "next_pages": [
+            12
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p088-fig01",
+          "figure_pages": [
+            13
+          ],
+          "anchor_pages": [
+            13
+          ],
+          "next_pages": [
+            13
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p089-fig01",
+          "figure_pages": [
+            14
+          ],
+          "anchor_pages": [
+            14
+          ],
+          "next_pages": [
+            14
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p090-fig01",
+          "figure_pages": [
+            15
+          ],
+          "anchor_pages": [
+            15
+          ],
+          "next_pages": [
+            15
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p090-fig02",
+          "figure_pages": [
+            16
+          ],
+          "anchor_pages": [
+            16
+          ],
+          "next_pages": [
+            16
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p091-fig01",
+          "figure_pages": [
+            17
+          ],
+          "anchor_pages": [
+            17
+          ],
+          "next_pages": [
+            17
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p092-fig01",
+          "figure_pages": [
+            18
+          ],
+          "anchor_pages": [
+            18
+          ],
+          "next_pages": [
+            18
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p093-fig01",
+          "figure_pages": [
+            19
+          ],
+          "anchor_pages": [
+            19
+          ],
+          "next_pages": [
+            19
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p093-fig02",
+          "figure_pages": [
+            20
+          ],
+          "anchor_pages": [
+            20
+          ],
+          "next_pages": [
+            20
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p095-fig01",
+          "figure_pages": [
+            22
+          ],
+          "anchor_pages": [
+            22
+          ],
+          "next_pages": [
+            22
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p096-fig01",
+          "figure_pages": [
+            24
+          ],
+          "anchor_pages": [
+            24
+          ],
+          "next_pages": [
+            24
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p097-fig01",
+          "figure_pages": [
+            25
+          ],
+          "anchor_pages": [
+            25
+          ],
+          "next_pages": [
+            25
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p097-fig02",
+          "figure_pages": [
+            26
+          ],
+          "anchor_pages": [
+            26
+          ],
+          "next_pages": [
+            26
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p098-fig01",
+          "figure_pages": [
+            28
+          ],
+          "anchor_pages": [
+            28
+          ],
+          "next_pages": [
+            28
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p099-fig01",
+          "figure_pages": [
+            29
+          ],
+          "anchor_pages": [
+            29
+          ],
+          "next_pages": [
+            29
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p100-fig01",
+          "figure_pages": [
+            30
+          ],
+          "anchor_pages": [
+            30
+          ],
+          "next_pages": [
+            30
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p102-fig01",
+          "figure_pages": [
+            32
+          ],
+          "anchor_pages": [
+            32
+          ],
+          "next_pages": [
+            32
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p103-fig01",
+          "figure_pages": [
+            33
+          ],
+          "anchor_pages": [
+            33
+          ],
+          "next_pages": [
+            33
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p103-fig02",
+          "figure_pages": [
+            34
+          ],
+          "anchor_pages": [
+            34
+          ],
+          "next_pages": [
+            34
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p104-fig01",
+          "figure_pages": [
+            35
+          ],
+          "anchor_pages": [
+            35
+          ],
+          "next_pages": [
+            35
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p105-fig01",
+          "figure_pages": [
+            36
+          ],
+          "anchor_pages": [
+            36
+          ],
+          "next_pages": [
+            36
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p106-fig01",
+          "figure_pages": [
+            37
+          ],
+          "anchor_pages": [
+            37
+          ],
+          "next_pages": [
+            37
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p107-fig01",
+          "figure_pages": [
+            38
+          ],
+          "anchor_pages": [
+            38
+          ],
+          "next_pages": [
+            38
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p108-fig01",
+          "figure_pages": [
+            40
+          ],
+          "anchor_pages": [
+            40
+          ],
+          "next_pages": [
+            40
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p109-fig01",
+          "figure_pages": [
+            41
+          ],
+          "anchor_pages": [
+            41
+          ],
+          "next_pages": [
+            41
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p110-fig01",
+          "figure_pages": [
+            43
+          ],
+          "anchor_pages": [
+            43
+          ],
+          "next_pages": [
+            43
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p111-fig01",
+          "figure_pages": [
+            45
+          ],
+          "anchor_pages": [
+            45
+          ],
+          "next_pages": [
+            45
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p113-fig01",
+          "figure_pages": [
+            46
+          ],
+          "anchor_pages": [
+            46
+          ],
+          "next_pages": [
+            46
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p113-fig02",
+          "figure_pages": [
+            47
+          ],
+          "anchor_pages": [
+            47
+          ],
+          "next_pages": [
+            47
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p114-fig01",
+          "figure_pages": [
+            48
+          ],
+          "anchor_pages": [
+            48
+          ],
+          "next_pages": [
+            48
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p115-fig01",
+          "figure_pages": [
+            50
+          ],
+          "anchor_pages": [
+            50
+          ],
+          "next_pages": [
+            50
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p117-fig01",
+          "figure_pages": [
+            52
+          ],
+          "anchor_pages": [
+            52
+          ],
+          "next_pages": [
+            52
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p118-fig01",
+          "figure_pages": [
+            53
+          ],
+          "anchor_pages": [
+            53
+          ],
+          "next_pages": [
+            53
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p118-fig02",
+          "figure_pages": [
+            54
+          ],
+          "anchor_pages": [
+            54
+          ],
+          "next_pages": [
+            54
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p120-fig01",
+          "figure_pages": [
+            56
+          ],
+          "anchor_pages": [
+            56
+          ],
+          "next_pages": [
+            56
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 57,
+      "images": 44,
+      "column_extraction_fallbacks": [],
+      "ok": true,
+      "rendered_pages": 57
+    },
+    {
+      "section": "ch06",
+      "file": "output/pdf/art_of_attack_bilingual_complete/07_ch06_bilingual_proof_v2.pdf",
+      "sha256": "83dcfdb6fb2af2ef09421e4df05e3e52eda0c9a5d225ca7459aeca3d19273350",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p121-fig01",
+          "figure_pages": [
+            1
+          ],
+          "anchor_pages": [
+            1
+          ],
+          "next_pages": [
+            1
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p122-fig01",
+          "figure_pages": [
+            2
+          ],
+          "anchor_pages": [
+            2
+          ],
+          "next_pages": [
+            2
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p124-fig01",
+          "figure_pages": [
+            4
+          ],
+          "anchor_pages": [
+            4
+          ],
+          "next_pages": [
+            4
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p124-fig02",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p125-fig01",
+          "figure_pages": [
+            6
+          ],
+          "anchor_pages": [
+            6
+          ],
+          "next_pages": [
+            6
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p126-fig01",
+          "figure_pages": [
+            7
+          ],
+          "anchor_pages": [
+            7
+          ],
+          "next_pages": [
+            7
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p127-fig01",
+          "figure_pages": [
+            8
+          ],
+          "anchor_pages": [
+            8
+          ],
+          "next_pages": [
+            8
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p127-fig02",
+          "figure_pages": [
+            9
+          ],
+          "anchor_pages": [
+            9
+          ],
+          "next_pages": [
+            9
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p128-fig01",
+          "figure_pages": [
+            10
+          ],
+          "anchor_pages": [
+            10
+          ],
+          "next_pages": [
+            10
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p129-fig01",
+          "figure_pages": [
+            11
+          ],
+          "anchor_pages": [
+            11
+          ],
+          "next_pages": [
+            11
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p130-fig01",
+          "figure_pages": [
+            12
+          ],
+          "anchor_pages": [
+            12
+          ],
+          "next_pages": [
+            12
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p132-fig01",
+          "figure_pages": [
+            14
+          ],
+          "anchor_pages": [
+            14
+          ],
+          "next_pages": [
+            14
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p133-fig01",
+          "figure_pages": [
+            16
+          ],
+          "anchor_pages": [
+            16
+          ],
+          "next_pages": [
+            16
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p134-fig01",
+          "figure_pages": [
+            18
+          ],
+          "anchor_pages": [
+            18
+          ],
+          "next_pages": [
+            18
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p136-fig01",
+          "figure_pages": [
+            20
+          ],
+          "anchor_pages": [
+            20
+          ],
+          "next_pages": [
+            20
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p137-fig01",
+          "figure_pages": [
+            21
+          ],
+          "anchor_pages": [
+            21
+          ],
+          "next_pages": [
+            21
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p138-fig01",
+          "figure_pages": [
+            23
+          ],
+          "anchor_pages": [
+            23
+          ],
+          "next_pages": [
+            23
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p139-fig01",
+          "figure_pages": [
+            24
+          ],
+          "anchor_pages": [
+            24
+          ],
+          "next_pages": [
+            24
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p140-fig01",
+          "figure_pages": [
+            26
+          ],
+          "anchor_pages": [
+            26
+          ],
+          "next_pages": [
+            26
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p141-fig01",
+          "figure_pages": [
+            27
+          ],
+          "anchor_pages": [
+            27
+          ],
+          "next_pages": [
+            27
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 27,
+      "images": 20,
+      "column_extraction_fallbacks": [],
+      "ok": true,
+      "rendered_pages": 27
+    },
+    {
+      "section": "ch07",
+      "file": "output/pdf/art_of_attack_bilingual_complete/08_ch07_bilingual_proof_v2.pdf",
+      "sha256": "14f57fdb55634c3025a8b86cd7b4981ba3f5be5efb387a876fdf5e4e0a4f6e72",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p142-fig01",
+          "figure_pages": [
+            1
+          ],
+          "anchor_pages": [
+            1
+          ],
+          "next_pages": [
+            1
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p143-fig01",
+          "figure_pages": [
+            2
+          ],
+          "anchor_pages": [
+            2
+          ],
+          "next_pages": [
+            2
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p143-fig02",
+          "figure_pages": [
+            3
+          ],
+          "anchor_pages": [
+            3
+          ],
+          "next_pages": [
+            3
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p144-fig01",
+          "figure_pages": [
+            4
+          ],
+          "anchor_pages": [
+            4
+          ],
+          "next_pages": [
+            4
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p145-fig01",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p146-fig01",
+          "figure_pages": [
+            7
+          ],
+          "anchor_pages": [
+            7
+          ],
+          "next_pages": [
+            7
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p147-fig01",
+          "figure_pages": [
+            8
+          ],
+          "anchor_pages": [
+            8
+          ],
+          "next_pages": [
+            8
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p148-fig01",
+          "figure_pages": [
+            10
+          ],
+          "anchor_pages": [
+            10
+          ],
+          "next_pages": [
+            10
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p150-fig01",
+          "figure_pages": [
+            12
+          ],
+          "anchor_pages": [
+            12
+          ],
+          "next_pages": [
+            12
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p151-fig01",
+          "figure_pages": [
+            14
+          ],
+          "anchor_pages": [
+            14
+          ],
+          "next_pages": [
+            14
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p151-fig02",
+          "figure_pages": [
+            15
+          ],
+          "anchor_pages": [
+            15
+          ],
+          "next_pages": [
+            15
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p152-fig01",
+          "figure_pages": [
+            16
+          ],
+          "anchor_pages": [
+            16
+          ],
+          "next_pages": [
+            16
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p154-fig01",
+          "figure_pages": [
+            18
+          ],
+          "anchor_pages": [
+            18
+          ],
+          "next_pages": [
+            18
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p155-fig01",
+          "figure_pages": [
+            20
+          ],
+          "anchor_pages": [
+            20
+          ],
+          "next_pages": [
+            20
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p156-fig01",
+          "figure_pages": [
+            21
+          ],
+          "anchor_pages": [
+            21
+          ],
+          "next_pages": [
+            21
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p157-fig01",
+          "figure_pages": [
+            23
+          ],
+          "anchor_pages": [
+            23
+          ],
+          "next_pages": [
+            23
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p158-fig01",
+          "figure_pages": [
+            24
+          ],
+          "anchor_pages": [
+            24
+          ],
+          "next_pages": [
+            24
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p159-fig01",
+          "figure_pages": [
+            25
+          ],
+          "anchor_pages": [
+            25
+          ],
+          "next_pages": [
+            25
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p160-fig01",
+          "figure_pages": [
+            26
+          ],
+          "anchor_pages": [
+            26
+          ],
+          "next_pages": [
+            26
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p161-fig01",
+          "figure_pages": [
+            27
+          ],
+          "anchor_pages": [
+            27
+          ],
+          "next_pages": [
+            27
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p162-fig01",
+          "figure_pages": [
+            28
+          ],
+          "anchor_pages": [
+            28
+          ],
+          "next_pages": [
+            28
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p163-fig01",
+          "figure_pages": [
+            30
+          ],
+          "anchor_pages": [
+            30
+          ],
+          "next_pages": [
+            30
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p164-fig01",
+          "figure_pages": [
+            31
+          ],
+          "anchor_pages": [
+            31
+          ],
+          "next_pages": [
+            31
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p165-fig01",
+          "figure_pages": [
+            33
+          ],
+          "anchor_pages": [
+            33
+          ],
+          "next_pages": [
+            33
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p166-fig01",
+          "figure_pages": [
+            34
+          ],
+          "anchor_pages": [
+            34
+          ],
+          "next_pages": [
+            34
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p167-fig01",
+          "figure_pages": [
+            35
+          ],
+          "anchor_pages": [
+            35
+          ],
+          "next_pages": [
+            35
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p168-fig01",
+          "figure_pages": [
+            37
+          ],
+          "anchor_pages": [
+            37
+          ],
+          "next_pages": [
+            37
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p169-fig01",
+          "figure_pages": [
+            38
+          ],
+          "anchor_pages": [
+            38
+          ],
+          "next_pages": [
+            38
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p169-fig02",
+          "figure_pages": [
+            39
+          ],
+          "anchor_pages": [
+            39
+          ],
+          "next_pages": [
+            39
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p170-fig01",
+          "figure_pages": [
+            40
+          ],
+          "anchor_pages": [
+            40
+          ],
+          "next_pages": [
+            40
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p171-fig01",
+          "figure_pages": [
+            41
+          ],
+          "anchor_pages": [
+            41
+          ],
+          "next_pages": [
+            41
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p172-fig01",
+          "figure_pages": [
+            43
+          ],
+          "anchor_pages": [
+            43
+          ],
+          "next_pages": [
+            43
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p173-fig01",
+          "figure_pages": [
+            43
+          ],
+          "anchor_pages": [
+            43
+          ],
+          "next_pages": [
+            43
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p174-fig01",
+          "figure_pages": [
+            46
+          ],
+          "anchor_pages": [
+            46
+          ],
+          "next_pages": [
+            46
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p176-fig01",
+          "figure_pages": [
+            48
+          ],
+          "anchor_pages": [
+            48
+          ],
+          "next_pages": [
+            48
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p177-fig01",
+          "figure_pages": [
+            49
+          ],
+          "anchor_pages": [
+            49
+          ],
+          "next_pages": [
+            49
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p178-fig01",
+          "figure_pages": [
+            51
+          ],
+          "anchor_pages": [
+            51
+          ],
+          "next_pages": [
+            51
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p179-fig01",
+          "figure_pages": [
+            53
+          ],
+          "anchor_pages": [
+            53
+          ],
+          "next_pages": [
+            53
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p180-fig01",
+          "figure_pages": [
+            54
+          ],
+          "anchor_pages": [
+            54
+          ],
+          "next_pages": [
+            54
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p181-fig01",
+          "figure_pages": [
+            55
+          ],
+          "anchor_pages": [
+            55
+          ],
+          "next_pages": [
+            55
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p181-fig02",
+          "figure_pages": [
+            56
+          ],
+          "anchor_pages": [
+            56
+          ],
+          "next_pages": [
+            56
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 57,
+      "images": 41,
+      "column_extraction_fallbacks": [
+        {
+          "segment": "CH7-41",
+          "language": "zh"
+        },
+        {
+          "segment": "CH7-128",
+          "language": "zh"
+        }
+      ],
+      "ok": true,
+      "rendered_pages": 57
+    },
+    {
+      "section": "ch08",
+      "file": "output/pdf/art_of_attack_bilingual_complete/09_ch08_bilingual_proof_v2.pdf",
+      "sha256": "3c257567e6534f059f6f10aea47da02d00921e664090a193df3d9c0e70e6c8b4",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p184-fig01",
+          "figure_pages": [
+            2
+          ],
+          "anchor_pages": [
+            2
+          ],
+          "next_pages": [
+            2
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p184-fig02",
+          "figure_pages": [
+            3
+          ],
+          "anchor_pages": [
+            3
+          ],
+          "next_pages": [
+            3
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p185-fig01",
+          "figure_pages": [
+            4
+          ],
+          "anchor_pages": [
+            4
+          ],
+          "next_pages": [
+            4
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p186-fig01",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p187-fig01",
+          "figure_pages": [
+            7
+          ],
+          "anchor_pages": [
+            7
+          ],
+          "next_pages": [
+            7
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p188-fig01",
+          "figure_pages": [
+            8
+          ],
+          "anchor_pages": [
+            8
+          ],
+          "next_pages": [
+            8
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p189-fig01",
+          "figure_pages": [
+            9
+          ],
+          "anchor_pages": [
+            9
+          ],
+          "next_pages": [
+            9
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p189-fig02",
+          "figure_pages": [
+            10
+          ],
+          "anchor_pages": [
+            10
+          ],
+          "next_pages": [
+            10
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p190-fig01",
+          "figure_pages": [
+            11
+          ],
+          "anchor_pages": [
+            11
+          ],
+          "next_pages": [
+            11
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p191-fig01",
+          "figure_pages": [
+            12
+          ],
+          "anchor_pages": [
+            12
+          ],
+          "next_pages": [
+            12
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p192-fig01",
+          "figure_pages": [
+            14
+          ],
+          "anchor_pages": [
+            14
+          ],
+          "next_pages": [
+            14
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p193-fig01",
+          "figure_pages": [
+            15
+          ],
+          "anchor_pages": [
+            15
+          ],
+          "next_pages": [
+            15
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p194-fig01",
+          "figure_pages": [
+            16
+          ],
+          "anchor_pages": [
+            16
+          ],
+          "next_pages": [
+            16
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p194-fig02",
+          "figure_pages": [
+            17
+          ],
+          "anchor_pages": [
+            17
+          ],
+          "next_pages": [
+            17
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p195-fig01",
+          "figure_pages": [
+            18
+          ],
+          "anchor_pages": [
+            18
+          ],
+          "next_pages": [
+            18
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p195-fig02",
+          "figure_pages": [
+            19
+          ],
+          "anchor_pages": [
+            19
+          ],
+          "next_pages": [
+            19
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p196-fig01",
+          "figure_pages": [
+            20
+          ],
+          "anchor_pages": [
+            20
+          ],
+          "next_pages": [
+            20
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p197-fig01",
+          "figure_pages": [
+            21
+          ],
+          "anchor_pages": [
+            21
+          ],
+          "next_pages": [
+            21
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p197-fig02",
+          "figure_pages": [
+            22
+          ],
+          "anchor_pages": [
+            22
+          ],
+          "next_pages": [
+            22
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p198-fig01",
+          "figure_pages": [
+            23
+          ],
+          "anchor_pages": [
+            23
+          ],
+          "next_pages": [
+            23
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p199-fig01",
+          "figure_pages": [
+            24
+          ],
+          "anchor_pages": [
+            24
+          ],
+          "next_pages": [
+            24
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p202-fig01",
+          "figure_pages": [
+            28
+          ],
+          "anchor_pages": [
+            28
+          ],
+          "next_pages": [
+            28
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p203-fig01",
+          "figure_pages": [
+            29
+          ],
+          "anchor_pages": [
+            29
+          ],
+          "next_pages": [
+            29
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p205-fig01",
+          "figure_pages": [
+            31
+          ],
+          "anchor_pages": [
+            31
+          ],
+          "next_pages": [
+            31
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p206-fig01",
+          "figure_pages": [
+            33
+          ],
+          "anchor_pages": [
+            33
+          ],
+          "next_pages": [
+            33
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p207-fig01",
+          "figure_pages": [
+            34
+          ],
+          "anchor_pages": [
+            34
+          ],
+          "next_pages": [
+            34
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p208-fig01",
+          "figure_pages": [
+            35
+          ],
+          "anchor_pages": [
+            35
+          ],
+          "next_pages": [
+            35
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p209-fig01",
+          "figure_pages": [
+            36
+          ],
+          "anchor_pages": [
+            36
+          ],
+          "next_pages": [
+            36
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p210-fig01",
+          "figure_pages": [
+            37
+          ],
+          "anchor_pages": [
+            37
+          ],
+          "next_pages": [
+            37
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p211-fig01",
+          "figure_pages": [
+            39
+          ],
+          "anchor_pages": [
+            39
+          ],
+          "next_pages": [
+            39
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p211-fig02",
+          "figure_pages": [
+            40
+          ],
+          "anchor_pages": [
+            40
+          ],
+          "next_pages": [
+            40
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p212-fig01",
+          "figure_pages": [
+            41
+          ],
+          "anchor_pages": [
+            41
+          ],
+          "next_pages": [
+            41
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p213-fig01",
+          "figure_pages": [
+            43
+          ],
+          "anchor_pages": [
+            43
+          ],
+          "next_pages": [
+            43
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p214-fig01",
+          "figure_pages": [
+            44
+          ],
+          "anchor_pages": [
+            44
+          ],
+          "next_pages": [
+            44
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p215-fig01",
+          "figure_pages": [
+            46
+          ],
+          "anchor_pages": [
+            46
+          ],
+          "next_pages": [
+            46
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p216-fig01",
+          "figure_pages": [
+            47
+          ],
+          "anchor_pages": [
+            47
+          ],
+          "next_pages": [
+            47
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p217-fig01",
+          "figure_pages": [
+            48
+          ],
+          "anchor_pages": [
+            48
+          ],
+          "next_pages": [
+            48
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p218-fig01",
+          "figure_pages": [
+            49
+          ],
+          "anchor_pages": [
+            49
+          ],
+          "next_pages": [
+            49
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p219-fig01",
+          "figure_pages": [
+            51
+          ],
+          "anchor_pages": [
+            51
+          ],
+          "next_pages": [
+            51
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p221-fig01",
+          "figure_pages": [
+            54
+          ],
+          "anchor_pages": [
+            54
+          ],
+          "next_pages": [
+            54
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p222-fig01",
+          "figure_pages": [
+            55
+          ],
+          "anchor_pages": [
+            55
+          ],
+          "next_pages": [
+            55
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p222-fig02",
+          "figure_pages": [
+            56
+          ],
+          "anchor_pages": [
+            56
+          ],
+          "next_pages": [
+            56
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p223-fig01",
+          "figure_pages": [
+            57
+          ],
+          "anchor_pages": [
+            57
+          ],
+          "next_pages": [
+            57
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p224-fig01",
+          "figure_pages": [
+            59
+          ],
+          "anchor_pages": [
+            59
+          ],
+          "next_pages": [
+            59
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p225-fig01",
+          "figure_pages": [
+            60
+          ],
+          "anchor_pages": [
+            60
+          ],
+          "next_pages": [
+            60
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p226-fig01",
+          "figure_pages": [
+            61
+          ],
+          "anchor_pages": [
+            61
+          ],
+          "next_pages": [
+            61
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p227-fig01",
+          "figure_pages": [
+            62
+          ],
+          "anchor_pages": [
+            62
+          ],
+          "next_pages": [
+            62
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p228-fig01",
+          "figure_pages": [
+            64
+          ],
+          "anchor_pages": [
+            64
+          ],
+          "next_pages": [
+            64
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p229-fig01",
+          "figure_pages": [
+            65
+          ],
+          "anchor_pages": [
+            65
+          ],
+          "next_pages": [
+            65
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 66,
+      "images": 49,
+      "column_extraction_fallbacks": [
+        {
+          "segment": "CH8-354",
+          "language": "zh"
+        }
+      ],
+      "ok": true,
+      "rendered_pages": 66
+    },
+    {
+      "section": "ch09",
+      "file": "output/pdf/art_of_attack_bilingual_complete/10_ch09_bilingual_proof_v2.pdf",
+      "sha256": "cca1fb76f8a99d3cd7b508c29b6b5e3b7b5c584786601a3a71ab51d39b89e419",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p232-fig01",
+          "figure_pages": [
+            2
+          ],
+          "anchor_pages": [
+            2
+          ],
+          "next_pages": [
+            2
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p233-fig01",
+          "figure_pages": [
+            3
+          ],
+          "anchor_pages": [
+            3
+          ],
+          "next_pages": [
+            3
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p233-fig02",
+          "figure_pages": [
+            4
+          ],
+          "anchor_pages": [
+            4
+          ],
+          "next_pages": [
+            4
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p234-fig01",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p235-fig01",
+          "figure_pages": [
+            6
+          ],
+          "anchor_pages": [
+            6
+          ],
+          "next_pages": [
+            6
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p236-fig01",
+          "figure_pages": [
+            7
+          ],
+          "anchor_pages": [
+            7
+          ],
+          "next_pages": [
+            7
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p239-fig01",
+          "figure_pages": [
+            10
+          ],
+          "anchor_pages": [
+            10
+          ],
+          "next_pages": [
+            10
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p240-fig01",
+          "figure_pages": [
+            12
+          ],
+          "anchor_pages": [
+            12
+          ],
+          "next_pages": [
+            12
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p241-fig01",
+          "figure_pages": [
+            13
+          ],
+          "anchor_pages": [
+            13
+          ],
+          "next_pages": [
+            13
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p242-fig01",
+          "figure_pages": [
+            15
+          ],
+          "anchor_pages": [
+            15
+          ],
+          "next_pages": [
+            15
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p244-fig01",
+          "figure_pages": [
+            17
+          ],
+          "anchor_pages": [
+            17
+          ],
+          "next_pages": [
+            17
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p244-fig02",
+          "figure_pages": [
+            18
+          ],
+          "anchor_pages": [
+            18
+          ],
+          "next_pages": [
+            18
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p245-fig01",
+          "figure_pages": [
+            19
+          ],
+          "anchor_pages": [
+            19
+          ],
+          "next_pages": [
+            19
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 20,
+      "images": 13,
+      "column_extraction_fallbacks": [],
+      "ok": true,
+      "rendered_pages": 20
+    },
+    {
+      "section": "ch10",
+      "file": "output/pdf/art_of_attack_bilingual_complete/11_ch10_bilingual_proof_v2.pdf",
+      "sha256": "8ac35e8a5ff921c3e4ae6456f0529a0c2ba42948f3e12916279ee532a69b7d95",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p250-fig01",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p251-fig01",
+          "figure_pages": [
+            6
+          ],
+          "anchor_pages": [
+            6
+          ],
+          "next_pages": [
+            6
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p253-fig01",
+          "figure_pages": [
+            8
+          ],
+          "anchor_pages": [
+            8
+          ],
+          "next_pages": [
+            8
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p254-fig01",
+          "figure_pages": [
+            10
+          ],
+          "anchor_pages": [
+            10
+          ],
+          "next_pages": [
+            10
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p255-fig01",
+          "figure_pages": [
+            11
+          ],
+          "anchor_pages": [
+            11
+          ],
+          "next_pages": [
+            11
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p255-fig02",
+          "figure_pages": [
+            12
+          ],
+          "anchor_pages": [
+            12
+          ],
+          "next_pages": [
+            12
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p257-fig01",
+          "figure_pages": [
+            14
+          ],
+          "anchor_pages": [
+            14
+          ],
+          "next_pages": [
+            14
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p257-fig02",
+          "figure_pages": [
+            15
+          ],
+          "anchor_pages": [
+            15
+          ],
+          "next_pages": [
+            15
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p259-fig01",
+          "figure_pages": [
+            17
+          ],
+          "anchor_pages": [
+            17
+          ],
+          "next_pages": [
+            17
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p260-fig01",
+          "figure_pages": [
+            19
+          ],
+          "anchor_pages": [
+            19
+          ],
+          "next_pages": [
+            19
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p261-fig01",
+          "figure_pages": [
+            20
+          ],
+          "anchor_pages": [
+            20
+          ],
+          "next_pages": [
+            20
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p262-fig01",
+          "figure_pages": [
+            21
+          ],
+          "anchor_pages": [
+            21
+          ],
+          "next_pages": [
+            21
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p263-fig01",
+          "figure_pages": [
+            23
+          ],
+          "anchor_pages": [
+            23
+          ],
+          "next_pages": [
+            23
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p266-fig01",
+          "figure_pages": [
+            26
+          ],
+          "anchor_pages": [
+            26
+          ],
+          "next_pages": [
+            26
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p267-fig01",
+          "figure_pages": [
+            28
+          ],
+          "anchor_pages": [
+            28
+          ],
+          "next_pages": [
+            28
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p268-fig01",
+          "figure_pages": [
+            29
+          ],
+          "anchor_pages": [
+            29
+          ],
+          "next_pages": [
+            29
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p270-fig01",
+          "figure_pages": [
+            31
+          ],
+          "anchor_pages": [
+            31
+          ],
+          "next_pages": [
+            31
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p270-fig02",
+          "figure_pages": [
+            32
+          ],
+          "anchor_pages": [
+            32
+          ],
+          "next_pages": [
+            32
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p271-fig01",
+          "figure_pages": [
+            33
+          ],
+          "anchor_pages": [
+            33
+          ],
+          "next_pages": [
+            33
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p272-fig01",
+          "figure_pages": [
+            34
+          ],
+          "anchor_pages": [
+            34
+          ],
+          "next_pages": [
+            34
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p273-fig01",
+          "figure_pages": [
+            35
+          ],
+          "anchor_pages": [
+            35
+          ],
+          "next_pages": [
+            35
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p274-fig01",
+          "figure_pages": [
+            36
+          ],
+          "anchor_pages": [
+            36
+          ],
+          "next_pages": [
+            36
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p275-fig01",
+          "figure_pages": [
+            37
+          ],
+          "anchor_pages": [
+            37
+          ],
+          "next_pages": [
+            37
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p276-fig01",
+          "figure_pages": [
+            38
+          ],
+          "anchor_pages": [
+            38
+          ],
+          "next_pages": [
+            38
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p277-fig01",
+          "figure_pages": [
+            40
+          ],
+          "anchor_pages": [
+            40
+          ],
+          "next_pages": [
+            40
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p278-fig01",
+          "figure_pages": [
+            41
+          ],
+          "anchor_pages": [
+            41
+          ],
+          "next_pages": [
+            41
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p279-fig01",
+          "figure_pages": [
+            43
+          ],
+          "anchor_pages": [
+            43
+          ],
+          "next_pages": [
+            43
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p280-fig01",
+          "figure_pages": [
+            44
+          ],
+          "anchor_pages": [
+            44
+          ],
+          "next_pages": [
+            44
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p281-fig01",
+          "figure_pages": [
+            45
+          ],
+          "anchor_pages": [
+            45
+          ],
+          "next_pages": [
+            45
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p284-fig01",
+          "figure_pages": [
+            49
+          ],
+          "anchor_pages": [
+            49
+          ],
+          "next_pages": [
+            49
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p286-fig01",
+          "figure_pages": [
+            52
+          ],
+          "anchor_pages": [
+            52
+          ],
+          "next_pages": [
+            52
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p287-fig01",
+          "figure_pages": [
+            54
+          ],
+          "anchor_pages": [
+            54
+          ],
+          "next_pages": [
+            54
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p288-fig01",
+          "figure_pages": [
+            55
+          ],
+          "anchor_pages": [
+            55
+          ],
+          "next_pages": [
+            55
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p289-fig01",
+          "figure_pages": [
+            57
+          ],
+          "anchor_pages": [
+            57
+          ],
+          "next_pages": [
+            57
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p291-fig01",
+          "figure_pages": [
+            59
+          ],
+          "anchor_pages": [
+            59
+          ],
+          "next_pages": [
+            59
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p292-fig01",
+          "figure_pages": [
+            61
+          ],
+          "anchor_pages": [
+            61
+          ],
+          "next_pages": [
+            61
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 61,
+      "images": 36,
+      "column_extraction_fallbacks": [
+        {
+          "segment": "CH10-124",
+          "language": "zh"
+        },
+        {
+          "segment": "CH10-213",
+          "language": "zh"
+        }
+      ],
+      "ok": true,
+      "rendered_pages": 61
+    },
+    {
+      "section": "ch11",
+      "file": "output/pdf/art_of_attack_bilingual_complete/12_ch11_bilingual_proof_v2.pdf",
+      "sha256": "ee1dd72d34a496dbae480e982c7a567e9150d02dd4c26cd0140b1954f08ef3e3",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p295-fig01",
+          "figure_pages": [
+            4
+          ],
+          "anchor_pages": [
+            4
+          ],
+          "next_pages": [
+            4
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p297-fig01",
+          "figure_pages": [
+            6
+          ],
+          "anchor_pages": [
+            6
+          ],
+          "next_pages": [
+            6
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p297-fig02",
+          "figure_pages": [
+            7
+          ],
+          "anchor_pages": [
+            7
+          ],
+          "next_pages": [
+            7
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p298-fig01",
+          "figure_pages": [
+            8
+          ],
+          "anchor_pages": [
+            8
+          ],
+          "next_pages": [
+            8
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p300-fig01",
+          "figure_pages": [
+            10
+          ],
+          "anchor_pages": [
+            10
+          ],
+          "next_pages": [
+            10
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p301-fig01",
+          "figure_pages": [
+            12
+          ],
+          "anchor_pages": [
+            12
+          ],
+          "next_pages": [
+            12
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p303-fig01",
+          "figure_pages": [
+            14
+          ],
+          "anchor_pages": [
+            14
+          ],
+          "next_pages": [
+            14
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p303-fig02",
+          "figure_pages": [
+            15
+          ],
+          "anchor_pages": [
+            15
+          ],
+          "next_pages": [
+            15
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p304-fig01",
+          "figure_pages": [
+            16
+          ],
+          "anchor_pages": [
+            16
+          ],
+          "next_pages": [
+            16
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p305-fig01",
+          "figure_pages": [
+            17
+          ],
+          "anchor_pages": [
+            17
+          ],
+          "next_pages": [
+            17
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p306-fig01",
+          "figure_pages": [
+            18
+          ],
+          "anchor_pages": [
+            18
+          ],
+          "next_pages": [
+            18
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p307-fig01",
+          "figure_pages": [
+            19
+          ],
+          "anchor_pages": [
+            19
+          ],
+          "next_pages": [
+            19
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p308-fig01",
+          "figure_pages": [
+            21
+          ],
+          "anchor_pages": [
+            21
+          ],
+          "next_pages": [
+            21
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p309-fig01",
+          "figure_pages": [
+            22
+          ],
+          "anchor_pages": [
+            22
+          ],
+          "next_pages": [
+            22
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p310-fig01",
+          "figure_pages": [
+            24
+          ],
+          "anchor_pages": [
+            24
+          ],
+          "next_pages": [
+            24
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p311-fig01",
+          "figure_pages": [
+            26
+          ],
+          "anchor_pages": [
+            26
+          ],
+          "next_pages": [
+            26
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p312-fig01",
+          "figure_pages": [
+            27
+          ],
+          "anchor_pages": [
+            27
+          ],
+          "next_pages": [
+            27
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p313-fig01",
+          "figure_pages": [
+            28
+          ],
+          "anchor_pages": [
+            28
+          ],
+          "next_pages": [
+            28
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p314-fig01",
+          "figure_pages": [
+            30
+          ],
+          "anchor_pages": [
+            30
+          ],
+          "next_pages": [
+            30
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p315-fig01",
+          "figure_pages": [
+            31
+          ],
+          "anchor_pages": [
+            31
+          ],
+          "next_pages": [
+            31
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p316-fig01",
+          "figure_pages": [
+            33
+          ],
+          "anchor_pages": [
+            33
+          ],
+          "next_pages": [
+            33
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p317-fig01",
+          "figure_pages": [
+            35
+          ],
+          "anchor_pages": [
+            35
+          ],
+          "next_pages": [
+            35
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p318-fig01",
+          "figure_pages": [
+            36
+          ],
+          "anchor_pages": [
+            36
+          ],
+          "next_pages": [
+            36
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p320-fig01",
+          "figure_pages": [
+            38
+          ],
+          "anchor_pages": [
+            38
+          ],
+          "next_pages": [
+            38
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p320-fig02",
+          "figure_pages": [
+            39
+          ],
+          "anchor_pages": [
+            39
+          ],
+          "next_pages": [
+            39
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p321-fig01",
+          "figure_pages": [
+            40
+          ],
+          "anchor_pages": [
+            40
+          ],
+          "next_pages": [
+            40
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p322-fig01",
+          "figure_pages": [
+            41
+          ],
+          "anchor_pages": [
+            41
+          ],
+          "next_pages": [
+            41
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p324-fig01",
+          "figure_pages": [
+            43
+          ],
+          "anchor_pages": [
+            43
+          ],
+          "next_pages": [
+            43
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p325-fig01",
+          "figure_pages": [
+            45
+          ],
+          "anchor_pages": [
+            45
+          ],
+          "next_pages": [
+            45
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p326-fig01",
+          "figure_pages": [
+            46
+          ],
+          "anchor_pages": [
+            46
+          ],
+          "next_pages": [
+            46
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p327-fig01",
+          "figure_pages": [
+            48
+          ],
+          "anchor_pages": [
+            48
+          ],
+          "next_pages": [
+            48
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p328-fig01",
+          "figure_pages": [
+            49
+          ],
+          "anchor_pages": [
+            49
+          ],
+          "next_pages": [
+            49
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p329-fig01",
+          "figure_pages": [
+            51
+          ],
+          "anchor_pages": [
+            51
+          ],
+          "next_pages": [
+            51
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p330-fig01",
+          "figure_pages": [
+            52
+          ],
+          "anchor_pages": [
+            52
+          ],
+          "next_pages": [
+            52
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p331-fig01",
+          "figure_pages": [
+            53
+          ],
+          "anchor_pages": [
+            53
+          ],
+          "next_pages": [
+            53
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p332-fig01",
+          "figure_pages": [
+            54
+          ],
+          "anchor_pages": [
+            54
+          ],
+          "next_pages": [
+            54
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 56,
+      "images": 36,
+      "column_extraction_fallbacks": [
+        {
+          "segment": "CH11-386",
+          "language": "zh"
+        }
+      ],
+      "ok": true,
+      "rendered_pages": 56
+    },
+    {
+      "section": "ch12",
+      "file": "output/pdf/art_of_attack_bilingual_complete/13_ch12_bilingual_proof_v2.pdf",
+      "sha256": "eec9bf6010aa070a065e0d389cacb91aab7ea37d47d59e6d2d6b491c6c2ea51e",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [
+        {
+          "figure": "AA-p337-fig01",
+          "figure_pages": [
+            5
+          ],
+          "anchor_pages": [
+            5
+          ],
+          "next_pages": [
+            5
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p338-fig01",
+          "figure_pages": [
+            6
+          ],
+          "anchor_pages": [
+            6
+          ],
+          "next_pages": [
+            6
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p339-fig01",
+          "figure_pages": [
+            8
+          ],
+          "anchor_pages": [
+            8
+          ],
+          "next_pages": [
+            8
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p340-fig01",
+          "figure_pages": [
+            9
+          ],
+          "anchor_pages": [
+            9
+          ],
+          "next_pages": [
+            9
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p341-fig01",
+          "figure_pages": [
+            11
+          ],
+          "anchor_pages": [
+            11
+          ],
+          "next_pages": [
+            11
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p342-fig01",
+          "figure_pages": [
+            12
+          ],
+          "anchor_pages": [
+            12
+          ],
+          "next_pages": [
+            12
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p344-fig01",
+          "figure_pages": [
+            14
+          ],
+          "anchor_pages": [
+            14
+          ],
+          "next_pages": [
+            14
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p345-fig01",
+          "figure_pages": [
+            16
+          ],
+          "anchor_pages": [
+            16
+          ],
+          "next_pages": [
+            16
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p346-fig01",
+          "figure_pages": [
+            17
+          ],
+          "anchor_pages": [
+            17
+          ],
+          "next_pages": [
+            17
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p348-fig01",
+          "figure_pages": [
+            20
+          ],
+          "anchor_pages": [
+            20
+          ],
+          "next_pages": [
+            20
+          ],
+          "kept_with_context": true
+        },
+        {
+          "figure": "AA-p349-fig01",
+          "figure_pages": [
+            22
+          ],
+          "anchor_pages": [
+            22
+          ],
+          "next_pages": [
+            22
+          ],
+          "kept_with_context": true
+        }
+      ],
+      "pages": 23,
+      "images": 11,
+      "column_extraction_fallbacks": [],
+      "ok": true,
+      "rendered_pages": 23
+    },
+    {
+      "section": "players",
+      "file": "output/pdf/art_of_attack_bilingual_complete/14_players_bilingual_proof_v2.pdf",
+      "sha256": "b9cd64d2eef60f04fb525927bb1bf3e1f0c4432281646f4f7c6a28f97ab01f08",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [],
+      "pages": 10,
+      "images": 0,
+      "column_extraction_fallbacks": [],
+      "ok": true,
+      "rendered_pages": 10
+    },
+    {
+      "section": "openings",
+      "file": "output/pdf/art_of_attack_bilingual_complete/15_openings_bilingual_proof_v2.pdf",
+      "sha256": "005fcd9075a2356c78ba477eb38d49362d63eaa6d1d1757f475392ac79864575",
+      "overflow": [],
+      "missing_text": [],
+      "figure_checks": [],
+      "pages": 2,
+      "images": 0,
+      "column_extraction_fallbacks": [],
+      "ok": true,
+      "rendered_pages": 2
+    }
+  ]
+}

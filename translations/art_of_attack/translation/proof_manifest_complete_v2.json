@@ -1,0 +1,178 @@
+[
+  {
+    "section": "front_preface",
+    "title": "开篇材料与编者序",
+    "path": "output/pdf/art_of_attack_bilingual_complete/00_front_preface_bilingual_proof_v2.pdf",
+    "desktop_filename": "00_front_preface_bilingual_proof_v2.pdf",
+    "pages": 3,
+    "segments": 18,
+    "figures": 0,
+    "missing_segments": [],
+    "sha256": "2fee3ad62cabb0d5052de685d2e2d36ef3458f44edee0e3f9e1549f2bc30dc67"
+  },
+  {
+    "section": "introduction",
+    "title": "导言",
+    "path": "output/pdf/art_of_attack_bilingual_complete/01_introduction_bilingual_proof_v2.pdf",
+    "desktop_filename": "01_introduction_bilingual_proof_v2.pdf",
+    "pages": 10,
+    "segments": 46,
+    "figures": 4,
+    "missing_segments": [],
+    "sha256": "700ecf01fea0182ec961e34a00643e9eca47a9211145cc6c602240b3dc1b8f38"
+  },
+  {
+    "section": "ch01",
+    "title": "第一章：攻击尚未易位的王",
+    "path": "output/pdf/art_of_attack_bilingual_complete/02_ch01_bilingual_proof_v2.pdf",
+    "desktop_filename": "02_ch01_bilingual_proof_v2.pdf",
+    "pages": 19,
+    "segments": 160,
+    "figures": 14,
+    "missing_segments": [],
+    "sha256": "38ccc7463d942035c39b1d0697c80b9e7e64b081dd82cd88e94ccf9eb194b42b"
+  },
+  {
+    "section": "ch02",
+    "title": "第二章：攻击失去易位权利的王",
+    "path": "output/pdf/art_of_attack_bilingual_complete/03_ch02_bilingual_proof_v2.pdf",
+    "desktop_filename": "03_ch02_bilingual_proof_v2.pdf",
+    "pages": 33,
+    "segments": 244,
+    "figures": 25,
+    "missing_segments": [],
+    "sha256": "32d2c62a799ae90c1d4abdb03aec07a87f9d64110ee2170514bb5bef15b0e7ce"
+  },
+  {
+    "section": "ch03",
+    "title": "第三章：易位与攻击王城的一般问题",
+    "path": "output/pdf/art_of_attack_bilingual_complete/04_ch03_bilingual_proof_v2.pdf",
+    "desktop_filename": "04_ch03_bilingual_proof_v2.pdf",
+    "pages": 18,
+    "segments": 115,
+    "figures": 8,
+    "missing_segments": [],
+    "sha256": "2cbaa9fb2901bee5ad4543cbbc9928d3e488a2cf93d0056642eeb82d683ca367"
+  },
+  {
+    "section": "ch04",
+    "title": "第四章：将杀模式",
+    "path": "output/pdf/art_of_attack_bilingual_complete/05_ch04_bilingual_proof_v2.pdf",
+    "desktop_filename": "05_ch04_bilingual_proof_v2.pdf",
+    "pages": 19,
+    "segments": 80,
+    "figures": 31,
+    "missing_segments": [],
+    "sha256": "1ee4a3439dbe1031e49444c722ac0a1fb59e501237cd82117a8dccf51a06bf0f"
+  },
+  {
+    "section": "ch05",
+    "title": "第五章：杀王焦点",
+    "path": "output/pdf/art_of_attack_bilingual_complete/06_ch05_bilingual_proof_v2.pdf",
+    "desktop_filename": "06_ch05_bilingual_proof_v2.pdf",
+    "pages": 57,
+    "segments": 434,
+    "figures": 44,
+    "missing_segments": [],
+    "sha256": "bf06b5c36d76447d3021d904aecd4f48a3617e60aff0c835cdaec5cedfb7bea4"
+  },
+  {
+    "section": "ch06",
+    "title": "第六章：古典弃象",
+    "path": "output/pdf/art_of_attack_bilingual_complete/07_ch06_bilingual_proof_v2.pdf",
+    "desktop_filename": "07_ch06_bilingual_proof_v2.pdf",
+    "pages": 27,
+    "segments": 187,
+    "figures": 20,
+    "missing_segments": [],
+    "sha256": "83dcfdb6fb2af2ef09421e4df05e3e52eda0c9a5d225ca7459aeca3d19273350"
+  },
+  {
+    "section": "ch07",
+    "title": "第七章：攻击易位王时的横线、直线与斜线",
+    "path": "output/pdf/art_of_attack_bilingual_complete/08_ch07_bilingual_proof_v2.pdf",
+    "desktop_filename": "08_ch07_bilingual_proof_v2.pdf",
+    "pages": 57,
+    "segments": 380,
+    "figures": 41,
+    "missing_segments": [],
+    "sha256": "14f57fdb55634c3025a8b86cd7b4981ba3f5be5efb387a876fdf5e4e0a4f6e72"
+  },
+  {
+    "section": "ch08",
+    "title": "第八章：攻击易位王时的棋子与兵",
+    "path": "output/pdf/art_of_attack_bilingual_complete/09_ch08_bilingual_proof_v2.pdf",
+    "desktop_filename": "09_ch08_bilingual_proof_v2.pdf",
+    "pages": 66,
+    "segments": 436,
+    "figures": 49,
+    "missing_segments": [],
+    "sha256": "3c257567e6534f059f6f10aea47da02d00921e664090a193df3d9c0e70e6c8b4"
+  },
+  {
+    "section": "ch09",
+    "title": "第九章：攻击侧翼出象与长易位的局面",
+    "path": "output/pdf/art_of_attack_bilingual_complete/10_ch09_bilingual_proof_v2.pdf",
+    "desktop_filename": "10_ch09_bilingual_proof_v2.pdf",
+    "pages": 20,
+    "segments": 129,
+    "figures": 13,
+    "missing_segments": [],
+    "sha256": "cca1fb76f8a99d3cd7b508c29b6b5e3b7b5c584786601a3a71ab51d39b89e419"
+  },
+  {
+    "section": "ch10",
+    "title": "第十章：抵御针对易位王的进攻",
+    "path": "output/pdf/art_of_attack_bilingual_complete/11_ch10_bilingual_proof_v2.pdf",
+    "desktop_filename": "11_ch10_bilingual_proof_v2.pdf",
+    "pages": 61,
+    "segments": 414,
+    "figures": 36,
+    "missing_segments": [],
+    "sha256": "8ac35e8a5ff921c3e4ae6456f0529a0c2ba42948f3e12916279ee532a69b7d95"
+  },
+  {
+    "section": "ch11",
+    "title": "第十一章：攻击易位王的各个阶段",
+    "path": "output/pdf/art_of_attack_bilingual_complete/12_ch11_bilingual_proof_v2.pdf",
+    "desktop_filename": "12_ch11_bilingual_proof_v2.pdf",
+    "pages": 56,
+    "segments": 406,
+    "figures": 36,
+    "missing_segments": [],
+    "sha256": "ee1dd72d34a496dbae480e982c7a567e9150d02dd4c26cd0140b1954f08ef3e3"
+  },
+  {
+    "section": "ch12",
+    "title": "第十二章：杀王进攻作为对局整体的一部分",
+    "path": "output/pdf/art_of_attack_bilingual_complete/13_ch12_bilingual_proof_v2.pdf",
+    "desktop_filename": "13_ch12_bilingual_proof_v2.pdf",
+    "pages": 23,
+    "segments": 174,
+    "figures": 11,
+    "missing_segments": [],
+    "sha256": "eec9bf6010aa070a065e0d389cacb91aab7ea37d47d59e6d2d6b491c6c2ea51e"
+  },
+  {
+    "section": "players",
+    "title": "棋手索引",
+    "path": "output/pdf/art_of_attack_bilingual_complete/14_players_bilingual_proof_v2.pdf",
+    "desktop_filename": "14_players_bilingual_proof_v2.pdf",
+    "pages": 10,
+    "segments": 157,
+    "figures": 0,
+    "missing_segments": [],
+    "sha256": "b9cd64d2eef60f04fb525927bb1bf3e1f0c4432281646f4f7c6a28f97ab01f08"
+  },
+  {
+    "section": "openings",
+    "title": "开局索引",
+    "path": "output/pdf/art_of_attack_bilingual_complete/15_openings_bilingual_proof_v2.pdf",
+    "desktop_filename": "15_openings_bilingual_proof_v2.pdf",
+    "pages": 2,
+    "segments": 30,
+    "figures": 0,
+    "missing_segments": [],
+    "sha256": "005fcd9075a2356c78ba477eb38d49362d63eaa6d1d1757f475392ac79864575"
+  }
+]

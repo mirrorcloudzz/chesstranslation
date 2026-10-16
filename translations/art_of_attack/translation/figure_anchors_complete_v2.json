@@ -1,0 +1,1994 @@
+[
+  {
+    "figure_id": "AA-p007-fig01",
+    "anchor_segment": "IN-11",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p008-fig01",
+    "anchor_segment": "IN-13",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p009-fig01",
+    "anchor_segment": "IN-20",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p011-fig01",
+    "anchor_segment": "IN-27",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p015-fig01",
+    "anchor_segment": "CH1-12",
+    "caption": "黑方走完10... d4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p016-fig01",
+    "anchor_segment": "CH1-20",
+    "caption": "白方走完9. Bb3后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p017-fig01",
+    "anchor_segment": "CH1-27",
+    "caption": "汉森（白）对伦丁（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p017-fig02",
+    "anchor_segment": "CH1-32",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p018-fig01",
+    "anchor_segment": "CH1-42",
+    "caption": "拉文斯基（白）对帕诺夫（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p020-fig01",
+    "anchor_segment": "CH1-65",
+    "caption": "白方走完16. Rac1后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p020-fig02",
+    "anchor_segment": "CH1-71",
+    "caption": "黑方走完21... Ke8后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p022-fig01",
+    "anchor_segment": "CH1-95",
+    "caption": "黑方走完9... Qc4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p023-fig01",
+    "anchor_segment": "CH1-103",
+    "caption": "黑方走完12... Bd6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p024-fig01",
+    "anchor_segment": "CH1-111",
+    "caption": "瓦赖因（白）对姓名不详棋手（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p024-fig02",
+    "anchor_segment": "CH1-115",
+    "caption": "阿斯盖尔松（白）对劳德（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p025-fig01",
+    "anchor_segment": "CH1-126",
+    "caption": "白方走完15. Nb6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p026-fig01",
+    "anchor_segment": "CH1-145",
+    "caption": "黑方走完10... b6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p027-fig01",
+    "anchor_segment": "CH1-153",
+    "caption": "白方走完20. b4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p029-fig01",
+    "anchor_segment": "CH2-13",
+    "caption": "白方走完16. Kg3后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p030-fig01",
+    "anchor_segment": "CH2-17",
+    "caption": "白方走完12. Ng5后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p030-fig02",
+    "anchor_segment": "CH2-23",
+    "caption": "白方走完18. Ne6+后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p031-fig01",
+    "anchor_segment": "CH2-30",
+    "caption": "科托夫（白）对邦达列夫斯基（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p031-fig02",
+    "anchor_segment": "CH2-32",
+    "caption": "阿廖欣（白）对费尔特（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p032-fig01",
+    "anchor_segment": "CH2-34",
+    "caption": "阿韦尔巴赫（白）对科托夫（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p032-fig02",
+    "anchor_segment": "CH2-36",
+    "caption": "格利戈里奇（白）对彼得罗相（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p033-fig01",
+    "anchor_segment": "CH2-38",
+    "caption": "D.伯恩（白）对菲舍尔（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p034-fig01",
+    "anchor_segment": "CH2-45",
+    "caption": "黑方走完15... Kxg7后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p035-fig01",
+    "anchor_segment": "CH2-50",
+    "caption": "黑方走完18... Kxg5后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p036-fig01",
+    "anchor_segment": "CH2-76",
+    "caption": "白方走完18. cxd4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p037-fig01",
+    "anchor_segment": "CH2-80",
+    "caption": "塔塔科维尔（白）对尤伟（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p038-fig01",
+    "anchor_segment": "CH2-98",
+    "caption": "塔塔科维尔（白）对尤伟（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p039-fig01",
+    "anchor_segment": "CH2-112",
+    "caption": "白方走完13. gxf3后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p040-fig01",
+    "anchor_segment": "CH2-117",
+    "caption": "黑方走完19... Rd8后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p041-fig01",
+    "anchor_segment": "CH2-132",
+    "caption": "白方走完25. Kd5后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p042-fig01",
+    "anchor_segment": "CH2-140",
+    "caption": "黑方走完29... Rc8后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p044-fig01",
+    "anchor_segment": "CH2-159",
+    "caption": "黑方走完6... d5后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p045-fig01",
+    "anchor_segment": "CH2-165",
+    "caption": "白方走完9. a3后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p045-fig02",
+    "anchor_segment": "CH2-174",
+    "caption": "白方走完14. Bc6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p047-fig01",
+    "anchor_segment": "CH2-200",
+    "caption": "黑方走完19... Nb6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p047-fig02",
+    "anchor_segment": "CH2-208",
+    "caption": "黑方走完28... e2后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p048-fig01",
+    "anchor_segment": "CH2-216",
+    "caption": "白方走完35. Rg4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p050-fig01",
+    "anchor_segment": "CH2-233",
+    "caption": "白方走完13. Ke3后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p050-fig02",
+    "anchor_segment": "CH2-243",
+    "caption": "白方走完31. Kf6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p053-fig01",
+    "anchor_segment": "CH3-15",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p055-fig01",
+    "anchor_segment": "CH3-32",
+    "caption": "黑方走完9... h4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p056-fig01",
+    "anchor_segment": "CH3-39",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p058-fig01",
+    "anchor_segment": "CH3-50",
+    "caption": "黑方走完9... Nd5后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p058-fig02",
+    "anchor_segment": "CH3-57",
+    "caption": "白方走完6. Kxd1后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p062-fig01",
+    "anchor_segment": "CH3-76",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p062-fig02",
+    "anchor_segment": "CH3-85",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p063-fig01",
+    "anchor_segment": "CH3-98",
+    "caption": "黑方走完8... Ng4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p066-fig01",
+    "anchor_segment": "CH4-6",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p066-fig02",
+    "anchor_segment": "CH4-8",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p067-fig01",
+    "anchor_segment": "CH4-10",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p067-fig02",
+    "anchor_segment": "CH4-11",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p067-fig03",
+    "anchor_segment": "CH4-13",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p068-fig01",
+    "anchor_segment": "CH4-15",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p068-fig02",
+    "anchor_segment": "CH4-19",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p069-fig01",
+    "anchor_segment": "CH4-22",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p069-fig02",
+    "anchor_segment": "CH4-24",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p069-fig03",
+    "anchor_segment": "CH4-26",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p070-fig01",
+    "anchor_segment": "CH4-28",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p070-fig02",
+    "anchor_segment": "CH4-30",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p070-fig03",
+    "anchor_segment": "CH4-32",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p071-fig01",
+    "anchor_segment": "CH4-34",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p071-fig02",
+    "anchor_segment": "CH4-37",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p072-fig01",
+    "anchor_segment": "CH4-40",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p072-fig02",
+    "anchor_segment": "CH4-42",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p072-fig03",
+    "anchor_segment": "CH4-43",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p073-fig01",
+    "anchor_segment": "CH4-46",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p073-fig02",
+    "anchor_segment": "CH4-48",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p074-fig01",
+    "anchor_segment": "CH4-55",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p074-fig02",
+    "anchor_segment": "CH4-57",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p075-fig01",
+    "anchor_segment": "CH4-58",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p075-fig02",
+    "anchor_segment": "CH4-60",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p075-fig03",
+    "anchor_segment": "CH4-61",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p076-fig01",
+    "anchor_segment": "CH4-63",
+    "caption": "舒尔德（白）对博登（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p076-fig02",
+    "anchor_segment": "CH4-66",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p077-fig01",
+    "anchor_segment": "CH4-69",
+    "caption": "黑方走完4... g6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p077-fig02",
+    "anchor_segment": "CH4-71",
+    "caption": "白方走完10. fxg4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p078-fig01",
+    "anchor_segment": "CH4-75",
+    "caption": "黑方走完8... Nxe4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p078-fig02",
+    "anchor_segment": "CH4-78",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p080-fig01",
+    "anchor_segment": "CH5-4",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p081-fig01",
+    "anchor_segment": "CH5-9",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p082-fig01",
+    "anchor_segment": "CH5-15",
+    "caption": "科里亚（白）对卡帕布兰卡（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p083-fig01",
+    "anchor_segment": "CH5-19",
+    "caption": "菲尔德（白）对滕纳（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p084-fig01",
+    "anchor_segment": "CH5-23",
+    "caption": "波列斯拉夫斯基（白）对乌菲姆采夫（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p085-fig01",
+    "anchor_segment": "CH5-42",
+    "caption": "黑方走完14... f4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p085-fig02",
+    "anchor_segment": "CH5-50",
+    "caption": "黑方走完18... Nh4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p086-fig01",
+    "anchor_segment": "CH5-60",
+    "caption": "白方走完28. Nb6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p087-fig01",
+    "anchor_segment": "CH5-69",
+    "caption": "黑方走完13... exd4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p087-fig02",
+    "anchor_segment": "CH5-74",
+    "caption": "白方走完20. Qg3后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p088-fig01",
+    "anchor_segment": "CH5-80",
+    "caption": "黑方走完23... Ng8后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p089-fig01",
+    "anchor_segment": "CH5-90",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p090-fig01",
+    "anchor_segment": "CH5-96",
+    "caption": "萨博（白）对科托夫（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p090-fig02",
+    "anchor_segment": "CH5-101",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p091-fig01",
+    "anchor_segment": "CH5-103",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p092-fig01",
+    "anchor_segment": "CH5-111",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p093-fig01",
+    "anchor_segment": "CH5-123",
+    "caption": "黑方走完16... f5后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p093-fig02",
+    "anchor_segment": "CH5-131",
+    "caption": "白方走完19. Re1后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p095-fig01",
+    "anchor_segment": "CH5-152",
+    "caption": "白方走完18. Rh3后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p096-fig01",
+    "anchor_segment": "CH5-168",
+    "caption": "黑方走完8... Re8后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p097-fig01",
+    "anchor_segment": "CH5-177",
+    "caption": "伯恩（白）对E.科恩（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p097-fig02",
+    "anchor_segment": "CH5-185",
+    "caption": "卡帕布兰卡（白）对R.伊利亚（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p098-fig01",
+    "anchor_segment": "CH5-199",
+    "caption": "纳道尔夫（白）对伊夫科夫（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p099-fig01",
+    "anchor_segment": "CH5-209",
+    "caption": "黑方走完8... Ne4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p100-fig01",
+    "anchor_segment": "CH5-217",
+    "caption": "黑方走完16... Qxc7后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p102-fig01",
+    "anchor_segment": "CH5-231",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p103-fig01",
+    "anchor_segment": "CH5-243",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p103-fig02",
+    "anchor_segment": "CH5-249",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p104-fig01",
+    "anchor_segment": "CH5-259",
+    "caption": "萨博（白）对范谢尔廷加（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p105-fig01",
+    "anchor_segment": "CH5-266",
+    "caption": "V.武科维奇（白）对恩泽林斯（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p106-fig01",
+    "anchor_segment": "CH5-270",
+    "caption": "V.武科维奇（白）对恩泽林斯（黑），分析变化，白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p107-fig01",
+    "anchor_segment": "CH5-281",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p108-fig01",
+    "anchor_segment": "CH5-295",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p109-fig01",
+    "anchor_segment": "CH5-303",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p110-fig01",
+    "anchor_segment": "CH5-311",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p111-fig01",
+    "anchor_segment": "CH5-333",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p113-fig01",
+    "anchor_segment": "CH5-341",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p113-fig02",
+    "anchor_segment": "CH5-350",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p114-fig01",
+    "anchor_segment": "CH5-360",
+    "caption": "尤伟（白）对弗洛尔（黑），白方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p115-fig01",
+    "anchor_segment": "CH5-375",
+    "caption": "尤伟（白）对弗洛尔（黑），黑方行棋",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p117-fig01",
+    "anchor_segment": "CH5-393",
+    "caption": "白方走完9. Qh4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p118-fig01",
+    "anchor_segment": "CH5-403",
+    "caption": "白方走完14. cxd4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p118-fig02",
+    "anchor_segment": "CH5-408",
+    "caption": "黑方走完15... h5后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p120-fig01",
+    "anchor_segment": "CH5-423",
+    "caption": "黑方走完21... Kf8后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p121-fig01",
+    "anchor_segment": "CH6-4",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p122-fig01",
+    "anchor_segment": "CH6-7",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p124-fig01",
+    "anchor_segment": "CH6-19",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p124-fig02",
+    "anchor_segment": "CH6-29",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p125-fig01",
+    "anchor_segment": "CH6-35",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p126-fig01",
+    "anchor_segment": "CH6-43",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p127-fig01",
+    "anchor_segment": "CH6-50",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p127-fig02",
+    "anchor_segment": "CH6-60",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p128-fig01",
+    "anchor_segment": "CH6-65",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p129-fig01",
+    "anchor_segment": "CH6-76",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p130-fig01",
+    "anchor_segment": "CH6-84",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p132-fig01",
+    "anchor_segment": "CH6-102",
+    "caption": "科特瑙尔—科托夫，15... Nc5之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p133-fig01",
+    "anchor_segment": "CH6-111",
+    "caption": "科特瑙尔—科托夫，19. Qg3之后，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p134-fig01",
+    "anchor_segment": "CH6-118",
+    "caption": "科特瑙尔—科托夫，20. Bf4之后，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p136-fig01",
+    "anchor_segment": "CH6-135",
+    "caption": "卡帕布兰卡—莫利纳，13... Kg6之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p137-fig01",
+    "anchor_segment": "CH6-148",
+    "caption": "卡帕布兰卡—莫利纳，18... Ng6之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p138-fig01",
+    "anchor_segment": "CH6-158",
+    "caption": "卡帕布兰卡—莫利纳，23. Rfe1之后，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p139-fig01",
+    "anchor_segment": "CH6-170",
+    "caption": "科勒—奥汉隆，12. Bxh7+之后，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p140-fig01",
+    "anchor_segment": "CH6-177",
+    "caption": "科勒—奥汉隆，14. h4之后，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p141-fig01",
+    "anchor_segment": "CH6-182",
+    "caption": "科勒—奥汉隆，15... Nf6之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p142-fig01",
+    "anchor_segment": "CH7-4",
+    "caption": "伯恩施坦—卡帕布兰卡，莫斯科表演赛，1914年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p143-fig01",
+    "anchor_segment": "CH7-7",
+    "caption": "米凯纳斯—马洛契，福克斯通，1933年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p143-fig02",
+    "anchor_segment": "CH7-9",
+    "caption": "纳道尔夫—胡利奥·博尔博昌，马德普拉塔，1948年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p144-fig01",
+    "anchor_segment": "CH7-16",
+    "caption": "阿廖欣—E.科恩，斯德哥尔摩，1912年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p145-fig01",
+    "anchor_segment": "CH7-27",
+    "caption": "阿廖欣—E.科恩；4... Ng8后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p146-fig01",
+    "anchor_segment": "CH7-34",
+    "caption": "阿廖欣—E.科恩；14. Ne4后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p147-fig01",
+    "anchor_segment": "CH7-36",
+    "caption": "弗洛尔，列宁格勒车轮战，1933年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p148-fig01",
+    "anchor_segment": "CH7-50",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p150-fig01",
+    "anchor_segment": "CH7-69",
+    "caption": "鲁宾斯坦—马洛契，哥德堡，1920年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p151-fig01",
+    "anchor_segment": "CH7-79",
+    "caption": "尼姆佐维奇—卡帕布兰卡，纽约，1927年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p151-fig02",
+    "anchor_segment": "CH7-84",
+    "caption": "尼姆佐维奇—卡帕布兰卡；3. Qb7后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p152-fig01",
+    "anchor_segment": "CH7-88",
+    "caption": "弗洛尔—施托尔茨，华沙，1935年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p154-fig01",
+    "anchor_segment": "CH7-108",
+    "caption": "P.约纳—鲁宾斯坦；13. gxf3后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p155-fig01",
+    "anchor_segment": "CH7-116",
+    "caption": "P.约纳—鲁宾斯坦；16... Rfd8后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p156-fig01",
+    "anchor_segment": "CH7-123",
+    "caption": "P.约纳—鲁宾斯坦；23... c5后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p157-fig01",
+    "anchor_segment": "CH7-140",
+    "caption": "勒德尔—塞米什，斯维讷明德，1931年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p158-fig01",
+    "anchor_segment": "CH7-152",
+    "caption": "P.施密特—K.里希特；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p159-fig01",
+    "anchor_segment": "CH7-161",
+    "caption": "托特—西盖蒂，布达佩斯，1946年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p160-fig01",
+    "anchor_segment": "CH7-166",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p161-fig01",
+    "anchor_segment": "CH7-174",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p162-fig01",
+    "anchor_segment": "CH7-178",
+    "caption": "克罗吉乌斯—涅梅莱，洛维萨，1934年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p163-fig01",
+    "anchor_segment": "CH7-184",
+    "caption": "克罗吉乌斯—涅梅莱；2. Kf2后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p164-fig01",
+    "anchor_segment": "CH7-193",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p165-fig01",
+    "anchor_segment": "CH7-203",
+    "caption": "博登—伯德，伦敦，1869年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p166-fig01",
+    "anchor_segment": "CH7-214",
+    "caption": "武科维奇—瓦伊达博士，德布勒森，1925年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p167-fig01",
+    "anchor_segment": "CH7-224",
+    "caption": "武科维奇—瓦伊达博士；4. Bxh6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p168-fig01",
+    "anchor_segment": "CH7-234",
+    "caption": "斯坦尼茨—戈尔马约；8... Nc6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p169-fig01",
+    "anchor_segment": "CH7-245",
+    "caption": "斯坦尼茨—戈尔马约；10... fxg5后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p169-fig02",
+    "anchor_segment": "CH7-249",
+    "caption": "斯坦尼茨—戈尔马约；13. Qh5后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p170-fig01",
+    "anchor_segment": "CH7-255",
+    "caption": "斯坦尼茨—戈尔马约；18. Nb5后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p171-fig01",
+    "anchor_segment": "CH7-265",
+    "caption": "阿廖欣—阿斯盖尔松；9... c5后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p172-fig01",
+    "anchor_segment": "CH7-278",
+    "caption": "阿廖欣—阿斯盖尔松；15... Rf8后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p173-fig01",
+    "anchor_segment": "CH7-279",
+    "caption": "阿廖欣—阿斯盖尔松；16. O-O-O后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p174-fig01",
+    "anchor_segment": "CH7-298",
+    "caption": "阿廖欣—阿斯盖尔松；24... Kf8后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p176-fig01",
+    "anchor_segment": "CH7-305",
+    "caption": "托卢什—伦特，爱沙尼亚锦标赛，1945年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p177-fig01",
+    "anchor_segment": "CH7-315",
+    "caption": "亚历山大—萨博，希尔弗瑟姆，1947年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p178-fig01",
+    "anchor_segment": "CH7-325",
+    "caption": "施托尔茨—吉马尔德，格罗宁根，1946年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p179-fig01",
+    "anchor_segment": "CH7-343",
+    "caption": "施托尔茨—吉马尔德；11. f3后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p180-fig01",
+    "anchor_segment": "CH7-351",
+    "caption": "伦丁—塔塔科维尔，格罗宁根，1946年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p181-fig01",
+    "anchor_segment": "CH7-363",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p181-fig02",
+    "anchor_segment": "CH7-370",
+    "caption": "盖勒—科托夫，苏联锦标赛，莫斯科，1955年；16. b3前。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p184-fig01",
+    "anchor_segment": "CH8-7",
+    "caption": "福克斯—鲍尔，华盛顿，1901年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p184-fig02",
+    "anchor_segment": "CH8-15",
+    "caption": "列维茨基—马歇尔，布雷斯劳，1912年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p185-fig01",
+    "anchor_segment": "CH8-21",
+    "caption": "阿廖欣—苏皮科，特内里费，1945年，盲棋；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p186-fig01",
+    "anchor_segment": "CH8-28",
+    "caption": "温特—卡帕布兰卡，拉姆斯盖特，1929年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p187-fig01",
+    "anchor_segment": "CH8-42",
+    "caption": "鲁宾斯坦—阿廖欣，德累斯顿，1926年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p188-fig01",
+    "anchor_segment": "CH8-51",
+    "caption": "鲁宾斯坦—阿廖欣；11... Rg6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p189-fig01",
+    "anchor_segment": "CH8-56",
+    "caption": "鲁宾斯坦—阿廖欣；13... Qg7后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p189-fig02",
+    "anchor_segment": "CH8-63",
+    "caption": "伯恩施坦—科托夫，格罗宁根，1946年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p190-fig01",
+    "anchor_segment": "CH8-68",
+    "caption": "卡帕布兰卡—尼姆佐维奇，巴特基辛根，1928年，分析局面；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p191-fig01",
+    "anchor_segment": "CH8-76",
+    "caption": "斯坦尼茨—L.保尔森，巴登-巴登，1870年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p192-fig01",
+    "anchor_segment": "CH8-92",
+    "caption": "科列—塔塔科维尔，宁多夫，1927年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p193-fig01",
+    "anchor_segment": "CH8-100",
+    "caption": "洛伊德—德尔马，1879年对抗赛；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p194-fig01",
+    "anchor_segment": "CH8-103",
+    "caption": "舒莫夫—耶尼施，圣彼得堡，1849年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p194-fig02",
+    "anchor_segment": "CH8-106",
+    "caption": "凯勒—罗哈切克，维也纳，1937年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p195-fig01",
+    "anchor_segment": "CH8-108",
+    "caption": "卢普雷希特—舒尔茨，美国通信赛，1946年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p195-fig02",
+    "anchor_segment": "CH8-114",
+    "caption": "利林塔尔—纳道尔夫，萨尔特舍巴登区际赛，1948年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p196-fig01",
+    "anchor_segment": "CH8-120",
+    "caption": "利林塔尔—纳道尔夫；5. Rad1后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p197-fig01",
+    "anchor_segment": "CH8-130",
+    "caption": "拉斯克—鲍尔；13... a6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p197-fig02",
+    "anchor_segment": "CH8-134",
+    "caption": "拉斯克—鲍尔；17. Bxg7后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p198-fig01",
+    "anchor_segment": "CH8-145",
+    "caption": "尼姆佐维奇—塔拉什；19. exd4后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p199-fig01",
+    "anchor_segment": "CH8-153",
+    "caption": "阿廖欣—德鲁伊特；19... Bxc6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p202-fig01",
+    "anchor_segment": "CH8-174",
+    "caption": "塔拉什—阿廖欣；14. Rfe1后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p203-fig01",
+    "anchor_segment": "CH8-182",
+    "caption": "塔拉什—阿廖欣；21. Nh2后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p205-fig01",
+    "anchor_segment": "CH8-199",
+    "caption": "凯列斯—法因；17... Rfd8后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p206-fig01",
+    "anchor_segment": "CH8-210",
+    "caption": "凯列斯—法因；20... b4后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p207-fig01",
+    "anchor_segment": "CH8-216",
+    "caption": "凯列斯—法因；22. e5后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p208-fig01",
+    "anchor_segment": "CH8-220",
+    "caption": "凯列斯—法因；23. Ng5后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p209-fig01",
+    "anchor_segment": "CH8-227",
+    "caption": "凯列斯—法因；25... Qc1后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p210-fig01",
+    "anchor_segment": "CH8-235",
+    "caption": "凯列斯—彼得罗夫；13... b6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p211-fig01",
+    "anchor_segment": "CH8-243",
+    "caption": "凯列斯—彼得罗夫，16... Qc7之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p211-fig02",
+    "anchor_segment": "CH8-248",
+    "caption": "凯列斯—彼得罗夫，18... Bd6之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p212-fig01",
+    "anchor_segment": "CH8-253",
+    "caption": "阿廖欣—韦宁克，布拉格，1931年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p213-fig01",
+    "anchor_segment": "CH8-267",
+    "caption": "施莱希特—塔拉什，蒙特卡洛，1903年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p214-fig01",
+    "anchor_segment": "CH8-275",
+    "caption": "施莱希特—塔拉什，6... Be7之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p215-fig01",
+    "anchor_segment": "CH8-288",
+    "caption": "鲁宾斯坦—泰希曼，11... c4之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p216-fig01",
+    "anchor_segment": "CH8-297",
+    "caption": "鲁宾斯坦—泰希曼，17... a6之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p217-fig01",
+    "anchor_segment": "CH8-305",
+    "caption": "鲁宾斯坦—泰希曼，21. h6之后，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p218-fig01",
+    "anchor_segment": "CH8-311",
+    "caption": "鲁宾斯坦—泰希曼，22... exf3之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p219-fig01",
+    "anchor_segment": "CH8-324",
+    "caption": "柯尼希—H.魏斯，9. g4之后，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p221-fig01",
+    "anchor_segment": "CH8-350",
+    "caption": "托卢什—科托夫，16... Ng8之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p222-fig01",
+    "anchor_segment": "CH8-359",
+    "caption": "托卢什—科托夫，22. Nxg7之后，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p222-fig02",
+    "anchor_segment": "CH8-367",
+    "caption": "托卢什—科托夫，27... Kf8之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p223-fig01",
+    "anchor_segment": "CH8-374",
+    "caption": "斯坦尼茨—马尔科，纽伦堡，1896年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p224-fig01",
+    "anchor_segment": "CH8-383",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p225-fig01",
+    "anchor_segment": "CH8-389",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p226-fig01",
+    "anchor_segment": "CH8-398",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p227-fig01",
+    "anchor_segment": "CH8-412",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p228-fig01",
+    "anchor_segment": "CH8-419",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p229-fig01",
+    "anchor_segment": "CH8-424",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p232-fig01",
+    "anchor_segment": "CH9-9",
+    "caption": "里希特—阿布拉马维丘斯，汉堡，1930年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p233-fig01",
+    "anchor_segment": "CH9-14",
+    "caption": "西拉吉—萨博，布达佩斯，1946年，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p233-fig02",
+    "anchor_segment": "CH9-19",
+    "caption": "亚历山大—帕赫曼，希尔弗瑟姆，1947年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p234-fig01",
+    "anchor_segment": "CH9-27",
+    "caption": "亚历山大—帕赫曼，3... Be8之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p235-fig01",
+    "anchor_segment": "CH9-36",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p236-fig01",
+    "anchor_segment": "CH9-43",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p239-fig01",
+    "anchor_segment": "CH9-59",
+    "caption": "凯列斯—列舍夫斯基，海牙／莫斯科，1948年，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p240-fig01",
+    "anchor_segment": "CH9-71",
+    "caption": "拉比诺维奇—罗曼诺夫斯基，莫斯科，1925年，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p241-fig01",
+    "anchor_segment": "CH9-77",
+    "caption": "拉比诺维奇—罗曼诺夫斯基，3... Bg6之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p242-fig01",
+    "anchor_segment": "CH9-90",
+    "caption": "尤伟—科勒，阿姆斯特丹，1926年，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p244-fig01",
+    "anchor_segment": "CH9-109",
+    "caption": "拉斯克—马歇尔，15... O-O-O之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p244-fig02",
+    "anchor_segment": "CH9-117",
+    "caption": "拉斯克—马歇尔，19... Nb6之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p245-fig01",
+    "anchor_segment": "CH9-122",
+    "caption": "拉斯克—马歇尔，分析变化20... Nc4之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p250-fig01",
+    "anchor_segment": "CH10-33",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p251-fig01",
+    "anchor_segment": "CH10-40",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p253-fig01",
+    "anchor_segment": "CH10-50",
+    "caption": "布莱克本—施瓦茨，柏林，1881年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p254-fig01",
+    "anchor_segment": "CH10-57",
+    "caption": "布莱克本—施瓦茨分析，1... Be7后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p255-fig01",
+    "anchor_segment": "CH10-61",
+    "caption": "波戈留波夫—列蒂，卡尔斯巴德，1923年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p255-fig02",
+    "anchor_segment": "CH10-65",
+    "caption": "雷舍夫斯基—鲍特维尼克，世界冠军赛，1948年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p257-fig01",
+    "anchor_segment": "CH10-77",
+    "caption": "卡帕布兰卡—拉戈津，13. g4后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p257-fig02",
+    "anchor_segment": "CH10-82",
+    "caption": "卡帕布兰卡—拉戈津，23... Kb8后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p259-fig01",
+    "anchor_segment": "CH10-106",
+    "caption": "皮尔斯伯里—塔拉什，13. Ne5后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p260-fig01",
+    "anchor_segment": "CH10-120",
+    "caption": "皮尔斯伯里—塔拉什，23. Rf4后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p261-fig01",
+    "anchor_segment": "CH10-125",
+    "caption": "皮尔斯伯里—塔拉什，25... Bd5后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p262-fig01",
+    "anchor_segment": "CH10-136",
+    "caption": "皮尔斯伯里—塔拉什，30. R4f2后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p263-fig01",
+    "anchor_segment": "CH10-151",
+    "caption": "皮尔斯伯里—塔拉什，41... Rxb3后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p266-fig01",
+    "anchor_segment": "CH10-173",
+    "caption": "K. 特雷巴尔—H. 沃尔夫，特普利采-舍瑙，1922年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p267-fig01",
+    "anchor_segment": "CH10-183",
+    "caption": "K. 特雷巴尔—H. 沃尔夫，7. Bc1后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p268-fig01",
+    "anchor_segment": "CH10-190",
+    "caption": "K. 特雷巴尔—H. 沃尔夫分析，8... Rxb3后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p270-fig01",
+    "anchor_segment": "CH10-199",
+    "caption": "K. 特雷巴尔—H. 沃尔夫，8... Bxh6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p270-fig02",
+    "anchor_segment": "CH10-204",
+    "caption": "耶茨—马尔科，15. Ng3后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p271-fig01",
+    "anchor_segment": "CH10-211",
+    "caption": "耶茨—马尔科，16... Bh3后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p272-fig01",
+    "anchor_segment": "CH10-215",
+    "caption": "耶茨—马尔科，17... Qxh3后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p273-fig01",
+    "anchor_segment": "CH10-219",
+    "caption": "耶茨—马尔科分析，19... gxf3 20. Qxf3后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p274-fig01",
+    "anchor_segment": "CH10-223",
+    "caption": "耶茨—马尔科，18. Qd2后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p275-fig01",
+    "anchor_segment": "CH10-235",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p276-fig01",
+    "anchor_segment": "CH10-243",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p277-fig01",
+    "anchor_segment": "CH10-251",
+    "caption": "罗索里莫—帕赫曼，希尔弗瑟姆，1947年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p278-fig01",
+    "anchor_segment": "CH10-262",
+    "caption": "罗索里莫—帕赫曼，7... Bg4后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p279-fig01",
+    "anchor_segment": "CH10-274",
+    "caption": "罗索里莫—帕赫曼，15... Na5后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p280-fig01",
+    "anchor_segment": "CH10-283",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p281-fig01",
+    "anchor_segment": "CH10-296",
+    "caption": "6. Qxd3后，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p284-fig01",
+    "anchor_segment": "CH10-329",
+    "caption": "阿廖欣—鲍特维尼克，10. g4后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p286-fig01",
+    "anchor_segment": "CH10-348",
+    "caption": "阿廖欣—鲍特维尼克，13. d6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p287-fig01",
+    "anchor_segment": "CH10-361",
+    "caption": "科托夫—凯列斯，布达佩斯候选人赛，1950年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p288-fig01",
+    "anchor_segment": "CH10-365",
+    "caption": "科托夫—凯列斯分析，1... d6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p289-fig01",
+    "anchor_segment": "CH10-378",
+    "caption": "马歇尔—伯恩，10. h4后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p291-fig01",
+    "anchor_segment": "CH10-392",
+    "caption": "马歇尔—伯恩示范变化，12... g6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p292-fig01",
+    "anchor_segment": "CH10-409",
+    "caption": "马歇尔—伯恩示范变化，22. exd4后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p295-fig01",
+    "anchor_segment": "CH11-20",
+    "caption": "鲍特维尼克—切霍韦尔，莫斯科，1935年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p297-fig01",
+    "anchor_segment": "CH11-35",
+    "caption": "阿廖欣—吉尔格，塞默灵，1926年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p297-fig02",
+    "anchor_segment": "CH11-39",
+    "caption": "阿廖欣—吉尔格，7. Kd1之后，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p298-fig01",
+    "anchor_segment": "CH11-44",
+    "caption": "格利戈里奇—科斯蒂奇，萨格勒布，1947年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p300-fig01",
+    "anchor_segment": "CH11-57",
+    "caption": "阿廖欣—韦宁克，布拉格，1931年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p301-fig01",
+    "anchor_segment": "CH11-68",
+    "caption": "阿廖欣—韦宁克，7... Nh7之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p303-fig01",
+    "anchor_segment": "CH11-80",
+    "caption": "利林塔尔—邦达列夫斯基，苏联绝对冠军赛，列宁格勒／莫斯科，1941年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p303-fig02",
+    "anchor_segment": "CH11-88",
+    "caption": "利林塔尔—邦达列夫斯基，8... Kg7之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p304-fig01",
+    "anchor_segment": "CH11-97",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p305-fig01",
+    "anchor_segment": "CH11-104",
+    "caption": "奥凯利—卡斯塔尔迪，希尔弗瑟姆，1947年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p306-fig01",
+    "anchor_segment": "CH11-112",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p307-fig01",
+    "anchor_segment": "CH11-124",
+    "caption": "耶茨—塔卡奇，凯奇凯梅特，1927年，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p308-fig01",
+    "anchor_segment": "CH11-141",
+    "caption": "耶茨—塔卡奇，10... hxg5之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p309-fig01",
+    "anchor_segment": "CH11-152",
+    "caption": "尤伟—马洛契，赞德沃特，1936年，黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p310-fig01",
+    "anchor_segment": "CH11-163",
+    "caption": "尤伟—马洛契，11... Rad8之后，白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p311-fig01",
+    "anchor_segment": "CH11-176",
+    "caption": "皮尔斯伯里—H. 沃尔夫，10... a6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p312-fig01",
+    "anchor_segment": "CH11-187",
+    "caption": "皮尔斯伯里—H. 沃尔夫，21... b4后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p313-fig01",
+    "anchor_segment": "CH11-192",
+    "caption": "皮尔斯伯里—H. 沃尔夫，25... Rb8后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p314-fig01",
+    "anchor_segment": "CH11-208",
+    "caption": "劳泽尔—鲍特维尼克，16. b3后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p315-fig01",
+    "anchor_segment": "CH11-220",
+    "caption": "劳泽尔—鲍特维尼克，21. Bd4后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p316-fig01",
+    "anchor_segment": "CH11-238",
+    "caption": "卡帕布兰卡—卡恩，13... h6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p317-fig01",
+    "anchor_segment": "CH11-248",
+    "caption": "卡帕布兰卡—卡恩，22... Rfe8后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p318-fig01",
+    "anchor_segment": "CH11-257",
+    "caption": "卡帕布兰卡—卡恩，34. Bxg6后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p320-fig01",
+    "anchor_segment": "CH11-270",
+    "caption": "泰希曼—施莱希特，卡尔斯巴德，1911年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p320-fig02",
+    "anchor_segment": "CH11-275",
+    "caption": "斯坦尼茨—拉斯克，伦敦，1899年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p321-fig01",
+    "anchor_segment": "CH11-287",
+    "caption": "斯托尔贝里—阿廖欣，汉堡，1930年；黑先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p322-fig01",
+    "anchor_segment": "CH11-297",
+    "caption": "马歇尔—米塞斯分析，剑桥泉，1904年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p324-fig01",
+    "anchor_segment": "CH11-311",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p325-fig01",
+    "anchor_segment": "CH11-321",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p326-fig01",
+    "anchor_segment": "CH11-325",
+    "caption": "维德马尔—耶茨，伦敦，1922年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p327-fig01",
+    "anchor_segment": "CH11-337",
+    "caption": "维德马尔—耶茨分析，3. Ne2后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p328-fig01",
+    "anchor_segment": "CH11-350",
+    "caption": "皮尔斯伯里—马洛契，巴黎，1900年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p329-fig01",
+    "anchor_segment": "CH11-361",
+    "caption": "皮尔斯伯里—马洛契，10... Nf5后。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p330-fig01",
+    "anchor_segment": "CH11-370",
+    "caption": "波戈留波夫—普热皮乌尔卡，皮耶什佳尼，1922年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p331-fig01",
+    "anchor_segment": "CH11-377",
+    "caption": "鲍特维尼克—拉比诺维奇，列宁格勒，1934年；白先。",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p332-fig01",
+    "anchor_segment": "CH11-389",
+    "caption": "",
+    "status": "blank_no_game_context"
+  },
+  {
+    "figure_id": "AA-p337-fig01",
+    "anchor_segment": "CH12-26",
+    "caption": "白方走完15. Qc3后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p338-fig01",
+    "anchor_segment": "CH12-32",
+    "caption": "白方走完20. Be4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p339-fig01",
+    "anchor_segment": "CH12-52",
+    "caption": "白方走完42. Nxf7后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p340-fig01",
+    "anchor_segment": "CH12-63",
+    "caption": "分析变化中黑方走完42... Qf8后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p341-fig01",
+    "anchor_segment": "CH12-80",
+    "caption": "白方走完12. a4后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p342-fig01",
+    "anchor_segment": "CH12-86",
+    "caption": "白方走完19. Ng5后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p344-fig01",
+    "anchor_segment": "CH12-98",
+    "caption": "白方走完24. Ke2后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p345-fig01",
+    "anchor_segment": "CH12-117",
+    "caption": "黑方走完20... h6后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p346-fig01",
+    "anchor_segment": "CH12-127",
+    "caption": "白方走完32. d5后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p348-fig01",
+    "anchor_segment": "CH12-155",
+    "caption": "白方走完20. Qf2后的局面",
+    "status": "context_verified"
+  },
+  {
+    "figure_id": "AA-p349-fig01",
+    "anchor_segment": "CH12-165",
+    "caption": "黑方走完22... f6后的局面",
+    "status": "context_verified"
+  }
+]

@@ -26,7 +26,7 @@ from reportlab.platypus import (
 )
 
 
-ROOT = Path(r"C:\Users\12059\Documents\Codex\chess")
+ROOT = Path(str(Path(__file__).resolve().parents[3]))
 TRANSLATIONS = ROOT / "translations" / "chess_middlegame_planning"
 DIAGRAMS = ROOT / "tmp" / "pdfs" / "middlegame_chapter" / "diagrams"
 OUTPUT = ROOT / "output" / "pdf" / "chess_middlegame_planning_chapter_planning_zh_proof_v8.pdf"

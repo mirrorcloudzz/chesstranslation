@@ -1,6 +1,9 @@
 import json
 import re
 from pathlib import Path
+import sys
+sys.path.insert(0,str(Path(__file__).resolve().parents[2]/'tools'))
+from project_paths import resolve_project_path
 import pdfplumber
 from PIL import Image, ImageDraw
 
@@ -8,6 +11,7 @@ ROOT=Path(__file__).resolve().parents[2]
 PROJECT=ROOT/'translations/art_of_attack'
 QA=ROOT/'tmp/pdfs/art_of_attack_opening'
 manifest=json.loads((PROJECT/'translation/proof_manifest_v1.json').read_text(encoding='utf-8'))
+for entry in manifest:entry['path']=str(resolve_project_path(entry['path']))
 items=json.loads((PROJECT/'translation/segments_v1.json').read_text(encoding='utf-8'))
 reports=[]
 for config in manifest:

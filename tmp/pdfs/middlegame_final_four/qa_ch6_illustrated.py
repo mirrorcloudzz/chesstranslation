@@ -1,5 +1,9 @@
 import json,re,subprocess
 from pathlib import Path
+
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3] / "tools"))
+from project_paths import find_pdftoppm
 import pdfplumber
 from PIL import Image,ImageDraw
 ROOT=Path(__file__).resolve().parents[3];TMP=Path(__file__).parent
@@ -20,7 +24,7 @@ for f in figs:
         matches=[p for p in pages if norm(f['caption']) in norm(p.extract_text() or '')]
         assert matches and all(p.images for p in matches),f
 print(len(pages),'pages; all',len(blocks),'blocks present; 14 boards present; text bounds checked.')
-poppler=r'C:\Users\12059\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin\pdftoppm.exe'
+poppler=find_pdftoppm()
 subprocess.run([poppler,'-scale-to','1400','-png',str(pdf),str(QA/'page')],check=True,stderr=subprocess.DEVNULL)
 pngs=sorted(QA.glob('page-*.png'))
 for start in range(0,len(pngs),6):

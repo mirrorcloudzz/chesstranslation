@@ -1,6 +1,9 @@
 """Render all four chapter proofs and verify text, bounds and diagram anchors."""
 import json,re,subprocess,concurrent.futures,sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "tools"))
+from project_paths import find_pdftoppm, resolve_project_path
 import pdfplumber
 from PIL import Image,ImageDraw
 ROOT=Path(__file__).resolve().parents[2]
@@ -8,8 +11,9 @@ PROJECT=ROOT/'translations/art_of_attack'
 QA=ROOT/'tmp/pdfs/art_of_attack_ch02_05'
 QA.mkdir(parents=True,exist_ok=True)
 manifest=json.loads((PROJECT/'translation/proof_manifest_ch02_05_v1.json').read_text(encoding='utf-8'))
+for entry in manifest:entry['path']=str(resolve_project_path(entry['path']))
 items=json.loads((PROJECT/'translation/segments_ch02_05_v1.json').read_text(encoding='utf-8'))
-poppler='C:/Users/12059/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/poppler/Library/bin/pdftoppm.exe'
+poppler=find_pdftoppm()
 def render(c):
     subprocess.run([poppler,'-r','100','-png',c['path'],str(QA/c['section'])],check=True,capture_output=True)
     print('Rendered '+c['section'],flush=True)

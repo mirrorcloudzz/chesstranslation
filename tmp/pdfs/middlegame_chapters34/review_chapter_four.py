@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 from ch4_review_english import REPLACE, EXACT
 
-ROOT = Path(r'C:\Users\12059\Documents\Codex\chess')
+ROOT = Path(str(Path(__file__).resolve().parents[3]))
 TRANS = ROOT / 'translations/chess_middlegame_planning'
 TMP = Path(__file__).parent
 SOURCE = TMP / 'chapter_four_before_review.json'

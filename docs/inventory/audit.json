@@ -1,0 +1,50 @@
+{
+  "files": 7244,
+  "bytes": 1393962064,
+  "directories": {
+    ".gitattributes": 1,
+    ".gitignore": 1,
+    "AGENTS.md": 1,
+    "README.md": 1,
+    "books": 6,
+    "docs": 2,
+    "output": 103,
+    "requirements-lock.txt": 1,
+    "requirements.txt": 1,
+    "tmp": 4009,
+    "tools": 21,
+    "translations": 3097
+  },
+  "text_files_read": 1119,
+  "json_files_parsed": 754,
+  "originals_sha256_match": {
+    "Chess Middlegame Planning (Peter Romanovsky) (Z-Library).pdf": true,
+    "Logical Chess Move By Move Every Move explained (Irving Chernev) (Z-Library).pdf": true,
+    "How to think in chess (Przewoznik Soszynski) (Z-Library).pdf": true,
+    "Art of Attack in Chess (Vladimir Vukovic) (z-library.sk, 1lib.sk, z-lib.sk).pdf": true
+  },
+  "art_of_attack_pages": {
+    "source_pages": {
+      "expected": 352,
+      "missing": []
+    },
+    "ocr/raw": {
+      "expected": 352,
+      "missing": []
+    }
+  },
+  "figures": 332,
+  "missing_figures": [],
+  "python": "3.12.10",
+  "dependencies": {
+    "PIL": true,
+    "numpy": true,
+    "pypdf": true,
+    "reportlab": true,
+    "pdfplumber": true,
+    "chess": true,
+    "cv2": true
+  },
+  "errors": [],
+  "scope": "Git tracked and non-ignored untracked files; excludes .git, ignored runtimes and docs/inventory. Binary files are hashed, not visually reviewed. Existing QA reports are not rerun."
+}

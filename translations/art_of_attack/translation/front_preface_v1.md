@@ -21,8 +21,8 @@ EN: One of the finest chess books ever written, the Art of Attack has been trans
 ZH: 《进攻的艺术》是国际象棋著作中的杰作之一，本版首次将书中棋谱改为代数记谱。在这部经典著作的修订版中，作者既阐明了杀王进攻的基本原则，也深入讲解了其中最复杂的形式。研读这部名著，会让每一位国际象棋爱好者的走法更有力量，也更富于精彩的构思。
 
 ## FM-6 | 2 | metadata
-EN: EVERYMAN CHESS\nwww.everymanchess.com\nPublished in the UK by Gloucester Publishers plc\nDistributed in the US by the Globe Pequot Press\n£16.99 / $24.95\nISBN 1-85744-400-0\n9781857444001
-ZH: Everyman Chess出版社\nwww.everymanchess.com\n英国出版：Gloucester Publishers plc\n美国发行：Globe Pequot Press\n原版封底标价：16.99英镑 / 24.95美元\nISBN 1-85744-400-0\n9781857444001
+EN: EVERYMAN CHESS\nwww.everymanchess.com\nPublished in the UK by Gloucester Publishers plc\nDistributed in the US by the Globe Pequot Press\n£16.99 / $24.95\nISBN 1-85744-40O-O\n9781857444001
+ZH: Everyman Chess出版社\nwww.everymanchess.com\n英国出版：Gloucester Publishers plc\n美国发行：Globe Pequot Press\n原版封底标价：16.99英镑 / 24.95美元\nISBN 1-85744-40O-O\n9781857444001
 
 ## FM-7 | 3 | heading
 EN: Contents
@@ -30,7 +30,7 @@ ZH: 目录
 
 ## FM-8 | 3 | paragraph
 EN: Symbols — 4\nPreface by John Nunn — 5\nIntroduction — 6\n1 The attack against the uncastled king — 14\n2 The attack on the king that has lost the right to castle — 28\n3 On castling and attacking the castled position in general — 51\n4 Mating patterns — 66\n5 Focal-points — 80\n6 The classic bishop sacrifice — 121
-ZH: 符号说明——4\n约翰·纳恩编者序——5\n导言——6\n第一章　攻击尚未易位的王——14\n第二章　攻击失去易位权的王——28\n第三章　易位与攻击易位局面概论——51\n第四章　将杀模式——66\n第五章　杀王焦点——80\n第六章　经典弃象——121
+ZH: 符号说明——4\n约翰·纳恩编者序——5\n导言——6\n第一章　攻击尚未易位的王——14\n第二章　攻击失去易位权的王——28\n第三章　易位与攻击易位局面概论——51\n第四章　将杀模式——66\n第五章　杀王焦点——80\n第六章　古典弃象——121
 
 ## FM-9 | 3 | paragraph
 EN: 7 Ranks, files, and diagonals in the attack on the castled king — 142\n8 Pieces and pawns in the attack on the castled king — 183\n9 The attack on the fianchettoed and queenside castling positions — 231\n10 Defending against the attack on the castled king — 247\n11 The phases of the attack on the castled king — 293\n12 The attack on the king as an integral part of the game — 334\nIndex of Players — 350\nIndex of Openings — 352

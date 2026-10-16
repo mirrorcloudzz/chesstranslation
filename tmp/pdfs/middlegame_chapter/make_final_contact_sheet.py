@@ -1,7 +1,7 @@
 from pathlib import Path
 from PIL import Image, ImageDraw
 
-root = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\pdfs\middlegame_chapter\final_render")
+root = Path(str(Path(__file__).resolve().parents[3] / 'tmp/pdfs/middlegame_chapter/final_render'))
 paths = sorted(root.glob("page-*.png"))
 cols = 5
 cell_w, cell_h = 250, 360

@@ -1,0 +1,19 @@
+# PDF preparation, layout, QA and legal chess move checks.
+Pillow
+numpy
+pypdf
+reportlab
+pdfplumber
+python-chess
+opencv-python
+
+# Local OCR, including the existing RapidOCR fallback.
+rapidocr-onnxruntime
+winrt-runtime; sys_platform == "win32"
+winrt-Windows.Foundation; sys_platform == "win32"
+winrt-Windows.Foundation.Collections; sys_platform == "win32"
+winrt-Windows.Globalization; sys_platform == "win32"
+winrt-Windows.Graphics.Imaging; sys_platform == "win32"
+winrt-Windows.Media.Ocr; sys_platform == "win32"
+winrt-Windows.Storage; sys_platform == "win32"
+winrt-Windows.Storage.Streams; sys_platform == "win32"

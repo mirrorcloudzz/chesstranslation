@@ -1,7 +1,7 @@
 from pathlib import Path
 from PIL import Image, ImageDraw
 
-root = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\pdfs\qa")
+root = Path(str(Path(__file__).resolve().parents[3] / 'tmp/pdfs/qa'))
 for folder_name in ("planning_v2", "planning_v3", "planning_v3_verified", "planning_v4", "planning_v5", "planning_v5_verified", "planning_v6", "planning_v7", "chapter1", "chapter_one_v2", "chapter2", "chapter_one_full_v3", "chapter_two_full_v2"):
     folder = root / folder_name
     files = sorted(folder.glob("p-*.jpg"))

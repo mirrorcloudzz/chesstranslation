@@ -1,5 +1,9 @@
 import json,re,subprocess
 from pathlib import Path
+
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3] / "tools"))
+from project_paths import find_pdftoppm
 import pdfplumber
 from PIL import Image, ImageDraw
 ROOT=Path(__file__).resolve().parents[3]
@@ -22,7 +26,7 @@ for f in manifest:
     assert len(matches)==1 and len(matches[0].images)>=1,f
     print(f"Figure {f['figure']}: page {matches[0].page_number}: {f['caption']}")
 print(f'{len(pages)} pages; all 154 segments present; 10 images and captions verified')
-poppler=Path(r'C:\Users\12059\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin\pdftoppm.exe')
+poppler=Path(find_pdftoppm())
 subprocess.run([str(poppler),'-scale-to','1500','-png',str(pdf),str(WORK/'page')],check=True,stderr=subprocess.DEVNULL)
 pngs=sorted(WORK.glob('page-*.png'))
 for start in range(0,len(pngs),6):

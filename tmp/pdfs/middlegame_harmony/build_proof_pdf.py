@@ -12,7 +12,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import CondPageBreak, Image, LongTable, PageBreak, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 
 
-ROOT = Path(r"C:\Users\12059\Documents\Codex\chess")
+ROOT = Path(str(Path(__file__).resolve().parents[3]))
 WORK = ROOT / "tmp" / "pdfs" / "middlegame_harmony"
 EN_MD = ROOT / "translations" / "chess_middlegame_planning" / "05_planning_harmony_en_ocr.md"
 ZH_MD = ROOT / "translations" / "chess_middlegame_planning" / "05_planning_harmony_zh.md"

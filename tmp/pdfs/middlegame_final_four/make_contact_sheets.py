@@ -1,7 +1,7 @@
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
-root = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\pdfs\middlegame_final_four")
+root = Path(str(Path(__file__).resolve().parents[3] / 'tmp/pdfs/middlegame_final_four'))
 for chapter in (5, 6, 7, 8):
     src = root / f"qa_ch{chapter}"
     files = sorted(src.glob("page-*.png"))

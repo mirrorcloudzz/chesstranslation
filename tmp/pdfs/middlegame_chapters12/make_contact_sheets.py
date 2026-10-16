@@ -2,7 +2,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw
 
 
-ROOT = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\pdfs\middlegame_chapters12")
+ROOT = Path(str(Path(__file__).resolve().parents[3] / 'tmp/pdfs/middlegame_chapters12'))
 
 
 def make(files, stem, columns, rows, thumb_size):

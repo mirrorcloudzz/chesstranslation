@@ -1,12 +1,16 @@
 import json, re, subprocess
 from pathlib import Path
+
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3] / "tools"))
+from project_paths import find_pdftoppm
 import pdfplumber
 from PIL import Image, ImageOps, ImageDraw
 
 ROOT = Path(__file__).resolve().parents[3]
 TMP = Path(__file__).parent / 'qa_v2'
 TMP.mkdir(exist_ok=True)
-POPPLER = Path(r'C:\Users\12059\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin\pdftoppm.exe')
+POPPLER = Path(find_pdftoppm())
 for chapter, stem, manuscript in [(3,'three_a_file','13_chapter_three_reviewed.json'),(4,'four_centre','14_chapter_four_reviewed.json')]:
     pdf = ROOT / 'output/pdf' / f'chess_middlegame_planning_chapter_{stem}_bilingual_proof_v2.pdf'
     doc = pdfplumber.open(pdf).pages

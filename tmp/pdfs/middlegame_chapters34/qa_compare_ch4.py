@@ -2,7 +2,7 @@ from pathlib import Path
 import re
 import pdfplumber
 
-root = Path(r"C:\Users\12059\Documents\Codex\chess")
+root = Path(str(Path(__file__).resolve().parents[3]))
 old = root / "output" / "pdf" / "chess_middlegame_planning_chapter_four_centre_illustrated_proof_v3.pdf"
 new = root / "output" / "pdf" / "chess_middlegame_planning_chapter_four_centre_illustrated_proof_v4.pdf"
 

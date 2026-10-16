@@ -1,11 +1,15 @@
 import json,re,subprocess,sys
 from pathlib import Path
+
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3] / "tools"))
+from project_paths import find_pdftoppm
 from concurrent.futures import ThreadPoolExecutor
 import pdfplumber
 from PIL import Image,ImageDraw
 ROOT=Path(__file__).resolve().parents[3];TMP=Path(__file__).parent
 names={5:('five','active_pawns',2),6:('six','heavy_pieces',2),7:('seven','manoeuvring_initiative',1),8:('eight','two_bishops',1)}
-poppler=r'C:\Users\12059\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin\pdftoppm.exe'
+poppler=find_pdftoppm()
 norm=lambda s:re.sub(r'\s|\*\*','',s)
 def work(ch):
     QA=TMP/f'qa_final_ch{ch}';QA.mkdir(exist_ok=True)

@@ -2,12 +2,12 @@ import json
 import sys
 from pathlib import Path
 
-sys.path.insert(0, r"C:\Users\12059\Documents\Codex\chess\tmp\ocrdeps")
+sys.path.insert(0, str(Path(__file__).resolve().parents[3] / 'tmp/ocrdeps'))
 
 from rapidocr_onnxruntime import RapidOCR
 
 
-root = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\pdfs\middlegame_chapters34\source")
+root = Path(str(Path(__file__).resolve().parents[3] / 'tmp/pdfs/middlegame_chapters34/source'))
 engine = RapidOCR()
 
 for page in range(89, 145):

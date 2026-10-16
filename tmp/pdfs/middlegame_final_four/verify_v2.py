@@ -2,6 +2,10 @@ import json
 import re
 import subprocess
 from pathlib import Path
+
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3] / "tools"))
+from project_paths import find_pdftoppm
 import pdfplumber
 from PIL import Image, ImageOps, ImageDraw
 
@@ -9,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[3]
 OUT = ROOT / 'output/pdf'
 QA = Path(__file__).resolve().parent / 'qa_v2'
 QA.mkdir(exist_ok=True)
-POPPLER = r'C:\Users\12059\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin\pdftoppm.exe'
+POPPLER = find_pdftoppm()
 rows = json.loads((QA.parent/'reviewed_segments.json').read_text(encoding='utf-8'))
 names = ['five_active_pawns', 'six_heavy_pieces', 'seven_manoeuvring_initiative', 'eight_two_bishops']
 for ch, name in zip(range(5,9), names):

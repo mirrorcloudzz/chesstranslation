@@ -1,23 +1,37 @@
 import sys,json,hashlib,shutil,time,argparse
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[2]
-sys.path.insert(0,str(ROOT/'tmp/ocrdeps'))
 from PIL import Image,ImageDraw,ImageOps
 import numpy as np
 import cv2
 from pypdf import PdfReader
 BASE=ROOT/'translations/art_of_attack'
-SOURCE=Path('C:/Users/12059/Downloads/Art of Attack in Chess (Vladimir Vukovic) (z-library.sk, 1lib.sk, z-lib.sk).pdf')
-ARCHIVE=ROOT/'books/originals'/SOURCE.name
+SOURCE_NAME='Art of Attack in Chess (Vladimir Vukovic) (z-library.sk, 1lib.sk, z-lib.sk).pdf'
+ARCHIVE=ROOT/'books/originals'/SOURCE_NAME
+EXPECTED_SHA256='888016578278b4b822afbf47600c601b61c4d9958dab0fdbc89280ded83d511a'
 SECTIONS=[('front','Cover and publication details',1,2),('contents','Contents',3,3),('symbols','Symbols',4,4),('preface','Preface by John Nunn',5,5),('introduction','Introduction',6,13),('ch01','The attack against the uncastled king',14,27),('ch02','The attack on the king that has lost the right to castle',28,50),('ch03','On castling and attacking the castled position in general',51,65),('ch04','Mating patterns',66,79),('ch05','Focal-points',80,120),('ch06','The classic bishop sacrifice',121,141),('ch07','Ranks, files, and diagonals in the attack on the castled king',142,182),('ch08','Pieces and pawns in the attack on the castled king',183,230),('ch09','The attack on the fianchettoed and queenside castling positions',231,246),('ch10','Defending against the attack on the castled king',247,292),('ch11','The phases of the attack on the castled king',293,333),('ch12','The attack on the king as an integral part of the game',334,349),('players','Index of Players',350,351),('openings','Index of Openings',352,352)]
 def section(n):return next(s for s in SECTIONS if s[2]<=n<=s[3])
 def save(path,data):path.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
 
-def extract():
+def source_pdf(source=None):
+    """Use the archived original unless an explicit source was supplied."""
+    path=Path(source).expanduser().resolve() if source is not None else ARCHIVE
+    if not path.is_file():
+        raise FileNotFoundError(f'Original PDF not found: {path}. Use extract --source PATH to import it.')
+    digest=hashlib.sha256(path.read_bytes()).hexdigest()
+    if digest!=EXPECTED_SHA256:
+        raise ValueError(f'Original PDF checksum mismatch: {path}')
+    if source is not None and ARCHIVE.exists() and hashlib.sha256(ARCHIVE.read_bytes()).hexdigest()!=digest:
+        raise ValueError(f'Archived original differs from supplied source: {ARCHIVE}')
+    return path
+
+def extract(source=None):
+    original=source_pdf(source)
+    if not ARCHIVE.exists():
+        ARCHIVE.parent.mkdir(parents=True,exist_ok=True)
+        shutil.copy2(original,ARCHIVE)
     for d in ['source_pages','ocr/raw','ocr/chapters','figures','qa']:(BASE/d).mkdir(parents=True,exist_ok=True)
-    if not ARCHIVE.exists():shutil.copy2(SOURCE,ARCHIVE)
     sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
-    assert sha(SOURCE)==sha(ARCHIVE)
     reader=PdfReader(ARCHIVE);pages=[]
     for n,p in enumerate(reader.pages,1):
         assert len(p.images)==1,(n,len(p.images))
@@ -27,7 +41,7 @@ def extract():
         dest=BASE/'source_pages'/f'page-{n:03}.png'
         image.save(dest)
         pages.append(dict(pdf_page=n,printed_page=n if n>=3 else None,section=section(n)[0],width=image.width,height=image.height,pdf_rotation_applied=rotation,file=str(dest.relative_to(BASE))))
-    save(BASE/'source_manifest.json',dict(source_name=SOURCE.name,sha256=sha(ARCHIVE),pages=pages,date='2026-09-30',note='Original embedded page bitmaps preserved without resampling, with PDF page rotation applied. Print/PDF page correspondence to be checked at TOC boundaries.'))
+    save(BASE/'source_manifest.json',dict(source_name=SOURCE_NAME,sha256=sha(ARCHIVE),pages=pages,date='2026-09-30',note='Original embedded page bitmaps preserved without resampling, with PDF page rotation applied. Print/PDF page correspondence to be checked at TOC boundaries.'))
     save(BASE/'contents.json',[dict(id=k,title=t,pdf_start=a,pdf_end=b,print_start=a if a>=3 else None,print_end=b if a>=3 else None) for k,t,a,b in SECTIONS])
     print('Saved',len(pages),'original page images',flush=True)
 
@@ -106,7 +120,8 @@ def ocr(start,end,step):
     for n in range(start,end+1,step):ocr_page(engine,n)
 
 if __name__=='__main__':
-    p=argparse.ArgumentParser();p.add_argument('mode',choices=['extract','crops','ocr']);p.add_argument('--start',type=int,default=1);p.add_argument('--end',type=int,default=352);p.add_argument('--step',type=int,default=1);a=p.parse_args()
-    if a.mode=='extract':extract()
+    p=argparse.ArgumentParser();p.add_argument('mode',choices=['extract','crops','ocr']);p.add_argument('--source',type=Path,help='Explicit PDF import path; extract only. Defaults to the archived original.');p.add_argument('--start',type=int,default=1);p.add_argument('--end',type=int,default=352);p.add_argument('--step',type=int,default=1);a=p.parse_args()
+    if a.source is not None and a.mode!='extract':p.error('--source is only valid with extract')
+    if a.mode=='extract':extract(a.source)
     elif a.mode=='crops':crops()
     else:ocr(a.start,a.end,a.step)

@@ -2,7 +2,7 @@ from pathlib import Path
 import json
 import pdfplumber
 
-root = Path(r"C:\Users\12059\Documents\Codex\chess")
+root = Path(str(Path(__file__).resolve().parents[3]))
 pdf_dir = root / "output" / "pdf"
 data = json.loads((root / "tmp" / "pdfs" / "middlegame_final_four" / "reviewed_segments.json").read_text(encoding="utf-8"))
 

@@ -3,14 +3,14 @@ import re
 import sys
 from pathlib import Path
 
-DEPS = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\translation_deps")
+DEPS = Path(str(Path(__file__).resolve().parents[3] / 'tmp/translation_deps'))
 sys.path.insert(0, str(DEPS))
 
 import ctranslate2
 import sentencepiece as spm
 
 
-ROOT = Path(r"C:\Users\12059\Documents\Codex\chess")
+ROOT = Path(str(Path(__file__).resolve().parents[3]))
 TMP = ROOT / "tmp" / "pdfs" / "middlegame_chapters34"
 TRANS = ROOT / "translations" / "chess_middlegame_planning"
 MODEL = ROOT / "tmp" / "marian_en_zh_ct2"

@@ -30,5 +30,10 @@ Desktop.ini
 /tmp/marian_en_zh_ct2/
 /tmp/tessdata/
 
+# Full-resolution renders of the new complete proof set are regenerated locally.
+# Keep contact sheets, manifests and QA reports versioned.
+/tmp/pdfs/art_of_attack_complete_v2/render/
+/tmp/aa_review_07_08/
+
 # Keep originals, translations, OCR/page images, figures, proofs, scripts,
 # skill backups and other historical working files under version control.

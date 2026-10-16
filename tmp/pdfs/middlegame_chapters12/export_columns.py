@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-root = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\pdfs\middlegame_chapters12\source")
+root = Path(str(Path(__file__).resolve().parents[3] / 'tmp/pdfs/middlegame_chapters12/source'))
 out = []
 for page in range(62, 90):
     rows = json.loads((root / f"page-{page:03d}-ocr.json").read_text(encoding="utf-8"))

@@ -12,7 +12,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import Image, PageBreak, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 
 
-ROOT = Path(r"C:\Users\12059\Documents\Codex\chess")
+ROOT = Path(str(Path(__file__).resolve().parents[3]))
 WORK = ROOT / "tmp" / "pdfs" / "middlegame_basic_understanding"
 OUTPUT = ROOT / "output" / "pdf" / "chess_middlegame_planning_basic_understanding_zh_proof_v4.pdf"
 OUTPUT.parent.mkdir(parents=True, exist_ok=True)

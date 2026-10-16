@@ -20,7 +20,7 @@ from reportlab.platypus import (
 )
 
 
-ROOT = Path(r"C:\Users\12059\Documents\Codex\chess")
+ROOT = Path(str(Path(__file__).resolve().parents[3]))
 WORK = ROOT / "tmp" / "pdfs" / "middlegame_preface_intro"
 OUTPUT = ROOT / "output" / "pdf" / "chess_middlegame_planning_preface_introduction_zh_proof_v3.pdf"
 OUTPUT.parent.mkdir(parents=True, exist_ok=True)

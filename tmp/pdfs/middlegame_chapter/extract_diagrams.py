@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image, ImageOps
 
 
-ROOT = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\pdfs\middlegame_chapter")
+ROOT = Path(str(Path(__file__).resolve().parents[3] / 'tmp/pdfs/middlegame_chapter'))
 SOURCE = ROOT / "source"
 OUT = ROOT / "diagrams"
 OUT.mkdir(parents=True, exist_ok=True)

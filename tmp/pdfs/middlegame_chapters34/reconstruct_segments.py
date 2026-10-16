@@ -3,7 +3,7 @@ import re
 from pathlib import Path
 
 
-ROOT = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\pdfs\middlegame_chapters34")
+ROOT = Path(str(Path(__file__).resolve().parents[3] / 'tmp/pdfs/middlegame_chapters34'))
 SOURCE = ROOT / "source"
 
 

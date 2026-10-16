@@ -18,7 +18,7 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.units import mm
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
-from reportlab.platypus import Image, LongTable, Paragraph, SimpleDocTemplate, Spacer, TableStyle
+from reportlab.platypus import Image, LongTable, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 from PIL import Image as PILImage
 from pypdf import PdfReader
 
@@ -42,9 +42,10 @@ def parse_file(stem):
         item = {'segment_id': sid, 'section': stem, 'page': int(start),
                 'page_end': int(end or start), 'kind': kind,
                 'status': 'draft_v1_for_user_review', 'scan_checked': True}
-        fields = dict(re.findall(r'(?m)^(EN|ZH|FIG): (.*)$', body))
+        fields = dict(re.findall(r'(?m)^(EN|ZH|FIG|REF): (.*)$', body))
         item['text'] = fields['EN'].replace('\\n', '\n')
         item['zh'] = (fields['EN'] if fields['ZH'] == '=' else fields['ZH']).replace('\\n', '\n')
+        if 'REF' in fields:item['note_anchor']=fields['REF'].strip()
         if 'FIG' in fields:
             fid, _, caption = fields['FIG'].partition('|')
             item['figure_id'] = fid.strip()
@@ -135,13 +136,26 @@ def cell(item, language):
         label += ' · 纳恩编者注'
     return Paragraph(f'<font name="DengBold" size="7.2" color="#3B6885">{label}</font><br/>{markup(value)}', style)
 
-def build(config, items, figures):
+def build(config, items, figures, *, output_dir=None, version='v1', date='2026-10-01'):
     stem, title, scope, filename = config
     selected = [s for s in items if s['section'] == stem]
-    filename_out = OUT / f'art_of_attack_{stem}_bilingual_proof_v1.pdf'
+    # Preserve stable source IDs while placing cross-example notes at their
+    # actual reference rather than the bottom-of-scan-page reading position.
+    attached={s['note_anchor']:s for s in selected if s.get('note_anchor')}
+    if attached:
+        arranged=[]
+        for item in selected:
+            if item.get('note_anchor'):continue
+            arranged.append(item)
+            if item['segment_id'] in attached:arranged.append(attached[item['segment_id']])
+        if len(arranged)!=len(selected):raise ValueError('Missing or duplicate footnote anchor')
+        selected=arranged
+    destination = Path(output_dir) if output_dir is not None else OUT
+    destination.mkdir(parents=True, exist_ok=True)
+    filename_out = destination / f'art_of_attack_{stem}_bilingual_proof_{version}.pdf'
     doc = SimpleDocTemplate(str(filename_out), pagesize=A4, leftMargin=13*mm, rightMargin=13*mm,
                             topMargin=19*mm, bottomMargin=16*mm,
-                            title=f'Art of Attack in Chess | {title} | Bilingual proof v1',
+                            title=f'Art of Attack in Chess | {title} | Bilingual proof {version}',
                             author='Vladimir Vuković; bilingual translation proof')
     data = [[Paragraph('英文校订稿', HEAD), Paragraph('中文初译稿', HEAD)]]
     commands = [('BACKGROUND',(0,0),(-1,0),NAVY),('VALIGN',(0,0),(-1,-1),'TOP'),
@@ -175,6 +189,34 @@ def build(config, items, figures):
     for first,last in keep_ranges:
         last=min(last,len(data)-1)
         commands.append(('NOSPLIT',(0,first),(-1,last)))
+    # Consecutive heading/diagram ranges can overlap. Fit the entire connected
+    # group, including the repeated table header, rather than splitting its text.
+    merged=[]
+    for first,last in keep_ranges:
+        last=min(last,len(data)-1)
+        if merged and first<=merged[-1][1]:
+            merged[-1]=(merged[-1][0],max(last,merged[-1][1]))
+        else:merged.append((first,last))
+    def group_height(rows):
+        probe=Table(rows,colWidths=[86*mm,98*mm])
+        probe.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),
+            ('LEFTPADDING',(0,0),(-1,-1),6.5),('RIGHTPADDING',(0,0),(-1,-1),6.5),
+            ('TOPPADDING',(0,0),(-1,-1),6),('BOTTOMPADDING',(0,0),(-1,-1),6),
+            *[('SPAN',(0,i),(-1,i)) for i,row in enumerate(rows) if isinstance(row[0],list)]]))
+        return probe.wrap(184*mm,100000)[1]
+    limit=A4[1]-35*mm-12-group_height(data[:1])-3
+    for first,last in merged:
+        rows=data[first:last+1]
+        height=group_height(rows)
+        if height<=limit:continue
+        graphics=[flow for row in rows for value in row if isinstance(value,list) for flow in value if isinstance(flow,Image)]
+        if not graphics:raise ValueError(f'Unbreakable text group exceeds a page: {selected[0]["section"]}, row {first}')
+        available=sum(g.drawHeight for g in graphics)
+        factor=(available-(height-limit)-4)/available
+        if factor<0.65:raise ValueError(f'Diagram group needs source paragraph splitting: {selected[0]["section"]}, row {first}')
+        for graphic in graphics:
+            graphic.drawWidth*=factor;graphic.drawHeight*=factor
+        if group_height(rows)>limit:raise ValueError('Diagram group still exceeds the page')
     table=LongTable(data,colWidths=[86*mm,98*mm],repeatRows=1,splitByRow=1,splitInRow=0,hAlign='CENTER')
     table.setStyle(TableStyle(commands))
     def furniture(canvas, d):
@@ -185,7 +227,7 @@ def build(config, items, figures):
         canvas.drawCentredString(A4[0]/2,9*mm,str(d.page))
         canvas.restoreState()
     story=[Paragraph(title,TITLE),Spacer(1,3*mm),
-           Paragraph(f'{scope} · {selected[0]["segment_id"]}—{selected[-1]["segment_id"]} · v1 · 2026-10-01',SUB),
+           Paragraph(f'{scope} · {selected[0]["segment_id"]}—{selected[-1]["segment_id"]} · {version} · {date}',SUB),
            Spacer(1,5*mm),table]
     doc.build(story,onFirstPage=furniture,onLaterPages=furniture)
     pdf=PdfReader(str(filename_out))

@@ -4,6 +4,18 @@ from collections import Counter
 from pathlib import Path
 from prepare_art_of_attack import BASE,ROOT,SECTIONS,save,ARCHIVE
 
+def ensure_readme(base):
+    """Create an entry point only once; preserve all human-maintained bytes."""
+    try:
+        with (base/'README.md').open('x',encoding='utf-8') as stream:
+            stream.write('# Art of Attack in Chess — 翻译资料\n\n'
+                '入口：[英文 OCR 目录](OCR_INDEX.md) · [准备记录](PREPARATION_NOTES.md) · '
+                '[检查报告](qa/validation.json)。\n\n'
+                'OCR 导出不代表逐句校订或翻译已完成。翻译进度、用户订正和校样版本在本文件中人工维护；导出器不会覆盖此文件。\n')
+    except FileExistsError:
+        return False
+    return True
+
 def main():
     figures=json.loads((BASE/'figures/manifest.json').read_text(encoding='utf-8'))
     pages={};review=[];excluded=[]
@@ -94,12 +106,7 @@ def main():
         if im.size!=(r-x,b-y):invalid.append(f['id'])
     assert not invalid,invalid
     save(BASE/'qa/validation.json',dict(ocr_pages=len(pages),missing_pages=missing,figures=len(figures),invalid_crop_dimensions=invalid,partial_boards=sum(f['partial_board'] for f in figures),review_lines=len(review),excluded_lines=len(excluded),sections=stats,source_sha256=hashlib.sha256(ARCHIVE.read_bytes()).hexdigest(),text_status='not_manually_proofread',figure_review='All source-page contact sheets and all crop contact sheets visually inspected; exceptional partial boards manually added.'))
-    (BASE/'README.md').write_text('# Art of Attack in Chess — 翻译资料\n\n日期：2026-09-30。当前阶段：英文 OCR 与图片准备，尚未翻译。\n\n'
-        +f'已保存352张原页图、{len(figures)}张棋图裁片；已完成{len(pages)}/352页 OCR。'+('缺页：'+str(missing) if missing else 'OCR页覆盖完整。')+'\n\n'
-        +'入口：[按目录阅读英文 OCR](OCR_INDEX.md) · [准备记录与注意事项](PREPARATION_NOTES.md) · [棋图浏览页](qa/figure_gallery.html) · [检查报告](qa/validation.json)。\n\n'
-        +'按目录独立保存了编者序、导言、12章、符号说明和两份索引，另保存封面封底与目录的 OCR。每一部分都有 Markdown、TXT 与坐标 JSON。\n\n'
-        +'OCR尚未逐句校勘。棋子图标、主线与变化、专名、脚注和跨页句子需要在翻译时对照原页核校；不能把本资料当成已经准确校订的棋谱。当前图注留空，原页位置及上下文索引已保存。\n\n'
-        +'其他两本待译书暂缓，既有资料与 Romanovsky 第一版成品保持不变。\n',encoding='utf-8')
+    ensure_readme(BASE)
     # A lightweight local gallery for checking crops against their source pages.
     cards=[]
     for f in figures:

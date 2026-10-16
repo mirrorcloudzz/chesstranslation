@@ -1,7 +1,7 @@
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
-root = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\pdfs\middlegame_chapter")
+root = Path(str(Path(__file__).resolve().parents[3] / 'tmp/pdfs/middlegame_chapter'))
 paths = sorted((root / "diagrams").glob("*.png"))
 thumb_w, thumb_h = 220, 245
 cols = 6

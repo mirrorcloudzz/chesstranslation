@@ -14,7 +14,7 @@ ZH: 进攻是国际象棋中最重要的行动，在古代更是对局的核心�
 
 ## IN-4 | 6 | paragraph
 EN: The great reform of c. 1485, which created modern European chess, was particularly responsible for opening up new opportunities for attack and ushered in a period of rich development in chess technique. For three centuries of chess history, attack predominated over defence in the practice of the great players, and mastery at that time meant skill in conducting an attack. Only with Philidor did the first positional ideas appear, and with them more mature defensive strategies; these were to find in Steinitz a century later a legislator of genius.
-ZH: 约1485年的重大改革奠定了现代欧洲国际象棋的形态，尤其为进攻开辟了新的可能，也由此开启了棋艺蓬勃发展的时期。在此后三个世纪里，伟大棋手的实战始终是进攻压倒防守；当时所谓高超的棋艺，主要就是善于组织进攻。直到菲利多的时代，最初的局面思想才开始出现，更成熟的防守策略也随之诞生。一个世纪之后，斯坦尼茨以天才般的洞察力，为这些思想确立了系统的原则。
+ZH: 约1485年的重大改革奠定了现代欧洲国际象棋的形态，尤其为进攻开辟了新的可能，也由此开启了棋艺蓬勃发展的时期。在此后三个世纪里，伟大棋手的实战始终是进攻压倒防守；当时所谓高超的棋艺，主要就是善于组织进攻。直到菲利道尔的时代，最初的局面思想才开始出现，更成熟的防守策略也随之诞生。一个世纪之后，斯坦尼茨以天才般的洞察力，为这些思想确立了系统的原则。
 
 ## IN-5 | 6-7 | paragraph
 EN: During the classic era of chess from Morphy to Steinitz and on to Lasker the value placed on attack gradually decreased, for with greater positional understanding the foundations were also provided for the perfection of defensive technique. This, however, was followed by a new period in which Capablanca, and particularly Alekhine, perfected the technique of attack, above all that of the attack on the castled position, founded on exact positional play. With Alekhine the aggressive and dynamic style of play reached a zenith; in the period which followed the tide again turned away gradually from the risks of the direct attack in search of new paths.
@@ -30,7 +30,7 @@ ZH: 当这一开局创新的源泉开始枯竭时，进攻问题就会再次摆�
 
 ## IN-8 | 7 | paragraph
 EN: At this point it should be enough to point out that there exists an extremely large group of chess players, who are no longer beginners nor, on the other hand, masters or point-hunters, but players who aim primarily at deriving an aesthetic satisfaction from the game. For such players an attacking game is more attractive than positional technique and they will continue to attack regardless of risk, for their stormy contests are not going to be noted down in theoretical textbooks. So why should such players not become acquainted with the general principles of attack and why should they not perfect themselves in that style of chess with which they are most at home?
-ZH: 这里只需指出，棋手中有一个极为庞大的群体：他们已经不是初学者，却也不是大师，更不是一心追逐积分的人；他们下棋，主要是为了从中获得审美的满足。对这些棋手来说，进攻型对局比局面技术更有吸引力。他们仍会不顾风险地进攻，因为他们那些激烈的交锋，本就不打算写进理论教科书。那么，他们为什么不该了解进攻的一般原则，又为什么不该在自己最擅长的棋风中不断提高呢？
+ZH: 这里只需指出，棋手中有一个极为庞大的群体：他们已经不是初学者，却也不是大师，更不是一心追逐积分的人；他们下棋，主要是为了从中获得审美的满足。对这些棋手来说，进攻型对局比局面棋技术更有吸引力。他们仍会不顾风险地进攻，因为他们那些激烈的交锋，本就不打算写进理论教科书。那么，他们为什么不该了解进攻的一般原则，又为什么不该在自己最擅长的棋风中不断提高呢？
 
 ## IN-9 | 7 | heading
 EN: Various kinds of attack
@@ -47,7 +47,7 @@ FIG: AA-p007-fig01 |
 
 ## IN-12 | 8 | paragraph
 EN: Here White makes the normal positional move **1. d4**, which obviously does not represent an attack against the black king; but in one variation it contains the elements of mate. That is, if Black is careless, and plays for example **1... Bb7?**, there then follows **2. dxc5**, and Black has lost a pawn, since **2... Nxc5?** is answered by **3. Qd4**, attacking the knight and also threatening mate on g7.
-ZH: 白方走出正常的局面走法**1. d4**。这显然不是对黑王的进攻，但其中一个变化却包含了将杀的构思。例如，黑方如果疏忽，走出**1... Bb7?**，白方就能以**2. dxc5**得兵；因为**2... Nxc5?**会遭到**3. Qd4**，既攻击黑马，又威胁在g7将杀。
+ZH: 白方走出正常的局面棋走法**1. d4**。这显然不是对黑王的进攻，但其中一个变化却包含了将杀的构思。例如，黑方如果疏忽，走出**1... Bb7?**，白方就能以**2. dxc5**得兵；因为**2... Nxc5?**会遭到**3. Qd4**，既攻击黑马，又威胁在g7将杀。
 
 ## IN-13 | 8 | paragraph
 EN: 2) A player's action really does contain a direct threat to his opponent's king, but his opponent can stave off this threat at a certain price, e.g. by giving up material or spoiling his position. The vast majority of attacks in fact fall into this very wide category. A simple example is given by this position:
@@ -60,7 +60,7 @@ ZH: 白方走**1. Ng5**，攻击h7。黑方有三种实际可行的应对：**1.
 
 ## IN-15 | 8 | paragraph
 EN: If **1... Nf6**, White will no doubt again continue his attacking play, e.g. with **2. Bf4**, preparing for Be5. However, on **1... Nf8**, attacking play does not promise success, and White will be content with a positional alternative, playing **2. Ne4**. Then Black cannot really prevent **3. Nc5**, after which the knight will have a strong position on c5 and the black bishop will be poorly placed on b7.
-ZH: 如果**1... Nf6**，白方当然仍会继续进攻，例如走**2. Bf4**，准备Be5。但是，在**1... Nf8**之后，继续进攻并无成功的把握，白方转而选择局面走法**2. Ne4**，也已经满意。黑方很难阻止**3. Nc5**；此后白马将占据c5强格，而黑方b7象的位置却很不理想。
+ZH: 如果**1... Nf6**，白方当然仍会继续进攻，例如走**2. Bf4**，准备Be5。但是，在**1... Nf8**之后，继续进攻并无成功的把握，白方转而选择局面棋走法**2. Ne4**，也已经满意。黑方很难阻止**3. Nc5**；此后白马将占据c5强格，而黑方b7象的位置却很不理想。
 
 ## IN-16 | 8-9 | paragraph
 EN: 3) The attacker carries out an uncompromising mating attack, in which he can invest even a considerable amount of material, as long as he is certain of mating in the end. This is the third and highest degree of attack. We can categorize attack in another way if we take castling into account. Thus we have:\n1) Attack before castling, i.e. against a king which has not yet castled, and\n2) Attack against the castled king.
@@ -162,7 +162,7 @@ ZH: 如果进攻方的优势十分充足，就不需要特别丰富的知识和�
 
 ## IN-40 | 12 | paragraph
 EN: The new formula, still accepted today, is: carry out a series of preliminary operations, which require only a smaller degree of advantage, and then you will attain the abundant superiority which facilitates a mating attack. However the consequence of this is that there has been a failure to exploit the art of attack to the full and masters have been over-inclined to see a risk in an attack.
-ZH: 随后形成、直到当时仍被接受的办法是：先实施一系列只需较小优势就能开展的准备行动，再取得足以轻松发动杀王进攻的充分优势。然而，这也带来一个后果：进攻艺术未能得到充分运用，大师们过于倾向于把进攻看成冒险。
+ZH: 随后形成、直到本书写作时仍被接受的办法是：先实施一系列只需较小优势就能开展的准备行动，再取得足以轻松发动杀王进攻的充分优势。然而，这也带来一个后果：进攻艺术未能得到充分运用，大师们过于倾向于把进攻看成冒险。
 
 ## IN-41 | 12 | paragraph
 EN: It is still not clear what the minimum preconditions are, or what kind of advantage is necessary, for a mating attack. It may be a question, for example, of a single moment in a game which never returns. Another still unresolved question is that of a player's skill in weighing up the obligations which he has undertaken when preparing for an attack. The order of his preparatory moves is extraordinarily important. The only really simple thing is the principle itself — that moves entailing fewer obligations should be carried out before those which are more strongly binding. Putting this principle into practice, however, demands great skill of a kind which is very rare — it was fully possessed by Capablanca and Alekhine, but by few others.
@@ -174,7 +174,7 @@ ZH: 对于发动杀王进攻所需要的优势，还应再说几句。这里关�
 
 ## IN-43 | 12-13 | paragraph
 EN: For such pieces to be brought into the attack, together with any further attacking pieces which may be necessary, one must also have a temporal advantage, that is, the ability to carry out a series of attacking moves without one's opponent being able to organize either a direct defence or a sufficiently strong counterattack. A temporal advantage of this kind is usually based on the attacker's positional advantage, i.e. by the comparative lack of mobility of his opponent's pieces for defensive purposes.
-ZH: 要把这些棋子，以及可能需要的其他棋子调入进攻，还必须具备时间优势：能够连续走出进攻着法，而不给对方组织直接防守或足够强反击的机会。这种时间优势通常建立在进攻方的局面优势之上，具体来说，就是对方棋子缺乏及时转入防守的机动性。
+ZH: 要把这些棋子，以及可能需要的其他棋子调入进攻，还必须具备时间优势：能够连续走出进攻着法，而不给对方组织直接防守或足够强反击的机会。这种时间优势通常建立在进攻方在局面棋方面的优势之上，具体来说，就是对方棋子缺乏及时转入防守的机动性。
 
 ## IN-44 | 13 | paragraph
 EN: The attacker often does not possess such outstanding overall superiority at the commencement of his attack, but it may manifest itself later as a consequence of the immobility of some of the defending pieces or through a particular attacking combination. The skill of perceiving the right moment to launch one's attack in fact consists of making a correct assessment of possibilities such as these.
@@ -182,7 +182,7 @@ ZH: 进攻方在发动进攻之初，往往并没有如此明显的整体优势�
 
 ## IN-45 | 13 | paragraph
 EN: All these points go to show that the correct launching of an attack is the crucial difficulty which has caused so many masters to turn away from the attacking style. They would rather try to obtain something through positional technique, where the downside is nothing worse than a draw; all too often this is exactly what they do achieve. Still, if advancement in the art of attack is neglected, if opportunities for a perfectly feasible attack are passed by, how are games going to be won when technique comes up against technique?
-ZH: 以上各点说明，正确地发动进攻正是最关键的难题，也使许多大师远离了进攻型棋风。他们宁愿运用局面技术来争取收获，认为最坏也不过是和棋；而结果往往恰恰就是和棋。可是，如果不去提高进攻艺术，如果放过完全可行的进攻机会，那么当双方的局面技术不相上下时，又怎样才能赢棋呢？
+ZH: 以上各点说明，正确地发动进攻正是最关键的难题，也使许多大师远离了进攻型棋风。他们宁愿运用局面棋技术来争取收获，认为最坏也不过是和棋；而结果往往恰恰就是和棋。可是，如果不去提高进攻艺术，如果放过完全可行的进攻机会，那么当双方的局面棋技术不相上下时，又怎样才能赢棋呢？
 
 ## IN-46 | 13 | paragraph
 EN: Without exploring the art of attack more deeply, there can be no further advance in chess. Attack is an essential component of the game of chess; it is a spark which smoulders in every corner and only the player who knows how to keep it alive and make it burst into flame at the right moment has reached the heights of true mastery. Lasker once acutely observed that if there is ever any possibility of an attack one must carry it out, since otherwise one's advantage will evaporate.

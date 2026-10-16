@@ -4,13 +4,13 @@ import sys
 import time
 from pathlib import Path
 
-DEPS = Path(r"C:\Users\12059\Documents\Codex\chess\tmp\translation_deps")
+DEPS = Path(str(Path(__file__).resolve().parents[3] / 'tmp/translation_deps'))
 sys.path.insert(0, str(DEPS))
 
 from translatepy.translators.google import GoogleTranslate
 
 
-ROOT = Path(r"C:\Users\12059\Documents\Codex\chess")
+ROOT = Path(str(Path(__file__).resolve().parents[3]))
 TMP = ROOT / "tmp" / "pdfs" / "middlegame_chapters34"
 TRANS = ROOT / "translations" / "chess_middlegame_planning"
 translator = GoogleTranslate()
