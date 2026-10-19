@@ -18,6 +18,7 @@ sys.path.insert(0,str(ROOT/'tools'))
 from project_paths import find_pdftoppm
 
 QA=ROOT/'tmp/pdfs/art_of_attack_complete_v2'
+VERSION='v2'
 
 
 def norm(value):
@@ -27,12 +28,12 @@ def norm(value):
 def clean_column(value):
     value=re.sub(r'(?:CH\d+|FM|PF|IN|PI|OI)-\d+ · 原书\d+(?:—\d+)?页(?: · 纳恩编者注)?','',value)
     value=re.sub(r'(?:FM|PF)-\d+ · 原版封[面底]','',value)
-    return value.replace('英文校订稿','').replace('中文初译稿','')
+    return value.replace('英文校订稿','').replace('中文初译稿','').replace('中文语言校订稿','')
 
 
 def check(config):
     number,(stem,title,start,end)=config
-    path=DEST/f'{number:02d}_{stem}_bilingual_proof_v2.pdf'
+    path=DEST/f'{number:02d}_{stem}_bilingual_proof_{VERSION}.pdf'
     items=parse_file(stem)
     result={'section':stem,'file':path.relative_to(ROOT).as_posix(),'sha256':hashlib.sha256(path.read_bytes()).hexdigest(),
             'overflow':[],'missing_text':[],'figure_checks':[]}
@@ -94,17 +95,21 @@ def render(result):
 
 
 def main():
+    global QA,VERSION
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--sections',nargs='+')
     parser.add_argument('--skip-render',action='store_true')
+    parser.add_argument('--version',choices=['v2','v3'],default='v2')
     args=parser.parse_args()
+    VERSION=args.version
+    QA=ROOT/f'tmp/pdfs/art_of_attack_complete_{VERSION}'
     QA.mkdir(parents=True,exist_ok=True)
     configs=[(n,c) for n,c in enumerate(NAMES) if not args.sections or c[0] in args.sections]
     with ThreadPoolExecutor(max_workers=4) as pool:results=list(pool.map(check,configs))
     for r in results:print(json.dumps({k:r[k] for k in ['section','pages','images','ok','missing_text']},ensure_ascii=False),flush=True)
     if not args.skip_render:
         with ThreadPoolExecutor(max_workers=4) as pool:list(pool.map(render,results))
-    report=PROJECT/'translation/layout_validation_complete_v2.json'
+    report=PROJECT/f'translation/layout_validation_complete_{VERSION}.json'
     old=json.loads(report.read_text(encoding='utf-8')) if report.exists() else {'sections':[]}
     combined={r['section']:r for r in old['sections']}
     combined.update({r['section']:r for r in results})

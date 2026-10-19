@@ -136,7 +136,7 @@ def cell(item, language):
         label += ' · 纳恩编者注'
     return Paragraph(f'<font name="DengBold" size="7.2" color="#3B6885">{label}</font><br/>{markup(value)}', style)
 
-def build(config, items, figures, *, output_dir=None, version='v1', date='2026-10-01'):
+def build(config, items, figures, *, output_dir=None, version='v1', date='2026-10-01', zh_label='中文初译稿'):
     stem, title, scope, filename = config
     selected = [s for s in items if s['section'] == stem]
     # Preserve stable source IDs while placing cross-example notes at their
@@ -157,7 +157,7 @@ def build(config, items, figures, *, output_dir=None, version='v1', date='2026-1
                             topMargin=19*mm, bottomMargin=16*mm,
                             title=f'Art of Attack in Chess | {title} | Bilingual proof {version}',
                             author='Vladimir Vuković; bilingual translation proof')
-    data = [[Paragraph('英文校订稿', HEAD), Paragraph('中文初译稿', HEAD)]]
+    data = [[Paragraph('英文校订稿', HEAD), Paragraph(zh_label, HEAD)]]
     commands = [('BACKGROUND',(0,0),(-1,0),NAVY),('VALIGN',(0,0),(-1,-1),'TOP'),
                 ('LEFTPADDING',(0,0),(-1,-1),6.5),('RIGHTPADDING',(0,0),(-1,-1),6.5),
                 ('TOPPADDING',(0,0),(-1,-1),6),('BOTTOMPADDING',(0,0),(-1,-1),6)]

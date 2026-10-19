@@ -1,0 +1,2307 @@
+{
+  "date": "2026-10-18",
+  "baseline": "segments_complete_v2.json",
+  "scope": "Structural comparison only; human EN/ZH language reading is documented in the separate chapter review notes.",
+  "sections": {
+    "front_preface": 18,
+    "introduction": 46,
+    "ch01": 160,
+    "ch02": 244,
+    "ch03": 115,
+    "ch04": 80,
+    "ch05": 434,
+    "ch06": 187,
+    "ch07": 380,
+    "ch08": 436,
+    "ch09": 129,
+    "ch10": 414,
+    "ch11": 406,
+    "ch12": 174,
+    "players": 157,
+    "openings": 30
+  },
+  "units": 3410,
+  "changed_units": 143,
+  "changed_fields": 148,
+  "historical_v2_pdf_hashes_match": true,
+  "protected_fields": [
+    "text",
+    "section",
+    "page",
+    "page_end",
+    "kind",
+    "figure_id",
+    "note_anchor"
+  ],
+  "scan_verified_english_exceptions": [
+    {
+      "segment": "CH10-56",
+      "section": "ch10",
+      "page": 253,
+      "field": "text",
+      "before": "In the original edition, this diagram was incorrectly given without the black 1 pawn on b5. Qukovié's comments have been modified to take account of this correction.",
+      "after": "In the original edition, this diagram was incorrectly given without the black pawn on b5. Vuković's comments have been modified to take account of this correction.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-76",
+      "section": "ch10",
+      "page": 256,
+      "field": "text",
+      "before": "However one looks at it, Black is getting into a cramped and difficult position. He cannot make ...f5 work, as is shown by the following variation: I1...Ne8 12. g4 g6 13. Bh6 Ng7 14. O-O-O f5? 15. gxf5 gxf5 16. Rdg1 Rf7 17. exf5 Bxf5 18. Bxg7 when White wins.",
+      "after": "However one looks at it, Black is getting into a cramped and difficult position. He cannot make ...f5 work, as is shown by the following variation: 11... Ne8 12. g4 g6 13. Bh6 Ng7 14. O-O-O f5? 15. gxf5 gxf5 16. Rdg1 Rf7 17. exf5 Bxf5 18. Bxg7 when White wins.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-101",
+      "section": "ch10",
+      "page": 258,
+      "field": "text",
+      "before": "A move which does not belong to the system and only wastes time. At this point Pillsbury usually played 11. Ne5 and his opponents allowed him to strengthen the position of his knight by f4. Marco later showed that after I I Ne5 one should play 11... Nxe5 12. dxe5 Ne8 13. Bf4 g6 14. Bh6 Ng7 15. f4 d4! answering 16. f5 with 16... Bg5.",
+      "after": "A move which does not belong to the system and only wastes time. At this point Pillsbury usually played 11. Ne5 and his opponents allowed him to strengthen the position of his knight by f4. Marco later showed that after 11. Ne5 one should play 11... Nxe5 12. dxe5 Ne8 13. Bf4 g6 14. Bh6 Ng7 15. f4 d4! answering 16. f5 with 16... Bg5.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-105",
+      "section": "ch10",
+      "page": 259,
+      "field": "text",
+      "before": "Instead of 1 1...c4'? Black could have played, for example, 11... a6, which is in keeping with the system and does not immediately forsake the centre in the process. The modern answer would be 11... Ne4, with the aim of clarifying the situation.",
+      "after": "Instead of 11... c4? Black could have played, for example, 11... a6, which is in keeping with the system and does not immediately forsake the centre in the process. The modern answer would be 11... Ne4, with the aim of clarifying the situation.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "root逐页直接查看原书259、275、282、292页扫描确认；修复英文转写/OCR与SAN符号空格，保留原书评注值。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-119",
+      "section": "ch10",
+      "page": 260,
+      "field": "text",
+      "before": "Black is planning . Qd6, but he should have noted that White will be unable to play the fundamentally important move Nf4 for some time (because of Qxf5). He could therefore have devoted the tempo to preparing ...b4, e.g. by 22... Rc8.",
+      "after": "Black is planning ...Qd6, but he should have noted that White will be unable to play the fundamentally important move Nf4 for some time (because of ...Qxf5). He could therefore have devoted the tempo to preparing ...b4, e.g. by 22... Rc8.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-239",
+      "section": "ch10",
+      "page": 275,
+      "field": "text",
+      "before": "After 2. Nh5 Rg8 3. Nf6 (otherwise 3... Bf8 3... Rg7 4. Rf3 Black can just defend himself in time by 4... Qc3 5. Rd1 Be7 and if 6. Rh3, then 6... Bxf6.",
+      "after": "After 2. Nh5 Rg8 3. Nf6 (otherwise 3... Bf8!) 3... Rg7 4. Rf3 Black can just defend himself in time by 4... Qc3 5. Rd1 Be7 and if 6. Rh3, then 6... Bxf6.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "root逐页直接查看原书259、275、282、292页扫描确认；修复英文转写/OCR与SAN符号空格，保留原书评注值。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-250",
+      "section": "ch10",
+      "page": 276,
+      "field": "text",
+      "before": "1 Although Vuković is correct with his general principles, the above example is hardly a convincing demonstration; whatever Black plays, he cannot hope to defend the position with most of his pieces stuck far away on the queenside. After 1... Kh8 White can play 2. f5! Nxe5 3. Nh5 Rg8 4. fxg6 fxg6 5. Qg5! Nd7 6. Rf7 with a decisive attack, for example 6... Qc3 7. Rd1 Rdf8 8. Rxd7 Qxd3 9. Qe5+ and mates. Moreover, even one of Vuković’s own lines favours White: after 2. Nh5 Rg8 3. Nf6 Rg7 4. Rf3 Qc3 5. Rd1 Be7 White need not allow the capture on f6 but can simply play 6. Qh4! threatening7 Rh3. Black has nothing better than 6... h5 7. Qg5 Bxf6 8. exf6 Rh7 9. f5 Qe5, but after 10. h4! he is clearly in serious trouble as his rook on h7 is totally out of play.",
+      "after": "1 Although Vuković is correct with his general principles, the above example is hardly a convincing demonstration; whatever Black plays, he cannot hope to defend the position with most of his pieces stuck far away on the queenside. After 1... Kh8 White can play 2. f5! Nxe5 3. Nh5 Rg8 4. fxg6 fxg6 5. Qg5! Nd7 6. Rf7 with a decisive attack, for example 6... Qc3 7. Rd1 Rdf8 8. Rxd7 Qxd3 9. Qe5+ and mates. Moreover, even one of Vuković’s own lines favours White: after 2. Nh5 Rg8 3. Nf6 Rg7 4. Rf3 Qc3 5. Rd1 Be7 White need not allow the capture on f6 but can simply play 6. Qh4! threatening 7. Rh3. Black has nothing better than 6... h5 7. Qg5 Bxf6 8. exf6 Rh7 9. f5 Qe5, but after 10. h4! he is clearly in serious trouble as his rook on h7 is totally out of play.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-318",
+      "section": "ch10",
+      "page": 282,
+      "field": "text",
+      "before": "If 21. Rd1, Black can play 21... Qxd1 !.",
+      "after": "If 21. Rd1, Black can play 21... Qxd1!.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "root逐页直接查看原书259、275、282、292页扫描确认；修复英文转写/OCR与SAN符号空格，保留原书评注值。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-405",
+      "section": "ch10",
+      "page": 292,
+      "field": "text",
+      "before": "White takes this pawn at a moment when 19... fxg6 would still be dangerous because of the possibility of 20. Rxh7. If White waits any longer, hxg6 will lose its effect and the answer ...fxg6 will be good, opening up the f-file to Black's advantage. If 19. dxc5 Black has the powerful reply 19... Ne5 !.",
+      "after": "White takes this pawn at a moment when 19... fxg6 would still be dangerous because of the possibility of 20. Rxh7. If White waits any longer, hxg6 will lose its effect and the answer ...fxg6 will be good, opening up the f-file to Black's advantage. If 19. dxc5 Black has the powerful reply 19... Ne5!.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "root逐页直接查看原书259、275、282、292页扫描确认；修复英文转写/OCR与SAN符号空格，保留原书评注值。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-390",
+      "section": "ch11",
+      "page": 332,
+      "field": "text",
+      "before": "Another possibility is 1. Nh7, and this leads to even greater material gains; Black is obliged to play I ...Ne4! ! , but after 2. Bxe4 dxe4 3. Nf6+ Qxf6 4. Qxf6 e3 the black pawn forces White's queen to retire, e.g. 5. Qf1 (or 5. Qg5+ Kf8) 5... e2 6. Qe1 Kf8, and White can hardly count on victory.",
+      "after": "Another possibility is 1. Nh7, and this leads to even greater material gains; Black is obliged to play 1... Ne4!, but after 2. Bxe4 dxe4 3. Nf6+ Qxf6 4. Qxf6 e3 the black pawn forces White's queen to retire, e.g. 5. Qf1 (or 5. Qg5+ Kf8) 5... e2 6. Qe1 Kf8, and White can hardly count on victory.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "changes": [
+    {
+      "segment": "FM-5",
+      "section": "front_preface",
+      "page": 2,
+      "field": "zh",
+      "before": "《进攻的艺术》是国际象棋著作中的杰作之一，本版首次将书中棋谱改为代数记谱。在这部经典著作的修订版中，作者既阐明了杀王进攻的基本原则，也深入讲解了其中最复杂的形式。研读这部名著，会让每一位国际象棋爱好者的走法更有力量，也更富于精彩的构思。",
+      "after": "《进攻的艺术》是国际象棋著作中的杰作之一，本版首次将书中棋谱改为代数记谱。在这部经典著作的修订版中，作者既阐明了杀王进攻的基本原则，也深入讲解了其中最复杂的形式。研读这部名著，能使国际象棋爱好者的棋艺更有力量，构思更加精彩。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "play指整体棋艺；理顺“富于精彩的构思”的搭配"
+        }
+      ]
+    },
+    {
+      "segment": "FM-8",
+      "section": "front_preface",
+      "page": 3,
+      "field": "zh",
+      "before": "符号说明——4\n约翰·纳恩编者序——5\n导言——6\n第一章　攻击尚未易位的王——14\n第二章　攻击失去易位权的王——28\n第三章　易位与攻击易位局面概论——51\n第四章　将杀模式——66\n第五章　杀王焦点——80\n第六章　古典弃象——121",
+      "after": "符号说明——4\n约翰·纳恩编者序——5\n导言——6\n第一章　攻击尚未易位的王——14\n第二章　攻击失去易位权的王——28\n第三章　易位与攻击王城的一般问题——51\n第四章　将杀模式——66\n第五章　杀王焦点——80\n第六章　古典弃象——121",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "目录与权威章节标题一致"
+        }
+      ]
+    },
+    {
+      "segment": "FM-9",
+      "section": "front_preface",
+      "page": 3,
+      "field": "zh",
+      "before": "第七章　攻击易位王时的横线、直线与斜线——142\n第八章　攻击易位王时的棋子与兵——183\n第九章　攻击侧翼出象与长易位的局面——231\n第十章　抵御针对易位王的进攻——247\n第十一章　攻击易位王的各个阶段——293\n第十二章　杀王进攻：对局不可分割的一部分——334\n棋手索引——350\n开局索引——352",
+      "after": "第七章　攻击易位王时的横线、直线与斜线——142\n第八章　攻击易位王时的棋子与兵——183\n第九章　攻击侧翼出象与长易位的局面——231\n第十章　抵御针对易位王的进攻——247\n第十一章　攻击易位王的各个阶段——293\n第十二章　杀王进攻作为对局整体的一部分——334\n棋手索引——350\n开局索引——352",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "目录与权威章节标题一致"
+        }
+      ]
+    },
+    {
+      "segment": "IN-4",
+      "section": "introduction",
+      "page": 6,
+      "field": "zh",
+      "before": "约1485年的重大改革奠定了现代欧洲国际象棋的形态，尤其为进攻开辟了新的可能，也由此开启了棋艺蓬勃发展的时期。在此后三个世纪里，伟大棋手的实战始终是进攻压倒防守；当时所谓高超的棋艺，主要就是善于组织进攻。直到菲利道尔的时代，最初的局面思想才开始出现，更成熟的防守策略也随之诞生。一个世纪之后，斯坦尼茨以天才般的洞察力，为这些思想确立了系统的原则。",
+      "after": "约1485年的重大改革奠定了现代欧洲国际象棋的形态，尤其为进攻开辟了新的可能，也由此开启了棋艺蓬勃发展的时期。在此后三个世纪里，伟大棋手的实战始终是进攻压倒防守；当时所谓高超的棋艺，主要就是善于组织进攻。直到菲利道尔的时代，最初的局面棋思想才开始出现，更成熟的防守策略也随之诞生。一个世纪之后，斯坦尼茨以天才般的洞察力，为这些思想确立了系统的原则。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "落实已确认的positional ideas译法"
+        }
+      ]
+    },
+    {
+      "segment": "IN-5",
+      "section": "introduction",
+      "page": 6,
+      "field": "zh",
+      "before": "在从墨菲到斯坦尼茨，再到拉斯克的古典时期，人们对进攻的重视逐渐下降，因为对局面认识的加深，也为防守技术的完善奠定了基础。然而，随后又出现了一个新的时期：卡帕布兰卡，尤其是阿廖欣，以准确的局面走法为基础，完善了进攻技术，特别是攻击易位局面的技术。积极、富于动态变化的棋风，在阿廖欣手中达到了顶峰。此后，潮流又逐渐避开直接进攻所带来的风险，转而寻找新的道路。",
+      "after": "在从墨菲到斯坦尼茨，再到拉斯克的古典时期，人们对进攻的重视逐渐下降，因为人们对局面棋的理解不断加深，为防守技术的完善奠定了基础。然而，随后又出现了一个新的时期：卡帕布兰卡，尤其是阿廖欣，以准确的局面棋走法为基础，完善了进攻技术，特别是攻击易位局面的技术。积极、富于动态变化的棋风，在阿廖欣手中达到了顶峰。此后，潮流又逐渐避开直接进攻所带来的风险，转而寻找新的道路。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "落实positional understanding的已确认译法；positional play术语一致"
+        }
+      ]
+    },
+    {
+      "segment": "IN-15",
+      "section": "introduction",
+      "page": 8,
+      "field": "zh",
+      "before": "如果**1... Nf6**，白方当然仍会继续进攻，例如走**2. Bf4**，准备Be5。但是，在**1... Nf8**之后，继续进攻并无成功的把握，白方转而选择局面棋走法**2. Ne4**，也已经满意。黑方很难阻止**3. Nc5**；此后白马将占据c5强格，而黑方b7象的位置却很不理想。",
+      "after": "如果**1... Nf6**，白方当然仍会继续进攻，例如走**2. Bf4**，准备Be5。但是，在**1... Nf8**之后，继续进攻并无成功的把握，白方转而选择局面棋走法**2. Ne4**，便可得到满意的局面。黑方很难阻止**3. Nc5**；此后白马将占据c5强格，而黑方b7象的位置却很不理想。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "理顺be content with的中文表达"
+        }
+      ]
+    },
+    {
+      "segment": "IN-43",
+      "section": "introduction",
+      "page": 12,
+      "field": "zh",
+      "before": "要把这些棋子，以及可能需要的其他棋子调入进攻，还必须具备时间优势：能够连续走出进攻着法，而不给对方组织直接防守或足够强反击的机会。这种时间优势通常建立在进攻方在局面棋方面的优势之上，具体来说，就是对方棋子缺乏及时转入防守的机动性。",
+      "after": "要把这些棋子，以及可能需要的其他棋子调入进攻，还必须具备时间优势：能够连续走出进攻着法，而不给对方组织直接防守或足够强反击的机会。这种时间优势通常建立在进攻方的局面棋优势之上，具体来说，就是对方棋子缺乏及时转入防守的机动性。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "消除重复介词导致的拗口"
+        }
+      ]
+    },
+    {
+      "segment": "IN-44",
+      "section": "introduction",
+      "page": 13,
+      "field": "zh",
+      "before": "进攻方在发动进攻之初，往往并没有如此明显的整体优势；但由于某些防守棋子无法及时调动，或由于某个进攻组合，这种优势可能会在后续过程中显现。所谓善于抓住发动进攻的时机，实际上就是能够正确评估这类可能性。",
+      "after": "进攻方在发动进攻之初，往往并没有如此明显的整体优势；但由于某些防守棋子无法及时调动，或由于某个进攻组合战术，这种优势可能会在后续过程中显现。所谓善于抓住发动进攻的时机，实际上就是能够正确评估这类可能性。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "combination为棋理中的组合战术，避免含混"
+        }
+      ]
+    },
+    {
+      "segment": "CH1-24",
+      "section": "ch01",
+      "page": 16,
+      "field": "zh",
+      "before": "10... e4之后的走法已经没有多少悬念。白方还可以尝试11. Kd1 exf3 12. Qxf3，但黑方有12... Ne5，再接13... Ng4或13... Nd4，将取得很大优势。实战中，白方以10. Bg5拒绝接受弃子，却很快落败：",
+      "after": "10... e4之后的走法已无须在这里继续讨论。白方还可以尝试11. Kd1 exf3 12. Qxf3，但黑方有12... Ne5，再接13... Ng4或13... Nd4，将取得很大优势。实战中，白方以10. Bg5拒绝接受弃子，却很快落败：",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "no longer of interest指偏离本节讨论重点，并非胜负毫无悬念"
+        }
+      ]
+    },
+    {
+      "segment": "CH1-31",
+      "section": "ch01",
+      "page": 17,
+      "field": "zh",
+      "before": "为了避免被将杀，白方现在只能以**4. Kf2**为代价接受失后。实战继续**4... Bxd2 5. Bxg4+ f5 6. Bxd2 fxg4 7. Rhe1 Qxd4+ 8. Be3 Qxb2+ 9. Kf1 Re8 0-1**，白方认输。",
+      "after": "为了避免被将杀，白方现在只能走**4. Kf2**，接受失后的代价。实战继续**4... Bxd2 5. Bxg4+ f5 6. Bxd2 fxg4 7. Rhe1 Qxd4+ 8. Be3 Qxb2+ 9. Kf1 Re8 0-1**，白方认输。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "Kf2是被迫应对，失后才是代价；纠正修饰关系"
+        }
+      ]
+    },
+    {
+      "segment": "CH1-70",
+      "section": "ch01",
+      "page": 20,
+      "field": "zh",
+      "before": "一个精彩组合就此开始，这是19世纪国际象棋中最出色的组合之一。黑王现在不得不返回危险的e线。",
+      "after": "一个精彩的组合战术就此开始，这是19世纪国际象棋中最出色的组合战术之一。黑王现在不得不返回危险的e线。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "组合战术术语及搭配"
+        }
+      ]
+    },
+    {
+      "segment": "CH1-94",
+      "section": "ch01",
+      "page": 22,
+      "field": "zh",
+      "before": "凯列斯（白）对科托夫（黑）\n1950年，布达佩斯候选人赛\n西西里防御，纳伊道尔夫变例",
+      "after": "凯列斯（白）对科托夫（黑）\n1950年，布达佩斯候选人赛\n西西里防御，纳道尔夫变例",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "修正此前漏统一的Najdorf译名"
+        }
+      ]
+    },
+    {
+      "segment": "CH1-100",
+      "section": "ch01",
+      "page": 22,
+      "field": "zh",
+      "before": "【编者注3】实际上，16. Qe2之后，黑方只需16... Qxg5就能多一子。凯列斯本人给出的后续手段是13. Qe1+，而不是13. Re1+；此后13... Ne5 14. f4 h6 15. fxe5 Qxg5 16. exd6+，白方将获得获胜的进攻。",
+      "after": "【编者注3】实际上，16. Qe2之后，黑方只需16... Qxg5就能多一子。凯列斯本人给出的后续手段是13. Qe1+，而不是13. Re1+；此后13... Ne5 14. f4 h6 15. fxe5 Qxg5 16. exd6+，白方将获得制胜进攻。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "消除同义重复，准确表达winning attack"
+        }
+      ]
+    },
+    {
+      "segment": "CH1-111",
+      "section": "ch01",
+      "page": 23,
+      "field": "zh",
+      "before": "下图出自瓦赖因对一位姓名不详棋手的对局。白方在这里实施了如下组合：",
+      "after": "下图出自瓦赖因对一位姓名不详棋手的对局。白方在这里实施了如下组合战术：",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "combination术语明确"
+        }
+      ]
+    },
+    {
+      "segment": "CH2-24",
+      "section": "ch02",
+      "page": 30,
+      "field": "zh",
+      "before": "这次将军之后还有两次将军，白方的两匹马因此占据越来越危险的位置。",
+      "after": "这次将军之后还有两次将军，白方的两匹马因此占据了越来越有威胁的位置。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "dangerous指对白方进攻有利、对黑方危险，避免主客体歧义"
+        }
+      ]
+    },
+    {
+      "segment": "CH2-41",
+      "section": "ch02",
+      "page": 33,
+      "field": "zh",
+      "before": "因此，在这种情况下追赶王的一方必须保持警觉，防止猎物逃脱。有两个因素尤其重要：进攻中的先手，以及逐步织成一道让王无路可逃的杀网。事实上，杀网往往比先手更重要；那些悄悄“织网”的安静走法，常常才是正确的方向，而许多看似诱人的将军却可能是错误。失去易位权利的王所处的位置，好比进攻方的本钱，是他以弃子或局面棋方面的不利为代价换来的。进攻方应当握住这份本钱，不必过于计较那些诱人的将军所带来的“眼前收益”；最终具有决定意义的，是能否把王将杀。",
+      "after": "因此，在这种情况下追赶王的一方必须保持警觉，防止猎物逃脱。有两个因素尤其重要：进攻的节奏，以及逐步织成一道让王无路可逃的杀网。事实上，杀网往往比先手更重要；那些悄悄“织网”的安静走法，常常才是正确的方向，而许多看似诱人的将军却可能是错误。失去易位权利的王所处的位置，好比进攻方的本钱，是他以弃子或局面棋方面的不利为代价换来的。进攻方应当握住这份本钱，不必过于计较那些诱人的将军所带来的“眼前收益”；最终具有决定意义的，是能否把王将杀。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "tempo of the attack在此指进攻节奏；后句tempi仍保留先手"
+        }
+      ]
+    },
+    {
+      "segment": "CH2-42",
+      "section": "ch02",
+      "page": 33,
+      "field": "zh",
+      "before": "这些提醒，是希望读者在追赶失去易位权利的王时保持谨慎。这里有两条彼此牵制的准则：第一条要求用连续将军保持进攻的先手，不给王喘息的时间；第二条提醒我们，必须最终把王逼入绝境，迫使它落入将杀局面，才能结束追击。实战中，棋手需要在这两条准则之间找到平衡；能否作出正确选择，决定着进攻的成败。",
+      "after": "这些提醒，是希望读者在追赶失去易位权利的王时保持谨慎。这里有两条彼此牵制的准则：第一条要求用连续将军保持进攻的节奏，不给王喘息的时间；第二条提醒我们，必须最终把王逼入绝境，迫使它落入将杀局面，才能结束追击。实战中，棋手需要在这两条准则之间找到平衡；能否作出正确选择，决定着进攻的成败。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "区分进攻节奏与具体所得先手"
+        }
+      ]
+    },
+    {
+      "segment": "CH2-47",
+      "section": "ch02",
+      "page": 34,
+      "field": "zh",
+      "before": "白方提出弃子，以保持进攻中的先手。黑方此时应走16... Nxg5，因为17. Qxg5之后，黑方只是略处下风。但他贪心地走了：",
+      "after": "白方提出弃子，以保持进攻的节奏。黑方此时应走16... Nxg5，因为17. Qxg5之后，黑方只是略处下风。但他贪心地走了：",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "keep up the tempo of the attack与本节论述一致"
+        }
+      ]
+    },
+    {
+      "segment": "CH2-124",
+      "section": "ch02",
+      "page": 40,
+      "field": "zh",
+      "before": "后必须照应d3格。如果21. Qf1，黑方就可以通过...Kd7-c8完成人工易位，使优势变得明确。¹",
+      "after": "后必须照应d3格。如果21. Qf1，黑方就可以通过...Kd7-c8完成人工易位，从而确立明显优势。¹",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "理顺made his advantage clear的中文棋理表述"
+        }
+      ]
+    },
+    {
+      "segment": "CH2-151",
+      "section": "ch02",
+      "page": 43,
+      "field": "zh",
+      "before": "除了这盘奇特的对局，我还要从国际象棋的奇闻宝库中选出三局，它们尤其切合王游走后成功脱险的主题。首先是汉佩对迈特纳一局：被追赶的王跑到敌方兵群中寻求庇护，成功到让对手除了长将之外，再也无计可施。",
+      "after": "除了这盘奇特的对局，我还要从国际象棋的奇闻宝库中选出三局，它们尤其切合王游走后成功脱险的主题。首先是汉佩对迈特纳一局：被追赶的王跑到敌方兵群中寻求庇护，使对手最多只能取得长将。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "to the extent that限定脱险的成果，不等于对手无计可施；消除生硬句法"
+        }
+      ]
+    },
+    {
+      "segment": "CH2-167",
+      "section": "ch02",
+      "page": 44,
+      "field": "zh",
+      "before": "² 12. Qg3 Qxh1 13. Qxe5+ Kf8 14. Nxh3之后，上述判断很值得商榷；白方可以很快形成强大的主动权。",
+      "after": "² 12. Qg3 Qxh1 13. Qxe5+ Kf8 14. Nxh3之后，上述判断很值得商榷；白方可以很快取得强劲的主动权。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "主动权搭配修正"
+        }
+      ]
+    },
+    {
+      "segment": "CH2-185",
+      "section": "ch02",
+      "page": 46,
+      "field": "zh",
+      "before": "墨菲经常用这步棋应对俄罗斯防御；它并不能带来更多，只能保持均势。",
+      "after": "墨菲经常用这步棋应对俄罗斯防御；这步只能维持均势，并不能带来优势。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "补足不明所指的“更多”，明确原意"
+        }
+      ]
+    },
+    {
+      "segment": "CH2-189",
+      "section": "ch02",
+      "page": 46,
+      "field": "zh",
+      "before": "在这个局面中，这步既好，也必需。",
+      "after": "在这个局面中，这既是好棋，也是必要的一步。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "修正句法及词语搭配"
+        }
+      ]
+    },
+    {
+      "segment": "CH2-224",
+      "section": "ch02",
+      "page": 49,
+      "field": "zh",
+      "before": "巴恩斯与墨菲下过多盘棋；凭借独特的局面棋风格，他在所有英国大师中，对这位组合天才取得了最好的战绩。",
+      "after": "巴恩斯与墨菲下过多盘棋；凭借独特的局面棋风格，他在所有英国大师中，对这位组合战术天才取得了最好的战绩。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "明确combinative genius的棋理含义"
+        }
+      ]
+    },
+    {
+      "segment": "CH2-244",
+      "section": "ch02",
+      "page": 50,
+      "field": "zh",
+      "before": "黑方已经输了，因为他无法有效防住Bg6+后接e7+、e8=Q等手段。黑方在整盘棋中的表现，恰好展示了追赶游走的王时不应怎样进攻。",
+      "after": "黑方已经输了，因为他无法有效防住Bg6+后接e7+、e8=Q等手段。黑方在整盘棋中的表现，为如何进攻游走的王提供了一个反面教材。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "消除“不应怎样”的生硬结构，保留反面示例含义"
+        }
+      ]
+    },
+    {
+      "segment": "CH3-3",
+      "section": "ch03",
+      "page": 51,
+      "field": "zh",
+      "before": "易位是国际象棋中最独特的走法，它从多个方面影响着将杀进攻的性质。正因为它在这方面十分重要，我们值得先考察易位的一般意义。",
+      "after": "易位是国际象棋中最独特的走法，它从多个方面影响着将杀进攻的性质。正因为它在这方面十分重要，有必要先考察易位的一般意义。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "纠正“我们值得考察”的主谓搭配"
+        }
+      ]
+    },
+    {
+      "segment": "CH3-7",
+      "section": "ch03",
+      "page": 52,
+      "field": "zh",
+      "before": "这段简短的易位史，清楚展示了国际象棋规则如何逐步发展，也尤其表明：规则的改变和完善，是为了丰富棋艺。棋子走法总体上变得更加活跃，反映出欧洲社会自中世纪以来日益增强的活力。",
+      "after": "这段简短的易位史，清楚展示了国际象棋规则如何逐步发展，也尤其表明：规则的改变和完善，是为了丰富棋艺。棋子走法总体上变得更加活跃，反映出欧洲自中世纪以来社会运动日益活跃的趋势。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "保留social movements的社会运动含义，纠正原译泛化成整个社会活力的问题"
+        }
+      ]
+    },
+    {
+      "segment": "CH3-11",
+      "section": "ch03",
+      "page": 52,
+      "field": "zh",
+      "before": "一般来说，可以从动态或局面棋的角度考察走法，取决于我们把它看作积极组合的一部分，还是看作局面的静态特征。",
+      "after": "一般来说，可以从动态或局面棋的角度考察走法，取决于我们把它看作具体组合战术的一部分，还是看作局面的静态特征。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "active combination在动态/静态对照中指实际战术行动，避免生硬直译"
+        }
+      ]
+    },
+    {
+      "segment": "CH3-13",
+      "section": "ch03",
+      "page": 53,
+      "field": "zh",
+      "before": "另一方面，易位也是局面棋走法，为局面带来一种持久特征。易位只能进行一次，而且不可撤销；通常，王会留在它易位到的那一侧。当然，在特殊情况下，王也能克服不同程度的困难，从王城走到棋盘的其他区域。因此，易位只是相对不可逆，不像兵的移动那样绝对不可逆。但从实战角度看，至少在残局到来之前，易位后的王的位置相当明确地构成了持久的局面棋特征。易位前，王有三种选择：留在中央，向右易位，或向左易位。一旦易位，就不再有同样的选择；它有了确定的庇护处，一个“固定住址”，对手自然会把这一点考虑进去。王固然更能抵御进攻，却也把自身的位置限定在棋盘的某一区域。所以，易位确实带来的好处，也伴随着一定的不利之处。",
+      "after": "另一方面，易位也是局面棋走法，为局面带来一种持久特征。易位只能进行一次，而且不可撤销；通常，王会留在它易位到的那一侧。当然，在特殊情况下，王也能克服不同程度的困难，从王城走到棋盘的其他区域。因此，易位只是相对不可逆，不像兵的移动那样绝对不可逆。但从实战角度看，至少在残局到来之前，易位后的王位便构成了局面中的一个持久特征。易位前，王有三种选择：留在中央，向右易位，或向左易位。一旦易位，就不再有同样的选择；它有了确定的庇护处，一个“固定住址”，对手自然会把这一点考虑进去。王固然更能抵御进攻，却也把自身的位置限定在棋盘的某一区域。所以，易位确实带来的好处，也伴随着一定的不利之处。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "此处positional feature直译局面棋特征拗口，按既有软性规范顺译"
+        }
+      ]
+    },
+    {
+      "segment": "CH3-33",
+      "section": "ch03",
+      "page": 55,
+      "field": "zh",
+      "before": "黑方不担心Nxf7的后果，而是坚持进攻。实际上，他以自己的后换掉g3象；如果白方尚未易位，这样的交换就不好，但对白方已经形成的王城，进攻是决定性的。",
+      "after": "黑方不担心Nxf7的后果，而是坚持进攻。实际上，他以自己的后换掉g3象；如果白方尚未易位，这样的交换就不好，但白方已经易位，黑方就能发动制胜进攻。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "理顺对王城进攻的主谓关系"
+        }
+      ]
+    },
+    {
+      "segment": "CH3-62",
+      "section": "ch03",
+      "page": 59,
+      "field": "zh",
+      "before": "最后再提醒一点：即使有理由推迟易位，至少把一侧迅速易位的条件准备好，仍是好事。当底线一侧的棋子已经出动，就可以随时易位，只需花一步。如果还有一个子没有离开底线，完成易位显然就要花两步。如果对手发现了隐蔽手段，能在王进入王城前突然发动进攻，那么一个先手与两个先手的差别就很大了！因此，最好尽快做好易位准备，然后再考虑是否可以继续稍等。",
+      "after": "最后再提醒一点：即使有理由推迟易位，至少把一侧迅速易位的条件准备好，仍是好事。当底线一侧的棋子已经出动，就可以随时易位，只需花一步。如果还有一个子没有离开底线，完成易位显然就要花两步。如果对手发现了隐蔽手段，能在王进入王城前突然发动进攻，那么只需一步与需要两步的时间差别就十分关键了！因此，最好尽快做好易位准备，然后再考虑是否可以继续稍等。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "这里tempi是完成易位耗费的时间，并非赢得一个或两个先手"
+        }
+      ]
+    },
+    {
+      "segment": "CH3-91",
+      "section": "ch03",
+      "page": 63,
+      "field": "zh",
+      "before": "手稿接着给出17. Ke2 Rxa1 18. Bxa1 Rxg2，并得出结论：“黑方前景更好。”看起来作者主要关心得一兵，却忘了攻击王城的首要目标是将杀！16... Rg3 17. Qc2 Qg4 18. Ke1 Ba5+本来可以快得多地结束战斗。",
+      "after": "手稿接着给出17. Ke2 Rxa1 18. Bxa1 Rxg2，并得出结论：“黑方前景更好。”看起来作者主要关心的是如何得一兵，却忘了攻击王城的首要目标是将杀！16... Rg3 17. Qc2 Qg4 18. Ke1 Ba5+本来可以快得多地结束战斗。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "补足宾语结构"
+        }
+      ]
+    },
+    {
+      "segment": "CH3-92",
+      "section": "ch03",
+      "page": 63,
+      "field": "zh",
+      "before": "整个十六世纪，攻击王城的技术进步极其缓慢。直到十七世纪初，格雷科才在自己的手册中给出一些组合；它们在当时是新发现，在现代棋手看来却只是基本技巧。下面看他书中的一个后续手段，以了解他达到的技术水平。",
+      "after": "整个十六世纪，攻击王城的技术进步极其缓慢。直到十七世纪初，格雷科才在自己的手册中给出一些组合战术；它们在当时是新发现，在现代棋手看来却只是基本技巧。下面看他书中的一个后续手段，以了解他达到的技术水平。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "combination术语明确"
+        }
+      ]
+    },
+    {
+      "segment": "CH3-112",
+      "section": "ch03",
+      "page": 64,
+      "field": "zh",
+      "before": "³ 18... Rxf7 19. Bxf7 b6!之后，再接...Ba6+并出动车，黑方实际上已经是胜势：以半子为代价换得三兵，再加上一对活跃的双象，补偿显然十分充足。",
+      "after": "³ 18... Rxf7 19. Bxf7 b6!之后，再接...Ba6+并出动车，黑方实际上已经是胜势：以半子为代价换得三兵，再加上活跃的双象，补偿显然十分充足。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "消除“一对双象”的数量重复"
+        }
+      ]
+    },
+    {
+      "segment": "CH3-113",
+      "section": "ch03",
+      "page": 64,
+      "field": "zh",
+      "before": "随着整体棋艺的提高，攻击王城的技术也在进步，先是菲利道尔，后来尤其是墨菲。随后兴起的浪漫派反响，推动了多种特殊弃子进攻的发展，但总体上没有达到墨菲的水平。斯坦尼茨致力于完善防守技术；他对时代棋风的影响，逐渐使王城进攻在大师对局中淡出。新任世界冠军拉斯克甚至在年轻时，就已不再执意强行发动这种进攻，而更倾向于追求残局中的精确。",
+      "after": "随着整体棋艺的提高，攻击王城的技术也在进步，先是菲利道尔，后来尤其是墨菲。随后浪漫派棋风再度兴起，推动了多种特定类型的弃子进攻的发展，但总体上没有达到墨菲的水平。斯坦尼茨致力于完善防守技术；他对时代棋风的影响，逐渐使王城进攻在大师对局中淡出。新任世界冠军拉斯克甚至在年轻时，就已不再执意强行发动这种进攻，而更倾向于追求残局中的精确。",
+      "review_reasons": [
+        {
+          "log": "language_review_opening_ch01_03_20261018.json",
+          "reason": "romantic reaction指棋风上的回潮；“浪漫派反响”不通顺"
+        }
+      ]
+    },
+    {
+      "segment": "CH5-95",
+      "section": "ch05",
+      "page": 90,
+      "field": "zh",
+      "before": "以h7为主要或次要焦点的王城攻击实在太多，而且差别很大；若要把它们系统分类，就会偏离本书的讨论范围。因此，我们只看几个一般性的例子，然后再详细讨论“h7古典弃象”，这是实战中针对h7焦点最重要的攻击方式。",
+      "after": "以h7为真正将杀焦点或次要焦点的王城攻击实在太多，而且差别很大；若要把它们系统分类，就会偏离本书的讨论范围。因此，我们只看几个一般性的例子，然后再详细讨论“h7古典弃象”，这是实战中针对h7焦点最重要的攻击方式。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch04_06_20261018.json",
+          "reason": "real focal-point指实际的将杀焦点，不能译成表示主次的“主要焦点”。"
+        }
+      ]
+    },
+    {
+      "segment": "CH5-157",
+      "section": "ch05",
+      "page": 95,
+      "field": "zh",
+      "before": "这是白方相对最好的出路。19. Re6 Bxe6 20. Qh7+ Kf8 21. dxe6 d5对白方不够，白方会输。",
+      "after": "这是白方相对最好的出路。19. Re6 Bxe6 20. Qh7+ Kf8 21. dxe6 d5不足以挽救白方，白方仍会落败。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch04_06_20261018.json",
+          "reason": "明确inadequate的对象，消除“对白方不够”的生硬表达，保留白方败势的判断。"
+        }
+      ]
+    },
+    {
+      "segment": "CH5-219",
+      "section": "ch05",
+      "page": 100,
+      "field": "zh",
+      "before": "现在由象来攻击f7，与上面变化中由后来攻击的效果一样好。",
+      "after": "现在由象来攻击f7，效果与上面变化中由后攻击f7同样好。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch04_06_20261018.json",
+          "reason": "queen指后；“由后来攻击”容易误读为时间上的后来，补明攻击目标。"
+        }
+      ]
+    },
+    {
+      "segment": "CH5-230",
+      "section": "ch05",
+      "page": 101,
+      "field": "zh",
+      "before": "一般而言，进攻方有一个或几个棋子同时控制两个焦点，其余棋子则在进攻过程中，把作用从一个焦点转移到另一个焦点，最好只用一步完成。若要同时作用于两个异色格，实战中主要依靠后，特殊情况下也可以用车；如果焦点是同色格，马和象都能发挥作用，尤其是象。各种棋子都能把攻击从一个焦点转移到另一个，但异色焦点是象的例外。对于同色焦点，象却十分适合；在第三类局面中，象更是统治整个格子网络的典型棋子。",
+      "after": "一般而言，进攻方有一个或几个棋子同时控制两个焦点，其余棋子则在进攻过程中，把作用从一个焦点转移到另一个焦点，最好只用一步完成。若要同时作用于两个异色格，实战中主要依靠后，特殊情况下也可以用车；如果焦点是同色格，马和象都能发挥作用，尤其是象。各种棋子都能把攻击从一个焦点转移到另一个，但象无法在两个异色焦点之间转移攻击。对于同色焦点，象却十分适合；在第三类局面中，象更是统治整个格子网络的典型棋子。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch04_06_20261018.json",
+          "reason": "明确though从句的例外条件：象不能在异色格之间转移攻击。"
+        }
+      ]
+    },
+    {
+      "segment": "CH5-239",
+      "section": "ch05",
+      "page": 102,
+      "field": "zh",
+      "before": "被迫如此，因为白方不仅威胁4. Rh3（例如3... Qc6据说能应对这个威胁²），还威胁4. Qxh7+，接着5. Rh3#。",
+      "after": "被迫如此，因为白方不仅威胁4. Rh3（例如3... Qc6本可应对这个威胁²），还威胁4. Qxh7+，接着5. Rh3#。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch04_06_20261018.json",
+          "reason": "原作者的would have helped不是传闻；删除无原文依据的“据说”，保持作者与纳恩脚注各自立场。"
+        }
+      ]
+    },
+    {
+      "segment": "CH5-271",
+      "section": "ch05",
+      "page": 105,
+      "field": "zh",
+      "before": "雷尔斯塔布在赛事专著中说，此时白方只能满足于长将，但这不正确。确实，6. Nd4 Rxc1! 7. Rxc1 Qe5 8. Nf5之后，黑方有8... Ne4!。这步很有趣，同时对围绕白方进攻的h7和g7两个焦点起到防守作用。白方若再尝试9. Qg4+ Kh8 10. f3等，会因10... Bc8!而遇到危险；其他捷径也都有障碍。不过，白方原本打算用后吃车，而以下分析表明，这样确实可以赢棋：",
+      "after": "雷尔斯塔布在赛事专著中说，此时白方只能满足于长将，但这不正确。确实，6. Nd4 Rxc1! 7. Rxc1 Qe5 8. Nf5之后，黑方有8... Ne4!。这步很有趣，同时防守h7和g7两个焦点，而白方的进攻正是围绕这两个焦点展开的。白方若再尝试9. Qg4+ Kh8 10. f3等，会因10... Bc8!而遇到危险；其他捷径也都有障碍。不过，白方原本打算用后吃车，而以下分析表明，这样确实可以赢棋：",
+      "review_reasons": [
+        {
+          "log": "language_review_ch04_06_20261018.json",
+          "reason": "原文为进攻围绕两个焦点展开，原译将修饰关系颠倒。"
+        }
+      ]
+    },
+    {
+      "segment": "CH5-339",
+      "section": "ch05",
+      "page": 112,
+      "field": "zh",
+      "before": "暂且还不离开前面的局面，因为有一个极具实战意义的特点必须指出：白车在h线上发挥作用，给白方带来了好处。如果没有Re3—h3的调动机会，白方就无法强攻攻破黑方阵地，因为他缺少对h7的威胁。没有这个威胁，黑方就不必削弱自己的局面，只针对g7的威胁很容易挡住。因此，即使在这样明确存在“同色格网络”的局面中，另一颜色上的备选焦点，如h7或f7，仍能发挥作用。大多数实战局面都是如此。网络中的弱格通常只是更敏感的弱点，并不意味着另一颜色的格子一定安全——王也可能在那里被将杀！",
+      "after": "暂且还不离开前面的局面，因为有一个极具实战意义的特点必须指出：白车在h线上发挥作用，给白方带来了好处。如果没有Re3—h3的调动机会，白方就无法强行攻破黑方阵地，因为他缺少对h7的威胁。没有这个威胁，黑方就不必削弱自己的局面，只针对g7的威胁很容易挡住。因此，即使在这样明确存在“同色格网络”的局面中，另一颜色上的备选焦点，如h7或f7，仍能发挥作用。大多数实战局面都是如此。网络中的弱格通常只是更敏感的弱点，并不意味着另一颜色的格子一定安全——王也可能在那里被将杀！",
+      "review_reasons": [
+        {
+          "log": "language_review_ch04_06_20261018.json",
+          "reason": "删除“强攻攻破”的重复字，使take by storm的表达通顺。"
+        }
+      ]
+    },
+    {
+      "segment": "CH6-99",
+      "section": "ch06",
+      "page": 131,
+      "field": "zh",
+      "before": "现今更常见的实战和分析着法是11... Nxe5。11... Ng4不够好，因为12. Nbxd4 Ngxe5 13. Be4之后白方占优。",
+      "after": "本书写作时更常见的实战和分析着法是11... Nxe5。11... Ng4不够好，因为12. Nbxd4 Ngxe5 13. Be4之后白方占优。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch04_06_20261018.json",
+          "reason": "依照用户对still accepted today的订正规则，把作者的当代评价限定于写作年代，避免读成2026年的开局判断。"
+        }
+      ]
+    },
+    {
+      "segment": "CH6-103",
+      "section": "ch06",
+      "page": 131,
+      "field": "zh",
+      "before": "根据现代分析，这里古典弃象成立，因此15... Nc5?应受批评；正确走法是15... Bb7 16. Bxb5（此时h7弃象不成立，因为...Kg8变化中有...Nf6防守）16... Bxf3 17. gxf3 Nc5；若18. a4或18. Bc4，则18... e5，黑方以良好的局面棋补偿抵偿少兵。",
+      "after": "根据现代分析，这里古典弃象成立，因此15... Nc5?应受批评；正确走法是15... Bb7 16. Bxb5（此时h7弃象不成立，因为...Kg8变化中有...Nf6防守）16... Bxf3 17. gxf3 Nc5；若18. a4或18. Bc4，则18... e5，黑方虽少一兵，却有良好的局面棋补偿。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch04_06_20261018.json",
+          "reason": "消除“以补偿抵偿”的重复结构，完整保留for the pawn及good positional compensation。"
+        }
+      ]
+    },
+    {
+      "segment": "CH6-107",
+      "section": "ch06",
+      "page": 132,
+      "field": "zh",
+      "before": "先看另一种走法17... Kg8。18. Qh5 Rd8 19. Qxf7+ Kh8之后，所有评注者，包括笔者自己的《现代开局理论》，都认为20. f4 Qb7 21. Rf3?白胜。然而这里有漏洞：黑方可21... Qxf7 22. Nxf7+ Kg8 23. Nxd8，以充分补偿抵偿少交换，例如23... Bd7 24. b4 Na4 25. Nb7 Bc6 26. Nc5（或26. Na5）26... Bxf3 27. gxf3 d3 28. Rb1 Nc3，黑方至少赢得c1象。这推翻了21. Rf3?的构思；因此较好的是21. Qg6，但21... Kg8 22. Rf3 Qe7 23. Rh3 Kf8（否则24. Rh8+!）之后，白方只能24. Nh7+ Kg8 25. Ng5等求和。如果24. Rh8+? Bxh8 25. Nh7+ Qxh7 26. Qxh7，追求子力优势，则26... Bg7使攻势停顿，随后黑方的威胁开始发挥作用。",
+      "after": "先看另一种走法17... Kg8。18. Qh5 Rd8 19. Qxf7+ Kh8之后，所有评注者，包括笔者自己的《现代开局理论》，都认为20. f4 Qb7 21. Rf3?白胜。然而这里有漏洞：黑方可21... Qxf7 22. Nxf7+ Kg8 23. Nxd8，黑方虽少一个交换，却得到了极佳补偿，例如23... Bd7 24. b4 Na4 25. Nb7 Bc6 26. Nc5（或26. Na5）26... Bxf3 27. gxf3 d3 28. Rb1 Nc3，黑方至少赢得c1象。这推翻了21. Rf3?的构思；因此较好的是21. Qg6，但21... Kg8 22. Rf3 Qe7 23. Rh3 Kf8（否则24. Rh8+!）之后，白方只能24. Nh7+ Kg8 25. Ng5等求和。如果24. Rh8+? Bxh8 25. Nh7+ Qxh7 26. Qxh7，追求子力优势，则26... Bg7使攻势停顿，随后黑方的威胁开始发挥作用。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch04_06_20261018.json",
+          "reason": "消除重复的“补偿抵偿”，明确黑方少一个交换却得到极佳补偿，使excellent compensation for the exchange的表述自然、准确。"
+        }
+      ]
+    },
+    {
+      "segment": "CH6-136",
+      "section": "ch06",
+      "page": 136,
+      "field": "zh",
+      "before": "黑方选择...Kg6变化是正确的。读者依据前几页的指导，会发现白方这次成功的希望可疑：他没有必要的两枚支援子力，只有一枚，而且相当薄弱，即c3马。",
+      "after": "黑方选择...Kg6变化是正确的。读者依据前几页的指导，会发现白方这次能否成功令人怀疑：他没有必要的两枚支援子力，只有一枚，而且相当薄弱，即c3马。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch04_06_20261018.json",
+          "reason": "改正“希望可疑”的生硬搭配，保留chances of success are dubious的存疑程度。"
+        }
+      ]
+    },
+    {
+      "segment": "CH7-49",
+      "section": "ch07",
+      "page": 148,
+      "field": "zh",
+      "before": "这个例子说明，实行针对底线弱点的组合时，必须多么警惕、谨慎。",
+      "after": "这个例子说明，实行针对底线弱点的组合时，必须保持高度警惕，谨慎计算。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "原译“必须多么警惕”不符合陈述句语法，按原文强调谨慎之意调整。"
+        }
+      ]
+    },
+    {
+      "segment": "CH7-80",
+      "section": "ch07",
+      "page": 151,
+      "field": "zh",
+      "before": "此局面出自尼姆佐维奇—卡帕布兰卡，纽约，1927年。黑车已经占据对方的第七横线，但f2兵挡在途中，其威力尚未完全显现。为了完全控制这条横线，黑方弃一兵，借此叠车。",
+      "after": "此局面出自尼姆佐维奇—卡帕布兰卡，纽约，1927年。黑车已经深入第七横线（白方第二横线），但f2兵挡在途中，其威力尚未完全显现。为了完全控制这条横线，黑方弃一兵，借此叠车。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "原译添加“对方的第七横线”导致方位相反；此处按黑方视角计数，对应白方第二横线。"
+        }
+      ]
+    },
+    {
+      "segment": "CH7-101",
+      "section": "ch07",
+      "page": 153,
+      "field": "zh",
+      "before": "现代理论对此着评价不高。白方在d5兑换，可获得稳健而有利的局面。",
+      "after": "本书写作时的理论对此着评价不高。白方在d5兑换，可获得稳健而有利的局面。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "明确Modern theory的时间参照为作者写作时，避免让读者误解为本次校对时的理论判断。"
+        }
+      ]
+    },
+    {
+      "segment": "CH7-103",
+      "section": "ch07",
+      "page": 153,
+      "field": "zh",
+      "before": "白方在这里通常也客观上最好是准备所谓少数兵进攻。例如短易位并走Rab1后，将兵推到b4、a4，再以b5和bxc6削弱黑方兵形。另一种办法是兑换黑格象之后，利用黑方c5、b6的弱点。约纳棋风锐利，对这些局面棋方案不感兴趣，选择了第三条道路：异向易位，攻击易位王。这个计划并不坏，但黑方也有均等机会。",
+      "after": "白方在这里通常应准备所谓的少数兵进攻，客观而言这也是最佳方案。例如短易位并走Rab1后，将兵推到b4、a4，再以b5和bxc6削弱黑方兵形。另一种办法是兑换黑格象之后，利用黑方c5、b6的弱点。约纳棋风锐利，对这些局面棋方案不感兴趣，选择了第三条道路：异向易位，攻击易位王。这个计划并不坏，但黑方也有均等机会。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "修正“通常也客观上最好是”的中文语序，保留原文对常见方案与客观最佳方案的双重判断。"
+        }
+      ]
+    },
+    {
+      "segment": "CH7-305",
+      "section": "ch07",
+      "page": 175,
+      "field": "zh",
+      "before": "车更值钱，弃车比弃象更难；牵制时，子力价值的次序更为相关：象换掉被牵制的车是得交换，象换马则价值相当，而车通过牵制获利，只有吃到后才行。另一个区别更明显：通常推进己方兵，就比较容易打开或封闭斜线；但要在直线上达到同样目的，兵必须吃子，自然就要取决于对方子力的配置，所以开放直线可能相当困难。反过来，要封闭直线，通常须建立前哨；斜线上的前哨却是例外，因为兵很容易完成“开关”动作。斜线全部的“微妙与深谋远虑”，归根结底就在这里。我们以斜线上的牵制开始这一组实例。这里的牵制其实只是清理整条斜线过程中的暂时环节，最后吃掉被牵制棋子，彻底打通线路。",
+      "after": "车更值钱，弃车比弃象更难；在牵制中，子力价值的高低就更加重要：象换掉被牵制的车是得交换，象换马则价值相当，而车通过牵制获利，只有吃到后才行。另一个区别更明显：通常推进己方兵，就比较容易打开或封闭斜线；但要在直线上达到同样目的，兵必须吃子，自然就要取决于对方子力的配置，所以开放直线可能相当困难。反过来，要封闭直线，通常须建立前哨；斜线上的前哨却是例外，因为兵很容易完成“开关”动作。斜线全部的“微妙与深谋远虑”，归根结底就在这里。我们以斜线上的牵制开始这一组实例。这里的牵制其实只是清理整条斜线过程中的暂时环节，最后吃掉被牵制棋子，彻底打通线路。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "修正“子力价值的次序更为相关”的生硬表达，准确呈现价值高低在牵制中的重要性。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-45",
+      "section": "ch08",
+      "page": 187,
+      "field": "zh",
+      "before": "2. exf4并不好些，因为黑方可2... Qh4，同时威胁3... Rxg2+和3... Qxh3。",
+      "after": "改走2. exf4也不会更好，因为黑方可2... Qh4，同时威胁3... Rxg2+和3... Qxh3。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "明确no better的比较含义，修正“并不好些”的不自然表达。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-64",
+      "section": "ch08",
+      "page": 190,
+      "field": "zh",
+      "before": "这是伯恩施坦—科托夫，格罗宁根，1946年一局的结尾。黑方贪心而多余地吃了一兵，刚走了...Re4xb4，而正确的是...Rc4，结果如下输棋：",
+      "after": "这是伯恩施坦—科托夫，格罗宁根，1946年一局的结尾。黑方贪心地吃了一兵，其实根本没有必要；他刚走了...Re4xb4，而正确的是...Rc4，随后以如下方式落败：",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "将“贪心而多余地吃”改为通顺中文，保留greedily与needlessly两个判断。；结尾改为自然的叙述引导语：随后以如下方式落败。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-92",
+      "section": "ch08",
+      "page": 192,
+      "field": "caption_zh",
+      "before": "科列—塔塔科维尔，宁多夫，1927年；白先。",
+      "after": "科勒—塔塔科维尔，宁多夫，1927年；白先。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "按全书既有正文与棋手索引统一译名，经统稿确认。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-93",
+      "section": "ch08",
+      "page": 192,
+      "field": "zh",
+      "before": "此局面出自科列—塔塔科维尔，宁多夫，1927年。白方配置极佳，应续1. Nh3。但酷爱弃子的科列抵挡不住诱惑，在准备尚不充分的局面中献出了子力。",
+      "after": "此局面出自科勒—塔塔科维尔，宁多夫，1927年。白方配置极佳，应续1. Nh3。但酷爱弃子的科勒抵挡不住诱惑，在准备尚不充分的局面中献出了子力。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "按全书既有正文与棋手索引统一译名，经统稿确认。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-161",
+      "section": "ch08",
+      "page": 200,
+      "field": "zh",
+      "before": "1）进攻方的兵，无论是否弃掉，迫使对手削弱王城。\n2）制造进攻中的组合因素，例如引离或引入敌子，或开放直线。\n3）组成攻击配置的一部分，例如h1车、h4兵的配置，或支持焦点上的棋子。\n4）这种攻击配置中，一个值得单列的例子是兵中心；它通常总体限制对手，或为攻击易位王提供基础。\n5）兵在侧翼独立推进，驱赶敌子或控制某格。这通常称为刺刀进攻。\n6）两三个侧翼进攻兵组成正面阵列，向敌王城推进，即兵的雪崩或滚压。\n7）兵进入王城区域，直接作为攻击单位对付敌王。\n8）兵进入王城区域，以攻击王或不攻击王的方式争取升变，随后以新身份继续进攻。",
+      "after": "1）进攻方的兵，无论是否弃掉，迫使对手削弱王城。\n2）制造进攻中的组合因素，例如引离或引入敌子，或开放直线。\n3）组成攻击配置的一部分，例如h1车、h4兵的配置，或支持焦点上的棋子。\n4）这种攻击配置中，一个值得单列的例子是兵中心；它通常总体限制对手，或为攻击易位王提供基础。\n5）兵在侧翼独立推进，驱赶敌子或控制某格。这通常称为刺刀进攻。\n6）两三个侧翼进攻兵组成正面阵列，向敌王城推进，即兵的雪崩或滚压。\n7）兵进入王城区域，直接作为攻击单位对付敌王。\n8）兵进入王城区域，争取升变；这一过程可以伴随对王的攻击，也可以没有。升变后，兵便能以新的身份继续进攻。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "第8点with or without修饰推进过程是否伴随攻王，不是升变的方式；原译表达含混，重新理顺修饰关系。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-223",
+      "section": "ch08",
+      "page": 208,
+      "field": "zh",
+      "before": "¹ 纳恩注：黑方可27... Qc3! 28. exf7+ Kh8意外反败为胜，但白方可以提前改进：27. Ne7+ Kf8 28. Qf6获胜。",
+      "after": "¹ 纳恩注：黑方可27... Qc3! 28. exf7+ Kh8意外扭转局势，但白方可以提前改进：27. Ne7+ Kf8 28. Qf6获胜。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "turn the tables表示扭转局势，原译“反败为胜”把原文未明说的最终取胜写成确定结论。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-266",
+      "section": "ch08",
+      "page": 213,
+      "field": "zh",
+      "before": "两三个相邻兵处于同一横线的阵形，棋书常称为“兵方阵”；这种方阵展开攻击时，也很适合形容为“雪崩”或“滚压”。兵雪崩进攻通常比刺刀进攻承担更多局面上的责任，因为要推进的是两个兵，而非一个。但雪崩的威力也更大，它能把面前的敌子全部赶开，提供更多进攻可能。",
+      "after": "两三个相邻兵处于同一横线的阵形，棋书常称为“兵方阵”；这种方阵展开攻击时，也很适合形容为“雪崩”或“滚压”。兵雪崩进攻通常比刺刀进攻受到更多局面上的约束，因为要推进的是两个兵，而非一个。但雪崩的威力也更大，它能把面前的敌子全部赶开，提供更多进攻可能。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "positional commitments指冲兵后在局面上作出的承诺及所受约束，“承担责任”易误导为一般责任；按上下文改为约束。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-310",
+      "section": "ch08",
+      "page": 217,
+      "field": "zh",
+      "before": "对21... fxg6，克莫赫指出22. Rxg6?较弱（因为22... exf3，黑方以过多子力换取后）。他认为以下变化有利于白方：22. Nh4 g5 23. Ng6 Qf6 24. h7+ Kf7 25. h8=Q Rxh8 26. Nxh8+。但26... Ke7之后，局面有些可疑，因为白方设法把马从角落撤出时，黑方能组织反击，例如27. Qe2 c3! 28. Qh5（或28. bxc3 Ba3+再...Qf5）28... cxb2+；若29. Kb1，则29... Ba3；若29. Kxb2，则29... Qxf2+，等等。",
+      "after": "对21... fxg6，克莫赫指出22. Rxg6?较弱（因为22... exf3，黑方弃后换得的子力太多）。他认为以下变化有利于白方：22. Nh4 g5 23. Ng6 Qf6 24. h7+ Kf7 25. h8=Q Rxh8 26. Nxh8+。但26... Ke7之后，局面有些可疑，因为白方设法把马从角落撤出时，黑方能组织反击，例如27. Qe2 c3! 28. Qh5（或28. bxc3 Ba3+再...Qf5）28... cxb2+；若29. Kb1，则29... Ba3；若29. Kxb2，则29... Qxf2+，等等。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "原译把交换方向颠倒；in return for his queen是黑方交出自己的后，取得过多补偿子力。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-337",
+      "section": "ch08",
+      "page": 220,
+      "field": "zh",
+      "before": "【纳恩注1】实际上，26... Ke8 27. Qxf8+ Kd7等之后，白方最终少子，所以应改走23. hxg7 Bxg7 24. Rh7 Qc7 25. Rgh1，随后将杀。",
+      "after": "【纳恩注1】实际上，26... Ke8 27. Qxf8+ Kd7等之后，白方最终在子力上吃亏，所以应改走23. hxg7 Bxg7 24. Rh7 Qc7 25. Rgh1，随后将杀。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "material down泛指子力价值处于劣势，不一定少一个轻子；改掉可能被读成具体少子的表述。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-374",
+      "section": "ch08",
+      "page": 223,
+      "field": "zh",
+      "before": "关于兵的攻击，实战中常有两种值得一提的情形：一种要求严格按照局面棋原则使用兵，另一种则完全不适合兵参与，最好只靠棋子进攻。下面各给出适当例子。",
+      "after": "关于兵的攻击，实战中常有两种值得一提的情形：一种要求在进攻中采用固定兵形，发挥兵的局面棋作用；另一种则完全不适合兵参与，最好只靠棋子进攻。下面各给出适当例子。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "rigid, positional描述兵的固定形态及局面棋用法，不是“严格按照原则”；与下一例主动封闭兵形的说明一致。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-403",
+      "section": "ch08",
+      "page": 226,
+      "field": "zh",
+      "before": "对其他任何着法，白象都可经由f6决定胜负，例如5... Nc6 6. Nf3 Nh7 7. Bh6 Qd7 8. Bg5，等等。",
+      "after": "对其他任何着法，白象都可到达f6，决定胜负，例如5... Nc6 6. Nf3 Nh7 7. Bh6 Qd7 8. Bg5，等等。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "reaching f6表示象最终到达f6，原译“经由f6”容易读成途经该格。"
+        }
+      ]
+    },
+    {
+      "segment": "CH8-411",
+      "section": "ch08",
+      "page": 226,
+      "field": "zh",
+      "before": "黑方被牵制在王翼，白方最佳计划是在h线上叠加后双车。白方进行必要的重新部署，既阻止黑象渗透，又延缓黑车沿c线侵入；同时过度保护e5格，防备对手孤注一掷的弃子。",
+      "after": "黑方被牵制在王翼，白方最佳计划是在h线上叠加后双车。白方进行必要的重新部署，既阻止黑象渗透，又延缓黑车沿c线侵入；同时超额保护e5格，防备对手孤注一掷的弃子。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "over-protect是有意增加保护的正面技术概念；统一为本书前文“超额保护”，避免“过度”暗示不必要或有害。"
+        }
+      ]
+    },
+    {
+      "segment": "CH9-19",
+      "section": "ch09",
+      "page": 233,
+      "field": "zh",
+      "before": "面对侧翼出象王城，自然没有h7弃象的机会；而且，许多在普通王城中很典型的弃子，也不适用于这种特殊结构。可以说，f5弃马才是针对侧翼出象王城的一种特色弃子。下图就是一例。",
+      "after": "面对侧翼出象王城，自然没有h7弃象的机会；而且，许多在普通王城中很典型的弃子，也不适用于这种特殊结构。针对侧翼出象王城，一种有代表性的弃子是在f5弃马。下图就是一例。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "原译“才是”增加排他性；原文只指出一种具有代表性的形式，不排除其他特色弃子。"
+        }
+      ]
+    },
+    {
+      "segment": "CH9-59",
+      "section": "ch09",
+      "page": 239,
+      "field": "zh",
+      "before": "不过，决定长易位时也不应过分谨慎，因为许多局面本来适合长易位，棋手却被认为它风险很大的偏见吓退。以下是抛开偏见采用长易位的例子，来自凯列斯—列舍夫斯基，世界冠军赛，海牙／莫斯科，1948年：",
+      "after": "不过，决定长易位时也不应过分谨慎，因为许多局面本来适合长易位，棋手却被认为它风险很大的偏见吓退。以下是抛开偏见采用长易位的例子，来自凯列斯—雷舍夫斯基，世界冠军赛，海牙／莫斯科，1948年：",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "按全书既有正文与棋手索引统一译名，经统稿确认。"
+        }
+      ]
+    },
+    {
+      "segment": "CH9-59",
+      "section": "ch09",
+      "page": 239,
+      "field": "caption_zh",
+      "before": "凯列斯—列舍夫斯基，海牙／莫斯科，1948年，黑先。",
+      "after": "凯列斯—雷舍夫斯基，海牙／莫斯科，1948年，黑先。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "按全书既有正文与棋手索引统一译名，经统稿确认。"
+        }
+      ]
+    },
+    {
+      "segment": "CH9-60",
+      "section": "ch09",
+      "page": 239,
+      "field": "zh",
+      "before": "黑先；局面看起来较差，因为白方既威胁Nxd5，又威胁Nxb5。此外，黑方尚未易位，因此面临双重任务：既要应付白方威胁，又要腾出时间易位。列舍夫斯基这样解决问题：",
+      "after": "黑先；局面看起来较差，因为白方既威胁Nxd5，又威胁Nxb5。此外，黑方尚未易位，因此面临双重任务：既要应付白方威胁，又要腾出时间易位。雷舍夫斯基这样解决问题：",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "按全书既有正文与棋手索引统一译名，经统稿确认。"
+        }
+      ]
+    },
+    {
+      "segment": "CH9-64",
+      "section": "ch09",
+      "page": 239,
+      "field": "zh",
+      "before": "本局从西班牙开局开放变例开始，黑方在这种开局中长易位可谓奇闻，许多大师看到列舍夫斯基这样走，都摇头不已。但这里抛开“西班牙开局不适合长易位”的偏见是正确的，因为这步恰好圆满解决了问题：既给黑方所需的时间，又比短易位更好地巩固王的位置。还应注意，a6和b5的弱点并不突出，因为白方无法用a4充分攻击它们。此外，长易位还增强了黑方g兵的力量；其推进到g4，对争夺d4格十分重要。",
+      "after": "本局从西班牙开局开放变例开始，黑方在这种开局中长易位可谓奇闻，许多大师看到雷舍夫斯基这样走，都摇头不已。但这里抛开“西班牙开局不适合长易位”的偏见是正确的，因为这步恰好圆满解决了问题：既给黑方所需的时间，又比短易位更好地巩固王的位置。还应注意，a6和b5的弱点并不突出，因为白方无法用a4充分攻击它们。此外，长易位还增强了黑方g兵的力量；其推进到g4，对争夺d4格十分重要。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "按全书既有正文与棋手索引统一译名，经统稿确认。"
+        }
+      ]
+    },
+    {
+      "segment": "CH9-71",
+      "section": "ch09",
+      "page": 240,
+      "field": "caption_zh",
+      "before": "拉比诺维奇—罗曼诺夫斯基，莫斯科，1925年，黑先。",
+      "after": "拉宾诺维奇—罗曼诺夫斯基，莫斯科，1925年，黑先。",
+      "review_reasons": [
+        {
+          "log": "language_review_final_consistency_20261018.json",
+          "reason": "最后跨章统稿：Rabinovich与第十一章及棋手索引统一为拉宾诺维奇。"
+        }
+      ]
+    },
+    {
+      "segment": "CH9-72",
+      "section": "ch09",
+      "page": 240,
+      "field": "zh",
+      "before": "这个局面来自拉比诺维奇—罗曼诺夫斯基，莫斯科，1925年。黑先，无法阻止exf6，只得孤注一掷，依据博登杀王模式（见第76页）反击敌王。",
+      "after": "这个局面来自拉宾诺维奇—罗曼诺夫斯基，莫斯科，1925年。黑先，无法阻止exf6，只得孤注一掷，依据博登杀王模式（见第76页）反击敌王。",
+      "review_reasons": [
+        {
+          "log": "language_review_final_consistency_20261018.json",
+          "reason": "最后跨章统稿：Rabinovich与第十一章及棋手索引统一为拉宾诺维奇。"
+        }
+      ]
+    },
+    {
+      "segment": "CH9-77",
+      "section": "ch09",
+      "page": 241,
+      "field": "caption_zh",
+      "before": "拉比诺维奇—罗曼诺夫斯基，3... Bg6之后，白先。",
+      "after": "拉宾诺维奇—罗曼诺夫斯基，3... Bg6之后，白先。",
+      "review_reasons": [
+        {
+          "log": "language_review_final_consistency_20261018.json",
+          "reason": "最后跨章统稿：Rabinovich与第十一章及棋手索引统一为拉宾诺维奇。"
+        }
+      ]
+    },
+    {
+      "segment": "CH9-127",
+      "section": "ch09",
+      "page": 246,
+      "field": "zh",
+      "before": "【纳恩注2】卡斯帕罗夫近来的分析指出了第三种可能：21. Rb3 Qg5+ 22. Kb1 Nd2+ 23. Ka1 Nxb3+ 24. cxb3 Bd6 25. Qa7+ Kc8 26. Nxd6+ Rxd6（26... cxd6 27. f4! gxf3 28. Nxf3，车将进入c1）27. Qa8+ Kd7 28. Qxh8，白方多两兵。",
+      "after": "【纳恩注2】卡斯帕罗夫当时的新近分析指出了第三种可能：21. Rb3 Qg5+ 22. Kb1 Nd2+ 23. Ka1 Nxb3+ 24. cxb3 Bd6 25. Qa7+ Kc8 26. Nxd6+ Rxd6（26... cxd6 27. f4! gxf3 28. Nxf3，车将进入c1）27. Qa8+ Kd7 28. Qxh8，白方多两兵。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch07_09_20261018.json",
+          "reason": "Recent相对于纳恩撰注的时间，补明“当时”，避免被理解为本次校对日前的新分析。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-5",
+      "section": "ch10",
+      "page": 247,
+      "field": "zh",
+      "before": "实战中，直接防御的着法通常与间接防御配合使用。主要原则是：直接防御应当节约，间接防御应当适时。所谓节约，就是不走多余的棋，不投入不必要的过多子力。间接防御的恰当时机比较难判断，因为通常取决于两个相互作用的因素：一方面，直接防御已达到必要的节约原则所允许的限度；另一方面，进攻方确实走出了使自己承担较大义务的一着，也就是把赌注押在进攻成功上。",
+      "after": "实战中，直接防御的着法通常与间接防御配合使用。主要原则是：直接防御应当节约，间接防御应当适时。所谓节约，就是不走多余的棋，不投入不必要的过多子力。间接防御的恰当时机比较难判断，因为通常取决于两个相互作用的因素：一方面，直接防御已达到必要的节约原则所允许的限度；另一方面，进攻方确实走出了使自己作出较大投入、受到较强约束的一着，也就是把赌注押在进攻成功上。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "commitment指投入所造成的不易回头的约束，而非道德义务。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-56",
+      "section": "ch10",
+      "page": 253,
+      "field": "text",
+      "before": "In the original edition, this diagram was incorrectly given without the black 1 pawn on b5. Qukovié's comments have been modified to take account of this correction.",
+      "after": "In the original edition, this diagram was incorrectly given without the black pawn on b5. Vuković's comments have been modified to take account of this correction.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-56",
+      "section": "ch10",
+      "page": 253,
+      "field": "zh",
+      "before": "〔纳恩注1〕原版的这幅图漏画了b5黑兵。伏科维奇的评注已相应修改，以反映这一订正。",
+      "after": "〔纳恩注1〕原版的这幅图漏画了b5黑兵。武科维奇的评注已相应修改，以反映这一订正。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认与较早权威稿及索引统一Vuković译名。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-76",
+      "section": "ch10",
+      "page": 256,
+      "field": "text",
+      "before": "However one looks at it, Black is getting into a cramped and difficult position. He cannot make ...f5 work, as is shown by the following variation: I1...Ne8 12. g4 g6 13. Bh6 Ng7 14. O-O-O f5? 15. gxf5 gxf5 16. Rdg1 Rf7 17. exf5 Bxf5 18. Bxg7 when White wins.",
+      "after": "However one looks at it, Black is getting into a cramped and difficult position. He cannot make ...f5 work, as is shown by the following variation: 11... Ne8 12. g4 g6 13. Bh6 Ng7 14. O-O-O f5? 15. gxf5 gxf5 16. Rdg1 Rf7 17. exf5 Bxf5 18. Bxg7 when White wins.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-86",
+      "section": "ch10",
+      "page": 258,
+      "field": "zh",
+      "before": "黑方早已像“靠鳃呼吸”般艰难支撑，现在竟只剩后能够移动。",
+      "after": "黑方早已被压得喘不过气来，现在竟只剩后能够移动。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "将英语困境比喻译为自然中文，避免靠鳃呼吸的字面误读。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-101",
+      "section": "ch10",
+      "page": 258,
+      "field": "text",
+      "before": "A move which does not belong to the system and only wastes time. At this point Pillsbury usually played 11. Ne5 and his opponents allowed him to strengthen the position of his knight by f4. Marco later showed that after I I Ne5 one should play 11... Nxe5 12. dxe5 Ne8 13. Bf4 g6 14. Bh6 Ng7 15. f4 d4! answering 16. f5 with 16... Bg5.",
+      "after": "A move which does not belong to the system and only wastes time. At this point Pillsbury usually played 11. Ne5 and his opponents allowed him to strengthen the position of his knight by f4. Marco later showed that after 11. Ne5 one should play 11... Nxe5 12. dxe5 Ne8 13. Bf4 g6 14. Bh6 Ng7 15. f4 d4! answering 16. f5 with 16... Bg5.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-105",
+      "section": "ch10",
+      "page": 259,
+      "field": "text",
+      "before": "Instead of 1 1...c4'? Black could have played, for example, 11... a6, which is in keeping with the system and does not immediately forsake the centre in the process. The modern answer would be 11... Ne4, with the aim of clarifying the situation.",
+      "after": "Instead of 11... c4? Black could have played, for example, 11... a6, which is in keeping with the system and does not immediately forsake the centre in the process. The modern answer would be 11... Ne4, with the aim of clarifying the situation.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "root逐页直接查看原书259、275、282、292页扫描确认；修复英文转写/OCR与SAN符号空格，保留原书评注值。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-119",
+      "section": "ch10",
+      "page": 260,
+      "field": "text",
+      "before": "Black is planning . Qd6, but he should have noted that White will be unable to play the fundamentally important move Nf4 for some time (because of Qxf5). He could therefore have devoted the tempo to preparing ...b4, e.g. by 22... Rc8.",
+      "after": "Black is planning ...Qd6, but he should have noted that White will be unable to play the fundamentally important move Nf4 for some time (because of ...Qxf5). He could therefore have devoted the tempo to preparing ...b4, e.g. by 22... Rc8.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-158",
+      "section": "ch10",
+      "page": 264,
+      "field": "zh",
+      "before": "推进后翼多兵的间接防御曾受到高度重视，采用得比本书写作时更多。真正原因是：超现代学派使我们对中心及子力中心化的技术有了更好理解。在子力相等时，侧翼多兵的一方通常在中心并无更大影响或压力，也缺乏中心行动所需条件。侧翼多兵以中心为代价，意味着放弃对中心的侧面压力，这是现代大师不愿采用的战略。争夺中心是现代所有开局的特征，子力中心化也是现代局面棋的重要主题。因此，侧翼多兵如今更多是某种战略的副产品，而非主要目标，例如格林菲尔德防御兑换变例。",
+      "after": "推进后翼多兵的间接防御曾受到高度重视，采用得比本书写作时更多。这种方法后来用得较少，真正原因是：超现代学派使我们对中心及子力中心化的技术有了更好理解。在子力相等时，侧翼多兵的一方通常在中心并无更大影响或压力，也缺乏中心行动所需条件。侧翼多兵以中心为代价，意味着放弃对中心的侧面压力，这是现代大师不愿采用的战略。争夺中心是现代所有开局的特征，子力中心化也是现代局面棋的重要主题。因此，侧翼多兵如今更多是某种战略的副产品，而非主要目标，例如格林菲尔德防御兑换变例。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "明确this的因果指向为后来的使用减少，并非过去重视多兵。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-172",
+      "section": "ch10",
+      "page": 265,
+      "field": "zh",
+      "before": "4）防御的时机、形式怎样取决于进攻方已经作出的承诺。",
+      "after": "4）防御的时机、形式怎样取决于进攻方已有的投入及其带来的约束。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "commitments为局面与行动上的约束，不是口头承诺。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-194",
+      "section": "ch10",
+      "page": 269,
+      "field": "zh",
+      "before": "上图是颗难啃的硬核，应这样尝试：9. Qc1! Rbb2! 10. Qxb2! Rxb2 11. Bxf8 g5 12. Rh5 Ng6 13. Bg7。白方与上述第一条变化相比，少一步但多一车。以下变化白方获胜：",
+      "after": "上图是个棘手的难题，应这样尝试：9. Qc1! Rbb2! 10. Qxb2! Rxb2 11. Bxf8 g5 12. Rh5 Ng6 13. Bg7。白方与上述第一条变化相比，少一步但多一车。以下变化白方获胜：",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "hard nut to crack为棘手难题，硬核直译不通。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-206",
+      "section": "ch10",
+      "page": 271,
+      "field": "zh",
+      "before": "此局面出自耶茨—马尔科，海牙，1921年，形成于：1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. Nc3 Be7 6. O-O h6 7. Be3 Ngf6 8. Bb3 Qc7 9. Nd2 g5 10. a4 Nf8 11. a5 Ng6 12. Re1 Nf4 13. f3 Rg8 14. Nf1 Be6 15. Ng3（见前图）。黑方采用了自己喜爱的菲利道尔防御汉哈姆变例，取得优势并攻击白王；这是白方开局挥霍步数的自然结果，如早期无根据的a5、f3。轮执黑的马尔科走，他为按老式“辣椒风格”弃子而诱使对手d5，破坏了自己的局面。",
+      "after": "此局面出自耶茨—马尔科，海牙，1921年，形成于：1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. Nc3 Be7 6. O-O h6 7. Be3 Ngf6 8. Bb3 Qc7 9. Nd2 g5 10. a4 Nf8 11. a5 Ng6 12. Re1 Nf4 13. f3 Rg8 14. Nf1 Be6 15. Ng3（见前图）。黑方采用了自己喜爱的菲利道尔防御汉哈姆变例，取得优势并攻击白王；这是白方开局挥霍步数的自然结果，如早期无根据的a5、f3。轮执黑的马尔科走，他为按老派“火辣风格”弃子而诱使对手d5，破坏了自己的局面。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "paprika style比喻猛烈热辣的弃子棋风，避免把辣椒当棋风名称。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-239",
+      "section": "ch10",
+      "page": 275,
+      "field": "text",
+      "before": "After 2. Nh5 Rg8 3. Nf6 (otherwise 3... Bf8 3... Rg7 4. Rf3 Black can just defend himself in time by 4... Qc3 5. Rd1 Be7 and if 6. Rh3, then 6... Bxf6.",
+      "after": "After 2. Nh5 Rg8 3. Nf6 (otherwise 3... Bf8!) 3... Rg7 4. Rf3 Black can just defend himself in time by 4... Qc3 5. Rd1 Be7 and if 6. Rh3, then 6... Bxf6.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "root逐页直接查看原书259、275、282、292页扫描确认；修复英文转写/OCR与SAN符号空格，保留原书评注值。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-250",
+      "section": "ch10",
+      "page": 276,
+      "field": "text",
+      "before": "1 Although Vuković is correct with his general principles, the above example is hardly a convincing demonstration; whatever Black plays, he cannot hope to defend the position with most of his pieces stuck far away on the queenside. After 1... Kh8 White can play 2. f5! Nxe5 3. Nh5 Rg8 4. fxg6 fxg6 5. Qg5! Nd7 6. Rf7 with a decisive attack, for example 6... Qc3 7. Rd1 Rdf8 8. Rxd7 Qxd3 9. Qe5+ and mates. Moreover, even one of Vuković’s own lines favours White: after 2. Nh5 Rg8 3. Nf6 Rg7 4. Rf3 Qc3 5. Rd1 Be7 White need not allow the capture on f6 but can simply play 6. Qh4! threatening7 Rh3. Black has nothing better than 6... h5 7. Qg5 Bxf6 8. exf6 Rh7 9. f5 Qe5, but after 10. h4! he is clearly in serious trouble as his rook on h7 is totally out of play.",
+      "after": "1 Although Vuković is correct with his general principles, the above example is hardly a convincing demonstration; whatever Black plays, he cannot hope to defend the position with most of his pieces stuck far away on the queenside. After 1... Kh8 White can play 2. f5! Nxe5 3. Nh5 Rg8 4. fxg6 fxg6 5. Qg5! Nd7 6. Rf7 with a decisive attack, for example 6... Qc3 7. Rd1 Rdf8 8. Rxd7 Qxd3 9. Qe5+ and mates. Moreover, even one of Vuković’s own lines favours White: after 2. Nh5 Rg8 3. Nf6 Rg7 4. Rf3 Qc3 5. Rd1 Be7 White need not allow the capture on f6 but can simply play 6. Qh4! threatening 7. Rh3. Black has nothing better than 6... h5 7. Qg5 Bxf6 8. exf6 Rh7 9. f5 Qe5, but after 10. h4! he is clearly in serious trouble as his rook on h7 is totally out of play.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-250",
+      "section": "ch10",
+      "page": 276,
+      "field": "zh",
+      "before": "〔纳恩注1〕伏科维奇所说的一般原则固然正确，但上例很难说有说服力。黑方大部分子力滞留后翼，离王很远，无论怎样走都无法指望守住。1... Kh8后白方可2. f5! Nxe5 3. Nh5 Rg8 4. fxg6 fxg6 5. Qg5! Nd7 6. Rf7，取得决定性攻势，如6... Qc3 7. Rd1 Rdf8 8. Rxd7 Qxd3 9. Qe5+，接着将杀。而且伏科维奇自己的一条变化也有利于白方：2. Nh5 Rg8 3. Nf6 Rg7 4. Rf3 Qc3 5. Rd1 Be7后，白方无需允许吃f6，只须6. Qh4!威胁7. Rh3。黑方最好也只能6... h5 7. Qg5 Bxf6 8. exf6 Rh7 9. f5 Qe5，但10. h4!后黑方显然非常困难，因为h7车完全脱离战斗。",
+      "after": "〔纳恩注1〕武科维奇所说的一般原则固然正确，但上例很难说有说服力。黑方大部分子力滞留后翼，离王很远，无论怎样走都无法指望守住。1... Kh8后白方可2. f5! Nxe5 3. Nh5 Rg8 4. fxg6 fxg6 5. Qg5! Nd7 6. Rf7，取得决定性攻势，如6... Qc3 7. Rd1 Rdf8 8. Rxd7 Qxd3 9. Qe5+，接着将杀。而且武科维奇自己的一条变化也有利于白方：2. Nh5 Rg8 3. Nf6 Rg7 4. Rf3 Qc3 5. Rd1 Be7后，白方无需允许吃f6，只须6. Qh4!威胁7. Rh3。黑方最好也只能6... h5 7. Qg5 Bxf6 8. exf6 Rh7 9. f5 Qe5，但10. h4!后黑方显然非常困难，因为h7车完全脱离战斗。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认与较早权威稿及索引统一Vuković译名。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-251",
+      "section": "ch10",
+      "page": 277,
+      "field": "zh",
+      "before": "此局面出自罗索里莫—帕赫曼，希尔弗瑟姆，1947年。轮黑走，黑方局面有前途，本应继续走局面棋路线，例如1... a5 2. a4 e4 3. Qe2 b6等。他却决定“把优势投入杀王”，尽管条件并不特别合适。",
+      "after": "此局面出自罗索利莫—帕赫曼，希尔弗瑟姆，1947年。轮黑走，黑方局面有前途，本应继续走局面棋路线，例如1... a5 2. a4 e4 3. Qe2 b6等。他却决定“把优势投入杀王”，尽管条件并不特别合适。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认与较早权威稿及索引统一Rossolimo译名。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-251",
+      "section": "ch10",
+      "page": 277,
+      "field": "caption_zh",
+      "before": "罗索里莫—帕赫曼，希尔弗瑟姆，1947年；黑先。",
+      "after": "罗索利莫—帕赫曼，希尔弗瑟姆，1947年；黑先。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认统一Rossolimo图注译名。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-259",
+      "section": "ch10",
+      "page": 277,
+      "field": "zh",
+      "before": "黑方局面还不足以支持强硬的5... f3 6. Nd2 Bg4。白方会7. Rab1，不让对手摆脱已经承担的子力义务；同时可随时以Rb5攻后，转入直接防御。例如7... Rf6 8. Rxb7，黑方所承担的义务与其攻势力量相比太大。所以8... Rh6后白方可以9. h4，虽削弱却无危险，因为9... g5可10. Rb5应对。若8... Qh3，则9. Nxf3 Bxf3（否则Nh4、Bg2）10. Bxf3 Rh6 11. Re1，白胜。",
+      "after": "黑方局面还不足以支持强硬的5... f3 6. Nd2 Bg4。白方会7. Rab1，不让对手摆脱已经付出的子力代价；同时可随时以Rb5攻后，转入直接防御。例如7... Rf6 8. Rxb7，黑方付出的代价相对于其攻势力量过大。所以8... Rh6后白方可以9. h4，虽削弱却无危险，因为9... g5可10. Rb5应对。若8... Qh3，则9. Nxf3 Bxf3（否则Nh4、Bg2）10. Bxf3 Rh6 11. Re1，白胜。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "material commitments具体为子力付出造成的负担。"
+        },
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "此处比较投入代价与攻势力度，消除义务直译。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-262",
+      "section": "ch10",
+      "page": 278,
+      "field": "caption_zh",
+      "before": "罗索里莫—帕赫曼，7... Bg4后。",
+      "after": "罗索利莫—帕赫曼，7... Bg4后。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认统一Rossolimo图注译名。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-273",
+      "section": "ch10",
+      "page": 279,
+      "field": "zh",
+      "before": "诚然，这迫使f3，堵住白后的长斜线；但也承担了依据不足的进攻义务。黑方必须在h5兵成为负担、不得不在g4交换从而加强白方阵形之前，取得某种具体收益。此错之后白方较好，最终应能在后翼有所作为。",
+      "after": "诚然，这迫使f3，堵住白后的长斜线；但也使黑方在依据不足的情况下，承担了必须进攻见效的约束。黑方必须在h5兵成为负担、不得不在g4交换从而加强白方阵形之前，取得某种具体收益。此错之后白方较好，最终应能在后翼有所作为。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "明确obligation是推进h兵后必须及时取得收益的约束。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-274",
+      "section": "ch10",
+      "page": 279,
+      "field": "caption_zh",
+      "before": "罗索里莫—帕赫曼，15... Na5后。",
+      "after": "罗索利莫—帕赫曼，15... Na5后。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认统一Rossolimo图注译名。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-286",
+      "section": "ch10",
+      "page": 280,
+      "field": "zh",
+      "before": "显然，他准备把车调到g3或h3，进攻敌王。这类着法通常适合对局更后面的阶段，即其他子力全已出动；在封闭局面中也好，因为对手无法沿开放线反击。不过，即使此处出车，白方承担的义务也不太严重：若任务不能成功，车还可以退回来。",
+      "after": "显然，他准备把车调到g3或h3，进攻敌王。这类着法通常适合对局更后面的阶段，即其他子力全已出动；在封闭局面中也好，因为对手无法沿开放线反击。不过，即使此处出车，白方受到的约束也不太大：若任务不能成功，车还可以退回来。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "车可回撤，对应commitment较小，不是义务轻重。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-298",
+      "section": "ch10",
+      "page": 281,
+      "field": "zh",
+      "before": "至此黑方正确地直接防御，没有削弱兵形，同时保留王牌，即c线及对d5中心据点的控制。这完全适合白方所承担的相对有限的义务。现在黑方误以为反击时机已到，随手一着，本可被白方惩罚。局势要求再作一着直接防御，即6... Kg8再次巩固王的位置。原因是黑方以后可能被Bg5迫使...g6，届时Bh6将攻击保护f7的车。...Kg8后，王本身可以保护f7；因此黑方可把双车用于c线，必要时仍用...g6充分直接防御王城。6... h6因7. g4较弱；6... Rc7也不对，例如7. Bg5 h6 8. Bf4，接着g4。",
+      "after": "至此黑方正确地直接防御，没有削弱兵形，同时保留王牌，即c线及对d5中心据点的控制。这完全适合白方相对有限的投入及其约束。现在黑方误以为反击时机已到，随手一着，本可被白方惩罚。局势要求再作一着直接防御，即6... Kg8再次巩固王的位置。原因是黑方以后可能被Bg5迫使...g6，届时Bh6将攻击保护f7的车。...Kg8后，王本身可以保护f7；因此黑方可把双车用于c线，必要时仍用...g6充分直接防御王城。6... h6因7. g4较弱；6... Rc7也不对，例如7. Bg5 h6 8. Bf4，接着g4。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "对应modest commitments，统一这一技术观念。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-318",
+      "section": "ch10",
+      "page": 282,
+      "field": "text",
+      "before": "If 21. Rd1, Black can play 21... Qxd1 !.",
+      "after": "If 21. Rd1, Black can play 21... Qxd1!.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "root逐页直接查看原书259、275、282、292页扫描确认；修复英文转写/OCR与SAN符号空格，保留原书评注值。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-320",
+      "section": "ch10",
+      "page": 282,
+      "field": "zh",
+      "before": "若撇开黑方第6着未被惩罚的错误，对局全过程很好地说明了进攻方承担义务的程度与防御方法之间的关系。第一阶段白车出游，白方承担的义务不大；黑方谨慎地直接防御，不损害王城，同时保持c线与中心的控制，消除一枚敌子——白格象。f3、g4后白方义务增大，沿c线行动进行间接防御的时机成熟。再消除e5马以后，白方攻势完全结束，黑方反击则步步增强；白双车失联是白方不幸的主要原因。",
+      "after": "若撇开黑方第6着未被惩罚的错误，对局全过程很好地说明了进攻方投入所形成的约束程度与防御方法之间的关系。第一阶段白车出游，白方受到的约束不大；黑方谨慎地直接防御，不损害王城，同时保持c线与中心的控制，消除一枚敌子——白格象。f3、g4后白方受到的约束增大，沿c线行动进行间接防御的时机成熟。再消除e5马以后，白方攻势完全结束，黑方反击则步步增强；白双车失联是白方不幸的主要原因。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "明确commitment与防御方法的关系。"
+        },
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "车可退回，限制程度不大。"
+        },
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "f3/g4造成不可轻易收回的局面约束。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-326",
+      "section": "ch10",
+      "page": 283,
+      "field": "zh",
+      "before": "举例前必须明确，这里讨论的是特殊的中心突击。为什么它恰在进攻的关键阶段才有意义？棋手为何不早用？要点就在于：危机出现之前，中心突击其实没有用，因为进攻方有良好应对。只有在进攻方承担了更多义务、部署子力进攻之后，中心突击的时机才出现；而且往往恰在某一精确时刻，早一步或晚一步都不行。",
+      "after": "举例前必须明确，这里讨论的是特殊的中心突击。为什么它恰在进攻的关键阶段才有意义？棋手为何不早用？要点就在于：危机出现之前，中心突击其实没有用，因为进攻方有良好应对。只有在进攻方受到更多约束、部署子力进攻之后，中心突击的时机才出现；而且往往恰在某一精确时刻，早一步或晚一步都不行。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "对应commitments，不是道德义务。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-330",
+      "section": "ch10",
+      "page": 284,
+      "field": "zh",
+      "before": "白方选择在对局早期发动兵雪崩攻击王城，便承担了必须把攻势锐利地贯彻到底的重大义务。因为若黑方获得发言权，其反击会在白方阵地找到大量弱点、直线和斜线；若进入残局，白方前冲的兵容易成为“炮灰”。",
+      "after": "白方选择在对局早期发动兵雪崩攻击王城，就必须把攻势有力地贯彻到底，已很难回头。因为若黑方获得发言权，其反击会在白方阵地找到大量弱点、直线和斜线；若进入残局，白方前冲的兵容易成为“炮灰”。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "以自然中文明确兵雪崩造成必须贯彻进攻的约束。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-331",
+      "section": "ch10",
+      "page": 284,
+      "field": "zh",
+      "before": "承担义务的时刻，也是危机的时刻，是中心突击的时刻。整个西西里防御的中心都不稳定，此局面尤其如此。鲍特维尼克识别了正确时机，以10... d5!出击。",
+      "after": "作出这种难以回头的投入之时，也是危机的时刻，是中心突击的时刻。整个西西里防御的中心都不稳定，此局面尤其如此。鲍特维尼克识别了正确时机，以10... d5!出击。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "承接上一单元的兵雪崩与commitment。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-339",
+      "section": "ch10",
+      "page": 285,
+      "field": "zh",
+      "before": "显然，除了已分析的11. e5，只剩这一选择。11. exd5 Nxd5 12. Nxd5，黑方乐于12... Qxd5兑后，这不仅涉及残局，还会赢得b兵。",
+      "after": "显然，除了已分析的11. e5，只剩这一选择。11. exd5 Nxd5 12. Nxd5，黑方乐于12... Qxd5兑后，这样会赢得b兵，更不必说残局也对黑方有利。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "to say nothing of the ending强调残局亦佳，原译仅说涉及残局漏掉有利含义。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-402",
+      "section": "ch10",
+      "page": 291,
+      "field": "zh",
+      "before": "〔纳恩注1〕伏科维奇没有给出分析，支持他认为此局面中弃象正确的看法。在我看来仍不成立。",
+      "after": "〔纳恩注1〕武科维奇没有给出分析，支持他认为此局面中弃象正确的看法。在我看来仍不成立。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认与较早权威稿及索引统一Vuković译名。"
+        }
+      ]
+    },
+    {
+      "segment": "CH10-405",
+      "section": "ch10",
+      "page": 292,
+      "field": "text",
+      "before": "White takes this pawn at a moment when 19... fxg6 would still be dangerous because of the possibility of 20. Rxh7. If White waits any longer, hxg6 will lose its effect and the answer ...fxg6 will be good, opening up the f-file to Black's advantage. If 19. dxc5 Black has the powerful reply 19... Ne5 !.",
+      "after": "White takes this pawn at a moment when 19... fxg6 would still be dangerous because of the possibility of 20. Rxh7. If White waits any longer, hxg6 will lose its effect and the answer ...fxg6 will be good, opening up the f-file to Black's advantage. If 19. dxc5 Black has the powerful reply 19... Ne5!.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "root逐页直接查看原书259、275、282、292页扫描确认；修复英文转写/OCR与SAN符号空格，保留原书评注值。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-5",
+      "section": "ch11",
+      "page": 293,
+      "field": "zh",
+      "before": "3）先决条件的程度和类型，准确地决定了进攻方能够无害地承担多大程度的投入与约束。因此，先决条件与投入之间存在合乎逻辑的相互关系，由此可以辨认进攻实际处于哪个阶段。",
+      "after": "3）先决条件的程度和类型，准确地决定了进攻方能够作出多大的投入、承受多大的约束，而不损害自身局面。因此，先决条件与投入之间存在合乎逻辑的相互关系，由此可以辨认进攻实际处于哪个阶段。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "without harm指不损害己方局面；无害地承担不自然。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-15",
+      "section": "ch11",
+      "page": 294,
+      "field": "zh",
+      "before": "与上述进攻必要条件的各种类型相对应，进攻方为了发动攻击，也可以，而且确实必须，承担各种投入及其约束。",
+      "after": "与上述进攻必要条件的各种类型相对应，进攻方为了发动攻击，也可以，而且确实必须，作出各种投入，并承受相应约束。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "投入应作出、约束应承受，理清搭配。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-21",
+      "section": "ch11",
+      "page": 295,
+      "field": "zh",
+      "before": "此局面来自鲍特维尼克—切霍韦尔，莫斯科，1935年。白先，必须决定如何继续发展已有的可观主动权。白方中央占优，e5马强大，双象位置良好；这些因素结合起来，说明已经具备一些攻王条件，却尚未承担任何投入。因此可以说，他刚到第一阶段的门槛，应寻找继续准备进攻、同时尽量少作承诺的着法。显然不能h3、g4推进兵，因为黑方很容易挡住主要威胁，此后白方只剩兵弱点，更不必说a8-h1斜线上将出现的危险。",
+      "after": "此局面来自鲍特维尼克—切霍韦尔，莫斯科，1935年。白先，必须决定如何继续发展已有的可观主动权。白方中央占优，e5马强大，双象位置良好；这些因素结合起来，说明已经具备一些攻王条件，却尚未作出任何会束缚自身的投入。因此可以说，他刚到第一阶段的门槛，应寻找继续准备进攻、同时尽量少受约束的着法。显然不能h3、g4推进兵，因为黑方很容易挡住主要威胁，此后白方只剩兵弱点，更不必说a8-h1斜线上将出现的危险。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "强调尚无commitment造成的约束，修正承担投入搭配。"
+        },
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "技术用语commitment不指口头承诺。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-44",
+      "section": "ch11",
+      "page": 298,
+      "field": "zh",
+      "before": "现在兑后被迫（若20. Qe1，则20... Qf6决定胜负），h线的危险消失，黑方的残局优势具有决定性。白方随后输棋。当然，本局也是间接防御的好例子。",
+      "after": "现在兑后已不可避免（若20. Qe1，则20... Qf6决定胜负），h线的危险消失，黑方的残局优势具有决定性。白方随后输棋。当然，本局也是间接防御的好例子。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "原中文主谓搭配不通顺。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-55",
+      "section": "ch11",
+      "page": 299,
+      "field": "zh",
+      "before": "成功攻击已易位王的先决条件，可以通过多种方式产生。有些来自正常的布局过程，有些由棋手专门针对攻王的着法创造，有些仿佛在行棋过程中不知不觉出现，还有些来自对手的冒险甚至错误走法。暂且不谈“不知不觉”或错误行棋造成条件的情形，转而关注有意识、有计划地创造条件。在这方面，我们已经熟悉一条很少有例外的规则。",
+      "after": "成功攻击已易位王的先决条件，可以通过多种方式产生。有些来自正常的局面构筑过程，有些由棋手专门针对攻王的着法创造，有些仿佛在行棋过程中不知不觉出现，还有些来自对手的冒险甚至错误走法。暂且不谈“不知不觉”或错误行棋造成条件的情形，转而关注有意识、有计划地创造条件。在这方面，我们已经熟悉一条很少有例外的规则。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "building up a position不只指开局布局，保留一般性。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-149",
+      "section": "ch11",
+      "page": 309,
+      "field": "zh",
+      "before": "若黑方以13... e5应付14. Rh3的威胁，王就无法在d6避难。正文着法后，黑方希望对14. Qh6应14... Kf7，转往e8；但耶茨又找到了制造麻烦的新要点！",
+      "after": "若黑方以13... e5应付14. Rh3的威胁，王就无法在d6避难。实战着法后，黑方希望对14. Qh6应14... Kf7，转往e8；但耶茨又找到了制造麻烦的新要点！",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "text move在棋谱评注中指实战着法，避免与正文/脚注相混。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-236",
+      "section": "ch11",
+      "page": 316,
+      "field": "zh",
+      "before": "强着，向黑方提出难题。13... exd4 14. Qxd4后，黑方很难找到满意后续。",
+      "after": "强着，向黑方提出难题。13... exd4 14. Qxd4后，黑方很难找到令人满意的续着。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "补明continuation为续着，修正“满意后续”的生硬搭配。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-238",
+      "section": "ch11",
+      "page": 316,
+      "field": "zh",
+      "before": "制造不必要的弱点。值得考虑立即13... Kh8准备...f5。白方可用以下简化调动，可能也是此局面最有前途的路线：14. dxe5 Nxe5 15. Nxe5 Qxe5 16. Qd6 Nd7 17. Qxe5 Nxe5 18. Nd6。",
+      "after": "制造不必要的弱点。值得考虑的是立即走13... Kh8，准备...f5。白方可用以下简化调动，可能也是此局面最有前途的路线：14. dxe5 Nxe5 15. Nxe5 Qxe5 16. Qd6 Nd7 17. Qxe5 Nxe5 18. Nd6。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "补全中文谓语，明确立即走Kh8是值得考虑的方案。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-240",
+      "section": "ch11",
+      "page": 317,
+      "field": "zh",
+      "before": "中间着，目的是诱使对方...g6削弱。",
+      "after": "这是一着中间着，目的是诱使对方走...g6，削弱王城。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "明确诱使对手走棋及造成削弱的关系，避免“...g6削弱”悬空。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-244",
+      "section": "ch11",
+      "page": 317,
+      "field": "zh",
+      "before": "至此白方建立了一系列攻击敌王的条件，却没有走出使自己必须进攻的着法。现在没有实际需要，却作出了这样的承诺。黑方局面尚未适合强攻，所以h4仍过早。按前面建立的步骤，现在应继续完善进攻条件，而不承担局面义务。黑方可以...Rad8，再...Na4，因此白后在黑格长斜线上尚未稳固；应优先限制这种反击，如19. b3 Rad8 20. Qc3。20... Rac8打算...c5，则21. Qa5可挫败计划。",
+      "after": "至此白方建立了一系列攻击敌王的条件，却没有走出使自己必须进攻的着法。现在他却在并无实际需要的情况下，作出了迫使自己继续进攻的投入。黑方局面尚未适合强攻，所以h4仍过早。按前面建立的步骤，现在应继续完善进攻条件，而不给自己的局面带来新的约束。黑方可以...Rad8，再...Na4，因此白后在黑格长斜线上尚未稳固；应优先限制这种反击，如19. b3 Rad8 20. Qc3。20... Rac8打算...c5，则21. Qa5可挫败计划。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "commitment指使后续进攻受到约束的投入，明确“承诺”的棋理含义。；positional commitments指着法造成的后续局面约束，避免“局面义务”的直译。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-250",
+      "section": "ch11",
+      "page": 318,
+      "field": "zh",
+      "before": "从21. Rfe1开始，这已经是白方第三着巩固。强攻王城之前，他先排除黑方一切反击前景；a3尤其是剥夺黑后b4格。卡帕布兰卡许多对局都以这种准备杀王的方法为特征。阿廖欣则偏爱另一种限制反击的方法，即通过动态打击间接实现。因此人们印象中，阿廖欣过分急切，卡帕布兰卡过分谨慎，成为两人的风格特征。实际上，一切取决于具体局面；有时阿廖欣的方法对，有时卡帕布兰卡的方法对。",
+      "after": "从21. Rfe1开始，这已经是白方第三着巩固局面的棋。强攻王城之前，他先排除黑方一切反击前景；a3主要是为了不让黑后利用b4格。卡帕布兰卡许多对局都以这种准备杀王的方法为特征。阿廖欣则偏爱另一种限制反击的方法，即通过动态打击间接实现。因此人们印象中，阿廖欣过分急切，卡帕布兰卡过分谨慎，成为两人的风格特征。实际上，一切取决于具体局面；有时阿廖欣的方法对，有时卡帕布兰卡的方法对。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "补全consolidating move的中文表达。；deprive the queen of a square指剥夺其利用该格的机会，修正“剥夺黑后b4格”的句法。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-267",
+      "section": "ch11",
+      "page": 319,
+      "field": "zh",
+      "before": "前面已经看过，如何创造攻击王城的条件，以及进攻方的义务如何随攻势的力度和形式增长。现在还要指出发展方式大不相同的情况：攻势似乎松弛，突然需要安静着而非猛烈突击；棋手只是以进攻作姿态，实际瞄准其他目标；或者大师在黑暗中摸索，竟看不见鼻子前的东西。",
+      "after": "前面已经看过，如何创造攻击王城的条件，以及进攻方所承担的约束如何随攻势的力度和形式增加。现在还要指出发展方式大不相同的情况：攻势似乎松弛，突然需要安静着而非猛烈突击；棋手只是以进攻作姿态，实际瞄准其他目标；或者大师在黑暗中摸索，竟看不见鼻子前的东西。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "commitments在此指随进攻投入而增长的后续约束，避免“义务”的含混。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-269",
+      "section": "ch11",
+      "page": 319,
+      "field": "zh",
+      "before": "所谓安静着，往往只是表面安静，实际也能像激烈着一样引起大火。这类着法通常出现在攻势看似衰退的局面；实际上是要继续推进，就必须用安静着迟补一个进攻条件。下面几个安静着实例，说明进攻阶段中发生的起伏。",
+      "after": "所谓安静着，往往只是表面安静，实际也能像激烈着一样引起大火。这类着法通常出现在攻势看似衰退的局面；实际上是要继续推进，就必须用一着安静着补足此前欠缺的进攻条件。下面几个安静着实例，说明进攻阶段中发生的起伏。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "belated addition指补足此前未满足的进攻条件，使“迟补”表达自然。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-274",
+      "section": "ch11",
+      "page": 319,
+      "field": "zh",
+      "before": "连续将军后，突然出现这着安静着；没有增加任何威胁，只是堵住g兵，而这恰好对这个局面正合适。例如6. Re3，黑方6... g6 7. Qxg6+ Qg7，白方离目标仍远。能而且应当花整整一步堵住g兵，是因为黑方组织不起有效防御。后或车不能走到e7，因为Qh7+、Qh8#；6... Ne7则7. Qf7+，再8. Re3。",
+      "after": "连续将军后，突然出现这着安静着；没有增加任何威胁，只是堵住g兵，而这正是局面所需要的。例如6. Re3，黑方6... g6 7. Qxg6+ Qg7，白方离目标仍远。能而且应当花整整一步堵住g兵，是因为黑方组织不起有效防御。后或车不能走到e7，因为Qh7+、Qh8#；6... Ne7则7. Qf7+，再8. Re3。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "删除“恰好／正合适”的重复并修正句法，保留precisely to the point。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-287",
+      "section": "ch11",
+      "page": 321,
+      "field": "caption_zh",
+      "before": "斯托尔贝里—阿廖欣，汉堡，1930年；黑先。",
+      "after": "斯塔尔贝里—阿廖欣，汉堡，1930年；黑先。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "按全书统一姓名将斯托尔贝里改为斯塔尔贝里。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-288",
+      "section": "ch11",
+      "page": 321,
+      "field": "zh",
+      "before": "此局面出自斯托尔贝里—阿廖欣，汉堡，1930年。轮黑走，先诱使白方f3。",
+      "after": "此局面出自斯塔尔贝里—阿廖欣，汉堡，1930年。轮黑走，先诱使白方f3。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "按全书统一姓名将斯托尔贝里改为斯塔尔贝里。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-296",
+      "section": "ch11",
+      "page": 321,
+      "field": "zh",
+      "before": "白方动王时没注意威胁，因此在这里认输。6. Qd2能抵抗更久，但阿廖欣即使如此也指出了黑方的简单胜法：6... Bxf3 7. Nxf3 Nxf3+ 8. Rxf3 Rxf3 9. Qxg5 Rxf1+ 10. Rxf1 Rxf1+ 11. Kxf1 hxg5，白方输掉王兵残局。",
+      "after": "白方动王时没注意威胁，因此在这里认输。6. Qd2能抵抗更久，但即使如此，阿廖欣也指出了黑方的简单胜法：6... Bxf3 7. Nxf3 Nxf3+ 8. Rxf3 Rxf3 9. Qxg5 Rxf1+ 10. Rxf1 Rxf1+ 11. Kxf1 hxg5，白方输掉王兵残局。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "调整even then的修饰位置，使让步关系清楚。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-297",
+      "section": "ch11",
+      "page": 322,
+      "field": "zh",
+      "before": "此局面来自马歇尔—米塞斯，剑桥泉，1904年一条关键变化的分析。白方已经弃车，轮他走。1. Nce4!?似乎应很快杀王结束。但这“强着”实际很弱，黑方1... Nc3!，2. Nf6+ gxf6 3. exf6因3... Ne2+，再4... Qc1+、5... Qb2+、6... Qxf6而不行。若2. Rd7，黑方不能吃车，如2... Qxd7 3. Nd6!〔纳恩注1〕，或2... Bxd7 3. Nf6+；但可2... Ne2+ 3. Kf1 Qc1+ 4. Kxe2 Qxg5! 5. Nxg5 Bxd7，很好地守住，同时保持子力均衡〔纳恩注2〕。",
+      "after": "此局面来自马歇尔—米泽斯，剑桥泉，1904年一条关键变化的分析。白方已经弃车，轮他走。1. Nce4!?似乎应很快杀王结束。但这“强着”实际很弱，黑方1... Nc3!，2. Nf6+ gxf6 3. exf6因3... Ne2+，再4... Qc1+、5... Qb2+、6... Qxf6而不行。若2. Rd7，黑方不能吃车，如2... Qxd7 3. Nd6!〔纳恩注1〕，或2... Bxd7 3. Nf6+；但可2... Ne2+ 3. Kf1 Qc1+ 4. Kxe2 Qxg5! 5. Nxg5 Bxd7，很好地守住，同时保持子力均衡〔纳恩注2〕。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "按全书统一姓名将米塞斯改为米泽斯。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-297",
+      "section": "ch11",
+      "page": 322,
+      "field": "caption_zh",
+      "before": "马歇尔—米塞斯分析，剑桥泉，1904年；白先。",
+      "after": "马歇尔—米泽斯分析，剑桥泉，1904年；白先。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "按全书统一姓名将米塞斯改为米泽斯。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-302",
+      "section": "ch11",
+      "page": 322,
+      "field": "zh",
+      "before": "〔纳恩注3〕1... Rd8之后，2. Qh7+ Kf8 3. Qh8+ Ke7 4. Qxg7 Rxd1+ 5. Nxd1带将吃f7兵；g兵也会丢，白方明显较好。",
+      "after": "〔纳恩注3〕1... Rd8之后，2. Qh7+ Kf8 3. Qh8+ Ke7 4. Qxg7 Rxd1+ 5. Nxd1后，白方可以带将吃掉f7兵；g兵也会丢，白方明显较好。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "Nxd1并非在f7吃兵；明确随后带将吃f7兵的时序，不改原书记谱。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-322",
+      "section": "ch11",
+      "page": 325,
+      "field": "zh",
+      "before": "或许可以3. h4进一步加强进攻，但这承担了义务，后果不明。3. Rfc1则转向c线，这里的条件已比最初根本改善。一方面，白方赢得叠车时间；另一方面，把黑马赶回f8，使它离显然应该占据的c4关键格又远一步。白方优势来自以杀王“作姿态”。接下来是局面棋技术，可以这样继续：3... Rc8（若允许Rc7，h6弃子的威胁又出现！）4. Rxc8 Bxc8 5. Qe1 Bb7 6. Bd2!（若目标是好残局，应尽快兑掉黑格象）6... Qd7 7. Bb4 Rc8（或7... Bd8 8. Ba5，8... Be7则9. Rc7）8. Bxe7 Rxc1 9. Qxc1 Qxe7 10. Qc3 Qd7（10... Nd7则11. Qc7决定胜负）11. Nd2，白方凭较好的象与更活跃的马，拥有很大优势。黑方无法避免兑后；此后兑马，或白象兑黑马，最终都会留下非常有利的残局。",
+      "after": "或许可以3. h4进一步加强进攻，但这会给局面带来约束，后果尚不清楚。3. Rfc1则转向c线，这里的条件已比最初根本改善。一方面，白方赢得叠车时间；另一方面，把黑马赶回f8，使它离显然应该占据的c4关键格又远一步。白方优势来自以杀王“作姿态”。接下来是局面棋技术，可以这样继续：3... Rc8（若允许Rc7，h6弃子的威胁又出现！）4. Rxc8 Bxc8 5. Qe1 Bb7 6. Bd2!（若目标是好残局，应尽快兑掉黑格象）6... Qd7 7. Bb4 Rc8（或7... Bd8 8. Ba5，8... Be7则9. Rc7）8. Bxe7 Rxc1 9. Qxc1 Qxe7 10. Qc3 Qd7（10... Nd7则11. Qc7决定胜负）11. Nd2，白方凭较好的象与更活跃的马，拥有很大优势。黑方无法避免兑后；此后兑马，或白象兑黑马，最终都会留下非常有利的残局。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "commitment在此强调h4造成的后续限制，避免“承担义务”的生硬直译。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-325",
+      "section": "ch11",
+      "page": 326,
+      "field": "zh",
+      "before": "把各着协调为“整体行动”是好事，但始终应看到“鼻子前”的东西：若能立即将杀，就应将杀，别去对兵大发哲学议论。维德马尔博士就曾发生过这样的事；他执白对耶茨，伦敦，1922年，到达下图局面。",
+      "after": "把各着协调为“整体行动”是好事，但始终应看到“鼻子前”的东西：若能立即将杀，就应将杀，别去对兵大发哲学议论。维德马尔博士就曾犯过这样的错误；他执白对耶茨，伦敦，1922年，到达下图局面。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "修正“博士发生过事”的主谓搭配，承接未看到即时将杀的错误。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-326",
+      "section": "ch11",
+      "page": 326,
+      "field": "zh",
+      "before": "白方本可轻易赢棋，却一时糊涂，想到“把一切结合成一个整体”：既进攻，又同时“兑现”黑方e兵的价值。想一举两得的错误愿望，导致局面变成和棋；不过黑方后来又走坏，最终输棋。",
+      "after": "白方本可轻易赢棋，却一时糊涂，想到“把一切结合成一个整体”：既进攻，又同时想吃掉黑方的e兵来“兑现”优势。想一举两得的错误愿望，导致局面变成和棋；不过黑方后来又走坏，最终输棋。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "cash in on the enemy pawn指通过吃兵兑现优势，不是兑现敌兵本身的价值。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-357",
+      "section": "ch11",
+      "page": 329,
+      "field": "zh",
+      "before": "这样的冲兵承担局面义务，但白方此时无须害怕残局，可以与之平衡。若对方黑格象仍在，此着就冒险。",
+      "after": "这次冲兵虽给局面带来约束，但白方此时无须害怕转入残局，足以抵消这一负担。若对方黑格象仍在，此着就冒险。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "明确positional obligation与不怕残局这两项因素的权衡，修正“可以与之平衡”的不明主语。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-367",
+      "section": "ch11",
+      "page": 330,
+      "field": "zh",
+      "before": "白方毕竟选择进攻，而不是15. Rxg7+、16. Rg1简单简化。进攻时，他随时都保证有一个好残局可转。",
+      "after": "白方最终还是选择了进攻，而不是用15. Rxg7+、16. Rg1直接简化局面。在进攻过程中，只要愿意，他始终可以转入有利残局。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "after all指最终仍选择进攻；消除“简单简化”的重复并理清随时可转入有利残局的保证。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-377",
+      "section": "ch11",
+      "page": 331,
+      "field": "caption_zh",
+      "before": "鲍特维尼克—拉比诺维奇，列宁格勒，1934年；白先。",
+      "after": "鲍特维尼克—拉宾诺维奇，列宁格勒，1934年；白先。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "按全书统一姓名将拉比诺维奇改为拉宾诺维奇。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-378",
+      "section": "ch11",
+      "page": 331,
+      "field": "zh",
+      "before": "此局面出自鲍特维尼克—拉比诺维奇，列宁格勒，1934年。起初白方进攻循着常规模式。",
+      "after": "此局面出自鲍特维尼克—拉宾诺维奇，列宁格勒，1934年。起初白方进攻循着常规模式。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "按全书统一姓名将拉比诺维奇改为拉宾诺维奇。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-384",
+      "section": "ch11",
+      "page": 331,
+      "field": "zh",
+      "before": "白方中止进攻，导向残局；控制d线与攻击黑方c弱兵这两个因素，保证明显优势。",
+      "after": "白方中止进攻，导向残局；控制d线与攻击黑方c线弱兵这两个因素，保证白方拥有明显优势。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "补明弱兵所在的c线及优势归属，使中文句法完整。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-386",
+      "section": "ch11",
+      "page": 331,
+      "field": "zh",
+      "before": "白方接着主题性地9. Qd2，允许9... Be4；10. Qd7 Rc8 11. f3 Bc2 12. Rd2 Bb1，黑象钻入后翼小兵群，拉比诺维奇又走错才最终输棋。白方应以9. Qe3代替9. Qd2，间接保持d线控制，并准备Rd3、Qd2。",
+      "after": "白方接着主题性地9. Qd2，允许9... Be4；10. Qd7 Rc8 11. f3 Bc2 12. Rd2 Bb1，黑象钻入后翼小兵群，拉宾诺维奇又走错才最终输棋。白方应以9. Qe3代替9. Qd2，间接保持d线控制，并准备Rd3、Qd2。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "按全书统一姓名将拉比诺维奇改为拉宾诺维奇。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-388",
+      "section": "ch11",
+      "page": 331,
+      "field": "zh",
+      "before": "〔纳恩注1〕伏科维奇把实战着误写成4... Qe8。",
+      "after": "〔纳恩注1〕武科维奇把实战着误写成4... Qe8。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "按全书统一姓名将伏科维奇改为武科维奇。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-390",
+      "section": "ch11",
+      "page": 332,
+      "field": "text",
+      "before": "Another possibility is 1. Nh7, and this leads to even greater material gains; Black is obliged to play I ...Ne4! ! , but after 2. Bxe4 dxe4 3. Nf6+ Qxf6 4. Qxf6 e3 the black pawn forces White's queen to retire, e.g. 5. Qf1 (or 5. Qg5+ Kf8) 5... e2 6. Qe1 Kf8, and White can hardly count on victory.",
+      "after": "Another possibility is 1. Nh7, and this leads to even greater material gains; Black is obliged to play 1... Ne4!, but after 2. Bxe4 dxe4 3. Nf6+ Qxf6 4. Qxf6 e3 the black pawn forces White's queen to retire, e.g. 5. Qf1 (or 5. Qg5+ Kf8) 5... e2 6. Qe1 Kf8, and White can hardly count on victory.",
+      "reason": "Original scan independently checked; OCR/typography correction only",
+      "review_reasons": [
+        {
+          "log": "language_review_transcription_20261018.json",
+          "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-400",
+      "section": "ch11",
+      "page": 333,
+      "field": "zh",
+      "before": "容易看出，3... a5后白方赢得后对车马的残局，因为a5兵必丢。3... b5也可简化，这次黑方丢a6、c6两兵，例如4. Bh7+ Kh8 5. Nxf7+ Qxf7 6. Bg6+ Kg8 7. Bxf7+ Kxf7 8. Qf4 Rc8 9. Kb4 Ke7 10. Qd6+ Kf7 11. Ka5 Kg6 12. Kxa6，再13. Kb7等。",
+      "after": "容易看出，3... a5后白方赢得后对车马的残局，因为a5兵必丢。若3... b5，白方同样可以简化到残局，这次黑方将丢掉a6、c6两兵，例如4. Bh7+ Kh8 5. Nxf7+ Qxf7 6. Bg6+ Kg8 7. Bxf7+ Kxf7 8. Qf4 Rc8 9. Kb4 Ke7 10. Qd6+ Kf7 11. Ka5 Kg6 12. Kxa6，再13. Kb7等。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "明确similarly simplifies的主语是白方，避免读成黑方自行简化。"
+        }
+      ]
+    },
+    {
+      "segment": "CH11-402",
+      "section": "ch11",
+      "page": 333,
+      "field": "zh",
+      "before": "4... b5+则5. cxb6 Rxb6 6. Bh7+，再吃掉f7后，赢得后对车马残局，大致同上。",
+      "after": "4... b5+则5. cxb6 Rxb6 6. Bh7+，再吃掉f7上的黑后，赢得后对车马残局，大致同上。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch11_part2_20261018.json",
+          "reason": "补明queen的指代，避免“f7后”被读成时间关系。"
+        }
+      ]
+    },
+    {
+      "segment": "CH12-1",
+      "section": "ch12",
+      "page": 334,
+      "field": "zh",
+      "before": "第十二章　杀王进攻：对局不可分割的一部分",
+      "after": "第十二章　杀王进攻作为对局整体的一部分",
+      "review_reasons": [
+        {
+          "log": "language_review_final_consistency_20261018.json",
+          "reason": "统一章节内标题、全书目录及PDF封页的标题表述。"
+        }
+      ]
+    },
+    {
+      "segment": "CH12-11",
+      "section": "ch12",
+      "page": 335,
+      "field": "zh",
+      "before": "主张回到第二次世界大战之前，在阿廖欣和卡帕布兰卡的对局中寻找杀王艺术的顶峰，似乎有些奇怪。难道鲍特维尼克和斯梅斯洛夫、凯列斯和布龙斯坦、雷舍夫斯基和格里戈里奇，在丰富的国际象棋创作中，不仅已经掌握了两位前辈的全部知识，而且还增添了新的内容吗？确实，他们在许多方面都走得更远；也许就杀王进攻的知识而言，他们也不逊于过去的大师。然而，在实际对局中，他们迄今尚未把这种认识充分付诸实践。",
+      "after": "主张回到第二次世界大战之前，在阿廖欣和卡帕布兰卡的对局中寻找杀王艺术的顶峰，似乎有些奇怪。难道鲍特维尼克和斯梅斯洛夫、凯列斯和布龙斯坦、雷舍夫斯基和格利戈里奇，在丰富的国际象棋创作中，不是已经掌握了两位前辈的全部知识，还增添了新的内容吗？确实，他们在许多方面都走得更远；也许就杀王进攻的知识而言，他们也不逊于过去的大师。然而，在实际对局中，他们迄今尚未把这种认识充分付诸实践。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "恢复have not...的反问结构，使预期肯定答案与下句转折衔接；同时按root确认统一Gligorić译名。"
+        }
+      ]
+    },
+    {
+      "segment": "CH12-39",
+      "section": "ch12",
+      "page": 338,
+      "field": "zh",
+      "before": "黑方知道，沿斜线持续施加于h7的压力，迟早会迫使自己走...g6。因此，他合乎逻辑地决定稍后把象调到侧翼，以此作为组织抵抗的最佳办法。",
+      "after": "黑方知道，沿斜线持续施加于h7的压力，迟早会迫使自己走...g6。因此，他合乎逻辑地决定补走侧翼出象，以此作为组织抵抗的最佳办法。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "delayed fianchetto指开局以后补成侧翼象布局，并非决定未来再走。"
+        }
+      ]
+    },
+    {
+      "segment": "CH12-59",
+      "section": "ch12",
+      "page": 340,
+      "field": "zh",
+      "before": "编者注1：这显然夸大了困难。白方以后兵对车象，黑方剩下的兵都是弱兵，而白方还有f线通路兵；我不认为这里会有多少技术难题！",
+      "after": "编者注1：这显然夸大了困难。白方以一个后和一兵对抗车象，黑方剩下的兵都是弱兵，而白方还有f线通路兵；我不认为这里会有多少技术难题！",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "消除以后兵的连读歧义，明确queen and pawn的子力对应。"
+        }
+      ]
+    },
+    {
+      "segment": "CH12-99",
+      "section": "ch12",
+      "page": 343,
+      "field": "zh",
+      "before": "两个兵、黑王的暴露、黑方在c5上的投入，以及白方在c线和d线上发挥作用的车，这些显然足以补偿所弃的马，而且绰绰有余。卡帕布兰卡还特别强调：白方在后翼牵制黑方的同时，黑方无法阻止h兵前进。",
+      "after": "两个兵、黑王的暴露、黑方在c5受到的牵制，以及白方在c线和d线上发挥作用的车，这些显然足以补偿所弃的马，而且绰绰有余。卡帕布兰卡还特别强调：白方在后翼牵制黑方的同时，黑方无法阻止h兵前进。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "此处commitments指子力被c5责任束缚，译投入易误作主动投资。"
+        }
+      ]
+    },
+    {
+      "segment": "CH12-126",
+      "section": "ch12",
+      "page": 345,
+      "field": "zh",
+      "before": "到此为止，《防守的艺术》的作者一直防守正确，保持着均势。但现在他走错了：准备兑掉这匹重要的马，而它恰恰是王城的主要守卫。正确的是25... Bc6。",
+      "after": "到此为止，《防御的艺术》的作者一直防守正确，保持着均势。但现在他走错了：准备兑掉这匹重要的马，而它恰恰是王城的主要守卫。正确的是25... Bc6。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "同一Kmoch书名与CH10-3统一。"
+        }
+      ]
+    },
+    {
+      "segment": "CH12-138",
+      "section": "ch12",
+      "page": 346,
+      "field": "zh",
+      "before": "c3、d4、e3三兵，d3象以及d2、f3双马，是科勒体系的典型阵形。白方计划实现e3-e4，再在e4格用d2马兑掉黑方f6马，从而在不作投入的情况下，创造一些杀王条件。不过，科勒体系在局面棋方面缺乏深度，因此黑方不必过分担心中心。",
+      "after": "c3、d4、e3三兵，d3象以及d2、f3双马，是科勒体系的典型阵形。白方计划实现e3-e4，再在e4格用d2马兑掉黑方f6马，从而在不承担额外约束的情况下，创造一些杀王条件。不过，科勒体系在局面棋方面缺乏深度，因此黑方不必过分担心中心。",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "without entailing commitments不是完全没有付出时间，而是不因而承担约束。"
+        }
+      ]
+    },
+    {
+      "segment": "PI-24",
+      "section": "players",
+      "page": 350,
+      "field": "zh",
+      "before": "D. 拜恩—菲舍尔 **33**",
+      "after": "D. 伯恩—菲舍尔 **33**",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认与CH2权威稿统一D. Byrne译名，保留首字母区别Burn。"
+        }
+      ]
+    },
+    {
+      "segment": "PI-43",
+      "section": "players",
+      "page": 350,
+      "field": "zh",
+      "before": "菲舍尔—D. 拜恩 33",
+      "after": "菲舍尔—D. 伯恩 33",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认与CH2权威稿统一D. Byrne译名，保留首字母区别Burn。"
+        }
+      ]
+    },
+    {
+      "segment": "PI-49",
+      "section": "players",
+      "page": 350,
+      "field": "zh",
+      "before": "格里戈里奇—科斯蒂奇 **298**、彼得罗相 **32**",
+      "after": "格利戈里奇—科斯蒂奇 **298**、彼得罗相 **32**",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认与较早权威稿及CH11统一Gligorić译名。"
+        }
+      ]
+    },
+    {
+      "segment": "PI-66",
+      "section": "players",
+      "page": 351,
+      "field": "zh",
+      "before": "科斯蒂奇—格里戈里奇 298",
+      "after": "科斯蒂奇—格利戈里奇 298",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认与较早权威稿及CH11统一Gligorić译名。"
+        }
+      ]
+    },
+    {
+      "segment": "PI-98",
+      "section": "players",
+      "page": 351,
+      "field": "zh",
+      "before": "彼得罗相—格里戈里奇 32",
+      "after": "彼得罗相—格利戈里奇 32",
+      "review_reasons": [
+        {
+          "log": "language_review_ch10_indexes_20261018.json",
+          "reason": "按root确认与较早权威稿及CH11统一Gligorić译名。"
+        }
+      ]
+    }
+  ],
+  "source_sha256": {
+    "front_preface": "772d87dd194a7b98040222087f1ef97b192c10c9bdca62c0d2608cc8d6fce63d",
+    "introduction": "b3f0236ea1934bdd72f54c611532818a799430e2eaf7b6c821a4d40641ec45dd",
+    "ch01": "ca505e0f63432448dae3b26fe3e70a73095dbd846471f7c0fd74fe132fb95bb5",
+    "ch02": "f27a95ec2d229e0c35e3c9d724f4030ec4fffdf52208512f8be34c6c9eaad19e",
+    "ch03": "929eadc0a832d7e5bdebc61e6accd6ffcebd66612d1b9b2a7b54f1f3a02253a1",
+    "ch04": "55c1ef8fda0ba19de03a1d1b5d7d33b95116c6b8b6413da8b00ba1c2ba2e97ae",
+    "ch05": "811815d33abd00210d3edb737cc2696f3c8b83b71ca77c48639f33ef58093cd6",
+    "ch06": "696d386c84b049b00d59eb605763bde5bc31d0b0ad867de64b2127e7cf3ce92e",
+    "ch07": "32bab9e7993e4702e3f7f6dffcf9b1cfedfe26d5f1adb502fb5bf1588a428aeb",
+    "ch08": "896b672659aacbce4cf84521eb57eccf03b3dd3daf35326f0a1ab3c67d6c583f",
+    "ch09": "20effe4aebd567dcf9d170ab61d9e08651461cfaba89760371997198d229a055",
+    "ch10": "b13c5989838da6033f332cc3f3325e716b349c257f32332d9e82119d8b0c147f",
+    "ch11": "e46f6fd860f79a5c0ee649a3376a04b4a486204dfd59ee0179291e31cff7ec26",
+    "ch12": "49ab5dedb5061089e0f4b129f8735a4496b578b7df832a50bfd42d908c8c6787",
+    "players": "a572e7b91087e490818a2e0694707e9922587fbedd1fe8ea238a460fd508effb",
+    "openings": "2aa3b880e8038718828725a33d3360c4068515842e52e8a472c00e13bb4e0d39"
+  }
+}

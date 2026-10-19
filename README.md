@@ -4,12 +4,12 @@
 
 ## 当前工作
 
-截至 2026-10-16，Vukovic《Art of Attack in Chess》（国际象棋进攻的艺术）全书初译及扫描校订已完成，已应用此前确认的订正，进入全书校对阶段。统一交付入口是[全书各章中英对照校样](output/pdf/art_of_attack_bilingual_complete/README.md)，包括开篇、导言、十二章与两份索引。具体页数、检查范围和原书疑点见当前书说明与校勘记录。
+截至 2026-10-18，Vukovic《Art of Attack in Chess》（国际象棋进攻的艺术）全书初译、扫描校订及语言复核已完成，已应用此前确认的订正，当前为v3对照校样，进入人工校对阶段。统一交付入口是[全书各章中英对照校样](output/pdf/art_of_attack_bilingual_complete/README.md)，包括开篇、导言、十二章与两份索引。具体页数、检查范围和原书疑点见当前书说明与校勘记录。
 
 | 书籍 | 当前状态 | 入口 |
 | --- | --- | --- |
 | Chess Middlegame Planning | 中文第一版已保存，后续修订须按记录接续 | [译稿说明](translations/chess_middlegame_planning/README.md) · [第一版 PDF](output/pdf/chess_middlegame_planning_zh_first_edition.pdf) |
-| Art of Attack in Chess | 全书初译及对照校样已完成，待用户校对 | [项目说明](translations/art_of_attack/README.md) · [统一校样](output/pdf/art_of_attack_bilingual_complete/README.md) · [订正记录](translations/art_of_attack/translation/USER_CORRECTIONS.md) |
+| Art of Attack in Chess | 全书语言复核及v3对照校样已完成，待用户校对 | [项目说明](translations/art_of_attack/README.md) · [统一校样](output/pdf/art_of_attack_bilingual_complete/README.md) · [订正记录](translations/art_of_attack/translation/USER_CORRECTIONS.md) |
 | Logical Chess Move By Move | 暂缓，已归档原书 | [原书清单](books/README.md) |
 | How to Think in Chess | 暂缓，已归档原书 | [原书清单](books/README.md) |
 

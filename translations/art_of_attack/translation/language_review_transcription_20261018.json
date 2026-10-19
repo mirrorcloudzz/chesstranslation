@@ -1,0 +1,50 @@
+[
+  {
+    "id": "CH10-56",
+    "sourcepage": 253,
+    "field": "text",
+    "before": "In the original edition, this diagram was incorrectly given without the black 1 pawn on b5. Qukovié's comments have been modified to take account of this correction.",
+    "after": "In the original edition, this diagram was incorrectly given without the black pawn on b5. Vuković's comments have been modified to take account of this correction.",
+    "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+  },
+  {
+    "id": "CH10-76",
+    "sourcepage": 256,
+    "field": "text",
+    "before": "However one looks at it, Black is getting into a cramped and difficult position. He cannot make ...f5 work, as is shown by the following variation: I1...Ne8 12. g4 g6 13. Bh6 Ng7 14. O-O-O f5? 15. gxf5 gxf5 16. Rdg1 Rf7 17. exf5 Bxf5 18. Bxg7 when White wins.",
+    "after": "However one looks at it, Black is getting into a cramped and difficult position. He cannot make ...f5 work, as is shown by the following variation: 11... Ne8 12. g4 g6 13. Bh6 Ng7 14. O-O-O f5? 15. gxf5 gxf5 16. Rdg1 Rf7 17. exf5 Bxf5 18. Bxg7 when White wins.",
+    "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+  },
+  {
+    "id": "CH10-101",
+    "sourcepage": 258,
+    "field": "text",
+    "before": "A move which does not belong to the system and only wastes time. At this point Pillsbury usually played 11. Ne5 and his opponents allowed him to strengthen the position of his knight by f4. Marco later showed that after I I Ne5 one should play 11... Nxe5 12. dxe5 Ne8 13. Bf4 g6 14. Bh6 Ng7 15. f4 d4! answering 16. f5 with 16... Bg5.",
+    "after": "A move which does not belong to the system and only wastes time. At this point Pillsbury usually played 11. Ne5 and his opponents allowed him to strengthen the position of his knight by f4. Marco later showed that after 11. Ne5 one should play 11... Nxe5 12. dxe5 Ne8 13. Bf4 g6 14. Bh6 Ng7 15. f4 d4! answering 16. f5 with 16... Bg5.",
+    "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+  },
+  {
+    "id": "CH10-119",
+    "sourcepage": 260,
+    "field": "text",
+    "before": "Black is planning . Qd6, but he should have noted that White will be unable to play the fundamentally important move Nf4 for some time (because of Qxf5). He could therefore have devoted the tempo to preparing ...b4, e.g. by 22... Rc8.",
+    "after": "Black is planning ...Qd6, but he should have noted that White will be unable to play the fundamentally important move Nf4 for some time (because of ...Qxf5). He could therefore have devoted the tempo to preparing ...b4, e.g. by 22... Rc8.",
+    "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+  },
+  {
+    "id": "CH10-250",
+    "sourcepage": 276,
+    "field": "text",
+    "before": "1 Although Vuković is correct with his general principles, the above example is hardly a convincing demonstration; whatever Black plays, he cannot hope to defend the position with most of his pieces stuck far away on the queenside. After 1... Kh8 White can play 2. f5! Nxe5 3. Nh5 Rg8 4. fxg6 fxg6 5. Qg5! Nd7 6. Rf7 with a decisive attack, for example 6... Qc3 7. Rd1 Rdf8 8. Rxd7 Qxd3 9. Qe5+ and mates. Moreover, even one of Vuković’s own lines favours White: after 2. Nh5 Rg8 3. Nf6 Rg7 4. Rf3 Qc3 5. Rd1 Be7 White need not allow the capture on f6 but can simply play 6. Qh4! threatening7 Rh3. Black has nothing better than 6... h5 7. Qg5 Bxf6 8. exf6 Rh7 9. f5 Qe5, but after 10. h4! he is clearly in serious trouble as his rook on h7 is totally out of play.",
+    "after": "1 Although Vuković is correct with his general principles, the above example is hardly a convincing demonstration; whatever Black plays, he cannot hope to defend the position with most of his pieces stuck far away on the queenside. After 1... Kh8 White can play 2. f5! Nxe5 3. Nh5 Rg8 4. fxg6 fxg6 5. Qg5! Nd7 6. Rf7 with a decisive attack, for example 6... Qc3 7. Rd1 Rdf8 8. Rxd7 Qxd3 9. Qe5+ and mates. Moreover, even one of Vuković’s own lines favours White: after 2. Nh5 Rg8 3. Nf6 Rg7 4. Rf3 Qc3 5. Rd1 Be7 White need not allow the capture on f6 but can simply play 6. Qh4! threatening 7. Rh3. Black has nothing better than 6... h5 7. Qg5 Bxf6 8. exf6 Rh7 9. f5 Qe5, but after 10. h4! he is clearly in serious trouble as his rook on h7 is totally out of play.",
+    "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+  },
+  {
+    "id": "CH11-390",
+    "sourcepage": 332,
+    "field": "text",
+    "before": "Another possibility is 1. Nh7, and this leads to even greater material gains; Black is obliged to play I ...Ne4! ! , but after 2. Bxe4 dxe4 3. Nf6+ Qxf6 4. Qxf6 e3 the black pawn forces White's queen to retire, e.g. 5. Qf1 (or 5. Qg5+ Kf8) 5... e2 6. Qe1 Kf8, and White can hardly count on victory.",
+    "after": "Another possibility is 1. Nh7, and this leads to even greater material gains; Black is obliged to play 1... Ne4!, but after 2. Bxe4 dxe4 3. Nf6+ Qxf6 4. Qxf6 e3 the black pawn forces White's queen to retire, e.g. 5. Qf1 (or 5. Qg5+ Kf8) 5... e2 6. Qe1 Kf8, and White can hardly count on victory.",
+    "reason": "2026-10-18直接查看对应原书扫描，修正OCR字形、间距、回合号或评注符号；不改原书走法/评价。"
+  }
+]

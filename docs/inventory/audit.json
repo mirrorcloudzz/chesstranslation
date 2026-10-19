@@ -1,6 +1,6 @@
 {
-  "files": 7244,
-  "bytes": 1393962064,
+  "files": 7339,
+  "bytes": 1434386144,
   "directories": {
     ".gitattributes": 1,
     ".gitignore": 1,
@@ -8,15 +8,15 @@
     "README.md": 1,
     "books": 6,
     "docs": 2,
-    "output": 103,
+    "output": 119,
     "requirements-lock.txt": 1,
     "requirements.txt": 1,
-    "tmp": 4009,
-    "tools": 21,
-    "translations": 3097
+    "tmp": 4059,
+    "tools": 24,
+    "translations": 3123
   },
-  "text_files_read": 1119,
-  "json_files_parsed": 754,
+  "text_files_read": 1151,
+  "json_files_parsed": 768,
   "originals_sha256_match": {
     "Chess Middlegame Planning (Peter Romanovsky) (Z-Library).pdf": true,
     "Logical Chess Move By Move Every Move explained (Irving Chernev) (Z-Library).pdf": true,

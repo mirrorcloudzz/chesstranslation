@@ -64,6 +64,7 @@ def check_section(stem,seeds):
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--sections',nargs='+',default=[f'ch{i:02}' for i in range(1,13)])
+    parser.add_argument('--version',choices=['v2','v3'],default='v2')
     args=parser.parse_args()
     seeds={}
     for file in (PROJECT/'translation').glob('chess_seeds*.json'):
@@ -75,7 +76,7 @@ def main():
             'sections':results,'plies':sum(r['plies'] for r in results),
             'unverified_blocks':sum(len(r['unverified_blocks']) for r in results),
             'san_differences':sum(len(r['san_differences']) for r in results)}
-    suffix='complete_v2' if len(args.sections)==12 else '_'.join(args.sections)+'_v2'
+    suffix=f'complete_{args.version}' if len(args.sections)==12 else '_'.join(args.sections)+'_'+args.version
     (PROJECT/'translation'/f'chess_validation_{suffix}.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(json.dumps({r['section']:{'blocks':len(r['checked_blocks']),'plies':r['plies'],'unverified':len(r['unverified_blocks']),
                      'san_differences':r['san_differences']} for r in results},ensure_ascii=False,indent=2))

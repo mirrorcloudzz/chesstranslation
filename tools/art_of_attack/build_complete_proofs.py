@@ -46,6 +46,8 @@ def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--sections',nargs='+',help='Optional selected sections for incremental generation')
     parser.add_argument('--check-only',action='store_true',help='Validate source and figure coverage without writing')
+    parser.add_argument('--version',choices=['v2','v3'],default='v2')
+    parser.add_argument('--date',default='2026-10-16')
     args=parser.parse_args()
     figures={f['id']:f for f in json.loads((PROJECT/'figures/manifest.json').read_text(encoding='utf-8'))}
     selected=[c for c in NAMES if not args.sections or c[0] in args.sections]
@@ -57,8 +59,9 @@ def main():
         all_items.extend(items)
         print(f'{stem}: {len(items)} segments validated',flush=True)
         if args.check_only:continue
-        config=(stem,title,f'原书第{start}—{end}页',f'{number:02d}_{stem}_bilingual_proof_v2.pdf')
-        result=build(config,items,figures,output_dir=DEST,version='v2',date='2026-10-16')
+        config=(stem,title,f'原书第{start}—{end}页',f'{number:02d}_{stem}_bilingual_proof_{args.version}.pdf')
+        result=build(config,items,figures,output_dir=DEST,version=args.version,date=args.date,
+                     zh_label='中文语言校订稿' if args.version=='v3' else '中文初译稿')
         original=Path(result['path']);numbered=DEST/config[-1]
         original.replace(numbered)
         result['path']=numbered.relative_to(ROOT).as_posix()
@@ -67,7 +70,7 @@ def main():
         print(f'{stem}: {result["pages"]} PDF pages',flush=True)
     if args.check_only:return
     data=PROJECT/'translation'
-    suffix='complete_v2' if not args.sections else '_'.join(args.sections)+'_v2'
+    suffix=f'complete_{args.version}' if not args.sections else '_'.join(args.sections)+'_'+args.version
     (data/f'segments_{suffix}.json').write_text(json.dumps(all_items,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     (data/f'figure_anchors_{suffix}.json').write_text(json.dumps([
         {'figure_id':s['figure_id'],'anchor_segment':s['segment_id'],'caption':s['caption_zh'],'status':s['caption_status']}
@@ -77,12 +80,13 @@ def main():
         assert len(manifest)==16
         (DEST/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
         rows=['# 国际象棋进攻的艺术全书中英对照校样','',
-              '2026-10-16 · v2。英文校订稿在左，中文初译稿在右。包含此前确认的术语与逐段订正，供用户继续校对。',
+              f'{args.date} · {args.version}。英文校订稿在左，中文语言校订稿在右。已完成全书语言复核并保留此前确认的订正，供用户继续校对。' if args.version=='v3' else f'{args.date} · {args.version}。英文校订稿在左，中文初译稿在右。包含此前确认的术语与逐段订正，供用户继续校对。',
               '段号保持稳定；索引页码沿用英文原书页码，便于扫描溯源。','',
               '| 部分 | 校样页数 | 对照单元 | 棋图 | 文件 |','| --- | ---: | ---: | ---: | --- |']
         for m in manifest:rows.append(f'| {m["title"]} | {m["pages"]} | {m["segments"]} | {m["figures"]} | [{Path(m["path"]).name}]({Path(m["path"]).name}) |')
-        rows+=['','生成及核验记录见仓库 `translations/art_of_attack/translation/` 下的 complete_v2 数据与校订记录。',
+        rows+=['',f'生成及核验记录见仓库 `translations/art_of_attack/translation/` 下的 complete_{args.version} 数据与校订记录。',
                '文字、棋谱合法性与版面检查各自记录实际覆盖范围；本校样不是引擎重注本。','']
+        if args.version=='v3':rows+=['旧版16份`*_v2.pdf`留在本文件夹原位作为2026-10-16历史校样；上表只列本次有效v3。','']
         (DEST/'README.md').write_text('\n'.join(rows),encoding='utf-8')
 
 

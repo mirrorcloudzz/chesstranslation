@@ -11,12 +11,12 @@
 
 归档日期：2026-09-23
 
-## 当前安排（2026-10-16整理）
+## 当前安排（2026-10-18更新）
 
 - Romanovsky《Chess Middlegame Planning》：第一版中文成品已保存，保持不变。
 - Chernev《Logical Chess Move By Move》：暂缓。
 - Przewoznik / Soszynski《How to think in chess》：暂缓。
-- Vukovic《Art of Attack in Chess》：全书初译、扫描校订与v2中英对照校样已完成，含十二章及书末索引，待用户校对。[统一校样目录](../output/pdf/art_of_attack_bilingual_complete/README.md)。新书于2026-09-30归档。
+- Vukovic《Art of Attack in Chess》：全书初译、扫描校订、语言复核与v3中英对照校样已完成，含十二章及书末索引，待用户校对。[统一校样目录](../output/pdf/art_of_attack_bilingual_complete/README.md)。新书于2026-09-30归档。
 - [新书资料入口](../translations/art_of_attack/OCR_INDEX.md)
 - [项目总入口](../README.md) · [接续与迁移说明](../docs/HANDOFF.md)
 

@@ -1,10 +1,10 @@
 # 翻译项目接续与迁移说明
 
-整理日期：2026-10-16。当前工作目录为 `D:/Projects/chesstranslation`。历史记录中的 `C:/Users/12059/Documents/Codex/chess` 是旧工作目录；阅读历史记录时将其与本仓库对应，执行脚本前另查代码中的实际路径。
+整理日期：2026-10-18。当前工作目录为 `D:/Projects/chesstranslation`。历史记录中的 `C:/Users/12059/Documents/Codex/chess` 是旧工作目录；阅读历史记录时将其与本仓库对应，执行脚本前另查代码中的实际路径。
 
 ## 当前权威文件
 
-《进攻的艺术》全书初译、扫描校订与v2中英对照校样已完成。持续修订入口是 `translations/art_of_attack/translation/` 内的 `front_preface_v1.md`、`introduction_v1.md`、`ch01_v1.md`至`ch12_v1.md`、`players_v1.md`与`openings_v1.md`。当前有效派生数据为 `segments_complete_v2.json`、`figure_anchors_complete_v2.json`及`proof_manifest_complete_v2.json`。所有章节校样统一保存在 `output/pdf/art_of_attack_bilingual_complete/`。
+《进攻的艺术》全书初译、扫描校订、语言复核与v3中英对照校样已完成。持续修订入口是 `translations/art_of_attack/translation/` 内的 `front_preface_v1.md`、`introduction_v1.md`、`ch01_v1.md`至`ch12_v1.md`、`players_v1.md`与`openings_v1.md`。当前有效派生数据为 `segments_complete_v3.json`、`figure_anchors_complete_v3.json`及`proof_manifest_complete_v3.json`。所有章节校样统一保存在 `output/pdf/art_of_attack_bilingual_complete/`。
 
 前两批v1 JSON、PDF与报告保留历史状态。`ch08/ch11_part1/2_v1.md`与assembly_map记录并行分稿的衔接，合并后的 `ch08_v1.md`、`ch11_v1.md`才是接续修订入口；不能重新以旧part覆盖合并稿。
 
@@ -12,10 +12,12 @@
 
 第一版 PDF 已保存，历史记录为242页、183图。第六章 `53... Qc2+` 等源稿修订与 PDF 更新状态应继续分别确认；“第一版已保存”不表示后来的订正都已纳入。
 
+2026-10-16的16份v2 PDF及complete_v2数据保持原位，作为语言复核前的历史版本。本次修改详情见 `translation/REVIEW_NOTES_language_complete_20261018.md`（相对于当前书目录）。
+
 ## 下一步工作顺序
 
-1. 从统一文件夹的目录选择章节，按v2 PDF中的稳定段号提出校对意见。
-2. 阅读当前书README、USER_CORRECTIONS及各章REVIEW_NOTES。此前确认的订正已纳入当前稿和v2；后续意见继续区分记录、改稿与PDF更新。
+1. 从统一文件夹的目录选择章节，按v3 PDF中的稳定段号提出校对意见。
+2. 阅读当前书README、USER_CORRECTIONS及各章REVIEW_NOTES。此前确认的订正已纳入当前稿和v3；后续意见继续区分记录、改稿与PDF更新。
 3. 修改上述权威Markdown，同步全书有效派生数据及图注锚点；原始OCR、扫描、历史PDF保留。
 4. 对原书7...Rxd8、313页10...a5等疑点保留校勘依据，区分作者、纳恩编者与译者校勘注；不要用引擎判断静默改写原书。
 5. 只有明确要求更新校样时才运行全书生成器与QA。源稿的完整页码覆盖、棋图数量、棋谱合法性、文字覆盖与视觉质量分别验收。

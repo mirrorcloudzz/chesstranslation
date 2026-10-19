@@ -1,15 +1,15 @@
 # Art of Attack in Chess 翻译资料
 
-2026-10-16：全书开篇材料、导言、十二章及两份索引的中文初译与扫描校订已完成。当前统一交付为v2中英对照校样，16份PDF、481页、3410个对照单元、332幅原书棋图，待用户继续校对。
+2026-10-18：全书已完成逐单元中英语言复核并修订143个单元。当前为v3中英对照校样，16份PDF、482页、3410个对照单元、332幅原书棋图，供用户人工校对。
 
 ## 当前全书校样与权威稿
 
 - [统一校样文件夹及目录](../../output/pdf/art_of_attack_bilingual_complete/README.md)。所有章节在同一文件夹，各章独立PDF。
 - 人工修订入口：`translation/front_preface_v1.md`、`introduction_v1.md`、`ch01_v1.md`至`ch12_v1.md`、`players_v1.md`、`openings_v1.md`。这些是持续修订的源稿，文件名中的v1不代表仍停留在原校样状态。
-- [全书结构化数据](translation/segments_complete_v2.json)、[校样清单](translation/proof_manifest_complete_v2.json)、[棋图锚点](translation/figure_anchors_complete_v2.json)。这些是当前有效派生数据；早期分批v1 JSON、PDF及其报告保留历史版本，不替代全书v2。
-- [当前版面检查](translation/layout_validation_complete_v2.json)与[视觉复核记录](translation/REVIEW_NOTES_visual_complete_v2.md)。文字覆盖、边界、棋图数量与图文锚点逐项检查；视觉复核按记录的最新渲染范围执行。
-- [当前棋谱检查](translation/chess_validation_complete_v2.json)：明确列出可从已知初始局面验证的moves单元、未提供起始局面的片段与未穷尽的正文变化；另见各章校勘记录及第六章独立FEN核验。合法性检查不是引擎评价，不表示所有原书分析结论均正确。
-- [用户订正应用记录](translation/USER_CORRECTIONS.md)、[逐字段修改日志](translation/confirmed_corrections_applied_20261016.json)、[SAN格式整理日志](translation/san_typography_changes_20261016.json)。IN-40、古典弃象、positional、人名、开局接受/拒弃兵命名、伊文斯弃兵和盲棋车轮战等已落实至当前稿及v2校样。
+- [全书结构化数据](translation/segments_complete_v3.json)、[校样清单](translation/proof_manifest_complete_v3.json)、[棋图锚点](translation/figure_anchors_complete_v3.json)。这些是当前有效派生数据；早期分批v1 JSON、PDF及其报告保留历史版本，不替代全书v3。
+- [当前版面检查](translation/layout_validation_complete_v3.json)与[视觉复核记录](translation/REVIEW_NOTES_visual_complete_v3.md)。文字覆盖、边界、棋图数量与图文锚点逐项检查；视觉复核按记录的最新渲染范围执行。
+- [当前棋谱检查](translation/chess_validation_complete_v3.json)：明确列出可从已知初始局面验证的moves单元、未提供起始局面的片段与未穷尽的正文变化；另见各章校勘记录及第六章独立FEN核验。合法性检查不是引擎评价，不表示所有原书分析结论均正确。
+- [用户订正应用记录](translation/USER_CORRECTIONS.md)、[逐字段修改日志](translation/confirmed_corrections_applied_20261016.json)、[SAN格式整理日志](translation/san_typography_changes_20261016.json)。IN-40、古典弃象、positional、人名、开局接受/拒弃兵命名、伊文斯弃兵和盲棋车轮战等已落实至当前稿及v3校样。
 
 352张完整扫描页、352页原始OCR及332张棋图继续独立保存，未以人工校订覆盖。来源入口：[英文OCR目录](OCR_INDEX.md) · [准备记录](PREPARATION_NOTES.md) · [棋图浏览](qa/figure_gallery.html)。
 
@@ -23,9 +23,15 @@
 - [第十、十一章](translation/REVIEW_NOTES_ch10_ch11.md)：包括第313页10...a5到10...Na5的显式校勘依据。
 - [第十二章与索引](translation/REVIEW_NOTES_ch12_indexes.md)：含图面与(D)提示不一致的处理。
 
+
+## 2026-10-18语言复核
+
+- [全书复核报告](translation/REVIEW_NOTES_language_complete_20261018.md) · [完整修改日志](translation/language_review_complete_20261018.json)。
+- v2 PDF及complete_v2数据保留原位作为2026-10-16历史快照；当前入口以上方v3为准。
+
 ## 早期v1记录
 
-以下保留早期分批交付及2026-10-12、13规则确认的历史背景。其中“尚未改稿”“待应用”等描述属于当时状态；当前应用状态以上方v2及用户订正记录为准。
+以下保留早期分批交付及2026-10-12、13规则确认的历史背景。其中“尚未改稿”“待应用”等描述属于当时状态；当前应用状态以上方v3及用户订正记录为准。
 
 
 

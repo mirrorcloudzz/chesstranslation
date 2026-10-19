@@ -94,7 +94,7 @@ ZH: 伯恩—齐果林 16、E. 科恩 **96**、马歇尔 289
 
 ## PI-24 | 350 | paragraph
 EN: D. Byrne – Fischer **33**
-ZH: D. 拜恩—菲舍尔 **33**
+ZH: D. 伯恩—菲舍尔 **33**
 
 ## PI-25 | 350 | paragraph
 EN: Capablanca – Bernstein 142, Colle 346, Coria 83, R. Illa **98**, Kan **316**, Molina **135**, Nimzowitsch **151**, **190**, Ragozin **256**, Schroeder **341**, Winter 186
@@ -170,7 +170,7 @@ ZH: 法因—凯列斯 204
 
 ## PI-43 | 350 | paragraph
 EN: Fischer – D. Byrne 33
-ZH: 菲舍尔—D. 拜恩 33
+ZH: 菲舍尔—D. 伯恩 33
 
 ## PI-44 | 350 | paragraph
 EN: Flohr – Euwe 114, NN **147**, Stoltz **152**
@@ -194,7 +194,7 @@ ZH: 吉尔格—阿廖欣 297
 
 ## PI-49 | 350 | paragraph
 EN: Gligorić – Kostić **298**, Petrosian **32**
-ZH: 格里戈里奇—科斯蒂奇 **298**、彼得罗相 **32**
+ZH: 格利戈里奇—科斯蒂奇 **298**、彼得罗相 **32**
 
 ## PI-50 | 350 | paragraph
 EN: Golmayo – Steinitz 167
@@ -262,7 +262,7 @@ ZH: 克尼希—H. 魏斯 **218**
 
 ## PI-66 | 351 | paragraph
 EN: Kostić – Gligorić 298
-ZH: 科斯蒂奇—格里戈里奇 298
+ZH: 科斯蒂奇—格利戈里奇 298
 
 ## PI-67 | 351 | paragraph
 EN: Kotov – Averbakh 32, Bernstein 190, Bondarevsky **31**, Geller 182, Keres 22, **287**, Kottnauer 131, Szabo 90, Tolush 220
@@ -390,7 +390,7 @@ ZH: L. 保尔森—斯坦尼茨 191
 
 ## PI-98 | 351 | paragraph
 EN: Petrosian – Gligorić 32
-ZH: 彼得罗相—格里戈里奇 32
+ZH: 彼得罗相—格利戈里奇 32
 
 ## PI-99 | 351 | paragraph
 EN: Petrov – Keres 210

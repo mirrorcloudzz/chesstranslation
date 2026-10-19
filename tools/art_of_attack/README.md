@@ -18,18 +18,22 @@
 
 ## 全书翻译和校样
 
-全书人工修订以 `translation/` 内开篇、导言、ch01—ch12、players与openings的 `*_v1.md` 为准；文件名沿用原有稳定版本名。当前统一校样为 `output/pdf/art_of_attack_bilingual_complete/` 中的v2，各章独立PDF。
+全书人工修订以 `translation/` 内开篇、导言、ch01—ch12、players与openings的 `*_v1.md` 为准；文件名沿用原有稳定版本名。当前统一校样为 `output/pdf/art_of_attack_bilingual_complete/` 中的v3语言校订版，各章独立PDF；旧v2及其complete_v2数据保留历史状态。
 
 以下命令供明确要求更新校样时使用，需从项目根目录运行：
 
 ```powershell
-.\.venv\Scripts\python.exe tools/art_of_attack/build_complete_proofs.py --check-only
-.\.venv\Scripts\python.exe tools/art_of_attack/build_complete_proofs.py
-.\.venv\Scripts\python.exe tools/art_of_attack/qa_complete_proofs.py
-.\.venv\Scripts\python.exe tools/art_of_attack/validate_complete_chess.py
+.\.venv\Scripts\python.exe tools/art_of_attack/build_complete_proofs.py --check-only --version v3
+.\.venv\Scripts\python.exe tools/art_of_attack/build_complete_proofs.py --version v3 --date 2026-10-18
+.\.venv\Scripts\python.exe tools/art_of_attack/qa_complete_proofs.py --version v3
+.\.venv\Scripts\python.exe tools/art_of_attack/validate_complete_chess.py --version v3
 ```
 
 `--sections ch06`等参数可限定生成与检查范围。`qa_complete_proofs.py`逐段核对英文及中文、检查边界与图文同页，并渲染所有页；最终还须查看联系图与代表性完整页。正文中无法从已知局面接续的片段会在棋谱报告中列为未验证，不视为自动通过。
+
+为兼容历史命令，以上工具默认仍为v2；当前工作必须显式传入`--version v3`，不能把默认重跑当作只读检查。v3页面与派生数据另存，统一目录README与manifest指向当前版本。
+
+2026-10-18语言复核记录与各单元修改日志在`translation/REVIEW_NOTES_language_complete_20261018.md`。`check_language_review_20261018.py`比较当前源稿与未修改的v2快照，汇总有理由的变更并检查受保护字段、十处扫描确认的英文转写例外和旧PDF校验值；这是结构回归，不能自动判断语言。`finalize_language_review_20261018.py`仅在对应v3 QA、源稿哈希和视觉记录均齐全后更新接续文档。
 
 `assemble_translation.py`只用于本次并行分稿的组装和SAN格式整理；part文件和assembly_map保留溯源。用户开始修订合并稿后，不应重新合并旧part覆盖当前稿。`apply_confirmed_corrections.py`限定处理此前记录的前五章订正；对应完整逐字段日志已保存。
 
